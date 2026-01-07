@@ -122,7 +122,7 @@ def run_single_gsea_prerank(
         permutation_num=permutation_num,
         #outdir='./',
         seed=seed,
-        verbose=verbose,
+        verbose=True,
     )
     # Attach term collection information to each result in the dictionary.
     for key, value in single_pre_res.results.items():
@@ -150,7 +150,6 @@ def make_results_dataframe(
     """
     if collection_name is None:
         collection_name = getattr(single_pre_res, 'gene_sets', 'Unknown_TermCollection')
-    df = pd.DataFrame()
     try:
         df = pd.DataFrame(single_pre_res.results).T
         # Filter for gene sets with enough matched genes.
@@ -177,7 +176,7 @@ def make_results_dataframe(
             df.to_csv(out_file, index=False, )# quoting=csv.QUOTE_MINIMAL
             LOGGER.info(f"Results saved for {collection_name} at {out_file}")
     except Exception as e:
-        LOGGER.exception("Error making results DataFrame for %s", collection_name)
+        LOGGER.info(f"Error making results DataFrame for {collection_name}: {e}")
     return df
 
 

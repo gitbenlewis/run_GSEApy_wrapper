@@ -6,4 +6,6 @@ from .gseapy_pre_rank_wrap_v1 import (
     run_gseapy_prerank_multiple_term_collections,
     process_input_table,
     run_single_gsea_prerank,
+    geneset_table_with_multiple_feature_label_split_to_gseapy_gmt,
+    metabolon_chemical_annotation_to_pathway_table,
 )
