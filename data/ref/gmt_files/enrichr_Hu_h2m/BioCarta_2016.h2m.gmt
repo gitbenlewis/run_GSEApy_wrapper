@@ -1,0 +1,237 @@
+ADP-Ribosylation Factor Homo sapiens h arapPathway	BioCarta_2016	Arfgef2	Gpld1	Ralbp1	Arfgef1	Gbf1	Arap1	Arap2	Arfgap3	Arfgap1	Kdelr3	Copa	Kdelr1	Ncf2	Kdelr2	Arf1	Cltb	Clta	Asap2	Arhgap1	Arhgap6	Arhgap4	Arhgap5	Cyth4	Cyth3	Asap1	Chn1	Cyth2	Cyth1
+AKAP95 role in mitosis and chromosome dynamics Homo sapiens h akap95Pathway	BioCarta_2016	Ddx5	Npy4r	Akap8	Prkag1	Ppp2r5d	Ccnb1	Prkar2b	Prkar2a	Ncapd2	Cdk1	Prkacb
+AKT Signaling Pathway Homo sapiens h aktPathway	BioCarta_2016	Rela	Hsp90aa1	Bad	Chuk	Pdpk1	Fasl	Foxo4	Foxo3	Gh	Ppp2ca	Foxo1	Ghr	Nfkbia	Casp9	Pik3r1	Pik3ca	Akt1	Ywhah
+ALK in cardiac myocytes Homo sapiens h alkPathway	BioCarta_2016	Tgfb1	Smad5	Tgfb3	Mef2c	Tgfb2	Smad4	Nog	Smad1	Rfc1	Smad6	Tgfbr1	Bmp7	Tgfbr2	Bmp5	Bmp4	Bmp2	Myl2	Bmpr1a	Atf2	Bmpr2	Bmp10	Chrd	Gata4	Nppa	Nppb	Map3k7	Nkx2-5
+ATM Signaling Pathway Homo sapiens h atmPathway	BioCarta_2016	Rela	Jun	Gadd45a	Brca1	Rpa1	Trp73	Nfkbia	Rad51	Mapk8	Chek1	Chek2	Atm	Trex1	Abl1	Rbbp8	Trp53	Atr	Mdm2
+Acetylation and Deacetylation of RelA in Nucleus Homo sapiens h RELAPathway	BioCarta_2016	Crebbp	Nfkbia	Rela	Hdac3	Ep300
+Actions of Nitric Oxide in the Heart Homo sapiens h no1Pathway	BioCarta_2016	Gucy1a2	Hsp90aa1	Nos3	Pdpk1	Cav1	Vegfa	Gnb1	Pik3r1	Prkar1b	Pik3ca	Prkar1a	Pde3b	Pde3a	Gucy2e	Ryr2	Gucy2c	Chrna1	Flt1	Gucy2f	Chrm1	Flt4	Camk2b	Slc7a1	Kng1	Pln	Gngt1	Prkar2b	Prkar2a	Pde2a	Akt1	Bdkrb2	Kdr	Plcg1	Prkacb	Prkg2	Tnni1	Prkg1
+Activation of Csk by cAMP-dependent Protein Kinase Inhibits Signaling through the T Cell Receptor Homo sapiens h CSKPathway	BioCarta_2016	Edn1	Crebbp	F2	Agt	Cxcl12	Lck	Ptprc	Zap70	Cd4	Gnb1	Prkar1b	Prkar1a	Agtr2	H2-Ea	Gnas	Cd247	H2-Eb2	Chrm1	Adcy1	Ptger1	Ccl11	Htr2c	Fpr1	Adrb2	Cd3g	Adra1b	Cd3e	Cd3d	Gngt1	Ednra	Ednrb	Prkar2b	Cxcr4	Prkar2a	P2ry2	Ccl4	Csk	Prkacb	Ccr5	Ccr3
+Activation of PKC through G-protein coupled receptors Homo sapiens h pkcPathway	BioCarta_2016	Ppp1r14a	Edn1	Cxcl12	Ccl11	Ccl4	Prkcb	F2	Prkca	Agt	Plcb1
+Activation of cAMP-dependent protein kinase, PKA Homo sapiens h gsPathway	BioCarta_2016	Edn1	F2	Agt	Cxcl12	Gnb1	Prkar1b	Prkar1a	Agtr2	Gnas	Chrm1	Adcy1	Ptger1	Ccl11	Htr2c	Fpr1	Adrb2	Adra1b	Gngt1	Ednra	Ednrb	Prkar2b	Cxcr4	Prkar2a	P2ry2	Ccl4	Prkacb	Ccr5	Ccr3
+Agrin in Postsynaptic Differentiation Homo sapiens h agrPathway	BioCarta_2016	Itga1	Jun	Lamb3	Nrg1	Nrg2	Lamb2	Nrg3	Lamb1	Ptk2	Cdc42	Acta1	Sp1	Cttn	Rapsn	Utrn	Arhgef6	Agrn	Arhgef7	Chrna1	Itgb1	Chrm1	Src	Lama3	Pxn	Lama2	Lama5	Lama4	Lamc1	Lama1	Lamc3	Lamc2	Egfr	Pak2	Mapk8	Pak1	Dvl1	Mapk3	Dag1	Mapk1	Rac1	Musk	Dmd	Pak4	Pak3	Git2	Pak6
+Alternative Complement Pathway Homo sapiens h alternativePathway	BioCarta_2016	C8g	Cfd	AI182371	C6	C7	C9	C8a	Cfp	C8b	C3
+Angiotensin II mediated activation of JNK Pathway via Pyk2 dependent signaling Homo sapiens h At1rPathway	BioCarta_2016	Map2k4	Mef2a	Map3k1	Map2k2	Mef2d	Jun	Mef2c	Map2k1	Fos	Prkcb	Prkca	Agt	Agtr1b	Grb2	Bcar1	Sos1	Raf1	Atf2	Src	Shc1	Camk2b	Elk1	Egfr	Crkl	Mapk8	Pak1	Mapk3	Ptk2b	Plcg1	Hras	Mapk1	Rac1
+Antigen Processing and Presentation Homo sapiens h mhcPathway	BioCarta_2016	Psmb8	Psmb5	Cd74	Psmb6	H2-Ea	Tap2	2410137M14Rik	Tap1	Klk1b24	B2m	Psmb9	H2-Eb2
+Apoptotic DNA fragmentation and tissue homeostasis Homo sapiens h DNAfragmentPathway	BioCarta_2016	Endog	Dffb	Dffa	Casp7	Gzmc	Casp3	Hmgb2
+Apoptotic Signaling in Response to DNA Damage Homo sapiens h chemicalPathway	BioCarta_2016	Bad	Apaf1	Casp9	Casp6	Casp7	Bcl2l1	Akt1	Atm	Bcl2	Bax	Casp3	Gm10053	Bid	Trp53
+Aspirin Blocks Signaling Pathway Involved in Platelet Activation Homo sapiens h sppaPathway	BioCarta_2016	F2r	Map2k1	Pla2g4a	Prkcb	F2	Prkca	Gnai1	Ptgs1	Gngt1	Gnb1	Tbxas1	Mapk3	Hras	Mapk1	F2rl3	Plcb1	Raf1
+Attenuation of GPCR Signaling Homo sapiens h agpcrPathway	BioCarta_2016	Prkcb	Prkca	Gngt1	Grk4	Gnb1	Prkar1b	Arrb1	Prkar2b	Prkar1a	Prkar2a	Gnas	Prkacb
+B Cell Survival Pathway Homo sapiens h bcellsurvivalPathway	BioCarta_2016	Itga1	Cct4	Itgb1	Zbtb7a	Pdpk1	Mtor	Pik3r1	Pik3ca	Casp7	Dpf2	Birc5	Akt1	Casp3
+BCR Signaling Pathway Homo sapiens h bcrPathway	BioCarta_2016	Lyn	Map3k1	Jun	Map2k1	Syk	Csnk2a1	Fos	Prkcb	Nfatc1	Prkca	Vav1	Mapk14	Bcr	Btk	Grb2	Sos1	Raf1	Shc1	Camk2b	Elk1	Ppp3ca	Ppp3cb	Cd79b	Ppp3cc	Cd79a	Mapk8	Mapk3	Blnk	Plcg1	Hras	Rac1
+BRCA1-dependent Ub-ligase activity Homo sapiens h bard1Pathway	BioCarta_2016	Fancd2	Fanca	Brca1	Fancc	Fancf	Fance	Fancg	Bard1
+BTG family proteins and cell cycle regulation Homo sapiens h btg2Pathway	BioCarta_2016	Chaf1a	Rb1	Chaf1b	Btg2	Btg1	Ccnd1	Prmt1	Hoxb9	Trp53
+Basic Mechanisms of SUMOylation Homo sapiens h sumoPathway	BioCarta_2016	Ube2i	Sumo1	Uba2	Sae1
+Basic mechanism of action of PPARa, PPARb(d) and PPARg and effects on gene expression Homo sapiens h pparPathway	BioCarta_2016	Rxra	Ppara	Pparg	Ptgs1	Ppard
+Beta-arrestins in GPCR Desensitization Homo sapiens h bArrestinPathway	BioCarta_2016	Edn1	Ppara	F2	Agt	Dnm1	Cxcl12	Gnb1	Agtr2	Gnas	Chrm1	Ptger1	Ccl11	Htr2c	Fpr1	Adrb2	Ap2a1	Adra1b	Gngt1	Ednra	Ednrb	Arrb1	Cxcr4	P2ry2	Ccl4	Ccr5	Ap2m1	Ccr3
+Bioactive Peptide Induced Signaling Pathway Homo sapiens h biopeptidesPathway	BioCarta_2016	Stat5b	Stat1	Stat3	Prkcb	Prkca	Agt	Mapk14	Gnb1	Mapt	Pik3r1	Cdk5	Pik3ca	Agtr2	Grb2	Sos1	Shc1	Camk2a	Camk2b	Gnai1	Mylk	Gngt1	Mapk8	Gna11	Mapk3	Ptk2b	Plcg1	Hras	Mapk1	Fyn	Camk2g	Jak2	Stat5a
+Bone Remodeling Homo sapiens h ranklPathway	BioCarta_2016	Rela	Tnfrsf11a	Chuk	Fos	Fosl2	Ikbkb	Nfkbia	Fosl1	Mapk8	Traf6	Tnfsf11	Irf9	Ifnb1	Ikbkg	Ifnar1	Ifnar2
+CARM1 and Regulation of the Estrogen Receptor Homo sapiens h carm-erPathway	BioCarta_2016	Grip1	Gtf2a1	Crebbp	Polr2a	Mef2c	Ep300	Carm1	Gtf3a	Gtf2f1	Esr1	Gtf2e1	Nr3c1
+CBL mediated ligand-induced downregulation of EGF receptors Homo sapiens h cblPathway	BioCarta_2016	Src	Egf	Sh3kbp1	Prkcb	Prkca	Grb2	Egfr	Cbl
+CCR3 signaling in Eosinophils Homo sapiens h CCR3Pathway	BioCarta_2016	Rhoa	Ppp1r12b	Ccl11	Limk1	Rock2	Map2k1	Prkcb	Pik3c2g	Prkca	Ptk2	Gngt1	Gnb1	Myl2	Cfl1	Mapk3	Gnas	Hras	Mapk1	Decr1	Ccr3	Plcb1	Raf1
+CD40L Signaling Pathway Homo sapiens h cd40Pathway	BioCarta_2016	Nfkbia	Rela	Map3k1	Cd40	Traf6	Tnfaip3	Traf3	Cd40lg	Map4k4
+CDK Regulation of DNA Replication Homo sapiens h mcmPathway	BioCarta_2016	Cdkn1b	Cdt1	Cdc6	Orc6	Orc5	Kitl	Orc2	Orc1	Ccne1	Orc4	Orc3	Cdk2	Mcm4	Mcm5	Mcm6	Mcm7	Mcm2	Mcm3
+CTCF: First Multivalent Nuclear Factor Homo sapiens h ctcfPathway	BioCarta_2016	Tgfb1	Cdkn1b	Smad5	Tgfb3	Tgfb2	Smad4	Smad1	Ppp2r5d	Ctcf	Mtor	Smad6	Tgfbr1	Tgfbr2	Bcr	Cd79b	Cd79a	Pik3r1	Pik3ca	Rps6kb1	Myc	Mdm2
+CXCR4 Signaling Pathway Homo sapiens h cxcr4Pathway	BioCarta_2016	Gngt1	Cxcl12	Gnb1	Pik3r1	Pik3ca	Cxcr4	Plcg1	Hras	Pik3c2g	Gnai1
+Ca++/ Calmodulin-dependent Protein Kinase Activation Homo sapiens h CaCaMPathway	BioCarta_2016	Creb1	Camk2a	Camk2b	Camk4	Camk2g	Camkk1	Camkk2
+Cadmium induces DNA synthesis and proliferation in macrophages Homo sapiens h cdMacPathway	BioCarta_2016	Rela	Map2k2	Jun	Map2k1	Fos	Tnf	Prkcb	Prkca	Cuzd1	Nfkbia	Myc	Mapk3	Hras	Mapk1	Plcb1	Raf1
+Calcium Signaling by HBx of Hepatitis B virus Homo sapiens h HBxPathway	BioCarta_2016	Src	Jun	Shc1	Map2k1	Csnk2a1	Camk2b	Fos	Creb1	Mapk3	Ptk2b	Hras	Grb2	Lamtor5	Sos1	Raf1
+Cardiac Protection Against ROS  Homo sapiens h flumazenilPathway	BioCarta_2016	Gabra3	Gpx1	Gabra2	Gabra1	Gabra6	Gabra5	Gabra4	Prkce	Sod3	Sod1	Sod2
+Caspase Cascade in Apoptosis Homo sapiens h caspasePathway	BioCarta_2016	Srebf1	Dffb	Dffa	Apaf1	Gzmc	Parp1	Lmnb1	Prf1	Lmnb2	Lmna	Casp8	Casp9	Casp6	Casp7	Arhgdib	Xiap	Casp2	Casp3	Casp1	Birc2	Birc3
+Cell Cycle: G1/S Check Point  Homo sapiens h g1Pathway	BioCarta_2016	Tgfb1	Smad3	Smad4	Cdkn2b	Cdc25a	Dhfr	Tfdp1	Ccna1	Cdk6	Cdk4	Ccne1	Cdk2	Atm	Cdk1	Trp53	Atr	Rb1	Cdkn1b	Gsk3b	Hdac1	Cdkn1a	Ccnd1	E2f1	Abl1	Skp2
+Cell Cycle: G2/M Checkpoint Homo sapiens h g2Pathway	BioCarta_2016	Cdkn2d	Rasgrf1	Cdkn1a	Gadd45a	Brca1	Prkdc	Myt1	Wee1	Cdc34	Ccnb1	Chek1	Rps6ka1	Ep300	Chek2	Atm	Cdk1	Pi4ka	Sfn	Trp53	Atr	Ywhah	Mdm2
+Cell to Cell Adhesion Signaling Homo sapiens h cell2cellPathway	BioCarta_2016	Src	Acta1	Pxn	Cdh1	Ctnnb1	Ptpn11	Pecam1	Ctnna1	Csk	Bcar1	Ptk2	Vcl
+Ceramide Signaling Pathway Homo sapiens h ceramidePathway	BioCarta_2016	Map2k4	Map3k1	Map2k2	Bad	Ksr1	Map2k1	Chuk	Cradd	Traf2	Tnfrsf1a	Madd	Nfkbia	Bcl2	Bax	Gm10053	Nsmaf	Birc3	Raf1	Rela	Tradd	Tnf	Ikbkb	Casp8	Mapk8	Bag4	Smpd1	Aifm1	Mapk3	Fadd	Mapk1	Ripk1	Ikbkg	Map4k4
+ChREBP regulation by carbohydrates and cAMP Homo sapiens h chrebpPathway	BioCarta_2016	Edn1	Pklr	F2	Ppp2r5d	Prkab1	Agt	Prkab2	Cxcl12	Gnb1	Prkar1b	Prkar1a	Mlxipl	Agtr2	Gnas	Acsbg1	Chrm1	Prkaa2	Adcy1	Ptger1	Ccl11	Acsm1	Htr2c	Prkag2	Fpr1	Adrb2	Prkag1	Adra1b	Prkaa1	Gngt1	Ednra	Ednrb	Prkar2b	Cxcr4	Prkar2a	P2ry2	Ccl4	Prkacb	Ccr5	Ccr3
+Chaperones modulate interferon Signaling Pathway Homo sapiens h tidPathway	BioCarta_2016	Rb1	Rela	Ifngr1	Chuk	Lin7a	Ush1c	Ikbkb	Nfkbia	Wt1	Ifng	Dnaja3	Hspa1b	Cntn2	Tax1bp3	Ikbkg	Trp53	Jak2
+Chromatin Remodeling by hSWI/SNF ATP-dependent Complexes Homo sapiens h hSWI-SNFpathway	BioCarta_2016	Gtf2a1	Smarcd1	Smarcc1	Smarcb1	Smarcc2	Gtf2b	Smarce1	Gtf3a	Gtf2f1	Arid1a	Gtf2e1	Nr3c1	Smarca4	Actb	Polr2a	Nf1
+Classical Complement Pathway Homo sapiens h classicPathway	BioCarta_2016	C1qc	C1qb	C1rb	C1qa	C1s1	C8a	C8b	C2	C4b	C3	C8g	AI182371	C6	C7	C9
+Control of Gene Expression by Vitamin D Receptor Homo sapiens h vdrPathway	BioCarta_2016	Med1	Ncoa2	Crebbp	Smarcc1	Ncoa3	Smarcc2	Vdr	Ncoa1	Supt16	Actl6a	Smarce1	Tsc2	Prmt1	Arid1a	Baz1b	Smarca4	Ncor1	Kat2b	Snw1	Cops2	Carm1	Smarcd1	Top2b	Hdac1	Chaf1a	Rxra	Ep300
+Control of skeletal myogenesis by HDAC and calcium/calmodulin-dependent kinase (CaMK) Homo sapiens h hdacPathway	BioCarta_2016	Hdac5	Cabin1	Crebbp	Mef2a	Mef2d	Mef2c	Pdpk1	Camk2b	Myod1	Nfatc1	Mapk14	Grip1	Kat2b	Pik3r1	Pik3ca	Ep300	Akt1	Avp	Mapk7	Ywhah
+Corticosteroids and cardioprotection Homo sapiens h gcrPathway	BioCarta_2016	Edn1	Anxa1	Hsp90aa1	Nos3	Pdpk1	Cav1	F2	Agt	Cxcl12	Gnb1	Pik3r1	Pik3ca	Gnas	Rela	Ccl11	Camk2b	Adrb2	Nr3c1	Kng1	Gngt1	Nppa	Ccl4	Akt1	Bdkrb2	Corin
+Cyclin E Destruction Pathway Homo sapiens h fbw7Pathway	BioCarta_2016	Rb1	Tfdp1	Cdc34	Fbxw7	Ccne1	E2f1	Cdk2	Cul1	Skp1
+Cycling of Ran in nucleocytoplasmic transport Homo sapiens h ranPathway	BioCarta_2016	Ranbp2	Ranbp1	Nup62	Nup214	Rcc1	Nup153	Nup210	Rangap1	Ran
+Cyclins and Cell Cycle Regulation Homo sapiens h cellcyclePathway	BioCarta_2016	Rb1	Cdkn2c	Cdkn1b	Cdkn2d	Cdkn1a	Cdkn2b	Ccnh	Cdc25a	Rbl1	Tfdp1	Ccna1	Ccnb1	Cdk7	Ccnd3	Ccnd2	Cdk6	Ccnd1	Cdk4	Ccne1	E2f1	Cdk2	Cdk1
+Cystic fibrosis transmembrane conductance regulator (CFTR) and beta 2 adrenergic receptor (b2AR) pathway Homo sapiens h cftrPathway	BioCarta_2016	Edn1	Adcy1	Ccl11	Adrb2	F2	Agt	Gngt1	Cxcl12	Gnb1	Prkar1b	Prkar2b	Prkar1a	Prkar2a	Ccl4	Gnas	Prkacb	Ezr	Cftr
+D4-GDI Signaling Pathway Homo sapiens h d4gdiPathway	BioCarta_2016	Rhoa	Jun	Arhgdib	Casp3	Casp1	Arhgap5
+Deregulation of CDK5 in Alzheimers Disease Homo sapiens h p35alzheimersPathway	BioCarta_2016	App	Gsk3b	Mapt	Cdk5	Capn1	Ppp2r5d	Cdk5r1
+Double Stranded RNA Induced Gene Expression Homo sapiens h rnaPathway	BioCarta_2016	Rela	Chuk	Ifna4	Eif2ak2	Eif2s2	Eif2s1	Ikbkb	Nfkbia	Dnajc3	Ifnb1	Ikbkg	Trp53	Map4k4
+Downregulated of MTA-3 in ER-negative Breast Tumors Homo sapiens h mta3Pathway	BioCarta_2016	Hdac1	Greb1	Mbd3	Tuba1a	Tuba3b	Pdzk1	Esr1	Hspb1	Tuba4a	Tuba8	Tuba1c	Cdh1	Snai2	Snai3	Snai1	Mta3	Aldoa	Ctsd	Gapdhrt
+E2F1 Destruction Pathway Homo sapiens h skp2e2fPathway	BioCarta_2016	Rb1	Tfdp1	Ccna1	Cdc34	Ccne1	E2f1	Cdk2	Cul1	Skp1	Skp2
+EGF Signaling Pathway Homo sapiens h egfPathway	BioCarta_2016	Map2k4	Egf	Map3k1	Stat1	Shc1	Map2k1	Stat3	Prkcb	Prkca	Elk1	Egfr	Rasa1	Mapk8	Pik3r1	Pik3ca	Plcg1	Hras	Grb2	Jak1	Sos1
+EPO Signaling Pathway Homo sapiens h epoPathway	BioCarta_2016	Stat5b	Epo	Shc1	Plcg1	Hras	Grb2	Epor	Ptpn6	Jak2	Stat5a	Sos1
+ER?associated degradation (ERAD) Pathway Homo sapiens h eradPathway	BioCarta_2016	Ube2i	Edem1	Fbxo2	Mogs	Cul1	Rbx1	Ganab	Man2a2	Sec61a1	Canx	Man2c1	Man1b1	Man1c1	Man1a2	Man2b1	Man1a	Uggt1	Skp1	Sae1
+Effects of calcineurin in Keratinocyte Differentiation Homo sapiens h calcineurinPathway	BioCarta_2016	Cdkn1a	Camk2b	Prkcb	Nfatc1	Prkca	Ppp3ca	Ppp3cb	Ppp3cc	Sp1	Marcks	Sp3	Plcg1
+Eicosanoid Metabolism Homo sapiens h eicosanoidPathway	BioCarta_2016	Ptgfr	Ptgis	Ephx1	Ptger1	Pla2g1b	Ptgir	Ptger2	Ptger3	Ephx2	Ptger4	Alox5ap	Mpo	Ptgs1	Hpgds	Tbxa2r	Cysltr1	Tbxas1	Alox5	Ptges	Cyp2j13	Plcb1
+Endocytotic role of NDK, Phosphins and Dynamin Homo sapiens h ndkDynaminPathway	BioCarta_2016	Camk2b	Ap2a1	Epn1	Dnm1	Nme1	Nme2	Ppp3ca	Picalm	Ppp3cb	Ppp3cc	Synj2	Synj1	Bin2	Bin1	Eps15	Ap2m1
+Erk and PI-3 Kinase Are Necessary for Collagen Binding in Corneal Epithelia Homo sapiens h ecmPathway	BioCarta_2016	Itga1	Gsn	Rhoa	Actn4	Actn3	Map2k1	Actn2	Actn1	Ptk2	Diaph1	Acta1	Pik3r1	Pik3ca	Zyx	Tln1	Pfn1	Bcar1	Vcl	Itgb1	Src	Rock1	Pxn	Mlc1	Mylk	Arhgap5	Tns1	Mapk3	Capn1	Plcg1	Mapk1	Csk
+Erk1/Erk2 Mapk Signaling pathway Homo sapiens h erkPathway	BioCarta_2016	Ngfr	Src	Map2k2	Shc1	Map2k1	Ptprr	Stat3	Ppp2r5d	Elk1	Ngf	Rps6ka5	Rps6ka1	Tert	Mknk1	Mknk2	Myc	Mapk3	Hras	Mapk1	Grb2	Sos1	Raf1
+Erythropoietin mediated neuroprotection through NF-kB Homo sapiens h eponfkbPathway	BioCarta_2016	Rela	Epo	Jun	Cdkn1a	Arnt	Hif1a	Epor	Sod2	Cops5	Nfkbia	Creb1	Ep300	Jak2
+Estrogen-responsive protein Efp controls cell cycle and breast tumors growth Homo sapiens h EfpPathway	BioCarta_2016	Smurf1	Esr1	Cdk8	Ccnb2	Ccnb1	Cdk7	Cdk6	Cdk5	Cdk4	Cdk3	Trim25	Cdk2	Cdk1	Sfn	Trp53
+Eukaryotic protein translation Homo sapiens h eifPathway	BioCarta_2016	Eif5b	Eif4a2	Eif3a	Eif4a1	Eif1ad7	Eif2s2	Eif2s1	Eif5	Eif6	Eif4g1	Eif4e	Eif4g3	Eif4g2
+Extrinsic Prothrombin Activation Pathway Homo sapiens h extrinsicPathway	BioCarta_2016	Fgb	Zfhx3	F2r	Fgg	F10	Pros1	F2	F3	Tfpi	F5	F7
+FAS signaling pathway ( CD95 ) Homo sapiens h fasPathway	BioCarta_2016	Map2k4	Rb1	Map3k1	Daxx	Faf1	Cflar	Prkdc	Ptpn13	Fasl	Casp8	Pak2	Mapk8	Pak1	Casp7	Fas	Casp3	Fadd	Ripk2	Map3k7
+FOSB gene expression and drug abuse Homo sapiens h fosbPathway	BioCarta_2016	Gria2	Jund	Ppp1r1b	Cdk5	Fosb
+Fc Epsilon Receptor I Signaling in Mast Cells Homo sapiens h fcer1Pathway	BioCarta_2016	Map2k4	Lyn	Map3k1	Map2k2	Jun	Map2k1	Syk	Fos	Prkcb	Vav1	Pik3r1	Pik3ca	Btk	Grb2	Ms4a2	Sos1	Raf1	Shc1	Pla2g1b	Elk1	Pak2	Mapk8	Mapk3	Plcg1	Hras	Mapk1	Fcer1a	Fcer1g	Map2k7
+Fibrinolysis Pathway Homo sapiens h fibrinolysisPathway	BioCarta_2016	Fgb	Serpinb2	Zfhx3	Cpb2	F2r	Fgg	F13a1	Serpine1	Ube2a	Plau	F2	Plg	Plat	Uba1
+G-Protein Signaling Through Tubby Proteins Homo sapiens h tubbyPathway	BioCarta_2016	Tub	Gngt1	Edn1	Cxcl12	Gnb1	Ccl11	Ccl4	F2	Agt
+GATA3 participate in activating the Th2 cytokine genes expression Homo sapiens h GATA3pathway	BioCarta_2016	Map2k3	Adcy1	Il13	Nfatc1	Gata3	Mapk14	Maf	Il5	Il1a	Il4	Prkar1b	Prkar2b	Prkar1a	Prkar2a	Gnas	Prkacb	Junb	Map2k6
+Gamma-aminobutyric Acid Receptor Life Cycle Homo sapiens h gabaPathway	BioCarta_2016	Gabra3	Gabarap	Nsf	Gabra2	Src	Gabra1	Gabra6	Gabra5	Gabra4	Ube3a	Ube2a	Dnm1	Gphn	Ubqln1	Uba1
+Granzyme A mediated Apoptosis Pathway Homo sapiens h setPathway	BioCarta_2016	Crebbp	Dffb	Dffa	Anp32a	Gzmc	Apex1	Gzma	Casp3	Prf1	Hmgb2	Nme1
+Growth Hormone Signaling Pathway Homo sapiens h ghPathway	BioCarta_2016	Stat5b	Insr	Irs1	Shc1	Cish	Srf	Prkcb	Prkca	Ins1	Gh	Ghr	Pik3r1	Hnf1a	Rps6ka1	Pik3ca	Plcg1	Grb2	Ptpn6	Jak2	Stat5a	Sos1
+HIV-1 Nef: negative effector of Fas and TNF Homo sapiens h HivnefPathway	BioCarta_2016	Gsn	Map3k1	Apaf1	Cradd	Cflar	Tnfrsf1a	Rasa1	Nfkbia	Fas	Bcl2	Gm10053	Rb1	Rela	Tradd	Lmnb1	Tnf	Lmnb2	Lmna	Casp8	Pak2	Casp9	Casp6	Casp7	Casp2	Casp3	Fadd	Ripk1	Map3k5	Cdk11b	Dffb	Daxx	Dffa	Prkcd	Chuk	Parp1	Traf1	Traf2	Ptk2	Map3k14	Birc2	Birc3	Mdm2	Numa1	Prkdc	Psen1	Fasl	Psen2	Mapk8	Bag4	Arhgdib	Sptan1	Bid	Map2k7
+Hemoglobin's Chaperone Homo sapiens h ahspPathway	BioCarta_2016	Alas2	Fech	Alas1	Uros	Hba-a1	Cpox	Gata1	Alad	Hmbs	Urod	Ahsp
+How Progesterone Initiates the Oocyte Maturation Homo sapiens h mPRPathway	BioCarta_2016	Cap1	Src	Adcy1	Paqr5	Myt1	Gnai1	Cdc25c	Gngt1	Ccnb1	Gnb1	Prkar1b	Prkar2b	Prkar1a	Prkar2a	Mapk3	Gnas	Cdk1	Hras	Mapk1	Pgr	Prkacb	Pin1
+How does salmonella hijack a cell Homo sapiens h salmonellaPathway	BioCarta_2016	Arpc1a	Actr3	Actr2	Arpc3	Arpc4	Arpc1b	Arpc2	Wasl	Rac1	Wasf1	Cdc42
+Human Cytomegalovirus and Map Kinase Pathways Homo sapiens h hcmvPathway	BioCarta_2016	Rb1	Rela	Map3k1	Map2k2	Map2k3	Map2k1	Pdpk1	Mapk14	Creb1	Sp1	Pik3r1	Pik3ca	Akt1	Mapk3	Mapk1	Map2k6
+Hypoxia and p53 in the Cardiovascular system Homo sapiens h p53hypoxiaPathway	BioCarta_2016	Abcb1a	Hsp90aa1	Cdkn1a	Gadd45a	Igfbp3	Fhl2	Ube2a	Rpa1	Hif1a	Hic1	Nfkbib	Taf1	Mapk8	Ep300	Hspa1b	Akt1	Atm	Bax	Trp53	Mdm2
+Hypoxia-Inducible Factor in the Cardiovascular System Homo sapiens h hifPathway	BioCarta_2016	Edn1	Epo	Hsp90aa1	Jun	Nos3	Arnt	Ube2a	Hif1a	Vegfa	Cops5	Creb1	Ldha	Ep300	Asph	P4hb	Vhl
+IFN alpha signaling pathway Homo sapiens h ifnaPathway	BioCarta_2016	Stat1	St13	Ifna4	Stat2	Ifnb1	Tyk2	Jak1	Ifnar1	Ifnar2
+IFN gamma signaling pathway  Homo sapiens h ifngPathway	BioCarta_2016	Ifngr1	Stat1	Ifng	Jak1	Jak2
+IGF-1 Signaling Pathway Homo sapiens h igf1Pathway	BioCarta_2016	Jun	Irs1	Shc1	Map2k1	Csnk2a1	Srf	Fos	Ptpn11	Igf1	Elk1	Igf1r	Rasa1	Mapk8	Pik3r1	Pik3ca	Mapk3	Hras	Grb2	Sos1	Raf1
+IL 2 signaling pathway Homo sapiens h il2Pathway	BioCarta_2016	Stat5b	Shc1	Syk	Il2rg	Il2	Lck	Il2ra	Il2rb	Hras	Grb2	Jak3	Jak1	Stat5a	Sos1
+IL 3 signaling pathway Homo sapiens h il3Pathway	BioCarta_2016	Stat5b	Shc1	Fos	Hras	Grb2	Ptpn6	Csf2rb2	Il3	Jak2	Stat5a	Sos1
+IL 4 signaling pathway Homo sapiens h il4Pathway	BioCarta_2016	Il4ra	Shc1	Hmga1	Il2rg	Il4	Rps6kb1	Ighe	H2-Ea	Akt1	Stat6	Grb2	Jak3	Fcer2a	Jak1	H2-Eb2
+IL 6 signaling pathway Homo sapiens h il6Pathway	BioCarta_2016	Cebpb	Shc1	Stat3	Ptpn11	Lrpprc	Il6	Hras	Grb2	Jak3	Il6ra	Jak1	Jak2	Sos1
+IL-10 Anti-inflammatory Signaling Pathway Homo sapiens h il10Pathway	BioCarta_2016	Il10	Il10rb	Il10ra	Tnf	Mapk14	Il1a	Il6	Hmox1	Blvrb	Jak1	Map3k5	Map2k6	Blvra
+IL-2 Receptor Beta Chain in T cell Activation Homo sapiens h il2rbPathway	BioCarta_2016	Bad	Nmi	Il2	Ppia	Pik3ca	Fas	Bcl2	Ptpn6	Sos1	Raf1	Pcna	Rb1	Shc1	Ccnh	Il2rg	Socs3	Crkl	Socs1	Ccnd3	Ccnd2	Ccnd1	E2f1	Myc	Akt1	Stat5b	Map2k2	Map2k1	Pdpk1	Fos	Tfdp1	Ccna1	Pik3r1	Il2ra	Rps6kb1	Ccne1	Il2rb	Bcl2l1	Grb2	Irs1	Fasl	Ikzf3	Cbl	Ccnb1	Mapk3	Hras	Mapk1	Jak3	Jak1	Stat5a
+IL-7 Signal Transduction Homo sapiens h il7Pathway	BioCarta_2016	Stat5b	Crebbp	Itga2b	Nmi	Il2rg	Lck	Pik3r1	Pik3ca	Ep300	Ptk2b	Bcl2	Fyn	Jak3	Jak1	Stat5a
+IL12 and Stat4 Dependent Signaling Pathway in Th1 Development Homo sapiens h IL12Pathway	BioCarta_2016	Jun	Stat4	Tyk2	Etv5	Mapk14	Mapk8	Ifng	Il12b	Il12a	Il12rb2	Ccr5	Il12rb1	Map2k6	Jak2	Il18r1
+IL22 Soluble Receptor Signaling Pathway  Homo sapiens h il22bppathway	BioCarta_2016	Il22ra2	Il22b	Socs3	Stat5b	Il22ra1	Stat1	Stat3	Il10ra	Tyk2	Jak1	Stat5a
+Inactivation of Gsk3 by AKT causes accumulation of b-catenin in Alveolar Macrophages Homo sapiens h gsk3Pathway	BioCarta_2016	Fzd1	Chuk	Csnk2a1	Pdpk1	Eif2ak2	Kremen2	Tirap	Axin1	Ppp2r5d	Dkk1	Dkk2	Nfkbia	Myd88	Pik3r1	Pik3ca	Tollip	Tlr4	Lef1	Rela	Gsk3b	Ctnnb1	Lrp6	Ehhadh	Ly96	Nkd1	Nkd2	Ikbkb	Frat1	Gja1	Wif1	Ccnd1	Dvl1	Irak1	Akt1	Wnt1	Ikbkg	Cd14	Btrc
+Induction of apoptosis through DR3 and DR4/5 Death Receptors  Homo sapiens h deathPathway	BioCarta_2016	Dffb	Dffa	Tradd	Parp1	Tnfrsf22	Traf2	Lmna	Acta1	Casp8	Casp6	Casp7	Casp3	Tnfsf12	Gas2	Fadd	Ripk1	Tnfsf10	Sptan1	Map3k14	Bid	Tnfrsf25
+Influence of Ras and Rho proteins on G1 to S Transition Homo sapiens h RacCycDPathway	BioCarta_2016	Rhoa	Map2k2	Map2k1	Chuk	Pdpk1	Nfkbia	Tfdp1	Cdk6	Pik3r1	Pik3ca	Cdk4	Ccne1	Cdk2	Raf1	Rb1	Rela	Cdkn1b	Cdkn1a	Ikbkb	Pak1	Ccnd1	E2f1	Akt1	Mapk3	Hras	Mapk1	Rac1	Ikbkg
+Inhibition of Cellular Proliferation by Gleevec Homo sapiens h gleevecpathway	BioCarta_2016	Stat5b	Map2k4	Map3k1	Jun	Stat1	Map2k1	Fos	Crkl	Bcr	Mapk8	Pik3r1	Pik3ca	Myc	Akt1	Mapk3	Bcl2	Hras	Grb2	Jak2	Stat5a	Sos1	Raf1
+Inhibition of Matrix Metalloproteinases Homo sapiens h reckPathway	BioCarta_2016	Mmp14	Mmp2	Timp3	Timp4	Timp1	Timp2	Mmp9	Reck
+Insulin Signaling Pathway Homo sapiens h insulinPathway	BioCarta_2016	Insr	Pik3r1	Irs1	Shc1	Pik3ca	Ptpn11	Hras	Grb2	Ins1	Sos1
+Integrin Signaling Pathway Homo sapiens h integrinPathway	BioCarta_2016	Itga1	Rhoa	Ppp1r12b	Actn4	Actn3	Actn2	Cav1	Actn1	Ptk2	Bcr	Acta1	Zyx	Rapgef1	Grb2	Tln1	Bcar1	Vcl	Sos1	Itgb1	Src	Rock1	Pxn	Shc1	Mlc1	Nolc1	Lrpap1	Tns1	Crkl	Mapk8	Capn1	Hras	Csk	Fyn
+Internal Ribosome entry pathway Homo sapiens h iresPathway	BioCarta_2016	Eif3a	Eif4a1	Ptbp1	Ptbp2	Casp8	Casp9	Casp6	Casp7	Eif4g1	Casp2	Casp3	Casp1	Eif4e	Eif4g3	Eif4g2
+Intrinsic Prothrombin Activation Pathway Homo sapiens h intrinsicPathway	BioCarta_2016	Fgb	Zfhx3	F11	F2r	Fgg	F10	F12	Pros1	F2	F5	Kng1	F8	Col4a1	F9	Col4a3	Col4a2	Col4a5	Col4a4	Serping1	Col4a6	Klkb1
+Ion Channels and Their Functional Role in Vascular Endothelium Homo sapiens h raccPathway	BioCarta_2016	Edn1	Gucy1a2	Trpc6	Hsp90aa1	Nos3	Trpc4	Trpc5	Cav1	Trpc3	Trpv4	F2	Agt	Cxcl12	Gnb1	Kcnq2	Kcnq3	Kcnq4	Agtr2	Kcnq5	Gnas	Chrm1	Adcy1	Ptger1	Ccl11	Camk2b	Htr2c	Fpr1	Adrb2	Adra1b	Kng1	Gngt1	Ednra	Ednrb	Cxcr4	P2ry2	Ccl4	Akt1	Bdkrb2	Ccr5	Prkg2	Prkg1	Ccr3
+Keratinocyte Differentiation Homo sapiens h keratinocytePathway	BioCarta_2016	Egf	Map3k1	Jun	Ppp2r5d	Tnfrsf1a	Mapk13	Mapk14	Nfkbia	Sp1	Fas	Bcl2	Sos1	Raf1	Rela	Shc1	Tnf	Egfr	Ripk1	Hoxa7	Map3k5	Prkch	Map2k4	Prkcg	Map2k2	Daxx	Map2k3	Prkcd	Map2k1	Chuk	Prkce	Traf1	Fos	Prkcb	Traf2	Prkca	Prkcq	Grb2	Birc2	Birc3	Cebpa	Fasl	Plat	Ets1	Ets2	Ikbkb	Mapk8	Mapk3	Hras	Mapk1	Ikbkg	Map4k4	Map2k6	Map2k7
+Lck and Fyn tyrosine kinases in initiation of TCR Activation Homo sapiens h tcraPathway	BioCarta_2016	Cd3g	Cd3e	Cd3d	Lck	Ptprc	Zap70	Cd4	H2-Ea	Fyn	Cd247	H2-Eb2
+Lectin Induced Complement Pathway Homo sapiens h lectinPathway	BioCarta_2016	Masp1	C8a	C8b	C2	C4b	C3	C8g	AI182371	C6	C7	C9	Masp2	Mbl2
+Links between Pyk2 and Map Kinases Homo sapiens h pyk2Pathway	BioCarta_2016	Map2k4	Map3k1	Map2k2	Jun	Map2k3	Map2k1	Prkcb	Prkca	Mapk14	Grb2	Bcar1	Sos1	Raf1	Src	Shc1	Camk2b	Crkl	Mapk8	Pak1	Mapk3	Ptk2b	Plcg1	Hras	Mapk1	Rac1
+Lissencephaly gene (LIS1) in neuronal migration and development Homo sapiens h Lis1Pathway	BioCarta_2016	Dctn6	Dnah5	Dnah3	Dynll1	Dnah8	Dctn3	Dctn2	Csnk2a1	Dnah6	Dctn1	Lrp8	Reln	Clip1	Cdk5	Pafah1b1	Ndel1	Dcx	Abl1	Cdk5r1	Dnah1
+MAPKinase Signaling Pathway Homo sapiens h mapkPathway	BioCarta_2016	Map3k3	Map3k4	Map3k1	Jun	Map3k2	Mapk13	Gck	Mapk14	Mapk11	Mapk12	Sp1	Mapk10	Raf1	Atf2	Araf	Pak2	Pak1	Myc	Map3k7	Map3k8	Map3k5	Map2k4	Map4k3	Map2k5	Mef2a	Map2k2	Mef2d	Map4k1	Mef2c	Map2k3	Stat1	Map2k1	Chuk	Fos	Creb1	Map3k11	Map3k14	Map3k12	Map3k13	Cebpa	Max	Elk1	Ikbkb	Mapk9	Mapk8	Rps6ka1	Mapk3	Hras	Mapk1	Rac1	Mapk7	Map4k4	Map2k6	Map2k7	Map4k5
+METS affect on Macrophage Differentiation Homo sapiens h etsPathway	BioCarta_2016	Csf1r	Hdac5	Jun	Hdac2	Csf1	Fos	Ddx20	Etv3	Ets1	Ets2	Rbl1	Rbl2	Ncor2	Sin3b	Sin3a	E2f1	E2f4	Hras
+Map Kinase Inactivation of SMRT Corepressor Homo sapiens h egfr smrtePathway	BioCarta_2016	Map2k4	Egf	Map3k1	Thrb	Shc1	Thra	Map2k1	Zbtb16	Egfr	Mapk14	Rxra	Ncor2	Hras	Rac1	Rara	Grb2	Sos1
+Mechanism of Acetaminophen Activity and Toxicity Homo sapiens h AcetaminophenPathway	BioCarta_2016	Nr1i3	Cyp1a2	Cyp2e1	Ptgs1
+Mechanism of Gene Regulation by Peroxisome Proliferators via PPARa Homo sapiens h pparaPathway	BioCarta_2016	Med1	Hsp90aa1	Ncoa1	Jun	Dusp1	Apoa2	Nfkbia	Sp1	Ncor1	Ncor2	Apoa1	Acox1	Hspa1b	Rb1	Rela	Cited2	Hsd17b4	Ehhadh	Tnf	Rxra	Nrip1	Myc	Me1	Ppargc1a	Stat5b	Crebbp	Cpt1a	Ppara	Nr1h3	Nr2f1	Nr0b2	Prkcb	Prkca	Prkar1b	Prkar1a	Fat1	Fabp1	Lpl	Sra1	Mrpl11	Prkar2b	Ep300	Prkar2a	Mapk3	Mapk1	Nos2	Prkacb	Stat5a
+Mechanism of Protein Import into the Nucleus Homo sapiens h npcPathway	BioCarta_2016	Kpnb1	Ranbp2	Ranbp1	Nup62	Nup214	Rcc1	Nup153	Nup210	Nutf2	Kpna2	Rangap1	Ran
+Melanocyte Development and Pigmentation Pathway Homo sapiens h melanocytepathway	BioCarta_2016	Map2k2	Map2k1	Mitf	Creb1	Kitl	Kit	Rps6ka1	Ep300	Mapk3	Bcl2	Hras	Mapk1	Raf1
+Metabolism of Anandamide, an Endogenous Cannabinoid Homo sapiens h cb1rPathway	BioCarta_2016	Faah	Cnr2	Cnr1	Pld2	Pld1	Pld3	Baat
+Multi-Drug Resistance Factors Homo sapiens h mrpPathway	BioCarta_2016	Abcb4	Abcb1a	Abcb11	Abcc3	Gstp1	Abcc1
+Multi-step Regulation of Transcription by Pitx2 Homo sapiens h pitx2Pathway	BioCarta_2016	Med1	Crebbp	Fzd1	Csnk2a1	Kremen2	Axin1	Ppp2r5d	Dkk1	Dkk2	Lef1	Gsk3b	Hdac1	Trrap	Ldb1	Ctnnb1	Lrp6	Nkd1	Nkd2	Frat1	Ccnd2	Wif1	Kat5	Ep300	Dvl1	Wnt1
+Multiple antiapoptotic pathways from IGF-1R signaling lead to BAD phosphorylation Homo sapiens h igf1rPathway	BioCarta_2016	Irs1	Shc1	Bad	Igf1	Igf1r	Pik3r1	Pik3ca	Mapk3	Hras	Grb2	Ywhah	Sos1	Raf1
+NF-kB Signaling Pathway Homo sapiens h nfkbPathway	BioCarta_2016	Rela	Map3k1	Il1r1	Chuk	Tradd	Tnf	Nfkb1	Tnfrsf1a	Il1a	Ikbkb	Nfkbia	Myd88	Traf6	Irak1	Fadd	Ripk1	Ikbkg	Tab1	Map3k7	Map4k4	Tlr4
+NFAT and Hypertrophy of the heart Homo sapiens h nfatPathway	BioCarta_2016	Edn1	Crebbp	Mef2c	Pdpk1	Lif	Igf1	Nfatc1	Alox8	Acta1	Hand1	Pik3r1	Myl2	Pik3ca	Rps6kb1	Hand2	Camk4	Grb2	Hbegf	Calr	Sos1	Hdac5	Gsk3b	Ctf1	Shc1	Camk2b	Atp2a3	Atp2a2	Tnf	Atp2a1	Gata4	Hdac9	Camkk1	Camkk2	Ppp3ca	Ppp3cb	Ppp3cc	Mapk8	Nppa	Akt1	Hras	Nkx2-5	Ywhah
+NFkB activation by Nontypeable Hemophilus influenzae Homo sapiens h nthiPathway	BioCarta_2016	Tgfb1	Smad3	Crebbp	Tgfb3	Tgfb2	Smad4	Map2k3	Dusp1	Chuk	Muc5ac	Tgfbr1	Tgfbr2	Mapk14	Mapk11	Tlr2	Nfkbia	Il1b	Myd88	Rela	Tnf	Nr3c1	Ikbkb	Ep300	Ikbkg	Map3k7	Map4k4	Map2k6
+NO2-dependent IL 12 Pathway in NK cells Homo sapiens h no2il12Pathway	BioCarta_2016	Stat4	Ifng	Il12b	Il12a	Nos2	Tyk2	Il12rb2	Il12rb1	Jak2
+Nerve growth factor pathway (NGF) Homo sapiens h ngfPathway	BioCarta_2016	Ngfr	Jun	Shc1	Map2k1	Csnk2a1	Fos	Elk1	Ngf	Mapk8	Pik3r1	Pik3ca	Mapk3	Plcg1	Hras	Grb2	Sos1	Raf1
+Neuroregulin receptor degredation protein-1 Controls ErbB3 receptor recycling Homo sapiens h ErbB3Pathway	BioCarta_2016	Erbb3	Ube2d1	Nrg1	Nrg2	Nrg3	Rnf41
+Nitric Oxide Signaling Pathway Homo sapiens h nos1Pathway	BioCarta_2016	Camk2b	Prkcb	Prkca	Grin2d	Grin2c	Grin1	Ppp3ca	Ppp3cb	Ppp3cc	Grin2b	Grin2a	Dlg4	Prkar1b	Prkar2b	Prkar1a	Prkar2a	Nos1	Prkacb
+Nuclear receptors coordinate the activities of chromatin remodeling complexes and coactivators to facilitate initiation of transcription in carcinoma cells Homo sapiens h rarrxrPathway	BioCarta_2016	Gtf2a1	Ncoa2	Ncoa3	Hdac3	Ncoa1	Gtf2b	Gtf3a	Gtf2f1	Gtf2e1	Nr3c1	Rxra	Kat2b	Ncor2	Polr2a	Rara
+Overview of telomerase RNA component gene hTerc Transcriptional Regulation Homo sapiens h tercPathway	BioCarta_2016	Rb1	Sp1	Nfyb	Sp3	Nfyc	Nfya
+Overview of telomerase protein component gene hTert Transcriptional Regulation  Homo sapiens h tertpathway	BioCarta_2016	Wt1	Sp1	Max	Mxd1	Mzf1	Hdac1	Tert	Myc	Esr1	Trp53
+Oxidative Stress Induced Gene Expression Via Nrf2 Homo sapiens h arenrf2Pathway	BioCarta_2016	Jun	Keap1	Fos	Prkcb	Prkca	Maff	Cryz	Creb1	Por	Fxyd2	Mafg	Ugt1a6a	Hmox1	Hmox2	Mafk	Nfe2l2
+PDGF Signaling Pathway Homo sapiens h pdgfPathway	BioCarta_2016	Map2k4	Pdgfra	Map3k1	Jun	Stat1	Map2k1	Csnk2a1	Stat3	Fos	Prkcb	Prkca	Rasa1	Pik3r1	Pik3ca	Grb2	Sos1	Raf1	Shc1	Srf	Pdgfa	Elk1	Mapk8	Mapk3	Plcg1	Hras	Jak1
+PKC-catalyzed phosphorylation of inhibitory phosphoprotein of myosin phosphatase Homo sapiens h myosinPathway	BioCarta_2016	Ppp1r14a	Rock1	Ppp1r12b	Trio	Arhgef1	Cacna1a	Camk2b	Prkcb	Prkca	Vav1	Mylk	Arhgap5	Gngt1	Gnb1	Myl2	Gna12	Gna13	Pkn1	Arhgef5	Plcb1
+PTEN dependent cell cycle arrest and apoptosis Homo sapiens h ptenPathway	BioCarta_2016	Itgb1	Cdkn1b	Shc1	Ilk	Fasl	Foxo3	Ptk2	Pik3r1	Pik3ca	Akt1	Grb2	Bcar1	Pdk2	Sos1
+Pelp1 Modulation of Estrogen Receptor Activity Homo sapiens h pelp1Pathway	BioCarta_2016	Pelp1	Crebbp	Src	Ep300	Esr1
+Pertussis toxin-insensitive CCR5 Signaling in Macrophage Homo sapiens h Ccr5Pathway	BioCarta_2016	Cxcl12	Jun	Cxcr4	Ccl4	Fos	Plcg1	Ccr5
+Phosphoinositides and their downstream targets. Homo sapiens h ptdinsPathway	BioCarta_2016	Lyn	Gsk3b	Gsk3a	Bad	Arf1	Pdpk1	Prkce	Gtf3a	Vav2	Eea1	Pfkm	Prkcz	Pfkl	Rps6kb1	Akt1	Btk	Plcg1	Rac1	Rab5a	Pfkp
+Phospholipase C Signaling Pathway Homo sapiens h plcPathway	BioCarta_2016	Pik3r1	Pik3ca	Pdpk1	Plcg1	Plcb1
+Phospholipase C-epsilon pathway Homo sapiens h plcePathway	BioCarta_2016	Rap2b	Ptger1	Prkar1b	Prkar2b	Prkar1a	Prkar2a	Plce1	Rapgef3	Gnas	Adrb2	Prkacb
+Phospholipids as signalling intermediaries Homo sapiens h edg1Pathway	BioCarta_2016	Pdgfra	Map2k2	Sphkap	Map2k1	Pdpk1	Sphk1	Prkcb	Prkca	Ptk2	Gnb1	Pik3r1	Pik3ca	Grb2	Sos1	Raf1	Src	Adcy1	Shc1	Itgb3	Pdgfa	Pik3c2g	Gnai1	Asah1	Gngt1	Smpd2	Smpd1	Akt1	Mapk3	S1pr1	Hras	Mapk1	Rac1	Itgav
+Phosphorylation of MEK1 by cdk5/p35 down regulates the MAP kinase pathway Homo sapiens h cdk5Pathway	BioCarta_2016	Ngfr	Egr1	Map2k2	Shc1	Map2k1	Ngf	Cdk5	Mapk3	Hras	Mapk1	Grb2	Cdk5r1	Sos1	Raf1
+Platelet Amyloid Precursor Protein Pathway Homo sapiens h plateletAppPathway	BioCarta_2016	App	F11	Serpine1	Plau	F2	Plg	Plat	Col4a1	F9	Col4a3	Col4a2	Col4a5	Col4a4	Col4a6
+Polyadenylation of mRNA Homo sapiens h cpsfPathway	BioCarta_2016	Cpsf2	Cpsf1	Cpsf4	Cstf3	Cpsf3	Pabpn1	Cstf2	Cstf1	Papola
+Prion Pathway Homo sapiens h prionPathway	BioCarta_2016	Lama3	Lama2	Lamb3	Hspa5	Lama5	Prnp	Lama4	Lamc1	Lama1	Lamc3	Lamb2	Lamc2	Lamb1	Gfap	Rpsa	Dnajb6	Bcl2
+Protein Kinase A at the Centrosome Homo sapiens h akapCentrosomePathway	BioCarta_2016	Rhoa	Prkar2b	Prkar2a	Prkce	Akap9	Pkn1	Cdk1	Prkag1	Ppp2r5d	Prkacb	Ppp1ca
+Proteolysis and Signaling Pathway of Notch  Homo sapiens h notchpathway	BioCarta_2016	Notch1	Adam17	Furin	Psen1	Dll1	Rbpj
+RB Tumor Suppressor/Checkpoint Signaling in response to DNA damage Homo sapiens h rbPathway	BioCarta_2016	Rb1	Rasgrf1	Cdkn1a	Myt1	Wee1	Chek1	Cdk4	E2f1	Cdk2	Atm	Cdk1	Trp53	Ywhah
+RNA polymerase III transcription Homo sapiens h RNApol3Pathway	BioCarta_2016	Ssb	Gtf3c3	Gtf3c4	Gtf3c5	Brf1	Nr3c1	Bdp1	Gtf3c1
+Rac 1 cell motility signaling pathway Homo sapiens h rac1Pathway	BioCarta_2016	Ralbp1	Pdgfra	Map3k1	Ppp1r12b	Limk1	Cadm1	Arap1	Arap2	Vav1	Arfgap3	Arfgap1	Pik3r1	Myl2	Cdk5	Pik3ca	Rps6kb1	Arhgef5	Cdk5r1	Trio	Ncf2	Arhgef1	Cacna1a	Asap2	Arhgap1	Arhgap6	Pld1	Mylk	Arhgap4	Arhgap5	Pak1	Asap1	Cfl1	Chn1	Arfip2	Rac1	Wasf1
+Ras Signaling Pathway Homo sapiens h rasPathway	BioCarta_2016	Rhoa	Ralbp1	Rala	Bad	Chuk	Pdpk1	Foxo4	Vav1	Pld1	Cdc42	Casp9	Pik3r1	Pik3ca	Bcl2l1	Akt1	Hras	Rac1	Ralgds	Sos1	Raf1
+Ras-Independent pathway in NK cell-mediated cytotoxicity Homo sapiens h nkcellsPathway	BioCarta_2016	Clec2m	Map2k1	Syk	2410137M14Rik	Il18	Vav1	Cd2	Fcgr4	Pak1	Pik3r1	Pik3ca	Mapk3	Cd28	Klrd1	Klrc2	Rac1	B2m	Ptpn6	Lat
+Regulation of BAD phosphorylation Homo sapiens h badPathway	BioCarta_2016	Adcy1	Bad	Pdpk1	Igf1	Csf2rb2	Il3	Igf1r	Kitl	Kit	Pik3r1	Prkar1b	Pik3ca	Prkar2b	Prkar1a	Prkar2a	Bcl2l1	Akt1	Bcl2	Bax	Prkacb	Ywhah
+Regulation of MAP Kinase Pathways Through Dual Specificity Phosphatases Homo sapiens h dspPathway	BioCarta_2016	Dusp6	Dusp4	Mapk8	Dusp1	Dusp2	Mapk3	Dusp9	Dusp8	Mapk14
+Regulation of PGC-1a Homo sapiens h pgc1aPathway	BioCarta_2016	Hdac5	Esrra	Mef2a	Mef2d	Ppara	Mef2c	Camk2a	Camk2b	Camkk1	Camkk2	Ppp3ca	Ppp3cb	Ppp3cc	Camk4	Camk2g	Ppargc1a	Ywhah
+Regulation of Spermatogenesis by CREM Homo sapiens h cremPathway	BioCarta_2016	Xpo1	Gngt1	Adcy1	Gnb1	Fshr	Fshb	Gnas	Crem	Fhl5	Kif17
+Regulation of Splicing through Sam68 Homo sapiens h sam68Pathway	BioCarta_2016	Khdrbs1	Rasa1	Src	Map2k2	Map2k1	Mapk3	Cdk1	Hras	Mapk1	Raf1
+Regulation of cell cycle progression by Plk3 Homo sapiens h plk3Pathway	BioCarta_2016	Rasgrf1	Apaf1	Plk3	Ccnb1	Casp9	Chek1	Casp6	Casp7	Chek2	Atm	Trex1	Cdk1	Bax	Casp3	Gm10053	Trp53	Atr	Ywhah
+Regulation of ck1/cdk5 by type 1 glutamate receptors Homo sapiens h ck1Pathway	BioCarta_2016	Adcy1	Camk2b	Ppp2r5d	Ppp1ca	Grm1	Ppp3ca	Gngt1	Gnb1	Ppp1r1b	Prkar1b	Csnk1d	Cdk5	Prkar2b	Prkar1a	Ncs1	Prkar2a	Gnas	Drd1	Drd2	Prkacb	Cdk5r1	Plcb1
+Regulation of eIF2 Homo sapiens h eif2Pathway	BioCarta_2016	Eif2b5	Eif5	Gsk3b	Npy4r	Eif2ak2	Eif2ak1	Eif2ak4	Eif2ak3	Eif2s2	Eif2s1
+Regulation of eIF4e and p70 S6 Kinase Homo sapiens h eif4Pathway	BioCarta_2016	Eif4a1	Irs1	Pdpk1	Eif4ebp1	Prkcb	Prkca	Mtor	Gh	Ppp2ca	Mapk14	Ghr	Pik3r1	Psmc4	Pik3ca	Rps6kb1	Mknk1	Akt1	Eif4g1	Mapk3	Pabpc1	Mapk1	Eif4e	Pdk2
+Regulation of p27 Phosphorylation during Cell Cycle Progression Homo sapiens h p27Pathway	BioCarta_2016	Rb1	Cdkn1b	Cks1b	Cul1	Nedd8	Rbx1	Tfdp1	Ccne1	E2f1	Cdk2	Ube2m	Skp1	Skp2
+Regulation of transcriptional activity by PML Homo sapiens h pmlPathway	BioCarta_2016	Rb1	Crebbp	Ube2i	Daxx	Sumo1	Sirt1	Pax3	Trp53	Pram1	Pml
+Regulators of Bone Mineralization Homo sapiens h npp1Pathway	BioCarta_2016	Col4a1	Col4a3	Col4a2	Enpp1	Col4a5	Ibsp	Ank	Col4a4	Alpl	Col4a6	Spp1
+Repression of Pain Sensation by the Transcriptional Regulator DREAM Homo sapiens h dreampathway	BioCarta_2016	Jun	Kcnip3	Oprk1	Fos	Crem	Creb1	Polr2a	Prkar1b	Rps6ka3	Prkar2b	Prkar1a	Prkar2a	Mapk3	Prkacb
+Reversal of Insulin Resistance by Leptin Homo sapiens h leptinPathway	BioCarta_2016	Prkaa2	Cpt1a	Lep	Prkag2	Lepr	Prkag1	Prkab1	Prkaa1	Prkab2	Acaca
+Rho cell motility signaling pathway Homo sapiens h rhoPathway	BioCarta_2016	Gsn	Rhoa	Ralbp1	Ppp1r12b	Limk1	Arap1	Arap2	Vav1	Arfgap3	Diaph1	Arfgap1	Myl2	Arhgef5	Tln1	Pfn1	Vcl	Rock1	Trio	Ncf2	Arhgef1	Cacna1a	Asap2	Arhgap1	Arhgap6	Mylk	Arhgap4	Arhgap5	Asap1	Pip5k1a	Cfl1	Chn1	Pip5k1b
+Rho-Selective Guanine Exchange Factor AKAP13 Mediates Stress Fiber Formation Homo sapiens h akap13Pathway	BioCarta_2016	Akap13	Rhoa	Prkar2b	Gna12	Prkar2a	Lpar2	Lpar3	Prkag1	Prkacb	Lpar1
+Role of BRCA1,  BRCA2 and ATR in Cancer Susceptibility Homo sapiens h atrbrcaPathway	BioCarta_2016	Hus1	Fanca	Brca1	Brca2	Fancc	Fancf	Rad50	Fance	Fancg	Rad51	Chek1	Fancd2	Chek2	Rad17	Nbn	Atm	Trex1	Rad1	Trp53	Atr	Rad9a
+Role of Beta-arrestins in the activation and targeting of MAP kinases Homo sapiens h barr-mapkPathway	BioCarta_2016	Edn1	Map2k2	Map2k1	F2	Agt	Dnm1	Cxcl12	Gnb1	Agtr2	Gnas	Raf1	Chrm1	Ptger1	Ccl11	Htr2c	Fpr1	Adrb2	Adra1b	Gngt1	Ednra	Ednrb	Arrb1	Cxcr4	P2ry2	Ccl4	Mapk3	Mapk1	Ccr5	Ccr3
+Role of EGF Receptor Transactivation by GPCRs in Cardiac Hypertrophy Homo sapiens h cardiacegfPathway	BioCarta_2016	Edn1	Rhoa	Egf	Map2k2	Jun	Map2k1	Chuk	Adam12	Fos	Prkcb	Prkca	Agt	Nfkbia	Gnb1	Agtr2	Grb2	Sos1	Raf1	Rela	Shc1	Egfr	Gngt1	Ednra	Ikbkb	Ednrb	Rps6ka1	Gna11	Myc	Mapk3	Plcg1	Hras	Mapk1	Ikbkg
+Role of ERBB2 in Signal Transduction and Oncology Homo sapiens h her2Pathway	BioCarta_2016	Map2k2	Map2k1	Pdpk1	Stat3	Esr1	Lrpprc	Il6	Pik3r1	Pik3ca	Carm1	Grb2	Sos1	Raf1	Shc1	Egfr	Grip1	Erbb4	Erbb2	Ep300	Erbb3	Akt1	Mapk3	Hras	Mapk1	Jak3	Il6ra	Jak1	Jak2
+Role of Erk5 in Neuronal Survival Homo sapiens h erk5Pathway	BioCarta_2016	Map2k5	Mef2a	Map2k2	Mef2d	Mef2c	Ntrk1	Map2k1	Pdpk1	Bdnf	Ngf	Creb1	Pik3r1	Pik3ca	Grb2	Sos1	Raf1	Shc1	Rps6ka1	Ntf3	Akt1	Mapk3	Plcg1	Hras	Mapk1	Mapk7
+Role of MAL in Rho-Mediated Activation of SRF Homo sapiens h malPathway	BioCarta_2016	Map4k2	Rhoa	Map3k1	Map2k2	Rock1	Limk1	Map2k1	Srf	Cdc42	Diaph1	Acta1	Mapk8	Hnf1a	Mal	Mapk3	Hras	Mapk1	Rac1	Raf1
+Role of MEF2D in T-cell Apoptosis Homo sapiens h mef2dPathway	BioCarta_2016	Mef2d	Prkcb	Nfatc1	Prkca	Lck	Ptprc	Zap70	Cd4	H2-Ea	Cd247	H2-Eb2	Lat	Cabin1	Hdac1	Hdac2	Camk2b	Cd3g	Cd3e	Cd3d	Nr4a1	Ppp3ca	Ppp3cb	Ppp3cc	Ep300	Capns1	Plcg1	Fyn	Capn2
+Role of Mitochondria in Apoptotic Signaling Homo sapiens h mitochondriaPathway	BioCarta_2016	Bik	Diablo	Apaf1	Casp9	Aifm1	Bcl2l1	Bcl2	Bax	Bak1	Gm10053	Birc2	Bid	Birc3
+Role of PI3K subunit p85 in regulation of Actin Organization and Cell Migration Homo sapiens h cdc42racPathway	BioCarta_2016	Arpc1a	Rhoa	Actr3	Pdgfra	Actr2	Arpc1b	Pdgfa	Wasl	Cdc42	Pak1	Arpc3	Pik3r1	Arpc4	Pik3ca	Arpc2	Rac1
+Role of PPAR-gamma Coactivators in Obesity and Thermogenesis Homo sapiens h ppargPathway	BioCarta_2016	Med1	Ncoa2	Crebbp	Rxra	Ncoa1	Lpl	Ep300	Pparg	Ppargc1a
+Role of Parkin in Ubiquitin-Proteasomal Pathway Homo sapiens h parkinPathway	BioCarta_2016	Gpr37	Sumo1	Ube2e2	Ube2g2	Ube2l6	Ube2g1	Ube2l3
+Role of Ran in mitotic spindle regulation Homo sapiens h ranMSpathway	BioCarta_2016	Kpnb1	Ranbp2	Tpx2	Ranbp1	Numa1	Kif15	Aurka	Rcc1	Kpna2	Rangap1	Ran
+Role of nicotinic acetylcholine receptors in the regulation of apoptosis Homo sapiens h achPathway	BioCarta_2016	Src	Bad	Pdpk1	Fasl	Foxo3	Ptk2	Pik3r1	Tert	Pik3ca	Chrng	Akt1	Ptk2b	Rapsn	Musk	Chrnb1	Ywhah	Agrn
+Roles of Beta-arrestin-dependent Recruitment of Src Kinases in GPCR Signaling Homo sapiens h bArrestin-srcPathway	BioCarta_2016	Edn1	Map2k2	Map2k1	F2	Agt	Dnm1	Hck	Fgr	Cxcl12	Gnb1	Agtr2	Gnas	Raf1	Chrm1	Src	Ptger1	Ccl11	Htr2c	Fpr1	Adrb2	Adra1b	Gngt1	Ednra	Ednrb	Arrb1	Cxcr4	P2ry2	Ccl4	Mapk3	Hras	Mapk1	Ccr5	Ccr3
+SODD/TNFR1 Signaling Pathway Homo sapiens h soddPathway	BioCarta_2016	Madd	Bag4	Tradd	Cradd	Tnf	Traf2	Ripk1	Tnfrsf1a	Birc3
+SREBP control of lipid synthesis Homo sapiens h s1pPathway	BioCarta_2016	Srebf1	Mbtps1	Srebf2	Mbtps2	Hmgcs1	Scap	Ldlr
+SUMOylation as a mechanism to modulate CtBP-dependent gene responses Homo sapiens h ctbp1Pathway	BioCarta_2016	Zeb1	Sumo1	Cdh1	Ctbp1	Ube3a	Nos1	Ube2a	Uba1
+Segmentation Clock Homo sapiens h hesPathway	BioCarta_2016	Hes7	Fzd1	Notch1	Gsk3b	Csnk2a1	Ctnnb1	Lrp6	Kremen2	Axin1	Psen1	Dll1	Dkk1	Dkk2	Nkd1	Nkd2	Rbpj	Lfng	Adam17	Hey2	Wif1	Dvl1	Hes1	Wnt1
+Signal Dependent Regulation of Myogenesis by Corepressor MITR Homo sapiens h MITRPathway	BioCarta_2016	Mef2a	Mef2d	Mef2c	Camk2b	Myod1	Hdac9	Ywhah
+Signal transduction through IL1R Homo sapiens h il1rPathway	BioCarta_2016	Tgfb1	Map3k1	Tgfb3	Jun	Tgfb2	Map2k3	Il1r1	Chuk	Fos	Mapk14	Il1a	Nfkbia	Il1b	Myd88	Il6	Ecsit	Tollip	Traf6	Tab2	Tab1	Rela	Il1rn	Ifna4	Tnf	Il1rap	Pbp2	Ikbkb	Mapk8	Irak2	Irak3	Irak1	Ifnb1	Ikbkg	Map3k7	Map4k4	Map2k6
+Signaling Pathway from G-Protein Families Homo sapiens h gpcrPathway	BioCarta_2016	Map2k1	Prkcb	Nfatc1	Prkca	Creb1	Gnb1	Prkar1b	Prkar1a	Gnas	Raf1	Camk2b	Elk1	Gnai1	Ppp3ca	Ppp3cb	Gngt1	Ppp3cc	Rps6ka3	Prkar2b	Prkar2a	Mapk3	Plcg1	Hras	Prkacb
+Skeletal muscle hypertrophy is regulated via AKT/mTOR pathway Homo sapiens h igf1mtorpathway	BioCarta_2016	Eif2b5	Pdpk1	Rps6	Igf1	Ppp2r5d	Mtor	Eif2s2	Eif2s1	Pik3r1	Psmc4	Pik3ca	Rps6kb1	Eif4g1	Pabpc1	Eif4a1	Gsk3b	Eif4ebp1	Inppl1	Igf1r	Mknk1	Akt1	Eif4e	Pdk2
+Sonic Hedgehog Receptor Ptc1 Regulates cell cycle Homo sapiens h ptc1Pathway	BioCarta_2016	Xpo1	Ccnb1	Cdk7	Shh	Rasgrf1	Ccnh	Cdk1	Ptch1	Mnat1
+Spliceosomal Assembly Homo sapiens h smPathway	BioCarta_2016	Snrpa	Snrnp70	Srsf2	U2af2	Snrpb2	Snrpa1	U2af1	Snrpc
+Sprouty regulation of tyrosine kinase signals Homo sapiens h spryPathway	BioCarta_2016	Src	Egf	Map2k2	Shc1	Map2k1	Sh3kbp1	Egfr	Cbl	Rasa1	Ptprb	Spry4	Mapk3	Spry2	Hras	Mapk1	Spry1	Grb2	Sos1	Raf1
+Stat3 Signaling Pathway Homo sapiens h stat3Pathway	BioCarta_2016	Stat3	Mapk3	Mapk1	Jak3	Tyk2	Mtor	Jak1	Jak2
+Stathmin and breast cancer resistance to antimicrotubule agents Homo sapiens h stathminPathway	BioCarta_2016	Camk2a	Camk2b	Tubb1	Tuba1a	Tuba3b	Mapk13	Tuba4a	Tuba8	Cd2	Tuba1c	Ccnb1	Prkar1b	Stmn1	Prkar2b	Prkar1a	Prkar2a	Camk4	Cdk1	Camk2g	Prkacb	Cd247
+Stress Induction of HSP Regulation Homo sapiens h hsp27Pathway	BioCarta_2016	Daxx	Apaf1	Tnf	Fasl	Hspb1	Il1a	Acta1	Casp9	Fas	Mapkapk2	Mapkapk3	Bcl2	Casp3	Gm10053
+Sumoylation by RanBP2 Regulates Transcriptional Repression Homo sapiens h ranbp2Pathway	BioCarta_2016	Ranbp2	Hdac6	Hdac4	Hdac1	Nup214	Nup153	Nup210	Pias1	Hdac9	Pias2	Sumo1	Nup62	Ran	Mdm2
+T Cell Receptor Signaling Pathway Homo sapiens h tcrPathway	BioCarta_2016	Ralbp1	Map3k1	Jun	Arap1	Nfatc1	Arap2	Vav1	Nfkbia	Ptprc	Cd4	Pik3ca	H2-Ea	Ptpn7	Cd247	Lat	Sos1	Raf1	Rela	Shc1	Asap2	Cd3g	Cd3e	Cd3d	Ppp3ca	Ppp3cb	Ppp3cc	Asap1	Map2k4	Map2k1	Fos	Prkcb	Prkca	Arfgap3	Arfgap1	Lck	Zap70	Pik3r1	Grb2	H2-Eb2	Ncf2	Camk2b	Arhgap1	Arhgap6	Elk1	Arhgap4	Arhgap5	Mapk8	Chn1	Mapk3	Plcg1	Hras	Rac1	Fyn
+TACI and BCMA stimulation of B cell immune responses Homo sapiens h tall1Pathway	BioCarta_2016	Traf5	Tnfrsf13b	Tnfsf13	Traf6	Tnfrsf17	Traf3	Traf2	Tnfsf13b
+TGF beta signaling pathway Homo sapiens h tgfbPathway	BioCarta_2016	Tgfb1	Smad3	Crebbp	Smad2	Tgfb3	Sar1a	Tgfb2	Smad4	Map2k1	Smad7	Nr2c2	Tgfbr1	Tgfbr2	Ep300	Cdh1	Mapk3	Skil	Tab1	Map3k7
+TNF/Stress Related Signaling Homo sapiens h stressPathway	BioCarta_2016	Map4k2	Map2k4	Map3k1	Atf1	Jun	Map2k3	Chuk	Tradd	Cradd	Tnf	Traf2	Tank	Tnfrsf1a	Mapk14	Ikbkb	Mapk8	Bag4	Casp2	Ripk1	Ikbkg	Map4k4	Map2k6	Map2k7
+TNFR1 Signaling Pathway Homo sapiens h tnfr1Pathway	BioCarta_2016	Map2k4	Tradd	Cradd	Lmnb1	Tnf	Traf2	Tnfrsf1a	Lmnb2	Madd	Lmna	Casp8	Bag4	Casp2	Casp3	Fadd	Ripk1	Birc3
+TNFR2 Signaling Pathway Homo sapiens h tnfr2Pathway	BioCarta_2016	Nfkbia	Rela	Map3k1	Tnfaip3	Traf1	Lta	Traf3	Traf2	Ripk1	Map3k14	Tank	Tnfrsf1b
+TPO Signaling Pathway Homo sapiens h TPOPathway	BioCarta_2016	Stat5b	Jun	Stat1	Shc1	Map2k1	Csnk2a1	Stat3	Fos	Mpl	Prkcb	Prkca	Elk1	Rasa1	Pik3r1	Pik3ca	Thpo	Mapk3	Plcg1	Hras	Grb2	Jak2	Stat5a	Sos1	Raf1
+TSP-1 Induced Apoptosis in Microvascular Endothelial Cell  Homo sapiens h tsp1Pathway	BioCarta_2016	Jun	Gzma	Fos	Casp3	Fyn	Cd36	Mapk14
+Telomeres, Telomerase, Cellular Aging, and  Immortality Homo sapiens h telPathway	BioCarta_2016	Rb1	Xrcc5	Xrcc6	Tnks	Terf1	Prkca	Ppp2r5d	Polr2a	Tert	Tep1	Myc	Akt1	Bcl2	Kras	Trp53
+The 4-1BB-dependent immune response Homo sapiens h 41bbPathway	BioCarta_2016	Atf2	Rela	Jun	Map2k3	Traf2	Il2	Mapk14	Il4	Ifng	Tnfrsf9	Tnfsf9	Map3k5	Map2k6
+The Co-Stimulatory Signal During T-cell Activation Homo sapiens h ctla4Pathway	BioCarta_2016	Cd86	Cd80	Ptpn11	Cd3g	Cd3e	Cd3d	Lck	Pik3r1	Pik3ca	H2-Ea	Cd28	Ctla4	Grb2	Cd247	Itk	H2-Eb2	Icosl	Icos
+The IGF-1 Receptor and Longevity Homo sapiens h longevityPathway	BioCarta_2016	Irs1	Shc1	Pdpk1	Igf1	Sod3	Foxo3	Igf1r	Sod1	Sod2	Pik3r1	Cat	Pik3ca	Akt1	Hras	Grb2	Sos1
+The PRC2 Complex Sets Long-term Gene Silencing Through Modification of Histone Tails Homo sapiens h prc2Pathway	BioCarta_2016	Phc1	Suz12	Eed	Hdac1	Ring1	Cbx4	Hdac2	Bmi1	Yy1	Rbbp4	Rbbp7	Ezh2
+The information-processing pathway at the IFN-beta enhancer Homo sapiens h pcafpathway	BioCarta_2016	Crebbp	Smarcc1	Smarcc2	Jun	Smarce1	Gtf3a	Gtf2f1	Arid1a	Smarca4	Irf1	Kat2b	Irf4	Irf5	Irf2	Irf3	Irf6	Irf7	Gtf2a1	Smarcd1	Atf2	Rela	Smarcb1	Gtf2b	Gtf2e1	Nr3c1	Actb	Polr2a	Ifnb1
+Thrombin signaling and protease-activated receptors Homo sapiens h Par1Pathway	BioCarta_2016	Arfgef2	Rhoa	Arfgef1	Ppp1r12b	Gbf1	F2r	Prkcb	F2	Prkca	Gnb1	Pik3r1	Pik3ca	F2rl3	Plcb1	Rock1	Adcy1	Gnai1	Cyth4	Gngt1	Cyth3	Gna12	Gna13	Ptk2b	Map3k7	Cyth2	Cyth1
+Toll-Like Receptor Pathway Homo sapiens h tollPathway	BioCarta_2016	Map2k4	Map3k1	Ppara	Jun	Map2k3	Chuk	Eif2ak2	Fos	Tirap	Mapk14	Tlr2	Nfkbia	Myd88	Ecsit	Tollip	Traf6	Tlr9	Tab2	Tlr7	Map3k14	Tab1	Tlr6	Tlr4	Tlr3	Rela	Ly96	Elk1	Ikbkb	Mapk8	Irak1	Ikbkg	Map3k7	Cd14	Pglyrp1	Map2k6
+Transcription Regulation by Methyltransferase of CARM1 Homo sapiens h carm1Pathway	BioCarta_2016	Crebbp	Ncoa3	Creb1	Rxra	Prkar1b	Prkar2b	Prkar1a	Ep300	Prkar2a	Bcl2	Carm1	Rara	Prkacb
+Transcription factor CREB and its extracellular signals Homo sapiens h crebPathway	BioCarta_2016	Pdpk1	Prkcb	Prkca	Mapk14	Creb1	Pik3r1	Prkar1b	Pik3ca	Prkar1a	Gnas	Grb2	Sos1	Shc1	Camk2a	Camk2b	Rps6ka5	Rps6ka1	Prkar2b	Prkar2a	Akt1	Mapk3	Hras	Mapk1	Camk2g	Prkacb
+Trefoil Factors Initiate  Mucosal Healing Homo sapiens h tffPathway	BioCarta_2016	Rhoa	Map2k2	Bad	Apaf1	Map2k1	Chuk	Pdpk1	Gh	Nfkbia	Pik3r1	Pik3ca	Tff3	Tff2	Gm10053	Tff1	Grb2	Sos1	Raf1	Rela	Shc1	Ctnnb1	Egfr	Ghr	Ikbkb	Casp9	Casp6	Rps6ka1	Casp7	Erbb2	Akt1	Mapk3	Casp3	Hras	Mapk1	Ikbkg
+Trka Receptor Signaling Pathway Homo sapiens h trkaPathway	BioCarta_2016	Ntrk1	Shc1	Pdpk1	Prkcb	Prkca	Ngf	Pik3r1	Pik3ca	Akt1	Plcg1	Hras	Grb2	Sos1
+Tumor Suppressor Arf Inhibits Ribosomal Biogenesis Homo sapiens h arfPathway	BioCarta_2016	Tbx2	Rb1	Hsp90aa1	Twist1	Ube2a	Nfkbib	Polr1a	Pik3r1	Polr1b	Pik3ca	Polr1c	Polr1d	E2f1	Myc	Hspa1b	Akt1	Atm	Rac1	Abl1	Trp53	Mdm2
+VEGF, Hypoxia, and Angiogenesis Homo sapiens h vegfPathway	BioCarta_2016	Hsp90aa1	Nos3	Pdpk1	Cav1	Arnt	Prkcb	Prkca	Vegfa	Ptk2	Acta1	Pik3r1	Pik3ca	Grb2	Bcar1	Sos1	Flt1	Src	Pxn	Shc1	Flt4	Camk2b	Hif1a	Kng1	Vhl	Akt1	Bdkrb2	Kdr	Plcg1	Hras	Csk
+Visceral Fat Deposits and the Metabolic Syndrome Homo sapiens h vobesityPathway	BioCarta_2016	Adipoq	Rxra	Lpl	Pparg	Retn	Tnf	Nr3c1	Hsd11b1
+Visual Signal Transduction Homo sapiens h rhodopsinPathway	BioCarta_2016	Rcvrn	Pde6g	Guca1a	Gngt2	Grk1	Slc25a18	Gnb1	Arrb1	Rho	Slc25a22	Gnat1	Pde6b	Pde6a
+WNT Signaling Pathway Homo sapiens h wntPathway	BioCarta_2016	Crebbp	Fzd1	Smad4	Tle1	Csnk2a1	Kremen2	Axin1	Ppp2r5d	Dkk1	Dkk2	Hnf1a	Tab1	Ppard	Gsk3b	Hdac1	Ctnnb1	Ctbp1	Lrp6	Nkd1	Nlk	Nkd2	Frat1	Wif1	Ccnd1	Dvl1	Myc	Wnt1	Map3k7	Btrc
+West Nile Virus Homo sapiens h WNVpathway	BioCarta_2016	Tial1	Casp9	Tia1	Casp6	Casp7	Apaf1	Casp3	Gm10053
+Wnt/LRP6 Signalling Homo sapiens h wnt-lrp6Pathway	BioCarta_2016	Fzd1	Wnt8b	Lrp6	Kremen2	Wnt8a	Dkk1	Dkk2
+Y branching of actin filaments Homo sapiens h actinYPathway	BioCarta_2016	Arpc1a	Actr3	Actr2	Nckap1	Arpc1b	Wasl	Cdc42	Psma7	Arpc3	Arpc4	Arpc2	Abl2	Pir	Rac1	Wasf2	Nck1
+cdc25 and chk1 Regulatory Pathway in response to DNA damage Homo sapiens h cdc25Pathway	BioCarta_2016	Wee1	Chek1	Rasgrf1	Atm	Cdk1	Myt1	Ywhah
+fMLP induced chemokine gene expression in HMC-1 cells Homo sapiens h fMLPpathway	BioCarta_2016	Map2k2	Map2k3	Map2k1	Prkcb	Nfatc1	Prkca	Mapk14	Nfkbia	Gnb1	Plcb1	Raf1	Rela	Ncf2	Camk2b	Fpr1	Pik3c2g	Elk1	Camkk1	Camkk2	Ppp3ca	Gna15	Ppp3cb	Gngt1	Ppp3cc	Pak1	Mapk3	Hras	Mapk1	Rac1	Map2k6
+g-Secretase mediated ErbB4 Signaling Pathway  Homo sapiens h erbB4pathway	BioCarta_2016	Adam17	Erbb4	Nrg4	Nrg2	Prkcb	Psen1	Nrg3	Prkca
+mCalpain and friends in Cell motility Homo sapiens h mCalpainPathway	BioCarta_2016	Itga1	Cast	Egf	Map2k2	Map2k1	Ptk2	Acta1	Prkar1b	Prkar1a	Grb2	Ezr	Tln1	Sos1	Itgb1	Pxn	Shc1	Mlc1	Egfr	Mylk	Prkar2b	Prkar2a	Capns1	Mapk3	Capn1	Hras	Mapk1	Rac1	Capn2	Prkacb
+mTOR Signaling Pathway Homo sapiens h mTORPathway	BioCarta_2016	Eif4b	Eif3a	Eif4a1	Irs1	Pdpk1	Rps6	Eif4ebp1	Tsc2	Tsc1	Ppp2r5d	Mtor	Gh	Ghr	Fkbp1a	Pik3r1	Rheb	Pik3ca	Rps6kb1	Mknk1	Akt1	Eif4g1	Eif4e	Pdk2
+p38 MAPK Signaling Pathway  Homo sapiens h p38mapkPathway	BioCarta_2016	Map2k4	Mef2a	Map3k1	Mef2d	Mef2c	Stat1	Cdc42	Mapk14	Creb1	Mapkapk5	Mapkapk2	Ddit3	Atf2	Max	Pla2g1b	Elk1	Nr2c2	Hspb1	Rps6ka5	Mknk1	Myc	Hras	Rac1	Map3k9	Map3k5	Hmgn1	Map2k6
+p53 Signaling Pathway Homo sapiens h p53Pathway	BioCarta_2016	Pcna	Rb1	Cdkn1a	Gadd45a	Ccnd1	Cdk4	Ccne1	E2f1	Cdk2	Timp3	Bcl2	Trp53	Mdm2
+uCalpain and friends in Cell spread Homo sapiens h ucalpainPathway	BioCarta_2016	Itga1	Itgb1	Rhoa	Src	Pxn	Actn4	Actn3	Actn2	Actn1	Ptk2	Acta1	Capns1	Capn1	Rac1	Sptan1	Ezr	Tln1

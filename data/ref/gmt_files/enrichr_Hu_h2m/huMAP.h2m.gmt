@@ -1,0 +1,995 @@
+54865	huMAP	Zcchc9	Stau2	Mphosph10	Larp7	Rpf2	Dhx30	Dkc1	Pes1	Rps5	Zcchc3	Lyar
+84311	huMAP	Mterf3	Mrpl28	Mrpl48	Mrps18a	Mrpl27	Mrpl46	Mrpl24	Mrpl47	Mrpl22	Mrpl10	Mrpl32	Mrpl51	Mrpl30	Mrpl50	Mrpl19	Mrpl17	Mrpl39	Mrpl18	Malsu1	Mrpl16	Mrpl38	Mrpl57	Mrpl13	Mrpl14	Mrpl11	Mrpl55	Mrpl34	Mrpl20	Mrpl4	Mrpl43	Mrpl21	Mrpl3	Mrpl40	Mrpl41	Mrpl2	Mrpl9
+AAAS	huMAP	Nup205	Nup107	Ube2i	Ndc1	Nup153	Nup133	Nup210	Nup160	Smpd4	Nxf1	Gle1	Tmem214	Nup98	Sumo1	Nup43	Rcc1	Nup35	Tmem209	Nup37
+AATF	huMAP	Ddx18	Imp3	Imp4	Krr1	Surf6	Ccdc137	Ftsj3	Gnl3	Gnl2	Rexo4	Gtpbp4	Rsl1d1	Mybbp1a	Pop1	Gzf1	Zfp512	Glyr1	Zcchc3	Hp1bp3	Rbm28	Zfp771	Ddx27	Ddx24	Ddx21	Ppan	Kri1	Dhx30	Larp1	Srp72	Pura	Rpl15	Brix1	Rps5	Rrp12	Rps13
+ABAT	huMAP	Fh1	Qdpr	Sod1	Pgm1
+ABI1	huMAP	Syap1	Cyfip2	Cyfip1	Nckap1	Nhs	Wasf1	Wasf2	Baiap2
+ABT1	huMAP	Rrp8	Ddx27	Ccdc137	Mphosph10	Ddx24	Ddx31	Ftsj3	Gnl2	Dhx30	Lin28b	Srp72	Xrn2	Nkrf	Pop1	Zfp512	Glyr1	Lyar	Rps13
+ACIN1	huMAP	Rbm39	Ddx46	Ppig	Srsf4	Srsf6	Prpf40a	Srsf11	Pnn
+ACLY	huMAP	Hnrnpk	Hnrnpa2b1	Hnrnph1	Hnrnpf	Hnrnpa3
+ACTB	huMAP	Gsn	Actr3	Specc1	Limch1	Ppp1r12a	Svil	Tpm4	Dapk3	Tmod3	Myo5a	Afap1	Cobl	Sorbs2	Lima1	Myo1e	Myo1c	Acta1	Cttn	Capza2	Specc1l	Cep162	Myh9	Capza1b	Dbn1	Ppp1r18	Arhgap11a	Flii	Luzp1	Nexn	Sipa1l3	Tprn	Ablim1	Myo6	Myo18a	Lrrfip2	Misp	Sptbn1
+ACTL6A	huMAP	Ss18l1	Smarcd3	Bcl7b	Actl6b	Smarce1	Arid1a	Smarca2	Brd7	Smarca4
+ACTN4	huMAP	Actn1	Nexn	Myo5a	Cobl	Twf1	Iqgap1	Sorbs2	Ssh2	Ablim1	Inf2	Sptbn1	Rai14	Apob
+ACTR10	huMAP	Dctn6	Actr1b	Dctn3	Dctn2	Dctn5	Dctn4	Actr1a
+ACTR1A	huMAP	Actr1b	Dctn3	Dctn2	Dctn5	Dctn4
+ADRM1	huMAP	Psmd11	Psmd10	Psmd13	Psmd12	Psmd14	Ube3a	Uchl5	Psmc6	Psmd7	Psmc5	Psmd6	Psmd3	Psmc2	Psmd4	Psmc3	Psmd1	Psmc1	Psmd2
+ADSL	huMAP	Fh1	Qdpr	Fabp5	Oxct1	Taldo1	Hsd17b14	Tagln3	Ube2v1	Etfb	Pepd
+AFAP1	huMAP	Ablim1	Myo5a	Myh9	Nexn	Myo5b	Twf1	Cobl	Sorbs2	Sptbn1	Coro1c	Lima1
+AFF4	huMAP	Aff1	Ccnt2	Ccnt1	Mllt1	Ell2	Ell3
+AIMP1	huMAP	Aimp2	Ythdf2	Eef1e1
+AKAP2	huMAP	Myo5c	Nexn	Myo5a	Cobl	Sorbs2	Misp	Sptbn1	Lima1	Coro1c	Ppp1cb
+ALDOA	huMAP	Isyna1	Gale	Gsto2	Gorasp2	Gpd1l	Pgp	Prep	Aldoc	Pgd
+ALDOC	huMAP	Gale	Isyna1	Gsto2	Gorasp2	Pgp	Pgd
+AMPH	huMAP	Napb	Gria2	Hpca	Camk2a	Ncald	Ank2	Snap91	Syn1	L1cam	Dclk1	Mapt	Dpysl3	Dpysl4	Vsnl1	Cdh13	Rab6b	Stx1b	Dnm1l	Sncb
+ANAPC10	huMAP	Anapc15-ps	Fzr1	Cdc26	Cdc16	Gnptg	Cdc27	Fbxo5	Anapc5	Anapc1
+ANAPC15	huMAP	Anapc13	Cfap97	Fzr1	Gnptab	Cdc16	Cdc27	Fbxo5	Anapc5	Sorbs3	Anapc1	Cdc20
+ANAPC16	huMAP	Anapc13	Cdc23	Anapc15-ps	Fzr1	Cdc26	Cdc16	Cdc27	Anapc5	Anapc7	Anapc10	Anapc1	Cdc20
+ANAPC2	huMAP	Anapc13	Anapc15-ps	Cfap97	Anapc16	Anapc10	Cdc20	Cdc23	Gnptab	Fzr1	Cdc26	Cdc27	Cdc16	Gnptg	Fbxo5	Anapc5	Anapc7	Anapc1
+ANAPC4	huMAP	Anapc13	Anapc15-ps	Anapc16	Anapc10	Cdc23	Fzr1	Penk	Cdc26	Cdc16	Cdc27	Nek2	Anapc5	Anapc7	Anapc1	Anapc2
+ANAPC7	huMAP	Anapc13	Anapc15-ps	Fzr1	Cdc26	Cdc27	Cdc16	Anapc5	Anapc10	Anapc1
+ANKRD44	huMAP	Ppp6c	Notch3	Notch1	Notch2	Ankrd28	Ppp6r1	Ppp6r3
+ANKRD52	huMAP	Ppp6c	Dclre1c	Ankrd28	Ppp6r1	Ppp6r2
+AP1S2	huMAP	Aftph	Heatr5b	Ap1g2	Synrg	Ap1ar	Ap1m2
+AP2A1	huMAP	Fcho2	Ap2b1	Bmp2k	Pik3c2a	Ap2m1
+AP2M1	huMAP	Fcho2	Clmn	Kif13a	Ap2b1	Ap2a2	Bmp2k	Aak1
+AP3S1	huMAP	Ap3m2	Rnf13	Ap3d1	Ap3b1	Ap3m1
+AQR	huMAP	Rab43	Prpf19	Dhx35	Ccdc12	Zfp830
+ARGLU1	huMAP	Rbm39	Thrap3	Snrnp70	Tra2b	Prpf4b	Srsf6	Srsf11	Luc7l3	Srrm2
+ARHGAP11A	huMAP	Tpm2	Cfl2	Myo5b	Twf1	Coro1c
+ARID1B	huMAP	Smarcd1	Smarcc1	Smarcd2	Ss18l1	Smarcd3	Smarcc2	Pbrm1	Actl6a	Smarce1	Arid1a	Smarca2	Smarca4	Bcl7b	Dpf2	Bcl7c	Dpf3	Brd7	Arid2
+ARID2	huMAP	Smarcd1	Smarcd2	Pbrm1	Actl6a	Smarce1	Arid1a	Smarca2	Smarca4	Bcl7b	Dpf1	Dpf3	Brd9	Brd7
+ARID4A	huMAP	Sap130	Sin3a	Brms1l	Suds3	Arid4b	Sap30
+ARPC2	huMAP	Arpc1a	Actr3	Actr2	Arpc3	Arpc1b
+ARPC4	huMAP	Actr2	Plekhg3	Actn4	Rrm1	Actn1	Myo5a	Myo5b	Cobl	Arpc5	Sorbs2	Ssh2	Ppp1cb	Arpc3	Myo5c	Arpc2	Rai14	Calm1	Arpc1a	Wdr1	Arpc1b	Actg1	Arpc5l	Twf1	Rpap1	Coro1b	Coro1c	Hnrnpll	Ablim1	Cfl2	Cfl1	Efhd2	Eif4e
+ARPC5	huMAP	Arpc1a	Actr2	Tppp3	Arpc3	Arpc1b	Arpc2	Arpc5l
+ARPC5L	huMAP	Arpc1a	Actr2	Arpc3	Arpc2	Arpc1b
+ATP4A	huMAP	Stxbp1	Syt1	Camk2a	Crmp1	Ncald	Snap91	Dclk1	Syn1	Gng2	Dpysl2	Mapt	Dpysl5	Dpysl3	Vsnl1	Stx1b	Sncb
+ATP5A1	huMAP	Tufm	Rpl21	Rps3a1	Hadha	Uqcrc2	Fau	Rps25	Rpl3	Slc25a4	Acadvl	Hsp90ab1	Rplp2	Rpl13	Dlst	Ybx1	Atp2a2	Rpl14	Rps3
+ATP5B	huMAP	Slc25a4	Acadvl	Atp2a2	Sumo2	Slc25a5
+ATP5D	huMAP	Slc25a4	Ackr3
+ATP5F1	huMAP
+ATP5H	huMAP
+ATP5O	huMAP	Tufm	Uqcrc2	Atp2a2
+ATP6V1C1	huMAP	Cnn1	Mdh2	Ube2f	Cfl2	Tagln3	Atox1
+ATP6V1C2	huMAP	Atp6v1g1	Atp6v1a	Atp6v1g2	Magea13	Atp6v1e2	Atp6v1f	Atp6v1b2
+BASP1	huMAP	Tes	Myo1e	Specc1	Plekhg3	Actn4	Myo5c	Myo5a	Myo5b	Twf1	Cobl	Sptbn1	Ssh2
+BBOX1	huMAP	Tbk1	Casp2	Tank	Azi2
+BCAS2	huMAP	Aqr	Sf3a2	Isy1	Dhx8	Bud31	Cdc5lrt9	Pdia5	Eftud2	Xab2	Ubl5	Snw1	Prpf19	Plrg1	Ccdc12	Snrnp200	Ctnnbl1	Ppie
+BCL7A	huMAP	Smarcd1	Smarcd2	Smarcc1	Ss18l1	Smarcd3	Smarcb1	Smarcc2	Actl6a	Smarce1	Arid1a	Smarca2	Arid1b	Smarca4	Bcl7b	Dpf2	Bcl7c	Dpf3
+BCL7C	huMAP	Smarcd3	Smarce1	Arid1a	Smarca2	Smarca4
+BCLAF1	huMAP	Rbm39	Spen	Fmr1	Srsf1	U2af2	Pnn	Srrm2	Fxr1	Thrap3	Tra2b	Luc7l	Ppig	Srsf3	Rnps1	Acin1	Srsf5	Srsf6	Matr3	Srsf7	Srsf11
+BMI1	huMAP	Rnf2	Cbx7	Phc3	Phc2	Ring1	Cbx4
+BMS1	huMAP	Dhx30	Imp3	Mphosph10	Ccdc137	Rpl26	Ddx10	Ddx21	Rps5	Tsr1	Rrs1
+BOP1	huMAP	Noc3l	Ddx31	Gnl3	Ftsj3	Rexo4	Larp7	Wdr12	Gtpbp4	Mrto4	Mybbp1a	Ebna1bp2	Dkc1	Rpl7l1	Nol12	Rbm28	Rrp8	Ddx27	Ddx24	Zc3hav1	Rpf2	Pes1	Rpl15	Rrs1
+BRIX1	huMAP	Upf1	Imp3	Imp4	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Dkc1	Rpl7l1	Rpl26	Pabpc4	Stau2	Nip7	Zc3hav1	Noc4l	Rpf2	Dhx30	Llph	Pes1	Rps5	Gm6133	Rrs1	Sf3b2	Lyar	Myef2l	Nop16	Ddx56	Ccdc137	Mrps22	Noc3l	Rrp1b	Ftsj3	Wdr12	Mov10	Mybbp1a	Ebna1bp2	Tsr1	Gzf1	Fyttd1	Nop56	Rbm28	Zfp771	Rrp8	Ddx27	Mphosph10	Ddx24	Ddx21	Rrp9	Larp1	Dhx57
+BRMS1	huMAP	Sap130	Sin3a	Brms1l	Arid4a	Suds3	Arid4b	Sap30
+BTF3	huMAP	Rps8	Rpl21	Rps9	Rps3a1	Canx	Rps20	Rps25	Rpl6	Rpl30	Hsp90ab1	Rpl10	Rpl13	Rplp2	Rpl34	Rpl12	Dlst	Ybx1	Hnrnpu	G3bp1	G3bp2	Rpl14	Rps5	Rps3	Rps15a	Rps27a
+BUB3	huMAP	Bub1b	Kctd20	Btbd10	Bub1	Cdc20
+BUD13	huMAP	Zfp770	Imp3	Gpkow	Ddx10	Gzf1
+BUD31	huMAP	Aqr	Sf3a2	Isy1	Cdc5lrt9	Lsm2	Ntpcr	Lsm6	Xab2	Snw1	Ddx39b	Prpf19	Dhx35	Ccdc12	Smndc1	Ppie
+BYSL	huMAP	Rps15	Rps8	Dhps	Parn	Noc4l	Tsr1	Rps3	Rps3a1	Zfp622	Fbl	Rps13
+C16orf62	huMAP	Commd9	Commd10	Commd3	Commd4	Ccdc22	Ccdc93	Vps29
+C1D	huMAP	Exosc8	Exosc7	Exosc6	Exosc10	Exosc5	Exosc2	Mphosph6	Exosc1
+C7orf50	huMAP	Upf1	Imp3	Imp4	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Bop1	Lin28b	Dkc1	Rpl26	Pabpc4	Pop1	Zfp512	Stau2	Nip7	Zc3hav1	Rpf2	Dhx30	Llph	Pura	Pes1	Rpl15	Gar1	Gm6133	Rrs1	Sf3b2	Lyar	Myef2l	Nop16	Ddx56	Surf6	Ccdc137	Noc3l	Ftsj3	Mov10	Ebna1bp2	Mybbp1a	Nol12	Gzf1	Glyr1	Fyttd1	Nop56	Rbm28	Rrp8	Zfp771	Ddx27	Ddx24	Ddx21	Kri1	Ttf1	Rrp9	Larp1	Nkrf	Brix1	Rbm34	Rps13
+C8orf33	huMAP	Rbm28	Ebna1bp2	Rpl26	Ppan	Ftsj3	Nop56	Gtpbp4	Fyttd1
+CALB2	huMAP	Gria2	Napb	Hpca	Camk2a	Ncald	Snap91	Ank2	L1cam	Dclk1	Syn1	Mapt	Dpysl3	Vsnl1	Dpysl4	Cdh13	Rab6b	Amph	Stx1b	Sncb	Dnm1l
+CALM1	huMAP	Myo1c	Actn4	Tpm4	Myo5c	Myh9	Sorbs2	Ssh2
+CALML3	huMAP	Specc1	Tmod1	Ppp1r12a	Svil	Plekhg3	Myo5a	Afap1	Myo5b	Cobl	Sorbs2	Myo19	Lima1	Myo1e	Inf2	Myo1c	Myo1b	Arpc4	Myo5c	Plec	Sipa1	Cpm	Rai14	Actrt1	Calm1	Dbn1	Flii	Luzp1	Actg1	Nexn	Iqgap1	Ppp1r9b	Coro1c	Zbtb20	Ablim1	Arhgap21	Basp1	Misp	Synpo	Sptbn1
+CALR	huMAP	Tufm	Rps8	Rps9	Rpl21	Rpl23	Rps3a1	Canx	P4hb	Calu	Hnrnpc	Rpl27	Inha	Rpl6	Rpl3	Rpl35	Rplp2	Ybx1	Eno3	Rpl18a	Rpl15	Rps15a	Rpl18
+CAMK2A	huMAP	Dpysl2	Hpca	Mapt	Dpysl3	Vsnl1	Camk2b	Cdh13	Ncald	Snap91	Stx1b	Syn1	Sncb
+CAMKV	huMAP	Syt1	Snap91	Syn2	Syn1	L1cam	Atp4a	Mapt	Vsnl1	Cdh13	Amph	Stx1b	Stx1a	Cntn1	Gria2	Napb	Stxbp1	Rab3a	Hpca	Camk2a	Crmp1	Ncald	Gng2	Ppp3r1	Calb2	Epb41l1	Map2	Dpysl3	Rab6b	Sncb
+CANX	huMAP	Tufm	Rpl22	Prkcsh	Rps9	Rplp2	Rpl13	Ybx1	Mogs	Rps3a1	Ganab	Uqcrc2	Rpl14	Rps3
+CAPZA2	huMAP	Gsn	Svil	Actg1	2900026A02Rik	Lima1	Myl12b	Acta1	Myo1c	Specc1l	Myh9	Lrrfip2	Misp
+CARNMT1	huMAP	Sarm1	Mkrn2	Leng9	Dtl	Tab2	Nr3c2	Map3k7	Rnf113a2	Cntln
+CBX8	huMAP	Rnf2	Phc3	Phc2	Cbx4	Ring1	Bmi1
+CCDC124	huMAP	Larp1	Rpl10	Rps19	Rpl13	Ybx3	Eif1b	Eif2d	Rps14	Rpl7a	Rps13
+CCDC137	huMAP	Upf1	Nop16	Imp3	Imp4	Ddx56	Ddx10	Rrp1b	Ftsj3	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Mybbp1a	Ebna1bp2	Dkc1	Rpl7l1	Rpl26	Tsr1	Gzf1	Zcchc3	Nop56	Zfp574	Rbm28	Zcchc9	Zfp771	Ddx27	Stau2	Mphosph10	Ddx24	Zc3hav1	Ddx21	Rrp9	Rpf2	Dhx30	Larp1	Dhx57	Pes1	Rps5	Rrs1	Lyar
+CCDC22	huMAP	Commd9	Commd10	Commd3	Commd4	Commd2	Ccdc93	Commd5	Vps29
+CCDC59	huMAP	Stau1	Stau2	Llph	Ccdc137	Ddx24	Knop1	Nol12	Ftsj3
+CCDC86	huMAP	Rbm19	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Bop1	Lin28b	Dkc1	Rpl7l1	Rpl26	Pop1	Zfp512	Zcchc9	Ythdc2	Nip7	Zc3hav1	Zc3h8	Rpf2	Dhx30	Srp72	Llph	Zfp629	Pura	Pes1	Rpl15	Rps5	Gm6133	Rrs1	Lyar	Ddx18	Nop16	Mrps26	Surf6	Ddx56	Ccdc137	Mrps22	Noc3l	Rrp1b	Ftsj3	Wdr12	Rsl1d1	Ebna1bp2	Mybbp1a	Tsr1	Nol12	Gzf1	Glyr1	Nop56	Rbm28	Zfp771	Rrp8	Ddx27	Ddx24	Ddx21	Kri1	Ttf1	Rrp9	Larp1	Nkrf	Dhx57	Brix1	Nifk	Rbm34	Rps13
+CCNA2	huMAP	Cdt1	Cdkn1b	Ccnb1	Cdkn1c	Gmnn	Ccne2	Ccne1	Cdk3	Cks1b	Cdk2	Cdk1	Skp2
+CCNC	huMAP	Cdk19	Med4	Med9	Med17	Med16	Med6	Med27	Med7	Med29	Med12l	Med18	Med24	Med13	Med23	Med12	Med15	Med14	Med25	Med31	Med20	Med22	Med21
+CCNH	huMAP	Cdk7	Bivm	Ercc2	Mnat1	Gtf2h5
+CCT2	huMAP	Cct6b	Fasn	Tcea1	Txndc9	Dnajc19
+CCT3	huMAP	Cct4	Cct6b	Cct6a	Pdcl3	Cct2	Mlst8	Tcp1	Txndc9	Cct7	Cct5
+CCT4	huMAP	Cct6b	Cct2	Cct8	Txndc9
+CCT7	huMAP	Cct4	Cct6b	Cct6a	Pdcl3	Cct2	Tcp1	Tcea1	Txndc9	Cct5
+CD2BP2	huMAP	Prpf6	Sart1	Prpf8	Usp39	Sf3a3	Ddx23	Thoc2	Prpf31	Snrpf	Sf3b2	Sf3a1	Snrpe
+CD3EAP	huMAP	Polr1a	Polr1b	Polr1d	Polr2f	Gpn3
+CDC23	huMAP	Anapc13	Anapc15-ps	Cfap97	Anapc10	Cdc20	Fzr1	Gnptab	Cdc26	Gnptg	Cdc16	Cdc27	Fbxo5	Anapc5	Anapc7	Anapc1
+CDC26	huMAP	Anapc13	Cfap97	Anapc15-ps	Fzr1	Cdc27	Cdc16	Anapc5	Anapc1	Cdc20
+CDC40	huMAP	Aqr	Dhx8	Isy1	Bud31	Cdc5lrt9	Cwc15	Crnkl1	Xab2	Snw1	Rab43	Syf2	Ccdc12	Ppie	Rbm22	Bcas2
+CDC5L	huMAP	Cpsf6	Aqr	Ddx17	Sf3a3	Thoc2	Prpf40a	Eif2s2	Safb	U2surp	Xab2	Prpf6	Kpnb1	Prpf8	Prpf19	Cd2bp2	Prpf31	Cdk12	Sf3a1	Ppie	Dhx8	Ddx23	Srrt	Top2a	Psip1	Cdc73	Eftud2	Sart1	Snrpd2	Snrpd1	Dhx15	Ccdc12	Sf3b2
+CDC73	huMAP	Prpf8	Sf3a3	Ddx5	Iws1	Prpf40a	Srsf11
+CDH13	huMAP	Napb	Hpca	Mapt	Dpysl3	Vsnl1	Ank2	Snap91	Stx1b	Dnm1l	Syn1	Sncb
+CDK1	huMAP	Cdkn1b	Cdkn1c	Cks1b	Pkmyt1	Skp2
+CDK11A	huMAP	Cdk11b	Sap30bp	Anp32b	Anp32a	Anp32e	Prpf4b	U2af2
+CDK19	huMAP	Med23	Med14	Med17	Med12l	Med29
+CDK2	huMAP	Rbl1	Cdkn1c	Gmnn	Ccne2	Cks1b
+CDK8	huMAP	Cdk19	Med4	Med9	Ccnc	Med17	Med16	Med27	Med6	Med7	Med12l	Med29	Med18	Med13	Med24	Med23	Med12	Med15	Med25	Med14	Med31	Med20	Med22	Med21
+CDK9	huMAP	Hexim2	Aff1	Ccnt2	Ccnt1	Mllt1	Mllt3	Aff4	Aff3
+CDKN1B	huMAP	Cdkn1c	Ccnd3	Cdkn1a	Cdk3	Cdk2	Cks1b
+CEBPZ	huMAP	Ddx18	Nop16	Imp3	Imp4	Surf6	Ddx56	Ccdc137	Ddx10	Rrp1b	Noc3l	Ddx31	Gnl3	Rexo4	Gnl2	Gtpbp4	Mrto4	Rsl1d1	Mybbp1a	Ebna1bp2	Nol10	Pop1	Zfp512	Rbm28	Ddx27	Nvl	Nip7	Ddx24	Ddx21	Ppan	Noc2l	Kri1	Ttf1	Rpf2	Larp1	Dhx30	Rpl15	Rrp12	Lyar	Rbm34	Rps13
+CENPH	huMAP	Cenpu	Cenpn	Cenpo	Itgb3bp	Cenpt
+CENPI	huMAP	Cenpu	Cenph	Cenpk	Cenpm	Cenpn	Cenpo	Cenpp	Cenpq	Itgb3bp	Cenpt
+CENPK	huMAP	Cenpu	Cenph	Cenpm	Cenpn	Cenpo	Itgb3bp	Cenpt
+CENPP	huMAP	Cenpu	Cenph	Cenpk	Cenpn	Cenpo	Cenpq	Itgb3bp	Cenpt
+CENPQ	huMAP	Cenpu	Cenpk	Cenpm	Cenpn	Cenpo	Itgb3bp	Cenpt
+CEP170	huMAP	Pcyt1a	Rufy2	Frat2	Nin	Kifc3	Rfwd3	Dapk3	Cep170b	Begain	Syne2
+CERCAM	huMAP	Arsa	Naglu	Fut11	Man2b1	Sgsh
+CFL1	huMAP	Cap2	Cap1	Myo5c	Cfl2	Actg1	Myo5b	Twf1	Cobl	Sorbs2	Coro1c	Ssh2
+CFL2	huMAP	Aldh5a1	Coro2a	Tia1	Myo5c	Myo5a	Myo5b	Twf1	Coro1c
+CHD3	huMAP	Hdac2	Mbd2	Rbbp4	Mbd3	Zfp219	Zbtb2	Gatad2a	Rbbp7	Cdk2ap1rt	Chd4	Mta3	Gatad2b
+CKAP5	huMAP	Tox4	Ppp1r10	Tacc2	Slain1	Tacc1
+CLK3	huMAP	Clk2	Srsf1	Zc3h14	Srsf9	Ywhah
+CLTCL1	huMAP	Picalm	Gak	Hip1r	Stambp	Clint1	Pik3c2a
+CNOT1	huMAP	Cnot6l	Btg3	Fhl2	Cnot11	Cnot10	Tob2	Tob1	Cnot6	Cnot7	Cnot8	Cnot2	Cnot3	Tnks1bp1
+CNOT10	huMAP	Cnot6l	Cnot6	Cnot7	Cnot8	Cnot2	Cnot3	Cnot11	Tnks1bp1
+CNOT2	huMAP	Cnot6l	Cnot6	Cnot3	Cnot11	Tnks1bp1
+CNOT7	huMAP	Cnot6l	Cnot6	Cnot2	Cnot3	Cnot11	Tob2	Tnks1bp1
+CNOT8	huMAP	Cnot6l	Cnot7	Cnot2	Cnot3	Cnot11	Tnks1bp1
+CNTN1	huMAP	Dpysl3	Vsnl1	Ncald	Stx1b	Sncb	Syn1
+COBL	huMAP	Ablim1	Myo5c	Nexn	Pacsin3	Myo5b	Misp	Sptbn1	Coro1c	Ppp1cb
+COG2	huMAP	Cog8	Cog7	Cog6	Cog4	Cog3	Cog1
+COG4	huMAP	Zw10	Cog8	Cog7	Cog6	Xpo7	Cog3	Cog1
+COG5	huMAP	Cog8	Cog7	Cog6	Cog4	Cog3	Cog2	Cog1
+COMMD1	huMAP	Commd9	Commd10	Commd3	Commd4	Ccdc22	Ccdc93	Vps29
+COMMD10	huMAP	Commd9	Commd3	Commd4	Commd2	Ccdc93
+COMMD5	huMAP	Commd9	Commd10	Commd3	Commd4	Ccdc93
+COMMD6	huMAP	Ranbp1	Commd10	Commd3	Commd4	Commd1	Commd2	Commd7	Commd8	Commd5	Commd9	Ccdc22	Ccdc93	Vps29
+COMMD7	huMAP	Commd9	Commd10	Commd3	Commd4	Commd1	Ccdc22	Commd2	Ccdc93	Commd8	Vps29	Commd5
+COMMD8	huMAP	Commd9	Commd10	Commd3	Commd2	Commd5	Vps29
+COPS3	huMAP	Ddb2	Cul4b	Cops4	Cul4a	Cops6	Btbd1	Cops2	Cul2	Dcaf11	Cops7a	Cops8	Rbx1
+COPS4	huMAP	Ddb2	Dda1	Cul4a	Cops6	Cops2	Cops7a	Dcaf11	Cops8	Rbx1
+COPS5	huMAP	Ddb2	Cul4a	Cops4	Cops6	Btbd1	Cops3	Cops2	Cops7a	Cops8
+COPS6	huMAP	Cul4b	Ddb2	Cul4a	Cops2	Dcaf11	Rbx1
+COPS7A	huMAP	Ddb2	Cul4b	Cul4a	Cops6	Cops2	Dcaf11
+COPS7B	huMAP	Cops5	Cops4	Cops6	Cops3	Cops2	Cops7a	Cops8
+COPS8	huMAP	Ddb2	Cul4b	Cul4a	Cops6	Cul3	Cops2	Cops7a
+CORO1B	huMAP	Plekhg3	Actg1	Cfl1	Myo5b	Cwc27	Sptbn1	Coro1c	Ssh2
+CPSF6	huMAP	Sf3a2	Rbm15	Sf3a3	Ddx17	Thoc2	Eif2s2	U2surp	Prpf6	Kpnb1	Prpf8	Prpf19	Cd2bp2	Prpf31	Sf3a1	Snrpe	Rbm26	Usp39	Ddx5	Dhx9	Srrt	Cdc73	Eftud2	Snrpd2	Snrpd1	Dhx15	Sf3b2	Srsf11
+CRMP1	huMAP	Camk2a	Camk2b	Ncald	Snap91	Dclk1	Syn1	Gng2	Dpysl2	Mapt	Dpysl3	Gnao1	Vsnl1	Stx1b	Sncb
+CRNKL1	huMAP	Aqr	Dhx8	Isy1	Bud31	Cdc5lrt9	Cwc15	Eftud2	Xab2	Snw1	Rab43	Prpf19	Snrnp40	Plrg1	Dhx35	Gpatch1	Ccdc12	Cactin	Slu7	Zfp830	Snrnp200	Rbm22	Ppie	Bcas2
+CSNK2A1	huMAP	Csnk2a2	Csnk2b	Ctr9	Supt4a	Vsx1	Paf1
+CSNK2A2	huMAP	Csnk2b	Gpatch2	Fbrsl1	Gpatch2l	Vsx1	Nkap
+CSPP1	huMAP	AW554918	Gan	Ccdc14	Ccdc138
+CSTF2	huMAP	Pcf11	Cstf3	Papolb	Papola	Cstf2t
+CTBP1	huMAP	Zeb1	Zbtb18	Trps1	Rreb1	Hic2
+CTCF	huMAP	Zbtb11	Knop1	Ddx31	Gnl3	Gnl2	Rexo4	Larp7	Gtpbp4	Lin28b	Dkc1	Xrn2	Rpl26	Pop1	Zfp512	Hp1bp3	Stau1	Nip7	Nop2	Zc3hav1	Rpf2	Dhx30	Pura	Rpl15	Gar1	Rrs1	Lyar	Nop16	Surf6	Ccdc137	Noc3l	Ftsj3	Rsl1d1	Ebna1bp2	Mybbp1a	Nol12	Gzf1	Glyr1	Rbm28	Zfp771	Ddx27	Ddx24	Ddx21	Ppan	Zfp422	Kri1	Ttf1	Rrp9	Larp1	Nkrf	Brix1	Rbm34	Rps13
+CUL3	huMAP	Kbtbd6	Btbd1	Kctd20	Klhl13	Rbx1	Klhl42
+CWC15	huMAP	Xab2	Aqr	Snw1	Isy1	Cdc5lrt9	Ccdc12	Ppie
+CWC22	huMAP	Srsf1	Srsf2	Ddx46	Rnps1	Acin1	Srsf7	Pnn	Srrm2
+CXXC1	huMAP	Rbbp5	Ash2l	Bod1l	Wdr5	Setd1b
+CYP51A1	huMAP	Dhrs7l	Esyt1	Ephx1	Them6	Atp2a3	Slc27a3	Pdzd8
+DAB2	huMAP	Specc1	Ston2	Myo5a	Cobl	Sorbs2	Pik3c2a	Myo1e	Fcho2	Basp1	Myo6	Slc25a41	Eps15	Bmp2k	Ap2m1
+DARS	huMAP	Aimp2	Aimp1	Eef1e1
+DBI	huMAP	Oxct1	Adsl	Etfb	Acat3
+DBN1	huMAP	Ppp1r12a	Actg1	Afap1	Myo5a	Nexn	Sorbs2	Lima1	Ppp1cb	Ablim1	Myh9	Myo18a	Misp
+DCLK1	huMAP	Mapt	Hpca	Dpysl3	Camk2a	Vsnl1	Cdh13	Snap91	L1cam
+DCTN1	huMAP	Dctn6	Actr1b	Dctn3	Dctn2	Dctn5	Dctn4	Actr10	Actr1a
+DCTN6	huMAP	Actr1b	Dctn3	Dctn2	Dctn5	Dctn4	Actr1a
+DDX1	huMAP	Hnrnpm	Rtcb	Hnrnph3	Ewsr1	Fam98b
+DDX10	huMAP	Dhx30	Zfp771	Nop16	Imp3	Ddx21	Gzf1	Gnl3	Larp7	Nop56
+DDX17	huMAP	Hnrnpm	Prpf8	D1Pas1	Hnrnpk	Usp39	Ddx5	Sf3a3	Srsf5	Prpf40a	Cdc73
+DDX18	huMAP	Imp3	Imp4	Gnl1	Ddx31	Gnl3	Rexo4	Wdr36	Gtpbp4	Mrto4	Lin28b	Dkc1	Rpl7l1	Rpl26	Zfp512	Zcchc9	Stau2	Ythdc2	Nip7	Noc4l	Rpf2	Dhx30	Pura	Pes1	Rpl15	Gar1	Gm6133	Rrs1	Lyar	Abcf2	Nop16	Surf6	Utp3	Ddx56	Ccdc137	Rrp1b	Noc3l	Ftsj3	Mov10	Ebna1bp2	Mybbp1a	Nol10	Nol12	Glyr1	Nop56	Rbm28	Ddx27	Mphosph10	Ddx24	Ddx21	Larp1	Nkrf	Dhx57	Bms1	Brix1
+DDX21	huMAP	Zcchc9	Rbm28	Zfp771	Stau2	Imp3	Imp4	Mphosph10	Larp7	Rpf2	Dhx30	Mybbp1a	Ebna1bp2	Dkc1	Pes1	Rps5	Tsr1	Gzf1	Lyar	Nop56
+DDX23	huMAP	Prpf6	Sart1	Hnrnpm	Prpf8	Sf3a3	Usp39	Prpf31	Prpf40a	Snrpb2
+DDX24	huMAP	Nop16	Imp3	Imp4	Mrps22	Gnl3	Rexo4	Larp7	Wdr12	Ebna1bp2	Mybbp1a	Dkc1	Tsr1	Gzf1	Nop56	Zcchc9	Rbm28	Zfp771	Ddx27	Stau2	Mphosph10	Ddx21	Rrp9	Rpf2	Dhx30	Rps17	Pes1	Rps5	Rrs1	Igf2bp3	Lyar
+DDX27	huMAP	Rbm28	Zfp771	Imp3	Stau2	Imp4	Mphosph10	Ddx21	Rpf2	Dhx30	Rps17	Mybbp1a	Ebna1bp2	Dkc1	Pes1	Rps5	Gzf1	Lyar	Nop56	Fyttd1
+DDX31	huMAP	Upf1	Imp3	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Dkc1	Rpl7l1	Rpl26	Stau2	Nip7	Zc3hav1	Rpf2	Dhx30	Llph	Pes1	Rps5	Gm6133	Rrs1	Lyar	Myef2l	Nop16	Ddx56	Ccdc137	Noc3l	Rrp1b	Ftsj3	Mov10	Ebna1bp2	Mybbp1a	Nmnat1	Tsr1	Gzf1	Nop56	Fyttd1	Rbm28	Rrp8	Zfp771	Ddx27	Mphosph10	Ddx24	Ddx21	Rrp9	Larp1	Igf2bp3
+DDX39B	huMAP	Lsm7	Thoc2	Dhx38	Thoc1	Thoc6	Thoc5	Smndc1	Thoc7
+DDX5	huMAP	Hnrnpm	Usp39	Srsf5	Prpf40a	Srsf11
+DDX50	huMAP	Knop1	Ddx31	Gnl3	Gnl2	Rexo4	Srrm1	Smarca5	Gtpbp4	Mrto4	Lin28b	Xrn2	Rpl26	Ccdc86	Pop1	Zfp512	Hp1bp3	Nvl	Stau1	Stau2	Nip7	Zc3hav1	Rpf2	Dhx30	Srp72	Pura	Pes1	Rpl15	Rps5	Gm6133	Rrs1	Lyar	Ddx18	Nop16	Abt1	Surf6	Ccdc137	Mrps22	Rrp1b	Srp68	Noc3l	Ftsj3	Rsl1d1	Mybbp1a	Ebna1bp2	Tsr1	Nol12	Glyr1	Rbm28	Rrp8	Ddx27	Ddx24	Ddx21	Ppan	Kri1	Ttf1	Larp1	Nkrf	Brix1	Rrp15	Rrp12	Nifk	Igf2bp3	Rbm34	Rps13
+DDX54	huMAP	Ddx31	Gnl3	Rexo4	Gnl2	Srrm1	Gtpbp4	Xrn2	Dkc1	Ccdc86	Cebpz	Zfp512	Hp1bp3	Stau1	Nip7	Zc3hav1	Zc3h8	Dhx30	Zfp629	Pes1	Rpl15	Lyar	Nop16	Ccdc137	Surf6	Ddx56	Ddx10	Rrp1b	Ftsj3	Wdr12	Rsl1d1	Ebna1bp2	Mybbp1a	Gzf1	Rbm28	Zfp771	Rrp8	Mphosph10	Ddx24	Ddx21	Ppan	Noc2l	Ttf1	Kri1	Nkrf	Brix1	Nifk	Rps13	Rbm34
+DDX55	huMAP	Ddx18	Ddx56	Ddx24	Nop56	Gtpbp4
+DDX56	huMAP	Upf1	Nop16	Imp3	Imp4	Ddx10	Ftsj3	Rexo4	Larp7	Gtpbp4	Mrto4	Mybbp1a	Ebna1bp2	Dkc1	Rpl7l1	Gzf1	Nop56	Zfp771	Ddx27	Mphosph10	Ddx24	Ddx21	Rpf2	Dhx30	Pes1	Rrs1
+DHX15	huMAP	Sf3a3	Ddx17	Thoc2	Prpf40a	Eif2s2	U2surp	Hnrnpm	Prpf6	Prpf8	Prpf19	Smu1	Srsf5	Snrpe	Sf3a1	D1Pas1	Tcerg1	Ddx5	Dhx9	Psip1	Cdc73	Eftud2	Snrpd1	Srsf11	Sf3b2
+DHX30	huMAP	Stau2	Imp4	Mphosph10	Larp7	Nop56	Rpf2
+DHX57	huMAP	Rbm28	Ddx27	Nop16	Ngdn	Ddx24	Ddx21	Gnl3	Dhx30	Rps17	Ebna1bp2	Mybbp1a	Zkscan8	Rpl7l1	Pes1	Rps5	Tsr1	Lyar	Nop56
+DHX8	huMAP	Aqr	Rab43	Prpf19	Nudcd1	Cactin	Ccdc12
+DIS3L	huMAP	Exosc8	Exosc7	Exosc6	Exosc10	Exosc5	C1d	Mphosph6	Exosc2	Exosc1
+DKC1	huMAP	Dhx30	Stau2	Mphosph10	Pes1	Wdr36	Larp7	Rpf2	Nop56
+DMAP1	huMAP	Trrap	Meaf6	Srcap	Actr6	Znhit1	Morf4l2	Vps72	Yeats4	Kat5	Mbtd1	Epc1	Epc2	Ep400	Brd8	Jazf1
+DPF2	huMAP	Ss18l1	Bcl7b	Actl6a	Smarce1	Arid1a	Smarca4
+DPF3	huMAP	Ss18l1	Smarcd2	Smarcd3	Bcl7b	Actl6a	Smarce1	Arid1a	Smarca2	Brd7	Smarca4
+DPYSL3	huMAP	Dpysl2	Hpca	Mapt	Vsnl1	Stx1b	Sncb	Syn1
+DPYSL5	huMAP	Gng2	Dpysl2	Mapt	Dpysl3	Camk2a	Vsnl1	Crmp1
+DRG1	huMAP	Gnl3l	Ntmt1	Ddx47	Lrrc41	Zfp622	Zc3h15	Rps13
+DSCR3	huMAP	Commd9	Commd3	Commd4	Ccdc22	Commd2	Ccdc93	Commd7	Commd8	Vps29
+DSN1	huMAP	Spc24	Pmf1	Nuf2	Mis12	Zwint	Nsl1	Spc25	Ndc80
+DSTN	huMAP	Aldh5a1	Got2	Mdh2	Glrx	Atp6v1c1
+DTNBP1	huMAP	Bloc1s5	Bloc1s6	Snapin	Txlnb	Bloc1s1	Bloc1s3	Lamc2	Sybu
+DYNC1LI1	huMAP	Dync1li2	Dynlt1a	Sugp1	Eif2a	Dync1h1
+DYNLL1	huMAP	Zmym4	Hmmr	Tlk2	Glcci1	Fam83d
+EBNA1BP2	huMAP	Rpl3	Rpl30	Rpl11	Stau2	Rps9	Rpl21	Rplp2	Mphosph10	Larp7	Rpf2	Dhx30	Mybbp1a	Dkc1	Pes1	Rps15a	Lyar	Nop56	Fyttd1
+EEF1A1	huMAP	Tufm	Rps8	Rpl22	Rpl21	Rps9	Rps7	Ktn1	Nap1l1	Rps3a1	Eef1d	Mthfd1	Eef1g	Rpl27	Rps25	Lrrc59	Rpl6	Rpl3	Rpl30	Rpl11	Rpl10	Rplp2	Rpl13	Ybx1	Hnrnpu	Rps4x	Igf2bp1	Rpl14	Rps15a	Rps14
+EEF1B2	huMAP	Tufm	Btf3	Rps8	Rpl22	Rps9	Rpl21	Rps6	Rps7	Rpl23	Rpl13a	Rps3a1	Eef1a2	Eef1d	Eef1g	Mthfd1	Rpl27	Nhp2	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Rps27l	Pes1	Rpl14	Rps3	Rps15a	Rpl18	Eef2	Rps26	Hadha	Rps20	Rps23	Nop10	Rps25	Eif3b	Rpl6	Rpl3	Rpl4	Rpl30	Hsp90ab1	Rplp2	Rpl35	Rplp1	Ybx1	Rpl8	Rps16	Rps15	Rps4x	Rps18	Rpl18a	Rps19	Igf2bp1	Rpl36	Rrp15	Rack1	Rps11	Rps14	Rpl7a	Rps13
+EEF1G	huMAP	Mkks	Rps8	Rpl21	Rps9	Rps7	Rps3a1	Eef1a2	Eef1d	Mthfd1	Rpl26	Rpl27	Rpl6	Rpl3	Rpl30	Rpl10	Rpl13	Nckap1	Ybx1	Nolc1	Rps15	Rps15a	Rps27a
+EEF2	huMAP	Tufm	Nsun2	Rps8	Rpl22	Rpl21	Rps9	Rps7	Rps3a1	Rpl27	Rps25	Rpl6	Rpl3	Rpl30	Rpl11	Rpl10	Rpl13	Rpl12	Ybx1	Hnrnpu	Rps15	Rps4x	Rpl14	Rps3	Rps15a	Rps14
+EFTUD2	huMAP	Rbm39	Aqr	Sf3a3	Ddx17	Thoc2	Prpf40a	Eif2s2	Srrm2	U2surp	Prpf6	Prpf8	Prpf19	Cd2bp2	Prpf31	Srsf4	Acin1	Srsf6	Srsf7	Sf3a1	Ddx23	Psip1	Cdc73	Sart1	Snrpd1	Srsf11	Sf3b2
+EIF1AX	huMAP	Btf3	Npm3	Rpl21	Rpl24	Rpl23	Nap1l4	Nap1l1	Rps3a1	Rps26	Fau	Dhx29	Eif3e	Rps25	Rpl6	Mpg	Ddx47	Rpl11	Rpl13	Emg1	Rps4x	Rps18	Rps19	G3bp1	Rack1	Rps3	Rps15a	Rpl18	Rps13
+EIF2S1	huMAP	Snd1	Rps8	Rps9	Rpl24	Rps3a1	Hadha	Eef1g	Canx	Rps20	Rpl27	Rps23	Eif3b	Rps25	Rpl3	Rpl11	Rpl10	Rpl13	Rpl35	Rpl12	Hnrnpu	Ybx1	Fbl	Trmt112	Rps4x	Rps19	G3bp1	Rpl15	Rpl36	Rps5	Rpl14	Rps3	Rps15a	Zfp622	Rps14	Rps13
+EIF2S2	huMAP	Prpf8	Prpf19	Sf3a3	Ddx17	Prpf40a	Sf3a1	Mcm2	U2surp
+EIF3A	huMAP	Eif3l	Eif3h	Eif3f	Eif3c	Eif3g	Eif3d	Eif3e	Prrc2b
+EIF3B	huMAP	Rpl3	Npm3	Rpl30	Hsp90ab1	Rps8	Rpl21	Rpl10	Rplp2	Rpl13	Rps3a1	Mthfd1	Rps15a	Eif3d	Rps13
+EIF3E	huMAP	Ddx47	Eif3l	Eif3h	Eif3c	Eif3f	Eif3g	Eif3d	Prrc2b
+EIF3I	huMAP	Eif3a	Prrc2b	Eif3l	Eif3m	Eif3j1	Eif3k	Eif3h	Eif3f	Eif3c	Eif3g	Eif3d	Eif3e	Eif3b
+EIF3K	huMAP	Eif3a	Eif3l	Eif3h	Eif3c	Eif3f	Eif3g	Eif3d	Eif3e	Prrc2b
+EIF3L	huMAP	Eif3h	Eif3f	Eif3c	Eif3g	Eif3d
+EIF3M	huMAP	Eif3a	Eif3l	Eif3j1	Eif3k	Eif3h	Eif3c	Eif3f	Eif3g	Eif3d	Eif3e	Prrc2b
+EIF4A3	huMAP	D1Pas1	Hnrnpk	Ddx17	Ccdc9	Pabpn1	Rbm8a2	Casc3
+EIF4E	huMAP	Eif4enif1	Tppp3	Eif4ebp1	Arpc2	Angel1	Arpc5	Eif4g3
+EMC10	huMAP	Mmgt1	Emc1	Emc2	Emc3	Emc6	Emc8
+EMC4	huMAP	Mmgt1	Emc1	Emc2	Emc3	Emc10	Emc6	Emc7	Emc8
+EMC7	huMAP	Emc1	Emc2	Emc3	Emc10	Emc8
+EMC8	huMAP	Mmgt1	Emc1	Emc2	Emc3	Emc6
+ENO2	huMAP	Hint1	Fabp5	Gsto2	Tagln2	Gapdhrt
+ENO3	huMAP	Mpi	Tpi1	Tagln3	Tkt
+ENSG00000108270	huMAP	Tbl3	Esf1	Nol10	Noc2l	Wdr36
+ENSG00000146963	huMAP	Hnrnpm	Ddx46	Srsf5	Prpf40a	Srsf11
+ENSG00000184779	huMAP	Eef1g	Fau	Rps15a	Rps23
+ENSG00000215472	huMAP	Tufm	Ssb	Btf3	Rpl22	Rps8	Rpl21	Rps9	Rpl24	Rpl23	Rps7	Nap1l1	Rps3a1	Rpsa	Eef1g	Mthfd1	Fau	Rpl26	Pabpc1	Hnrnpc	Rpl27	Slc25a3	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Nolc1	Mthfd1l	Rpl15	Rps5	Rpl14	Rps3	Rps15a	Rps27a	Rpl18	Myh7b	Nop58	Eef2	Srpk1	Eif2s1	Ebna1bp2	Grwd1	Canx	Rps20	Rps23	Uba52	Slc25a5	Nop10	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rplp2	Rpl35	Rpl34	Ybx1	Srp14	Rps4x	Rps15	Rps19	G3bp1	Rpl36	Rack1	Rps11	Rpl7a	Rps14	Rps13
+ENSG00000243678	huMAP	Tagln2	Tagln3	Eno1	Eno3	Atp6v1c1	Sod1
+EP400	huMAP	Morf4l2	Vps72	Trrap	Yeats4	Meaf6	Kat5	Actr6	Mbtd1	Epc2	Brd8	Jazf1
+EPB41L1	huMAP	Gng2	Rab3a	Mapt	Camk2a	Dpysl3	Vsnl1	Ncald	Stx1b	Syn1	Sncb
+EPC1	huMAP	Morf4l2	Vps72	Trrap	Meaf6	Yeats4	Kat5	Mbtd1	Ep400	Epc2	Brd8
+EPC2	huMAP	Morf4l2	Vps72	Meaf6	Yeats4	Actr6	Mbtd1	Jazf1	Brd8
+EPS15	huMAP	Fcho2	Ston2	Aak1	Ap2a1	Bmp2k	Pik3c2a	Ap2m1
+ETFA	huMAP	Qdpr	Mpst	Bpnt1	Sod2
+ETFB	huMAP	Fh1	Ldha	Hibadh	Etfa	Prcp
+EXOC2	huMAP	Exoc5	Exoc4	Exoc6b	Exoc7	Exoc6	Exoc3
+EXOC8	huMAP	Exoc5	Exoc6b	Exoc4	Exoc7	Exoc6	Exoc3	Exoc2
+EXOSC1	huMAP	Exosc8	Exosc7	Exosc10	Exosc5	Mphosph6
+EXOSC2	huMAP	Exosc8	Exosc7	Exosc10	Exosc5	Dis3	Mphosph6	Exosc1
+EXOSC3	huMAP	Exosc8	Exosc7	Exosc6	Exosc10	Exosc5	C1d	Dis3l	Exosc4	Exosc2	Mphosph6	Exosc1
+EXOSC4	huMAP	Exosc8	Exosc7	Exosc6	Exosc10	Exosc5	C1d	Dis3	Dis3l	Exosc2	Mphosph6	Exosc1
+EXOSC6	huMAP	Exosc8	Exosc7	Exosc10	Exosc5	Mphosph6	Exosc2	Exosc1
+EXOSC9	huMAP	Dis3	Dis3l	Exosc8	Exosc7	Exosc10	Exosc6	Exosc5	C1d	Exosc4	Exosc3	Exosc2	Mphosph6	Exosc1
+FABP3	huMAP	Hint1	Got2	Tagln2	Glrx
+FABP5	huMAP	Hint1	Fh1	Got2	Tagln2	Tagln3	Glrx	Sod2
+FABP7	huMAP	Hint1	Got2	Tagln	Taldo1	Tagln2	Tagln3	Glrx
+FAM45A	huMAP	Commd9	Commd10	Commd3	Commd4	Ccdc22	Commd2	Ccdc93	Vps29
+FAM60A	huMAP	Brms1	Sin3a	Brms1l	Suds3	Arid4a	Ing1	Sap30
+FASTKD2	huMAP	Trub2	Mrpl4	Mterf3	Ptcd1
+FBL	huMAP	Rpl3	Rpl30	Rps8	Rpl11	Ddx47	Hsp90ab1	Rpl21	Rpl10	Rplp2	Rps7	Hnrnpu	Nolc1	Ybx1	Rps3a1	Ddx51	Rps4x	Rpl14	Rps5	Tsr1	Rpl27	Rps15a	Srfbp1
+FGFR1OP2	huMAP	Strip1	Ppp2cb	Strip2	Sike1	Slmap	Mob4	Strn	Strn3	Cttnbp2nl
+FGL1	huMAP	Aars2	Klf13	Lsg1	Tsr3	Prr12	Tbc1d10a
+FIP1L1	huMAP	Cpsf2	Cpsf1	Cpsf4	Cpsf3	Sympk
+FKBP1A	huMAP	Tagln2	Tagln3	Eno3	Atp6v1c1	Pin1	Sod2
+FKBP1B	huMAP	Ahcyl	Tagln3	Eno1	Tbca	Eno3	Hibch	Sod1
+FKBP6	huMAP	Eef2k	Osbp	Agap3	Cdc37l1	Pde4a	Usp19
+FLII	huMAP	Wdr1	Plekhg3	Lrrfip1	Tmod3	Nexn	Myo5a	Myo5b	Twf1	Sorbs2	Rai14	Ssh2
+FSCN1	huMAP	Ppia	Necap2	Celf1	Wdr82	Pitpna	Ube2m
+FTSJ3	huMAP	Upf1	Nop16	Imp3	Imp4	Gnl3	Rexo4	Larp7	Wdr12	Ebna1bp2	Mybbp1a	Dkc1	Rpl7l1	Tsr1	Gzf1	Zcchc3	Fyttd1	Nop56	Rbm28	Zfp771	Ddx27	Stau2	Mphosph10	Ddx24	Ddx21	Rrp9	Rpf2	Dhx30	Dhx57	Pes1	Rps5	Rrs1	Lyar
+FUS	huMAP	Hnrnpm	Picalm	Hnrnpl	Ewsr1	Hnrnph3
+GADD45GIP1	huMAP	Mrpl28	Mrpl48	Mrps18a	Mrpl27	Mrpl24	Mrpl46	Mrpl47	Mrpl22	Mrpl10	Mrpl32	Mrpl51	Mrpl30	Mrpl50	Mrpl19	Mrpl17	Mrpl39	Mrpl18	Mrpl37	Mrpl38	Mrpl16	Mrpl13	Mrpl57	Mrpl35	Mrpl14	Mrpl55	Mrpl33	Mrpl11	Mrpl34	Mrpl12	Mrpl20	Mrpl43	Mrpl21	Mrpl4	Mrpl40	Mrpl3	Mrpl2	Mrpl41	Mrpl9
+GAPDH	huMAP	Pcmt1	Tpi1	Pgam2	Scp2	Eno1	Eno3
+GAR1	huMAP	Nop16	Imp3	Ccdc137	Surf6	Ddx56	Ddx31	Ftsj3	Rexo4	Larp7	Gtpbp4	Mov10	Mybbp1a	Lin28b	Ebna1bp2	Dkc1	Hadha	Rpl26	Pabpc4	Tsr1	Nol12	Gzf1	Nop10	Glyr1	Nhp2	Rbm28	Zfp771	Rrp8	Ddx27	Nip7	Ddx24	Zc3hav1	Ddx21	Dhx30	Larp1	Llph	Pura	Pes1	Rpl15	Brix1	Gm6133	Rrs1	Rps13
+GDI1	huMAP	Rab12	Rab35	Rab4a	Rab8b	Rab6a
+GDPD1	huMAP	Orm2	Hp	Apoa2	Cp	Cfb
+GEMIN4	huMAP	Xpo4	Dym	Saal1	Thada	Gemin8	Tnpo2
+GFOD1	huMAP	Card10	Ralgapa1	Gfod2	Ralgapa2	Fbxo9
+GID4	huMAP	Mkln1	Rmnd5a	Armc8	Maea	Ypel5	Ranbp10
+GID8	huMAP	Mkln1	Gid4	Rmnd5a	Armc8	Maea	Ypel5	Ranbp10
+GINS4	huMAP	Gins2	Gins3	Gins1	Timeless	Tipin	Wdhd1
+GLRX	huMAP	Cnn3	Mdh2	Cfl2	Taldo1	Ube2l3
+GLTSCR2	huMAP	Rbm28	Zfp771	Ddx27	Nop16	Imp3	Stau2	Imp4	Mphosph10	Ddx21	Mrps22	Dhx30	Ebna1bp2	Mybbp1a	Dkc1	Pes1	Rps5	Rrs1	Gzf1	Lyar
+GLYR1	huMAP	Imp3	Imp4	Ddx31	Gnl3	Rexo4	Smarca5	Gtpbp4	Mrto4	Lin28b	Dkc1	Rpl7l1	Rpl26	Stau2	Ythdc2	Nip7	Zc3hav1	Rpf2	Dhx30	Llph	Pura	Pes1	Rpl15	Rps5	Gm6133	Rrs1	Sf3b2	Lyar	Myef2l	Nop16	Surf6	Ccdc137	Ddx56	Ddx10	Noc3l	Ftsj3	Mov10	Mybbp1a	Ebna1bp2	Tsr1	Nol12	Gzf1	Fyttd1	Nop56	Zfp574	Rbm28	Rrp8	Zfp771	Ddx27	Zfp770	Mphosph10	Ddx24	Ddx21	Larp1	Dhx57	Brix1	Igf2bp3	Rps13
+GNA11	huMAP	Yes1	Lyn	Gnb1	Gnb2	Gnb4	Epha2
+GNAI1	huMAP	Gng11	Gng4	Gnat3	Gnb1	Rgs14	Rgs12	Gnai3
+GNAI2	huMAP	Ric8a	Gng4	Gnb1	Gnb4	Gnai3
+GNG2	huMAP	Gria2	Hpca	Camk2a	Camk2b	Ncald	Snap91	Dclk1	L1cam	Syn1	Dpysl2	Calb2	Mapt	Dpysl3	Vsnl1	Gnao1	Cdh13	Amph	Stx1b	Sncb
+GNL2	huMAP	Upf1	Imp3	Imp4	Rbm19	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Bop1	Lin28b	Xrn2	Dkc1	Rpl7l1	Ccdc86	Rpl26	Pabpc4	Pop1	Zfp512	Zcchc9	Ddx47	Stau2	Nip7	Ythdc2	Zc3hav1	Zc3h8	Rpf2	Dhx30	Srp72	Llph	Zfp629	Pura	Pes1	Rpl15	Rps5	Gar1	Gm6133	Rrs1	Lyar	Ddx18	Nop16	Mrps26	Ccdc137	Ddx56	Surf6	Mrps22	Rrp1b	Noc3l	Ftsj3	Rsl1d1	Mov10	Ebna1bp2	Mybbp1a	Tsr1	Nol12	Gzf1	Glyr1	Zcchc3	Nop56	Fyttd1	Rbm28	Rrp8	Zfp771	Ddx27	Zfp770	Mphosph10	Ddx24	Ddx21	Zfp422	Kri1	Ttf1	Rrp9	Larp1	Rps17	Nkrf	Dhx57	Bms1	Brix1	Nifk	Igf2bp3	Rbm34	Rps13
+GNL3	huMAP	Utp18	Nop16	Imp3	Imp4	Larp7	Ebna1bp2	Mybbp1a	Dkc1	Tsr1	Gzf1	Nop56	Rbm28	Zcchc9	Zfp771	Ddx27	Stau2	Ddx47	Mphosph10	Ddx21	Rpf2	Dhx30	Rps17	Pes1	Rps5	Rrs1	Lyar
+GNPTG	huMAP	Anapc13	Anapc15-ps	Cfap97	Gnptab	Cdc26	Cdc16	Fbxo5
+GPATCH1	huMAP	Xab2	Aqr	Snw1	Dhx35	Wdr83	Syf2
+GPM6B	huMAP	Syt1	Snap91	Syn1	L1cam	Dclk1	Atp4a	Mapt	Vsnl1	Gnao1	Cdh13	Amph	Stx1b	Cntn1	Gria2	Stxbp1	Rab3a	Hpca	Camk2a	Camk2b	Crmp1	Ncald	Gng2	Dpysl2	Calb2	Dpysl5	Epb41l1	Dpysl3	Camkv	Sncb
+GPN1	huMAP	Polr3d	Polr1c	Polr2e	Polr2f	Polr2g	Rpap2
+GPN3	huMAP	Polr3b	Polr3d	Polr1c	Polr2e	Polr2f	Polr3h	Polr2g	Gpn1	Polr2i	Polr3k	Rpap2
+GPS1	huMAP	Lrr1	Cul2	Cops7b	Cops7a	Rbx1	Ddb2	Cops5	Cul4b	Cops4	Cul4a	Cops6	Cops3	Cops2	Dcaf11	Cops8
+GPT2	huMAP	Fh1	Aldh7a1	Gpha2	Got2	Oxct1	Adsl
+GPX4	huMAP	Hint1	Tagln2	Eno1	Eno2
+GRAP2	huMAP	Garem1	Usp8	Gab2	Gab1	Ptpn23	Akap10
+GRIA2	huMAP	Napb	Hpca	Camk2a	Ncald	Snap91	Ank2	L1cam	Syn1	Dclk1	Mapt	Dpysl3	Dpysl4	Vsnl1	Cdh13	Rab6b	Stx1b	Sncb	Dnm1l
+GRWD1	huMAP	Eif5	Rpl11	Hadha	Nolc1	Rps5	Rps3	Zfp622	Fbl
+GSN	huMAP	Myo1c	Ppp1r18	Myh9	Lima1	Dbn1
+GSR	huMAP	Fubp1	Mdh2	Ube2f	Fubp3	Hsd17b14
+GSTO1	huMAP	Park7	Eno1	Eno3	Tkt	Gpi1
+GTF2H1	huMAP	Ercc3	Gtf2h2	Gtf2h3	Gtf2h4	Gtf2h5
+GTPBP4	huMAP	Upf1	Nop16	Imp3	Imp4	Ddx10	Mrps22	Ftsj3	Gnl3	Wdr36	Rexo4	Wdr12	Mrto4	Mybbp1a	Ebna1bp2	Dkc1	Rpl7l1	Nol10	Gzf1	Nop56	Fyttd1	Rbm28	Zfp771	Ddx27	Stau2	Mphosph10	Ddx24	Ddx21	Zc3hav1	Rrp9	Rpf2	Dhx30	Dhx57	Pes1	Rrs1	Igf2bp3	Lyar
+GUSB	huMAP	Nid1	Naglu	Fut11	Edem3	Megf8	Pcsk6	Uggt2	Foxred2	Sgsh	Siae
+GZF1	huMAP	Rbm28	Zfp771	Imp3	Larp7	Rpf2	Dhx30	Mybbp1a	Dkc1	Pes1	Rps5	Lyar	Zcchc3	Fyttd1
+H1F0	huMAP	Rbm28	Rpl6	Rpl3	Rps8	Zbtb11	Ddx21	Zfp422	Rps3a1	Ftsj3	Rsl1d1	Rps16	Llph	Brix1	Zfp512	Gzf1	Rps15a	Rps11	Glyr1
+HADHA	huMAP	Rps8	Rpl11	Rpl10	Rplp2	Rps7	Rps3a1	Pes1	Rps5	Rpl14	Rps3	Rps25
+HAUS1	huMAP	Haus5	Haus4	Haus6	Haus3	Haus2
+HAUS7	huMAP	Haus8	Haus5	Haus4	Haus6	Haus1	Haus3	Haus2
+HDAC2	huMAP	Hdac1	Mbd2	Gatad2a	Cdk2ap1rt	Chd4	Gatad2b
+HERC5	huMAP	Rbm28	Zfp771	Ddx27	Nop16	Imp3	Stau2	Ccdc137	Ddx24	Ddx21	Ftsj3	Gnl3	Gtpbp4	Larp1	Dhx30	Mrto4	Mybbp1a	Rpl26	Rps5	Lyar	Nop56
+HIBCH	huMAP	Qdpr	Acot10	Macrod1	Tbca	Fah
+HIST1H1B	huMAP	Rps8	Rpl22	Rpl11	Rps9	Rpl21	Rpl10	Rpl13	Hnrnpu	Rps3a1	Rps4x	Rps3	Rps15a	Rps25
+HIST1H1C	huMAP	Rpl6	Rps4x	Rpl30	Rpl22l1	Rps15a	Rps25
+HIST1H1D	huMAP	Rps23	Rps15a	Rps13
+HIST1H2BL	huMAP	Gria2	Hpca	Camk2a	Crmp1	Ncald	Syn1	L1cam	Gng2	Calb2	Mapt	Dpysl3	Vsnl1	Cdh13	Amph	Stx1b	Sncb
+HNRNPA1	huMAP	Hnrnpab	Ilf3	Adar	Ppwd1	Safb	Acly	Syncrip	Hnrnpk	Hnrnpl	Rbm3	Hnrnph1	Hnrnpa2b1	Hnrnph2	Hnrnpf	Hnrnph3	Hnrnpa1	Zfp326	Eif4h	Hnrnpa3
+HNRNPA3	huMAP	Hnrnpk	Syncrip	Hnrnph1	Hnrnpa2b1	Hnrnph2	Hnrnph3	Zfp326	Hnrnpr	Safb
+HNRNPD	huMAP	Ptbp1	Hnrnpl	Sfpq	Hnrnph3	Hnrnpab
+HNRNPDL	huMAP	Hnrnpm	Picalm	Fus	Hnrnpl	Hnrnph1	Ubap2l	Hnrnph3	Hnrnpab
+HNRNPF	huMAP	Hnrnpk	Syncrip	Hnrnpa2b1	Hnrnph1	Hnrnph2	Hnrnpa1	Hnrnpa3
+HNRNPH1	huMAP	Hnrnpk	Syncrip	Hnrnpa2b1	Hnrnph2	Hnrnpa1	Tardbp
+HNRNPH3	huMAP	Hnrnpm	Hnrnpk	Sfpq	Hnrnpa1	Eif4h	Hnrnpab
+HNRNPU	huMAP	Snd1	Trmt1l	Rfc4	Rfc5	Rps8	Rps9	Rpl21	Rps3a1	Spats2l	Tsr1	Rps20	Rps25	Rpl3	Rpl30	Ddx47	Rpl11	Rpl10	Rplp2	Rps17	Rps5	Rpl14	Rps3	Rps15a
+HP1BP3	huMAP	Upf1	Imp3	Imp4	Rbm19	Knop1	Ddx31	Gnl3	Gnl2	Rexo4	Srrm1	Larp7	Gtpbp4	Lin28b	Dkc1	Xrn2	Rpl7l1	Rpl26	Ccdc86	Pabpc4	Pop1	Zfp512	Nvl	Stau2	Nip7	Zc3hav1	Zc3h8	Rpf2	Dhx30	Srp72	Llph	Pura	Pes1	Rpl15	Rps5	Gar1	Gm6133	Rrs1	Sf3b2	Lyar	Ddx18	Myef2l	Nop16	Ddx56	Surf6	Ccdc137	Noc3l	Rrp1b	Ftsj3	Rsl1d1	Mov10	Ebna1bp2	Mybbp1a	Tsr1	Nol12	Gzf1	Zcchc3	Glyr1	Rsl24d1	Fyttd1	Nop56	Rbm28	Rrp8	Zfp771	Ddx27	Mphosph10	Ddx24	Ddx21	Zfp422	Ppan	Ttf1	Kri1	Rrp9	Larp1	Nkrf	Dhx57	Brix1	Rrp12	Igf2bp3	Nifk	Rbm34	Rps13
+HSP90AA1	huMAP	Btf3	Rps8	Rps9	Rpl21	Rps6	Rpl23	Hspa4	Rps3a1	Hadha	Rpl27	Rps20	Rps23	Rpl6	Rpl3	Rpl4	Rpl30	Hsp90ab1	Rpl10	Rpl10l	Rpl13	Rpl35	Rplp2	Rpl12	Ybx1	Fbl	Rpl8	Rps16	Eef1b2	Rps18	Rpl18a	Rpl14	Rpl36	Rps3	Rps15a	Rpl19	Rps11	Rpl7a	Rps13
+HSP90AB1	huMAP	Rpl3	Rpl30	Rpl11	Rps9	Rpl21	Rps3	Rps20	Rps15a
+IARS	huMAP	Aimp2	Aimp1	Eef1e1
+ICE2	huMAP	Bpifa5	Ice1	Muc5ac	Mpo	Ctsg
+IDH1	huMAP	Pkm	Idh3g	Idh2	Haao	Hpd
+IFT57	huMAP	Ift20	Ift22	Ift88	Traf3ip1	Ift172	Hsbp1	Ift80	Cluap1
+IGF2BP1	huMAP	Rpl6	Rpl3	Rpl30	Rps8	Rps9	Rpl21	Rpl10	Rpl13	Hnrnpu	Rps3a1	Ebna1bp2	Rpl26	Rpl14	Hnrnpc	Rpl27
+IGF2BP3	huMAP	Snd1	Rpl3	Ddx27	Stau2	Rps8	Rps9	Ddx21	Rps3a1	Gnl3	Rexo4	Ebna1bp2	Mybbp1a	Dkc1	G3bp1
+IMP3	huMAP	Rbm28	Dhx30	Mybbp1a	Dkc1	Imp4	Mphosph10	Nol10	Rps5	Larp7	Lyar	Rpf2
+ING1	huMAP	Sap130	Brms1	Sin3a	Brms1l	Arid4a	Suds3	Sap30
+ING3	huMAP	Trrap	Meaf6	Actr6	Mrgbp	Znhit1	Morf4l2	Vps72	Kat5	Yeats4	Mbtd1	Epc1	Epc2	Ep400	Dmap1	Jazf1	Brd8
+INO80B	huMAP	Yy1	Ino80c	Tfpt	Ino80e	Actr5	Nfrkb	Uchl5
+INTS4	huMAP	Ints12	Ahctf1	Ints6	Ints5
+INTS9	huMAP	Ints12	Ints4	Ints6	Ints5
+IPO7	huMAP	Srsf1	Psip1	U2af2	Prpf40a	Srrm2	Kpnb1	Bclaf1	Snrpd2	Tra2b	Zc3h18	Rnps1	Srsf6	Srsf7	Rbm25
+IPO8	huMAP	Btaf1	Repin1	Zfp1	Ipo11
+IQGAP1	huMAP	Myo5c	Myo5b	Myl6b	Sptbn1
+ISL2	huMAP	Lmx1b	Ldb1	Lmo4	Isl1	Ssbp4
+ISY1	huMAP	Xab2	Aqr	Sf3a2	Dhx8	Prpf19	Cdc5lrt9	Ccdc12	Ppie
+JADE2	huMAP	Ing5	Ing4	Meaf6	Aarsd1	Kat7
+JUN	huMAP	Fosl2	Atf2	Atf3	Fos	Atf7	Creb5
+KARS	huMAP	Aimp2	Aimp1	Eef1e1
+KAT2A	huMAP	Kat2b	Zzz3	Tada2a	Tada3	Yeats2	Sgf29	Mbip
+KAT5	huMAP	Morf4l2	Vps72	Trrap	Meaf6	Yeats4	Actr6	Mbtd1	Epc2	Brd8	Jazf1
+KDM1A	huMAP	Hdac1	Gse1	Hmg20b	Hmg20a	Rcor3	Rcor1
+KHDRBS1	huMAP	Ddx5	Dhx9	Snrpd2	Dhx15	Zfp326	Safb
+KNOP1	huMAP	Imp3	Imp4	Ddx31	Gnl3	Gnl2	Rexo4	Larp7	Gtpbp4	Bop1	Lin28b	Dkc1	Xrn2	Rpl7l1	Ccdc86	Cebpz	Pop1	Zfp512	Zcchc9	Nvl	Stau2	Nip7	Zc3hav1	Rpf2	Dhx30	Llph	Pura	Rpl15	Gm6133	Rrs1	Lyar	Ddx18	Nop16	Abt1	Zcrb1	Ccdc137	Utp3	Rrp1b	Noc3l	Ftsj3	Rsl1d1	Mov10	Mybbp1a	Ebna1bp2	Nol12	Glyr1	Rbm28	Rrp8	Zfp771	Zfp770	Ddx27	Mphosph10	Ddx24	Ddx21	Ppan	Ttf1	Rrp9	Nkrf	Brix1	Nifk	Rbm34	Rps13
+KPNB1	huMAP	Ddx17	Ddx5	Sf3a3	Dhx9	Thoc2	Cdc73	Eftud2	U2surp	Hnrnpm	Prpf8	Prpf19	Snrpd1	Sf3b2	Srsf11	Sf3a1
+KRI1	huMAP	Upf1	Imp3	Rbm19	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Lin28b	Xrn2	Dkc1	Rpl26	Pabpc4	Zfp512	Stau2	Nip7	Ythdc2	Zc3hav1	Zc3h8	Dhx30	Llph	Zfp629	Pura	Rpl15	Rps5	Gar1	Gm6133	Sf3b2	Lyar	Ddx18	Nop16	Mrps26	Ccdc137	Surf6	Ddx10	Ftsj3	Mov10	Mybbp1a	Ebna1bp2	Tsr1	Gzf1	Glyr1	Nop56	Fyttd1	Rbm28	Zfp574	Ltv1	Rrp8	Zfp771	Ddx27	Mphosph10	Ddx24	Ddx21	Noc2l	Larp1	Nkrf	Dhx57	Bms1	Brix1	Igf2bp3	Rps13
+KRR1	huMAP	Upf1	Rbm19	Gnl3	Rexo4	Gnl2	Larp7	Gtpbp4	Mrto4	Lin28b	Dkc1	Ccdc86	Rpl26	Pabpc4	Pop1	Zfp512	Zcchc9	Hp1bp3	Zc3hav1	Noc4l	Prdm15	Zc3h8	Dhx30	Srp72	Pura	Pes1	Rpl15	Rps5	Gm6133	Rrs1	Sf3b2	Ddx18	Abt1	Zcrb1	Ddx56	Surf6	Ccdc137	Ftsj3	Mov10	Rsl1d1	Mybbp1a	Ebna1bp2	Tsr1	Gzf1	Glyr1	Zcchc3	Nop56	Rbm28	Zfp771	Ltv1	Ddx27	Ddx24	Ddx21	Ppan	Zfp422	Kri1	Larp1	Nkrf	Brix1	Rrp12	Nifk	Rps13	Rbm34
+L1CAM	huMAP	Napb	Hpca	Camk2a	Ncald	Ank2	Snap91	Syn1	Mapt	Dpysl3	Vsnl1	Cdh13	Stx1b	Sncb	Dnm1l
+LARP1	huMAP	Upf1	Nop16	Imp3	Mrps22	Gnl3	Ftsj3	Rexo4	Larp7	Gtpbp4	Mrto4	Mybbp1a	Ebna1bp2	Dkc1	Tsr1	Gzf1	Zcchc3	Nop56	Rbm28	Zfp771	Ddx27	Ddx47	Stau2	Ddx24	Zc3hav1	Ddx21	Larp1b	Rrp9	Rpf2	Dhx30	Rps17	Dhx57	Pes1	Rps5	Rrs1	Igf2bp3	Zfp622	Lyar
+LARS	huMAP	Aimp2	Aimp1	Eef1e1
+LDHAL6B	huMAP	Mdh2	Arf1	Ak2	Upp1	Atox1
+LDLRAD4	huMAP	Flcn	Dpy19l1	Stxbp4	Smurf2	Smurf1	Wwc2	Hecw1	Rbck1
+LEO1	huMAP	Csnk2a1	Ctr9	Iws1	Cdc73	Paf1
+LGALS8	huMAP	Atg9a	Abcc4	Slc36a1	Slc35a5	Calcoco2	Slc9a6	Slc1a1	Atp13a3	Ptprj	Clcn3	Slc17a5	Adcy6
+LIN28B	huMAP	Upf1	Imp3	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Dkc1	Rpl26	Pabpc4	Stau2	Zc3hav1	Rpf2	Dhx30	Llph	Rps5	Gm6133	Rrs1	Sf3b2	Lyar	Nop16	Mrps26	Ccdc137	Surf6	Ftsj3	Mov10	Ebna1bp2	Mybbp1a	Gzf1	Zcchc3	Zfp574	Rbm28	Zfp771	Rrp8	Ddx27	Mphosph10	Ddx24	Ddx21	Rrp9	Larp1	Bms1	Brix1	Igf2bp3	Rps13
+LIN37	huMAP	Lin9	Lin52	Mybl1	Mybl2	Lin54
+LLPH	huMAP	Myef2l	Upf1	Nop16	Imp3	Ddx56	Ccdc137	Mrps22	Ftsj3	Gnl3	Rexo4	Gtpbp4	Ebna1bp2	Mybbp1a	Dkc1	Rpl7l1	Rpl26	Gzf1	Zcchc3	Fyttd1	Rbm28	Zfp771	Ddx27	Stau2	Mphosph10	Ddx24	Zc3hav1	Ddx21	Rrp9	Rpf2	Larp1	Dhx30	Pes1	Rps5	Rrs1
+LMNB1	huMAP	Dhx9	Srrt	Srsf1	U2af2	Pnn	Srrm2	U2surp	Ruvbl1	Dhx15	Tra2b	Ppig	Rnps1	Srsf6	Srsf7
+LRR1	huMAP	Cops4	Cops6	Cops3	Cops2	Cul2
+LSM4	huMAP	Creld2	Sptb	Slu7	Lsm5	Sptbn2
+LTBR	huMAP	Hdac5	Ccdc113	Odf2	Spats2	Traf1	Traf3	Prc1	Thap3	Ski	Spats2l	Cep95	Tnik
+LTV1	huMAP	Rbm28	Ccdc137	Pura	Rps5	Glyr1	Gtpbp4
+LUC7L	huMAP	Prpf4b	Srsf4	Srsf6	Srsf7	Srrm2
+LUC7L3	huMAP	Rbm39	Ddx46	Ppig	Luc7l	Prpf4b	Srsf5	Acin1	Srsf6	Srsf7	Srsf11	Srrm2
+LUZP1	huMAP	Myo1c	Myo5a	Myh9	Sorbs2	Coro1c	Dbn1
+LYAR	huMAP	Dhx30	Dkc1	Stau2	Imp4	Mphosph10	Pes1	Rpf2	Nop56
+LYPD3	huMAP	Reep1	Dpy19l1	Usp24	Slc41a1	Phtf1
+MAGEA1	huMAP	Ankrd17	Fbxl18	Hspbap1	Mageb6b2	Ankhd1
+MAGEA10	huMAP	Ncoa2	Pou2f1	Crtc3	Nrip1	Eri1	Fam216a	Foxj2	Phf8	Magea13
+MAGIX	huMAP	Tjp1	Cdc23	Anapc16	Cdc26	Cdc27	Cdc16	Anapc5	Anapc2
+MAGOH	huMAP	Eif4a3l2	Rbm8a2	Pym1	Casc3	Lsm4
+MALSU1	huMAP	Mrpl19	Mrpl57	Mrpl13	Mrpl14	Mrpl11
+MBD3	huMAP	Ddx5	Mbd2	Gatad2a	Cdk2ap1rt	Rbbp7	Chd4	Gatad2b
+MBTD1	huMAP	Morf4l2	Vps72	Meaf6	Actr6	Jazf1	Brd8
+MCM5	huMAP	Mcmbp	Mcm4	Mcm6	Mcm7	Dnmt1	Mcm2	Mcm3
+MED1	huMAP	Cdk19	Med4	Med9	Med13l	Med28	Med27	Med6	Med7	Med29	Med24	Med23	Cdk8	Med25	Med20	Med22	Med21	Ccnc	Med17	Med16	Med19	Med18	Med12l	Med13	Med12	Med15	Med14	Med31	Med11
+MED10	huMAP	Cdk19	Med4	Med9	Med6	Med27	Med7	Med29	Med24	Med23	Cdk8	Med25	Med20	Med22	Med21	Ccnc	Med17	Med16	Med19	Med18	Med12l	Med13	Med12	Med15	Med14	Med31
+MED11	huMAP	Med4	Med9	Med17	Med13l	Med6	Med27	Med16	Med19	Med7	Med18	Med29	Med24	Med13	Med23	Med12	Med15	Cdk8	Med14	Med20	Med31	Med22
+MED12	huMAP	Cdk19	Med4	Med9	Med17	Med27	Med6	Med7	Med29	Med12l	Med13	Med23	Med15	Med14	Med25	Med31	Med20	Med22
+MED13	huMAP	Med23	Cdk19	Med14	Med25	Med17	Med12l	Med29
+MED13L	huMAP	Cdk19	Med4	Med9	Med6	Med27	Med7	Med29	Med24	Med23	Cdk8	Med25	Med20	Med22	Med21	Ccnc	Med17	Med16	Med19	Med18	Med12l	Med13	Med12	Med15	Med14	Med31
+MED15	huMAP	Cdk19	Med4	Med9	Med17	Med27	Med6	Med7	Med29	Med12l	Med13	Med23	Med26	Med25	Med14	Med31	Med20	Med22
+MED16	huMAP	Cdk19	Med4	Med9	Med17	Med27	Med6	Med7	Med29	Med12l	Med13	Med12	Med23	Med15	Med25	Med14	Med20	Med31	Med22
+MED18	huMAP	Med4	Med9	Med17	Med27	Med6	Med16	Med7	Med29	Med13	Med23	Med12	Med15	Med26	Med14	Med25	Med20	Med31	Med22
+MED19	huMAP	Med4	Med9	Ccnc	Med17	Med16	Med6	Med27	Med7	Med12l	Med29	Med18	Med24	Med13	Med12	Med23	Med26	Med15	Med25	Med14	Med31	Med20	Med22
+MED20	huMAP	Med13	Cdk19	Med23	Med14	Med25	Med17	Med27	Med29	Med12l
+MED21	huMAP	Med4	Med27	Med16	Med6	Med7	Med29	Med18	Med13	Med12	Med23	Med15	Med14	Med31	Med20	Med22
+MED22	huMAP	Med13	Cdk19	Med23	Med26	Med25	Med14	Med20	Med17	Med27	Med6	Med29	Med12l
+MED24	huMAP	Cdk19	Med4	Med9	Med17	Med6	Med16	Med27	Med7	Med18	Med29	Med12l	Med13	Med12	Med23	Med15	Med25	Med14	Med31	Med20	Med22
+MED27	huMAP	Med13	Cdk19	Med23	Med25	Med14	Med17	Med12l	Med29
+MED28	huMAP	Cdk19	Med4	Med9	Med13l	Med27	Med6	Med7	Med29	Med24	Med23	Cdk8	Med25	Med20	Med22	Med21	Ccnc	Med17	Med16	Med19	Med12l	Med18	Med13	Med12	Med15	Med14	Med31
+MED30	huMAP	Med1	Cdk19	Med4	Med9	Med28	Med13l	Med6	Med27	Med7	Med29	Med24	Med23	Cdk8	Med26	Med25	Med20	Med22	Med21	Ccnc	Med17	Med16	Med19	Med12l	Med18	Med13	Med12	Med15	Med14	Med31	Med11
+MED31	huMAP	Med13	Cdk19	Med23	Med14	Med20	Med22	Med17	Med27	Med6	Med29	Med12l
+MED4	huMAP	Cdk19	Med17	Med6	Med27	Med29	Med12l	Med13	Med23	Med25	Med14	Med20	Med31	Med22
+MED6	huMAP	Med13	Med23	Cdk19	Med14	Med25	Med20	Med17	Med27	Med29	Med12l
+MED7	huMAP	Cdk19	Med4	Med9	Med17	Med27	Med6	Med12l	Med29	Med13	Med23	Med26	Med25	Med14	Med20	Med31	Med22
+MED8	huMAP	Med1	Cdk19	Med4	Med9	Med28	Med13l	Med6	Med27	Med7	Med29	Med24	Med23	Cdk8	Med25	Med20	Med22	Med21	Ccnc	Med17	Med16	Med19	Med18	Med12l	Med13	Med12	Med15	Med14	Med31	Med30	Med11
+MED9	huMAP	Cdk19	Med4	Med17	Med27	Med6	Med29	Med12l	Med13	Med23	Med14	Med25	Med31	Med20	Med22
+MEGF8	huMAP	Mgrn1	Fut11	Cercam	Plxna1	Sgsh	Foxred2
+MEPCE	huMAP	Rps8	Rps6	Rpl24	Rps3a1	Tsr1	Rps25	Rpl6	Rpl11	Rpl10	Rpl35	Hnrnpu	Rpl8	Rps4x	Rps18	Rps17	Rps19	Rps5	Rpl36	Igf2bp1	Rps10	Rps3	Rpl7a	Rps14	Rps13
+MIS12	huMAP	Spc24	Pmf1	Nuf2	Nsl1	Zwint	Spc25	Ndc80
+MISP	huMAP	Myh9	Nexn	Lima1	Coro1c	Ppp1cb
+MOB4	huMAP	Ppp2cb	Strip2	Slmap	Strn	Strn3	Cttnbp2nl
+MOV10	huMAP	Upf1	Imp3	Ddx56	Ccdc137	Mrps22	Gnl3	Ftsj3	Rexo4	Larp7	Gtpbp4	Mybbp1a	Ebna1bp2	Dkc1	Rpl26	Gzf1	Zcchc3	Fyttd1	Rbm28	Zfp771	Ddx27	Stau2	Mphosph10	Ddx24	Ddx21	Zc3hav1	Rrp9	Rpf2	Dhx30	Larp1	Llph	Rps5	Rrs1	Igf2bp3	Lyar
+MPG	huMAP	Snd1	Ddx47	Rpl11	Kbtbd4	Emg1	Rpl14	Rps5	Tsr1	Zfp622	Rps25
+MPPED1	huMAP	Phkg2	Mpped2	Phka2	Phka1	Phkb	Nr2f6
+MRGBP	huMAP	Trrap	Meaf6	Actr6	Znhit1	Morf4l2	Vps72	Yeats4	Kat5	Mbtd1	Epc1	Ep400	Epc2	Dmap1	Jazf1	Brd8
+MRPL1	huMAP	Mrpl28	Mrps18a	Mrpl27	Mrpl24	Mrpl22	Mrpl23	Mrpl32	Mrpl30	Mrpl39	Mrpl37	Mrpl38	Mrpl35	Mrpl33	Mrpl34	Mrpl43	Mrpl40	Mrpl41	Gadd45gip1	Mterf3	Mrpl48	Mrpl46	Mrpl47	Mrpl44	Mrpl53	Mrpl54	Mrpl10	Mrpl51	Mrpl52	Mrpl50	Slc25a10	Mrpl19	Mrpl17	Mrpl18	Mrpl15	Mrpl16	Mrpl13	Mrpl57	Mrpl14	Mrpl11	Mrpl55	Mrpl12	Ngrn	Mrpl20	Mrpl4	Mrpl21	Mrpl3	Mrpl2	Mrpl9
+MRPL10	huMAP	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl13	Mrpl47	Mrpl34	Mrpl12	Mrpl53	Mrpl21	Mrpl32	Mrpl43	Mrpl4	Mrpl54	Mrpl3	Mrpl52	Mrpl9	Mrpl50
+MRPL11	huMAP	Mrpl28	Mrpl48	Mrps18a	Mrpl24	Mrpl47	Mrpl22	Mrpl10	Mrpl54	Mrpl32	Mrpl30	Mrpl50	Mrpl19	Mrpl38	Mrpl13	Mrpl57	Mrpl14	Mrpl55	Mrpl34	Mrpl4	Mrpl43	Mrpl21	Mrpl3	Mrpl2	Mrpl9
+MRPL12	huMAP	Mrpl19	Mrpl28	Mrpl38	Mrpl47	Mrpl34	Mrpl53	Mrpl54	Mrpl4	Mrpl32	Mrpl43	Mrpl21	Mrpl52	Mrpl9
+MRPL13	huMAP	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl47	Mrpl34	Mrpl12	Mrpl53	Mrpl54	Mrpl4	Mrpl32	Mrpl21	Mrpl43	Mrpl3	Mrpl52	Mrpl9
+MRPL14	huMAP	Mterf3	Mrpl19	Mrpl28	Mrps18a	Mrpl48	Mrpl38	Mrpl13	Mrpl47	Mrpl22	Mrpl12	Mrpl34	Mrpl53	Mrpl32	Mrpl43	Mrpl10	Mrpl21	Mrpl4	Mrpl3	Mrpl2	Mrpl30	Mrpl9	Mrpl50
+MRPL15	huMAP	Gadd45gip1	Mterf3	Mrpl28	Mrpl48	Mrps18a	Mrpl27	Mrpl24	Mrpl46	Mrpl47	Mrpl22	Mrpl23	Mrpl53	Mrpl54	Mrpl32	Mrpl10	Mrpl51	Mrpl52	Mrpl30	Mrpl50	Mrpl19	Mrpl17	Mrpl39	Mrpl18	Mrpl37	Mrpl16	Mrpl38	Mrpl13	Mrpl35	Mrpl57	Mrpl14	Mrpl55	Mrpl33	Mrpl11	Mrpl12	Mrpl34	Ngrn	Mrpl20	Mrpl21	Mrpl43	Mrpl4	Mrpl3	Mrpl40	Mrpl2	Mrpl41	Mrpl9
+MRPL16	huMAP	Mrpl28	Mrpl48	Mrps18a	Mrpl27	Mrpl24	Mrpl46	Mrpl47	Mrpl22	Mrpl53	Mrpl54	Mrpl32	Mrpl10	Mrpl51	Mrpl52	Mrpl30	Mrpl50	Mrpl19	Mrpl39	Mrpl17	Mrpl37	Mrpl38	Mrpl57	Mrpl35	Mrpl13	Mrpl14	Mrpl11	Mrpl33	Mrpl55	Mrpl34	Mrpl12	Mrpl20	Mrpl21	Mrpl43	Mrpl4	Mrpl3	Mrpl41	Mrpl2	Mrpl9
+MRPL17	huMAP	Mterf3	Mrpl28	Mrpl48	Mrps18a	Mrpl27	Mrpl24	Mrpl47	Mrpl22	Mrpl53	Mrpl32	Mrpl54	Mrpl10	Mrpl51	Mrpl30	Mrpl52	Mrpl50	Trub2	Mrpl19	Mrpl38	Yars2	Mrpl13	Mrpl57	Mrpl35	Mrpl14	Mrpl55	Mrpl11	Mrpl34	Mrpl12	Mrpl4	Mrpl21	Mrpl43	Mrpl3	Mrpl2	Mrpl9
+MRPL18	huMAP	Mterf3	Mrpl28	Mrpl48	Mrps18a	Mrpl27	Mrpl46	Mrpl24	Mrpl47	Mrpl22	Mrpl32	Mrpl10	Mrpl51	Mrpl30	Mrpl50	Mrpl19	Mrpl39	Mrpl17	Mrpl37	Mrpl16	Mrpl38	Mrpl57	Mrpl13	Mrpl35	Mrpl14	Mrpl55	Mrpl11	Mrpl12	Mrpl34	Mrpl20	Mrpl43	Mrpl4	Mrpl21	Mrpl3	Mrpl41	Mrpl2	Mrpl9
+MRPL19	huMAP	Mrpl53	Trub2	Mrpl21	Mrpl54	Mrpl52	Mterf3	Mrpl28	Mrpl48	Mrpl38	Mrpl47	Mrpl34
+MRPL2	huMAP	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl13	Mrpl47	Mrpl22	Mrpl34	Mrpl12	Mrpl53	Mrpl32	Mrpl21	Mrpl4	Mrpl43	Mrpl10	Mrpl54	Mrpl3	Mrpl30	Mrpl9	Mrpl50
+MRPL20	huMAP	Mrpl28	Mrps18a	Mrpl48	Mrpl27	Mrpl24	Mrpl47	Mrpl22	Mrpl53	Mrpl54	Mrpl32	Mrpl10	Mrpl51	Mrpl30	Mrpl52	Mrpl50	Mrpl19	Mrpl17	Mrpl38	Mrpl13	Mrpl57	Mrpl35	Mrpl14	Mrpl33	Mrpl11	Mrpl55	Mrpl34	Mrpl12	Mrpl21	Mrpl4	Mrpl43	Mrpl3	Mrpl2	Mrpl9
+MRPL21	huMAP	Mrpl53	Mrpl54	Mrpl28	Mrpl48	Mrpl38	Mrpl47	Mrpl34
+MRPL22	huMAP	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl13	Mrpl47	Mrpl12	Mrpl34	Mrpl54	Mrpl32	Mrpl4	Mrpl10	Mrpl21	Mrpl43	Mrpl3	Mrpl9	Mrpl50
+MRPL23	huMAP	Gadd45gip1	Mterf3	Mrpl28	Mrpl48	Mrps18a	Mrpl27	Mrpl46	Mrpl24	Mrpl47	Mrpl22	Mrpl32	Mrpl10	Mrpl54	Mrpl51	Mrpl30	Mrpl50	Mrpl19	Mrpl39	Mrpl17	Mrpl18	Mrpl37	Malsu1	Mrpl38	Mrpl16	Mrpl57	Mrpl35	Mrpl13	Mrpl14	Mrpl11	Mrpl55	Mrpl34	Mrpl12	Mrpl20	Mrpl43	Mrpl4	Mrpl21	Mrpl40	Mrpl3	Mrpl2	Mrpl41	Mrpl9
+MRPL24	huMAP	Mterf3	Mrpl28	Mrpl48	Mrps18a	Mrpl47	Mrpl22	Mrpl10	Mrpl54	Mrpl32	Mrpl30	Mrpl50	Mrpl19	Mrpl38	Mrpl13	Mrpl14	Mrpl55	Mrpl34	Mrpl12	Mrpl4	Mrpl21	Mrpl43	Mrpl3	Mrpl2	Mrpl9
+MRPL27	huMAP	Mterf3	Mrpl28	Mrps18a	Mrpl48	Mrpl24	Mrpl47	Mrpl22	Mrpl10	Mrpl32	Mrpl54	Mrpl30	Mrpl50	Mrpl19	Mrpl38	Mrpl57	Mrpl13	Mrpl35	Mrpl14	Mrpl11	Mrpl55	Mrpl34	Mrpl4	Mrpl43	Mrpl21	Mrpl3	Mrpl2	Mrpl9
+MRPL3	huMAP	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl47	Mrpl12	Mrpl34	Mrpl32	Mrpl4	Mrpl43	Mrpl54	Mrpl21	Mrpl52	Mrpl9
+MRPL30	huMAP	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl13	Mrpl47	Mrpl22	Mrpl12	Mrpl34	Mrpl53	Mrpl32	Mrpl21	Mrpl10	Mrpl43	Mrpl4	Mrpl54	Mrpl3	Mrpl9	Mrpl50
+MRPL32	huMAP	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl47	Mrpl34	Mrpl53	Mrpl4	Mrpl21	Mrpl54	Mrpl43	Mrpl52
+MRPL33	huMAP	Mrps18a	Mrpl35	Mrpl13	Mrpl47	Mrpl14	Mrpl12	Mrpl34	Mrpl53	Mrpl54	Mrpl32	Mrpl4	Mrpl21	Mrpl43	Mrpl10	Mrpl30	Mrpl2	Mrpl9	Mrpl50
+MRPL34	huMAP	Mrpl53	Mrpl28	Mrpl38	Mrpl47
+MRPL35	huMAP	Mrpl28	Mrpl48	Mrps18a	Mrpl24	Mrpl47	Mrpl22	Mrpl53	Mrpl54	Mrpl32	Mrpl10	Mrpl52	Mrpl30	Mrpl50	Mrpl19	Mrpl38	Mrpl13	Mrpl14	Mrpl55	Mrpl12	Mrpl34	Mrpl43	Mrpl4	Mrpl21	Mrpl3	Mrpl2	Mrpl9
+MRPL37	huMAP	Mrpl28	Mrps18a	Mrpl48	Mrpl27	Mrpl46	Mrpl24	Mrpl47	Mrpl22	Mrpl53	Mrpl32	Mrpl10	Mrpl54	Mrpl51	Mrpl30	Mrpl50	Mrpl19	Mrpl17	Mrpl38	Mrpl13	Mrpl57	Mrpl35	Mrpl14	Mrpl11	Mrpl33	Mrpl55	Mrpl34	Mrpl12	Mrpl20	Mrpl4	Mrpl21	Mrpl43	Mrpl3	Mrpl2	Mrpl41	Mrpl9
+MRPL39	huMAP	Mrpl28	Mrpl48	Mrps18a	Mrpl27	Mrpl46	Mrpl24	Mrpl47	Mrpl22	Mrpl53	Mrpl54	Mrpl10	Mrpl32	Mrpl51	Mrpl30	Mrpl52	Mrpl50	Trub2	Mrpl19	Mrpl17	Mrpl37	Mrpl38	Mrpl35	Mrpl57	Mrpl13	Yars2	Mrpl14	Mrpl33	Mrpl11	Mrpl55	Mrpl34	Mrpl12	Mrpl20	Mrpl21	Mrpl4	Mrpl43	Mrpl3	Mrpl2	Mrpl41	Mrpl9
+MRPL4	huMAP	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl47	Mrpl34	Mrpl53	Mrpl54	Mrpl21	Mrpl52	Cinp
+MRPL40	huMAP	Mrpl28	Mrps18a	Mrpl48	Mrpl27	Mrpl24	Mrpl46	Mrpl47	Mrpl22	Mrpl53	Mrpl54	Mrpl10	Mrpl32	Mrpl51	Mrpl52	Mrpl30	Mrpl50	Mrpl19	Mrpl17	Mrpl39	Mrpl18	Mrpl37	Mrpl38	Mrpl16	Mrpl13	Mrpl57	Mrpl35	Mrpl14	Mrpl33	Mrpl11	Mrpl55	Mrpl12	Mrpl34	Mrpl20	Mrpl21	Mrpl43	Mrpl4	Mrpl3	Mrpl41	Mrpl2	Mrpl9
+MRPL41	huMAP	Mterf3	Mrpl28	Mrps18a	Mrpl48	Mrpl27	Mrpl24	Mrpl47	Mrpl22	Mrpl54	Mrpl32	Mrpl10	Mrpl51	Mrpl30	Mrpl50	Trub2	Mrpl19	Mrpl17	Mrpl38	Mrpl57	Mrpl13	Mrpl35	Mrpl14	Mrpl55	Mrpl11	Mrpl12	Mrpl34	Mrpl20	Mrpl43	Mrpl4	Mrpl21	Mrpl3	Mrpl2	Mrpl9
+MRPL42	huMAP	Gadd45gip1	Mrpl28	Mrps18a	Mrpl48	Mrpl27	Mrpl46	Mrpl24	Mrpl47	Mrpl44	Mrpl22	Mrpl23	Mrpl53	Mrpl54	Mrpl32	Mrpl10	Mrpl51	Mrpl30	Mrpl50	Mrpl19	Mrpl39	Mrpl17	Mrpl18	Mrpl37	Mrpl15	Mrpl16	Mrpl38	Mrpl35	Mrpl13	Mrpl57	Mrpl1	Mrpl14	Mrpl33	Mrpl12	Mrpl34	Mrpl20	Mrpl4	Mrpl21	Mrpl43	Mrpl40	Mrpl3	Mrpl2	Mrpl41	Mrpl9
+MRPL43	huMAP	Mrpl53	Mrpl54	Mrpl21	Mrpl4	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl47	Mrpl34
+MRPL44	huMAP	Gadd45gip1	Mterf3	Mrpl28	Mrpl48	Mrps18a	Mrpl27	Mrpl24	Mrpl46	Mrpl47	Mrpl22	Mrpl23	Mrpl53	Mrpl54	Mrpl10	Mrpl32	Mrpl51	Mrpl30	Mrpl50	Mrpl19	Mrpl39	Mrpl17	Mrpl18	Mrpl37	Mrpl15	Mrpl38	Mrpl16	Mrpl13	Mrpl35	Mrpl57	Mrpl14	Mrpl11	Mrpl55	Mrpl34	Mrpl12	Mrpl20	Ngrn	Mrpl4	Mrpl43	Mrpl21	Mrpl3	Mrpl40	Mrpl41	Mrpl2	Mrpl9
+MRPL46	huMAP	Mterf3	Mrpl28	Mrps18a	Mrpl48	Mrpl27	Mrpl24	Mrpl47	Mrpl22	Mrpl53	Mrpl32	Mrpl54	Mrpl10	Mrpl51	Mrpl30	Mrpl50	Mrpl19	Mrpl17	Mrpl38	Mrpl57	Mrpl13	Mrpl35	Mrpl14	Mrpl11	Mrpl55	Mrpl12	Mrpl34	Mrpl20	Mrpl4	Mrpl43	Mrpl21	Mrpl3	Mrpl41	Mrpl2	Mrpl9
+MRPL48	huMAP	Mrpl28	Mrpl38	Mrpl47	Mrpl34
+MRPL49	huMAP	Mrpl28	Mrps18a	Mrpl27	Mrpl24	Mrpl22	Mrpl23	Mrpl32	Mrpl30	Mrpl39	Mrpl37	Mrpl38	Mrpl35	Mrpl33	Mrpl34	Mrpl42	Mrpl43	Mrpl40	Mrpl41	Gadd45gip1	Mterf3	Mrpl48	Mrpl46	Mrpl47	Mrpl44	Mrpl53	Mrpl10	Mrpl54	Mrpl51	Mrpl50	Trub2	Mrpl19	Mrpl17	Mrpl18	Mrpl15	Mrps30	Mrpl16	Mrpl1	Mrpl57	Mrpl13	Mrpl14	Mrpl55	Mrpl11	Mrpl12	Ngrn	Mrpl20	Mrpl4	Mrpl21	Mrpl3	Mrpl2	Mrpl9
+MRPL50	huMAP	Trub2	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl13	Mrpl47	Mrpl12	Mrpl34	Mrpl53	Mrpl43	Mrpl21	Mrpl32	Mrpl54	Mrpl4	Mrpl3	Mrpl52	Mrpl9	Tbc1d8	Slc25a10
+MRPL51	huMAP	Mrpl28	Mrps18a	Mrpl48	Mrpl27	Mrpl24	Mrpl47	Mrpl22	Mrpl53	Mrpl32	Mrpl54	Mrpl10	Mrpl30	Mrpl50	Mrpl19	Mrpl38	Mrpl35	Mrpl57	Mrpl13	Mrpl14	Mrpl11	Mrpl55	Mrpl33	Mrpl34	Mrpl12	Mrpl21	Mrpl43	Mrpl4	Mrpl3	Mrpl2	Mrpl9
+MRPL52	huMAP	Mrpl53	Mrpl21	Mrpl28	Mrpl38
+MRPL54	huMAP	Mrpl53	Mrpl28	Mrpl48	Mrpl38	Mrpl47	Mrpl34
+MRPL55	huMAP	Mrpl19	Mrpl28	Mrps18a	Mrpl48	Mrpl38	Mrpl13	Mrpl47	Mrpl14	Mrpl22	Mrpl34	Mrpl4	Mrpl32	Mrpl43	Mrpl10	Mrpl21	Mrpl54	Mrpl3	Mrpl30	Mrpl2	Mrpl9	Mrpl50
+MRPL57	huMAP	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrps18a	Mrpl38	Mrpl13	Mrpl24	Mrpl14	Mrpl47	Mrpl22	Mrpl55	Mrpl34	Mrpl32	Mrpl43	Mrpl10	Mrpl21	Mrpl4	Mrpl3	Mrpl30	Mrpl2	Mrpl9	Mrpl50
+MRPL9	huMAP	Mterf3	Mrpl19	Mrpl28	Mrpl48	Mrpl38	Mrpl47	Mrpl34	Mrpl53	Mrpl43	Mrpl32	Mrpl21	Mrpl54	Mrpl4	Mrpl52	Slc25a10
+MRPS10	huMAP	Mrps27	Mrps28	Ptcd3	Mrps25	Mrps26	Mrps23	Mrps24	Mrps21	Mrps18c	Mrps18b	Mrps22	Mrps2	Mrps7	Mrps6	Mrps5	Mrps9	Dap3	Mrps16	Mrps17	Mrps14	Mrps15	Mrps34	Mrps35	Mrps11	Mrps33	Mrps31
+MRPS11	huMAP	Dap3	Mrps27	Mrps28	Mrps14	Mrps25	Mrps26	Mrps23	Mrps35	Mrps21	Mrps22	Mrps18b	Mrps33	Mrps2	Mrps7	Mrps9
+MRPS14	huMAP	Dap3	Mrps27	Mrps28	Mrps25	Mrps26	Mrps23	Mrps35	Mrps21	Mrps22	Mrps33	Mrps18b	Mrps7	Mrps9
+MRPS15	huMAP	Dap3	Mrps27	Ptcd3	Mrps17	Mrps28	Mrps14	Mrps25	Mrps26	Mrps34	Mrps23	Mrps35	Mrps21	Mrps18c	Mrps22	Mrps18b	Mrps11	Mrps33	Mrps2	Mrps31	Mrps7	Mrps6	Mrps5	Mrps9
+MRPS16	huMAP	Dap3	Mrps27	Ptcd3	Mrps28	Mrps14	Mrps25	Mrps26	Mrps15	Mrps23	Mrps34	Mrps35	Mrps24	Mrps21	Mrps18c	Mrps11	Mrps22	Mrps18b	Mrps33	Mrps2	Mrps31	Mrps7	Mrps6	Mrps5	Mrps9
+MRPS17	huMAP	Dap3	Mrps27	Mrps28	Mrps14	Mrps25	Mrps26	Mrps23	Mrps35	Mrps21	Mrps11	Mrps22	Mrps33	Mrps18b	Mrps2	Eral1	Mrps7	Mrps9
+MRPS18A	huMAP	Mterf3	Mrpl28	Mrpl48	Mrpl47	Mrpl22	Mrpl53	Mrpl10	Mrpl32	Mrpl54	Mrpl52	Mrpl30	Mrpl50	Mrpl19	Mrpl38	Mrpl13	Mrpl12	Mrpl34	Mrpl43	Mrpl4	Mrpl21	Mrpl3	Mrpl2	Mrpl9
+MRPS18B	huMAP	Dap3	Mrps27	Mrps9	Mrps28	Mrps25	Mrps35	Mrps21	Mrps22	Mrps33	Mrps7
+MRPS18C	huMAP	Dap3	Mrps27	Mrps17	Mrps28	Mrps25	Mrps14	Mrps26	Mrps23	Mrps35	Mrps21	Mrps11	Mrps22	Mrps18b	Mrps33	Mrps2	Mrps31	Mrps7	Mrps9
+MRPS2	huMAP	Dap3	Mrps27	Mrps28	Mrps14	Mrps25	Mrps26	Mrps23	Mrps35	Mrps21	Mrps18b	Mrps22	Mrps33	Mrps7	Mrps9
+MRPS22	huMAP	Rbm28	Dhx30	Dap3	Ddx27	Mybbp1a	Ebna1bp2	Mrps35	Mrps21	Ddx21	Mrps33	Mrps7
+MRPS23	huMAP	Dap3	Mrps27	Mrps28	Mrps9	Mrps25	Mrps35	Mrps21	Mrps18b	Mrps22	Mrps33	Mrps7
+MRPS24	huMAP	Dap3	Mrps27	Ptcd3	Mrps17	Mrps28	Mrps25	Mrps14	Mrps26	Mrps15	Mrps34	Mrps23	Mrps35	Mrps21	Mrps18c	Mrps33	Mrps11	Mrps18b	Mrps22	Mrps2	Mrps31	Mrps7	Mrps6	Mrps5	Mrps9
+MRPS25	huMAP	Dap3	Mrps28	Mrps9	Mrps35	Mrps21	Mrps22	Mrps33	Mrps7
+MRPS26	huMAP	Mrps27	Mrps28	Nop16	Mrps25	Mrps23	Ddx56	Mrps21	Mrps18b	Mrps22	Mrps7	Mov10	Ebna1bp2	Mrps9	Dkc1	Rpl26	Dap3	Ddx27	Mrps35	Ddx21	Mrps33	Dhx30	Llph
+MRPS27	huMAP	Dap3	Mrps28	Mrps9	Mrps25	Mrps35	Mrps21	Mrps22	Mrps33	Mrps7
+MRPS28	huMAP	Dap3	Mrps21	Mrps33	Mrps22	Mrps7
+MRPS30	huMAP	Mrpl28	Mrps18a	Mrpl27	Mrpl24	Mrpl22	Mrpl23	Mrpl32	Mrpl30	Mrpl39	Mrpl37	Mrpl38	Yars2	Mrpl35	Mrpl33	Mrpl34	Mrpl42	Mrpl43	Mrpl40	Mrpl41	Gadd45gip1	Mterf3	Mrpl48	Mrpl46	Mrpl47	Mrpl44	Mrpl53	Mrpl10	Mrpl54	Mrpl51	Mrpl52	Mrpl50	Mrpl19	Mrpl17	Mrpl18	Malsu1	Mrpl15	Mrpl16	Mrpl57	Mrpl13	Mrpl1	Mrpl14	Mrpl55	Mrpl11	Mrpl12	Mrpl20	Ngrn	Mrpl4	Mrpl21	Mrpl3	Mrpl2	Mrpl9
+MRPS31	huMAP	Dap3	Mrps27	Mrps28	Mrps17	Mrps25	Mrps14	Mrps26	Mrps23	Mrps35	Mrps21	Mrps22	Mrps33	Mrps18b	Mrps11	Mrps2	Mrps7	Mrps9
+MRPS34	huMAP	Dap3	Mrps27	Mrps28	Mrps17	Mrps14	Mrps25	Mrps26	Mrps23	Mrps35	Mrps18c	Mrps21	Mrps11	Mrps18b	Mrps33	Mrps22	Mrps2	Mrps31	Mrps7	Mrps5	Mrps9
+MRPS5	huMAP	Dap3	Mrps27	Mrps17	Mrps28	Mrps14	Mrps25	Mrps26	Mrps23	Mrps35	Mrps21	Mrps18c	Mrps18b	Mrps22	Mrps33	Mrps11	Mrps2	Mrps31	Mrps7	Mrps9
+MRPS6	huMAP	Dap3	Mrps27	Mrps28	Ptcd3	Mrps17	Mrps14	Mrps25	Mrps26	Mrps34	Mrps23	Mrps35	Mrps18c	Mrps21	Mrps33	Mrps11	Mrps22	Mrps18b	Mrps2	Eral1	Mrps31	Mrps7	Mrps5	Mrps9
+MRPS9	huMAP	Dap3	Mrps28	Mrps35	Mrps21	Mrps22	Mrps33	Mrps7
+MRTO4	huMAP	Nop16	Ftsj3	Gnl3	Wdr36	Rexo4	Wdr12	Ebna1bp2	Mybbp1a	Dkc1	Nol10	Tsr1	Nop56	Rbm28	Ddx27	Aven	Stau2	Mphosph10	Ddx24	Zc3hav1	Ddx21	Sdad1	Rpf2	Dhx30	Pes1	Rps5	Rrs1	Igf2bp3
+MSH6	huMAP	Rbm39	Ddx5	Mbd3	Tra2b	Rnps1	Msh2	Srsf6	Srsf7	Srrm2
+MTA1	huMAP	Mbd2	Mbd3	Zbtb2	Gatad2a	Rbbp7	Cdk2ap1rt	Chd4	Kpna3	Mta3	Zfp521	Gatad2b
+MTA2	huMAP	Hdac1	Hdac2	Mbd2	Rbbp4	Mbd3	Gatad2a	Cdk2ap1rt	Chd4	Mta3	Gatad2b
+MTA3	huMAP	Hdac2	Mbd2	Mbd3	Zbtb2	Gatad2a	Cdk2ap1rt	Rbbp7	Chd4	Gatad2b
+MTERF3	huMAP	Mrpl21	Ptcd1	Mrpl28	Mrpl38	Mrpl47	Mrpl34
+MTHFD1	huMAP	Rpl3	Rpl30	Rps8	Rpl21	Rpl10	Rps9	Rpl13	Rps3a1	Rps4x	Rpl14	Rps3	Rps20	Rps15a
+MYBBP1A	huMAP	Zcchc9	Stau2	Imp4	Mphosph10	Larp7	Rpf2	Dhx30	Rps17	Dkc1	Pes1	Rps5	Lyar	Fyttd1	Nop56
+MYEF2	huMAP	Rbm28	Zfp771	Ddx27	Ccdc137	Zc3hav1	Rexo4	Rpf2	Dhx30	Ebna1bp2	Mybbp1a	Dkc1	Pes1	Fyttd1
+MYH7B	huMAP	Btf3	Rpl30	Rps8	Tpm4	Rplp2	Ckb	Rps3	Rps20	Rps3a1
+MYO18A	huMAP	Myl6	Limch1	Acta1	Specc1l	Actg1	Myh9	Lrrfip2	Misp	Lima1
+MYO19	huMAP	Plekhg3	Myo5c	Nexn	Myo5a	Myo5b	Sorbs2	Zbtb20
+MYO1C	huMAP	Ppp1r12a	Limch1	Tpm4	Afap1	Myo5a	Actg1	Lima1	Ppp1cb	Myl6	Ablim1	Acta1	Specc1l	Myh9	Myo18a	Lrrfip2	Misp	Sptbn1	Dbn1
+MYO1E	huMAP	Specc1	Myo1c	Arhgap21	Myo5a	Myh9	Sorbs2	Sptbn1	Myl6b	Rai14	Lima1	Ssh2
+MYO5A	huMAP	Ablim1	Limch1	Myo5c	Myh9	Nexn	Myo5b	Cobl	Sptbn1	Lima1	Coro1c
+MYZAP	huMAP	Recql5	Polr2f	Polr2g	Gpn1	Polr2i	Rpap2	Polr2j	Gpn2
+MZT2B	huMAP	Nedd1	Mzt2	Tubgcp2	Nme7	Tubgcp3	Tubgcp6	Tubgcp4	Tubgcp5	Mzt1
+NACA2	huMAP	Rpl6	Btf3	Rpl21	Ptges3	Rplp2	Rpl23	Rpl12	Dlst	Ybx1	Rpsa	Rcn1	Rps19	G3bp2	Eef1g	Calu	Rps3	Rps15a
+NAP1L1	huMAP	Utp15	Rps8	Rpl22	Rpl21	Rps9	Rps7	Rps3a1	Rpl27	Rpl6	Rpl3	Rpl30	Rpl10	Rpl13	Rplp2	Ybx1	Hnrnpu	Nolc1	Rps15	Pes1	Rpl14	Rps15a
+NAP1L4	huMAP	Utp15	Npm3	Rps8	Rpl22	Rps9	Rpl21	Rpl24	Rpl23	Nap1l1	Rpl26	Rpl27	Rps23	Rpl6	Rpl3	Rpl30	Rpl10	Rpl13	Rplp2	Rpl35	Ybx1	Srp14	Rps15	Rpl18a	Rpl36	Rpl14	Rps15a	Rpl18	Rpl7a	Rps13
+NAT10	huMAP	Ssb	Nop58	Nop16	Rps8	Rps9	Ccdc137	Rps3a1	Gnl3	Ftsj3	Rpsa	Gnl2	Srpk1	Rsl1d1	Mybbp1a	Pop1	Tsr1	Hp1bp3	Rpl6	Rpl3	Rpl10	Rpl13	Ddx24	Hnrnpu	Ddx21	Ybx1	Ppan	Zc3h8	Larp1	Dhx30	Rps15	Rps19	Dhx57	Brix1	Rps5	Rrp12	Gm6133	Rps3	Rps15a	Lyar	Rpl7a	Rps13
+NCALD	huMAP	Napb	Ppp3r1	Mapt	Hpca	Dpysl3	Vsnl1	Cdh13	Snap91	Stx1b	Sncb	Syn1
+NCBP3	huMAP	Ddx39a	Ddx39b	Zc3h11a	Thoc2	Thoc1	Thoc6	Thoc5	Thoc7
+NCK2	huMAP	Dok1	Sema6a	Asap1	Tnk2	Mink1	Wasl	Cbl	Arhgef6
+NCL	huMAP	Rpl22	Rps8	Rps9	Rpl21	Rpl23	Nap1l4	Nap1l1	Rps3a1	Eef1g	Mthfd1	Pabpc1	Rpl27	Rpl10	Rpl13	Hnrnpu	Pes1	Rpl14	Rps3	Rps15a	Rpl18	Eef2	Supt5	Ebna1bp2	Rps20	Rps23	Rbm46	Rps25	Rpl6	Rpl3	Rpl30	Rpl4	Rplp2	Rpl35	Ybx1	Srp14	Rpl8	Rps15	Rps4x	Rps18	Rpl18a	Rpl36	Rps11	Rpl7a	Rps13
+NDC1	huMAP	Nup205	Nup107	Ube2i	Nup153	Nup210	Nup160	Nxf1	Gle1	Tmem214	Sumo1	Nup43	Rcc1	Nup35
+NDC80	huMAP	Spc24	Pmf1	Nuf2	Zwint	Spc25
+NDUFA12	huMAP	Ndufa8	Ndufa7	Ndufb7	Ndufb4	Ndufa2	Ndufs3	Uqcrc1	Ndufs1	Ndufv2	Ndufv1
+NDUFB1	huMAP	Ndufa8	Ecsit	Ndufs8	Ndufs7	Ndufa5	Ndufs5	Ndufs3	Ndufs2	Ndufv1
+NDUFB8	huMAP	Ndufa8	Ndufa7	Ndufs8	Ndufb5	Ndufb4	Ndufs4	Ndufs3	Ndufb1
+NDUFS6	huMAP	Ndufa7	Ndufa12	Ndufb7	Golt1b	Ndufa2	Ndufs1	Ndufv2	Ndufv1
+NEDD1	huMAP	Mzt2	Tubgcp2	Tubgcp3	Tubgcp6	Tubgcp4	Tubgcp5	Mzt1
+NEDD4L	huMAP	Wwox	Hecw2	Nedd4	Wwp1	Wwp2	Itch
+NEK2	huMAP	Cdc23	Anapc15-ps	Anapc16	Cdc26	Cdc16	Anapc10	Anapc2
+NEXN	huMAP	Ablim1	Myo5c	Myh9	Myo5b	Sptbn1	Coro1c
+NFRKB	huMAP	Ino80c	Ino80e	Actr5	Ino80	Uchl5
+NGRN	huMAP	Gadd45gip1	Ptcd1	Mterf3	Mrpl28	Mrps18a	Mrpl27	Mrpl24	Mrpl46	Mrpl47	Mrpl22	Mrpl23	Mrpl32	Mrpl50	Trub2	Fastkd2	Mrpl19	Mrpl17	Mrpl39	Mrpl18	Mrpl38	Mrpl57	Yars2	Mrpl13	Mrpl14	Mrpl20	Mrpl43	Mrpl4	Mrpl21	Mrpl3	Mrpl40	Mrpl41	Mrpl9	Igf2bp2	Raly
+NHP2	huMAP	Nop58	Hadha	Pes1	Ybx1	Rps20	Rps3	Nop10	Fbl	Rpf2
+NIFK	huMAP	Upf1	Imp3	Rbm19	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Bop1	Lin28b	Dkc1	Rpl7l1	Rpl26	Pop1	Zfp512	Zcchc9	Nip7	Zc3hav1	Rpf2	Dhx30	Llph	Pura	Pes1	Rpl15	Rps5	Gm6133	Rrs1	Ddx18	Nop16	Ddx56	Ccdc137	Surf6	Noc3l	Ftsj3	Mov10	Rsl1d1	Mybbp1a	Ebna1bp2	Nol12	Gzf1	Glyr1	Zcchc3	Nop56	Fyttd1	Rbm28	Rrp8	Zfp771	Ddx27	Ddx24	Ddx21	Noc2l	Ttf1	Rrp9	Nkrf	Brix1	Rps13	Rbm34
+NIP7	huMAP	Myef2l	Nop16	Ccdc137	Ddx56	Rrp1b	Ftsj3	Gnl3	Rexo4	Wdr12	Gtpbp4	Mrto4	Mov10	Ebna1bp2	Mybbp1a	Dkc1	Rpl7l1	Rpl26	Nop56	Rbm28	Zfp771	Rrp8	Ddx27	Stau2	Ddx24	Ddx21	Zc3hav1	Sdad1	Rrp9	Rpf2	Dhx30	Larp1	Llph	Dhx57	Pes1	Rps5	Rrs1	Lyar
+NKRF	huMAP	Imp3	Ddx31	Gnl3	Rexo4	Gtpbp4	Mrto4	Lin28b	Xrn2	Dkc1	Rpl7l1	Rpl26	Zfp512	Stau2	Nip7	Ythdc2	Zc3hav1	Rpf2	Dhx30	Llph	Pura	Pes1	Rpl15	Rps5	Gm6133	Rrs1	Lyar	Nop16	Surf6	Ccdc137	Mrps22	Rrp1b	Noc3l	Ftsj3	Mov10	Ebna1bp2	Mybbp1a	Tsr1	Nol12	Gzf1	Glyr1	Nop56	Rbm28	Zfp771	Rrp8	Ddx27	Mphosph10	Ddx24	Ddx21	Larp1	Rps17	Dhx57	Brix1	Igf2bp3	Rps13
+NME2	huMAP	Fkbp1b	Trabd	Fkbp1a	Ahcyl	Eno1	Eno3	Atp6v1c1	Sod1
+NOC2L	huMAP	Ddx18	Nip7	Ddx56	Ccdc137	Mphosph10	Ddx24	Ddx10	Ddx21	Ddx31	Ftsj3	Sdad1	Wdr36	Gtpbp4	Rpf2	Mrto4	Dhx30	Ebna1bp2	Mybbp1a	Dkc1	Pes1	Rrs1	Glyr1	Nop56
+NOC3L	huMAP	Myef2l	Nop16	Imp3	Ddx56	Ccdc137	Rrp1b	Ftsj3	Gnl3	Rexo4	Gtpbp4	Wdr12	Mrto4	Mybbp1a	Ebna1bp2	Dkc1	Rpl7l1	Rpl26	Gzf1	Fyttd1	Rbm28	Rrp8	Ddx27	Stau2	Nip7	Ddx24	Ddx21	Zc3hav1	Rrp9	Rpf2	Dhx30	Llph	Pes1	Gm6133	Rrs1	Lyar
+NOL12	huMAP	Nop16	Imp3	Ddx56	Ccdc137	Surf6	Noc3l	Ddx31	Ftsj3	Gnl3	Rexo4	Larp7	Gtpbp4	Ebna1bp2	Mybbp1a	Lin28b	Dkc1	Rpl7l1	Rpl26	Gzf1	Fyttd1	Rbm28	Zfp771	Rrp8	Ddx27	Nip7	Mphosph10	Ddx24	Zc3hav1	Ddx21	Rpf2	Dhx30	Llph	Dhx57	Pura	Pes1	Brix1	Rps5	Gm6133	Rrs1	Lyar	Rps13
+NOL6	huMAP	Rps7	Rps3a1	Gnl3	Mybbp1a	Pabpc4	Tsr1	Rps25	Rbm28	Rpl6	Rpl3	Rpl30	Rpl10	Ddx24	Hnrnpu	Rrbp1	Rrp9	Fbl	Larp1	Rps4x	Dhx57	Rps5	Rps14
+NOLC1	huMAP	Rpl3	Rpl30	Ebna1bp2	Rps8	Rps9	Pes1	Rps15a
+NOP10	huMAP	Rps8	Rpl11	Rpl13	Ybx1	Rps3a1	Rpf2	Rps4x	Hadha	Eef1g	Pes1	Rps5	Rpl14	Rps3	Rps15a	Rps25
+NOP16	huMAP	Rbm28	Zfp771	Ddx27	Imp3	Stau2	Imp4	Mphosph10	Ddx21	Mrps22	Rpf2	Dhx30	Mybbp1a	Ebna1bp2	Dkc1	Pes1	Rps5	Tsr1	Lyar	Nop56
+NOP2	huMAP	Imp3	Imp4	Zbtb11	Knop1	Srrm1	Larp7	Gtpbp4	Mrto4	Bop1	Lin28b	Xrn2	Dkc1	Rpl7l1	Ccdc86	Rpl26	Pop1	Stau1	Stau2	Nip7	Sdad1	Dhx30	Srp72	Pura	Pes1	Rpl15	Gm6133	Nop16	Ddx56	Surf6	Ccdc137	Ddx54	Ddx50	Ftsj3	Mov10	Nol12	Glyr1	Rsl24d1	Zfp771	Rrp8	Mphosph10	Ppan	Zfp422	Ttf1	Rrp9	Larp1	Brix1	Upf1	Ddx31	Gnl3	Wdr36	Rexo4	Gnl2	Cebpz	Pabpc4	Zfp512	Hp1bp3	Nvl	Ythdc2	Zc3hav1	Noc4l	Zc3h8	Rpf2	Llph	Gar1	Rrs1	Lyar	Ddx18	Myef2l	Mrps26	Krr1	Mrps22	Srp68	Rrp1b	Noc3l	Rsl1d1	Ebna1bp2	Mybbp1a	Gzf1	Fyttd1	Nop56	Rbm28	Ddx27	Ddx24	Ddx21	Noc2l	Kri1	Nkrf	Dhx57	Rrp15	Rrp12	Igf2bp3	Nifk	Rbm34
+NOP58	huMAP	Rps9	Rps7	Rps3a1	Srpk2	Ebna1bp2	Grwd1	Eef1g	Rpl27	Nop10	Rpl3	Rpl30	Ddx47	Rpl11	Rpl10	Rplp2	Rpl12	Ybx1	Nolc1	Fbl	Nol6	Rpf2	Rps4x	Pes1	Rpl14	Rps15a	Rps14
+NPM1	huMAP	Snd1	Nsun2	Rps8	Rpl22	Rps9	Rpl21	Larp4b	Nap1l1	Rps3a1	Rpsa	Rpp25l	Rpl27	Mpg	Ddx47	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Rrbp1	Fbl	Emg1	Pdcd11	Rps5	Rpl14	Rps3	Rps15a	Zfp622	Npm3	Tex10	Scaf1	Rpl3l	Rps21	Tsr1	Rps20	Rps25	Rpl6	Rpl3	Rpl30	Usp10	Mus81	Rps4x	Rps15	Rps17	Mtpap	G3bp1	Rps14
+NPM3	huMAP	Snd1	Ddx47	Rps8	Rpl10	Rpl13	Tsr1
+NSA2	huMAP	Nop16	Imp3	Imp4	Mrps22	Gnl3	Rexo4	Larp7	Mybbp1a	Ebna1bp2	Dkc1	Rpl7l1	Gzf1	Fyttd1	Nop56	Rbm28	Zfp771	Ddx27	Stau2	Mphosph10	Ddx24	Ddx21	Rpf2	Dhx30	Pes1	Rps5	Rrs1	Lyar
+NSL1	huMAP	Spc24	Pmf1	Nuf2	Zwint	Spc25	Ndc80
+NSUN2	huMAP	Snd1	Mpg	Rpl3	Rpl30	Rps8	Rpl11	Ddx47	Rps9	Rpl10	Rpl13	Rps3a1	Fbl	Rps4x	G3bp1	Rps5	Rpl14	Rpl27	Rps20	Rps3	Rps15a
+NUDT21	huMAP	Cpsf6	Sf3a2	Rbm15	Cpsf7	Sf3a3	Ddx17	Lrrc47	Thoc2	Cdc5lrt9	P3h1	U2surp	Prpf6	Prpf18	Prpf8	Cd2bp2	Taok1	Snrpa1	Sf3a1	Mtpn	Sf3b6	Rbm26	Sf3b3	Usp39	Sf3b4	Srrt	Snrpd2	Snrpd1	Sf3b2	Smndc1
+NUFIP1	huMAP	Gria2	Snap25	Znhit3	Ndrg4	Hpca	Cadm2	Pde2a	Trim2	Ncald	Hpcal4	Sncb
+NUP107	huMAP	Gle1	Tmem214	Sumo1	Nup43	Nup35	Nup153	Nup210	Nup133
+NUP153	huMAP	Gle1	Tmem214	Sumo1	Kifc1	Nup35	Nup210	Rangap1
+NUP155	huMAP	Ranbp2	Nup205	Nup107	Ndc1	Nup214	Nup210	Nup160	Aaas	Nxf1	Gle1	Nup93	Tmem214	Sumo1	Nup43	Nup85	Nup35	Tmem209	Nup88
+NUP160	huMAP	Smpd4	Gle1	Nup107	Tmem214	Nup43	Sumo1	Nup35	Nup153	Nup133	Nup210
+NUP188	huMAP	Smpd4	Nup205	Nup93	Tmem214	Nup43	Nup85	Nup214	Nup35	Nup210	Nup155	Nup160	Aaas
+NUP205	huMAP	Smpd4	Gle1	Nup107	Tmem214	Nup43	Sumo1	Nup35	Nup153	Nup210	Nup88	Nup133	Nup160
+NUP37	huMAP	Gle1	Nup107	Tmem214	Nup43	Sumo1	Nup153	Nup133	Nup160
+NUP43	huMAP	Gle1	Tmem214	Sumo1	Nup35	Nup153	Nup133	Nup210
+NUP50	huMAP	Rngtt	Klhl7	Kifc1	Nup153	Wdhd1	Kpna2	Rangap1
+NUP85	huMAP	Nup205	Nup107	Ndc1	Nup153	Nup210	Nup133	Nup160	Aaas	Nxf1	Smpd4	Gle1	Tmem214	Nup98	Nup43	Sumo1	Nup35	Tmem209	Nup37
+NUP93	huMAP	Nup205	Ranbp2	Nup107	Nup214	Ndc1	Nup153	Nup210	Nup160	Aaas	Nxf1	Gle1	Tmem214	Nup43	Sumo1	Nup85	Nup35	Nup88
+NUP98	huMAP	Gle1	Nup205	Nup107	Nup43	Nup35	Nup153	Nup160	Nup37
+NVL	huMAP	Upf1	Imp3	Imp4	Ddx31	Gnl3	Gnl2	Rexo4	Gtpbp4	Mrto4	Lin28b	Dkc1	Rpl7l1	Ccdc86	Rpl26	Pop1	Zfp512	Stau2	Ythdc2	Nip7	Zc3hav1	Rpf2	Dhx30	Srp72	Llph	Pes1	Rpl15	Rps5	Gm6133	Rrs1	Lyar	Ddx18	Myef2l	Nop16	Surf6	Ddx56	Ccdc137	Noc3l	Ftsj3	Mov10	Rsl1d1	Mybbp1a	Ebna1bp2	Nol12	Gzf1	Glyr1	Fyttd1	Nop56	Rbm28	Rrp8	Ddx27	Ddx24	Ddx21	Ppan	Zfp422	Ttf1	Rrp9	Larp1	Nkrf	Dhx57	Brix1	Igf2bp3	Nifk	Rbm34	Rps13
+NXF1	huMAP	Nup205	Gle1	Ube2i	Nup107	Tmem214	Sumo1	Nup43	Nup35	Nup153	Nup210	Nup160	Nup37
+OSGEP	huMAP	Lage3	Trp53rka	Mfap3	Tprkb
+PA2G4	huMAP	Nsun2	Rpl22	Rps8	Rps9	Rpl21	Rpl24	Eif1ad7	Rps6	Rpl23	Rpl13a	Rps3a1	Rpsa	Rpl27	Mpg	Rpl11	Rpl10	Rpl13	Rpl12	Trmt112	Rpl15	Rps5	Rpl14	Rps3	Rps15a	Zfp622	Eif2s1	Rps26	Rps23	Rps25	Rpl6	Rpl3	Rpl30	Rpl4	Rpl35	Rpl8	Rps16	Rps15	Rps4x	Rps18	Rpl18a	G3bp1	Rpl36	Igf2bp3	Rack1	Rps11	Rpl7a	Rps14	Rps13
+PABPC1	huMAP	Ssb	Rps8	Rpl21	Rps9	Rps3a1	Rpsa	Srpk1	Ebna1bp2	Hnrnpc	Rpl27	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rpl11	Rpl13	Rplp2	Ybx1	Rps4x	Rpl15	Rpl14	Igf2bp3	Rps3	Rps15a	Rps14
+PABPC4	huMAP	Zfp771	Upf1	Zcrb1	Stau2	Ddx21	Ftsj3	Larp7	Gtpbp4	Mov10	Larp1	Dhx30	Mybbp1a	Dkc1	Rps5	Igf2bp3	Gzf1	Sf3b2	Zcchc3
+PAF1	huMAP	Csnk2b	Iws1	Supt4a	Cdc73
+PAK1IP1	huMAP	Upf1	Imp3	Imp4	Rbm19	Rpl13a	Knop1	Ddx31	Gnl3	Rexo4	Gnl2	Larp7	Gtpbp4	Mrto4	Bop1	Lin28b	Dkc1	Rpl7l1	Ccdc86	Rpl26	Pop1	Zfp512	Hp1bp3	Nvl	Stau1	Stau2	Nip7	Nop2	Zc3hav1	Rpf2	Aatf	Dhx30	Srp72	Llph	Pura	Pes1	Rpl15	Gm6133	Rrs1	Ddx18	Myef2l	Abt1	Nop16	Ddx56	Ccdc137	Surf6	Ddx54	Noc3l	Rrp1b	Ftsj3	Ddx50	Rsl1d1	Mov10	Ebna1bp2	Mybbp1a	Nol12	Gzf1	Rsl24d1	Glyr1	Fyttd1	Nop56	Rbm28	Rrp8	Zfp771	Ddx27	Mphosph10	Ddx24	Ddx21	Ppan	Zfp422	Ttf1	Kri1	Rrp9	Larp1	Nkrf	Dhx57	Rrp15	Brix1	Rrp12	Nifk	Rbm34	Rps13
+PBRM1	huMAP	Smarcd2	Actl6a	Smarce1	Arid1a	Smarca2	Brd7	Smarca4
+PCGF1	huMAP	Rybp	Kdm2b	Bcl6	Yaf2	Bcor	Bcorl1
+PCMT1	huMAP	Eno1	Ydjc	Tkt	Aldh16a1	Klhl42
+PDCL3	huMAP	Cct4	Cct2	Hgh1	Pdcd5	Pdcl	Txndc9	Cct8
+PDHA1	huMAP	Stat5b	Pdhx	Pdhb	Dlat	Stat5a
+PDRG1	huMAP	Uri1	Vbp1	Pih1d1	Pfdn2	Rpap3
+PDS5A	huMAP	Stag2	Prpf19	Pds5b	Eif2s2	Smc1a	Safb	Smc3
+PDS5B	huMAP	Stag1	Rad21	Prpf19	Cdca5	Cdc5lrt9	Smc1a	Eif2s2	Wapl	Smc3
+PELP1	huMAP	Wdr18	Las1l	Tex10	Nol9	Senp3
+PES1	huMAP	Dhx30	Rpl3	Stau2	Imp4	Mphosph10	Larp7	Nop56	Rpf2
+PGK1	huMAP	Tsfm	Eno1	Eno2	Eno3	Gapdhrt
+PGK2	huMAP	Tsfm	Ak2	Eno3	Tkt	Gpi1
+PGM5	huMAP	Hint1	Fh1	Fabp5	Oxct1	Dbi	Sod1
+PHB	huMAP	Afg3l2	mt-Co2	Canx	Atp2a2	Vdac2	Vdac1	Slc25a5
+PHC2	huMAP	Rnf2	Phc3	Cbx7	Ring1	Cbx4
+PHF5A	huMAP	Sf3b5	Sf3a2	Sf3a3	Sf3b4	Prpf31	Snrpb2	Sf3a1	Sf3b2
+PIK3R2	huMAP	Pik3cb	Pik3r1	Pik3ca	Wdr6	Pik3r3
+PLEKHG3	huMAP	Myo5c	Cfl2	Myo5a	Cfl1	Actg1	Myo5b	Twf1	Coro1c	Ssh2
+PLRG1	huMAP	Cpsf6	Aqr	Sf3b3	Sf3a2	Isy1	Sf3a3	Cdc5lrt9	Prpf6	Xab2	Sart1	Snw1	Prpf19	Snrpd2	Snrpd1	Ccdc12	Sf3a1	Ppie	Smndc1
+PLXNA3	huMAP	Galnt13	Cntnap3	Entpd6	Chst10	Cacna2d2	Plxna1
+PMP2	huMAP	Hint1	Fh1	Tagln2	Eno1	Dbi
+PNKD	huMAP	Radil	Golph3l	Lss	Ppargc1b	Ppfibp1	Atrip	Mlxip
+POLR1A	huMAP	Rrn3	Polr1b	Polr1d	Polr2e	Polr2f	Polr2h	Polr2k	Polr2l
+POLR2A	huMAP	Polr2e	Polr2f	Polr2g	Gpn1	Polr2i	Rprd1b	Rpap2	Polr2j	Gpn3	Polr2k
+POLR2B	huMAP	Tubb5	Polr2e	Polr2g	Rprd1b	Gtf2f2	Rpap2	Tubb2a	Tubb4b
+POLR2C	huMAP	Rprd1a	Gpn1	Gpn3	Rpap2	Polr2b	Polr2d	Polr2e	Polr2f	Polr2g	Myzap	Rprd1b	Polr2i	Polr2j	Polr2k
+POLR2D	huMAP	Polr2a	Rprd1a	Polr2b	Rprd2	Polr2g	Gpn1	Myzap	Polr2i	Rprd1b	Polr2j	Rpap2
+POLR2G	huMAP	Rprd1a	Ctdp1	Polr2e	Polr2f	Rpap2
+POLR2H	huMAP	Polr1b	Polr1d	Polr2e	Polr2f
+POLR2I	huMAP	Recql5	Polr2e	Polr2f	Polr2g	Gpn1	Rprd1b	Rpap2	Polr2k
+POLR2J	huMAP	Polr2b	Polr2g	Gpn1	Rprd1b	Gpn2
+POLR2L	huMAP	Polr1b	Polr1d	Polr2e	Polr2h	Gpn1
+POLR3A	huMAP	Polr3b	Crcp	Polr3c	Polr3d	Polr1c	Polr3f	Polr3h	Polr3k
+POLR3C	huMAP	Polr3b	Crcp	Polr3d	Polr1c	Polr3h
+POLR3F	huMAP	Polr3b	Crcp	Polr3c	Polr3d	Polr3h	Polr3k
+POLR3G	huMAP	Polr3b	Crcp	Polr3c	Polr3d	Polr1c	Polr3h
+POLR3K	huMAP	Polr3b	Polr3c	Crcp	Polr3d	Polr1c	Polr3h	Gpn1
+POMK	huMAP	Brip1	Pkdcc	Tmem120a	S1pr2	Slc35f2
+POMP	huMAP	Psmb9	Psma6	Psmb7	Psma7	Psmb5	Psma5	Psmb4	Psma3	Psmb1	Psme4	Psma1	Psmb2	Psmf1	Psmg2
+POP1	huMAP	Upf1	Imp3	Imp4	Rbm19	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Lin28b	Xrn2	Dkc1	Rpl7l1	Rpl26	Zfp512	Stau2	Nip7	Ythdc2	Zc3hav1	Zc3h8	Rpf2	Dhx30	Llph	Zfp629	Pura	Pes1	Rpl15	Rps5	Gar1	Gm6133	Rrs1	Sf3b2	Lyar	Ddx18	Nop16	Mrps26	Ddx56	Ccdc137	Surf6	Mrps22	Noc3l	Ftsj3	Mov10	Mybbp1a	Ebna1bp2	Tsr1	Nol12	Gzf1	Glyr1	Zcchc3	Nop56	Zfp574	Rbm28	Rrp8	Zfp771	Ddx27	Zfp770	Mphosph10	Ddx24	Ddx21	Ttf1	Kri1	Rrp9	Larp1	Nkrf	Dhx57	Bms1	Brix1	Igf2bp3	Rps13
+PPAN	huMAP	Upf1	Imp3	Imp4	Rbm19	Ddx31	Gnl3	Rexo4	Gnl2	Larp7	Gtpbp4	Mrto4	Bop1	Lin28b	Xrn2	Dkc1	Rpl7l1	Ccdc86	Rpl26	Pabpc4	Pop1	Zfp512	Stau2	Nip7	Zc3hav1	Zc3h8	Spty2d1	Rpf2	Dhx30	Srp72	Llph	Pura	Pes1	Rpl15	Gar1	Rps5	Gm6133	Rrs1	Sf3b2	Lyar	Ddx18	Nop16	Mrps26	Ddx56	Surf6	Ccdc137	Mrps22	Noc3l	Rrp1b	Ftsj3	Rsl1d1	Mov10	Ebna1bp2	Mybbp1a	Tsr1	Nol12	Gzf1	Glyr1	Zcchc3	Nop56	Fyttd1	Rbm28	Rrp8	Zfp771	Ddx27	Mphosph10	Ddx24	Ddx21	Zfp422	Kri1	Ttf1	Rrp9	Larp1	Nkrf	Dhx57	Bms1	Brix1	Rrp12	Nifk	Rps13	Rbm34
+PPIE	huMAP	Aqr	Dhx8	Rab43	Prpf19	Ccdc12	Zfp830
+PPIF	huMAP	Cnn3	Hint1	Lypla1	Got2	Taldo1	Glrx
+PPM1G	huMAP	Prpf8	Wtap	Snrpd2	Snrpd1	Srrt	Eftud2
+PPP1CA	huMAP	Csrnp1	Csrnp2	Ppp1r37	Ppp1r11	Ylpm1	Ppp1cb	Ppp1cc	Tanc2	Ppp1r3d	Phactr4
+PPP1CB	huMAP	Ppp1cc	Ablim1	Myo5c	Nexn	Lima1	Actrt1
+PPP1R18	huMAP	Ppp1cc	Cfl2	Fbxo46	Ppp1ca	Ppp1cb
+PPP1R7	huMAP	Ppp1cc	Ppp1r2	Ppp1r11	Ppp1ca	Ppp1cb
+PPP1R9B	huMAP	Actn1	Cfl2	Twf1	Ppp1r9a	Coro1c	Ssh2
+PPP2R1B	huMAP	Ppp2r5c	Ppp2r1a	Ppp2r5e	Ppp2r5d	Ppp2ca
+PPP2R5D	huMAP	Ppp2r2d	Ppfia1	Ppp2r5e	Ppp2r1a	Ppp2r5a	Ppp2ca
+PPP3CC	huMAP	Rcan1	Rcan3	Nfatc4	Sik3	Nfatc1
+PPP6R2	huMAP	Ppp6c	Ankrd28	Ppp6r1	Ppp6r3	Ankrd44
+PPWD1	huMAP	Hnrnpa2b1	Hnrnpa1	Eif4h	Hnrnpr	Hnrnpa3
+PQBP1	huMAP	Cpsf6	Sart1	Prpf8	Ubl5	Wbp4	Prpf3	Cdc5lrt9	Prpf31	Snrnp200	Rbm22
+PRDM15	huMAP	Ltv1	Toe1	Zcrb1	Rps5	Tsr1	Cherp	Gzf1
+PRKAB1	huMAP	Prkaa2	Prkag2	Prkag1	Prkaa1	Prkab2
+PRKAR2A	huMAP	Cdk5rap2	Akap9	Prkacb	Akap5	Cep68	Prkaca
+PRKAR2B	huMAP	Akap13	Akap1	Akap14	Akap7	Prkx
+PRPF19	huMAP	Prpf6	Sart1	Prpf8	Ddx17	Usp39	Sf3a3	Ddx23	Prpf40a	Cdc73	U2surp
+PRPF3	huMAP	Cpsf6	Sf3b3	Ddx23	Tfip11	Snu13	Sart1	Xab2	Prpf6	Prpf8	Prpf19	Plrg1	Snrpd2	Cd2bp2	Prpf31	Tut1	Rbm25	Sf3b2	Smndc1
+PRPF4	huMAP	Sf3a2	Sf3a3	Cdc5lrt9	Tfip11	Prpf6	Nudt21	Snw1	Prpf8	Snrnp40	Prpf19	Prpf3	Prpf31	Tut1	Snrpa1	Snrnp200	Sf3a1	Sf3b3	Usp39	Sf3b4	Ddx23	Pqbp1	Snu13	Eftud2	Sart1	Tpr	Snrpd2	Snrpd1	Dhx15	Sf3b1
+PRPF4B	huMAP	Rbm39	Ddx46	Ppig	Iws1	Srsf5	Srsf6	Srsf11
+PRPF6	huMAP	Sart1	Ddx5	Usp39	Sf3a3	Prpf31	Prpf40a	Cdc73
+PRPF8	huMAP	Prpf6	Rbm39	Sart1	Sf3a3	Prpf31	Srsf6	Prpf40a	Srsf11
+PSIP1	huMAP	Sf3a3	Prpf19	Prpf40a	Sf3b2	Sf3a1	Srsf11
+PSMA3	huMAP	Psmb3	Psme4	Psmb1	Psme2b	Fbxo7	Psmg2	Psme1	Psmb9	Psmb10
+PSMA4	huMAP	Pomp	Psma8	Psmb9	Psmb8	Psma7	Psma5	Psmb3	Psmb1	Psme4	Psmb2	Psme2b	Psmf1	Psmg2	Fbxo7	Psme1
+PSMA5	huMAP	Psmb8	Psmb3	Psme4	Psmb1	Fbxo7	Psmb10
+PSMA6	huMAP	Psmb3	Psme4	Psme2b	Psmg2	Fbxo7	Psmb9	Psmb10
+PSMA8	huMAP	Psmb9	Psma6	Psmb7	Psmb5	Psmb6	Psma5	Psma2	Psmc5	Psma3	Psmb1	Psmc2	Psmb2	Psma1	Psmc3	Psmd1	Psmd2	Psmc1
+PSMB2	huMAP	Psmb8	Psmb3	Psme4	Psme2b	Fbxo7	Psmg2	Psmb9	Psmb10
+PSMB3	huMAP	Psmb7	Psma7	Psmb6	Psma2	Psme4	Psmb1	Psma1	Fbxo7
+PSMB4	huMAP	Cdk18	Akirin2	Cep120	Psmb9	Psma8	Psmb10	Psma7	Psmb3	Psme4	Psme2b	Psmg2	Fbxo7	Psmf1	Psme1
+PSMB5	huMAP	B4galt4	Akirin2	Psmb3	Psme4	Psme2b	Ubfd1	Fbxo7	Psmg2	Psme1	Ttf2	Try4	Psmb9
+PSMB8	huMAP	Psmb7	Psma7	Psmb6	Psmd14	Psmb1	Psmd2
+PSMB9	huMAP	Psmb7	Psma7	Psma5	Psmb3	Psma2	Psme4	Psmb1	Psma1	Psme2b	Psmg2	Psmg3	Psmb10
+PSMC1	huMAP	Psmd13	Psmd12	Psmd5	Psmd14	Psmc2	Psmd3	Psmd4	Psmc3	Psmd2
+PSMC2	huMAP	Psmd13	Psmd12	Psmd5	Psmd14	Psmc3	Psmd4	Uchl5
+PSMC3	huMAP	Psmd12	Psmd14	Psmd4	Tpd52l1
+PSMC4	huMAP	Usp14	Psmd11	Psmd10	Psmd13	Psmd12	Psmd14	Adrm1b	Ube3a	Psma8	Psmd9	Psmd7	Psmc6	Psmd5	Psmd6	Psmc5	Psmc2	Psmd3	Psmd4	Psmc3	Psmd1	Psmd2	Psmc1
+PSMC5	huMAP	Psmd10	Psmd13	Psmd12	Psmd14	Psmd9	Psmc6	Psmd7	Psmd5	Psmd3	Psmc2	Psmd4	Psmc3	Psmd1	Psmc1	Psmd2
+PSMC6	huMAP	Usp14	Psmd13	Macf1	Psmd12	Psmd14	Psmd9	Psmd7	Psmd5	Psmd3	Psmc2	Psmd4	Psmc3	Gnpnat1	Psmd1	Psmd2	Psmc1
+PSMD1	huMAP	Psmd13	Psmd7	Psmd12	Psmd14	Psmd3	Psmc2	Psmd4	Psmc3	Psmd2	Psmc1	Uchl5
+PSMD10	huMAP	Usp14	Psmd13	Psmd12	Psmd14	Uchl5	Psmd7	Psmc6	Psmc2	Psmd3	Psmc3	Psmd4	Psmd1	Psmc1	Psmd2
+PSMD11	huMAP	Psmd10	Psmd13	Psmd12	Psmd14	Uchl5	Psmd9	Psmc6	Psmd7	Psmd5	Psmc5	Psmd3	Psmc2	Psmc3	Psmd4	Psmd1	Psmc1	Psmd2
+PSMD13	huMAP	Psmd12	Psmd14	Psmd4	Psmc3	Uchl5
+PSMD2	huMAP	Psmd13	Psmd12	Psmd5	Psmd14	Psmd3	Psmc2	Psmd4	Psmc3	Uchl5
+PSMD3	huMAP	Psmd13	Psmd12	Psmd5	Psmd14	Psmc2	Psmd4	Psmc3
+PSMD6	huMAP	Psmd11	Psmd10	Psmd13	Psmd12	Psmd14	Uchl5	Psmd9	Psmd7	Psmc6	Psmd5	Psmc5	Psmd3	Psmc2	Psmd4	Psmc3	Psmd1	Psmc1	Psmd2
+PSMD7	huMAP	Psmd13	Psmd12	Psmd5	Psmd14	Psmc2	Psmd3	Psmc3	Psmd4	Psmc1	Psmd2
+PSMD8	huMAP	Psmd13	Psmd12	Psmd14	Psmd7	Psmd5	Psmd3	Psmd4	Psmd1	Psmd2	Pdk4	Psmc1	Sil1
+PSMD9	huMAP	Psmd13	Psmd7	Psmd5	Psmd14	Psmd3	Psmc2	Psmc3	Psmd4	Psmd1
+PSME1	huMAP	Psmb9	Psmb7	Psma6	Psma7	Psmb6	Psma5	Psmb3	Psma2	Psmb1	Psmb2	Psma1	Psme2b	Psmg2
+PSME2	huMAP	Psmb7	Psma7	Psma5	Psmb6	Psma2	Psmb3	Psme4	Psmb1	Psma1	Psmg2	Fbxo7
+PSME4	huMAP	Psmb7	Psma7	Psmb6	Psma2	Psmb1	Psma1
+PSMF1	huMAP	Psmb9	Psma6	Psmb7	Psma7	Psmb5	Psma5	Psmb3	Psma3	Psme4	Psmb1	Psmb2	Psma1	Psme2b	Fbxo7	Psmg2
+PSMG1	huMAP	Pomp	Psmb9	Psmb7	Psma6	Psma7	Psma4	Psmb5	Psmb6	Psma5	Psmb3	Psma2	Psmb4	Psma3	Psmb1	Psme4	Psmb2	Psma1	Psme2b	Psmg2	Fbxo7	Psmg3	Psme1
+PSMG2	huMAP	Psmb7	Psma7	Psma5	Psmb6	Psmb3	Psma2	Psme4	Psmb1	Psma1	Psmg4	Fbxo7
+PTCD3	huMAP	Dap3	Mrps27	Mrps17	Mrps28	Mrps14	Mrps25	Mrps26	Mrps34	Mrps23	Mrps35	Mrps21	Mrps18c	Mrps18b	Mrps33	Mrps11	Mrps22	Mrps2	Mrps31	Mrps7	Mrps5	Mrps9
+PUF60	huMAP	Cpsf6	Ncbp1	Prpf4b	Prpf40a	Srrm1	Srrm2	Hnrnpm	Snrpa	Msh6	Srsf3	Cd2bp2	Ppig	Srsf4	Srsf5	Srsf6	Srsf7	Rbm25	Srsf9	Luc7l3	Ran	D1Pas1	Dhx9	Srrt	Srsf1	Ddx46	Psip1	Lmnb1	Snu13	Cdc73	Eftud2	Bclaf1	Snrpd2	Rbm39	Ranbp2	Ddx17	Thoc2	U2surp	Kpnb1	Prpf8	Rnps1	Acin1	Snrnp200	Tcerg1	Ddx5	U2af2	Tra2b	Dhx15	Srsf11	Arglu1
+PUM3	huMAP	Rps8	Rps9	Rpl21	Zbtb11	Knop1	Gtpbp4	Mrto4	Bop1	Lin28b	Xrn2	Dkc1	Rpl7l1	Ccdc86	Rpl26	Pop1	Rpl28	Rpl27	Stau1	Stau2	Rpl11	Nip7	Rpl13	Dhx30	Pura	Pes1	Rpl15	Rpl14	Zfp668	Gm6133	Rps3	Rpl19	Rpl18	Nop16	Ddx56	Surf6	Ccdc137	Ddx54	Ftsj3	Ddx50	Mov10	Nol12	Rps23	Glyr1	Rsl24d1	Zfp771	Rpl6	Rrp8	Rpl3	Pwp1	Rpl4	Rpl30	Ppan	Zfp422	Ttf1	Rrp9	Rpl8	Larp1	Rps16	Rps15	Rps18	Rps19	Rpl36	Brix1	Rps10	Rpl13a	Rps3a1	Ddx31	Gnl3	Rexo4	Gnl2	Wdr36	Cebpz	Zfp512	Hp1bp3	Nvl	Nop2	Pak1ip1	Zc3hav1	Ctcf	Rpf1	Rpf2	Llph	Gar1	Rrs1	Rps15a	Ddx18	Nop58	Myef2l	Krr1	Ddx10	Noc3l	Rsl1d1	Ebna1bp2	Mybbp1a	Esf1	Nop56	Rbm28	Ddx27	Rplp2	Ddx24	Rplp1	Ddx21	Noc2l	Kri1	Rps4x	Rpl18a	Nkrf	Rrp15	Rrp12	Nifk	Rbm34
+PURA	huMAP	Upf1	Imp3	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Lin28b	Dkc1	Rpl26	Pabpc4	Zcchc9	Stau2	Nip7	Ythdc2	Zc3hav1	Rpf2	Dhx30	Llph	Rps5	Gm6133	Sf3b2	Lyar	Nop16	Mrps26	Surf6	Ccdc137	Mrps22	Ftsj3	Mov10	Mybbp1a	Ebna1bp2	Gzf1	Zcchc3	Fyttd1	Zfp574	Rbm28	Zfp771	Rrp8	Ddx27	Mphosph10	Ddx24	Ddx21	Larp1	Dhx57	Bms1	Brix1	Igf2bp3	Rps13
+PWP1	huMAP	Rps8	Imp3	Rps9	Imp4	Rpl23	Knop1	Gtpbp4	Mrto4	Lin28b	Xrn2	Dkc1	Rpl7l1	Rpl26	Ccdc86	Pop1	Stau1	Rpl11	Nip7	Rpl13	Rpl12	Dhx30	Srp72	Pes1	Rpl15	Rpl14	Rpl18	Nop16	Surf6	Ccdc137	Ddx56	Ddx50	Ftsj3	Nol12	Rps23	Glyr1	Rsl24d1	Rrp8	Rpl6	Rpl3	Rpl30	Rpl4	Mphosph10	Ppan	Zfp422	Ttf1	Rrp9	Rpl8	Rps16	Rps15	Rps18	Rpl36	Brix1	Rpl13a	Rps3a1	Ddx31	Gnl3	Gnl2	Rexo4	Cebpz	Zfp512	Hp1bp3	Nvl	Nop2	Pak1ip1	Zc3hav1	Rpf2	Llph	Rrs1	Rps15a	Lyar	Ddx18	Nop58	Myef2l	Ddx10	Srp68	Noc3l	Wdr12	Rsl1d1	Ebna1bp2	Mybbp1a	Nmnat1	Hadha	Gzf1	Nop56	Fyttd1	Rbm28	Ddx27	Rplp2	Ddx24	Ddx21	Rpl18a	Nkrf	Rrp15	Nifk	Rbm34
+RAB3A	huMAP	Gria2	Hpca	Syt1	Camk2a	Crmp1	Ncald	Vwa5b2	Sytl4	L1cam	Syn1	Gng2	Calb2	Mapt	Vsnl1	Rab14	Cdh13	Amph	Stx1b	Sncb
+RAB6B	huMAP	Napb	Hpca	Cdh13	Ncald	Snap91	Stx1b	Syn1	Sncb	L1cam
+RACK1	huMAP	Snd1	Rps8	Rpl22	Rps9	Rpl21	Rpl24	Rps7	Rpl23	Wipi1	Larp4b	Rps3a1	Larp4	Rpsa	Fau	Rpl27	Mpg	Rpl11	Rpl10	Rpl13	Rpl12	Rpl15	Rps5	Rpl14	Rps3	Rps15a	Rps27a	Rpl18	Eef2	Eif2s1	Rps20	Rps23	Rps25	Eif3b	Rpl6	Rpl3	Rpl30	Rpl35	Srp14	Rps4x	G3bp1	G3bp2	Rpl36	Rps14	Rpl7a	Rps13
+RAI14	huMAP	Afap1	Myo5a	Nexn	Actg1	Myo5b	Cobl	Twf1	Sorbs2	Coro1b	Coro1c	Ppp1cb	Ssh2	Ablim1	Arhgap21	Myo5c	Mprip	Cfl2	Cfl1	Sptbn1
+RANBP1	huMAP	Ranbp3l	Commd10	Commd4	Ccdc22	Commd1	Commd2	Ccdc93	Commd8	Commd5
+RANBP2	huMAP	Cpsf6	Sf3a3	Ndc1	Cdc5lrt9	Thoc2	Nup153	Nup210	Rangap1	Nup50l	Kpnb1	Prpf8	Prpf19	Nup98	Nup35	Nup37	Ran	Nup205	Nup107	Ddx5	Srrt	Nup160	Aaas	Eftud2	Nxf1	Gle1	Sumo1	Nup43	Snrpd2	Nup85	Snrpd1	Tmem209
+RANBP9	huMAP	Gid4	Mkln1	Wdr26	Rmnd5a	Gid8	Armc8	Maea	Ypel5	Ranbp10
+RARS	huMAP	Aimp2	Aimp1	Eef1e1
+RBBP4	huMAP	Hdac2	Mbd2	Mbd3	Gatad2a	Chd5	Cdk2ap1rt	Chd4	Mta3	Asf1b	Gatad2b	Nt5c2
+RBM19	huMAP	Ddx18	Upf1	Surf6	Ccdc137	Ddx56	Larp7	Gtpbp4	Mov10	Mybbp1a	Rpl26	Nol10	Tsr1	Gzf1	Zcchc3	Zcchc9	Ltv1	Zfp771	Rrp8	Ddx27	Ddx24	Ddx21	Zc3h8	Dhx30	Llph	Bms1	Rps5	Gm6133	Rps13
+RBM22	huMAP	Aqr	Snw1	Prpf8	Prpf19	Isy1	Ccdc12	Ppie	Cmpk1
+RBM25	huMAP	Rbm39	Cpsf6	Ranbp2	Sf3a3	Slc30a4	Thoc2	Cdc5lrt9	Prpf40b	Prpf40a	Srrm2	U2surp	Prpf8	Prpf19	Cd2bp2	Prpf31	Acin1	Srsf6	Srsf7	Sf3a1	Ddx5	Srrt	Ddx23	Srsf1	Psip1	U2af2	Snu13	Eftud2	Sart1	Akap12	Snrpd2	Snrpd1	Srsf11	Sf3b2
+RBM28	huMAP	Stau2	Imp4	Mphosph10	Larp7	Rpf2	Dhx30	Ebna1bp2	Mybbp1a	Dkc1	Pes1	Rps5	Lyar	Nop56	Fyttd1
+RBM34	huMAP	Ssb	Eif5b	Upf1	Imp3	Rps8	Rps9	Rpl21	Rps3a1	Ddx31	Gnl3	Rexo4	Gtpbp4	Mrto4	Lin28b	Xrn2	Dkc1	Rpl7l1	Rpl26	Pop1	Rpl27	Zfp512	Stau2	Nip7	Ythdc2	Rpl13	Zc3hav1	Rpf2	Dhx30	Llph	Pura	Pes1	Rpl15	Gar1	Gm6133	Rrs1	Rpl18	Lyar	Nop58	Myef2l	Nop16	Mrps26	Surf6	Ccdc137	Ddx56	Mrps22	Rrp1b	Noc3l	Ftsj3	Mov10	Ebna1bp2	Mybbp1a	Nol12	Gzf1	Glyr1	Fyttd1	Nop56	Rbm28	Rpl6	Rrp8	Zfp771	Rpl3	Ddx27	Rpl30	Rplp2	Ddx24	Ddx21	Ybx1	Ttf1	Kri1	Rrp9	Larp1	Nkrf	Brix1	Rpl36	Igf2bp3
+RBM39	huMAP	Ddx46	Ppig	Srsf5	Prpf40a	Srsf6	Srsf11	Cdc73
+RBMX	huMAP	Rbm12b2	Taf15	Ncoa5	Ylpm1	Zfp326	Hnrnpr
+RCC1	huMAP	Nxf1	Smpd4	Ranbp3	Ntmt1	Gle1	Ube2i	Tmem214	Sumo1	Dlgap5	Rangap1
+RCC2	huMAP	Khdrbs1	Tcerg1	Ddx17	Ddx5	Dhx9	Srrt	Srrm1	Hnrnpm	Prpf6	Smu1	Snrpd2	Puf60	Dhx15	Srsf5	Rbm25
+RCOR1	huMAP	Hdac1	Gse1	Hmg20b	Hmg20a	Rcor3
+RETSAT	huMAP	Ephx1	Cyp51	Pde3b	Them6	Slc27a3
+REXO4	huMAP	Rbm28	Zfp771	Ddx27	Nop16	Imp3	Stau2	Ddx21	Gnl3	Rpf2	Dhx30	Mybbp1a	Ebna1bp2	Dkc1	Pes1	Rrs1	Gzf1	Lyar	Fyttd1
+RFC2	huMAP	Rfc4	Rfc5	Rpl10	Rfc3	Rfc1
+RFC3	huMAP	Pcna	Rfc4	Rfc5	Rpl10	Rfc1
+RGPD8	huMAP	Nup205	Cdca2	Nup107	Ndc1	Nup153	Nup210	Nup160	Aaas	Rangap1	Nxf1	Smpd4	Gle1	Nup50l	Tmem214	Nup98	Sumo1	Nup43	Nup85	Nup35	Tmem209
+RING1	huMAP	Rnf2	Rybp	Pcgf5	Cbx4	Yaf2
+RMND5A	huMAP	Mkln1	Zcchc14	Zmynd19	Armc8	Hbp1	Maea	Ypel5	Wars2	Ranbp10	Zcchc2
+RNPS1	huMAP	Rbm39	Zranb2	Ddx46	Pnn	Srrm2	Gpatch8	Thrap3	Snrnp70	Tra2b	Luc7l	Sap18b	Ppig	Srsf4	Acin1	Srsf6	Srsf7	Srsf11
+RPF1	huMAP	Imp3	Ddx56	Ccdc137	Ddx10	Gnl3	Rps26	Cebpz	Pop1	Gzf1	Glyr1	Zfp771	Rrp8	Zfp770	Ddx27	Stau1	Ddx24	Pak1ip1	Ttf1	Kri1	Rpf2	Dhx30	Gar1	Nifk
+RPL10	huMAP	Snd1	Rfc4	Rfc5	Rps8	Rps9	Rpl21	Rps3a1	Fau	Tsr1	Rps20	Rpl3	Rpl30	Rpl11	Hsp90ab1	Usp10	Ddx47	Rplp2	Rps17	G3bp1	Rpl14	Rps5	Rps3	Rps15a
+RPL10A	huMAP	Tufm	Snd1	Rps8	Rpl22	Rpl21	Rps9	Rps7	Nap1l1	Rps3a1	Ebna1bp2	Fau	Rpl26	Hnrnpc	Tsr1	Rps20	Rpl27	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rpl11	Rpl10	Rpl13	Rplp2	Rpl34	Hnrnpu	Ybx1	Rpf2	Rps4x	Rps15	G3bp1	Pes1	Rps5	Rpl14	Rps3	Rps15a	Rps27a
+RPL10L	huMAP	Rps8	Rps9	Rpl21	Rpl24	Rps7	Rpl23	Rps3a1	Rpsa	Mthfd1	Rpl11	Rpl13	Rpl12	Rpl15	Rpl14	Rps3	Rpl19	Rpl18	Nop58	Srpk1	Rps26	Ebna1bp2	Rps23	Slc25a5	Rpl6	Rpl3	Rpl4	Rpl30	Hsp90ab1	Rpl35	Rplp2	Rplp1	Rpl8	Rps16	Rps4x	Eef1b2	Rps15	Rps18	Rpl18a	Rps19	Rpl36	Rps10	Rack1	Rps14	Rpl7a	Rps13
+RPL11	huMAP	Tufm	Rpl3	Ddx47	Rps9	Rpl21	Rpf2	G3bp1	Pes1	Fau	Rps5	Rps3	Rps15a
+RPL12	huMAP	Ssb	Tufm	Nsun2	Rpl22	Rps8	Rpl21	Rps9	Rps7	Nap1l1	Rps3a1	Ebna1bp2	Fau	Rps20	Rpl27	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rpl11	Rpl10	Rpl13	Rplp2	Rpl34	Ybx1	Hnrnpu	Srp14	Rps4x	G3bp1	Pes1	Rps5	Rpl14	Rps3	Rps15a	Rps27a	Rps14
+RPL13	huMAP	Tufm	Snd1	Rps8	Rps9	Rpl21	Rps3a1	Rpl3l	Ebna1bp2	Fau	Rps20	Rps25	Rpl3	Rpl30	Hsp90ab1	Rpl11	Ddx47	Rpl10	Hnrnpu	Rpf2	G3bp1	Pes1	G3bp2	Rps5	Rpl14	Rps3	Rps15a	Rps27a
+RPL13A	huMAP	Tufm	Snd1	Rps8	Imp3	Rpl21	Rps9	Rpl24	Rpl23	Rps7	Knop1	Rpsa	Gtpbp4	Mrto4	Lin28b	Xrn2	Dkc1	Rpl7l1	Mthfd1	Rpl26	Ccdc86	Fau	Pop1	Rpl27	Stau1	Rpl11	Stau2	Nip7	Rpl13	Rpl12	Dhx30	Srp72	Pura	Pes1	Rpl15	Rpl14	Gm6133	Rps3	Rpl18	Nop16	Surf6	Ddx56	Ccdc137	Ddx54	Ftsj3	Ddx50	Eif2s1	Rps26	Rps29	Nol12	Rps20	Rps23	Rps25	Glyr1	Rsl24d1	Rpl6	Zfp771	Rrp8	Rpl3	Rpl30	Rpl4	Rpl35	Rpl34	Zfp422	Ppan	Ttf1	Rpl8	Rps16	Larp1	Rps15	Rps18	Rps19	G3bp1	Brix1	Rpl36	Rps11	Rps14	Rps3a1	Nap1l1	Ddx31	Gnl3	Rexo4	Gnl2	Eef1g	Pabpc4	Cebpz	Pabpc1	Zfp512	Hp1bp3	Nvl	Ythdc2	Nop2	Zc3hav1	Rpf2	Trmt112	Llph	Gar1	Rrs1	Rps15a	Rps27a	Lyar	Ddx18	Myef2l	Mrps26	Mrps22	Noc3l	Rrp1b	Rsl1d1	Ebna1bp2	Mybbp1a	Slc25a5	Nop56	Rbm28	Ddx27	Rplp2	Ddx24	Ybx1	Ddx21	Kri1	Rps4x	Rpl18a	Nkrf	Dhx57	Rrp15	Igf2bp1	Rrp12	Nifk	Igf2bp3	Rack1	Rbm34
+RPL14	huMAP	Tufm	Snd1	Rps8	Rpl21	Rps9	Rps3a1	Rpl3l	Ebna1bp2	Fau	Rps20	Rpl3	Rpl30	Rpl11	Hsp90ab1	Rplp2	G3bp1	Mthfd1l	Pes1	Rps5	Rps3	Rps15a
+RPL15	huMAP	Tufm	Ssb	Imp3	Rps8	Rpl21	Rps9	Imp4	Rps7	Rpsa	Larp7	Gtpbp4	Mrto4	Lin28b	Dkc1	Rpl7l1	Fau	Rpl26	Rpl27	Rpl11	Stau2	Nip7	Rpl13	Rpl12	Nolc1	Dhx30	Pura	Pes1	Rpl14	Gm6133	Rps3	Nop16	Ccdc137	Surf6	Ddx56	Eef2	Ftsj3	Rpl3l	Mov10	Rps20	Nol12	Rps25	Rpl6	Zfp771	Rrp8	Zfp770	Rpl3	Rpl30	Rpl35	Mphosph10	Rpl34	Rrp9	Larp1	Rps15	G3bp1	Brix1	Rps14	Nsun2	Ddx31	Rps3a1	Gnl3	Rexo4	Eef1g	Pabpc4	Ythdc2	Zc3hav1	Rpf2	Llph	Rrs1	Rps15a	Rps27a	Lyar	Myef2l	Mrps26	Mrps22	Rrp1b	Noc3l	Mybbp1a	Ebna1bp2	Gzf1	Slc25a5	Nop56	Rbm28	Ddx27	Rplp2	Ddx24	Ddx21	Ybx1	Rps4x	Dhx57	Igf2bp1	Igf2bp3
+RPL17	huMAP	Upf1	Nop16	Mrps26	Ccdc137	Mrps22	Rrp1b	Ftsj3	Gnl3	Rexo4	Gtpbp4	Mov10	Mrto4	Mybbp1a	Ebna1bp2	Dkc1	Rpl7l1	Rpl26	Pabpc4	Tsr1	Rbm28	Zfp771	Rrp8	Ddx27	Ddx47	Stau2	Nip7	Ddx24	Ddx21	Zc3hav1	Rrp9	Rpf2	Larp1	Dhx30	Rps17	Llph	Dhx57	Pes1	Rps5	Rrs1	Igf2bp3	Zfp622	Lyar
+RPL18	huMAP	Tufm	Snd1	Rpl22	Rps8	Rps9	Rpl21	Rps7	Rps3a1	Nap1l1	Rpsa	Eef1g	Rpl26	Fau	Pabpc1	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Nolc1	Rrbp1	Rpf2	Pes1	Rpl15	Rpl14	Rps5	Rps3	Rps15a	Rps27a	Nop58	Eef2	Srpk1	Rpl3l	Ebna1bp2	Tsr1	Rps20	Rps23	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Rpl35	Rplp2	Rpl34	Ybx1	Srp14	Rps4x	Rps15	G3bp1	Igf2bp1	Rpl36	Igf2bp3	Rpl7a	Rps14	Rps13
+RPL18A	huMAP	Ssb	Tufm	Snd1	Rps8	Rpl22	Rpl21	Rps9	Rpl24	Rps7	Rpl23	Rpsa	Mthfd1	Rpl26	Fau	Rpl27	Nhp2	Mpg	Rpl11	Rpl10	Rpl13	Rpl12	Nolc1	Hnrnpu	Rrbp1	Fbl	Pes1	Rpl15	Rps5	Rpl14	Rps3	Rpl18	Myh7b	Eef2	Srpk1	Eif2s1	Rpl3l	Rps20	Rps23	Nop10	Rps25	Rpl6	Rpl3	Rpl30	Rpl35	Srp14	Rps15	Rps17	Rps19	G3bp1	Rpl36	Rps11	Rps14	Rps13	Nsun2	Btf3	Nap1l1	Rps3a1	Eef1g	Pabpc1	Ddx47	Rpf2	Rps15a	Zfp622	Rps27a	Nop58	Npm3	Ebna1bp2	Hadha	Uba52	Slc25a5	Eif3b	Hsp90ab1	Rplp2	Ybx1	Rps4x	Igf2bp1	Igf2bp3	Rack1	Rpl7a	Rbm34
+RPL19	huMAP	Ssb	Tufm	Snd1	Supt16	Rpl22	Rps8	Rpl21	Rps9	Rpl24	Eif1ad7	Rps6	Rps7	Rpl23	Rpsa	Serbp1	Mthfd1	Fau	Rpl26	Hnrnpc	Rpl27	Mpg	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Nolc1	Rrbp1	Fbl	Pes1	Rpl15	Rpl14	Rps5	Rps3	Rpl18	Eef2	Eif2s1	Srpk1	Rpl3l	Rps26	Rps29	Ncl	Rps21	Rps20	Rps23	Nop10	Rps25	Rpl6	Rpl3	Pwp1	Rpl4	Rpl30	Rpl35	Rpl34	Srp14	Rpl8	Rps16	Eef1b2	Rps15	Rps18	Rps17	Rps19	G3bp1	G3bp2	Rpl36	Rps10	Rps11	Rps14	Rps13	Nsun2	Btf3	Pa2g4	Rpl13a	Nap1l4	Nap1l1	Rps3a1	Nat10	Eef1g	Pabpc1	Calr	Ddx47	Rpf2	Rps15a	Zfp622	Rps27a	Nop58	Npm3	Ebna1bp2	Tsr1	Slc25a5	Eif3b	Hsp90ab1	Rplp2	Rplp1	Ybx1	Rps4x	Rpl18a	Rrp15	Igf2bp1	Rack1	Rpl7a	Rbm34
+RPL22	huMAP	Tufm	Snd1	Rps8	Rpl21	Rps9	Rps7	Rps3a1	Fau	Rps20	Rps25	Rpl3	Rpl30	Rpl11	Rpl10	Rpl13	Rplp2	Rpl34	Hnrnpu	Nolc1	Rrbp1	Rps4x	Rps15	G3bp1	Rpl14	Rps5	Rps3	Rps15a	Rps27a
+RPL22L1	huMAP	Rps15	Rpl3	Rpl21	Nap1l1
+RPL23	huMAP	Tufm	Btf3	Snd1	Rpl22	Rps8	Rps9	Rpl21	Rpl24	Rps7	Rps3a1	Nap1l1	Rpsa	Mthfd1	Eef1g	Rpl26	Fau	Pabpc1	Hnrnpc	Rpl27	Rpl11	Rpl10	Btf3l4b	Rpl13	Rpl12	Nolc1	Hnrnpu	Rrbp1	Fbl	Rpf2	Mthfd1l	Pes1	Rpl15	Rpl14	Rps5	Rps3	Zfp622	Rps15a	Rps27a	Rpl18	Myh7b	Nop58	Eef2	Eif2s1	Srpk1	Rpl3l	Ebna1bp2	Grwd1	Rps21	Rps20	Rps23	Slc25a5	Eif3b	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rplp2	Rpl35	Rpl34	Ybx1	Srp14	Rps15	Rps4x	Rps19	G3bp1	G3bp2	Rpl36	Rpl7a	Rps14	Rps13
+RPL23A	huMAP	Tufm	Snd1	Rpl22	Rps8	Rpl21	Rps9	Rps7	Rps3a1	Nap1l1	Mthfd1	Rpl26	Fau	Rpl27	Rpl11	Ddx47	Rpl10	Rpl13	Hnrnpu	Rrbp1	Rpf2	Pes1	Rpl14	Rps5	Rps3	Zfp622	Rps15a	Rps27a	Npm3	Rpl3l	Ebna1bp2	Hadha	Canx	Tsr1	Rps20	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rplp2	Rpl34	Ybx1	Rps15	Rps4x	G3bp1	Igf2bp3
+RPL24	huMAP	Tufm	Nsun2	Snd1	Btf3	Rps8	Rpl22	Rpl21	Rps9	Rps7	Rps3a1	Nap1l1	Rpsa	Mthfd1	Fau	Rpl26	Rpl27	Mpg	Ddx47	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Rrbp1	Nol6	Rpf2	Pes1	Rpl15	Rpl14	Rps5	Rps3	Rps15a	Zfp622	Rpl18	Rps27a	Npm3	Eef2	Rpl3l	Ebna1bp2	Tsr1	Rps20	Rps23	Uba52	Nop10	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Rplp2	Rpl35	Rpl34	Ybx1	Srp14	Rps15	Rps4x	G3bp1	Rpl36	Rpl7a	Rps14	Rps13
+RPL26	huMAP	Rps8	Imp3	Rpl21	Rps9	Nap1l1	Rps3a1	Gnl3	Rexo4	Gtpbp4	Dkc1	Fau	Rpl27	Stau2	Rpl13	Nolc1	Zc3hav1	Rpf2	Dhx30	Pes1	Rpl14	Rrs1	Rps3	Lyar	Nop16	Mrps22	Rrp1b	Ftsj3	Ebna1bp2	Mybbp1a	Gzf1	Rps25	Fyttd1	Rbm28	Rpl6	Zfp771	Rpl3	Ddx27	Rpl30	Rplp2	Ddx24	Rpl34	Ybx1	Ddx21	Rrp9	Larp1	Rps15	Rps4x	Dhx57	Igf2bp3
+RPL26L1	huMAP	Nop16	Rps8	Rpl21	Rps9	Mrps22	Rps3a1	Gnl3	Mybbp1a	Ebna1bp2	Dkc1	Fau	Gzf1	Rbm28	Zfp771	Ddx27	Rpl3	Rpl30	Rpl13	Rplp2	Nolc1	Ddx21	Rpf2	Dhx30	Rpl14	Rrs1	Lyar
+RPL27	huMAP	Tufm	Npm3	Rps8	Rpl22	Rpl21	Rps9	Rps7	Rps3a1	Rpl3l	Ebna1bp2	Mthfd1	Fau	Hnrnpc	Rps20	Rps25	Rpl3	Rpl30	Rpl11	Hsp90ab1	Rpl10	Rplp2	Rpl13	Rpl34	Hnrnpu	Nolc1	Rpf2	Rps15	Rps4x	G3bp1	Pes1	G3bp2	Rps5	Rpl14	Rps3	Rps15a	Rps27a
+RPL28	huMAP	Rpl21	Rps6	Rpl23	Rps3a1	Rps29	Ebna1bp2	Fau	Rps23	Nop10	Rps25	Pwp1	Rplp2	Rpl13	Rpl35	Rpl34	Rplp1	Nolc1	Hnrnpu	Rpl8	Rps16	Rps15	Rps19	Pes1	Rpl15	Rpl36	Rrp15	Rpl14	Rpl38	Rps15a	Rpl19	Rps27a	Rps11	Rpl18	Rps14
+RPL29	huMAP	Rps4x	Rpl10	Rps25
+RPL30	huMAP	Tufm	Rpl3	Rpl11	Rps9	Rpl21	Rpl3l	G3bp1	Pes1	Fau	Rps5	Hnrnpc	Rps3	Rps20	Rps15a
+RPL31	huMAP	Tufm	Ssb	Btf3	Rps8	Rpl22	Rpl21	Rps9	Rpl24	Rpl23	Rps7	Rps3a1	Nap1l1	Rpsa	Fau	Rpl26	Pabpc1	Rpl22l1	Rpl27	Nhp2	Slc25a4	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Fbl	Rpf2	Pes1	Rpl15	Rps5	Rpl14	Rps3	Rps15a	Rps27a	Rpl18	Nop58	Eef2	Ebna1bp2	Tsr1	Rps20	Rps23	Nop10	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rplp2	Rpl35	Rpl34	Ybx1	Srp14	Rps15	Rps4x	Rps19	Rpl36	Rack1	Rps11	Rps14	Rpl7a	Rps13
+RPL32	huMAP	Snd1	Rpl22	Rps8	Rps9	Rpl21	Eif1ad7	Rps6	Rpl24	Rpl23	Serbp1	Fau	Rpl26	Rpl27	Mpg	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Rrbp1	Mthfd1l	Pes1	Rpl15	Rpl14	Rps5	Rps3	Rpl18	Eif2s1	Rpl3l	Rps26	Rps29	Ncl	Rps20	Rps23	Rps25	Rpl6	Pwp1	Rpl3	Rpl30	Rpl4	Rpl35	Rpl34	Rpl8	Rps16	Rps15	Rps18	Rps19	G3bp1	Rpl36	Rps10	Rps11	Rps14	Rps13	Nap1l4	Rpl13a	Rps3a1	Nap1l1	Nat10	Eef1g	Pabpc1	Slc25a3	Ddx47	Rpf2	Trmt112	Rps15a	Zfp622	Npm3	Ebna1bp2	Tsr1	Uba52	Slc25a5	Ybx1	Ybx3	Rps4x	Rpl18a	Rrp15	Igf2bp1	Rack1	Igf2bp3	Rpl7a	Rbm34
+RPL34	huMAP	Rpl3	Rpl30	Rps8	Rpl21	Rps9	Rpl13	Rps3a1	Rps15	Ebna1bp2	Fau	Rpl14	Rps21	Rps3	Rps20	Rps15a	Rps27a	Rps25
+RPL35	huMAP	Tufm	Ssb	Rps8	Rpl22	Rpl21	Rps9	Rps7	Nap1l1	Rps3a1	Rpsa	Mthfd1	Eef1g	Fau	Rpl26	Hnrnpc	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Nolc1	Rrbp1	Mthfd1l	Rpl14	Rps5	Rps3	Rps15a	Rps27a	Eef2	Ebna1bp2	Tsr1	Rps20	Uba52	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rplp2	Rpl34	Ybx1	Srp14	Rps15	Rps4x	Rps17	G3bp1	Rps14
+RPL35A	huMAP	Rps8	Rpl22	Rpl21	Rps9	Rps3a1	Ebna1bp2	Rpl26	Rps20	Rpl27	Uba52	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Rpl11	Rpl10	Rplp2	Rpl13	Rpl34	Nolc1	Ybx1	Rpf2	Rps15	Rps4x	Rps5	Rpl14	Rps3	Rps15a
+RPL36	huMAP	Tufm	Nsun2	Snd1	Rps8	Rpl22	Rps9	Rpl21	Rps7	Nap1l1	Rps3a1	Rpsa	Mthfd1	Rpl26	Fau	Pabpc1	Hnrnpc	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Nolc1	Hnrnpu	Rrbp1	Fbl	Nol6	Rpf2	Pes1	Rpl15	Rps5	Rpl14	Rps3	Rps15a	Rps27a	Nop58	Eef2	Rpl3l	Ebna1bp2	Rps20	Rps23	Uba52	Slc25a5	Eif3b	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rplp2	Rpl35	Rpl34	Srp14	Rps4x	Rps15	G3bp1	Igf2bp1	Rps14	Rpl7a	Rps13
+RPL36A	huMAP	Rbm28	Ddx27	Nop16	Stau2	Ddx24	Ddx21	Gnl3	Rexo4	Dhx30	Ebna1bp2	Mybbp1a	Pes1	Rps5	Lyar
+RPL37	huMAP	Rpl3	Rpl21	Fau	Rps3	Rps15a
+RPL37A	huMAP	Tufm	Rps8	Rpl22	Rps9	Rpl21	Rpl24	Rps7	Rpl23	Nap1l1	Rps3a1	Rpsa	Eef1g	Mthfd1	Fau	Rpl26	Pabpc1	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Fbl	Rpf2	Pes1	Rpl15	Rpl14	Rps5	Rps3	Rps15a	Rpl18	Rps27a	Myh7b	Nop58	Eef2	Srpk1	Eif2s1	Rpl3l	Ebna1bp2	Hadha	Rps20	Rps23	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rplp2	Rpl35	Rpl34	Ybx1	Srp14	Rps15	Rps4x	Rps19	G3bp1	Rpl36	Igf2bp1	Rack1	Rps11	Rpl7a	Rps14	Rbm34	Rps13
+RPL38	huMAP	Rpl22	Rps8	Rpl21	Rps9	Rps6	Rpl24	Eif1ad7	Rpl23	Rps7	Pa2g4	Rpl13a	Rps3a1	Rpsa	Fau	Rpl26	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Pes1	Rpl15	Rps5	Rpl14	Rps3	Rps15a	Rpl19	Rpl18	Rps27a	Srpk1	Rps26	Rps29	Rps20	Rps23	Rps25	Rpl6	Rpl3	Rpl4	Rpl30	Rpl35	Rplp2	Rpl10l	Rplp1	Rpl34	Rpl8	Rps16	Rps4x	Rps18	Rpl18a	Rps19	G3bp1	Rpl36	Rps10	Rack1	Rps11	Rpl7a	Rps14	Rps13
+RPL39	huMAP	Rpl3	Rpl30	Rpl11	Rps9	Rpl21	G3bp1	Fau	Rps5	Rps20	Rps15a	Rpl3l
+RPL3L	huMAP	Rpl11	Rpl21	Rps9	Fau
+RPL4	huMAP	Tufm	Btf3	Nsun2	Snd1	Rps8	Rpl22	Rps9	Rpl21	Rpl24	Rps7	Rpl23	Nap1l4	Rps3a1	Nap1l1	Rpsa	Nat10	Mthfd1	Eef1g	Rpl26	Fau	Hnrnpc	Pabpc1	Rpl27	Calr	Rpl29	Rpl11	Rpl10	Rpl13	Rpl12	Nolc1	Hnrnpu	Rrbp1	Rpf2	Mthfd1l	Pes1	Rpl15	Rps5	Rpl14	Rps3	Rps15a	Zfp622	Rps27a	Rpl18	Eef2	Eif2s1	Rpl3l	Ebna1bp2	Tsr1	Rps20	Rps23	Uba52	Slc25a5	Rps25	Eif3b	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rpl35	Rplp2	Rpl34	Ybx1	Srp14	Rps15	Rps4x	Rpl18a	Rps19	G3bp1	G3bp2	Igf2bp1	Rpl36	Rack1	Rps11	Rpl7a	Rps14	Rbm34	Rps13
+RPL5	huMAP	Ssb	Tufm	Snd1	Supt16	Rps8	Rpl22	Dimt1	Rpl21	Rps9	Eif1ad7	Rps6	Rpl24	Rpl23	Rps7	Rpsa	Serbp1	Mthfd1	Rpl26	Fau	Hnrnpc	Rpl28	Rpl22l1	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Nolc1	Fbl	Pes1	Rpl15	Rpl14	Rps5	Rps2	Rps3	Rpl19	Rpl18	Myh7b	Eef2	Srpk1	Eif2s1	Pum3	Rpl3l	Rps26	Ncl	Rps21	Rps20	Rps23	Rps25	Rpl6	Rpl3	Pwp1	Rpl4	Rpl30	Mepce	Rpl35	Rpl34	Srp14	Rpl8	Rps16	Eef1b2	Rps15	Rps18	Rps19	G3bp1	Rpl36	Rps10	Rpl38	Rps11	Rps14	Rps13	Eif5b	Nsun2	Btf3	Hsp90aa1	Pa2g4	Rpl13a	Rps3a1	Nap1l1	Nat10	Eef1g	Pabpc1	Calr	Slc25a3	Dusp18	Rpf2	Rps15a	Zfp622	Rps27a	Nop58	Npm3	Ebna1bp2	Hadha	Canx	Tsr1	Uba52	Slc25a5	Eif3b	Rpl10l	Rplp2	Rplp1	Ybx1	Rps4x	Rpl18a	Rrp15	Igf2bp1	Igf2bp3	Rack1	Rpl7a	Rbm34
+RPL6	huMAP	Tufm	Snd1	Rps8	Rpl22	Rps9	Rpl21	Rps7	Rps3a1	Mthfd1	Fau	Hnrnpc	Rpl27	Rpl11	Rpl10	Rpl13	Nolc1	Hnrnpu	Rpf2	Mthfd1l	Pes1	Rps5	Rpl14	Rps3	Rps15a	Rps27a	Rpl3l	Ebna1bp2	Tsr1	Rps20	Rps25	Rpl3	Rpl30	Usp10	Hsp90ab1	Rplp2	Rpl34	Ybx1	Rps15	Rps4x	G3bp1	Igf2bp3
+RPL7	huMAP	Tufm	Snd1	Rps8	Rpl22	Rps9	Rpl21	Rps7	Rps3a1	Mthfd1	Fau	Rpl27	Ddx47	Rpl11	Rpl10	Rpl13	Hnrnpu	Nolc1	Rrbp1	Rpf2	Pes1	Rpl14	Rps5	Rps3	Zfp622	Rps15a	Rps27a	Npm3	Rpl3l	Ebna1bp2	Tsr1	Rps20	Rps25	Rpl6	Rpl3	Rpl30	Rplp2	Rpl34	Ybx1	Rps15	Rps4x	Rps17	G3bp1	Igf2bp3
+RPL7A	huMAP	Tufm	Nsun2	Snd1	Rpl22	Rps8	Rpl21	Rps9	Rps7	Nap1l1	Rps3a1	Rpsa	Mthfd1	Eef1g	Fau	Rpl27	Mpg	Ddx47	Rpl11	Rpl10	Rpl13	Rpl12	Nolc1	Hnrnpu	Rrbp1	Rps5	Rpl14	Rps3	Rps15a	Zfp622	Rps27a	Npm3	Eef2	Srpk2	Rpl3l	Grwd1	Canx	Tsr1	Rps20	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rplp2	Rpl35	Rpl34	Ybx1	Srp14	Rps4x	Rps15	Rps17	G3bp1	Igf2bp1	Rps14	Rps13
+RPL7L1	huMAP	Zfp771	Ddx27	Nop16	Imp3	Imp4	Ddx24	Ddx21	Gnl3	Rexo4	Rpf2	Dhx30	Mybbp1a	Dkc1	Pes1	Rps5	Rrs1	Gzf1	Lyar
+RPL8	huMAP	Ssb	Tufm	Rps8	Rpl22	Rps9	Rpl21	Rpl24	Rpl23	Rps7	Rpsa	Mthfd1	Rpl26	Fau	Rpl27	Rpl22l1	Rpl11	Rpl10	Rpl13	Rpl12	Nolc1	Hnrnpu	Rrbp1	Fbl	Nol6	Pes1	Rpl15	Rps5	Rpl14	Rps3	Rpl18	Srpk1	Rpl3l	Rps29	Rps20	Rps23	Rps25	Rpl6	Rpl3	Rpl30	Rpl4	Rpl35	Rpl34	Rps15	Rps19	G3bp1	Rpl36	Rps11	Rps14	Rps13	Nsun2	Rps3a1	Nap1l1	Nat10	Eef1g	Calr	Slc25a4	Slc25a3	Rpf2	Rps15a	Zfp622	Rps27a	Ebna1bp2	Canx	Tsr1	Slc25a5	Hsp90ab1	Rplp2	Ybx1	Rps4x	Rpl18a	Igf2bp1	Rack1	Igf2bp3	Rpl7a	Rbm34
+RPL9	huMAP	Tufm	Ssb	Nsun2	Btf3	Snd1	Rps8	Rpl22	Rps9	Rpl21	Rpl24	Rps7	Nap1l1	Rps3a1	Rpsa	Fau	Pabpc1	Hnrnpc	Rpl27	Nhp2	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Fbl	Rpl15	Rpl14	Rps5	Rps3	Zfp622	Rps15a	Rps27a	Rpl18	Nop58	Eef2	Srpk1	Rpl3l	Ebna1bp2	Rps20	Rps23	Slc25a5	Eif3b	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rpl35	Rplp2	Rpl34	Ybx1	Srp14	Rps4x	G3bp1	G3bp2	Igf2bp1	Rpl36	Rps14	Rpl7a	Rbm34	Rps13
+RPLP0	huMAP	Tufm	Btf3	Snd1	Rps8	Rpl22	Rps9	Rpl21	Rps7	Nap1l1	Rps3a1	Eef1g	Mthfd1	Rpl26	Fau	Hnrnpc	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Nolc1	Hnrnpu	Fbl	Rpf2	Pes1	Mthfd1l	Rps5	Rpl14	Rps3	Rps15a	Rps27a	Srpk2	Ebna1bp2	Tsr1	Rps20	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rplp2	Rpl34	Ybx1	Srp14	Rps4x	Rps15	G3bp1	Igf2bp1	Rps14
+RPLP1	huMAP	Rps8	Rpl21	Rps6	Rpl24	Rps7	Rpl23	Nap1l4	Nap1l1	Rps3a1	Rpsa	Eef1g	Fau	Pabpc1	Rpl27	Rpl29	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Fbl	Rpf2	Pes1	Rpl15	Rpl14	Rps5	Rps3	Rps15a	Rps27a	Rpl18	Myh7b	Nop58	Eef2	Eif2s1	Srpk1	Srpk2	Rps26	Ebna1bp2	Hadha	Ncl	Rps20	Rps23	Nop10	Slc25a5	Eif3b	Rps25	Rpl6	Pwp1	Rpl3	Rpl4	Rpl30	Rplp2	Rpl34	Ybx1	Rps16	Rps4x	Rps18	Rpl18a	Rps19	Rrp15	Rpl36	Rps10	Rps14	Rpl7a	Rps13
+RPLP2	huMAP	Tufm	Rpl3	Rpl30	Hsp90ab1	Rps8	Rpl11	Rpl21	Rps9	G3bp1	Rps5	Hnrnpc	Rps20	Rps3	Rps15a
+RPRD1B	huMAP	Ctdp1	Rprd1a	Rprd2	Polr2g	Rpap2
+RPS10	huMAP	Tufm	Ssb	Btf3	Snd1	Nsun2	Rpl22	Rps8	Rps9	Rpl21	Eif1ad7	Rpl24	Rps6	Rps7	Rpl23	Rpl13a	Rps3a1	Rpsa	Nat10	Mthfd1	Fau	Rpl26	Pabpc1	Hnrnpc	Rpl27	Ddx47	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Pes1	Rpl15	Rpl14	Rps5	Rps3	Zfp622	Rps15a	Rps27a	Rpl18	Rps26	Rps29	Canx	Tsr1	Rps20	Rps23	Rps25	Eif3b	Rpl6	Rpl3	Rpl30	Rpl4	Rpl35	Rplp2	Ybx1	Rpl8	Rps16	Rps15	Rps4x	Rps18	Rpl18a	Rps17	Rps19	Rrp15	Rpl36	Rack1	Rps11	Rps14	Rpl7a	Rps13
+RPS11	huMAP	Ssb	Tufm	Eif5b	Btf3	Dimt1	Rps8	Rpl22	Rpl21	Rps9	Rpl24	Rps7	Rpl23	Rps3a1	Rpsa	Eef1g	Mthfd1	Fau	Rpl26	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Rrbp1	Pes1	Rpl15	Rpl14	Rps5	Rps3	Rps15a	Rps27a	Rpl18	Eif2s1	Rps20	Uba52	Rps23	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rpl35	Rplp2	Rpl34	Ybx1	Srp14	Rps15	Rps4x	Rps19	Rpl36	Rack1	Rpl7a	Rps14	Rps13
+RPS12	huMAP	Tufm	Snd1	Rpl22	Rps8	Rpl21	Rps9	Rps7	Rps3a1	Rpsa	Fau	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Rpl15	Rpl14	Rps5	Rps3	Rps15a	Zfp622	Rps27a	Nop58	Eef2	Tsr1	Rps20	Rps23	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rpl35	Ybx1	Rps4x	Rps15	Rps17	G3bp1	G3bp2	Igf2bp1	Rps14	Rpl7a	Rps13
+RPS13	huMAP	Tufm	Snd1	Rpl22	Imp3	Rps8	Rpl21	Rps9	Rps7	Rpsa	Larp7	Smarca5	Mrto4	Rpl7l1	Mthfd1	Fau	Rpl22l1	Rpl27	Zcchc9	Rpl11	Stau2	Nip7	Rpl10	Rpl13	Rpl12	Hnrnpu	Nolc1	Rrbp1	Nol6	Fbl	Dhx30	Rpl14	Rps5	Gm6133	Rps3	Nop16	Ccdc137	Surf6	Eef2	Ftsj3	Mov10	Rps21	Rps20	Rps25	Rpl6	Zfp771	Rrp8	Zfp770	Rpl3	Rpl30	Rpl35	Rpl34	Srp14	Rrp9	Larp1	Rps15	Rps17	G3bp1	Brix1	Rps14	Btf3	Nsun2	Ddx31	Rps3a1	Nap1l1	Gnl3	Rexo4	Eef1g	Pabpc4	Ddx47	Ythdc2	Zc3hav1	Llph	Rrs1	Zfp622	Rps15a	Rps27a	Lyar	Nop58	Npm3	Ddx10	Noc3l	Rrp1b	Mybbp1a	Tsr1	Gzf1	Slc25a5	Zfp574	Rbm28	Ddx27	Hsp90ab1	Rplp2	Ddx24	Ddx21	Ybx1	Rps4x	Dhx57	Bms1	Igf2bp1
+RPS14	huMAP	Tufm	Snd1	Nsun2	Rpl22	Rps8	Rpl21	Rps9	Rps7	Rps3a1	Mthfd1	Fau	Rpl26	Hnrnpc	Rpl27	Rpl11	Ddx47	Rpl10	Rpl13	Hnrnpu	Rrbp1	Fbl	Pes1	Mthfd1l	Rps5	Rpl14	Rps3	Zfp622	Rps15a	Rps27a	Ebna1bp2	Hadha	Tsr1	Rps20	Uba52	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Rplp2	Rpl34	Ybx1	Srp14	Rps4x	Rps15	Rps17	G3bp1	G3bp2
+RPS15	huMAP	Rps8	Rpl21	Rps9	Rps3a1	Ebna1bp2	Fau	Rps21	Tsr1	Rps25	Rpl3	Slc25a4	Rpl30	Rpl11	Ddx47	Rpl10	Rpl13	Hnrnpu	Nolc1	Rpf2	Rps17	G3bp1	Pes1	Rps5	Rpl14	Igf2bp3	Rps3	Rps15a	Rps27a
+RPS15A	huMAP	Rpl3	Ddx47	Rps9	Rpl21	G3bp1	Pes1	Fau	Rps5	Rpf2
+RPS16	huMAP	Tufm	Ssb	Snd1	Supt16	Rps8	Dimt1	Rpl22	Rps9	Rpl21	Rpl24	Eif1ad7	Rps6	Rps7	Rpl23	Rpsa	Mthfd1	Fau	Rpl26	Rpl22l1	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Nolc1	Hnrnpu	Rrbp1	Fbl	Pes1	Rpl15	Rps5	Rpl14	Rps3	Rpl18	Eef2	Eif2s1	Rpl3l	Rps26	Ncl	Rps20	Rps23	Nop10	Rps25	Rpl6	Rpl3	Rpl4	Rpl30	Rpl35	Rpl34	Srp14	Rpl8	Rps15	Rps18	Rps17	Rps19	G3bp1	G3bp2	Rpl36	Rps11	Rps14	Rps13	Nsun2	Btf3	Rps3a1	Nap1l1	Nat10	Eef1g	Pabpc1	Calr	Slc25a4	Ddx47	Rps15a	Zfp622	Rps27a	Nop58	Ebna1bp2	Hadha	Canx	Tsr1	Slc25a5	Eif3b	Hsp90ab1	Rplp2	Ybx1	Rps4x	Rpl18a	Rrp15	Igf2bp1	Rack1	Rpl7a
+RPS18	huMAP	Ssb	Tufm	Snd1	Rpl22	Rps8	Rpl21	Rps9	Rpl24	Rps7	Rpl23	Rpsa	Mthfd1	Rpl26	Fau	Rpl27	Mpg	Rpl11	Rpl10	Rpl13	Rpl12	Nolc1	Hnrnpu	Rrbp1	Nol6	Rpl15	Rps5	Rpl14	Rps3	Rpl18	Myh7b	Eef2	Eif2s1	Rpl3l	Rps26	Rps29	Rps21	Rps20	Rps23	Rps25	Rpl6	Rpl3	Rpl4	Rpl30	Rpl35	Rpl34	Srp14	Rpl8	Rps15	Rps17	Rps19	G3bp1	Rpl36	Rps11	Rps14	Rps13	Nsun2	Btf3	Nap1l4	Rps3a1	Nap1l1	Nat10	Eef1g	Ddx47	Trmt112	Rps15a	Zfp622	Rps27a	Ebna1bp2	Tsr1	Slc25a5	Eif3b	Hsp90ab1	Rplp2	Ybx1	Rps4x	Rpl18a	Rrp15	Igf2bp1	Rack1	Rpl7a
+RPS19	huMAP	Ssb	Snd1	Nsun2	Btf3	Dimt1	Rps8	Rpl22	Rps9	Rpl21	Rpl24	Rps7	Rps3a1	Rpsa	Mthfd1	Eef1g	Rpl26	Hnrnpc	Rpl27	Mpg	Rpl11	Ddx47	Rpl10	Rpl13	Rpl12	Hnrnpu	Rrbp1	Fbl	Nol6	Rpf2	Pes1	Mthfd1l	Rpl15	Rpl14	Rps5	Rps3	Rps15a	Zfp622	Rps27a	Rpl18	Myh7b	Npm3	Srpk1	Ebna1bp2	Hadha	Rps21	Tsr1	Rps20	Uba52	Rps23	Slc25a5	Rps25	Eif3b	Rpl6	Rpl3	Rpl30	Rplp2	Rpl35	Ybx1	Rps15	Rps4x	Rps17	G3bp1	G3bp2	Rpl36	Rps14	Rpl7a	Rps13
+RPS2	huMAP	Tufm	Snd1	Dimt1	Rpl22	Rps8	Rpl21	Rps9	Rpl24	Rps6	Rpl23	Rps7	Rpsa	Bysl	Serbp1	Mthfd1	Fau	Rpl26	Hnrnpc	Rpl27	Mpg	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Rrbp1	Nol6	Mthfd1l	Rpl15	Rps5	Rpl14	Rps3	Rpl19	Rpl18	Myh7b	Eef2	Eif2s1	Srpk1	Rpl3l	Rps26	Rps29	Ncl	Rps21	Rps20	Rps23	Nop10	Rps25	Rpl6	Rpl3	Pwp1	Rpl4	Rpl30	Mepce	Rpl35	Rpl34	Srp14	Rpl8	Rps16	Rps15	Eef1b2	Rps18	Rps17	Rps19	G3bp1	G3bp2	Rpl36	Rps10	Rpl38	Rps11	Rps14	Rps13	Btf3	Nsun2	Rpl13a	Pa2g4	Rps3a1	Nap1l1	Nat10	Eef1g	Pabpc1	Calr	Ddx47	Zfp622	Rps15a	Rps27a	Nop58	Ebna1bp2	Canx	Tsr1	Uba52	Slc25a5	Eif3b	Rpl10l	Rplp2	Rplp1	Ybx1	Rps4x	Rpl18a	Igf2bp1	Rack1	Rpl7a
+RPS20	huMAP	Tufm	Rpl3	Rpl11	Rpl21	Rps9	Rpl3l	G3bp1	Pes1	Fau	Rps5	Rps3	Rps15a
+RPS23	huMAP	Tufm	Snd1	Nsun2	Btf3	Rps8	Rpl22	Rpl21	Rps9	Rps7	Rps3a1	Nap1l1	Rpsa	Mthfd1	Fau	Rpl27	Rpl22l1	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Fbl	Rpf2	Pes1	Rpl15	Rps5	Rpl14	Rps3	Rps15a	Rps27a	Myh7b	Nop58	Eef2	Srpk1	Rpl3l	Hadhb	Ebna1bp2	Canx	Rps20	Uba52	Slc25a5	Rps25	Rpl6	Rpl3	Rpl30	Hsp90ab1	Rpl35	Rplp2	Rpl34	Srp14	Rps4x	Rps15	G3bp1	Igf2bp1	Rps14	Rpl7a	Rps13
+RPS24	huMAP	Upf1	Imp3	Imp4	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Dkc1	Rpl7l1	Rpl26	Pabpc4	Ddx47	Stau2	Nip7	Rpf2	Dhx30	Llph	Pes1	Rps5	Gm6133	Rrs1	Zfp622	Lyar	Nop16	Ccdc137	Noc3l	Rrp1b	Ftsj3	Mybbp1a	Ebna1bp2	Tsr1	Gzf1	Zcchc3	Nop56	Rbm28	Rrp8	Zfp771	Ddx27	Zfp770	Mphosph10	Ddx24	Ddx21	Rrp9	Larp1	Rps17	Dhx57	Igf2bp3
+RPS25	huMAP	Tufm	Eif5b	Snd1	Rps8	Rpl21	Rps9	Rps3a1	Rpl3l	Ebna1bp2	Fau	Tsr1	Rps20	Rpl3	Rpl30	Rpl11	Hsp90ab1	Ddx47	Rpl10	Rplp2	Rpf2	G3bp1	Pes1	Rpl14	Rps5	Rps3	Rps15a	Rps27a
+RPS26	huMAP	Btf3	Rpl22	Rps8	Rpl21	Rps9	Rpl24	Rpl23	Rps7	Rps3a1	Rpsa	Rpl26	Fau	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Rpl15	Rps5	Rpl14	Rps3	Rps15a	Rpl18	Rps27a	Eef2	Srpk1	Rpl3l	Rps29	Ebna1bp2	Grwd1	Rps20	Rps23	Slc25a5	Rps25	Rpl6	Rpl3	Rpl4	Rpl30	Rplp2	Rpl35	Rpl34	Rpl8	Rps4x	Rpl18a	Rps19	Rpl36	Rps11	Rps14	Rpl7a	Rps13
+RPS27	huMAP	Rpl3	Ddx47	Rpl11	Rps9	Rpl21	Rps5	Rps3
+RPS27A	huMAP	Rpl3	Rpl30	Rpl11	Rps8	Rpl21	Rps9	Rpl10	Rplp2	Rps3a1	Fau	Rpl14	Rps5	Rps3	Rps20	Rps15a
+RPS27L	huMAP	Rps8	Rpl21	Rps6	Rpl24	Rpl23	Rps3a1	Eef1g	Rps21	Rpl27	Rps20	Rps23	Rps25	Rpl6	Rpl3	Rpl30	Rpl4	Rpl11	Rpl13	Rplp2	Rpl8	Rps4x	Rps15	Rps19	Rpl14	Rps3	Rps15a	Rpl18	Rps11	Rpl7a
+RPS29	huMAP	Rpl22	Rps9	Rpl24	Rpsa	Eif2s1	Rpl26	Slc25a5	Rpl6	Rpl3	Rpl30	Ddx47	Rpl11	Rpl10	Rpl35	Rpl13	Rpl34	Hnrnpu	Rrbp1	Fbl	Rps4x	Rps15	Rpl18a	Rps19	Rpl15	Rps3	Zfp622	Rps11	Rpl7a	Rps13
+RPS3	huMAP	Tufm	Rpl3	Ddx47	Rpl21	Rps9	Rpf2	Rps17	G3bp1	Pes1	Fau	Rps5	Hnrnpc	Rps15a
+RPS3A	huMAP	Tufm	Snd1	Rps8	Rps9	Rpl21	Ebna1bp2	Fau	Tsr1	Hnrnpc	Rps20	Rpl3	Rpl30	Rpl11	Hsp90ab1	Rplp2	Rpf2	G3bp1	Pes1	Rps5	Rps3	Rps15a
+RPS4X	huMAP	Eif5b	Tufm	Snd1	Rps8	Rpl21	Rps9	Rps3a1	Ebna1bp2	Fau	Tsr1	Hnrnpc	Rps20	Rps25	Rpl3	Rpl30	Rpl11	Rpl10	Rplp2	Rpl13	Hnrnpu	Rpf2	G3bp1	Pes1	Rps5	Rpl14	Rps3	Rps15a	Rps27a
+RPS5	huMAP	Dhx30	Rpl3	Stau2	Ddx47	Rpl21	Lyar	Larp7
+RPS6	huMAP	Tufm	Snd1	Rps8	Rpl22	Rps9	Rpl21	Rpl24	Rpl23	Rps7	Rpsa	Mthfd1	Fau	Rpl26	Rpl27	Rpl11	Rpl10	Rpl13	Rpl12	Hnrnpu	Nolc1	Rrbp1	Fbl	Nol6	Pes1	Rpl15	Rps5	Rpl14	Rps3	Rpl18	Myh7b	Eef2	Eif2s1	Pum3	Rpl3l	Rps26	Rps29	Ncl	Rps20	Rps23	Rps25	Rpl6	Rpl3	Rpl4	Rpl30	Rpl35	Rpl34	Srp14	Rpl8	Rps15	Rps18	Rps17	Rps19	G3bp1	Rpl36	Rps11	Rps14	Rps13	Eif5b	Btf3	Nsun2	Nap1l4	Rpl13a	Rps3a1	Nap1l1	Nat10	Pabpc1	Ddx47	Rpf2	Rps15a	Zfp622	Rps27a	Nop58	Npm3	Ebna1bp2	Tsr1	Slc25a5	Eif3b	Hsp90ab1	Rplp2	Ybx1	Ybx3	Rps4x	Rpl18a	Igf2bp1	Rrp15	Rack1	Rpl7a	Rbm34
+RPS7	huMAP	Snd1	Rps8	Rpl21	Rps9	Rps3a1	Ebna1bp2	Mthfd1	Fau	Tsr1	Rps20	Rps25	Rpl3	Rpl30	Rpl11	Rpl10	Rpl13	Rplp2	Hnrnpu	Rpf2	Rps15	Rps4x	G3bp1	Pes1	Rps5	Rpl14	Rps3	Rps15a	Rps27a
+RPS8	huMAP	Tufm	Snd1	Rpl21	Rps9	Rpl3l	Ebna1bp2	Fau	Hnrnpc	Tsr1	Rps20	Rpl3	Rpl30	Rpl11	Hsp90ab1	Rpf2	Rps17	G3bp1	Pes1	G3bp2	Rps5	Rps3	Rps15a
+RPS9	huMAP	Rpl3	Ddx47	Rpl21	G3bp1	Mthfd1l	Pes1	Fau	Rps5	Rpf2
+RPSA	huMAP	Ssb	Nsun2	Btf3	Rpl22	Rps8	Rps9	Rpl21	Rps7	Rps3a1	Por	Eef1g	Canx	Rpl26	Rps21	Tsr1	Rps20	Rpl27	Rpl6	Rpl3	Rpl30	Rpl11	Rpl10	Rplp2	Rpl12	Rpl34	Ybx1	Hnrnpu	Fbl	Rps15	Rps4x	Rps17	Rpl14	Rps5	Rps3	Rps15a	Rps27a	Rps14
+RQCD1	huMAP	Cnot6l	Cnot6	Cnot3	Cnot11	Tnks1bp1
+RRBP1	huMAP	Rpl3	Rpl30	Rpl11	Rps8	Usp10	Rps9	Rpl10	Rpl13	Rps3a1	Rps4x	Rps17	Rps5	Rpl14	Rps3	Rps20	Rps15a	Rps25
+RRP12	huMAP	Rbm19	Ddx31	Gnl3	Gnl2	Rexo4	Larp7	Gtpbp4	Mrto4	Lin28b	Dkc1	Ccdc86	Rpl26	Pabpc4	Pop1	Zfp512	Zcchc9	Nip7	Ythdc2	Zc3hav1	Zc3h8	Dhx30	Srp72	Zfp629	Pura	Pes1	Rpl15	Rps5	Gm6133	Zfp622	Sf3b2	Lyar	Ddx18	Nop16	Surf6	Ccdc137	Ddx10	Noc3l	Ftsj3	Mov10	Rsl1d1	Mybbp1a	Ebna1bp2	Tsr1	Gzf1	Glyr1	Zcchc3	Nop56	Rbm28	Zfp771	Ltv1	Ddx27	Ddx24	Ddx21	Noc2l	Kri1	Rrp9	Larp1	Rps17	Nkrf	Dhx57	Bms1	Brix1	Riok2	Nifk	Rps13	Rbm34
+RRP15	huMAP	Supt16	Rps8	Rps9	Rpl23	Rps7	Gtpbp4	Mrto4	Bop1	Dkc1	Xrn2	Ccdc86	Rpl26	Pop1	Stau1	Stau2	Nip7	Rpl13	Nolc1	Zbtb24	Sdad1	Dhx30	Pura	Pes1	Rpl15	Rpl14	Gm6133	Surf6	Ccdc137	Ddx54	Ftsj3	Mov10	Nol12	Nop10	Rps25	Glyr1	Rpl6	Rrp8	Zfp771	Rpl3	Rpl4	Rpl30	Ppan	Zfp422	Ttf1	Rpl8	Larp1	Rps19	Rpl36	Brix1	Rps3a1	Ddx31	Gnl3	Gnl2	Rexo4	Wdr36	Zfp512	Hp1bp3	Nvl	Zc3hav1	Rpf2	Llph	Gar1	Rrs1	Rps15a	Lyar	Ddx18	Nop58	Mrps26	Krr1	Mrps22	Noc3l	Rsl1d1	Ebna1bp2	Mybbp1a	Gzf1	Nop56	Fyttd1	Rbm28	Ddx27	Rplp2	Ddx24	Ybx1	Ddx21	Noc2l	Kri1	Rps4x	Rpl18a	Nkrf	Dhx57	Rrp12	Nifk	Rbm34
+RRP1B	huMAP	Rbm28	Ddx27	Nop16	Ddx24	Ddx21	Ftsj3	Gnl3	Gtpbp4	Dhx30	Ebna1bp2	Mybbp1a	Rpl7l1	Lyar
+RRP8	huMAP	Myef2l	Nop16	Imp3	Imp4	Ddx56	Ccdc137	Gnl3	Ftsj3	Rexo4	Larp7	Gtpbp4	Mov10	Mybbp1a	Ebna1bp2	Dkc1	Rpl7l1	Gzf1	Rbm28	Zfp771	Ddx27	Stau2	Ddx24	Zc3hav1	Ddx21	Rpf2	Dhx30	Llph	Pes1	Rrs1
+RRP9	huMAP	Rbm28	Zfp771	Ddx27	Imp3	Ddx21	Gnl3	Rexo4	Larp7	Rpf2	Dhx30	Ebna1bp2	Mybbp1a	Dkc1	Pes1	Rps5	Rrs1
+RRS1	huMAP	Rbm28	Zfp771	Ddx27	Imp3	Mphosph10	Ddx21	Mrps22	Rpf2	Dhx30	Mybbp1a	Ebna1bp2	Dkc1	Pes1	Rps5	Gzf1	Nop56	Fyttd1
+RSL1D1	huMAP	Upf1	Imp3	Imp4	Rbm19	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Bop1	Lin28b	Dkc1	Xrn2	Rpl7l1	Rpl26	Pabpc4	Pop1	Zfp512	Zcchc9	Stau2	Ythdc2	Nip7	Zc3hav1	Zc3h8	Rpf2	Dhx30	Srp72	Llph	Zfp629	Pura	Pes1	Rpl15	Gar1	Rps5	Gm6133	Rrs1	Lyar	Ddx18	Nop16	Mrps26	Surf6	Ddx56	Ccdc137	Ddx10	Rrp1b	Noc3l	Ftsj3	Mov10	Mybbp1a	Ebna1bp2	Tsr1	Nol12	Gzf1	Zcchc3	Glyr1	Nop56	Rbm28	Zfp771	Rrp8	Zfp770	Ddx27	Mphosph10	Ddx24	Ddx21	Ttf1	Kri1	Rrp9	Larp1	Rps17	Nkrf	Dhx57	Bms1	Brix1	Igf2bp3	Rps13	Rbm34
+RSL24D1	huMAP	Upf1	Nop16	Surf6	Ccdc137	Noc3l	Ddx31	Ftsj3	Gnl2	Rexo4	Gtpbp4	Mrto4	Rsl1d1	Lin28b	Ebna1bp2	Dkc1	Zfp512	Glyr1	Ddx27	Nvl	Nip7	Mphosph10	Ddx24	Ddx21	Ppan	Rpf2	Llph	Rpl15	Rrs1	Nifk	Rbm34
+SAAL1	huMAP	Eif2b4	Eif2b3	Xpo4	Tnpo2	Tnpo3
+SAFB	huMAP	Hnrnpm	Ddx5	Prpf19	Eif2s2	Mcm2
+SAFB2	huMAP	Khdrbs1	Zfp638	Zfp326	Hnrnpa3	Safb
+SEC23A	huMAP	Sec24b	Sec13	Ivd	Pkp3	Sec31a
+SEC24C	huMAP	Sec23b	Sec24b	Crtc2	Tnk2	Btbd3	Fam83a	Sec24d
+SEH1L	huMAP	Ranbp2	Nup205	Nup107	Ndc1	Nup153	Nup210	Nup155	Nup133	Nup160	Aaas	Nxf1	Gle1	Nup93	Tmem214	Nup98	Nup43	Sumo1	Nup85	Nup35	Tmem209	Nup37
+SEPT10	huMAP	Cdc42ep4
+SEPT11	huMAP	Anln	Cdc42ep4
+SEPT3	huMAP
+SEPT4	huMAP
+SEPT6	huMAP	Anln	Cdc42ep4
+SEPT7	huMAP	Cdc42ep4
+SEPT8	huMAP	Cdc42ep4
+SERBP1	huMAP	Npm3	Rps8	Rps9	Rpl21	Rpl24	Eif1ad7	Rps6	Rpl23	Rps3a1	Dhx29	Rps20	Rpl27	Rps23	Rps25	Ccdc124	Rpl6	Mpg	Rpl3	Rpl30	Rpl4	Ddx47	Rpl10	Rpl35	Rtcb	Rpl13	Hnrnpu	Rps16	Rps4x	Rps18	Rpl18a	Rps19	G3bp1	Rpl14	Rpl36	Rps3	Rack1	Rps15a	Zfp622	Rpl18	Rpl7a	Rps14	Rps13
+SF3A1	huMAP	Sf3b5	Sf3a2	Ddx17	Sf3a3	Ddx23	Prpf40a	U2surp	Prpf6	Sart1	Prpf8	Prpf19	Prpf31	Snrpb2
+SF3A2	huMAP	Sart1	Sf3b5	Aqr	Sf3a3	Prpf31	Snrpb2
+SF3B1	huMAP	Cpsf6	Ranbp2	Sf3a2	Ddx17	Sf3a3	Cdc5lrt9	Prpf40a	U2surp	Prpf6	Phf5a	Kpnb1	Nudt21	Prpf8	Prpf19	Prpf3	Cd2bp2	Prpf31	Snrpa1	Rbm25	Sf3a1	Snrnp200	Sf3b5	Sf3b6	Sf3b3	Tcerg1	Sf3b4	Ddx23	Srrt	Eftud2	Sart1	Plrg1	Snrpd2	Snrpd1	Dhx15	Ccdc97	Snrpb2	Sf3b2
+SF3B2	huMAP	Sf3a2	Sf3a3	Ddx17	Zcrb1	Ccdc137	Prpf40a	Gnl3	Cherp	Ftsj3	Larp7	U2surp	Smarca5	Mov10	Prpf8	Mybbp1a	Prpf19	Prpf31	Gzf1	Sf3a1	Zcchc3	Sf3b5	Zfp771	Rrp8	Ddx23	Ddx21	Cdc73	Larp1	Rps5	Snrpb2
+SF3B3	huMAP	Cpsf6	Sf3a2	Sf3a3	Cdc5lrt9	Thoc2	Prpf40a	Eif2s2	U2surp	Phf5a	Xab2	Kpnb1	Prpf8	Prpf19	Prpf31	Sf3a1	Sf3b5	Tcerg1	Vcp	Sf3b4	Ddx23	Srrt	Psip1	Ppm1g	Sart1	Snrpd2	Snrpd1	Dhx15	Ccdc97	Snrpb2	Sf3b2	Sptbn1	Smndc1
+SF3B4	huMAP	Sf3a2	Sf3a3	Zcrb1	Sf3a1	Sf3b2
+SF3B6	huMAP	Sf3b5	Phf5a	Sf3a2	Sf3b3	Sf3a3	Snrpd1	Ddx23	Ccdc97	Prpf31	Snrpb2	Sf3b2	Sf3a1
+SGF29	huMAP	Taf5l	Tada2a	Zzz3	Dr1	Kif2c	Supt20	Rab11fip5	Supt7l	Mbip	Supt3
+SIAE	huMAP	Poglut1	Col18a1	Arsb	Arsk	Sgsh
+SIKE1	huMAP	Ppp2cb	Strip2	Mob4	Slmap	Strn	Strn3	Cttnbp2nl
+SIN3B	huMAP	Gatad1	Phf12	Emsy	Kdm5a
+SIPA1	huMAP	Myo1e	Myo5c	Actn1	Myo5b	Twf1	Ssh2
+SKP1	huMAP	Fbxw5	Fbxo30	Spryd3	Mycbp2	Fbxl8
+SKP2	huMAP	Cdkn1c	Gmnn	Cdk3	Cdk2	Cks1b
+SLC25A3	huMAP	Slc25a4	Hsp90ab1	Rpl22	Rps9	Rpl35	Rpl13	Rpl36	Rps5	Rps3	Rpl22l1	Rps23	Slc25a5	Rpl7a
+SLC25A5	huMAP	Tufm	Rpl22	Rps8	Rpl21	Rps9	Rps7	Rps3a1	Canx	Rpl27	Rps25	Rpl6	Slc25a4	Rpl3	Rpl30	Rpl11	Rpl10	Rpl13	Rplp2	Ybx1	Rps15	Rps4x	Rpl14	Rps3	Rps15a	Rps27a
+SLC25A6	huMAP	Rpl3	Rpl30	Rpl22	Rpl11	Rps9	Rpl21	Rpl10	Rpl13	Rplp2	Rps4x	Rps15	Rpl14	Rps3	Rps25
+SMARCA2	huMAP	Ss18	Ss18l1	Bcl7b	Smarce1	Arid1a	Brd7	Smarca4
+SMARCB1	huMAP	Ss18	Smarcd1	Smarcd2	Smarcc1	Smarcd3	Smarcc2	Actl6a	Smarce1	Arid1a	Smarca2	Arid1b	Smarca4	Tbl1xr1	Bcl7b	Dpf2	Dpf3	Brd7	Arid2
+SMARCC1	huMAP	Smarcd1	Smarcd2	Ss18l1	Smarcc2	Smarcd3	Pbrm1	Actl6a	Smarce1	Arid1a	Smarca2	Smarca4	Tbl1xr1	Dpf2	Bcl7c	Dpf3	Brd7	Arid2
+SMARCC2	huMAP	Smarcd1	Top2b	Smarcd2	Smarcd3	Pbrm1	Actl6a	Smarce1	Arid1a	Smarca2	Smarca4	Tbl1xr1	Bcl7b	Bcl7c	Dpf2	Dpf3	Brd7	Arid2
+SMARCD1	huMAP	Smarcd2	Ss18l1	Smarcd3	Pbrm1	Actl6a	Smarce1	Arid1a	Smarca2	Smarca4	Tbl1xr1	Bcl7b	Dpf2	Dpf3	Brd7
+SMARCD2	huMAP	Ss18	Tbl1xr1	Smarcd3	Bcl7b	Actl6a	Dpf2	Smarce1	Arid1a	Smarca2	Brd7	Smarca4
+SMARCD3	huMAP	Tbl1xr1	Bcl7b	Smarce1	Arid1a	Smarca2	Smarca4
+SMARCE1	huMAP	Ss18l1	Bcl7b	Arid1a	Brd7	Smarca4
+SMC1A	huMAP	Stag1	Rad21	Stag2	Cdca5	Cdc5lrt9	Wapl	Smc3
+SMC6	huMAP	Nsmce4a	Slf2	Nscme3l	Nsmce2	Nsmce1	Smc5
+SMNDC1	huMAP	Sf3a2	Sf3a3	Dhx38	Lsm2	Snrpb2	Sf3a1	Lsm3
+SMPD4	huMAP	Gle1	Nup107	Ube2i	Tmem214	Nup210
+SMU1	huMAP	Ddx17	Ddx5	Denr
+SNAP29	huMAP	Ska1	Stxbp5	Napa	Stx7	Trpm7
+SNAP91	huMAP	Napb	Mapt	Hpca	Dpysl3	Vsnl1	Stx1b	Sncb	Syn1
+SNCB	huMAP	Napb	Ppp3r1	Hpca	Mapt	Stx1b	Syn1
+SND1	huMAP	Rpl3	Atp6v1d	Rpl30	Rpl11	Ddx47	Rpl21	Rps9	Rps5	Rps3	Rps15a
+SNRNP200	huMAP	Rbm39	Cpsf6	Ranbp2	Sf3a2	Wtap	Sf3a3	Ddx17	Cdc5lrt9	Thoc2	Prpf40a	Srrm1	Srrm2	Xab2	Prpf6	Snw1	Prpf8	Prpf19	Cd2bp2	Srsf4	Prpf31	Acin1	Srsf6	Snrpa1	Srsf7	Sf3a1	Rbm25	Srsf9	Ddx23	Srrt	Srsf1	Psip1	U2af2	Snu13	Cdc73	Ppm1g	Eftud2	Sart1	Snrpd2	Snrpd1	Dhx15	Srsf11	Sf3b2
+SNRNP40	huMAP	Ranbp2	Aqr	Cdc5lrt9	Xab2	Prpf6	Snw1	Nudt21	Prpf8	Prpf19	Prpf3	Cd2bp2	Prpf31	Cdk12	Snrnp200	Snrpb	Usp39	Ddx23	Pqbp1	Snu13	Eftud2	Sart1	Plrg1	Snrpd1	Snrpb2	Txnl4a	Smndc1	Bcas2
+SNRNP70	huMAP	Rbm39	Srsf2	Prpf4b	Klhl8	Srsf3	Luc7l	Srsf4	Srsf5	Acin1	Snrpg	Srsf7	Srsf11	Luc7l3
+SNRPA	huMAP	Cpsf6	Usp39	Dhx9	Eif1	Prpf6	Hnrnpm	Prpf18	Lsm7	Ddx39b	Snrpd2	Dhx16	Taok1	Dtd1
+SNRPA1	huMAP	Sf3a2	Snrpn	Ddx17	Sf3a3	Cdc5lrt9	Prpf40a	Eif2s2	Prpf6	Gpatch11	Phf5a	Kpnb1	Snw1	Prpf8	Prpf19	Prpf31	Snrpf	Sf3a1	Rbm25	Sf3b5	Sf3b6	Slc4a1ap	Sf3b3	Srrt	Ddx23	Htatsf1	Eftud2	Sart1	Snrpd2	Snrpd1	Dhx15	Snrpb2	Sf3b2	Smndc1
+SNRPD1	huMAP	Sf3b5	Usp39	Ddx17	Sf3a3	Ddx23	Psip1	Thoc2	Prpf40a	Cdc73	Eif2s2	U2surp	Prpf6	Prpf8	Prpf19	Cd2bp2	Prpf31	Snrpb2	Sf3a1	Sf3b2
+SNRPD2	huMAP	Sf3a2	Sf3a3	Ddx17	Thoc2	Ssrp1	Prpf40a	Eif2s2	U2surp	Hnrnpm	Prpf6	Kpnb1	Prpf8	Smu1	Prpf19	Msh6	Cd2bp2	Prpf31	Snrpf	Cdk12	Srsf5	Sf3a1	Snrpe	Ran	Tcerg1	D1Pas1	Usp39	Ddx5	Dhx9	Srrt	Ddx23	Psip1	Chd4	Cdc73	Eftud2	Sart1	Snrpd1	Dhx15	Snrpb2	Sf3b2	Srsf11
+SNU13	huMAP	Cpsf6	D1Pas1	Tcerg1	Sf3a3	Usp39	Ddx5	Ddx17	Srrt	Ddx23	Thoc2	Cdc5lrt9	Prpf40a	Cdc73	Eftud2	Prpf6	Sart1	Prpf8	Prpf19	Snrpd2	Snrpd1	Dhx15	Prpf31
+SNW1	huMAP	Aqr	Isy1	Dhx8	Cdc5lrt9	Ppm1g	Eftud2	Xab2	Prpf8	Rab43	Prpf19	Snrpd2	Clasrp	Ccdc12	Slu7	Sf3a1	Rbm25	Ppie
+SOD1	huMAP	Ccs	Cbfb	Txn1	Eno1	Hsd17b14	Tagln3
+SORBS2	huMAP	Ablim1	Myo5c	Myo5a	Nexn	Myo5b	Cobl	Twf1
+SPC25	huMAP	Spc24	Pmf1	Nuf2	Zwint
+SPECC1	huMAP	Nexn	Myh9	Myo5a	Twf1	Cobl	Sorbs2	Coro1c
+SPECC1L	huMAP	Limch1	Myo5a	Myh9	Lima1	Ppp1cb
+SREK1	huMAP	Ddx46	Rnps1	Prpf4b	Srsf4	Srsf6	Srsf7	Srsf11	Luc7l3
+SRI	huMAP	Pcmt1	Hint1	Mpi	Tpi1	Sod1
+SRP14	huMAP	Rpl6	Srp9	Rpl3	Rpl30	Rps8	Rpl11	Rps9	Rpl21	Rpl10	Rplp2	Rpl13	Rps7	Ybx1	Hnrnpu	Nap1l1	Rps3a1	Rpl14	Rpl27	Rps15a
+SRP68	huMAP	Ddx18	Nop16	Imp4	Ccdc137	Cherp	Gnl3	Ftsj3	Gtpbp4	Rsl1d1	Mybbp1a	Rpl7l1	Tsr1	Gzf1	Glyr1	Nop56	Stau1	Ddx24	Prdm15	Ybx3	Kri1	Dhx30	Srp72	Pes1	Rps5	Gm6133	Rrp12	Sf3b2	Lyar
+SRP72	huMAP	Upf1	Imp4	Rbm19	Ddx31	Urb2	Gnl3	Rexo4	Gtpbp4	Rpl7l1	Rpl26	Pop1	Zfp512	Stau2	Ythdc2	Rpl10	Dhx30	Pes1	Rpl15	Gm6133	Lyar	Ddx18	Nop16	Ccdc137	Noc3l	Rrp1b	Ftsj3	Prrc2c	Mov10	Mybbp1a	Spats2l	Glyr1	Zcchc3	Nop56	Rbm28	Srp19	Rrp8	Ltv1	Ddx27	Mphosph10	Ddx24	Ddx21	Larp1	Nkrf	Dhx57	Brix1	Igf2bp3
+SRPK1	huMAP	Nop58	Rpl22	Rps8	Rps9	Rpl21	Rps7	Srpk2	Ebna1bp2	Rpl11	Rpl10	Rplp2	Rpl13	Ybx1	Nolc1	Rps4x	Rps15	G3bp2	Rpl15	Rps5	Rps3	Rps15a	Rps14	Rpl7a	Rps13
+SRPK2	huMAP	Rps4x	Rps9	Rplp2	Grwd1	Ybx1	Rps3a1
+SRRM1	huMAP	Prpf4b	Gnl2	Larp7	Srrm2	Gtpbp4	Mrto4	Hnrnpm	Lin28b	Dkc1	Xrn2	Thrap3	Srsf3	Ppig	Ccdc86	Pabpc4	Srsf5	Srsf6	Srsf7	Rbm25	Srsf9	Luc7l3	Ran	Khdrbs1	Dhx9	Nip7	Srsf1	Srrt	Lmnb1	Cdc73	Spty2d1	Pnn	Eftud2	Ruvbl1	Dhx30	Bclaf1	Srp72	Snrpd2	Zfp629	Rpl15	Rps5	Sf3b2	Lyar	Rbm39	Nop16	Rrp1b	Ftsj3	U2surp	Rsl1d1	Prpf6	Kpnb1	Prpf8	Mybbp1a	Acin1	Rbm28	Tcerg1	Ddx5	Ddx23	Ddx21	Ppan	U2af2	Larp1	Tra2a	Snrnp70	Dhx15	Tra2b	Srsf11	Rps13
+SRRM2	huMAP	Rbm39	Prpf8	Ddx46	Ppig	Srsf4	Srsf5	Acin1	Prpf40a	Srsf6	Srsf7	Srsf11
+SRRT	huMAP	Rbm39	Ddx17	Sf3a3	Mbd3	Prpf40a	Eif2s2	Srrm2	Hnrnpm	Prpf8	Prpf19	Cd2bp2	Srsf4	Srsf5	Cdk12	Acin1	Srsf6	Srsf7	Sf3a1	Tcerg1	Ddx5	Usp39	Dhx9	Ddx23	Srsf1	Ddx46	Cdc73	Eftud2	Snrpd1	Dhx15	Sf3b2	Srsf11
+SRSF1	huMAP	Rbm39	Thoc2	Pphln1	Prpf40a	Srrm2	Clk2	Prpf8	Thrap3	Srsf3	Ppig	Rnps1	Srsf4	Acin1	Srsf5	Srsf6	Srsf7	Luc7l3	Srsf2	Ddx46	Cdc73	Pnn	Eftud2	Snrnp70	Tra2b	Luc7l	Zc3h14	Srsf11
+SRSF10	huMAP	Rbm39	Srsf1	Ddx46	U2af2	Srrm1	Pnn	Srrm2	Bclaf1	Tra2a	Thrap3	Tra2b	Luc7l	Srsf3	Ppig	Srsf4	Rnps1	Srsf5	Acin1	Srsf6	Srsf7	Srsf9	Arglu1	Luc7l3
+SRSF2	huMAP	Rbm39	Srsf3	Srsf4	Acin1	Srsf6	Srsf7	Srrm2
+SRSF3	huMAP	Rbm39	Srsf5	Srsf6	Srsf7	Srrm2
+SRSF4	huMAP	Rbm39	Prpf8	Ddx46	Prpf4b	Srsf5	Srsf6	Prpf40a	Srsf11	Cdc73
+SRSF6	huMAP	Ddx46	Ppig	Srsf5	Prpf40a	Srsf11	Cdc73
+SRSF7	huMAP	Rbm39	Prpf8	Ddx46	Prpf4b	Srsf4	Srsf5	Acin1	Srsf6	Prpf40a	Srsf11	Cdc73
+SRSF9	huMAP	Rbm39	Srsf1	Srrt	Srsf2	Prpf40a	Pnn	Srrm2	Eftud2	Clk2	Prpf8	Bclaf1	Thrap3	Tra2b	Pabpn1	Srsf3	Srsf4	Srsf6	Zc3h14	Srsf7	Rbm25
+SSB	huMAP	Nsun2	Rpl3	Rps8	Rps9	Rplp2	Rps7	Rps3a1	Rps3	Rps15a	Rps27a
+SSBP2	huMAP	Lmx1b	Ldb1	Lmo4	Isl1	Isl2	Ssbp4
+SSBP3	huMAP	Lmx1b	Ldb1	Lmo4	Lhx1	Ssbp2	Isl1	Ssbp4	Isl2
+SSH2	huMAP	Myo5c	Actn1	Cfl2	Myo5a	Actg1	Myo5b	Twf1	Sorbs2	Coro1c
+ST5	huMAP	Myo1c	Myo5b	Lima1	Coro1c	Ppp1cb
+STAG1	huMAP	Rad21	Stag2	Cdca5	Smc1b	Wapl	Smc3
+STAG2	huMAP	Rad21	Cdca5	Smc1b	Wapl	Smc3
+STAU1	huMAP	Upf1	Imp3	Imp4	Knop1	Ddx31	Gnl3	Rexo4	Gnl2	Srrm1	Larp7	Gtpbp4	Lin28b	Dkc1	Xrn2	Rpl7l1	Rpl26	Ccdc86	Cebpz	Pop1	Zfp512	Hp1bp3	Nvl	Stau2	Ythdc2	Nip7	Zc3hav1	Zc3h8	Rpf2	Dhx30	Srp72	Llph	Zfp629	Pura	Pes1	Rpl15	Gar1	Gm6133	Rrs1	Lyar	Ddx18	Myef2l	Nop16	Abt1	Mrps26	Surf6	Ccdc137	Ddx56	Rrp1b	Noc3l	Ftsj3	Rsl1d1	Mov10	Mybbp1a	Ebna1bp2	Nol12	Gzf1	Glyr1	Fyttd1	Rbm28	Zfp771	Rrp8	Ddx27	Mphosph10	Ddx24	Ddx21	Ppan	Zfp422	Ttf1	Kri1	Larp1	Nkrf	Brix1	Rrp12	Nifk	Rps13	Rbm34
+STBD1	huMAP	Gabarap	Gabarapl1	Mid1	Gys1
+STON2	huMAP	Fcho2	Ap2b1	Ap2a1	Bmp2k	Aak1	Pik3c2a	Ap2m1
+STRIP1	huMAP	Ppp2cb	Strip2	Sike1	Slmap	Mob4	Strn	Strn3	Cttnbp2nl
+STRN3	huMAP	Ppp2cb	Strip2	Slmap	Strn	Cttnbp2nl
+STRN4	huMAP	Strip1	Ppp2cb	Strip2	Sike1	Fgfr1op2	Slmap	Mob4	Strn	Strn3	Cttnbp2nl
+STX12	huMAP	Gosr1	Vti1a	Stx6	Tbc1d17	Optn
+STX1A	huMAP	Napb	Gria2	Hpca	Ncald	Snap91	L1cam	Syn1	Calb2	Cdh13	Rab6b	Amph	Stx1b	Sncb
+STX5	huMAP	Vamp8	Gosr1	Gosr2	Stx8	Stx7	Stx6	Vti1a	Sec22b
+STX7	huMAP	Stx16	Stxbp5	Vti1b	Stx6	Pttg1ip	Napg	Vamp4
+STX8	huMAP	Gosr1	Vti1b	Stx7	Vti1a	Stx6	Vamp4
+STXBP1	huMAP	Camk2a	Crmp1	Ncald	Snap91	Syn1	Gng2	Dpysl2	Mapt	Dpysl3	Vsnl1	Stx1b	Ilkap	Sncb
+SUMO2	huMAP	Nxf1	Ube2i	Tmem214	Sumo1	Rcc1	Aaas
+SUPT16H	huMAP	Rps4x	Rps15	Rpl3	Rpl18a	Rpl11	Rpl21	Rpl35	Rpl13	Pes1	Rpl14
+SUPT7L	huMAP	Taf5l	Taf12	Tada1	Supt20	Supt3	Taf9b
+SURF6	huMAP	Upf1	Imp3	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Mrto4	Dkc1	Rpl26	Pabpc4	Stau2	Nip7	Zc3hav1	Rpf2	Dhx30	Llph	Pes1	Rps5	Gm6133	Rrs1	Sf3b2	Lyar	Myef2l	Nop16	Mrps26	Ccdc137	Ddx56	Mrps22	Rrp1b	Noc3l	Ftsj3	Mov10	Ebna1bp2	Mybbp1a	Gzf1	Fyttd1	Rbm28	Zfp771	Rrp8	Zfp770	Ddx27	Mphosph10	Ddx24	Ddx21	Rrp9	Larp1	Dhx57	Bms1	Brix1
+SVIL	huMAP	Myo1c	Tmod3	Myh9	Nexn	Rai14	Lima1	Dbn1
+SYF2	huMAP	Xab2	Aqr	Snw1	Dhx8	Isy1	Bud31	Cdc5lrt9	Cwc15	Ccdc12	Crnkl1	Ppie	Bcas2
+SYN1	huMAP	Napb	Ppp3r1	Hpca	Mapt	Stx1b
+SYP	huMAP	Syt1	Snap91	Syn1	Dclk1	L1cam	Atp4a	Mapt	Vsnl1	Cdh13	Amph	Stx1b	Stx1a	Gria2	Napb	Stxbp1	Gpm6b	Hpca	Camk2a	Crmp1	Ncald	Gng2	Calb2	Dpysl3	Camkv	Rab6b	Sncb
+SYT1	huMAP	Stxbp1	Camk2a	Camk2b	Crmp1	Ncald	Snap91	Dclk1	Syn1	Gng2	Dpysl2	Mapt	Dpysl5	Dpysl3	Gnao1	Vsnl1	Stx1b	Sncb
+TADA1	huMAP	Taf12	Taf10	Supt20	Supt3	Taf9b
+TADA2B	huMAP	Taf6l	Taf5l	Taf12	Taf9	Tada1	Taf10	Supt20	Taf9b	Supt7l	Supt3
+TADA3	huMAP	Taf5l	Kat2b	Zzz3	Tada2a	Yeats2	Sgf29	Supt20	Supt3	Mbip	Supt7l
+TAF5	huMAP	Tbp	Taf8	Taf4	Taf9b	Taf2
+TAF5L	huMAP	Taf12	Tada1	Supt20	Supt3	Taf9b
+TAF6L	huMAP	Taf5l	Tada1	Supt20	Supt7l	Supt3
+TAGLN	huMAP	Hint1	Fabp3	Tial1	Fabp5	Tia1	Gpx4	Akr1a1	Eno1	Eno2
+TCERG1	huMAP	Ruvbl1	Ddx5	Sf3a3	Ddx17	Smu1	Snrpd1	Mcts1	Sf3a1	Sf3b2
+TCP1	huMAP	Cct6b	Cct4	Cct6a	Cct2	Pdcl3	Tcea1	Txndc9	Cct5
+TERF2IP	huMAP	Acd	Dclre1b	Terf1	Terf2	Pot1a
+TFPT	huMAP	Ino80c	Yy1	Ino80e	Actr5	Nfrkb
+THBS3	huMAP	Iqsec2	Fancb	Thbs1	Thbs4
+THOC1	huMAP	Ddx39a	Rbm15	Poldip3	Thoc2	Thoc6	Thoc5	Thoc7
+THOC2	huMAP	Rbm39	Sf3a3	Ddx17	Prpf40a	Thoc6	Cdc73	Thoc5	Srrm2	Thoc7	Ddx39a	Prpf8	Acin1	Srsf6	Srsf7	Sf3a1
+THOC3	huMAP	Ddx39b	Poldip3	Zc3h11a	Thoc2	Thoc1	Thoc6	Thoc5	Thoc7
+THRAP3	huMAP	Rbm39	Luc7l	Ppig	Srsf3	Srsf4	Acin1	Srsf6	Srsf7	Srsf11	Pnn	Luc7l3	Srrm2
+TMED10	huMAP	Tmed9	Tmed4	Tmed3	Tmed2	Tmed1	Tmed5
+TMED2	huMAP	Tmed9	Tmed4	Tmed3	Tmed1	Tmed5
+TMEM209	huMAP	Nup205	Nup107	Ube2i	Ndc1	Nup153	Nup210	Nup160	Nxf1	Gle1	Tmem214	Sumo1	Nup43	Nup35	Rcc1
+TMEM214	huMAP	Gle1	Ube2i	Sumo1	Nup35	Nup133	Nup210
+TMOD1	huMAP	Lrrfip1	Flii	Myo5c	Myo5a	Myo5b	Twf1
+TMOD3	huMAP	Myo1c	Ubxn2a	Myh9	Afap1	Actg1	Lrrfip2	Lima1	Ppp1cb
+TNFSF13B	huMAP	Fam118a	Pdss1	Map3k15	Map3k5	Map3k6
+TOP2B	huMAP	Rpl10	Smarce1	Arid1a	Smarca2	Smarca4
+TPM1	huMAP	Tpm4	Dlg5	Myo1b	Actn2	Tpm3-rs7	Tpm2	Mprip	Myh6	Cntln	Myh8	Klhl21	Tnni1
+TPR	huMAP	Cpsf6	Rbm39	Ranbp2	Sf3a3	Ddx17	Cdc5lrt9	Thoc2	Prpf40a	Eif2s2	Srrm2	U2surp	Hnrnpm	Kpnb1	Prpf8	Prpf19	Snrnp40	Prpf31	Cdk12	Acin1	Srsf5	Srsf6	Srsf7	Sf3a1	Snrnp200	Rbm25	Khdrbs1	Sf3b3	Tcerg1	Ddx5	Dhx9	Ddx23	Srrt	Ddx46	Psip1	Ipo7	Snu13	Cdc73	Eftud2	Sart1	Ruvbl1	Puf60	Snrpd2	Snrpd1	Dhx15	Sf3b1	Srsf11	Sf3b2
+TPRN	huMAP	Ppp1cc	Ppp1r18	Myo5a	Nexn	Calml3	Ppp1ca
+TRA2A	huMAP	Bclaf1	Snrnp70	Srsf1	Thrap3	Tra2b	Srsf3	Ppig	Srsf5	Srsf6	Srsf7	Srsf9	Srrm2
+TRA2B	huMAP	Rbm39	Ddx46	Pnn	Srrm2	Snrnp70	Thrap3	Srsf3	Ppig	Srsf5	Acin1	Srsf6	Trim28	Srsf7	Srsf11	Luc7l3
+TRAPPC1	huMAP	Trappc2l	Trappc8	Trappc2b	Trappc11	Trappc5	Trappc12
+TRAPPC2L	huMAP	Trappc8	Trappc11	Trappc5	Trappc2b	Trappc12
+TRAPPC3	huMAP	Trappc2l	Trappc4	Trappc1	Trappc8	Trappc5	Trappc11	Trappc12
+TRRAP	huMAP	Morf4l2	Vps72	Yeats4	Meaf6	Mbtd1	Epc2	Jazf1	Brd8
+TSC22D4	huMAP	Tsc22d2	Wnk2	Wnk3	Tsc22d3	Ttl	Nrbp1
+TSR1	huMAP	Dhx30	Rpl3	Mybbp1a	Rps17	Rpl11	Ddx47	Rps9	Rps5	Rps3	Rps15a	Lyar
+TTC37	huMAP	Snd1	Rps18	Mpg	Npm3	Rpl11	Ddx47	Rpl24	Rps5	Zfp622	Rps25
+TTF1	huMAP	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Bop1	Lin28b	Dkc1	Rpl7l1	Zcchc9	Nip7	Zc3hav1	Rpf2	Dhx30	Llph	Pes1	Rpl15	Gar1	Gm6133	Rrs1	Lyar	Myef2l	Nop16	Ddx56	Ccdc137	Surf6	Ddx10	Noc3l	Ftsj3	Mybbp1a	Ebna1bp2	Nol12	Gzf1	Glyr1	Fyttd1	Rbm28	Zfp771	Rrp8	Zfp770	Ddx27	Ddx24	Ddx21	Rrp9	Brix1	Rps13
+TUBA3E	huMAP	Cct6a	Cct2	Txndc9	Tubb4a	Cct5
+TUBB2A	huMAP	Tubb5	Arl2	Eml1	Eml2	Tuba4a
+TUBG1	huMAP	Mzt2	Nedd1	Tubgcp2	Nme7	Tubgcp3	Tubgcp6	Tubgcp4	Tubgcp5	Mzt1
+TUBGCP3	huMAP	Mzt2	Tubgcp2	Nme7	Tubgcp6	Tubgcp4	Mzt1
+TUBGCP5	huMAP	Mzt2	Tubgcp2	Nme7	Tubgcp3	Tubgcp6	Tubgcp4	Mzt1
+TUBGCP6	huMAP	Mzt2	Tubgcp2	Nme7	Tubgcp4	Mzt1
+TUFM	huMAP	Rpl3	Rpl21	Rps9	Rps15a
+TWF1	huMAP	Ablim1	Myo5c	Nexn	Myo5a	Myo5b	Cobl	Coro1c
+TXNDC16	huMAP	Poglut1	Col18a1	Galns	Fut11	Arsk	Cercam	Siae
+U2AF1L5	huMAP	Rbm39	Ddx5	Ddx46	Psip1	Thoc2	Prpf4b	Prpf40a	Cdc73	Eftud2	Srrm2	U2surp	Prpf8	Snrnp70	Thrap3	Luc7l	Ppig	Srsf6	Srsf11	Luc7l3
+U2AF2	huMAP	Rbm39	Sap30bp	Thoc2	Prpf4b	Prpf40a	Srrm2	Prpf8	Thrap3	Srsf3	Ppig	Rnps1	Srsf5	Acin1	Srsf6	Srsf7	Srsf9	Luc7l3	Srrt	Srsf1	Ddx46	Srsf2	Cdc73	Eftud2	Cwc22rt7	Snrnp70	Tra2b	Luc7l	Srsf11
+UBA52	huMAP	Rps8	Rpl13	Rplp2	Rps7	Rpl34	Rps3a1	Fbl	Rps15	Rps4x	Pes1	Rpl26	Rps5	Rps20	Rps3	Rps15a	Rps27a	Rps25
+UBE2V1	huMAP	Fahd1	Qdpr	Hsd17b14	Dynlrb2	Sord	Ube2n
+UBE3A	huMAP	Psmd7	Psmc6	Psmd13	Psmd12	Psmd14	Psmc2	Psmc3	Psmd1
+UGGT2	huMAP	Arsa	Naglu	Fut11	Cercam	Sgsh	Foxred2
+UPF1	huMAP	Ddx27	Imp3	Stau2	Ddx24	Ddx21	Gnl3	Rexo4	Rrp9	Rpf2	Dhx30	Ebna1bp2	Dkc1	Rps5	Rrs1	Gzf1	Zcchc3
+USE1	huMAP	Nbas	Zw10	Scfd2	Scfd1	Stx18	Rint1	Bnip1
+USO1	huMAP	Slc30a6	Btbd3	Golga2	Blzf1	Fam83b
+USP10	huMAP	Rfc4	Rps9	G3bp1	G3bp2	Rps5	Tsr1	Rps3
+USP46	huMAP	Rad51ap1	Phlpp1	Wdr48	Phlpp2	Dmwd	Wdr20rt
+USP7	huMAP	Zfp609	Bcl6	Trim27	Etv6	Dhx40
+UTP14A	huMAP	Ddx18	Ddx27	Mphosph10	Nop2	Ddx56	Noc2l	Ftsj3	Wdr36	Gtpbp4	Rpf2	Pum3	Mrto4	Dkc1	Pes1	Rrp15	Rrs1	Nop56
+UTP23	huMAP	Ddx18	Toe1	Zcrb1	Krr1	Ccdc137	Srp68	Ftsj3	Cherp	Gnl3	Gnl2	Gtpbp4	Pop1	Tsr1	Gzf1	Glyr1	Hp1bp3	Ltv1	Ddx27	Prdm15	Kri1	Aatf	Dhx30	Rps17	Srp72	Rpl15	Rps5	Rrp12	Rrs1	Lyar	Rps13
+UTP3	huMAP	Imp3	Ngdn	Mphosph10	Rpf2	Gtpbp4
+VAMP8	huMAP	Stx8	Vti1b	Stx7	Vti1a	Stx6	Snap29
+VARS	huMAP	Eef1a2	Pfkl	Eef1d	Eef1g
+VPS16	huMAP	Vps41	Tgfbrap1	Vps33a	Vps11	Vps18
+VPS26A	huMAP	Ankrd27	Tbc1d5	Fkbp15	Vps26b	Vps35	Vps29
+VPS28	huMAP	Tsg101	Ubap1	Mvb12a	Vps37b	Vps37c	Vps37a
+VPS29	huMAP	Snx2	Commd9	Tbc1d5	Snx1	Commd10	Commd3	Commd4	Vps26b	Commd2	Commd5
+VPS35	huMAP	Snx2	Tbc1d5	Snx1	Vps26b	Vps29
+VSIG8	huMAP	Lrrc15	S100a3	Hephl1	Dsg4
+VSNL1	huMAP	Dpysl2	Mapt	Hpca	Stx1b	Sncb	Syn1
+VTI1A	huMAP	Gosr2	Vti1b	Stx7	Stx6
+WBP11	huMAP	Prpf6	Prpf8	Sf3a3	Prpf31	Acin1	Srsf6	Sf3b2	Sf3a1
+WBSCR16	huMAP	Trub2	Mrpl4	Mrpl32	Mrpl50	Ptcd1	Mterf3	Mrpl19	Mrpl28	Mrpl13	Mrpl47
+WDR1	huMAP	Fh1	Plekhg3	Tpi1	Myo5c	Cfl2	Cfl1	Myo5b	Hsd17b14	Twf1	Sorbs2	Ssh2
+WDR26	huMAP	Mkln1	Gid4	Rmnd5a	Zmynd19	Gid8	Armc8	Maea	Ypel5	Ranbp10
+WDR3	huMAP	Ddx49	Tbl3	Nsun5	Nob1	Pwp2	Wdr36
+WDR33	huMAP	Cpsf2	Cpsf1	Cpsf4	Cpsf3	Sympk
+WDR5	huMAP	Rbbp5	Ash2l	Bod1	Bod1l	Fam199x	Kansl1	Atn1	Kdm6a
+WHSC1	huMAP	Myef2l	Imp3	Ddx56	Ccdc137	Noc3l	Ddx31	Gnl3	Ftsj3	Rexo4	Gtpbp4	Mybbp1a	Ebna1bp2	Dkc1	Rpl7l1	Rpl26	Gzf1	Fyttd1	Rbm28	Zfp771	Rrp8	Ddx27	Stau2	Nip7	Ddx24	Zc3hav1	Rpf2	Dhx30	Llph	Pes1	Rrs1	Lyar
+WTAP	huMAP	Prpf8	Mettl3	Cbll1	Eftud2
+XAB2	huMAP	Aqr	Sf3a2	Sf3a3	Dhx8	Ddx23	Eftud2	Prpf8	Prpf19	Rab43	Dhx35	Dhx15	Prpf31	Ccdc12	Zfp830	Sf3a1	Ppie
+XRN2	huMAP	Myef2l	Nop16	Surf6	Ccdc137	Mrps22	Noc3l	Ddx31	Ftsj3	Rexo4	Gtpbp4	Mov10	Ebna1bp2	Mybbp1a	Lin28b	Pxdn	Dkc1	Rpl26	Pabpc4	Glyr1	Rbm28	Zfp771	Ddx27	Stau2	Nip7	Ddx24	Zc3hav1	Ddx21	Cdkn2aip	Dhx30	Larp1	Pura	Rpl15	Gar1	Brix1	Gm6133	Igf2bp3	Rps13
+YARS2	huMAP	Trub2	Mrpl4	Mrpl32	Mrpl50	Mterf3	Mrpl19	Malsu1	Mrpl13	Mrpl14
+YBX1	huMAP	Tufm	Rps8	Rpl22	Rps9	Rpl21	Rps7	Rps3a1	Fau	Hnrnpc	Rpl27	Rps20	Rps25	Rpl3	Rpl30	Hsp90ab1	Rpl11	Rpl10	Rplp2	Rpl13	Rpl34	Hnrnpu	Rps15	G3bp1	Pes1	Rps5	Rpl14	Rps3	Rps15a
+YBX3	huMAP	Nop58	Btf3	Rps8	Rpl21	Rpl23	Rps3a1	Srpk1	Rpl27	Rps20	Rpl6	Rpl3	Rpl13	Rplp2	Rpl12	Zc3h8	Fbl	Rps15	Rpl18a	Rps19	Rpl14	Rps3	Rps15a	Rps14	Rps13
+YEATS4	huMAP	Morf4l2	Vps72	Srcap	Meaf6	Actr6	Mbtd1	Brd8	Jazf1
+YTHDC2	huMAP	Nop16	Rrp1b	Ddx31	Gnl3	Ftsj3	Gtpbp4	Mrto4	Ebna1bp2	Mybbp1a	Rpl26	Tsr1	Nop56	Rbm28	Ddx27	Stau2	Ddx24	Ddx21	Noc4l	Dhx30	Larp1	Pes1	Rps5	Gm6133	Lyar
+YWHAQ	huMAP	Ywhag	Ywhae	Ywhab	Sfn	Ywhah
+ZBTB11	huMAP	Upf1	Ddx31	Gnl3	Rexo4	Gnl2	Larp7	Gtpbp4	Bop1	Lin28b	Dkc1	Rpl26	Ccdc86	Pabpc4	Pop1	Zfp512	Hp1bp3	Nip7	Zc3hav1	Zc3h8	Zbtb24	Rpf2	Dhx30	Llph	Pura	Rpl15	Gar1	Rps5	Gm6133	Rrs1	Sf3b2	Nop16	Krr1	Ccdc137	Surf6	Ftsj3	Rsl1d1	Mov10	Ebna1bp2	Mybbp1a	Gzf1	Zcchc3	Glyr1	Rbm28	Zfp771	Rrp8	Zfp770	Ddx27	Ddx24	Ddx21	Ppan	Zfp422	Kri1	Ttf1	Larp1	Nkrf	Brix1	Rrp15	Rrp12	Rbm34	Rps13
+ZBTB2	huMAP	Zfp639	Cdk2ap1rt	Rbbp7	Chd4	Elp6
+ZC3H11A	huMAP	Thoc2	Thoc1	Thoc6	Thoc5	Thoc7
+ZC3H18	huMAP	Rbm39	Srsf1	U2af2	Pnn	Srrm1	Srrm2	Puf60	Cwc22rt7	Tra2b	Ppig	Luc7l	Rnps1	Srsf4	Acin1	Srsf6	Srsf7	Srsf11	Luc7l3
+ZC3H8	huMAP	Nop16	Mrps26	Surf6	Ccdc137	Ddx10	Gnl3	Ftsj3	Larp7	Gtpbp4	Mov10	Mybbp1a	Lin28b	Rpl26	Pabpc4	Tsr1	Nol12	Zfp512	Gzf1	Zcchc9	Rbm28	Zfp771	Ddx24	Ddx21	Dhx30	Llph	Dhx57	Pura	Bms1	Rpl15	Rps5	Brix1	Gar1	Sf3b2	Lyar	Rps13
+ZC3HAV1	huMAP	Nop16	Ftsj3	Gnl3	Rexo4	Ebna1bp2	Mybbp1a	Dkc1	Gzf1	Fyttd1	Rbm28	Zfp771	Ddx27	Stau2	Ddx24	Ddx21	Rrp9	Rpf2	Dhx30	Pes1	Rps5	Rrs1	Lyar
+ZCRB1	huMAP	Larp1	Zfp771	Ccdc137	Rps5	Cherp	Ftsj3	Larp7	Zcchc3
+ZFP41	huMAP	Lrp4	Ltbp1	Fbln5	Lrp1b	Agrn
+ZKSCAN3	huMAP	Zfp174	Scand1	Zfp24	Pgbd1
+ZKSCAN4	huMAP	Zfp397	Zfp174	Scand1	Zfp24
+ZNF219	huMAP	Hdac2	Mbd2	Mbd3	Gatad2a	Chd5	Gatad2b	Mta2	Rbbp4	Trim27	Cdk2ap1rt	Rbbp7	Mta3	Zfp423
+ZNF22	huMAP	Upf1	Imp3	Ddx31	Gnl3	Rexo4	Larp7	Gtpbp4	Lin28b	Dkc1	Rpl26	Pop1	Zfp512	Stau2	Nip7	Zc3hav1	Zc3h8	Rpf2	Dhx30	Srp72	Llph	Pura	Rpl15	Gar1	Gm6133	Rrs1	Sf3b2	Lyar	Nop16	Surf6	Ccdc137	Noc3l	Ftsj3	Rsl1d1	Mov10	Mybbp1a	Ebna1bp2	Nol12	Gzf1	Glyr1	Fyttd1	Rbm28	Zfp771	Rrp8	Ddx27	Mphosph10	Ddx24	Ddx21	Kri1	Rrp9	Larp1	Nkrf	Brix1	Nifk	Rbm34	Rps13
+ZNF24	huMAP	Zfp174	Scand1	Zfp446	Pgbd1
+ZNF397	huMAP	Zfp174	Zfp444
+ZNF512	huMAP	Upf1	Imp3	Ddx31	Gnl3	Rexo4	Gtpbp4	Mrto4	Bop1	Lin28b	Dkc1	Xrn2	Rpl7l1	Rpl26	Stau2	Nip7	Ythdc2	Zc3hav1	Rpf2	Dhx30	Llph	Pura	Pes1	Rpl15	Rps5	Gar1	Gm6133	Rrs1	Lyar	Myef2l	Nop16	Mrps26	Ddx56	Ccdc137	Surf6	Mrps22	Noc3l	Rrp1b	Ftsj3	Mov10	Mybbp1a	Ebna1bp2	Nol12	Gzf1	Glyr1	Fyttd1	Rbm28	Zfp771	Rrp8	Zfp770	Ddx27	Mphosph10	Ddx24	Ddx21	Ttf1	Rrp9	Larp1	Dhx57	Brix1	Igf2bp3	Rps13
+ZNF574	huMAP	Dhx30	Zkscan8	Imp3	Rps5	Gzf1
+ZNF622	huMAP	Snd1	Rpl3	Npm3	Ddx47	Rps8	Rpl11	Rpl10	Rtcb	Rpl13	Mrto4	Rps4x	Rps15	G3bp1	Rps5	Rpl14	Rrs1	Rps20	Rps3	Rps15a	Rps25
+ZNF629	huMAP	Rbm28	Zfp771	Nop16	Ccdc137	Surf6	Ddx24	Zc3hav1	Ddx21	Zc3h8	Rrp1b	Gnl3	Ftsj3	Larp7	Dhx30	Mybbp1a	Dhx57	Bms1	Rpl15	Rps5	Zfp512	Rps13
+ZNF668	huMAP	Rpl13a	Knop1	Ddx31	Gnl3	Rexo4	Gnl2	Gtpbp4	Bop1	Dkc1	Rpl7l1	Ccdc86	Pop1	Zfp512	Hp1bp3	Nvl	Stau1	Pak1ip1	Zc3hav1	Zbtb24	Rpf2	Dhx30	Llph	Pes1	Rpl15	Gm6133	Rrs1	Myef2l	Nop16	Ddx56	Surf6	Ccdc137	Noc3l	Ddx50	Ftsj3	Rsl1d1	Mybbp1a	Ebna1bp2	Nol12	Gzf1	Glyr1	Fyttd1	Rbm28	Zfp771	Rrp8	Ddx27	Ddx24	Ppan	Kri1	Ttf1	Nkrf	Rrp15	Brix1	Nifk	Rps13	Rbm34
+ZNF768	huMAP	Nop16	Mrps26	Surf6	Ddx54	Rrp1b	Ftsj3	Gnl2	Gtpbp4	Mybbp1a	Ebna1bp2	Dkc1	Rpl26	Pop1	Zfp512	Rbm28	Ddx27	Stau1	Nop2	Zc3hav1	Ddx21	Ppan	Zc3h8	Kri1	Dhx30	Dhx57	Zfp629	Pura	Bms1	Rpl15	Brix1	Rps5	Rrp15	Gm6133	Lyar	Rps13	Rbm34
+ZNF770	huMAP	Zfp574	Rbm28	Zfp771	Nop16	Imp3	Ccdc137	Ddx24	Ddx10	Ddx21	Gnl3	Ftsj3	Dhx30	Zkscan8
+ZNF771	huMAP	Rbm28	Stau2	Imp3	Larp7	Rpf2	Dhx30	Mybbp1a	Ebna1bp2	Dkc1	Pes1	Rps5	Zcchc3	Lyar	Fyttd1
+ZNHIT1	huMAP	Vps72	Kat5	Yeats4	Srcap	Actr6	Mbtd1	Epc2	Ep400	Jazf1	Brd8
+ZRSR2	huMAP	Zmat5	Pdcd7	Ccdc97	Rnpc3	Snrnp48	Snrnp35
+ZSCAN20	huMAP	Zfp397	Zfp263	Zkscan14	Zfp174	Zfp24	Zscan21	Zscan22	Zkscan4	Scand1	Zfp449	Zscan18	Zscan29	Zfp202	Zfp213	Pgbd1
+ZSCAN30	huMAP	Zfp397	Zfp174	Scand1

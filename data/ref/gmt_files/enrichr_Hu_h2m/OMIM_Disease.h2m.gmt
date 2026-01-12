@@ -1,0 +1,90 @@
+adenoma	OMIM_Disease	Lhcgr	Plag1	Thra	Odc1	Aip	Hmga2	Gnai2	Tshr	Apc	Hnf1a	Gnas	Men1	Mutyh
+alopecia	OMIM_Disease	Rbm28	Hr	Cldn1	Foxn1
+alzheimer disease	OMIM_Disease	Ace	Nos3	Sorl1	Blmh	App	Hfe	Mpo	Plau	Psen1	Psen2	Apoe	A2m	Apbb2
+anemia	OMIM_Disease	Gpx1	G6pdx	Gsr	Tpi1	Gss	Pus1	Rps7	Hba-a1	Palb2	Sptb	Irf1	Trf	Cdan1	Fancd2	Ifng	Gpi1	Abcb7	Rpl11	Tmprss6	Cox4i2	Brca2	Hk1	Tert	Amn	Fanci	Cubn	Fancm	Glrx5	Fanca	Fancc	Bpgm	Fancf	Fance	Dhfr	Gclc	Pfkl	Rhag	Mtrr	Alas2	Ak1	Slc2a1	Gata1	Brip1	Rps17	Rps19	Slc19a2
+aneurysm	OMIM_Disease	Acta2	Col4a1	Col3a1	Myh11	Fbn1
+anomalies	OMIM_Disease	Eya1	Foxc1	Dnmt3c	Hoxd13	Gli2	Runx2	Vsx1	Folr1	Bmpr1b	Slc29a3
+arrhythmogenic right ventricular dysplasia	OMIM_Disease	Ryr2	Dsp	Tgfb3	Jup	Tmem43	Dsg2	Pkp2	Dsc2
+asthma	OMIM_Disease	Ccl11	Phf11d	Ptger2	Il13	Adrb2	Tnf	2410137M14Rik	Pla2g7	Hnmt	Irak3	Alox5	Tbx21	Scgb3a2	Il12b	Chi3l1	Ptgdr	Npsr1
+ataxia	OMIM_Disease	Aptx	Cp	Atm	Abcb7	Kcnc3	Slc1a3	Itpr1	Atxn2	Atxn7	Ttpa	Atxn1	Sptbn2	Plekhg4	Tbp	Prkcg	Cacnb4	Setx	Atxn10	Tdp1	Fxn	Fgf14	Fmr1	Kcna1	Cacna1a	Syne1	Ppp2r2b	Ttbk2	Sacs	Atcay	Polg
+autism	OMIM_Disease	Cntnap2	Nlgn3	Glo1	Nrxn1	En2	Mecp2	Met	Shank3
+bardet-biedl syndrome	OMIM_Disease	Bbs2	Mkks	Bbs1	Arl6	Bbs10	Bbs12	Ttc8	Tmem67	Bbs7	Cep290	Trim32	Bbs5	Bbs4	Mks1
+blood	OMIM_Disease	Cr1l	Slc14a1	Klf1	Sele	Atp1b1	Kel	Rhd	Cd44	Ache	Gypa	Cd151	Gypc	Gcnt2	Slc2a1	Slc4a1	Aqp3	Abo	Aqp1	Art4	C4b	Rgs5	Bsg	Ermap	A4galt	Sema7a	Cd55b
+bone mineral density	OMIM_Disease	Lrp5	Fbxo33
+breast cancer	OMIM_Disease	Nqo1	Xrcc3	Esr1	Palb2	Ppm1d	Pik3ca	Atm	Trp53	Tsg101	Hmmr	Rb1cc1	Brca2	Brip1	Casp8	Cdh1	Rad54l	Chek2	Akt1	Bard1
+cardiomyopathy	OMIM_Disease	Dsp	Mybpc3	Abcc9	Cav3	Tnnc1	Actn2	Eya4	Des	Myl2	Tnnt2	Myl3	Tcap	Myh6	Myh7	Vcl	Mylk2	Prkag2	Psen1	Ldb3	Psen2	Actc1	Ttn	Lmna	Pln	Tmpo	Sgcd	Csrp3	Myo6	Scn5a	Tpm1	Tnni3	Cox15	Dmd	Fktn
+cardiomyopathy, dilated	OMIM_Disease	Dsp	Mybpc3	Abcc9	Tnnc1	Actn2	Eya4	Des	Tnnt2	Tcap	Myh7	Vcl	Psen1	Ldb3	Psen2	Actc1	Ttn	Lmna	Pln	Tmpo	Sgcd	Csrp3	Scn5a	Tpm1	Tnni3	Dmd	Fktn
+cardiomyopathy, hypertrophic	OMIM_Disease	Mylk2	Mybpc3	Cav3	Tnnc1	Prkag2	Actc1	Ttn	Csrp3	Myl2	Tnnt2	Myl3	Myo6	Tpm1	Tnni3	Cox15	Myh6	Myh7
+cataract	OMIM_Disease	Lim2	Crygs	Eya1	Crybb2	Crybb1	Crybb3	Slc16a12	Pax6	Sord	Bfsp1	Galk1	Maf	Mip	Bfsp2	Crygc	Chmp4b	Cryab	Ftl1	Cryaa	Ctdp1	Cryba1	Gcnt2	Cryba4	Best1	Gja3	Six6	Opa3	Gja8	Hsf4	Duxf3
+cdeficiency	OMIM_Disease	C8a	C8b	C2	C4b	C3	AI182371	C6	C7	C9	Apoc3	Cd8a	Cd59a
+celiac disease	OMIM_Disease	Myo9b	H2-Ab1	Ctla4
+charcot-marie-tooth disease	OMIM_Disease	Egr2	Gdap1	Dnm2	Fig4	Pmp22	Mtmr2	Prps1l3	Hspb8	Litaf	Hoxd10	Hspb1	Ndrg1	Fgd4	Lmna	Sh3tc2	Mpz	Mfn2	Nefl	Kif1b	Sbf2
+cholesterol level	OMIM_Disease	Edn1	Lpl	Hmgcr	Pcsk9	Lipc	Pltp	Vnn1
+ciliary dyskinesia	OMIM_Disease	Dnah5	Rsph4a	Dnah11	Rsph9	Dnai1	Dnai2
+colorectal cancer	OMIM_Disease	Dcc	Mlh1	Pla2g2a	Axin2	Braf	Msh2	Smad7	Mcc	Mlh3	Tgfbr2	Pdgfrl	Tlr2	Apc	Dlc1	Pik3ca	Bub1b	Msh6	Bax	Fgfr3	Tlr4	Trp53	Ctnnb1	Flcn	Nras	Ccnd1	Ep300	Chek2	Akt1	Bub1	Pms2	Pms1
+cone-rod dystrophy	OMIM_Disease	Gucy2e	Sema4a	Abca4	Crx	Cacna1f	Rpgr	Rpgrip1	Rims1	Pitpnm3	Aipl1	Prom1
+convulsions	OMIM_Disease	Gabrg2	Scn1a
+corneal dystrophy	OMIM_Disease	Ubiad1	Slc4a11	Tacstd2	Krt12	Pax6	Dcn	Zeb1	Tgfbi	Col8a2	Vsx1
+deafness	OMIM_Disease	Myo7a	Grhl2	Pou4f3	Myh14	Tecta	Esrrb	Jag1	Igf1	Pou3f4	Col2a1	Diaph1	Gjb3	Gjb2	Tmie	Strc	Gjb6	Cd151	Actg1	Pcdh15	Espn	Pjvk	Gata3	Fgf3	Triobp	Cdh23	Tmc1	Rdx	Slc4a11	Lhfpl5	Pax3	Cldn14	Myo3a	Myh9	Tmprss3	Otoa	Marveld2	Myo6	Otof	Timm8a1	Whrn	Eya4	Atp2b2	Dspp	Myo1a	Myo15a	Kcnq4	Trmu	Col11a2	Six1	Rpgr	Coch	Ush1c	Opa1	Slc17a8	Ccdc50	Crym
+dementia	OMIM_Disease	App	Vcp	Mapt	Chmp2b	Psen1	Tnf	Itm2b	Trpm7	Snca	Sncb
+diabetes	OMIM_Disease	Ace	Kcnj11	Abcc8	Avpr2	Pax4	Oas1b	Spink1	Cdkal1	Foxp3	Mapk8ip1	Gck	Il6	Capn10	Gpd2	Ptf1a	Epo	Foxc2	Hfe	Itpr3	Ptpn22	Retn	Aqp2	Hnf4a	Ucp3	Akt2	Ctla4	Ccr5	Neurod1	Klf11	Slc30a8	Insr	Tcf7l2	Wfs1	Gcgr	Cel	Hnf1b	Hnf1a	Il2ra	Pparg	Avp	Irs1	Irs2	Slc2a2	Slc2a4	Lipc	Glis3	Zfp57	Enpp1	Sumo2	Plagl1	Igf2bp2	Mbl2
+diabetes mellitus	OMIM_Disease	Kcnj11	Abcc8	Pax4	Oas1b	Cdkal1	Foxp3	Mapk8ip1	Gck	Capn10	Ptf1a	Foxc2	Retn	Hnf4a	Akt2	Ctla4	Ccr5	Neurod1	Slc30a8	Insr	Tcf7l2	Wfs1	Gcgr	Hnf1b	Hnf1a	Irs1	Irs2	Slc2a2	Slc2a4	Lipc	Glis3	Zfp57	Enpp1	Sumo2	Plagl1	Igf2bp2	Mbl2
+diabetes mellitus, type 1	OMIM_Disease	Oas1b	Foxp3	Hnf1a	Il2ra	Itpr3	Ptpn22	Sumo2	Ctla4	Ccr5
+diabetes mellitus, type 2	OMIM_Disease	Slc30a8	Insr	Tcf7l2	Kcnj11	Abcc8	Wfs1	Gcgr	Pax4	Hnf1b	Cdkal1	Mapk8ip1	Gck	Capn10	Hnf1a	Gpd2	Pparg	Irs1	Irs2	Slc2a2	Retn	Slc2a4	Lipc	Enpp1	Hnf4a	Ucp3	Igf2bp2	Akt2	Neurod1
+disorder of glycosylation	OMIM_Disease	Alg9	B4galt1	Cog8	Cog7	Slc35c1	Alg8	Slc35a1	Alg6	Alg3	Alg1	Cog1	Rtf1	Alg12	Alg2	Dpm1	Rft1	Mpdu1
+dystonia	OMIM_Disease	Gch1	Slc2a1	Atp1a3	Thap1	Taf1	Actb	Sgce	Spr	Scp2	Prkra	Drd2	Drd5
+ectodermal dysplasia	OMIM_Disease	Edaradd	Nfkbia	Cdh3	Gjb6	Ikbkg	Gm49425	Pkp1	Edar	Trp63
+ehlers-danlos	OMIM_Disease	Col1a2	Col1a1	Col3a1	Col5a2	Tnxb	Adamts2	Col5a1	Slc39a13	B4galt7
+encephalopathy	OMIM_Disease	Ranbp2	Stxbp1	Cdkl5	Gldc	Arx	Amt	Gcsh	Mecp2	Mapk10	Ethe1	Serpini1	Cox10	Dnm1l	Slc19a3
+epidermolysis bullosa	OMIM_Disease	Dsp	Col17a1	Cd151	Gm5478	Lama3	Mmp1a	Lamb3	Itgb4	Krt14	Lamc2	Itga6
+epilepsy	OMIM_Disease	Chrnb2	Epm2a	Gabra1	Strada	Oprm1	Syn1	Efhc1	Nhlrc1	Arhgef9	Chrna2	Gabrb3	Chrna4	Cntnap2	Jrk	Srpx2	Me2	Lgi1	Atp6ap2	Kctd7	Gabrg2	Aldh7a1	Cacnb4	Kcnma1	Kcnq2	Kcnq3	Cstb	Arx	Prickle1	Cln8	Pcdh19	Clcn2	Cacna1h	Slc25a22	Polg	Scn1a	Scn1b
+fanconi anemia	OMIM_Disease	Fanci	Fancm	Fanca	Brca2	Fancc	Fancf	Palb2	Fance	Brip1	Fancd2
+fibrosis	OMIM_Disease	Phox2a	Tgfb1	AI182371	Tert	Kif21a	Sftpa1	Cftr
+gastric cancer	OMIM_Disease	Il1b	Il1rn	Irf1	Apc	Klf6	Pik3ca	Cdh1	Erbb2	Mutyh	Fgfr2
+glaucoma	OMIM_Disease	Foxc1	Wdr36	Lmx1b	Opa1	Cyp1b1	Myoc	Optn
+glycogen storage disease	OMIM_Disease	Agl	Gaa	Gbe1	Prkag2	Pygl	Gys1	Gys2	Pfkm	Lamp2	Phkg2	Slc17a3	Slc37a4
+hypertension	OMIM_Disease	Ptgis	Nos3	Agt	Cps1	Gnb3	Agtr1b	Pnmt	Bmpr2	Acsm3	Npr3	Ece1	Retn	Cyp3a13	Nr3c2	Hsd11b2	Add1	Kcnmb1
+hypogonadism	OMIM_Disease	Lhcgr	Chd7	Tacr3	Lep	Fgfr1	Gnrhr	Kiss1r	Lepr	Tac2	Gnrh1	Prok2	Slc29a3
+hypothyroidism	OMIM_Disease	Duox2	Tg	Pax8	Nkx2-1	Ctla4	Slc5a5	Glis3	Tshb	Tshr
+ichthyosis	OMIM_Disease	Krt1	Flg	St14	Krt2	Cyp4f39	Krt10	Cldn1	Sts	Tgm1	Abca12	Gjb2	Snap29
+immunodeficiency	OMIM_Disease	Stat5b	Aicda	Sp110	Dnmt3c	Foxn1	Il2	Nfkbia	Ptprc	Cd247	Ada	Il7r	Dclre1c	Tnfrsf13b	Cd3g	Il2rg	Ung	Cd3e	Cd3d	Cd79b	Rac2	Ikbkg	Nhej1	Rag1	Rag2
+inflammatory bowel disease	OMIM_Disease	Abcb1a	Irf5	Atg16l1
+lateral sclerosis	OMIM_Disease	Dctn1	Sod1	Fig4	Setx	Vapb	Als2	Chmp2b	Ang	Nefh	Prph	Tardbp	Trpm7
+leber amaurosis	OMIM_Disease	Gucy2e	Rd3	Crb1	Crx	Lca5	Rpe65	Spata7	Rpgrip1	Impdh1	Rdh12	Aipl1	Cep290
+leigh syndrome	OMIM_Disease	Surf1	Pdha1	Ndufa2	Bcs1l	Lrpprc	Sdha	Ndufs8	Ndufs7	Ndufs4	Ndufs3	Cox15	Dld	Ndufv1
+leukemia	OMIM_Disease	Lmo2	Lmo1	Pdgfrb	Rbm15	Nup214	Zbtb16	Dek	Runx1	Acsl6	Ptpn11	Arhgap26	Mlf1	Etv6	Pml	Irf1	Nup98	Tal2	Tal1	Bcl3	Atm	Bax	Bcl2	Nf1	Hoxd4	Rara	Chic2	Rap1gds1	Gmps	Brca2	Myb	Nsd1	Arhgef12	Nqo1	Stat5b	Arnt	Pbx1	Bcr	Kit	Setbp1	Tlx1	Tcf3	Cebpa	Notch1	Flt3	Cbfb	Numa1	Ikzf1	Lpp	Gata1	Lyl1	Tcl1b3	Tcl1	Abl2	Abl1	Sh3gl1	Jak2
+long qt syndrome	OMIM_Disease	Kcne1	Kcne2	Cav3	Kcnq1	Akap9	Cacna1c	Scn5a	Scn4b	Alg10b	Ank2	Kcnj2	Kcnh2
+lung cancer	OMIM_Disease	Chrna3	Chrna5	Mpo	Braf	Dlec1	Egfr	Irf1	Rassf1	Casp8	Cyp2a12	Pik3ca	Ppp2r1b	Ercc6	Map3k8
+lymphoma	OMIM_Disease	Il21r	Bcl10	Pax5	Prf1	Rad54b	Malt1	Tcl1b3	Tcl1	Bcl6	Bcl7a	Rad54l	Myc	Bcl3	Atm	Bcl2	Mad1l1
+macular degeneration	OMIM_Disease	Abca4	Cx3cr1	Htra1	C2	Rpgr	C3	Fbln5	Cst10	Cngb3	Apoe	Ercc6	Hmcn1	Tlr4	Cfb	Tlr3
+malaria	OMIM_Disease	Cr1l	Gypa	Gypc	Slc4a1	Tirap	Tnf	Icam1	Fcgr3	Cd36
+melanoma	OMIM_Disease	Xrcc3	Braf	Stk11	Mc1r	Cdk4	Snai2	Nf1
+mental retardation	OMIM_Disease	Kirrel3	Crbn	Zbtb16	Ube2a	Upf3b	Acsl4	Huwe1	Slc9a6	Agtr2	Brwd3	Zfp78	Satb2	Tusc3	Ctnnd2	Fgd1	Srpx2	Pak3	Atp6ap2	Ammecr1	Cask	Ftsj1	Igf1	Dlg3	Il1rapl1	Gnas	Sms	Cdh15	Mcph1	Gria3	Arx	Dock8	Pcdh19	Sox3	Ap1s2	Shroom4	Prss12	Cul4b	Cc2d1a	Arhgef6	Kcnk9	Pomt1	Grik2	Vldlr	Mecp2	Magt1	Igbp1	Mbd5	Atrx	Zdhhc15	Gdi1	Zdhhc9	Phf8	Hsd17b10	Rps6ka3	Ophn1	Dip2b
+microcephaly	OMIM_Disease	Arfgef2	Stil	Cask	Aspm	Mycs	Slc25a19	Cdk5rap2	Nhej1	Mcph1
+microphthalmia	OMIM_Disease	Rax	Cryba4	Hccs	Bmp4	Mfrp	Shh	Snx3	Sox2	Six6	Otx2	Bcor	Stra6
+migraine	OMIM_Disease	Cacna1a	Tnf	Atp1a2	Esr1	Ednra	Scn1a
+muscular dystrophy	OMIM_Disease	Fkrp	Cav3	Col6a1	Col6a3	Col6a2	Tcap	Trim32	Myf6	Lama2	Pomt1	Dysf	Ttn	Lmna	Sgcg	Sgcd	Sgcb	Pabpn1	Sgca	Capn3	Emd	Dmd	Fktn
+myocardial infarction	OMIM_Disease	Ace	Esr1	Lrp8	F7	Psma6	Thbd	Gclc	Lgals2	Tnfsf4	Lta	Apoe	Gclm	Olr1
+myopathy	OMIM_Disease	Cav3	Pgam2	Tpm3-rs7	Pus1	Tpm2	Neb	Dnm2	Des	Acta1	Col6a1	Tnnt1	Bin1	Col6a3	Col6a2	Itga7	Cryab	Gne	Myh7	Pnpla2	Cntn1	Myf6	Ryr1	Vcp	Fhl4	Dysf	Mtmr14	Atp2a1	Ldb3	Ttn	Mtm1	Cpt2	Cfl2	Flnc
+myopia	OMIM_Disease	Col2a1
+neuropathy	OMIM_Disease	Egr2	Slc12a6	Gp1ba	Gjb1	Gan	Gjb3	Wnk1	Tdp1	Pmp22	Bscl2	Dhh	Ctdp1	Hspb8	Dctn1	Hspb1	Elavl4	Sptlc1	Prx	Mpz	Scp2	Mfn2	Polg	Snap29	Cct5
+obesity	OMIM_Disease	Ntrk2	Nr0b2	Mc3r	Pomc	Lep	Pparg	Ghrl	Agrp	Sim1	Fto	Pcsk1	Sdc3	Ucp2	Ucp1	Adrb2	Adrb3	Enpp1	Mc4r	Ucp3	Lepr	Ppargc1b
+orofacial cleft	OMIM_Disease	Satb2	Mthfr	Mtr	L1cam	Bmp4	Sumo1	Ubb	Cdh1	Tbx22	Hoxa2	Irf6	Msx1	Trp63
+osteoporosis	OMIM_Disease	Col1a2	Col1a1	Calcr	Vdr	Calca	Slc34a1	Lrp5
+ovarian cancer	OMIM_Disease	Ctnnb1	Brca1	Brca2	Pik3ca	Cdh1	Erbb2	Rras2	Akt1	Opcml
+pancreatic cancer	OMIM_Disease	Stk11	Palld	Brca2	Rbbp8	Acvr1b	Trp53
+parkinson disease	OMIM_Disease	Tbp	Prkn	Adh1	Atp13a2	Lrrk2	Dbh	Htra2	Gigyf2	Nr4a2	Pink1	Sncaip	Uchl1	Mapt	Fgf20	Fbxo7	Drd4	Ndufv2	Snca
+prostate cancer	OMIM_Disease	Msr1	Zfhx3	Elac2	Ar	Ehbp1	Klf6	Mad1l1	Hip1	Rnasel	Cd82	Brca2	Mxi1	Chek2	Ephb2	Msmb
+psoriasis	OMIM_Disease	Il23r	2410137M14Rik
+retinitis pigmentosa	OMIM_Disease	Sema4a	Rom1	Ush2a	Mertk	Mfrp	Aipl1	Nrl	Prcd	Spata7	Car4	Cnga1	Abca4	Rpe65	Topors	Prpf8	Rp2	Rp1	Impdh1	Fscn2	Prpf31	Sag	Rp9	Rgr	Cngb1	Cerkl	Crb1	Crx	Nr2e3	Tulp1	Rpgr	Rho	Pde6b	Pde6a	Prom1	Idh3b
+rheumatoid arthritis	OMIM_Disease	Slc22a4	Il10	Nfkbil1	Stat4	Mif	Runx1	Ptpn22	Il6	Padi4	Cd244a
+schizophrenia	OMIM_Disease	Mthfr	Dtnbp1	Nrg1	Syn2	Dao	Chi3l1	Rtn4r	Chrna7	Htr2a	Comt	Akt1	Disc1	Apol7e	Drd3	Prodh
+skin/hair/eye pigmentation	OMIM_Disease	Oca2	Slc24a2	Mc1r	Slc24a5	Kitl	Herc2	Slc45a2	a	Tyr	Tpcn2
+spastic paraplegia	OMIM_Disease	Slc33a1	Nipa1	Cyp7b1	Zfyve26	Reep1	Plp1	Pnpla6	Bscl2	Hspd1	Kif5a	Spast	Zfyve27	Spg11	Cct5
+spinocerebellar ataxia	OMIM_Disease	Plekhg4	Tbp	Prkcg	Atxn10	Tdp1	Fgf14	Kcnc3	Cacna1a	Syne1	Ppp2r2b	Ttbk2	Itpr1	Atxn2	Atxn7	Atxn1	Polg	Sptbn2
+stature	OMIM_Disease	Gh	Ghr	Lhx4	Ghsr
+systemic lupus erythematosus	OMIM_Disease	Cr1l	Cr2	Stat4	Cd4	Fcgr3	Bank1	Dnase1	Irf5	Pdcd1	Tlr5	Ptpn22	Itgam	C4b	Fcgr4	Trex1
+thrombophilia	OMIM_Disease	Fgb	Thbd	Fgg	Pros1	Plat	Plg	Hrg	F5
+thyroid carcinoma	OMIM_Disease	Ret	Ntrk1	Ndufa13	Ncoa4	Tshr	Minpp1	Nras	Golga5	Pcm1	Prkar1a	Hras	Trim33	Trim24
+usher syndrome	OMIM_Disease	Whrn	Cdh23	Pcdh15	Myo7a	Ush2a	Ush1c
+zellweger syndrome	OMIM_Disease	Abcd3	Pex5	Pex1	Pex10	Pex3	Pex13	Acaa1b	Pex14	Pex26	Pex16

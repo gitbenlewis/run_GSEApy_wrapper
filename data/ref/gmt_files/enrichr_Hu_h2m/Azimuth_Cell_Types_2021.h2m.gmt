@@ -1,0 +1,341 @@
+AXL+ Dendritic Cell CL0000451	Azimuth_Cell_Types_2021	Ppp1r14a	Clec4b1	Sct	Axl	Scn9a	Lgmn	Dnase1l3	Gas6	Lilra5
+AXL+ Myeloid Dendritic Cell CL0000782	Azimuth_Cell_Types_2021	Ppp1r14a	Clec4b1	Sct	Ltk	Axl	Scn9a	Lgmn	Gas6	Lilra5
+AXL+ Plasmacytoid Dendritic Cell CL0000784	Azimuth_Cell_Types_2021	Lrrc26	Clec4b1	Sct	Ltk	Axl	Scn9a	Ephb1	Dnase1l3	Lilra5
+Acinar CL0002064	Azimuth_Cell_Types_2021	Cela3b	Reg1	Try4	Cpa1	Clps	Ctrb1	Reg3a
+Activated Stellate CL0002410	Azimuth_Cell_Types_2021	Col1a2	Col1a1	Lum	Sfrp2	Col3a1	Col6a3	Timp3	Bgn	Timp1	Cthrc1
+Adventitial Fibroblast CL0000057	Azimuth_Cell_Types_2021	Ccdc80	Sfrp2	Igfbp6	Pik3r1	Lama2	Scara5	Fbln1	Usp53	C3	Dcn
+Airway Smooth Muscle UBERON0004225	Azimuth_Cell_Types_2021	Pln	Acta2	Rergl	Tpm2	Dstn	Flna	Kcnab1	Casq2	Myl9	Myh11
+Alpha Islet Cell CL0000171	Azimuth_Cell_Types_2021	Ttr	Pcsk2	Gpx3	Ppp1r1a	Tm4sf4	Cryba2	Gc	Gcg	Mafb	Pemt
+Alveolar Epithelial Type 1 CL0002062	Azimuth_Cell_Types_2021	Gprc5a	Scel	Lama3	Arhgef26	Dst	Rtkn2	Emp2	Spock2	Lmo7	Ager
+Alveolar Epithelial Type 2 CL0002063	Azimuth_Cell_Types_2021	Sftpb	Abca3	Sftpc	Napsa	Sftpd	Slc34a2	Lpcat1	Cldn1	Gprc5a	Map7d1	Sftpa1
+Alveolar Fibroblast CL0000057	Azimuth_Cell_Types_2021	Cfd	Lum	Aoc3	C7	Adh1	Scn7a	Rarres2	Gpc3	A2m	Myh10
+Artery UBERON0001637	Azimuth_Cell_Types_2021	Efnb2	Epas1	Hey1	Ptprb	Gja5	Sema3g	Bmx	Dkk2	Arglu1	Fbln5
+Astrocyte 1 CL0000127	Azimuth_Cell_Types_2021	Rasl12	Slc14a1	Gja1	Id3	Angptl4	Gfap	Agt	Aqp4	Fgfr3
+Astrocyte 2 CL0000127	Azimuth_Cell_Types_2021	Gja1	Slco1c1	Gjb6	Sdc4	Nfatc4	Slc1a3	Apoe	Prodh	Fgfr3
+Astrocyte CL0000127	Azimuth_Cell_Types_2021	Cst10	Adgrv1	Col5a3	Slc1a2	Slc1a3	Gpc5	Hpse2	Aqp4	Arhgap24
+B CL0000236	Azimuth_Cell_Types_2021	Blk	Cd79b	Cd79a	Adam28	Vpreb3	Bank1	Sp100	Ms4a1	Cd22
+B Cell CL0000785	Azimuth_Cell_Types_2021	Ighm	Cd79b	Cd74	Cd79a	Mef2c	Bank1	Tnfrsf13c	Ms4a1	Ralgps2
+Basal CL0000646	Azimuth_Cell_Types_2021	Gm5478	Dst	Lamb3	S100a2	Fhl2	Itga2	Cldn1	Tns1	Krt19	Ccnd2	Krt17	Krt15	Perp	Sfn
+Basophil/Mast 1 CL0000766	Azimuth_Cell_Types_2021	Cpa3	Hpgds	Gnptab	Kit	Kif13b	Rgs13	Hipk2	Ms4a2	Slc18a2	Tpsb2
+Basophil/Mast 2 CL0000766	Azimuth_Cell_Types_2021	Srgn	Gpr65	Tnfrsf9	Areg	Cd69	Gata2	Tpsb2	Birc3	Icam1	Kdm6b
+Basophil/Mast CL0000766	Azimuth_Cell_Types_2021	Cpa3	Hpgds	Kit	Hdc	Grap2	Gata2	Ms4a2	Tpsb2	Cd44	AW551984
+Beta Islet Cell CL0000169	Azimuth_Cell_Types_2021	Adcyap1	Gsn	Iapp	Nptx2	Ins1	Dlk1	G6pc2	Hadh
+Bronchial Vessel 1 CL0002328	Azimuth_Cell_Types_2021	Postn	Emcn	Plvap	Col15a1	Vwf	Enpp2	Sparcl1	Inhbb	Spry1
+Bronchial Vessel 2 CL0002328	Azimuth_Cell_Types_2021	Socs3	Rgcc	Itprip	Lpar6	Arid5a	Sox17	Emp1	Esam	Cd200	Tm4sf1
+Bronchial Vessel CL0002328	Azimuth_Cell_Types_2021	Postn	Emcn	Plvap	Col15a1	Vwf	Enpp2	Sparcl1	Inhbb	Spry1
+CD14+ Monocyte CL0002057	Azimuth_Cell_Types_2021	Csf3r	G0s2	Lyz3	Ctss	Il1b	Vcan	Ms4a6d	Cd300e	Cd14	Mettl9	Ctsd	S100a9	Fcnb	S100a8
+CD16+ Monocyte CL0002396	Azimuth_Cell_Types_2021	Lst1	Ms4a7	Ifitm1	Tcf7l2	Cdkn1c	Ybx1	Nap1l1	Aif1	Sat1	Rhoc	Fcgr4	Ptprc	Rps19	Cotl1	Fcer1g	Ier5	Fcnb
+CD4 T CL0000624	Azimuth_Cell_Types_2021	Lef1	Cd2	Bcl11b	Cd6	Mal	Camk4	Trat1	Itk	Il7r
+CD4+ Central Memory T 1 CL0000897	Azimuth_Cell_Types_2021	Fyb1	Ap3m2	Cd4	Mal	Tshz2	Ltb	Lims1	Il7r
+CD4+ Central Memory T 2 CL0000897	Azimuth_Cell_Types_2021	Maf	Cdca7	Cd28	Cd27	Ctla4	Itm2a	Tmsb10b
+CD4+ Central Memory T 3 CL0000897	Azimuth_Cell_Types_2021	Itgb1	Pde4d	Ltb	S100a4	Aqp3	Tnfrsf4	Tob1	Hopx	Il7r
+CD4+ Central Memory T CL0000897	Azimuth_Cell_Types_2021	Itgb1	Ldhb	Cd4	Mal	Ltb	Aqp3	Tmsb10b	Il7r
+CD4+ Cytotoxic T CL0000934	Azimuth_Cell_Types_2021	Itgb1	Gzma	Nkg7	Gzmf	Cst7	Cd4	Ccl5	S100a4	B2m	Il7r
+CD4+ Effector Memory T 1 CL0001044	Azimuth_Cell_Types_2021	Gzmk	Itgb1	Dusp2	Ccl5	Gzma	Klrb1	B2m	Il7r	Syne2
+CD4+ Effector Memory T 2 CL0001044	Azimuth_Cell_Types_2021	Gzmk	Cd4	Cd3g	Cd40lg	Cd3e	Tigit	Cd3d
+CD4+ Effector Memory T 3 CL0001044	Azimuth_Cell_Types_2021	Itga4	Ccl5	Ltb	Nosip	Klrb1	Aqp3	Il7r	Serinc5
+CD4+ Effector Memory T 4 CL0001044	Azimuth_Cell_Types_2021	Kdf1	Odf2l	Ccr9	Klrb1	Cd40lg	Slc4a4	Cd244a	Dpp4	Il7r
+CD4+ Effector Memory T CL0001044	Azimuth_Cell_Types_2021	Fyb1	Gzmk	Ccl5	Gzma	Ltb	Klrb1	Aqp3	Il7r
+CD4+ Memory/Effector T CL0000624	Azimuth_Cell_Types_2021	Cd2	Cd96	Ptprc	Gpr171	Pdcd4	Cd3e	Cd3d	Itk	Il7r
+CD4+ Naive T CL0000895	Azimuth_Cell_Types_2021	Lef1	Atf7ip2	Gm5150	Tshz2	Nosip	Fhit	Ldhb	Cd4	Il23a	Pik3ip1	Mal	Ltb	Saraf	Tcf7	Nucb2	Trat1	Tsr1	Ccr7	Il7r
+CD4+ Proliferating T CL0000896	Azimuth_Cell_Types_2021	Rrm2	Top2a	Mki67	Tyms	Zwint	Aspm	Cenpf	Tpx2	Pttg1	Birc5	Cenpm	Nusap1	Pclaf
+CD4+ T Cell CL0000624	Azimuth_Cell_Types_2021	Ldhb	Cd4	Mal	Ltb	Cd3g	Tmsb10b	Cd3d	Il7r
+CD56-bright Natural Killer CL0000938	Azimuth_Cell_Types_2021	Spink2	Tnfrsf11a	Ncam1	Xcl1	Ppp1r9a	Gzmk	Il2rb	Gpr183	Sell	Klrc2	Sptssb	Trdc	Fcer1g	Cd44
+CD56-dim Natural Killer 1 CL0000939	Azimuth_Cell_Types_2021	Lgals1	Gzmc	Nkg7	Prf1	Clec2m	S100a4	Cd3e	Cst7
+CD56-dim Natural Killer 2 CL0000939	Azimuth_Cell_Types_2021	Spon2	Gzmc	Nkg7	Prf1	Igfbp7	Klrb1	B2m	Fcer1g	Cst7
+CD56-dim Natural Killer 3 CL0000939	Azimuth_Cell_Types_2021	Il2rb	Ccl5	Cmc1	Klrd1	Xcl1	Klrc2	Klrb1	Trdc	Syne2
+CD56-dim Natural Killer 4 CL0000939	Azimuth_Cell_Types_2021	Gzmk	Il2rb	Xcl1	Sell	Tcf7	Klrc2	Sptssb	Trdc
+CD56-dim Natural Killer CL0000939	Azimuth_Cell_Types_2021	Spon2	Gzmc	Nkg7	Prf1	Trdc	Fcer1g	Tyrobp
+CD8 T CL0000625	Azimuth_Cell_Types_2021	Cd8b1	Cd8a	Ccl5	Gzma	Rpl34	Nkg7	Cd3g	Gzmf	Cd3d
+CD8+ Central Memory T 1 CL0000909	Azimuth_Cell_Types_2021	Itgb1	Nell2	Cd8b1	Dusp2	Cd8a	Ccl5	Sell	Lyar	Il7r
+CD8+ Central Memory T 2 CL0000909	Azimuth_Cell_Types_2021	Inpp4b	Krt1	Cd8b1	Cd8a	Ltb	Ybx3	Ctsw	Gata3	Il7r
+CD8+ Central Memory T 3 CL0000909	Azimuth_Cell_Types_2021	Cd8b1	Scml4	Cd8a	Ccl5	Klrd1	Klrb1	Hopx	Il7r
+CD8+ Central Memory T CL0000909	Azimuth_Cell_Types_2021	Krt1	Nell2	Anxa1	Ldhb	Cd8b1	Cd8a	Ybx3	Il7r
+CD8+ Effector Memory T 1 CL0001050	Azimuth_Cell_Types_2021	Gzmk	Cd8b1	Dusp2	Cd8a	Ccl5	Nkg7	Cst7
+CD8+ Effector Memory T 2 CL0001050	Azimuth_Cell_Types_2021	Cd8b1	Cd160	Cd8a	Ccl5	Cmc1	Klrd1	Gzmf	Cst7	Tigit	Klrg1
+CD8+ Effector Memory T 3 CL0001050	Azimuth_Cell_Types_2021	Gzmk	Itgb1	Cd8b1	Cd8a	Ccl5	Nkg7	Klrd1	Ybx3	Hopx
+CD8+ Effector Memory T 4 CL0001050	Azimuth_Cell_Types_2021	Cd2	Itgb1	Cd8b1	Cd8a	Gzmc	Klrd1	Themis	Gzmf
+CD8+ Effector Memory T 5 CL0001050	Azimuth_Cell_Types_2021	Trgv6	Cd8b1	Cd8a	Gzmc	Clec2m	Gzmf	Tyrobp
+CD8+ Effector Memory T 6 CL0001050	Azimuth_Cell_Types_2021	Trgv6	Cd8b1	Dusp2	Cd8a	Rtkn2	Ikzf2	Clec2m
+CD8+ Effector Memory T CL0001050	Azimuth_Cell_Types_2021	Gzmk	Trgv6	Cd8b1	Cd8a	Ccl5	Nkg7	Klrd1	Gzmf	Cst7
+CD8+ Memory/Effector T CL0000625	Azimuth_Cell_Types_2021	Dusp2	Cd8a	Ccl5	Rpl34	Nkg7	Cd3e	Cst7	Tc2n	Il7r
+CD8+ Naive T 2 CL0000900	Azimuth_Cell_Types_2021	Lef1	Sox4	Cd8b1	Lrrn3	Cd8a	Gm5150	Tnfrsf9	Cd38	Ccr5
+CD8+ Naive T CL0000900	Azimuth_Cell_Types_2021	Lef1	Itgb1	Oxnad1	Crtam	Gzmc	Gzma	Nkg7	Nosip	S100b	Cd3e	Cd3d	Cd2	Ldhb	Lgals1	Cd8b1	Cd8a	Ccl5	Id2	Tcf7	Vim	Rgs10	Ccr7	Clic3
+CD8+ Proliferating T CL0000906	Azimuth_Cell_Types_2021	Rrm2	Chek1	Clspn	Cd8b1	Tk1	Cd3g	Mki67	Pclaf	Tyms	Cd3d
+CD8+ T Cell CL0000625	Azimuth_Cell_Types_2021	Cd8b1	Cd8a	Hcst	Cd3g	Ctsw	Tmsb10b	Cd3e	Cd3d
+Capillary Aerocyte CL0002144	Azimuth_Cell_Types_2021	App	Tbx2	Cldn5	Ednrb	Emcn	Prx	Hpgd	Sostdc1	Esam	Stxbp6	Cyp3a13
+Capillary Intermediate 1 CL0002144	Azimuth_Cell_Types_2021	Cnn3	Edn1	Cldn5	Ednrb	Tmem204	Hpgd	Vwf	Aqp1	H2-T24
+Capillary Intermediate 2 CL0002144	Azimuth_Cell_Types_2021	Wwtr1	Epas1	Ywhab	Rala	Galnt18	Pecam1	Sh3bp5	Arhgap29	Srsf11	Vat1
+Capillary Intermediate CL0002144	Azimuth_Cell_Types_2021	Wwtr1	Acvrl1	Epas1	Rala	Galnt18	Pecam1	Sh3bp5	Ipo7	Srsf11	Vat1
+Capillary UBERON0001982	Azimuth_Cell_Types_2021	Btnl9	Epas1	Ramp3	Atp6v0b	Cd81	Cdh5	Thbd	Podxl	Flnb	Nostrin	Cdc42ep1	Il7r
+Chandelier Neuron CL0000617	Azimuth_Cell_Types_2021	Adamts5	Pthlh	Npnt	Htr1f	Nog	Col15a1	Plekhh2	Srgap1
+Ciliated CL0000064	Azimuth_Cell_Types_2021	Fank1	Dnah6	Ms4a8a	Sntn	Cdhr3	Slco3a1	Ccdc170	Zmynd10	Rsph1
+Classical Monocyte CL0000860	Azimuth_Cell_Types_2021	Myo1f	Vcan	Sell	Fpr1	Ifi205	S100a9	Fcnb	S100a8	Zfp36l2
+Club CL0000158	Azimuth_Cell_Types_2021	Sftpb	Pigr	Dstn	Scgb3a2	Wfdc2	Ctse	Cyb5a
+Conventional Dendritic Cell 1 CL0002394	Azimuth_Cell_Types_2021	Xcr1	Batf3	Flt3	Cadm1	Clec9a	Ndrg2	Tspan33	Enpp1	Clnk	Wdfy4	Dnase1l3	Ido1
+Conventional Dendritic Cell 2 1 CL0002399	Azimuth_Cell_Types_2021	Pid1	Fcgr3	Mrc1	Clec10a	Fcer1a	Cd14	Il13ra1	Ctss	Enho
+Conventional Dendritic Cell 2 2 CL0002399	Azimuth_Cell_Types_2021	Cd74	Basp1	Clec10a	Fcer1a	Pld4	Enho
+Conventional Dendritic Cell 2 CL0002399	Azimuth_Cell_Types_2021	Gsn	Slc38a1	Clec10a	Fcer1a	Ndrg2	Pld4	Aff3	Enho
+Cycling CL0008024	Azimuth_Cell_Types_2021	Ccnb2	Cdca3	Ube2c	Top2a	Birc5	Cdk1	Pbk	Mki67	Cdkn3	Cdc20
+Delta Islet Cell CL0000173	Azimuth_Cell_Types_2021	Mdk	Pcsk1	Serpina1c	Sst	Rbp4	Rgs2	Lepr	Sec11c	Ly6h
+Dendritic CL0000451	Azimuth_Cell_Types_2021	H2-DMb1	Ms4a6d	Fcgr3	Rgs1	Clec10a	Gpr183	Csf2ra
+Dendritic Cell CL0000451	Azimuth_Cell_Types_2021	Cst10	Ccdc88a	Cd74	H2-Ab1	H2-Ea	H2-DMa	H2-Eb2
+Differentiating Basal CL0000646	Azimuth_Cell_Types_2021	Krt19	Xbp1	Bag1	Pla2g10	Perp	Rab25	Gpr87	Krt7	Aqp3	Prom2
+Double-negative T 1 CL0000935	Azimuth_Cell_Types_2021	Lef1	Gzmk	Ldhb	Cd8b1	Gpr183	Tcf7	Nucb2	Lyar
+Double-negative T 2 CL0000935	Azimuth_Cell_Types_2021	Gzmk	Myb	Cav1	Fxyd2	Gpr183	Fgfr1	Nucb2	Cd27
+Double-negative T CL0000935	Azimuth_Cell_Types_2021	Dthd1	Gzmk	Myb	Cav1	Fxyd2	Gzma	Nucb2	Ptpn3
+Ductal CL0002079	Azimuth_Cell_Types_2021	Mmp7	Serpina1c	Krt19	Anxa4	Serping1	Lcn2	Krt7	Igfbp7	Spp1	Cftr
+EREG+ Dendritic CL0000451	Azimuth_Cell_Types_2021	Rab31	Mxd1	Gpr183	H2-Ea	Plaur	Areg	Csf2ra	Ereg
+Endothelial CL0000115	Azimuth_Cell_Types_2021	Esm1	Cldn5	Gng11	Rgcc	Plvap	Mmp1a	Serpine1	Stc1	Pecam1	Eng
+Endothelial Cell CL0000115	Azimuth_Cell_Types_2021	Lef1	Ebf1	Fli1	H2-T24	Clec3b	Cldn5	Emcn	Id3	Xaf1	Abcg3	Adgrl4
+Epsilon Islet Cell CL0005019	Azimuth_Cell_Types_2021	Bhmt1b	Olfml3	Vstm2l	Anxa13	Asgr1	Ghrl	Tm4sf5
+Erythroid Cell CL0000764	Azimuth_Cell_Types_2021	Alas2	Car1	Ifit1bl2	Trim58	Slc4a1	Tmcc2	Ahsp	Snca	Selenbp1
+FEZF2+ ASGR2+ Layer 3-5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Or51e2	Lingo2	Sema6d	Erg	Rasal2	Gfra1	Sorcs1	Fezf2	Asgr2
+FEZF2+ C9orf135-AS1+ Layer 5-6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Sema5a	Lrrtm4	Sema3e	Prkd1	Hs3st4	Fezf2	Ralyl	Opcml
+FEZF2+ CFTR+ Layer 5-6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Nr4a2	Calcrl	Epb41l4a	Mctp2	Erg	Fezf2	Cldn1	Cftr
+FEZF2+ CSN1S1+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Kcng2	Kcnip1	Angpt1	Neto1	Pappa	Csn1s1	Sulf2	Fezf2	Grm1
+FEZF2+ FFAR4+ Layer 6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Ffar4	Olfml2b	Fezf2	Slc15a5
+FEZF2+ FILIP1L+ Layer 5-6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Calcrl	Sema5a	Sema3e	Aldoa	Fezf2	Filip1l
+FEZF2+ IFNG-AS1+ Layer 5-6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Pcdh11x	Htr2c	Kcnq5	Nrxn3	Cd36	Fezf2	Dgki
+FEZF2+ KLK7+ Layer 6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Sdk1	Mctp2	Zfhx3	Sema3d	Mdfic	Chn2	Fezf2	Asic2	Klk7
+FEZF2+ LINC01107+ Layer 3-5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Or51e2	Btnl9	Ednrb	Adgrg6	Pcdh11x	Sgcz	Fezf2	Vwc2l
+FEZF2+ LPO+ Layer 5-6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Calcrl	Alcam	Pced1b	Gadl1	Lpo	Fezf2
+FEZF2+ NREP-AS1+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Nwd2	Mast4	Gpc5	Cd36	Adamts12	Fezf2	Grik1
+FEZF2+ OR1L8+ Layer 5-6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Syt6	Etl4	Mctp2	Kcnc2	Ctnnd2	Rbm20	Fezf2	Plxdc2	Sulf1
+FEZF2+ PDYN+ Layer 6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Syt6	Cabp7	Sema3d	Erg	Fezf2	Pdyn	Slc15a5
+FEZF2+ PKD2L1+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Robo3	Trpm3	Pde1a	Pkd2l1	Gpc5	Fezf2	Ralyl	Npsr1
+FEZF2+ POGK+ Layer 6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Chrm2	Npffr2	Sema3d	Mgat4c	Pogk	Cdc14a	Kcnk2	Fezf2	Plcxd3
+FEZF2+ PROKR2+ Layer 6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Prokr2	Vcan	Fezf2	Slc15a5
+FEZF2+ RNF144A-AS1+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Gpc6	Cd36	Fezf2	Grik1	Lrrc4c	Npsr1
+FEZF2+ SH2D1B+ Layer 5-6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Ddr2	Ddx3y	Sema5a	Sema3e	Usp9y	Sh2d1b2	Dchs2	Fezf2
+FGFR3+ AQP1+ Layer 1-6 Astrocyte CL0000127	Azimuth_Cell_Types_2021	Rasl12	Gja1	Adamtsl3	Angptl4	Tnc	Gfap	Aqp1	Fgfr3
+FGFR3+ PLCG1+ Layer 1-6 Astrocyte CL0000127	Azimuth_Cell_Types_2021	Gja1	Slco1c1	Col5a3	Plcg1	Hpse2	Ndrg2	Prodh	Etnppl	Fgfr3	Plcb1
+FGFR3+ SERPINI2+ Layer 1 Astrocyte CL0000127	Azimuth_Cell_Types_2021	Grm3	Gja1	Id3	Tmem132c	Pde4d	Ctnna2	Serpini2	Gfap	Etnppl	Fgfr3
+Fibroblast CL0000057	Azimuth_Cell_Types_2021	Ablim1	Cfd	C1rb	Lum	C1s1	Adh1	Slit2	Fbln1	C3	Dcn
+Fibromyocyte CL0000192	Azimuth_Cell_Types_2021	Scx	Hspb3	Clu	Igf1	Mylk	Cnn1	Scube1	Csdc2	Csrp1	Met	Ramp1	Tbc1d10a	Pdlim7
+GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Grip1	Maf	Kcnc2	Gad2	Gad1	Nhs	Kazn	Slc6a1	Tcf4	Rbms3
+Gamma Islet Cell CL0002275	Azimuth_Cell_Types_2021	Meis2	Id2	Etv1	Ppy	Aqp3	Cartpt	Prss23	Tubb2a
+Gamma-Delta T 1 CL0000798	Azimuth_Cell_Types_2021	Dusp2	Klrd1	Klrc2	Trdc	Trgv6	Klrg1	Il7r
+Gamma-Delta T 2 CL0000798	Azimuth_Cell_Types_2021	Trav15n-1	Klrc2	Cd3g	Clec2m	Trdc	Gzmf	Cd3d
+Gamma-Delta T 3 CL0000798	Azimuth_Cell_Types_2021	Lef1	Sox4	Trgv6	Crtam	Rtkn2	Arid5b	Nucb2	Ikzf2	Trdc
+Gamma-Delta T 4 CL0000798	Azimuth_Cell_Types_2021	Trgv6	Trav15n-1	Cmc1	Gcsam	Ikzf2	Clec2m	Trdc	Cst7	Tigit
+Gamma-Delta T CL0000798	Azimuth_Cell_Types_2021	Trgv6	Cd7	Nkg7	Klrd1	Klrc2	Trdc	Klrg1
+Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Nell2	Khdrbs3	Ldb2	Celf2	Satb2	Sv2b	Chn1	Phactr1	Ralyl	Kalrn
+Goblet CL0000160	Azimuth_Cell_Types_2021	Cox5a	Gabrp	Psca	Txn1	Wfdc2	C3	Cxcl17	Lcn2	Sbpl	Agr2	Fam3d	Clic1	Msmb
+Hematopoietic Stem And Progenitor Cell CL0008001	Azimuth_Cell_Types_2021	Ankrd28	Egfl7	Spink2	Gata2	Prss57	Sox4	Laptm4b	Cdk6	Myb	Avp	Cytl1	Cd34	Smim24
+IGSF21+ Dendritic CL0000451	Azimuth_Cell_Types_2021	Ctsb	Maf	C1qa	Fcgr3	Ms4a6d	F13a1	Stab1	Lgmn	Folr2
+Immune CL0000738	Azimuth_Cell_Types_2021	C1qc	Sds	C1qb	Srgn	Acp5	H2-Ea	Laptm5	Apoe	Fcer1g	Tyrobp
+Innate Lymphoid Cell CL0001065	Azimuth_Cell_Types_2021	Il1r1	Ttll10	Gata3	Tyrobp	Hpgds	Sox4	Kit	Il2ra	Tnfrsf18	Klrb1	Trdc	Fcer1g	Tnfrsf4
+Intermediate B Cell CL0000785	Azimuth_Cell_Types_2021	Ighm	Cd79b	Aim2	Cd79a	Bank1	Tnfrsf13b	Ms4a1	Ralgps2
+Intermediate B Cell, Kappa Light Chain CL0000785	Azimuth_Cell_Types_2021	Ighm	Marcks	Bank1	Tnfrsf13b	Igkc	Cd24a	Ms4a1
+Intermediate B Cell, Lambda Light Chain CL0000785	Azimuth_Cell_Types_2021	Ighm	Cd79a	Bank1	Tnfrsf13c	Tnfrsf13b	Iglc3	Ms4a1	Cd22
+Intermediate Monocyte CL0002393	Azimuth_Cell_Types_2021	Fgr	Trabd	Mfng	Cotl1	Aif1	Bach1	Fcnb
+Ionocyte CL0005006	Azimuth_Cell_Types_2021	Bik	Foxi1	Hepacam2	Ascl3	Tmem61	Tmprss11e	Stac2	Bsnd	Mfsd6l	Tff3	Smim11	Psmg1	Atp6v1b1
+LAMP5+ AARD+ Layer 1-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lamp5	Prelid2	Kit	Eya4	Cdh13	Pip5k1b	Pkp2	Ror2	Aard	Lrp1b
+LAMP5+ BMP2+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lamp5	Rbfox1	Reln	Bmp2	Npnt	Syt1	Ndnf	Cxcl14	Alk	Pbx1
+LAMP5+ CA1+ Layer 1-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lamp5	Car1	Car8	Nos1	Hs3st4	Sfrp1	Tac1	Opcml	Prkg1
+LAMP5+ CARM1P1+ Layer 3 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Moxd1	Ryr2	Lamp5	Sv2c	Syt2	Fmn1	Slc38a11	Plxdc2	Bmpr1b
+LAMP5+ CRABP1+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lamp5	Pdgfra	Prelid2	Col25a1	Crabp1	Kcnip4	Frem2	Sfrp1	Fbn2
+LAMP5+ KCNG3+ Layer 2 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Kcng3	Lamp5	Lingo2	Spon1	Palmd	Sema3c	Pard3	Adra1a	Grm1
+LAMP5+ NES+ Layer 1-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lamp5	Ccbe1	Meis2	Pdgfra	Kit	Eya4	Kcnmb2	Nes	Ror2
+LAMP5+ NMBR+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Epha6	Magi2	Lamp5	Prelid2	Npnt	Ndnf	Pde4b	Nmbr	Cxcl14	Pcdh18
+LAMP5+ PVRL2+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Unc13c	Lamp5	Tmem132d	Reln	Kit	Clstn2	Pcdh9	Ndnf	Myh11
+LAMP5+ RAB11FIP1+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lamp5	Rab11fip1	Reln	Kit	Cdh11	Cacna2d1	Adamts20	Myh11	Cdh9
+LINC00507+ ATP7B+ Layer 2 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Chrm2	Sema5a	Bdnf	Rasal1	Itgb8	Acvr1c	Atp7b	Kcnk2
+LINC00507+ DSG3+ Layer 2-3 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Adcyap1	Sv2c	Bdnf	Serpine2	Nox4	Dsg3	Dlgap1	Bmpr1b	Cbln2
+LINC00507+ GLRA3+ Layer 2 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Etl4	Glra3	Lrrtm4	Dgkb	Enc1	Dmd	Man1a	Slit3
+Lamp5+ GABAergic Neuron 1 CL0000617	Azimuth_Cell_Types_2021	Unc13c	Lamp5	Tmem132d	Clstn2	Fat1	Pcdh9	Ndnf	Cplx3	Myh11
+Lamp5+ GABAergic Neuron 2 CL0000617	Azimuth_Cell_Types_2021	Hapln1	Lamp5	Ntng1	Kit	Pkp2	Ncam2	Nxph2	Tox	Ptprg	Fbxl7
+Lamp5+ GABAergic Neuron 3 CL0000617	Azimuth_Cell_Types_2021	Chst9	Lamp5	Pdgfra	Eya4	Pdgfd	Itga8	Unc5d	Sorcs1	Sfrp1
+Lamp5+ GABAergic Neuron 4 CL0000617	Azimuth_Cell_Types_2021	Lamp5	Myo16	Sphkap	Ntf3	Cdh23	Nxph1	Sp8	Tgfbr2	Alk
+Lamp5+ GABAergic Neuron 5 CL0000617	Azimuth_Cell_Types_2021	Epha6	Lamp5	Alcam	Col5a2	Fat1	Ndnf	Nmbr	Cxcl14	Hs6st3	Bmp6
+Lamp5+ GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lamp5	Myo16	Prelid2	Reln	Ptprt	Eya4	Ptchd4	Fgf13	Gria4	Fbxl7
+Layer 2-3 Glutamatergic Neuron, Intratelencephalon-Projecting CL0000679	Azimuth_Cell_Types_2021	Epha6	Car10	Lama2	Rasgrf2	Gnal	Etl4	Meis2	Cux2	Dab1	Lrrtm4	Pdzd2	Enc1	Cntn5	Cbln2
+Layer 5 Glutamatergic Neuron, Extratelencephalon-Projecting 1 CL0000679	Azimuth_Cell_Types_2021	Or51e2	Sema6d	St6galnac3	Sorcs1
+Layer 5 Glutamatergic Neuron, Extratelencephalon-Projecting 2 CL0000679	Azimuth_Cell_Types_2021	Btnl9	Trappc3l	Ednrb	Hbb-y	Pcdh11x	Sgcz	Cdh8	Vwc2l
+Layer 5 Glutamatergic Neuron, Extratelencephalon-Projecting CL0000679	Azimuth_Cell_Types_2021	Nrp1	Col5a2	Slc35f3	Homer1	Nrg1	Vat1l	Cbln2
+Layer 5 Glutamatergic Neuron, Intratelencephalon-Projecting 1 CL0000679	Azimuth_Cell_Types_2021	Sema6d	Dcc	Alcam	Cux1	Plch1	Rorb	Trhde	Pou6f2
+Layer 5 Glutamatergic Neuron, Intratelencephalon-Projecting 2 CL0000679	Azimuth_Cell_Types_2021	Lrrk1	Pde1c	Dnah6	Chn2	Prune2	Arsj	Pcdh7	Tmsb10b	Fstl4
+Layer 5 Glutamatergic Neuron, Intratelencephalon-Projecting 3 CL0000679	Azimuth_Cell_Types_2021	Csgalnact1	Hs3st3b1	Tnnt2	Ccdc85a	Crh	Rorb	Hes1	Pdzrn3	Arhgap15	Drd5
+Layer 5 Glutamatergic Neuron, Intratelencephalon-Projecting CL0000679	Azimuth_Cell_Types_2021	Cadps2	Chn2	Il1rapl2	Cpne4	Rorb	Cntn5	Tox	Fstl5	Fstl4	Pou6f2
+Layer 5-6 Glutamatergic Neuron, Near-Projecting CL0000679	Azimuth_Cell_Types_2021	Tle4	Calcrl	Luzp2	Tshz2	Htr2c	Cdh6	Etl4	Itga8	Cpne4	Nxph2	Tll1	Crym	Asic2	Cbln2	Pde9a
+Layer 6 Car3+ Glutamatergic Neuron, Intratelencephalon-Projecting CL0000679	Azimuth_Cell_Types_2021	Ntng2	Nr4a2	Postn	Kcnmb2	B3gat2	Rnf152	Themis	Olfml2b	Stk32b	Gas2l3
+Layer 6 Glutamatergic Neuron, Corticothalamic-Projecting 1 CL0000679	Azimuth_Cell_Types_2021	Kl	Syt6	Sema5a	Spon1	Vwa2	Abo	Lgr6	Astn2
+Layer 6 Glutamatergic Neuron, Corticothalamic-Projecting 2 CL0000679	Azimuth_Cell_Types_2021	Adamtsl1	Il4ra	Erbb4	Sh2d1b2	Prkd1	Zfp804b	Vwa2	Dchs2	Abo	Robo2
+Layer 6 Glutamatergic Neuron, Corticothalamic-Projecting CL0000679	Azimuth_Cell_Types_2021	Adamtsl1	Etl4	Trpm3	Meis2	Sema5a	Sema3e	Sorcs1	Hs3st4	Tox
+Layer 6 Glutamatergic Neuron, Intratelencephalon-Projecting 1 CL0000679	Azimuth_Cell_Types_2021	Frmd6	Meis2	Tenm3	Ttc6	Rasgrf2	Cdh13	Sec24d
+Layer 6 Glutamatergic Neuron, Intratelencephalon-Projecting 2 CL0000679	Azimuth_Cell_Types_2021	Adamts16	Myo1d	Pxdn	Tshz2	Pde1a	Sh2d1b2	Cntn5	Edil3	Ano3
+Layer 6 Glutamatergic Neuron, Intratelencephalon-Projecting 3 CL0000679	Azimuth_Cell_Types_2021	Nr4a2	Prlr	Slc24a4	Kcnmb2	Rnf152	Rgs12	Olfml2b	Gas2l3	Smyd1
+Layer 6 Glutamatergic Neuron, Intratelencephalon-Projecting CL0000679	Azimuth_Cell_Types_2021	Mlip	Cdh12	Cdh13	Ptprk	Themis	Pdzrn4	Cdh9	Fstl5	Cbln2
+Layer 6B Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Tle4	Mctp2	Zfhx3	Sema3d	Ntm	Hs3st4	Cdh9	Foxp2	Etl4	Mdfic	Kcnmb2	Arsj	Gria4
+Lipofibroblast CL0000057	Azimuth_Cell_Types_2021	Ccdc71l	Osr1	Ppa1	Dmkn	Medag	C3	Fgf7	Wt1	C7	Has1	Cpxm1	Steap1
+Lymphatic UBERON0001473	Azimuth_Cell_Types_2021	Tbx1	Ccl21a	Mmrn1	Prox1	Timp3	Tff3	Pkhd1l1	Igfbp7	Ppfibp1	Tfpi
+Macrophage CL0000235	Azimuth_Cell_Types_2021	Msr1	C1qb	Cyp27a1	Slco2b1	C1qa	Marco	Apoc1	Gpd1	Acp5	Itgax	Vsig4	Olr1
+Memory B Cell CL0000787	Azimuth_Cell_Types_2021	Aim2	Cd79a	Bank1	Tnfrsf13c	Tex9	Sspn	Ms4a1	Ralgps2	Coch
+Memory B Cell, Kappa Light Chain CL0000787	Azimuth_Cell_Types_2021	Cd79a	Bank1	Tnfrsf13c	Igkc	Sspn	Ms4a1	Ralgps2
+Memory B Cell, Lambda Light Chain CL0000787	Azimuth_Cell_Types_2021	Blk	Bank1	Tnfrsf13c	Tnfrsf13b	Iglc3	Igha	Ms4a1	Coch
+Memory Regulatory T CL0000815	Azimuth_Cell_Types_2021	Rtkn2	Ctla4	Ikzf2	S100a4	B2m	Tigit	Foxp3
+Mesothelial CL0000077	Azimuth_Cell_Types_2021	C1s1	Gfpt2	Dmkn	Prg4	C3	Itln1	Wt1	Aldh1a3	Slpi	Serping1	Mgarp	Dsc3	Galnt9
+Microglia / Perivascular Macrophage CL0000881	Azimuth_Cell_Types_2021	Csf1r	Apbb1ip	Slco2b1	Ptprc	P2ry12	Tbxas1	Cx3cr1	Dock8	Blnk
+Monocyte CL0000576	Azimuth_Cell_Types_2021	Serpina1c	Psap	Ifi205	Aif1	Tyrobp	Lyz3	S100a9	Ctss	Fcnb
+Mucosal Associated Invariant T CL0000940	Azimuth_Cell_Types_2021	Cebpd	Dusp2	Gzma	Cxcr6	Nkg7	Ctsw	Slc4a10	Prss35	Gzmk	Klrb1	Rbm24	Klrg1	Il7r
+Mucous CL0000319	Azimuth_Cell_Types_2021	Bpifb1	Rarres1	Muc5b	Scgb1a1	Scgb3a1	Slpi	Lcn2	Wfdc2	Msmb
+Myeloid Dendritic Type 1 CL0000782	Azimuth_Cell_Types_2021	Gsn	Ccl22	Id2	Txn1	Fscn1	Ccr7	Csf2ra	Birc3	Dapp1
+Myeloid Dendritic Type 2 CL0000782	Azimuth_Cell_Types_2021	Pkib	H2-Ab1	H2-Ea	Fcer1a	Il2rg
+Myofibroblast CL0000186	Azimuth_Cell_Types_2021	Postn	Col12a1	Bgn	Ltbp1	Col1a2	Aspn	Col1a1	Col3a1	Cald1	Col6a3	Itgbl1	Tgfbi	Cthrc1
+NOSTRIN+ SRGN+ Layer 2-5 Endothelial Cell CL0000115	Azimuth_Cell_Types_2021	Lef1	Cldn5	Emcn	Srgn	Ebf1	Nostrin	Fli1	Abcg3	H2-T24
+Naive B Cell CL0000788	Azimuth_Cell_Types_2021	Ighm	Cd79b	Cd79a	Il4ra	Tcl1	Btg1	Cxcr4	Ybx3	Ms4a1
+Naive B Cell, Kappa Light Chain CL0000788	Azimuth_Cell_Types_2021	Ighm	Cd79a	Il4ra	Tcl1	Igkc	Cd37	Ms4a1
+Naive B Cell, Lambda Light Chain CL0000788	Azimuth_Cell_Types_2021	Ighm	Cd79b	Cd79a	Il4ra	Tcl1	Cxcr4	Iglc3	Ms4a1
+Naive Regulatory T CL0000815	Azimuth_Cell_Types_2021	Lef1	Ldhb	Cd4	Il2ra	Rtkn2	Ccr7	Foxp3	Tomm7
+Natural Killer CL0000623	Azimuth_Cell_Types_2021	Fcgr4	Spon2	Gzmc	Sh2d1b2	Txk	Nkg7	Klrd1	Prf1	Cd247
+Natural Killer Cell CL0000623	Azimuth_Cell_Types_2021	Gzmc	Nkg7	Klrd1	Prf1	Cd247	Fcer1g	Tyrobp	Cst7
+Natural Killer T CL0000814	Azimuth_Cell_Types_2021	Cd2	Cebpb	Dusp4	Cd7	Lgals1	Cxcr4	Ccl5	S100a6	Ctsw	Zfp36l2
+Neuroendocrine CL0000165	Azimuth_Cell_Types_2021	Egr1	Scgn	Chga	Bex2	Cpe	Prdx2	Nenf	Sec11c	Pcsk1n
+Non-neuronal Cell CL0000548	Azimuth_Cell_Types_2021	Nckap5	Phlpp1	Cdh20	Pde4b	Ppp2r2b	Dock1	Map4k4	Zbtb20	Ptgds	Qki
+Nonclassical Monocyte CL0000875	Azimuth_Cell_Types_2021	Lst1	Fcgr4	Spn	Naaa	Lypd2	Cotl1	Aif1	Bid	Ctss
+OLR1+ Classical Monocyte CL0000860	Azimuth_Cell_Types_2021	Il1b	Srgn	Ccl20	G0s2	Cxcl1	Ereg	Sod2
+OPALIN+ ENPP6+ Layer 3-6 Oligodendrocyte CL0000128	Azimuth_Cell_Types_2021	Col18a1	Rbfox1	Opalin	Rasgrf1	Mog	Col4a5	Carns1	S100b	Enpp6	Ush1c
+OPALIN+ FTH1P3+ Layer 2-6 Oligodendrocyte CL0000128	Azimuth_Cell_Types_2021	St18	Opalin	Nlgn1	Enpp2	Plp1	Ank3	Frmd4b	Rnf220	Plxdc2
+OPALIN+ LDLRAP1+ Layer 5-6 Oligodendrocyte CL0000128	Azimuth_Cell_Types_2021	St18	Opalin	Nlgn1	Enpp2	Plp1	Ank3	Frmd4b	Ldlrap1	Rnf220	Plxdc2
+OPALIN+ LRP4-AS1+ Layer 3-6 Oligodendrocyte CL0000128	Azimuth_Cell_Types_2021	Nkain3	Ryr3	Gja1	Opalin	Slc1a2	Trim59	Fgfr3
+OPALIN+ MAP6D1+ Layer 2-6 Oligodendrocyte CL0000128	Azimuth_Cell_Types_2021	St18	Ugt8a	Folh1	Opalin	Mog	Slco1a8	Map6d1	Abca8b	Lpar1
+Oligodendrocyte 1 CL0000128	Azimuth_Cell_Types_2021	Col18a1	Rbfox1	Folh1	Rasgrf1	Mog	Col4a5	Carns1	Abca8b	S100b	Ush1c
+Oligodendrocyte 2 CL0000128	Azimuth_Cell_Types_2021	Dock5	Ugt8a	Opalin	Nlgn1	Cercam	Enpp2	Plp1	Bcas1	Plxdc2
+Oligodendrocyte CL0000128	Azimuth_Cell_Types_2021	St18	Nckap5	Slc44a1	Enpp2	Plp1	Ctnna3	Mbp	Mobp	Rnf220	Qki
+Oligodendrocyte Precursor Cell CL0002453	Azimuth_Cell_Types_2021	Gpr17	Zcchc24	Bche	Pdgfra	Gpr37l1	Olig1	Olig2	Snx22	Fermt1	Vcan	Nkain4	Stk32a	Smoc1	Col9a1	Col20a1	Bcas1
+Other T Cell CL0002419	Azimuth_Cell_Types_2021	Gzmk	Trgv6	Gzma	Nkg7	Klrb1	Trdc	Cst7	Cd3d	Klrg1	Lyar
+PAX6+ CHRFAM7A+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Cntnap4	Limch1	Zmat4	Ndnf	Chrna7	Pax6	Cxcl14	Fstl5
+PAX6+ FREM2+ Layer 2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Pclo	Yjefn3	Dock8	Nr1h4	Pde3a	Slc17a8	Igfbp7	Pax6	Frem2	Grik1
+PAX6+ LINC01497+ Layer 3-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Scgn	Tmem132d	Eya1	Kcnip4	Palmd	Pax6	Tns3
+PAX6+ MIR101-1+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Sphkap	Cdh23	Mir101a	Gpc3	Zfp804a	Pax6	Sp8	Pdzrn4	Tgfbr2	Alk
+PDGFRA+ COL20A1+ Layer 1-6 Oligodendrocyte Precursor Cell CL0002453	Azimuth_Cell_Types_2021	Vcan	Pdgfra	Nkain4	Gpr37l1	Col9a1	Olig1	Olig2	Snx22	Col20a1
+PDGFRA+ COLEC12+ Layer 1-5 Vascular Lepotomeningeal Cell CL2000043	Azimuth_Cell_Types_2021	Col1a2	Colec12	Itih5	Pdgfra	Srpx2	C7	Mfap4	Col6a2	Fmo2	Tbx18
+PVALB+ CDK20+ Layer 1-2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Fgd5	Nrp2	Kcnt2	Cdk20	Ndst4	Syt10	Myo5b	Sytl5	Tac1	Pvalb
+PVALB+ COL15A1+ Layer 1-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Adamts5	Cntnap4	Pthlh	Npnt	Htr1f	Col15a1	Fstl5	Gulp1	Pvalb
+PVALB+ FAM150B+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ankrd34b	Palmd	Gpr149	Tmem200a	Gpc5	Mybpc1	Pdzrn4	Samd3	Pvalb
+PVALB+ FRZB+ Layer 2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Crhbp	Frzb	Arhgap42	Myo5b	Pvalb
+PVALB+ GAPDHP60+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Bche	Kirrel3	Wif1	Ncam2	Mybpc1	Cdh9	Pvalb	Wnt16
+PVALB+ HHIPL1+ Layer 2-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Postn	Adamts20	Mepe	Gpr149	Plekhg1	Tac1	Hhipl1	Epha3	Pou6f2	Pvalb
+PVALB+ ISG20+ Layer 3-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Rnf144b	Isg20	Postn	Grm8	Phactr2	Sulf1	Epha4	Rbms3	Pvalb
+PVALB+ KCNIP2+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Npffr2	Kcnip2	Wif1	Thsd7b	Lypd6	Sorcs3	Gulp1	Pawr	Cdh8	Pvalb
+PVALB+ LRIG3+ Layer 5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Rit2	Hgf	Mepe	Plce1	Gpr149	Tmtc2	Lhfpl3	Lrig3	Robo1	Pvalb
+PVALB+ MEPE+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ankrd34b	Cped1	Mctp1	Pcdh9	Galntl6	Mepe	Mybpc1	Prkg1	Pvalb	Wnt16
+PVALB+ RPH3AL+ Layer 2-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Adamts17	Msra	Rnf144b	Rph3al	Bcl11a	Myo5b	Lrp1b	Pvalb
+PVALB+ SAMD13+ Layer 3 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Rnf144b	Postn	Homer3	Phactr2	Samd13	Sulf1	Tac1	Tox	Epha3	Pvalb
+PVALB+ SST ASIC4+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Efemp1	Adam33	Ndnf	Rxrg	Pvalb
+PVALB+ SST CRHR2+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Adamts17	Cntnap4	Ghr	Flt1	Hpgd	Dgkb	Fam89a	Tac1	Pvalb
+PVALB+ ZFPM2-AS1+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Postn	Sema6d	Wif1	Pcdh15	Grik2	Tmtc2	Lypd6	Sulf1	Pvalb
+Pericyte CL0000669	Azimuth_Cell_Types_2021	Pdgfrb	Col4a1	Nid1	Cald1	Col4a2	Cox4i2	Chn1	Ptn	Lamc3	Lamb1	Kcnk3	Tacc1
+Plasma CL0000786	Azimuth_Cell_Types_2021	Prdx4	Xbp1	Ssr4	Manf	Tnfrsf17	Derl3	Pou2af1	Sec11c	Hsp90b1	Mzb1
+Plasma Cell CL0000786	Azimuth_Cell_Types_2021	Cd79a	Tnfrsf17	Txndc11	Txndc5	Derl3	Pou2af1	Itm2c	Jchain	Igha	Mzb1
+Plasmablast CL0000980	Azimuth_Cell_Types_2021	Rrm2	Knl1	Cpne5	Tnfrsf13b	Derl3	Pou2af1	Shcbp1	Tyms	Aspm	Nt5dc2	Tpx2	Birc5	Tk1	Tnfrsf17	Txndc5	Igha	Mzb1
+Plasmacytoid Dendritic CL0000784	Azimuth_Cell_Types_2021	Ptpre	Ppp1r14b	Smpd3	Irf4	Npc2	Gzmc	Sec61b	Irf7	Tyrobp	Pld4
+Plasmacytoid Dendritic Cell CL0000784	Azimuth_Cell_Types_2021	Tpm2	Lilra5	Pld4	Smpd3	Ugcg	Spib	Irf4	Irf8	Serpinf1	Irf7	Tcf4	Ccdc50	Itm2c	Mzb1
+Platelet CL0000233	Azimuth_Cell_Types_2021	Rgs18	Gng11	Cavin2	F13a1	Prkar2b	Ppbp	Tubb1	Clu	Gp9	Nrgn
+Platelet/Megakaryocyte CL0000763	Azimuth_Cell_Types_2021	Cmtm5	Cabp5	Itga2b	Tmem40	Tubb1	Grap2	Gp6	Acrbp	Gp9
+Proliferating Basal CL0000646	Azimuth_Cell_Types_2021	Cenpe	Cenpf	Tpx2	Nmu	Pttg1	Top2a	Birc5	Ckap2	Hmgb2	Mki67
+Proliferating Macrophage CL0000235	Azimuth_Cell_Types_2021	Anln	Tpx2	Rheb	Ube2c	Stmn1	Birc5	Cdk1	Nusap1	Tyms	Kpna2
+Proliferating NK/T CL0000542	Azimuth_Cell_Types_2021	Cenpf	Ube2c	Top2a	Birc5	Hmgb2	Kif2c	Nusap1	Smc4	Aurkb
+Proliferating Natural Killer CL0000623	Azimuth_Cell_Types_2021	Pcna	Top2a	Mki67	Tyrobp	Tyms	Smc2	Aspm	Clspn	Stmn1	Pclaf	Trdc	Cd247	Fcer1g
+Proximal Basal CL0000646	Azimuth_Cell_Types_2021	Serpinb3d	Serpinb13	Krt19	Gm5478	Perp	Tspan8	Clca2	Susd4	Adh7	Clca4b
+Proximal Ciliated CL0000064	Azimuth_Cell_Types_2021	Akap14	Mrpl41	Ucp2	Calml4	Cd24a
+Pvalb+ GABAergic Neuron 1 CL0000617	Azimuth_Cell_Types_2021	Adamts17	Rnf144b	Cntnap3	Dpp10	Tenm4	Tmem132c	Thsd7b	Gulp1	Pvalb
+Pvalb+ GABAergic Neuron 2 CL0000617	Azimuth_Cell_Types_2021	Ankrd34b	Trpc6	Palmd	Gabrg1	Gpr149	Mybpc1	Shisa8	Pvalb	Wnt16
+Pvalb+ GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Adamts17	Sdk1	Dpp10	Myo16	Erbb4	Slit2	Zfp804a	Gria4	Pvalb
+Quiescent Stellate CL0002410	Azimuth_Cell_Types_2021	Rgs5	Fabp4	Gpx3	Csrp2	Igfbp4	Il24	Ndufa4l2	Esam
+RORB+ CCDC68+ Layer 2-3 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Lingo2	Vipr2	Ntng1	Ccdc68	Col5a2	Ptprz1	Cobll1	Rorb	Lrrc4c
+RORB+ LAMA4+ Layer 3-5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Dach1	Cux2	Plch1	Lama4	Trpc3	Il1rap	Rorb	Antxr2	Rora
+RORB+ LINC01202+ Layer 3-5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Htr1f	Tshz2	Il1rapl2	Tpbg	Pcdh7	Rorb	Hs3st4	Epha3
+RORB+ LNX2+ Layer 3-5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Cadps2	Rgs6	Lrrk1	Grm7	Chn2	Ntm	Lnx2	Col11a1
+RORB+ MED8+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Kcnh5	Npffr2	Il1rapl2	Lrrc7	Rorb	Rxfp1	Fnbp1l	Med8
+RORB+ OTOGL+ Layer 3 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Dpp10	Plch1	Tshz2	Cpne4	Ncam2	Rorb	Otogl
+RORB+ PTPN3+ Layer 2-3 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Pex5l	Gria1	Ntng1	Col5a2	Rorb	Gulp1	Ptpn3	Grm1	Pou6f2
+RORB+ RPRM+ Layer 3-5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Sema3e	Slc9a9	Mkx	Rorb	Sparcl1	Cck	Ipcef1	Rxfp1	Rprm	Fstl4
+RORB+ RTKN2+ Layer 2-3 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Epha6	Galnt13	Col5a2	Rtkn2	Rorb	Stxbp6	Zbtb7c	Robo1
+RORB+ TNNT2+ Layer 3-5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Lama2	Tnnt2	Tshz2	Fshr	Il1rapl2	Cpne4	Rorb	Themis	Utrn
+Regulatory T CL0000815	Azimuth_Cell_Types_2021	Cd4	Il2ra	Rtkn2	Ctla4	Ikzf2	Tigit	Foxp3
+SST+ BEAN1+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Dpp10	Bean1	Sst	Cdh10	Pcdh11x	Hgf	Klhl14	Thsd7b	Cdh9	Fbn2
+SST+ C4orf26+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lingo2	Pde1c	Hgf	Adamts20	Klhl14	Plxdc2	Dcn	Fbn2	Pcdh17
+SST+ CCNJL+ Layer 1-2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ccnjl	Cmtm8	Calb1	Sst	Alcam	Erbb4	Tmem132c	Myo5b	Dkk2	Alk
+SST+ CDH3+ Layer 3-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ednra	Postn	Gda	Sst	Cdh3	Igfbp5	Qrfpr	Otof
+SST+ CLIC6+ Layer 1-2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Cmtm8	Clic6	Nkain2	Sst	Ndst4	Nedd4	Sgcz	Sytl5	Tac1	Fbn2
+SST+ DEFB108B+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Sst	Synpr	Cpe	Slc10a4-ps	Syt10	Nr2f2	Thsd7a	Arpp21	Pcdh18	Defb22
+SST+ DNAJC14+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Itga1	Sst	Trpc5	Hgf	Plce1	Gpr149	Dnajc14	Ptprk	Fbn2	Lrrc4c
+SST+ FAM20A+ Layer 1-3 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lingo2	Sst	Kirrel3	Cdh12	Fam20a	Ncam2	Sytl5	Tac1	Sox6
+SST+ FBN2+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Sst	Mgat4c	Adamts20	Klhl14	Thsd7b	Efna5	Csmd1	Fbn2
+SST+ GGTLC3+ Layer 3-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ggt1	Sst	Nmu	Adgrg6	Mgat4c	Grik1	Robo1	Sox5	Epsti1
+SST+ ISX+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Cntnap4	Csgalnact1	Prex2	Trpm3	Sst	Grm7	Isx	Dkk2	Sox6
+SST+ KLHL1+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Unc13c	Ndst4	Adamts20	Adgrl2	Slc17a8	Klhl14	Robo1	Dcn	Klhl1	Sox6
+SST+ NMU+ Layer 2-3 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Myo16	Sst	Erbb4	Nmu	Myo5b	Piezo2	Nos1	Nxph1	Sox6
+SST+ NPY+ Layer 1-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Crhbp	Ankrd34b	Sst	Stac	Npy2r	Npy	Nos1	Otof
+SST+ OR5AH1P+ Layer 3-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Adamts5	Epha6	Ednra	Sst	Nmu	Pcdh9	Pawr	Pcsk5
+SST+ P4HA3+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Calcb	Sst	P4ha3	Adam33	Ndnf	Rxrg
+SST+ PAWR+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Sst	Ptprt	Alcam	Lrrtm4	Nmu	Ndst4	Galntl6	Tmcc3	Klhl14	Dcn
+SST+ PIK3CD+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Arhgap10	Sst	Lrfn5	Nmu	Negr1	Nlgn1	Adgrg6	Ndst4	Pik3cd	Klhl14
+SST+ PRRT4+ Layer 1-2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Arhgap10	Calb1	Prrt4	Sst	Penk	Hpgd	Itpr2	Pde4b	Stk32b	Zfp385b
+SST+ RPL35AP11+ Layer 5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ednra	Sst	Nmu	Grik2	Adcy2	Dmd	Grik1	Qrfpr	Pawr
+SST+ TH+ Layer 6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Sst	Rab3b	Th	Erbb4	Wif1	Klhl29	Gabrg1	Ptprk	Gpc5
+Schwann CL0002573	Azimuth_Cell_Types_2021	Ngfr	Sox2	S100a1	Ucn2	Plp1	Sox10	Cdh19	Tspan11	Tfap2a	Wnt16
+Serous CL0000313	Azimuth_Cell_Types_2021	Tescl	Sbpl	Lpo	Lyz3
+Signaling Alveolar Epithelial Type 2 CL0002063	Azimuth_Cell_Types_2021	Sftpb	Arc	Sftpc	Fabp5	Napsa	Slc34a2	Slpi	Sftpa1	Selenbp1
+Smooth Muscle CL0000192	Azimuth_Cell_Types_2021	Des	Pln	Acta2	Cnn1	Cald1	Csrp1	Tpm2	Dstn	Myl9	Myh11
+Sncg+ GABAergic Neuron 1 CL0000617	Azimuth_Cell_Types_2021	Prox1	Sncg	Hif3a	Chrna7	Dscam	Sorcs1	Sp8	Pde7b
+Sncg+ GABAergic Neuron 2 CL0000617	Azimuth_Cell_Types_2021	Pclo	Ryr2	Yjefn3	Cdh23	Dock8	Sncg	Slc17a8	Igfbp7	Arhgap6	Frem2
+Sncg+ GABAergic Neuron 3 CL0000617	Azimuth_Cell_Types_2021	Synpr	Plscr5	Ptprm	Sncg	Slitrk6	Vwa5b1	Hdac9	Htr3a	Grm1	Hgfac
+Sncg+ GABAergic Neuron 4 CL0000617	Azimuth_Cell_Types_2021	Synpr	Nr2f2	Sncg	Adam33	Ndnf	Thsd7a	Arpp21	Rxrg	Gng12
+Sncg+ GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Maml3	Cnr1	Sncg	Adarb2	Cntn5	Cxcl14	Slc8a1	Fstl5	Npas3	Asic2
+Sst+ Chodl+ GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ankrd34b	Dsp	Chodl	Stac	Npy2r	Crhbp	Sst	Npy	Aox1	Nos1	Otof
+Sst+ GABAergic Neuron 1 CL0000617	Azimuth_Cell_Types_2021	Grin3a	Ednra	Nell1	Sst	Flt3	Rcan3	Qrfpr	Cdh9	Pawr
+Sst+ GABAergic Neuron 2 CL0000617	Azimuth_Cell_Types_2021	Epha6	Sst	Tph2	Flt3	Nmu	Fam89a	Rcan3	Vwc2	Hs6st3	Htr4
+Sst+ GABAergic Neuron 3 CL0000617	Azimuth_Cell_Types_2021	Sst	Nmu	Zmat4	Thsd7a	Dkk2	Grik1	Elfn1	Epsti1
+Sst+ GABAergic Neuron 4 CL0000617	Azimuth_Cell_Types_2021	Sst	Pdcl2	Ptprd	Mpped2	Nmu	Grid2	Tmtc2	Klhl14
+Sst+ GABAergic Neuron 5 CL0000617	Azimuth_Cell_Types_2021	Itga1	Sst	Sema5a	Erbb4	Negr1	Hgf	Nxph1	Zfp536	Rnd3
+Sst+ GABAergic Neuron 6 CL0000617	Azimuth_Cell_Types_2021	Prex2	L3mbtl4	Sst	Mcam	Adamts20	Klhl14	Slc8a1	Dcn	Fbn2
+Sst+ GABAergic Neuron 7 CL0000617	Azimuth_Cell_Types_2021	Gabrq	Ptprc	Sema6a	Sst	Th	Sla	Cacna2d1	Layn	Trhde	Ralyl
+Sst+ GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Sst	Col25a1	Grid2	Nxph1	Trhde	Grik1	Ralyl	Slc8a1	St6galnac5	Sox6
+THEMIS+ ENPEP+ Layer 3 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Enpep	Etl4	Gap43	Ldb2	Fap	Lama2	Itpr2	Themis	Ppargc1a	Asic2
+THEMIS+ FGF10+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Rcan2	Nell1	Car10	Npffr2	Bdnf	Tespa1	Fgf10	Crh	Themis	Rxfp1
+THEMIS+ LINC00343+ Layer 6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Sema3a	Trpm3	Adamts3	Dchs2	Themis	Sec24d	Gulp1	Robo1
+THEMIS+ LINC01116+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Sema3e	Themis	Dpp4	Hcrtr2
+THEMIS+ RGPD6+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Ddr2	Trpc6	Sema5a	Sema3e	Rnf152	Themis
+THEMIS+ SLC22A18+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Epha6	Grin3a	Kcng2	Ccbe1	Slc22a18	Mkx	Ldlrad4	Themis	Hs3st2
+THEMIS+ SLN+ Layer 6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Frmd6	Arhgef28	Gbe1	Themis	Pde7b	Gria4
+THEMIS+ SMYD1+ Layer 5-6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Ntng2	Nr4a2	Sema6d	Abcc3	Kcnmb2	Tshz2	Themis	Edil3	Gas2l3	Smyd1
+THEMIS+ SNTG2+ Layer 6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Adamts3	Tenm4	Sntg2	Clstn2	Dchs2	Cntn5	Themis	Thsd7b	Edil3
+THEMIS+ TNFAIP6+ Layer 5-6 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Tshz2	Cdh12	Tnfaip6	Mkx	Spock1	Themis	Rxfp1	Cdh9	Hs3st2	Kctd16
+THEMIS+ VILL+ Layer 5 Glutamatergic Neuron CL0000679	Azimuth_Cell_Types_2021	Cdh6	Dach1	Nell1	Npffr2	Fap	Tnc	Vill	Themis	Lrp1b	Samd5
+TREM2+ Dendritic CL0000451	Azimuth_Cell_Types_2021	Chit1	Cstb	Pdxk	Apoc1	Pla2g2d	Slamf8	Apoe	Capg	Lilra5	Pla2g7
+TYROBP+ CD74+ Layer 1-6 Microglia CL0000129	Azimuth_Cell_Types_2021	Apbb1ip	Slco2b1	Cd74	Ptprc	P2ry12	Tbxas1	Cx3cr1	Dock8	Tyrobp
+VIP+ BSPRY+ Layer 2-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Chrna2	St18	Car10	Sfmbt2	Slc22a3	Rgs16	Pcdh7	Bspry	Vip	Shisa8
+VIP+ CBLN1+ Layer 1-3 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Cbln1	Slc22a3	Htr2c	Tac2	Vip	Shisa8	Sox5	Zbtb20
+VIP+ CD27-AS1+ Layer 1-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Calb2	Smoc1	Nr2e1	Fat3	Iqgap2	Zdhhc2	Tox	Vip	Klhl1
+VIP+ CHRNA2+ Layer 1-3 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Chrna2	Cntnap4	Dpp6	Calb2	Cdh20	Npr3	Lypd1	Ppp1r1c	Slc7a11	Vip
+VIP+ COL4A3+ Layer 5-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Unc13c	Vcan	Col4a3	Grm8	Npr3	Slc22a3	Abi3bp	Cbln4	Vip
+VIP+ EXPH5+ Layer 1-2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Lingo2	Flt1	Slc22a3	Exph5	Asic4	Vip	Shisa8	Asic2
+VIP+ FNDC1+ Layer 1-3 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Epha7	Adamts19	Npr3	Fndc1	Adam33	Prr16	Asic4	Vip	Shisa8
+VIP+ HS3ST3A1+ Layer 3-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Chrna2	Hs3st3a1	Unc13c	Pthlh	Grm8	Slc22a3	Cdh13	Iqgap2	Thsd7b	Vip
+VIP+ HSPB6+ Layer 1-3 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Pthlh	Sema6d	Hspb6	Slc22a3	Kcnq5	Cntn5	Tac2	Vip	Npas3	Shisa8
+VIP+ HTR3A+ Layer 1-2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Inpp4b	Ednra	Col4a4	Vwa5b1	Edil3	Rxfp1	Htr3a	Vip	Csmd1
+VIP+ IGDCC3+ Layer 3-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Gria1	Ptprd	Igdcc3	Necab1	Slc22a3	Iqgap2	Tac2	Anks1b	Vip	Ereg
+VIP+ KLHDC8B+ Layer 1 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Chrna2	Trpc7	Klhdc8b	Adam12	Ndnf	Gpc6	Cntn5	St6galnac5	Vip
+VIP+ LINC01013+ Layer 1-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Inpp4b	Ptgfr	Prelid2	Dab1	Nr2f2	Vip	Pcdh18
+VIP+ PHLDB3+ Layer 1-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Chrna2	Slc22a3	Tac2	Asic4	Phldb3	Vip
+VIP+ PTGER3+ Layer 1-2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ednra	Npr3	Ptger3	Nr2f2	Vip
+VIP+ SCML4+ Layer 1-2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Nell1	Calb2	Kcnh8	Scml4	Adamts19	Nr2f2	Col9a1	Slc6a11	Vip
+VIP+ SLC6A16+ Layer 2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Calb2	Npr3	Slc6a16	Nr2f2	Vip	Cdh8
+VIP+ SLC7A6OS+ Layer 1-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Slc7a6os	Rasgrf2	Pbx3	Trp53i11	Frem2	Pdlim5	Vip
+VIP+ SMOC1+ Layer 1-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Chrna2	Cnr1	Npr3	Slc22a3	Smoc1	Tac2	Shisa9	Vip	Gulp1	Lrp1b
+VIP+ SOX11+ Layer 2-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ptgfr	Calb2	Penk	Sox11	Vip	Pcdh18
+VIP+ TAC3+ Layer 3-5 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Slc22a3	Ppp1r1c	Arhgap18	Ncam2	Iqgap2	Nbea	Tac2	Vip
+VIP+ UG0898H09+ Layer 3-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Chrna2	Ptgfr	Vip	Pcdh18
+VIP+ WNT4+ Layer 1-2 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Necab2	Cnr1	Gabrg1	Nr2f2	Cck	Sorcs3	Vip	Robo1	Wnt4
+VIP+ ZIM2-AS1+ Layer 3-6 GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Ptgfr	Penk	Ror2	Vgll3	Vip
+Vascular Lepotomeningeal Cell CL2000043	Azimuth_Cell_Types_2021	Col1a2	Colec12	Itih5	Srpx2	C7	Foxd1	Mfap4	Col6a2	Ebf1	Flvcr2	Fmo2	Tbx18
+Vascular Smooth Muscle CL0000359	Azimuth_Cell_Types_2021	Rem1	Acta2	Cald1	Tagln	Nexn	Tpm1	Fstl1	Thy1	Myh11
+Vein UBERON0001638	Azimuth_Cell_Types_2021	Srpx	Tgm2	C7	Selp	Ackr1	Ptprb	Vwf	Cpe	Slco2a1	Lifr	Prss23	Pla1a
+Vip+ GABAergic Neuron 1 CL0000617	Azimuth_Cell_Types_2021	Cbln1	Klf12	Ryr3	Zmat4	Kcnip4	Rgs16	Gpr149	Asic4	Vip	Shisa8
+Vip+ GABAergic Neuron 2 CL0000617	Azimuth_Cell_Types_2021	Chrna2	Dcc	Calb2	Grin2a	Cdh20	Npr3	Nrxn1	Ppp1r1c	Tac2	Vip
+Vip+ GABAergic Neuron 3 CL0000617	Azimuth_Cell_Types_2021	Chrna2	Tmem132d	Fras1	Slc22a3	Ppp1r1c	Smoc1	Slit2	Tac2	Vip
+Vip+ GABAergic Neuron 4 CL0000617	Azimuth_Cell_Types_2021	Ptgfr	Csgalnact1	Pex5l	Calb2	Kcnc2	Penk	Vip	Adgrl3	Pcdh18
+Vip+ GABAergic Neuron CL0000617	Azimuth_Cell_Types_2021	Slc24a3	Synpr	Kcnt2	Erbb4	Grm7	Galntl6	Thsd7a	Adarb2	Vip	Lrp1b

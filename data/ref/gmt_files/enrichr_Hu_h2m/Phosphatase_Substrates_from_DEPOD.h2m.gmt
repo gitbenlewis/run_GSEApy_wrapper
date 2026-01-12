@@ -1,0 +1,59 @@
+ACP1	Phosphatase_Substrates_from_DEPOD	Pdgfrb	Insr	Src	Ctnnb1	Slc4a1	Egfr	Ptk2	Fabp4	Zap70	Fcgr3	Akt1	Kdr	Acp1	Lat	Stat5a
+BDP1	Phosphatase_Substrates_from_DEPOD	Pstpip1	Abl1	Fyn	Arhgap35
+CDC14A	Phosphatase_Substrates_from_DEPOD	Ireb2	Cdkn1b	Usp6nl	Incenp	Cdh1	Cdc25a	Kif23	Sirt2	Mapk6	Trp53	Cdc25b
+CDC14B	Phosphatase_Substrates_from_DEPOD	Cdh1	Cdc25a	Sirt2	Mapk6	Cdc25b	Trp53	Skp2	Cdc25c
+CDC25A	Phosphatase_Substrates_from_DEPOD	Cux1	Cdk4	Cdk2	Mapk3	Cdk1	Mapk1	Egfr	Raf1
+CTDSP1	Phosphatase_Substrates_from_DEPOD	Smad3	Smad2	Polr2a	Smad1
+CTDSPL	Phosphatase_Substrates_from_DEPOD	Smad3	Smad2	Rb1	Smad1	Camk2g
+DUPD1	Phosphatase_Substrates_from_DEPOD	Mapk3	Mapk1	Mapk14
+DUSP1	Phosphatase_Substrates_from_DEPOD	Mapk9	Mapk8	Mapk3	Mapk1	Mapk14
+DUSP10	Phosphatase_Substrates_from_DEPOD	Mapk9	Mapk8	Mapk14
+DUSP14	Phosphatase_Substrates_from_DEPOD	Mapk9	Mapk3	Mapk14
+DUSP22	Phosphatase_Substrates_from_DEPOD	Rbm39	Mapk8	Stat3	Mapk1	Mbp	Mapk14
+DUSP26	Phosphatase_Substrates_from_DEPOD	Kifap3	Trp53	Mapk14
+DUSP3	Phosphatase_Substrates_from_DEPOD	Pdgfrb	Insr	Csn2	Egfr	Mapk14	Mapk9	Mapk8	Erbb2	Mapk3	Mapk1	Csn1s1	Stat5a	Fgfr2
+DUSP4	Phosphatase_Substrates_from_DEPOD	Mapk9	Mapk3	Mapk1
+DUSP9	Phosphatase_Substrates_from_DEPOD	Mapk9	Mapk8	Mapk3	Mapk1	Mapk14
+PDP1	Phosphatase_Substrates_from_DEPOD	Pdha2	Pdha1	Smad1
+PDP2	Phosphatase_Substrates_from_DEPOD	Pdha2	Pdha1	Smad1
+PHLPP1	Phosphatase_Substrates_from_DEPOD	Akt3	Akt1	Akt2	Prkcb	Prkca	Stk4
+PHLPP2	Phosphatase_Substrates_from_DEPOD	Akt3	Akt1	Akt2	Prkcb	Prkca	Stk4
+PHPT1	Phosphatase_Substrates_from_DEPOD	Acly	Gnb1	Kcnn4
+PPM1A	Phosphatase_Substrates_from_DEPOD	Smad3	Map2k4	Smad2	Cetn1	Ripk4	Smad1	Msn	Axin1	Eef2	Cdc42bpb	Cdc42bpa	Mapk14	Ikbkb	Cdk9	Grm3	Pak2	Pak1	Pik3r1	Cdk6	Cdk2	Map2k6
+PPM1B	Phosphatase_Substrates_from_DEPOD	Ikbkb	Cdk9	Cetn1	Cdk6	Cetn2	Bad	Msn	Cdk2	Map3k7
+PPM1D	Phosphatase_Substrates_from_DEPOD	Chek1	Rps6ka3	Chek2	Atm	Ung	Trp53	Mapk14	Mdm2
+PPM1F	Phosphatase_Substrates_from_DEPOD	Pak1	Camk2a	Camk4	Camk1
+PPM1G	Phosphatase_Substrates_from_DEPOD	Coil	Smn1	Ddx20
+PPM1L	Phosphatase_Substrates_from_DEPOD	Map3k7	Map3k5
+PPP1CA	Phosphatase_Substrates_from_DEPOD	Nos3	Cad	Ripk4	Bad	Gad2	Eif2ak2	Gad1	Axin1	Pard3	Prkcb	Csnk1e	Prkca	Eif2s1	Ppp1ca	Ptk2	Cdc25c	Cdk9	Ncor1	Mapt	Smo	Atm	Ptpn7	Trp53	Raf1	Ahcyl1	Rb1	Pkd1	Ryr1	Camk2a	Aurka	Lmnb1	Ikzf1	Brca1	Stk3	Stk4	Casp9	Akt1	Cep250	Casp2	Tnni3	Mbp	Camk2g
+PPP2CA	Phosphatase_Substrates_from_DEPOD	Ripk4	Bad	Tubb5	Sphk1	Krt8	Axin1	Ppp2r5a	Mapk14	Cdk9	Elf1	Rbl1	Mapt	Mapkapk2	Vim	Cdk2	Atm	Camk4	Cdk1	Bax	Bcl2	Camk1	Il6st	Trp53	Bcar1	Raf1	Pnck	Rela	Bmpr2	Prkaa1	Stk3	Hspb1	Stk4	Pak1	Chek1	Racgap1	Akt3	Myc	Chek2	Akt1	Casp3	Map3k7	Snca	Prkg1	Smad3	Map2k4	Il33	Card11	Prkci	Plk1	Cad	Chuk	Map2k1	Smad1	Gad2	Gad1	Csnk1e	Prkcb	Pacs1	Traf2	Prkca	Eef2	Vasp	Creb1	Ppp1r1b	Smo	Rps6kb1	Cdk5r1	Mdm2	Cryaa	Itgb1	Src	Pkd1	Pxn	Camk2a	Camk2b	Hdac7	Ikbkb	Mapk8	Rps6ka3	Ppp1r8	Golga2	Rho	Mapk1	Mbp	Camk2g	Prkaca
+PPP3CA	Phosphatase_Substrates_from_DEPOD	Il33	Jun	Slc10a1	Ksr2	Bad	Gad2	Gad1	Nfatc2	Csnk1e	Ssh1	Dnm2	Vasp	Rcan1	Ppp1r1b	Mapt	Canx	Cryaa	Gsk3b	Elk1	Hspb1	Ppp1r8	Prkar2a	Flna	Dnm1l
+PPP4C	Phosphatase_Substrates_from_DEPOD	Rela	Hdac3	Map4k1	Rpa2	Ndel1
+PPP5C	Phosphatase_Substrates_from_DEPOD	Mapt	Bad	Cdc37	Mok	Csnk1e	Nr3c1	Map3k5	Raf1
+PPP6C	Phosphatase_Substrates_from_DEPOD	Aurka	Prkdc	Mbp	Map3k7
+PTEN	Phosphatase_Substrates_from_DEPOD	Pdgfrb	Creb1	Shc1	Ptk2
+PTP4A3	Phosphatase_Substrates_from_DEPOD	Itgb1	Stmn1	Ncl	Krt8	Ezr	Bcar1
+PTPN1	Phosphatase_Substrates_from_DEPOD	Stat5b	Rbm39	Ptpn1	Pdgfrb	Insr	Nsf	Stat3	Cav1	Actn1	Gab1	Ptpn11	Tyk2	Epor	Ptk2	Dok1	Nfkbia	Trpv6	Crk	Met	Stam2	Ptpn6	Epha3	Raf1	Bcar1	Lat	Src	Gsk3b	Irs1	Ctnnb1	Egfr	Igf1r	Ghr	Stat6	Plcg1	Jak2	Stat5a
+PTPN11	Phosphatase_Substrates_from_DEPOD	Stat5b	Pdgfrb	Map3k4	Src	Stat1	Irs1	Pxn	Gab2	Gab1	Sele	Egfr	Arhgap5	Gm5150	Ptk2b	Mpzl1	Kdr	Spry2	Spry1	Jak2	Pag1	Stat5a
+PTPN12	Phosphatase_Substrates_from_DEPOD	Src	Pstpip1	Ptk2b	Was	Abl1	Ptk2	Bcar1
+PTPN13	Phosphatase_Substrates_from_DEPOD	Nfkbia	Pdcd10	Irs1	Trip6	Mbp
+PTPN2	Phosphatase_Substrates_from_DEPOD	Stat5b	Pdgfrb	Insr	Src	Shc1	Stat1	Stat3	Cav1	Wasl	Egfr	Stat6	Kdr	Met	Jak3	Fkbp4	Jak1	Stat5a
+PTPN22	Phosphatase_Substrates_from_DEPOD	Lck	Zap70
+PTPN23	Phosphatase_Substrates_from_DEPOD	Src	Cdh1	Ctnnb1	Ptk2
+PTPN3	Phosphatase_Substrates_from_DEPOD	Mapk12	Ghr	Vcp
+PTPN6	Phosphatase_Substrates_from_DEPOD	Rbm39	Lyn	Nfat5	Src	Ntrk1	Ctnnd1	Actn1	Gab2	Egfr	Hoxa10	Casp8	Lck	Kit	Kdr	Nos1	Ros1	Cd22	Siglecf	Jak2
+PTPN7	Phosphatase_Substrates_from_DEPOD	Mapk3	Mapk1	Mapk14
+PTPN9	Phosphatase_Substrates_from_DEPOD	Nsf	Erbb2	Egfr
+PTPRA	Phosphatase_Substrates_from_DEPOD	Lyn	Src	Ptpra	Fyn	Bcar1
+PTPRB	Phosphatase_Substrates_from_DEPOD	Tek	Kdr	Met
+PTPRC	Phosphatase_Substrates_from_DEPOD	Lyn	Lck	Fyn	Tyk2	Jak3	Skap1	Jak1	Jak2
+PTPRE	Phosphatase_Substrates_from_DEPOD	Yes1	Insr	Src	Kcnb1	Mapk3	Mapk1	Fyn
+PTPRF	Phosphatase_Substrates_from_DEPOD	Insr	Ptprf	Ctnnb1	Met
+PTPRH	Phosphatase_Substrates_from_DEPOD	Dok1	Src	Lck	Bcar1
+PTPRJ	Phosphatase_Substrates_from_DEPOD	Pdgfrb	Ret	Lyn	Src	Ctnnd1	Egfr	Cbl	Ocln	Tjp1	Pik3r1	Mapk3	Kdr	Met	Plcg1	Mapk1	Fyn	Lat
+PTPRO	Phosphatase_Substrates_from_DEPOD	Ntrk3	Nek8	Ephb2
+PTPRS	Phosphatase_Substrates_from_DEPOD	Ntrk2	Ntrk3	Ntrk1	Egfr
+PTPRT	Phosphatase_Substrates_from_DEPOD	Pxn	Ctnnd1	Cdh1	Stat3
+PTPRZ1	Phosphatase_Substrates_from_DEPOD	Ntrk1	Add2	Arhgap35
+SCP2	Phosphatase_Substrates_from_DEPOD	Smad3	Smad2	Polr2a	Smad1
+SSH1	Phosphatase_Substrates_from_DEPOD	Limk1	Dstn	Cfl1	Coro1b

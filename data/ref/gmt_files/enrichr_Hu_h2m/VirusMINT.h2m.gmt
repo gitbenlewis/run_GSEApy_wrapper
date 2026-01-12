@@ -1,0 +1,85 @@
+Autographa californica nuclear polyhedrosis virus	VirusMINT	Casp8
+Avian sarcoma virus (strain PR2257)	VirusMINT	Nckipsd	Raf1
+Bacteriophage PBS2	VirusMINT	Ung
+Bacteriophage lambda	VirusMINT	Tgfa
+Bovine papillomavirus type 1	VirusMINT	Brd4	Tbp	Pdgfrb	Magi1	Ranbp2	Atp6v0c	Ube2i	Nap1l1	Rpa1	Pias1	Pias2	Taf1	Dlg1	Rcn2	Taf6	Cebpa	Cebpb	Smarcb1	Pxn	Gps2	Gtf2b	Ube3a	Fbln1	Sumo1	Ep300	Smn1
+Bovine papillomavirus type 2	VirusMINT	Brd4
+Cercopithecine herpesvirus 12	VirusMINT	Syk	Nedd4l	Wwp2	Itch
+Cottontail rabbit papillomavirus	VirusMINT	Dlg1
+Cottontail rabbit papillomavirus (strain Kansas)	VirusMINT	Brd4	Dlg1	Magi1
+Ebola virus (strain Zaire Mayinga)	VirusMINT	Nedd4
+Epstein-Barr virus (strain B95-8)	VirusMINT	Usp7	Csnk2a2	Csnk2a1	Srsf1	Il10ra	Aip	Traf1	Vrk2	Ahr	Traf3	Ddx20	Nap1l1	Terf2	Rbpj	Ebna1bp2	Orc2	C1qbp	Zmynd11	Rabac1	Kpna1	Kpna2
+Epstein-Barr virus (strain GD1)	VirusMINT	Rps8	Rpl22	Rps9	Rps6	Rpl23	Hnrnpab	Ilf3	Wdr77	Hnrnpm	Nup93	Tmem135	Snrpa	Hnrnpk	Psmc2	Serbp1	Hspa1b	Capza1b	Hnrnpd	Rpl10	Rpl13	Srsf1	Rpl12	Hnrnpu	Hnrnpr	Timm50	Ruvbl1	Snrpd2	Ruvbl2	Cse1l	Psmd2	Gm6133	Flnc	Rps2	Sf3b1	Sf3b2	Rpl18	Xrcc5	Nono	Clpx	Prpf8	Tnnt3	Ncl	Rps23	Snrnp200	Ddx5	Maged1	Ctbp1	Rpl8	Rps16	Syncrip	Rps18	Rps17	Ubc	Ubb	Grpel1	Pcbp2	Bag2	Rps13	Sec13	Hspa5	Rfc3	Hspa8	Sec16a	Tubb5	Rps3a1	Nipsnap1	Mlf2	Lrpprc	Glud1	Hax1	Rcn2	P4ha2	Pccb	Rcn1	Sfpq	Pcca	Cdk1	Khdrbs1	Hnrnpc	Dhx9	Ubr5	Cltc	Ncald	Iqgap2	Hspb1	Ptbp1	Dnajb1	Ldhb	Dnajb6	Dnajb5	Rps27a	Ddx17	Cad	Rad50	Itch	Rsl1d1	Hnrnpa2b1	Xpot	Ssbp1	Uba52	Eif3b	Akap8l	Ddx20	Hspd1	Psmb6	Tuba1b	Snrpb2	Rpl7a	Hnrnpa0
+Fowl adenovirus 1 (strain CELO / Phelps)	VirusMINT	Hdac1	E4f1
+Hepatitis B virus	VirusMINT	Ddb1	Fbxw4	Rxra	L3mbtl3	E4f1	Hif1a	Skp2
+Hepatitis C virus	VirusMINT	Ssb	Lyn	Srcap	Traf2	Hck	Ipo5	Trp73	Lck	Hnrnpk	Bin1	Apoa1	Bax	Fkbp8	Fyn	Grb2	Trp53bp2	Fkbp5	Trp53	Raf1
+Hepatitis C virus genotype 1a (isolate 1)	VirusMINT	Hsp90aa1	Stat1	Eif2ak2	Ubqln1
+Hepatitis C virus genotype 1a (isolate H)	VirusMINT	Vapa	Actn1	Apoa2	Pitx1
+Hepatitis C virus genotype 1b (isolate BK)	VirusMINT	Pkm
+Hepatitis C virus genotype 1b (isolate Con1)	VirusMINT	Pkm
+Hepatitis C virus genotype 1b (isolate Taiwan)	VirusMINT	Creb3
+Hepatitis C virus subtype 1a	VirusMINT	Lyn	Fyn	Hck
+Hepatitis C virus subtype 1b	VirusMINT	D1Pas1	Cdc42bpa
+Hepatitis E virus (strain Burma)	VirusMINT	Spint2	Ambp
+Hepatitis E virus (strain Mexico)	VirusMINT	Spint2
+Hepatitis delta virus (isolate American)	VirusMINT
+Hepatitis delta virus (isolate D380)	VirusMINT
+Homo sapiens	VirusMINT	Tbp	Rb1	Hspa8	Aip	Ube3a	Ppp2r1a	Pola1	Hnrnpm	Taf1	Yy1	Ubc	Ubb	Bag2	Myc	E2f1	Hspa1b	Ubtf	Gopc	Uba52	Rps27a	Trp53
+Human SARS coronavirus	VirusMINT	Atp6v1g1	Sumo1
+Human T-cell leukemia virus type I (isolate Caribbea)	VirusMINT	Wwp1	Wwp2
+Human T-lymphotropic virus 1	VirusMINT	Dlg1	Jund	Ikbkg
+Human adenovirus 12	VirusMINT	Gm1123	Tbp	Rb1	Crebbp	Daxx	Cited1	Pou5f1	Yy1	Psmc5	Prkar2b	Prkar1a	Ep300	Prkar2a	Trp53
+Human adenovirus 2	VirusMINT	Tbp	Rb1	Daxx	Hdac1	Srcap	Bnip3l	Prkdc	Nfia	Lmna	Bnip2	Cdk1	Bnip3	Bak1	Trp53	Ran	Mad2l2
+Human adenovirus 31	VirusMINT	Tbp
+Human adenovirus 5	VirusMINT	Tbp	Crebbp	Pou2f1	Daxx	Cad	Stat1	F10	Gzmc	Dyrk1b	Med28	Gzmf	Pou5f1	Pml	Taf1	F7	Kat2b	Ccna1	Psmc6	Rbl1	Kat2a	Rbl2	Psmc5	Psmc3	Rarb	Zmynd11	Taf4	Ran	Rb1	Trrap	Srcap	Ctbp1	Bclaf1	Ep300	Psmd2
+Human adenovirus 7	VirusMINT	Rb1
+Human adenovirus 9	VirusMINT	Dlg1
+Human adenovirus B serotype 3	VirusMINT	Tbp	Yy1	Rb1	Pou5f1
+Human adenovirus E	VirusMINT	Rb1	E2f1
+Human cytomegalovirus	VirusMINT	Traf6
+Human cytomegalovirus (strain AD169)	VirusMINT	Pml
+Human cytomegalovirus (strain Towne)	VirusMINT	Pml
+Human herpesvirus 1	VirusMINT	Nfkbia	Srsf3	Srpk1
+Human herpesvirus 1 (strain 17)	VirusMINT	Usp7	Smarca1	Supt16	Smarce1	Dek	Msh2	Nap1l1	Smc1a	Smarca4	Ppp1ca	Med8	Smarca5	Pola1	Prpf19	Msh3	Msh6	Mcm2	Gtf2i	Pcna	Sf3b3	Brca1	Ddx42	Chd3	Med17	Ruvbl1	Lmna	Ccnd3	Rbbp4	Emd	Sf3b1	Smarcc1	Smarcc2	Xrcc5	Xrcc6	Xrcc4	Parp1	Rad50	Med29	Polr1a	Impdh2	Adnp	Rcor1	Hdac5	Smarcd1	Hdac3	Hdac4	Blm	Hdac2	Sh3kbp1	Prkdc	Cbl	Hdac7	Btaf1	Syncrip	Wrn
+Human herpesvirus 1 (strain Patton)	VirusMINT	Tnfrsf10b
+Human herpesvirus 2	VirusMINT	Gtf2b
+Human herpesvirus 3	VirusMINT	Sp1
+Human herpesvirus 6	VirusMINT	Mapk1
+Human herpesvirus 8	VirusMINT	Stat3	Traf2	Il6st	Ikbkg
+Human immunodeficiency virus 1	VirusMINT	Acot8	Ap1s1	Grin2c	Ganc	Grin3a	Grin3b	Cd4	Cd9	Vim	Hspa1b	Ran	Try4	Ap2s1	Rabac1	Prkch	Crebbp	Prkcg	Zbtb7a	H2-Eb2	Prkci	Prkcd	Prkce	Nr1d1	Prkcb	Prkca	Prkcz	Prkar1b	Prkar1a	Prkd1	Nmt2	Prkd3	Prkcq	Nmt1	Prkdc	Gata3	Cfp	Gata1	C3	AI182371	Grin2b	Grin2a	Rnf216	C9	Prkar2b	Prkar2a	Ap1s3	Ap1s2	Prkacb	Prkaca	Lyn	Anxa2	Jun	Fn1	Nfatc2	Nutf2	Kat2b	H2-Ab1	Arf1	Thy1	Slc7a4	Ugt8a	Trim30a	Trim6	Ctla4	Ap1m1	Rps27a	Csnk2a2	Csnk2a1	Gtf2h1	Gtf2h2	F2	Gtf2h3	Gtf2h4	Tubb4b	Psma6	Psma7	Psma4	Psma2	Plin3	Grn	Ctdp1	Prkag2	Prkag1	Ung	Tuba1a	Btaf1	Lman1	Psmb7	Psmb8	H2-DMb1	Tuba1c	Psmb5	Tuba1b	Psmb6	Psmb3	Psmb4	Ppp1r8	Mrc1	Psmb1	Mrc2	Psmb2	H2-DMa	Defa5	Rbx1	Ppp1ca	Tuba4a	Cdc25c	Tuba8	Cops6	Kat6b	Cd209g	Ccnt2	Ccnt1	Gtf2b	Srsf2	Ube2d1	Tubb1	Tuba3b	Ppp1cc	Tubb6	Lamp1	Tubb3	Kpna6	Kpna3	H2-Ob	Kpna4	Kpna1	Kpna2	H2-Oa	Igfbp4	Gfap	Nfkb1	Nfkb2	Mag	Ncl	Mnat1	Mdm2	Cul5	Sat1	Ipo5	Ap2m1	Eif5b	Eif5a	Itga5	Eif2ak2	Rad23a	Hax1	Cdk9	Sp1	Cdk7	Lcp1	Alb	H2-Ea	Cdk2	Cdk1	Khdrbs1	Slc25a4	Tnpo1	Rngtt	Cpt1b	Cr2	Cpt1a	Krr1	Cpt1c	Kpnb1	Lck	P4hb	Uba52	Trim32	Trim34b	Itgb1	Cebpb	Flt1	Src	Itgb5	Furin	Itgb3	Cx3cr1	Pik3c2a	Ap1g1	Ganab	Ap1g2	Itgav	Fyn	Trim21	Mbl2	Ap1b1	Mogs	Ppp2r1a	Cd209d	Cd207	Calm2	Calm3	Trp53	Calm1	Smarcb1	Ccnh	Psmb10	Actb	C4b	Btrc	Xrcc5	Xrcc6	Bcl11b	2410137M14Rik	H2-T24	Ptk2	Trp73	Snw1	Pik3r1	Csnk2b	Sdc1	Sdc2	Ezr	Ccno	Tcerg1	Gba2	Icam1	Kat5	Apoh	Kat8	Kat7	Agfg1	Agfg2	Ccr2	Ccr1	Hars2	Sftpd	Vav1	Cd28	Calr	Pcsk1	Cetn1	Cetn2	Cetn3	Sdc3	Sdc4	Pcsk7	Pcsk6	Pcsk5	C1qbp	Ccr8	Pck1	Ccr5	Ccr4	Ccr3	Cct4	Prmt6	Gaa	Ap2b1	Ap3d1	Pacs1	Itch	Rab11a	Hck	Ppp2ca	Fkbp1a	Ccne1	Nedd4	Canx	C1qc	C1qb	Orm2	C1qa	Cd63	Cxcr6	Ap2a2	Ap2a1	Xpo1	Ppp2cb	Cxcr4	Ep300	Dmbt1	Cd59a	Chrnb2	Sdhb	Grin1	Ppia	Kif4	Aplnr	Fetub	Ppib	Grina	Chrnb1	Raf1	Rela	Cd86	Cd82	Gemin2	Cd81	Cd80	Relb	Lmna	Pak2	Pak1	Pura	Banf1	Pdia4	Pdia3	Pdia2	Kif22	Pdia6	Pdia5	Mdfic	Uba1	Tsg101	Copb1	Actg1	Plau	Actg2	Ubc	Ubb	Ubd	Atp6v1h	Pou2f1	Vdr	Msn	Cav1	Ppp2r5c	Ppp2r5b	Ppp2r5e	Tnip1	Ppp2r5d	Hmga1	Ppp2r5a	Acta2	Irf1	Acta1	Rbl2	Nup54	Ifng	Gnao1	Psip1	Lmnb1	Ncald	Ehhadh	Lmnb2	Dpp4	Cpt2	Ywhaq	Sp100	Ywhah	Tbp	Taf15	Eed	Taf13	Taf12	Ppp2r3a	Taf10	Taf1	Smug1	Ppp2r2c	Ercc2	Ercc3	Taf9	Taf8	Taf7	Taf6	Ltf	Taf5	Taf4	Abce1	Taf2	Thra	Ybx1	Ppp2r2b	Thbs1	Ppp2r2a	Hspd1	Actc1	Nr3c1	Ppp2r1b	Mapk3	Mapk1
+Human immunodeficiency virus type 1 (isolate 12)	VirusMINT	Egr1	Smarcc1	Egr2	Smarcc2	Egr3	Smarcb1	Ccnt1	Ap1b1	Smarca2	Hck	Cdk9	Kat2a	Ubc	Kat5	Ubb	Ep300	Sub1	E2f4	Vdac1	Uba52	Rps27a	Map3k5
+Human immunodeficiency virus type 1 (isolate ARV2/SF2)	VirusMINT	Lyn	Src	Fyn	Hck
+Human immunodeficiency virus type 1 (isolate ELI)	VirusMINT	Lyn	Src	Hck
+Human immunodeficiency virus type 1 (isolate HXB3)	VirusMINT	Cd4	Btrc
+Human immunodeficiency virus type 1 (isolate Lai)	VirusMINT	Lyn	Src	Fyn	Hck
+Human immunodeficiency virus type 1 (isolate NDK)	VirusMINT
+Human immunodeficiency virus type 2 (isolate BEN)	VirusMINT	Ccnt1
+Human papillomavirus type 11	VirusMINT	Brd4	Magi1	Gadd45gip1	Ppp2r1a	Tyk2	Pias1	Ppp2ca	Pias2	Pola1	Pkm	Trp73	Dlg1	Irf1	Kat2b	Pkn1	Man2b1	Mcm7	Trp53	Rb1	Smarcb1	Tinagl1	Gps2	Ube3a	Ubr4	Ipo5	Tnpo1	Sumo1	Ep300	Sertad1	Myc	E2f1	Smn1	Bak1	Patz1	Kpna2
+Human papillomavirus type 16	VirusMINT	Ube2i	Jun	Tsc2	Ppp2r1a	Scrib	Tnfrsf1a	Irf1	Kat2b	Mycs	Rcn2	Rbl1	Rbl2	Irf3	Cdk2	Cdk1	Psmc1	Man2b1	Mcm7	Tax1bp3	Ptpn3	Trp53	Ran	Rb1	Cited1	Tinagl1	Pomp	Gps2	Gtf2b	Nolc1	Ubr4	Ube3a	Brca1	Fbln1	Chd4	Tnpo1	Myc	E2f1	Topbp1	E2f2	E2f3	Fadd	Smn1	E2f4	Kpna2	Brd4	Tbp	Magi1	Crebbp	Jund	Gadd45gip1	Csnk2a1	Igfbp3	Xrcc1	Fos	2410137M14Rik	Pou5f1	Srpk1	Ppp2ca	Pkm	Trp73	Dlg1	Ccna2	Kpnb1	Tfdp1	Snw1	Tfdp2	Ccne2	Dnaja3	Pkn1	Trip13	Siva1	Rps25	Cebpa	Cebpb	Hdac1	Pxn	Hdac2	Cdkn1a	Foxm1	Ipo5	Sipa1l1	Ep300	Sertad1	Bak1	Junb	Atp6v0a1	Patz1
+Human papillomavirus type 18	VirusMINT	Brd4	Tbp	Magi1	Csnk2a1	Nap1l1	Scrib	Tyk2	Taf1	Dlg1	Ccna2	Gipc1	Kat2b	Rbl1	Dlg4	Ccne1	Pkn1	Cdk2	Mcm7	Gopc	Taf6	Tax1bp3	Ptpn3	Trp53	Cebpa	Cebpb	Rb1	Smarcb1	Gps2	Ube3a	Fbln1	Tgm2	Ep300	Myc	E2f1	Smn1	Bak1
+Human papillomavirus type 1a	VirusMINT	Rb1	Tinagl1	Gps2	E2f1	Xrcc1	E2f3	Patz1
+Human papillomavirus type 3	VirusMINT	Dlg1	Ube3a
+Human papillomavirus type 31	VirusMINT	Brd4	Dlg1	Rb1	Magi1	Rcn2	Hdac1	Hdac2	Ube3a	Fbln1	Trp53
+Human papillomavirus type 45	VirusMINT	Tnpo1
+Human papillomavirus type 58	VirusMINT	Mcm7
+Human papillomavirus type 6b	VirusMINT	Crebbp	Rb1	Magi1	Cdkn1a	Csnk2a1	Gps2	Ubr4	Dlg1	Kat2b	Ep300	Dnaja3	E2f1	Sertad1	Zyx	Mcm7
+Human papillomavirus type 8	VirusMINT	Cebpa	Dlg1	Cebpb	Magi1	Gps2	Ep300	Xrcc1	Nap1l1
+Influenza A virus (strain A/Aichi/2/1968 H3N2)	VirusMINT	Pik3r1
+Influenza A virus (strain A/Puerto Rico/8/34 H1N1)	VirusMINT	Hspa8	Mcm4	Mcm5	Mcm7	Pik3r2	Ezr	Mcm2	Mcm3
+Influenza A virus (strain A/Turkey/Oregon/71 H7N3)	VirusMINT	Pabpn1
+JC polyomavirus	VirusMINT	Pura	Ybx1
+Murine adenovirus 1	VirusMINT	Rb1
+Murine polyomavirus (strain 3)	VirusMINT	Crebbp	Ep300	Ppp2ca
+Poliovirus type 1 (strain Sabin)	VirusMINT	Cav1	Pvr
+Rous sarcoma virus (strain Prague C)	VirusMINT	Nedd4
+Rous sarcoma virus (strain Schmidt-Ruppin A)	VirusMINT	Ppp2ca
+Rous sarcoma virus - Schmidt-Ruppin D	VirusMINT	Magi1	Wwp1	Wwp2
+Saimiriine herpesvirus 2 (strain 11)	VirusMINT	Cdk6
+Saimiriine herpesvirus 2 (strain 488)	VirusMINT	Lck	Cd4
+Sendai virus (strain Fushimi)	VirusMINT	Ifih1
+Simian virus 40	VirusMINT	Tbp	Crebbp	Fbxw7	Fbxw11	Csnk2a1	Parp1	Rpa2	Ppp2r1a	Rpa1	Kin	Ppp2ca	Pola1	Taf1	Ccna2	Kpnb1	Sp1	Psmc5	Cdk2	Cdk1	Top1	Trp53	Ran	Rb1	Hdac1	Irs1	Gtf2b	Ppp2r1b	Ep300	Pura	Ubtf	Tead1	Bub3	Btrc	Kpna4	Bub1	Kpna2
+Simian virus 5 (strain W3)	VirusMINT	Ddb1	Stat2
+Vaccinia virus	VirusMINT	Lama1	Tnf
+Vaccinia virus (strain Copenhagen)	VirusMINT	Rbm3	Jun	Hnrnpa2b1	Eif2ak2	Mapk8ip1	Map2k7
+Vaccinia virus (strain L-IVP)	VirusMINT	Bbc3	Bcl2l11	Bad	Bax	Pmaip1	Bak1	Bid
+Vaccinia virus (strain Western Reserve / WR)	VirusMINT	Bad	Ccl21a	Eif2ak2	Ube2l6	Caprin1	Bcl2l11	Hnrnpa2b1	G3bp1	Bax	Bak1	Bid	Ccl28

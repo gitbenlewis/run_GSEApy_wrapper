@@ -1,0 +1,659 @@
+4SC 202	DGIdb_Drug_Targets_2024	Hdac3	Hdac1	Hdac2	Vegfa	Hdac8
+9 AMINOCAMPTOTHECIN	DGIdb_Drug_Targets_2024	Smad3	Idh1	Polb	Pax8	Polk	Nr2e3	Pth1r	Top1	Nfe2l2	Polh
+ABEMACICLIB	DGIdb_Drug_Targets_2024	Abcb1a	Braf	Mki67	Esr1	Esr2	Nras	Pik3ca	Cdk4	Erbb2	Kras	Pgr	Trp53
+ABIRATERONE	DGIdb_Drug_Targets_2024	Ar	Cyp17a1	Apc	Srd5a3	Srd5a2	Srd5a1	Trp53
+ABT 751	DGIdb_Drug_Targets_2024	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+ACARBOSE	DGIdb_Drug_Targets_2024	Mgam	Sis	Lpl	Gaa	Slc2a4
+ACETAMINOPHEN	DGIdb_Drug_Targets_2024	Brd2	Hspa8	Pla2g4a	Oprm1	Trpv1	Cyp7b1	Cyp2a12	Cdk2	Cyp1a2	H2-Ab1	Cyp2e1	Tlr4	Cd44	Ugt1a10	Faah	Abcb1a	Tnfrsf11a	Comt	Ptgs1	Htr4	Ptgs2	Sult2a1	Ccnd1	Sult1e1	Cyp2d10	Ugt1a6a	Ugt1a2	Plcg1	Sult5a1
+ACETAZOLAMIDE	DGIdb_Drug_Targets_2024	Car12	Mmp12	Car2	Car1	Car4	Car3	Mmp2	Nos1	Aqp4	Aqp1
+ACETYLDIGITOXIN	DGIdb_Drug_Targets_2024	Fxyd2	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Atp1a1	Atp1b2	Atp1b1
+ACITRETIN	DGIdb_Drug_Targets_2024	Kdm4a	Vdr	Gmnn	Rarg	Il1b	Rxra	Kat2a	Rxrb	Mapt	Rarb	Usp1	Rara	Rxrg	Rapgef4
+ADAPALENE	DGIdb_Drug_Targets_2024	Rxra	Rxrb	Rarg	Rarb	Usp1	Rara	Rxrg
+AFATINIB	DGIdb_Drug_Targets_2024	Keap1	Nrg1	Braf	Egfr	Eml4	Erbb4	Pik3ca	Erbb2	Erbb3	Kras	Ros1	Alk
+AFIMOXIFENE	DGIdb_Drug_Targets_2024	Kdm4a	Idh1	Rxra	Atxn2	Baz2b	Esrrg	Rorc	Esr1	Esr2	Pld1	Kcnh2	Npsr1
+AG1295	DGIdb_Drug_Targets_2024	Flt3	Atad5	Smn1	Npc1
+AGS 16C3F	DGIdb_Drug_Targets_2024	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Enpp3
+ALECTINIB	DGIdb_Drug_Targets_2024	Ret	Idh2	Braf	Ros1	Trp53	Alk	Eml4
+ALENDRONATE	DGIdb_Drug_Targets_2024	Fdps	Mvk	Vdr	Plau	Sost	Esr2	Cyp19a1	Ptpn4
+ALFUZOSIN	DGIdb_Drug_Targets_2024	Gaa	Ehmt2	Adra1d	Adra1b	Adra1a	Hsd17b10
+ALISERTIB	DGIdb_Drug_Targets_2024	Ntrk2	Yes1	Ntrk3	Plk4	Ntrk1	Limk1	Csnk2a1	Pdpk1	Tnk2	Clk4	Srpk1	Ptk2	Cdk8	Lck	Fer	Ccne1	Fgfr1	Btk	Kras	Epha2	Fgfr3	Frk	Brsk1	Blk	Ret	Flt1	Src	Ltk	Lrrk2	Aurka	Egfr	Aurkb	Slk	Erbb4	Grk5	Erbb2	Rps6ka3	Myc	Kdr	Pim3	Ros1	Prkaca
+ALITRETINOIN	DGIdb_Drug_Targets_2024	Rxra	Vdr	Rxrb	Rarg	Rarb	Ehmt2	Rara	Rxrg
+ALLOPURINOL	DGIdb_Drug_Targets_2024	Ntng1	Ugt1a1	Cflar	Pou5f1	Grem2	Tbl1xr1	Cyp1a2	Trib2	Ugt1a10	Myt1l	Tshz2	Cyp3a13	Pkd2	Psors1c2	Cyp2d10	Aox1	Ugt1a6a	Ugt1a2	Xdh
+ALPELISIB	DGIdb_Drug_Targets_2024	Rb1	Map2k1	Arid1a	Braf	Esr1	Nras	Pik3ca	Cdk4	Erbb2	Fgfr1	Hras	Fgfr3	Trp53	Fgfr2	Sgk1
+ALPRAZOLAM	DGIdb_Drug_Targets_2024	Brd4	Gabra3	Brd3	Crebbp	Gabra2	Gabrq	Brd2	Gabra1	Gabrp	Gabra6	Pbrm1	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Brdt	Gabrb3	Gabrb2	Gabrb1	Hpgd	Gabrr3	Gabrr2	Gabrr1	Tspo	Gabre	Gabrd
+ALPROSTADIL	DGIdb_Drug_Targets_2024	Ptger1	Ptger2	Cyp2d10	Cyp1a2	Cyp3a13
+ALSEROXYLON	DGIdb_Drug_Targets_2024	Adra1d	Adra1b	Adra2c	Slc18a2	Adra1a	Adra2b
+ALTIRATINIB	DGIdb_Drug_Targets_2024	Ntrk2	Ntrk3	Ntrk1	Tek	Kdr	Met
+ALVOCIDIB	DGIdb_Drug_Targets_2024	Cdk9	Cdk8	Cdk7	Cdk6	Cdk5	Cdk4	Cdk3	Cdk10	Cdk2	Cdk1
+AMCINONIDE	DGIdb_Drug_Targets_2024	Ar	Idh1	Anxa1	Gmnn	Hif1a	Nr3c1	Npsr1
+AMG900	DGIdb_Drug_Targets_2024	Ccne1	Myc	Aurka	Aurkc	Aurkb
+AMILORIDE	DGIdb_Drug_Targets_2024	Scnn1g	Scnn1b	Scnn1a	Ehmt2	Hsd17b10
+AMINOGLUTETHIMIDE	DGIdb_Drug_Targets_2024	Tg	Cyp11a1	Tff3	Cyp1b1	Ggt1	Cyp19a1	Gnrh1
+AMIODARONE	DGIdb_Drug_Targets_2024	Kcne1	Abcb1a	Kcne2	Gmnn	Adrb1	Cyp3a13	Mtor	Adra1a	Sqle	Tg	Nos1ap	Cyp2d10	Cyp1a2	Scn5a	Sftpa1	Cyp2j13	Kcnh2
+AMISULPRIDE	DGIdb_Drug_Targets_2024	Snap25	Abcb1a	Htr1f	Htr1b	Htr2c	Htr2a	Htr3b	Htr1a	Htr3a	Htr6	Htr4	Htr5a	Htr7	Rabep1	Sh2b1	Drd2	Anks1b	Drd3
+AMITRIPTYLINE	DGIdb_Drug_Targets_2024	Ephx1	Aoc1l1	Bdnf	Oprm1	Htr1a	Fchsd1	Ddit4	Ifng	Cyp1a2	Ada	Adgrl3	Ces1d	Crhr1	Pla2g1b	Grik4	Prl3d2	Grik2	Htr2a	Cyp3a13	Slc6a2	Slc6a4	Rptor	Rgs4	Cyp2d10	Akt1	Cacng2	Drd3
+AMOXAPINE	DGIdb_Drug_Targets_2024	Vdr	Thpo	Cyp2d10	Drd1	Drd2	Drd3	Slc6a2	Drd5	Slc6a4	Trp53	Kcnh2
+AMOXICILLIN	DGIdb_Drug_Targets_2024	H2-Eb2	Il10	Nr1i2	2410137M14Rik	Ptpn22	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polh
+AMPHETAMINE	DGIdb_Drug_Targets_2024	Sst	Cyp2d10	Cdh13	Oprm1	Drd2	Cartpt	Slc6a2	Taar1	Slc18a2	Slc6a3	Adra1a	Adra2a
+AMPHOTERICIN B	DGIdb_Drug_Targets_2024	Tgm2	Pcx	Cyp2d10	Cyp1a2	Tnf	Cyp3a13	Rln1
+AMSACRINE	DGIdb_Drug_Targets_2024	Top2b	Atad5	Top2a	Cbx1	Ehmt2	Cyp3a13	Mtor	Hsd17b10	Atxn2	Cyp2d10	Cyp1a2	Drd1
+AMUVATINIB	DGIdb_Drug_Targets_2024	Pdgfrb	Ret	Pdgfra	Rad51	Flt3	Kit	Met
+ANASTROZOLE	DGIdb_Drug_Targets_2024	Cldn11	Dlg2	Erbb2	Tubb1	Cyp1b1	Igf2	Pgr	Esr1	Cyp19a1	Map4k4
+ANG1005	DGIdb_Drug_Targets_2024	Lrp1	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+APOMORPHINE	DGIdb_Drug_Targets_2024	Vdr	Ehmt2	Hsd17b10	Ar	Mapt	Caly	Cyp2d10	Cyp1a2	Drd1	Drd2	Drd3	Drd4	Drd5	Trp53
+ARI 3037MO	DGIdb_Drug_Targets_2024	Hcar2	Nnmt	Dgat2	Qprt
+ARIPIPRAZOLE	DGIdb_Drug_Targets_2024	Faah	Rabep1	Cyp3a13	Mc4r	Sh2b1	Htr2a	Drd2	Htr1a
+ARSENIC TRIOXIDE	DGIdb_Drug_Targets_2024	Epo	Jun	Cdkn1a	Bdnf	Gsto1	Serpine1	Txnrd2	Txnrd1	Pml	Ikbkb	Mycs	Il6	Mapk10	Ccnd1	Smo	Tert	Fas	Birc5	Fgfr1	Mapk3	Mapk1	Dnmt1
+AS703569	DGIdb_Drug_Targets_2024	Lyn	Flt3	Kit	Akt1	Aurka	Btk	Abl1	Aurkb
+ASG 5ME	DGIdb_Drug_Targets_2024	Slc44a4	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+ASPIRIN	DGIdb_Drug_Targets_2024	Tgfb1	Ace	Col26a1	Nrg1	Tspear	Tsc1	Jmjd8	Agt	Gp6	Tapbp	Il1b	Il4	Cyp24a1	Pik3ca	Fas	Cyp1a2	H2-Ab1	Fsip1	Tlr3	Col18a1	B4galt2	Tnfrsf11a	Itga2b	Agap3	Zbtb22	Cyp3a13	Echs1	Wdr24	Cyp2d10	Adora1	Me3	Fcer1g	Gm4559	Chia1	Eya1	Ntrk1	Slc30a9	F2r	Nos3	Cyp4f14	Ptgir	Hgf	Pla2g4a	Slc6a12	Cyp4a30b	Nat1	Gfap	Tbxas1	Cdh13	Ddit3	Pparg	Cdh15	Gm6619	Cep68	H2-Eb2	Myom2	Pth	Irs2	Ptger2	Thra	F13a1	Necab1	Ptger3	Gstp1	Afp	Fgf2	Zdhhc3	Ptgs1	Ptgs2	Hmox1	Ugt1a6a	Plcg1
+AST 487	DGIdb_Drug_Targets_2024	Map4k2	Ntrk2	Ntrk3	Pdgfrb	Pdgfra	Ntrk1	Dapk3	Clk4	Hck	Mapk14	Clk2	Lck	Melk	Mapk10	Kit	Fgfr1	Taok1	Tyro3	Csf1r	Ret	Flt1	Ltk	Flt3	Rock2	Lrrk2	Aurka	Camkk2	Kdr	Abl1	Fyn	Ros1	Map4k4	Jak2	Prkaca
+ASTEMIZOLE	DGIdb_Drug_Targets_2024	Idh1	Eed	Hrh1	Gmnn	Cyp2d10	Hpse	Ppard	Trp53
+AT 7519	DGIdb_Drug_Targets_2024	Cdk18	Yes1	Cdk19	Cdk11b	Cdk9	Cdk8	Cdk7	Cdk6	Cdk5	Cdk4	Cdk3	Cdk10	Cdk2	Cdk1	Cdk12	Cdk13	Cdk14	Cdk15	Cdk16	Cdk17
+AT9283	DGIdb_Drug_Targets_2024	Yes1	Ret	Rps6ka3	Aurka	Gskip	Abl1	Jak3	Tyk2	Mertk	Aurkb	Jak2
+ATALUREN	DGIdb_Drug_Targets_2024	Rpl22	Rps8	Rpl21	Rpl24	Rps6	Rpl23	Rps7	Rpl13a	Rps3a1	Rpsa	Fau	Rpl26	Rpl28	Rpl27	Rpl29	Rpl11	Rpl10	Rpl13	Rpl12	Rpl15	Rpl14	Rps5	Gm6133	Rps2	Rps3	Rpl19	Rps15a	Rpl18	Rps27a	Ar	Rps26	Rps29	Rps28	Rps21	Rps20	Rps23	Rps25	Rpl6	Rpl3	Rpl30	Rpl4	Rpl35	Rpl34	Rplp1	Rpl8	Rps16	Rps15	Rps4x	Rps18	Rpl18a	Rps17	Rps19	Rpl36	Rps10	Rpl38	Rps11	Rpl7a	Rps14	Rps13
+ATENOLOL	DGIdb_Drug_Targets_2024	Tbx2	Tgfb1	Ppara	Stn1	Galnt2	Nr1h3	Pla2g4a	Prox1	Arap1	Rrp1b	Adra2a	Aldh1a2	Pah	Slc25a31	Bax	Lrrc15	Fto	Abcb1a	Pth	Acy3	Dpys	Cacna1c	Adrb1	Slc4a1	Or10p1	Ptgs2	Grk4	Gja1	Zmat4	Plekhh2	Snx9	Ldlr	Kcnh2
+ATEZOLIZUMAB	DGIdb_Drug_Targets_2024	Cd274	Mlh1	Pbrm1	Arid1a	Braf	Msh2	Cx3cl1	Egfr	Stk11	Pik3ca	Msh6	H2-Ea	Mdm4	Ctla4	Kras	Jak3	Fgfr3	Pms2	Alk	Mdm2
+ATORVASTATIN	DGIdb_Drug_Targets_2024	Mylip	Ace	Apoa5	Cxcl10	Mapk10	Fas	Soat1	Agtr1b	Ugt1a10	Abcb1a	Nr1i2	Prdm16	Tnf	Cyp3a13	Tfpi	Slco1b2	Ifnl2	Bdkrb2	Drd3	Abca1	Nos3	Ugt1a1	Mthfr	Por	Il2ra	Cd40lg	Ppard	H2-Eb2	Ryr1	Hmgcr	Fgf2	Hspd1	Itgam	Lipc	Pik3cg	Tgm2	Bglap2	Clmn	Cacna1s	Ugt1a6a	Lepr	Ugt1a2	Nos1	Apob
+ATROPINE	DGIdb_Drug_Targets_2024	Ar	Chrm3	Cxcl10	Chrm4	Chrm1	Chrm2	F2r	Chrm5	Cyp3a13	Guca2a
+AVELUMAB	DGIdb_Drug_Targets_2024	Stk11	Cd274	Mlh1	Msh6	Msh2	Pms2
+AXITINIB	DGIdb_Drug_Targets_2024	Ugt1a10	Yes1	Pdgfrb	Cd274	Flt1	Flt4	Pdgfb	Braf	Hif1a	Kit	Or2b11	Vhl	Kdr	Abl1	Abcg3	Trp53
+AZACITIDINE	DGIdb_Drug_Targets_2024	Smad3	Idh1	Flt3	Gmnn	Atad5	Dnmt3a	Htt	Mthfr	Xrcc1	Ptpn11	Tet2	Rorc	Cbl	Nr3c1	Tyms	Ar	Aldh1a1	Thpo	Kras	Dnmt1	Cda	Nfe2l2	Trp53
+AZD 1080	DGIdb_Drug_Targets_2024	Gsk3b	Dyrk3	Gsk3a	Camk2a	Dyrk1b	Mink1	Clk4	Cdk7	Cdk2	Cdk1	Pim3	Prkd2	Camk2g	Sgk2	Mark2
+AZD 1152 HQPA	DGIdb_Drug_Targets_2024	Map4k2	Blk	Lyn	Pdgfrb	Flt1	Pdgfra	Flt3	Flt4	Aurka	Mst1r	Egfr	Aurkb	Lck	Pak1	Erbb4	Csnk1d	Chek2	Btk	Kdr	Map4k4	Map4k5
+AZD1480	DGIdb_Drug_Targets_2024	Ret	Csf3r	Flt3	Jak1	Jak2
+AZD4547	DGIdb_Drug_Targets_2024	Akt3	Akt1	Fgfr1	Hras	Fgfr3	Fgfr2
+AZD6244	DGIdb_Drug_Targets_2024	Map2k5	Map2k2	Map2k3	Map2k1	Map2k6	Map2k7
+BACLOFEN	DGIdb_Drug_Targets_2024	Gabbr2	Gabbr1	Bdnf	Fos	Nos1	Gcg	Nfkb1	Nfe2l2	Tshb
+BARASERTIB	DGIdb_Drug_Targets_2024	Pdgfrb	Ret	Lck	Pdgfra	Kit	Aurka	Kdr	Fyn	Aurkb
+BARDOXOLONE METHYL	DGIdb_Drug_Targets_2024	Ar	Ikbkb	Keap1	Akt1	Pparg	Nfe2l2
+BAY1000394	DGIdb_Drug_Targets_2024	Cdk9	Ccnd3	Ccnd2	Ccnd1	Ccne1	Cdk4	Cdk2	Cdk1
+BAY80 6946	DGIdb_Drug_Targets_2024	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca
+BECLOMETHASONE	DGIdb_Drug_Targets_2024	Ar	Anxa1	Cyp2d10	Cyp1a2	Cyp3a13	Hif1a	Nr3c1	Nfe2l2	Il2
+BECLOMETHASONE DIPROPIONATE	DGIdb_Drug_Targets_2024	Ar	Il1b	Pth	Csf2	Bglap2	Nr3c1	Nfe2l2
+BELINOSTAT	DGIdb_Drug_Targets_2024	Hdac5	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Ugt1a1	Hdac9	Hdac7	Hdac8
+BENZQUINAMIDE	DGIdb_Drug_Targets_2024	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5
+BEPRIDIL	DGIdb_Drug_Targets_2024	Idh1	Kcnq1	Tnnc1	Cacna1a	Scn5a	Ehmt2	Atp1a1	Calm1
+BETAMETHASONE	DGIdb_Drug_Targets_2024	Ache	Ar	Anxa1	Ptger4	Prl3d2	Hmox2	Igf2	Nr3c1	Nfe2l2
+BETHANIDINE	DGIdb_Drug_Targets_2024	Adra1d	Slc6a2	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+BEVACIZUMAB	DGIdb_Drug_Targets_2024	Cct3	Edn1	Idh1	Pdgfrb	Ralbp1	Mmp2	Foxf1	Ggh	Vegfc	Anxa11	Arid1a	Braf	Mmp9	Vegfa	Eml4	Vegfb	Kit	Mgat4a	Pik3ca	Nf2	Nf1	Cspg4	Kras	Trp53	Alk	Cd274	Hsp90ab1	Shmt1	Egfr	Thbs2	Hoxc10	Cxcr2	Cxcr4	Vhl	Hras	Gc	Slc19a1
+BEXAROTENE	DGIdb_Drug_Targets_2024	Rxra	Blm	Kat2a	Rxrb	Nr1h3	Usp1	Rxrg
+BEZ235	DGIdb_Drug_Targets_2024	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Mtor	Pik3cg	Pik3r6	Rptor	Pik3cb	Pik3r1	Pik3ca	Pik3c3	Rictor
+BGJ398	DGIdb_Drug_Targets_2024	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Mtor	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Fgfr1	Pik3c3	Fgfr4	Fgfr3	Fgfr2
+BICALUTAMIDE	DGIdb_Drug_Targets_2024	Ar	Cflar	Bax	Klk1b24
+BIFEPRUNOX	DGIdb_Drug_Targets_2024	Htr2c	Htr2a	Drd2	Htr1a	Drd3
+BINIMETINIB	DGIdb_Drug_Targets_2024	Map2k2	Map2k1	Ugt1a1	Braf	Nras	Apc	Kit	Pik3ca	Atm	Nf1	Hras	Kras	Jak2
+BMS 387032	DGIdb_Drug_Targets_2024	Cdk9	Cdk8	Gsk3b	Melk	Cdk7	Gsk3a	Cdk5	Cdk2	Dyrk1b	Taok1	Prkd3	Clk4
+BMS 582949	DGIdb_Drug_Targets_2024	Mapk11	Mapk12	Ahsa1	Mapk13	Mapk14
+BMS 690514	DGIdb_Drug_Targets_2024	Flt1	Erbb4	Flt4	Erbb2	Kdr	Egfr
+BMS 754807	DGIdb_Drug_Targets_2024	Ntrk2	Insr	Ntrk1	Axl	Akt1	Mst1r	Igf1r	Aurkb
+BORTEZOMIB	DGIdb_Drug_Targets_2024	Ctsb	Bdnf	F12	Hspa4	Psmb9	Psmc6	Psmc4	Pik3ca	Psmc5	Psmc2	Psmc3	Bcl2	Psmc1	Nfe2l2	Trp53	Psmd11	Psmd10	Try4	Psmd13	Psmd12	Psmd14	Psmb11	Psmb10	Psmd9	Psmc3ip	Psmd7	Psmd5	Psmd6	Psmd3	Psmd4	Psmd1	Psmd2	Capn1	B2m	Adrm1b	F2	Nfkb1	Ar	Psma6	Psma7	Psma4	Psma5	Sem1	Psma2	Psma3	Psme4	Xiap	Psma1	Psme2b	Ddit3	Psme3	Psme1	Fgfr3	Bcl2l2	Flt3	Plat	Plg	Gata2	Psma8	Psmb7	Psmb8	Psmb5	Psmb6	Psmb3	Psmb4	Psmb1	Psmb2	Pmaip1	Psmf1
+BOSUTINIB	DGIdb_Drug_Targets_2024	Bcr	Lyn	Src	Abl1	Braf	Brca2	Hck
+BRIGATINIB	DGIdb_Drug_Targets_2024	Flt3	Fgfr1	Ros1	Egfr	Trp53	Alk	Eml4
+BRIMONIDINE	DGIdb_Drug_Targets_2024	Vdr	Rgs4	Aldh1a1	Hpgd	Ehmt2	Adra2c	Adra2b	Adra2a
+BRIVANIB	DGIdb_Drug_Targets_2024	Flt1	Flt4	Fgfr1op2	Fgfr1	Kdr	Cep43	Fgfr4	Fgfrl1	Fgfr3	Fgfr2
+BROMOCRIPTINE	DGIdb_Drug_Targets_2024	Abcb1a	Vdr	Ehmt2	Il2	Ar	Gdnf	Lep	Myc	Npy	Cyp1a2	Sag	Drd1	Drd2	Drd3	Nfe2l2
+BRYOSTATIN	DGIdb_Drug_Targets_2024	Prkch	Prrt2	Prkcg	Prkcd	Il2ra	Prkce	Prkd1	Prkcb	Prkd3	Prkca	Prkcq	Prkd2
+BUDESONIDE	DGIdb_Drug_Targets_2024	Cyp2d10	Cyp1a2	Cyp3a13	Nr3c1
+BUMETANIDE	DGIdb_Drug_Targets_2024	Slc12a3	Slc12a4	Ace	Slc12a5	Slc12a1	Slc12a2	Hsd17b10	Add1	Scnn1g	Mapk1	Slc17a3	Nfe2l2
+BUPARLISIB	DGIdb_Drug_Targets_2024	Pik3r5	Pik3cd	Pik3r3	Braf	Pik3r2	Pik3cg	Nras	Stk11	Apc	Pik3cb	Pik3r1	Pik3ca	Fgfr1	Hras	Trp53	Fgfr2
+BUPROPION	DGIdb_Drug_Targets_2024	Ace	Epb41	Galr1	Sacm1l	Prl3d2	Apoe	Drd1	Fkbp5	Slc6a2	Comt	Slc18a2	Slc6a3
+BUSPIRONE	DGIdb_Drug_Targets_2024	Aldh1a1	Prl3d2	Drd2	Htr1a	Nfe2l2
+BUSULFAN	DGIdb_Drug_Targets_2024	Abcc3	G6pdx	Gstm6	Adk	Gstp1	Mthfr	Cyp3a13	Itgal	Bcr	Galc	Thpo	Cyp2d10	Cyp1a2	Abl1
+BUTABARBITAL	DGIdb_Drug_Targets_2024	Gabra3	Gria2	Gabra2	Chrna4	Gabra1	Gabra6	Gabra5	Chrna7	Gabra4	Grik2
+BUTALBITAL	DGIdb_Drug_Targets_2024	Gabra3	Gria2	Gabra2	Gabrb3	Chrna4	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Chrna7	Gabra4	Gabrg1	Grik2	Gabrg3	Gabrg2	Gabre	Gabrd
+BUTORPHANOL	DGIdb_Drug_Targets_2024	Oprd1	Cyp1a2	Oprk1	Oprm1	Cyp3a13
+BYL719	DGIdb_Drug_Targets_2024	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Braf	Pik3c2g	Pik3r2	Pik3c2b	Mtor	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Pi4ka	Pik3c3
+CABAZITAXEL	DGIdb_Drug_Targets_2024	Tubb1	Cyp3a13	Igf2	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+CABOZANTINIB	DGIdb_Drug_Targets_2024	Yes1	Ret	Flt3	Pbrm1	Ctnnb1	Hgf	Cflar	Nras	Kit	Gna11	Pik3ca	Tek	Vhl	Kdr	Hras	Met	Abl1	Ros1	Trp53
+CAFFEINE	DGIdb_Drug_Targets_2024	Vdr	Gfap	Myo9b	Ar	Cyp2a12	Adora2b	Il2ra	Adora2a	Cyp1a2	Top1	Ptger1	Ogg1	Camk2b	Cyp3a13	Fgf2	Grm1	Shh	Cyp2d10	Cacna1s	Adora3	Pde4b	Trpc1	Nos1	Adora1	Drd2
+CALCITRIOL	DGIdb_Drug_Targets_2024	Ar	Tg	Vdr	Cyp24a1	Gdf15	Gmnn	Myc	Plau	Il2	Phex
+CAMPTOTHECIN	DGIdb_Drug_Targets_2024	Vdr	Mgmt	Xrcc5	Atad5	Bdnf	Hus1	Dck	Mtor	Pik3cb	Pik3ca	Cdk4	Birc5	Cyp1a2	Bax	Top1	Nfe2l2	Col18a1	Abcb1a	Gstp1	Top2a	Ehmt2	Thbs1	Cyp3a13	Hif1a	Hsd17b10	Tgm2	Mapk9	Atxn2	Wrn	Thpo
+CANERTINIB	DGIdb_Drug_Targets_2024	Yes1	Erbb2	Bmx	Egfr	Mtor
+CAPECITABINE	DGIdb_Drug_Targets_2024	Cdx2	Ncoa7	Nsun3	Braf	Msh2	Upb1	Pik3ca	Dpyd	Msh6	Ssu72	Atm	Cyp1a1	Abcg3	Trp53	Ces1d	Tenm4	Areg	Tyms	Ccdc70	Zmiz1	Erbb2	Man1a	Pms2	Phc1	Lmntd1	Cd96	Mlh1	Ugt1a1	Vps13d	Ank3	Sele	Smad7	Dlg5	Mgat4a	Fat1	Spry2	Kras	Ppard	Cd274	Slc22a7	Tmem131l	Cyp19a1	Ptgs2	Exo1	Adgrg7	Gm5150	Slc19a1	Rev3l
+CAPIVASERTIB	DGIdb_Drug_Targets_2024	Pik3ca	Akt3	Erbb2	Akt1	Akt2	Esr1	Esr2	Mtor
+CAPSAICIN	DGIdb_Drug_Targets_2024	Pcna	Abcb1a	Bdnf	Lif	Trpv1	Cyp3a13	Gfap	Epor	Nt5e	Ntf3	Cyp1a2	Scg5	Rnaseh2a	Nfe2l2
+CAPTOPRIL	DGIdb_Drug_Targets_2024	Mmp12	Ace	Sst	Serpine1	Ehmt2	Nos2	Myo9b	Cyp19a1	Gnrh1	Dpp4	Pik3cg
+CARBACHOL	DGIdb_Drug_Targets_2024	Chrm3	Chrna2	Chrm1	Chrm2	P2ry2
+CARBAMAZEPINE	DGIdb_Drug_Targets_2024	Ralbp1	Hspa1l	Mthfr	2410137M14Rik	Prrc2a	Pou5f1	Tnfrsf1b	Ar	Cyp2a12	Scn10a	Scn8a	Cyp1a2	H2-Ab1	Hspa1b	Cyp1a1	Lta	Scn4a	Scn2a	Alk	H2-Eb2	Nr1i3	Prl3d2	Tnf	Cyp3a13	Nr3c1	Bag6	Scn11a	Scn9a	Bglap2	Scn7a	Scn5a	Scn3a	Scn1a	Ggt1	Mill1
+CARBIDOPA	DGIdb_Drug_Targets_2024	Kdm4a	Ddc	Aldh1a1	Mapt	Hpgd	Ehmt2	Hsd17b10
+CARBOPLATIN	DGIdb_Drug_Targets_2024	Map3k1	Cdsn	Gsr	Mucl3	Nrg1	Slc31a1	Lig3	Msh2	Nrg3	Vegfa	Ass1	Mapt	Pik3ca	Scn10a	Msh5	Msh6	Cdk2	Nf2	Bcl2	Eif4e2	Trp53	Alk	Raf1	Nr1i2	Xylt2	Brca1	Tnf	Brca2	Rnf8	Cyp3a13	Egfr	Serpina5	Nras	Trim30a	Erbb2	Erbb3	Usp1	Dscam	Acss2	Pms2	Mlh1	Rrm1	Ugt1a1	2410137M14Rik	Mthfr	Xrcc1	Prrc2a	Trp73	Atat1	Ercc1	Aldh1a1	Aldh3a1	Ercc2	Apex1	Birc5	Fgfr1	Kras	Mad1l1	Cd274	Ppp1r18	Serpinc1	Cdkn1a	Dock8	Gstp1	Ets2	Hsd17b10	Fntb	Polk	Atp7b	Ros1	Atp7a	Or4d6	Slc19a1
+CARFILZOMIB	DGIdb_Drug_Targets_2024	Psmb9	Psmc6	Psmc4	Psmc5	Psmc2	Psmc3	Psmc1	Nfe2l2	Psmd11	Psmd10	Psmd13	Psmd12	Psmd14	Psmb11	Psmb10	Psmd9	Psmc3ip	Psmd7	Psmd5	Psmd6	Psmd3	Psmd4	Psmd1	Psmd2	Adrm1b	Ar	Psma6	Psma7	Psma4	Psma5	Sem1	Psma2	Psma3	Psme4	Psma1	Psme2b	Psme3	Psme1	Psma8	Psmb7	Psmb8	Psmb5	Psmb6	Psmb3	Psmb4	Psmb1	Psmb2	Psmf1
+CARMUSTINE	DGIdb_Drug_Targets_2024	Aldh1a1	Gsr	Mgmt	Cyp2d10	Cyp3a13
+CARVEDILOL	DGIdb_Drug_Targets_2024	Gsr	Adrb1	Adrb2	Adra1d	Adrb3	Adra1b	Adra1a	Gja1	Lep	Cyp1a2	Bax	Drd1	Nos1	Xdh
+CEDIRANIB	DGIdb_Drug_Targets_2024	Map4k2	Acvr1	Lyn	Pdgfrb	Plk4	Map2k2	Pdgfra	Syk	Mink1	Braf	Ptk6	Lck	Fer	Axl	Kit	Fgfr1	Nf1	Taok1	Prkd2	Fgfr3	Alk	Fgfr2	Frk	Csf1r	Blk	Ret	Flt1	Src	Ltk	Flt4	Camk2b	Brca1	Mst1r	Brca2	Stk3	Aurkb	Slk	Erbb4	Erbb2	Chek2	Vhl	Kdr	Abl1	Fyn	Map4k4	Map4k5
+CELECOXIB	DGIdb_Drug_Targets_2024	Car12	Edn1	Cacna2d2	Cacna2d1	Cacna2d4	Cacna2d3	Hspa4	Braf	Mmp9	Vegfa	Apc	Pik3ca	Nfe2l2	Bcar1	Col18a1	mt-Co2	Alox12	Cyp3a13	Casp9	Casp3	Pdpk1	Stat3	Igfbp3	Ar	Cacnb2	Cacnb3	Cacnb4	Kcnq1	Kcnq2	Kcnq3	Kcnq4	Ddit3	Kcnq5	Pparg	Ghrl	Ptges	Cacnb1	Cdkn1b	Cdkn1a	Il23r	Cacna1a	Ctnnb1	Ptger4	Cacna1c	Atp2a3	Cacna1b	Atp2a2	Cacna1e	Plau	Atp2a1	Cacna1d	Rorc	Cacna1g	Cacna1f	Cacna1i	Ptgs1	Cacna1h	Ptgs2	Bglap2	Cacna1s	Abl1	Pdk1
+CENISERTIB	DGIdb_Drug_Targets_2024	Acvr1	Pdgfrb	Pdgfra	Matk	Hipk2	Hipk4	Dclk1	Melk	Axl	Frk	Rock1	Rock2	Aurka	Mst1r	Prkx	Egfr	Prkaa1	Aurkc	Aurkb	Pak1	Chek1	Csnk1d	Chek2	Kdr	Pak4	Insr	Plk4	Prkcg	Map2k2	Prkci	Prkcd	Map2k1	Tnk2	Dyrk1b	Mink1	Prkcz	Fgfr1	Btk	Prkd3	Prkcq	Prkd2	Fgfr3	Brsk1	Blk	Igf1r	Tbk1	Nek2	Abl1	Nek4	Pim3	Ros1	Mark3	Mark2	Prkaca	Lyn	Limk1	Irak4	Cdc7	Tyk2	Cdc42bpa	Clk4	Clk2	Cdk7	Fer	Cdk5	Cdk2	Cdk1	Sgk2	Itk	Alk	Ret	Lrrk2	Tssk1	Stk3	Erbb4	Erbb2	Mknk2	Irak1	Map3k20	Prkg1	Map4k2	Ntrk2	Syk	Pdpk1	Dapk3	Lck	Kit	Rps6kb1	Taok1	Met	Pkn2	Csnk1g1	Tssk2	Csnk1g3	Csnk1g2	Flt1	Src	Ltk	Flt3	Flt4	Camk2a	Camk2b	Mapk9	Mapk8	Ptk2b	Fyn	Camk2g	Jak3	Ikbke	Map4k4	Jak2	Map4k5
+CEP 11981	DGIdb_Drug_Targets_2024	Flt1	Gsk3b	Fcgr1	Flt4	Akt1	Tek	Kdr	Abl1	Egfr	Jak2
+CEP 1347	DGIdb_Drug_Targets_2024	Rps6ka6	Rps6ka1	Map3k10	Map3k11	Map3k9	Map3k12	Map4k4	Map3k13
+CERITINIB	DGIdb_Drug_Targets_2024	Nras	Abcb1a	Map2k1	Keap1	Tssk1	Cyp3a13	Ros1	Igf1r	Trp53	Alk	Eml4
+CETUXIMAB	DGIdb_Drug_Targets_2024	Idh1	Egf	Smad4	Map2k1	Bdnf	Nrg1	Nrg2	Braf	Nrg3	Vps37a	Ereg	Btc	Ptp4a3	Mgat4a	Pik3ca	Nf2	Met	Kras	Hbegf	Trp53	Ctnnb1	Tgfa	Areg	Egfr	Fcgr4	Nras	Nt5e	Erbb2	Erbb3	Hras	Gc
+CHENODIOL	DGIdb_Drug_Targets_2024	Ar	Abcb11	Nr1i2	Pla2g1b	Gpbar1	Nr1h4
+CHLORDIAZEPOXIDE	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Ar	Gabrr3	Gabrr2	Gabrr1	Gabre	Gabrd
+CHLOROTHIAZIDE	DGIdb_Drug_Targets_2024	Slc12a3	Car2	Car1	Car4	Kcnma1
+CHLOROTRIANISENE	DGIdb_Drug_Targets_2024	Ar	Rorc	Esr1	Esr2	Npsr1
+CHLOROXINE	DGIdb_Drug_Targets_2024	Ar	Hsp90aa1	Gmnn	Atad5	Htt	Oprk1	Ehmt2	Trp53
+CHLORPROMAZINE	DGIdb_Drug_Targets_2024	Epm2a	Idh1	Abcb1a	Nr1i2	Bdnf	Mthfr	Hspa4	Htr2a	Cck	Cyp3a13	Nts	Htr7	Thpo	Cyp2d10	Cyp1a2	Drd2	Cyp2e1	Drd3	Drd4	Abcg3	Trp53
+CHLORPROTHIXENE	DGIdb_Drug_Targets_2024	Hrh1	Htr2c	Drd1	Htr2a	Drd2	Htr2b	Drd3
+CHOLECALCIFEROL	DGIdb_Drug_Targets_2024	Ar	Fcgr4	Vdr	Gmnn	Mapt	Alox15	Ehmt2	Cyp3a13	Rorc	Esr1	Nfe2l2
+CI 1040	DGIdb_Drug_Targets_2024	Map2k2	Map3k1	Map3k2	Rock1	Map2k1	Braf	Prkca	Mapk12	Stk11	Lck	Mapk8	Chek1	Rps6ka1	Rps6kb1	Akt1	Hras	Mapk1	Sgk1
+CILENGITIDE	DGIdb_Drug_Targets_2024	Itga5	Itgb5	Itgb3	Bcl2	Itgav
+CILOSTAZOL	DGIdb_Drug_Targets_2024	Thbd	Aldh1a1	Csf2	Cyp2d10	Cyp1a2	Pde3a	Cyp3a13	Vegfa	Tshr
+CIMETIDINE	DGIdb_Drug_Targets_2024	Fcgr4	Hrh2	Cyp2d10	Slc22a2	Cyp1a2	Polk	Nos1	Cyp3a13
+CINNARIZINE	DGIdb_Drug_Targets_2024	Hrh1	Jun	Cacna1c	Cacna1s	Cfl1	Cdk1	Cacna1d	Cacna1f	Kcnh2	Npsr1
+CINOLAZEPAM	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra5	Gabrg1	Gabrg3	Gabrg2	Gabrr3	Gabrr2	Gabrr1	Gabre	Gabrd
+CISPLATIN	DGIdb_Drug_Targets_2024	Map3k1	Rars1	Ube2i	G6pdx	Recql	Msh2	Smarca4	Ass1	Mycs	Fas	Mthfd1	Bax	Cdk12	Mphosph8	Trp53	Raf1	Rb1	Galnt14	Adh1	Hpgd	Aqp9	Galnt18	Aurka	Egfr	Tyms	Nras	Chek1	Ccnd1	E2f1	Myc	Nhlh1	Acss2	Idh1	Sema6a	Wfs1	Xrcc5	Actl6a	Gadd45a	Xrcc3	Xrcc1	Fanca	Cyba	Fancc	Mir21a	Esr1	H2ac25	Gclc	Fgfr1	Gnas	Birc7	Cdh17	Dnmt1	Gclm	Fgfr3	Mdm2	Cd274	Slc22a1	Tpmt	Plau	Fasl	Osgep	Htr4	Tgm2	Rgs4	Anpep	Slc19a1	Abcc4	Abcc5	Gstm4	Hspa8	Cbx1	Lif	Nrg1	Hspa4	Tmem43	Dcbld1	Clcn6	Il6	Kat2a	Mapt	Pik3ca	Ifng	Nf2	Atm	Bcl2	Blmh	Top1	Atr	Nfe2l2	Alk	Nr1i2	Alox15	Brca1	Brca2	Mllt3	Krt20	Mecp2	Dram1	Casp3	Mutyh	Gabpa	Ntrk2	Dffb	Mdh2	Mgmt	Stat1	Rrm1	Atrx	Ercc1	Aldh1a1	Ercc4	Ercc2	Xiap	Apex1	Ddit3	Ercc6	Fxn	Polr1g	Kras	Ppard	Cd44	Grp	Gstp1	Ehmt2	Hsd17b10	Syne3	Ppp1r13l	Atp7b
+CLEVIDIPINE	DGIdb_Drug_Targets_2024	Cacna1c	Cacna1s	Cacna1b	Cacng1	Cacna1d	Cacna1f
+CLOFARABINE	DGIdb_Drug_Targets_2024	Rrm2	Flt3	Rrm1	Prim2	Ar	Pola1	Pold4	Pola2	Pole	Pold1	Pole2	Rrm2b	Pold2	Pole3
+CLOFIBRATE	DGIdb_Drug_Targets_2024	Jun	Ppara	Slc2a4	Cyp3a13	Slco1b2	Scd2	Cyp2d10	Cfl1	Cyp1a2	Cdk1	Trp53	Fabp1
+CLOMIPRAMINE	DGIdb_Drug_Targets_2024	Ephx1	Bdnf	Htr1b	2410137M14Rik	Oprm1	Htr1a	Fchsd1	Ddit4	Cyp1a2	Fkbp5	Adgrl3	Ppard	Trp53	Ces1d	Crhr1	Abcb1a	Grik4	Grik2	Cyp3a13	Slc6a2	Comt	Slc6a4	Rptor	Rgs4	Cyp2d10	Akt1	Scn5a	Drd1	Cacng2
+CLONAZEPAM	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabrr3	Gabrr2	Gabrr1	Cyp1a2	Tspo	Gabre	Gabrd
+CLONIDINE	DGIdb_Drug_Targets_2024	Cyp2d10	Prl3d2	Adra2c	Adra2b	Adra2a
+CLOTIAZEPAM	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabrr3	Gabrr2	Gabrr1	Gabre	Gabrd
+CLOZAPINE	DGIdb_Drug_Targets_2024	Epm2a	Gstm6	Aoc1l1	Cbx1	Dtnbp1	Gcg	Htr1a	Prkab2	Il2	Rabep1	Lep	Cyp1a2	Cyp1a1	Fkbp5	Abcc1	Abcg3	Chrm1	Prkaa2	Itih3	Slc1a1	Glp1r	Htr2c	Prl3d2	Htr2a	Cyp3a13	Oxt	Elavl2	Nt5e	Hrh1	Hrh4	Sh2b1	Drd1	Drd2	Drd4	Ntrk2	Nqo2	Jund	H2-Eb2	Ugt1a1	2410137M14Rik	Mthfr	Gfra2	Htr3a	Tbc1d1	Nfib	Cckbr	Fasn	Gdnf	Faah	Src	Hnmt	Slc6a3	Cyp2c55	Slc6a4	C3	Pik3cg	Grin2b	Htr7	Mc4r	Trat1	Ugt1a2	Kcnj3	Poli
+CNS 5161	DGIdb_Drug_Targets_2024	Grin3a	Grin2b	Grin2a	Grin3b	Grin2d	Grin2c	Grin1
+COBIMETINIB	DGIdb_Drug_Targets_2024	Nras	Map2k2	Map2k1	Pik3ca	Nf1	Araf	Braf	Cbl	Raf1
+COCAINE	DGIdb_Drug_Targets_2024	Gabra2	Chrna3	Scn11a	Scn10a	Oprk1	Scn5a	Drd1	Slc6a1	Drd3	Slc6a2	Slc6a3	Slc6a4
+CODEINE	DGIdb_Drug_Targets_2024	Ar	Abcb1a	Oprd1	Septin3	Wbp2nl	Oprk1	Cyp1b1	Oprm1	Comt
+COLCHICINE	DGIdb_Drug_Targets_2024	Crebbp	Jun	Atad5	Bdnf	Tubb5	Nrg1	Il18	Gfap	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Ar	Scd2	Tubb2b	Pax8	Cyp1a2	Rara	Nfe2l2	Itgb2l	Abcb1a	Gmnn	Sri	Tubb1	Slc2a4	Cyp3a13	Rorc	Tuba1a	Tuba3b	Pik3cg	Tuba1c	Tuba1b	Tubb6	Anpep	Cyp2d10	Map2	Ntf3	Tubb3
+COLLAGENASE CLOSTRIDIUM HISTOLYTICUM	DGIdb_Drug_Targets_2024	Col18a1	Col27a1	Col28a1	Col15a1	Col11a2	Col1a2	Col2a1	Col1a1	Col4a1	Col3a1	Col4a3	Col5a2	Col6a1	Col4a2	Col5a1	Col4a5	Col6a3	Col5a3	Col6a2	Col6a5	Col11a1	Col4a6	Col6a6
+CRENOLANIB	DGIdb_Drug_Targets_2024	Idh1	Pdgfrb	Pdgfra	Flt3	Idh2	Met	Cbl	Alk
+CRIZOTINIB	DGIdb_Drug_Targets_2024	Ntrk2	Ntrk3	Abcb1a	Ntrk1	Keap1	Ptpn12	Braf	Areg	Egfr	Igf1r	Eml4	Kit	Pik3ca	Erbb2	Hras	Met	Abl1	Kras	Ros1	Trp53	Alk	Jak2	Mdm2
+CUDC 101	DGIdb_Drug_Targets_2024	Hdac5	Yes1	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Hdac9	Egfr	Hdac7	Hdac8	Erbb2
+CURCUMIN	DGIdb_Drug_Targets_2024	Vdr	Gstm6	Bdnf	Dnmt3c	Tubb5	Mmp9	Tubb2a	Tuba4a	Mmp13	Wt1	Tubb2b	Mapt	Iapp	Top1	Alpi	Nfe2l2	App	Abcb1a	Hpgd	Tubb1	Cyp3a13	Gls	Tuba3b	Egfr	Car2	Car1	Tubb6	Erbb4	Car6	Erbb2	Erbb3	Hsd17b3	Usp2	Usp1	Ccn2	Smad3	Smad2	Dffb	Tubb4b	Tubb4a	Ddit3	Dnmt1	Ptges	Gmnn	Camk2a	Gstp1	Slc2a4	Tuba1a	Ptgs1	Ptgs2	Thbd	Tuba1c	Tuba1b	Anpep	Xdh	Nos2	Ugt1a10
+CYC 116	DGIdb_Drug_Targets_2024	Lyn	Csnk1a1	Pdgfra	Irak4	Cdc7	Hipk2	Tyk2	Clk4	Clk2	Mapk12	Fer	Cdk5	Cdk2	Cdk1	Epha2	Sgk2	Itk	Frk	Ret	Gsk3b	Gsk3a	Rock1	Rock2	Aurka	Cyp3a13	Egfr	Prkaa1	Aurkc	Stk3	Aurkb	Slk	Chek1	Csnk1d	Cyp2d10	Mknk2	Chek2	Irak1	Akt1	Kdr	Map3k20	Pak4	Map4k2	Yes1	Insr	Ntrk3	Plk4	Csnk2a1	Syk	Pdpk1	Dapk3	Tnk2	Dyrk1a	Wee1	Lck	Kit	Rps6kb1	Fgfr1	Taok1	Met	Prkd3	Pkn2	Prkd2	Csnk1g1	Fgfr3	Csnk1g2	Brsk1	Csf1r	Blk	Flt1	Src	Ltk	Flt3	Camk2a	Camk2b	Mapk9	Mapk8	Phkg2	Tbk1	Rps6ka3	Nek2	Abl1	Fyn	Nek4	Camk2g	Jak3	Ros1	Ikbke	Map4k4	Mark3	Jak2	Map4k5	Prkaca
+CYCLOHEXIMIDE	DGIdb_Drug_Targets_2024	Rpl22	Rps8	Rpl21	Rps9	Rpl24	Rps6	Rpl23	Rps7	Rpl13a	Rps3a1	Rpsa	Fau	Rpl26	Rpl28	Rpl27	Rpl29	Nfe2l2	Rpl11	Rpl10	Rpl13	Glp1r	Rpl12	Hsf1	Rpl15	Rpl14	Rps5	Gm6133	Rps2	Rps3	Rpl19	Rps15a	Rpl18	Rps27a	Smad3	Idh1	Atad5	Nr2f2	Eef2	Ar	Rps26	Rps29	Rps28	Rps21	Rps20	Rps23	Ppard	Rps25	Rpl6	Rpl3	Rpl30	Rpl4	Rpl35	Rpl34	Rplp1	Rorc	Hif1a	Nr3c1	Rpl8	Rps16	Rps15	Rps4x	Rps18	Rpl18a	Rps17	Rps19	Rpl36	Rps10	Rpl38	Rps11	Rpl7a	Rps14	Rps13
+CYCLOPHOSPHAMIDE	DGIdb_Drug_Targets_2024	Epha6	Abcc2	Abcc3	Gstm6	Cbx1	Ppp2r5d	Gnl3	Tubb2a	Bmp7	Rbx1	Spidr	Tnfrsf1a	Il5	Cxcl12	Fcgr3	Mycs	Dok5	Fas	Ifng	Cyp1a2	Atm	Bax	Top1	Abcg3	Ccnk	Adh1	Hmmr	Ighmbp2	Cyp3a13	Mtr	Pik3r2	Foxo1	Slco1b2	Actb	Fcgr4	Cyp4x1	Cyp2d10	Ntf3	Perp	Cyp1b1	Misp	Mutyh	Cbr3	Insr	Cbr1	Cpt1a	Ntrk1	Cyba	Sod2	Cyp2a12	Nat1	Aldh3a1	Fgfr4	Atf5	Pnpla3	Irs1	Tpmt	Ctnnb1	Ncf4	Gstp1	Ehmt2	Ikzf3	Itgal	Cxcr2	Mapk3	Nos1	Rac2
+CYCLOSPORINE	DGIdb_Drug_Targets_2024	Abcc2	Tcf7l2	Caml	Gzma	Mthfr	Nfatc2	Nfatc1	Vcam1	Dhfr	Ppia	Abcb11	Impdh2	Lep	Cyp1a2	Abcc1	Abcg3	Nfe2l2	Calm1	Itgb2l	Abcb4	Abcb1a	Nr1i2	Tpmt	Nod2	Tnf	Cyp3a13	Umod	Itgal	Fcgr4	Ppp3r1	Atic	Ppp3r2	Atxn2	Tbxa2r	Anpep	Rps19	Cyp2d10	Ctla4	Muc16	Slc19a1	Jak1	Ugt1a10
+CYPROTERONE	DGIdb_Drug_Targets_2024	Ar	Cyp2d10	Cyp1a2	Cyp3a13
+CYPROTERONE ACETATE	DGIdb_Drug_Targets_2024	Ar	Adra1d	Pgr	Nr3c1	Lcn11
+CYTARABINE	DGIdb_Drug_Targets_2024	Abcc4	Ncoa3	Abcc3	Runx1	Hspa4	Msh2	Bmp7	Pola1	Pola2	Wt1	Dok5	Rrm2b	Pole3	Cyp1a2	Cda	Trp53	Alk	Adh1	Ighmbp2	Cyp3a13	Tyms	Nt5c2	Slco1b2	Cyp2d10	Slc22a12	Cbr3	Nqo1	Idh1	Nqo2	Rrm2	Cpt1a	P2ry12	Nos3	Rrm1	Ugt1a1	Idh2	Sult2b1	Nt5c3	Cyp2e1	Atf5	Pnpla3	Flt3	Kmt2a	Tpmt	Prim2	Prim1	Ehmt2	Ikzf1	Med12l	Pold4	Polb	Pole	Pold1	Pold2	9930021J03Rik
+DABIGATRAN	DGIdb_Drug_Targets_2024	Nqo2	Adk	Hyou1	Hnrnpc	F2	Hnmt
+DABRAFENIB	DGIdb_Drug_Targets_2024	Cd274	Map2k2	G6pdx	Map2k1	Braf	Eml4	Atxn1l	Nras	Pik3ca	Akt1	Nf1	Hras	Rac1	Kras	Ezh2	Alk	H2-Eb2
+DABRAFENIB MESYLATE	DGIdb_Drug_Targets_2024	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Braf	Map2k7
+DACARBAZINE	DGIdb_Drug_Targets_2024	Pola2	Cyp2d10	Cyp1a2	Bax	Fn1	Plau	Cyp3a13
+DACTOLISIB	DGIdb_Drug_Targets_2024	Map4k2	Limk1	Arid1a	Braf	Mtor	Clk4	Ar	Apc	Cdk7	Pik3cb	Pik3r1	Pik3ca	Met	Kras	Fgfr3	Nfe2l2	Alk	Csf1r	Ltk	Lrrk2	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3r2	Aurkb	Pik3cg	Pik3r6	Nras	Chek1	Nek2	Hras	Jak2	Map4k5
+DALFAMPRIDINE	DGIdb_Drug_Targets_2024	Kcnf1	Kcnh3	Kcnh4	Kcnd1	Kcnh5	Kcnd2	Kcnh6	Kcnb1	Kcnd3	Kcnh7	Kcnh8	Kcns1	Kcns2	Kcnq1	Kcns3	Kcnq3	Kcnq4	Kcna10	Kcnq5	Kcng1	Kcng2	Kcng3	Kcng4	Kcnc1	Kcnc2	Kcna1	Kcnc3	Kcna2	Kcnc4	Kcna3	Kcna4	Kcna5	Kcna6	Kcna7	Kcnv1	Kcnv2	Cyp2d10	Kcnh1	Kcnh2
+DANAZOL	DGIdb_Drug_Targets_2024	Cyp3a13	Plg	Cp	Esr1	Ar	Sts	Cyp2d10	Cyp1a2	Gnrhr	Pgr	Mbl2
+DANTROLENE	DGIdb_Drug_Targets_2024	Ryr1	Mapt	Cyp2d10	Cyp1a2
+DASATINIB	DGIdb_Drug_Targets_2024	Acvr1	Lyn	Pdgfrb	Pdgfra	Limk1	Tet2	Irak4	Braf	Cdc42bpa	Mapk14	Tec	Fes	Apc	Axl	Pik3ca	Nf1	Sik2	Epha2	Frk	Ddr2	Abcb1a	Csf3r	Brca2	Aurkb	Crkl	Slk	Erbb4	Erbb2	Kdr	Map3k20	Smad3	Stat5b	Yes1	Idh1	Plk4	Map2k2	Srms	Map2k1	Syk	Idh2	Tnk2	Mink1	Arid1a	Ptk6	Esr1	Hck	Ar	Bcr	Fgr	Lck	Kit	Fgfr1	Map3k10	Btk	Taok1	Kras	Pkn2	Fgfr3	Ppard	Csf1r	Blk	Src	Dyrk3	Gmnn	Abl2	Hras	Abl1	Fyn	Jak2	Map4k5
+DAUNORUBICIN	DGIdb_Drug_Targets_2024	Gpx3	Gstm5	Dnmt3a	Runx1	Recql	Rpsa	Bmp7	Col1a2	Wt1	Abcc10	Dok5	Mapt	Fas	Cyp1a1	Top1	Abcc1	Abcg3	Cda	Top2b	Abcb1a	Top2a	Ighmbp2	Szrd1	Tyms	Serpina6	Slco1b2	Slc22a17	Usp1	Idh1	Slc13a3	Slc15a1	Cbr1	Abca1	Cpt1a	Nos3	Ugt1a1	Idh2	Mthfr	Dck	Sod2	Ar	Abcb11	Slco4c1	Apex1	Man1b1	Atf5	Pnpla3	Hdac5	Hdac6	Nrp2	Hdac3	Slc22a7	Blm	Hdac4	Setd4	Flt3	Hdac1	Hdac11	Thrb	Cbfb	Hdac10	Hdac2	Kmt2a	Tpmt	Htt	Gstp1	Ehmt2	Ikzf1	Slco6c1	Gata3	Hdac9	Hdac7	Hdac8	Polk	Xdh	Atp7b	Cyp2j13
+DECITABINE	DGIdb_Drug_Targets_2024	Idh1	Rb1	Flt3	Gmnn	Dnmt3a	Idh2	Kras	Dnmt1	Trp53
+DENILEUKIN DIFTITOX	DGIdb_Drug_Targets_2024	Il2ra	Il2rb	Eef2	Il2rg	Il12rb2	Il12rb1
+DESIPRAMINE	DGIdb_Drug_Targets_2024	Arsa	Ephx1	Bdnf	2410137M14Rik	Oprm1	Htr1a	Fchsd1	Mc1r	Ddit4	Adgrl3	Ces1d	Crhr1	Abcb1a	Chrm1	Chrm2	Grik4	Adrb1	Adrb2	Grik2	Htr2a	Cyp3a13	Slc6a2	Comt	Slc6a4	Rptor	Hrh1	Rgs4	Thpo	Cyp2d10	Akt1	Cacng2	Drd3
+DESLANOSIDE	DGIdb_Drug_Targets_2024	Ar	Fxyd2	Atp1a4	Atp1a3	Atp1b3	Atp1a1	Atp1b2	Atp1b1
+DEXAMETHASONE	DGIdb_Drug_Targets_2024	Anxa1	Hspa8	Tsc22d3	Lif	Nrg1	Vcam1	Bmp7	Vegfa	Tgfbr3	Nr5a1	Tg	Krt19	Cdk6	Crispld2	Dok5	Cdk4	Soat1	Cdk2	Cyp1a2	Agtr1b	Dpep1	Rara	Thrsp	Nfe2l2	Chrm3	Cd86	Rela	Ret	Nr1i2	Mug1	Serpine1	Pth1r	Cyp3a13	Gls	Ubr1	Tyms	Cyp2d10	Kdr	S100a10	Tead1	Ptgdr	Sds	Smad3	Igfbp1	Ntrk1	Ugt1a1	Cartpt	Ar	Tjp1	F9	Birc5	F2rl1	Sag	Sftpa1	Cdh17	Folr1	Fabp1	Irs2	Ctnnb1	Gstp1	Chat	Pygl	Slc2a4	Actc1	Gata3	Nr3c1	Nppc	Htr7	Hyal2	Rps19	Sis	Tdo2	Junb	Ggt1	Ccl17	Apob
+DEXTROMETHORPHAN	DGIdb_Drug_Targets_2024	Grin3a	Sigmar1	Abcb1a	Cyp2d10	Ercc6	Cyp3a13
+DIAZEPAM	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	G6pdx	Gabrb1	Gabra6	Gabra5	Gabra4	Slc2a1	Gabrg1	Gabrg3	Gabrg2	Gabrr3	Gabrr2	Gabrr1	Cckbr	Alb	Tspo	Gabre	Gabrd
+DIAZOXIDE	DGIdb_Drug_Targets_2024	Slc12a3	Snap25	Nt5e	Kcnj8	Cyp2d10	Lpl	Cyp1a2	Ehmt2	Cck	Cyp7b1	Nos2
+DIBUCAINE	DGIdb_Drug_Targets_2024	Gmnn	Scn10a	Cyp1a2	Scn5a	Myo9b
+DICLOFENAC	DGIdb_Drug_Targets_2024	Abcc2	Gdf15	Pla2g4a	Alb	Cyp1a2	Ddit3	Pparg	Ugt1a10	Slc22a7	Tnfrsf11a	Prl3d2	Mpo	Cyp3a13	Ptgs1	Ptgs2	Anpep	Cyp2d10	Ugt1a6a	Plcg1	Ggt1	Ccl17
+DICUMAROL	DGIdb_Drug_Targets_2024	Vkorc1	Gstm6	Cdkn1a	Nfe2l2
+DICYCLOMINE	DGIdb_Drug_Targets_2024	Chrm1	Cyp2d10	Cyp1a2	Drd1	Cyp3a13
+DIENESTROL	DGIdb_Drug_Targets_2024	Gmnn	Adrb2	Cyp3a13	Esr1	Alox8	Nfe2l2
+DIETHYLSTILBESTROL	DGIdb_Drug_Targets_2024	Esrrb	Gmnn	Nr1i2	Ptges3	Nr1h4	Cyp3a13	Esrrg	Lpo	Rorc	Esr1	Ar	Slc5a7	Cyp2d10	Hras	Dnmt1	Nfe2l2
+DIGITOXIN	DGIdb_Drug_Targets_2024	Smad3	Top2b	Idh1	Gmnn	Atad5	Stat3	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Atp1a1	Atp1b2	Atp1b1	Nr3c1	Ar	Fxyd2	Nfe2l2
+DIGOXIN	DGIdb_Drug_Targets_2024	Idh1	Stat3	Atp1b3	Atp1b2	Atp1b1	Ar	Pax8	Fxyd2	Cyp1a2	Vip	Nfe2l2	Abcb1a	Gmnn	Atp1a4	Atp1a3	Tnf	Atp1a2	Cyp3a13	Rorc	Atp1a1	Nr3c1	Cst10	Rgs4	Cyp2d10	Ccn2	Tac1	Tshb
+DILTIAZEM	DGIdb_Drug_Targets_2024	Cyp1a2	Cacng1	Cyp3a13
+DINACICLIB	DGIdb_Drug_Targets_2024	Cdk9	Cdk5	Ccne1	Myc	Cdk2	Cdk1
+DINOPROSTONE	DGIdb_Drug_Targets_2024	Ptger1	Ptger2	Ptger3	Ptger4	Tshr
+DIPIVEFRIN HYDROCHLORIDE	DGIdb_Drug_Targets_2024	Adrb1	Adrb2	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+DIPYRIDAMOLE	DGIdb_Drug_Targets_2024	Hsp90aa1	Pde6h	Pde6g	Kat2a	Pde3b	Atm	Pde3a	Rapgef3	Pde7b	Abcc1	Ada	Pde7a	Rapgef4	Brca1	Cyp3a13	Cyp2d10	Pde4c	Pde4b	Usp1	Drd1	Pde4a	Pde8b	Pde8a	Plk1	Atad5	Pde4d	Alox8	Tshr	Pde5a	Slc29a1	Pde9a	Tsg101	Gmnn	Hsp90ab1	Thrb	Pde1c	Pde1b	Pde1a	Ehmt2	Slc2a4	Hsd17b10	Pde2a	Pde6d	Pde6c	Pde6b	Pde6a
+DISULFIRAM	DGIdb_Drug_Targets_2024	Kdm4a	Vdr	Hsp90aa1	Plk1	Atad5	Cbx1	Mthfr	Runx1	Gfap	Mtor	Nfkb1	Ar	Aldh1a1	Aldh3a1	Cyp1a2	Agtr1b	Ankk1	Mphosph8	Nfe2l2	Ppard	Abcb1a	Tph2	Oprd1	Gmnn	Cbfb	Hpgd	Dbh	Ehmt2	Adrb2	Cyp3a13	Adra1a	Hsd17b10	Slc6a4	Rgs4	Aldh2	Thpo	Tspo	Drd2	Ggt1
+DOCETAXEL	DGIdb_Drug_Targets_2024	Tub	Fbxw7	Map3k1	Tle3	Gstm6	Slc10a2	Abcc6	Tubb5	Tubb2a	Tuba4a	Abcc10	Tubb2b	Folh1	Pik3ca	Bax	Bcl2	Cyp1a1	Abcc1	Gas6	Trp53	Raf1	Nr1i2	Rpl13	Nr1i3	Tubb1	Spg7	Klk1b24	Rnf8	Tuba3b	Ppcdc	Slco1b2	Rxra	Tubb6	Erbb2	Tubb3	Erbb3	Hnf4a	Acss2	Brd4	Ephx1	Xrcc3	Xrcc4	Cyp4b1	Xrcc1	Igf2	Esr1	Esr2	Tubb4b	Tubb4a	Sod2	Cyp2a12	Nat1	Birc5	Fgfr1	Mdm4	Pgp	Snord68	Kras	Pgr	Chst3	Fgfr3	Ppard	Cd44	Vac14	Orm2	Gstp1	Tuba1a	Prdx4	Stk11	Tuba1c	Tuba1b	Hras	Muc16	Atp7a
+DOFETILIDE	DGIdb_Drug_Targets_2024	Ar	Kcnj12	Cyp2d10	Cyp1a2	Cyp3a13	Kcnk2	Kcnh2
+DOLASETRON	DGIdb_Drug_Targets_2024	Kcnq1	Htr3a
+DOLASTATIN 10	DGIdb_Drug_Targets_2024	Tub	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+DOMPERIDONE	DGIdb_Drug_Targets_2024	Abcb1a	Atad5	Cyp2d10	Drd2	Kcnh2
+DORAMAPIMOD	DGIdb_Drug_Targets_2024	Ntrk2	Yes1	Lyn	Ntrk3	Pdgfrb	Flt4	Egfr	Mapk13	Mapk14	Mapk12	Cdk8	Lck	Mapk9	Mapk10	Kdr	Tyro3	Prkd2	Map4k4
+DORLIMOMAB ARITOX	DGIdb_Drug_Targets_2024	Rpl22	Rpl21	Rps9	Rpl24	Rps6	Rpl23	Rps7	Rpl13a	Rps3a1	Rpsa	Fau	Rpl26	Rpl28	Rpl27	Rpl29	Rpl11	Rpl10	Rpl13	Rpl12	Rpl15	Rpl14	Rps5	Gm6133	Rps2	Rps3	Rpl19	Rps15a	Rpl18	Rps27a	Rps26	Rps29	Rps28	Rps21	Rps20	Rps23	Rps25	Rpl6	Rpl3	Rpl30	Rpl4	Rpl35	Rpl34	Rplp1	Rpl8	Rps16	Rps15	Rps4x	Rps18	Rpl18a	Rps17	Rps19	Rpl36	Rps10	Rpl38	Rps11	Rpl7a	Rps14	Rps13
+DOVITINIB	DGIdb_Drug_Targets_2024	Acvr1	Lyn	Pdgfrb	Pdgfra	Limk1	Cflar	Tyk2	Clk4	Clk2	Melk	Cdk7	Mapk10	Axl	Sik2	Sgk2	Itk	Alk	Ret	Rock2	Lrrk2	Tssk1	Mst1r	Prkx	Prkaa1	Stk3	Aurkb	Slk	Chek1	Csnk1d	Chek2	Irak1	Kdr	Map3k20	Pak4	Map4k2	Ntrk2	Yes1	Insr	Ntrk3	Plk4	Map2k2	Ntrk1	Prkcd	Map2k1	Pdpk1	Mink1	Hck	Srpk1	Lck	Kit	Rps6kb1	Fgfr1	Map3k10	Btk	Tyro3	Prkd3	Pkn2	Prkd2	Fgfr4	Fgfr3	Fgfr2	Brsk1	Csf1r	Blk	Flt1	Src	Flt3	Flt4	Fgf3	Camkk2	Rps6ka5	Mapk8	Phkg2	Rps6ka3	Pim2	Nek2	Abl1	Fyn	Nek4	Camk2g	Mark4	Ikbke	Map4k4	Mark3	Jak2	Map4k5	Mark2
+DOXACURIUM CHLORIDE	DGIdb_Drug_Targets_2024	Chrna2	Chrnd	Chrna1	Chrne	Chrm2	Chrng	Chrnb1
+DOXAZOSIN	DGIdb_Drug_Targets_2024	Atad5	Adra1d	Adra1b	Mtor	Adra1a
+DOXEPIN	DGIdb_Drug_Targets_2024	Ephx1	Bdnf	2410137M14Rik	Oprm1	Htr1a	Fchsd1	Ddit4	Cyp1a2	Adgrl3	Ces1d	Chrm3	Chrm4	Crhr1	Abcb1a	Chrm1	Chrm2	Chrm5	Grik4	Htr2c	Grik2	Htr2a	Cyp3a13	Htr2b	Slc6a2	Comt	Slc6a4	Rptor	Hrh2	Hrh1	Rgs4	Akt1	Cacng2	Drd3	Kcnh2
+DOXORUBICIN	DGIdb_Drug_Targets_2024	Tgfb1	G6pdx	Msh2	Sdhb	Rpsa	Lrp1b	Mapk14	Col1a2	Dok5	Mthfd1	Cyp1a2	Bax	Cyp1a1	Abcg3	Trp53	Galnt14	Nt5e	Myb	Ccnd1	Cyp2d10	Cyp1b1	Slc15a1	Abca1	Gadd45a	Xrcc1	Aldh3a1	Birc5	Mdm2	Cd274	Slc22a7	Kmt2a	Tpmt	Slco6c1	Fasl	Xpc	Gata3	Tgm2	Cyp2j13	Abcc4	Il11	Abcc5	Edn1	Gpx3	Gstm5	Abcc3	Gstm6	Abcc9	Bdnf	Dnmt3a	Myod1	Tet2	Braf	Bmp7	Zeb1	Clcn6	Fcgr3	Abcc10	Pik3cb	Sp3	Pik3ca	Atm	Bcl2	Top1	Nfe2l2	Alk	Top2b	Abcb1a	Nr1i2	Top2a	Ighmbp2	Brca1	Cyp3a13	Mtr	Serpina6	Slco1b2	Fcgr4	Klc3	Slc22a17	Casp3	Nqo1	Ntrk2	Slc13a3	Cbr1	Cpt1a	Ugt1a1	Sod2	Taf1	Ercc1	Abcb11	Ppm1d	Ercc2	Slco4c1	Apex1	Pnpla3	H2ax	Cdkn1b	Src	Setd4	Flt3	Afp	Pik3cg	Polk	Xdh
+DROPERIDOL	DGIdb_Drug_Targets_2024	Cyp2d10	Htr2a	Drd2	Drd3	Drd4
+DS 7423	DGIdb_Drug_Targets_2024	Pik3cb	Pik3r1	Pik3ca	Pik3r5	Pik3cd	Pik3r3	Pik3r2	Mtor	Trp53	Pik3cg
+DULOXETINE	DGIdb_Drug_Targets_2024	Kmt2e	Invs	Gmnn	Ncam1	Tex10	Nrxn1	Atp10a	Mief2	Slc6a2	Slc6a4	Ano2	Htr7	Il6	Treml4	Drd3
+DURVALUMAB	DGIdb_Drug_Targets_2024	Idh1	Cd274	Mlh1	Pbrm1	Atm	Msh2	Pms2	Alk
+DYPHYLLINE	DGIdb_Drug_Targets_2024	Pde4d	Pde4c	Pde4b	Pde4a	Pde7b	Pde7a
+E 3810	DGIdb_Drug_Targets_2024	Pdgfrb	Flt1	Pdgfra	Flt4	Fgfr1	Kdr	Fgfr3	Fgfr2
+EFAVIRENZ	DGIdb_Drug_Targets_2024	Abcc4	Abcb1a	Abcc2	Abcc3	Il10	Ugt1a1	Htr2a	Cyp3a13	Ar	Nat1	Abcc1	Abcg3	Nfe2l2	H2-Eb2
+ENALAPRIL	DGIdb_Drug_Targets_2024	Dsp	Ace	Pnpt1	Gsr	Pcgf3	Hspa4	Cyp3a13	Agt	Dpp4	Mapk8	Apex1	Bdkrb2	Nos1	Pde5a	Trp53
+ENCORAFENIB	DGIdb_Drug_Targets_2024	Nras	Map2k1	Braf	Trp53
+ENFLURANE	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk18	Atp5f1d	Gabrg3	Gabrg2	Glrb	Kcnma1	Kcnk2	Kcnk3	Gabrb3	Gabrb2	Gabrb1	Gria1	Kcnk9	Kcna1	Atp2c1	mt-Nd1	Glra1	Gabre	Gabrd
+ENFORTUMAB VEDOTIN	DGIdb_Drug_Targets_2024	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3	Nectin4
+ENMD 2076	DGIdb_Drug_Targets_2024	Yes1	Pdgfra	Ntrk1	Arid1a	Ptk2	Lck	Kit	Fgfr1	Fgfr4	Fgfr3	Fgfr2	Csf1r	Blk	Ret	Flt1	Src	Flt3	Flt4	Aurka	Aurkb	Kdr	Abl1	Fyn	Map3k20	Jak2
+ENOXIMONE	DGIdb_Drug_Targets_2024	Atad5	Pde3b	Ehmt2	Pde3a	Drd1
+ENTINOSTAT	DGIdb_Drug_Targets_2024	Hdac5	Yes1	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Atad5	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8	Cftr
+ENTRECTINIB	DGIdb_Drug_Targets_2024	Lyn	Hipk2	Clk4	Eml4	Clk2	Cdk7	Fer	Axl	Alk	Frk	Ret	Lrrk2	Aurka	Mst1r	Prkaa1	Stk3	Aurkb	Slk	Grk5	Kdr	Map4k2	Ntrk2	Ntrk3	Plk4	Prkcg	Camk1d	Ntrk1	Syk	Dapk3	Tnk2	Ptk2	Lck	Kit	Fgfr1	Btk	Taok1	Met	Pkn2	Prkcq	Fgfr3	Csf1r	Blk	Flt1	Src	Ltk	Flt3	Flt4	Igf1r	Tbk1	Rps6ka3	Abl1	Fyn	Jak3	Ros1	Map4k4	Jak2	Map4k5
+ENZALUTAMIDE	DGIdb_Drug_Targets_2024	Ar	Cyp17a1	Apc	Mlh1	Pik3ca	Atm	Cdk12	Brca2	Atr	Trp53
+EPINEPHRINE	DGIdb_Drug_Targets_2024	Cast	Vdr	Tpm3-rs7	Recql	Adra2c	Mtor	Adra2b	Adra2a	Mapk10	Mapt	Pik3cb	Apex1	Ghrl	Nfe2l2	Fen1	Adrb1	Adrb2	Slc2a4	Adra1d	Adrb3	Tnfrsf11b	Hif1a	Adra1b	Adra1a	Hsd17b10	Hyal2	Polk	Drd1
+EPINEPHRINE BITARTRATE	DGIdb_Drug_Targets_2024	Mbnl1	Adrb1	Ehmt2	Adrb2	Baz2b	Adrb3	Hif1a	Adra1b	Adra2c	Adra1a	Adra2b	Hsd17b10	Adra2a	Mapt	Tdp1
+EPIRUBICIN	DGIdb_Drug_Targets_2024	Cbr3	Epha6	Insr	Abcc2	Gckr	Ppp2r5d	Gnl3	Tubb2a	Foxp3	Spidr	Kcnq1	Birc5	Bcl2	Mdm4	Slc28a3	Abcc1	Abcg3	Trp53	Abcb1a	Ccnk	Irs1	Serpine1	Top2a	Hmmr	Pik3r2	Chd1	Foxo1	Slco1b2	Erbb2	Perp	Igf2bp2	Nos1	Misp
+EPOTHILONE D	DGIdb_Drug_Targets_2024	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+EPTIFIBATIDE	DGIdb_Drug_Targets_2024	Fgb	Fgg	Itga2b	Itgb3
+ERDAFITINIB	DGIdb_Drug_Targets_2024	Pik3ca	Fgfr1	Fgfr3	Fgfr2
+ERLOTINIB	DGIdb_Drug_Targets_2024	Lyn	Map3k1	Nrg1	Braf	Clk4	Hipk4	Apc	Pik3ca	Cyp1a2	Nf2	Nf1	Abcg3	Trp53	Alk	Frk	Ddr2	Ret	Abcb1a	Arf1	Cyp3a13	Egfr	Aurkb	Slk	Erbb4	Cyp2d10	Erbb2	Mknk2	Dvl2	Erbb3	Kdr	Yes1	Syk	Mink1	Ar	Birc5	Met	Kras	Pkn2	Prkd2	Fgfr4	Fgfr3	Errfi1	Blk	Flt1	Ltk	Flt4	Uhrf1	Igf1r	Nup62	Mapk1	Abl1	Ros1	Jak2
+ESTAZOLAM	DGIdb_Drug_Targets_2024	Brd4	Gabra3	Brd3	Crebbp	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabrr3	Gabrr2	Gabrr1	Gabre	Gabrd
+ESTRADIOL	DGIdb_Drug_Targets_2024	Esrra	Ehmt2	Recql	Cyp3a13	Rorc	Esr1	Esr2	Nr3c1	Ar	Cyp2d10	Gper1	Cyp1a2	Pparg
+ESTRADIOL BENZOATE	DGIdb_Drug_Targets_2024	Ar	Gal	Sst	Gmnn	Bdnf	Npy	Prl3d2	Atm	Camk4
+ESTRONE	DGIdb_Drug_Targets_2024	Ar	Sts	Myc	Esr1	Tardbp	Pik3cg
+ESZOPICLONE	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+ETANERCEPT	DGIdb_Drug_Targets_2024	Gbp6	Cers6	Map3k1	Il10	Nfatc2	2410137M14Rik	Atp5f1e	Nfkb1	H2-T24	Tnfrsf1b	Nfkbia	Fcgr3	Il6	Slco1c1	Alpl	Klrd1	Tlr9	Ghrl	H2-Eb2	Cd84	Csf2	Tnf	Pttg1
+ETHACRYNIC ACID	DGIdb_Drug_Targets_2024	Nqo1	Idh1	Vdr	Gmnn	Mgmt	Slc12a1	Gstp1	Ehmt2	Rorc	Ar	Aldh1a1	Poli	Polh
+ETHINYL ESTRADIOL	DGIdb_Drug_Targets_2024	Ar	Ccna2	Ugt1a1	Cyp2d10	Nr1i3	Cyp1a2	Amh	Esr1	Ggt1	Nr3c1
+ETHOXZOLAMIDE	DGIdb_Drug_Targets_2024	Car13	Car12	Aqp4	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+ETOMIDATE	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Adra2b	Gabrg3	Gabrg2	Gabre	Gabrd
+ETOPOSIDE	DGIdb_Drug_Targets_2024	Tgfb1	Dync2h1	Ncoa3	Actr2	Abcc3	Ncoa1	Gdf15	Gstm6	Mycs	Cyp1a2	Atm	Bax	Bcl2	Blmh	Abcc1	Trp53	Alk	Top2b	Ugt1a10	Yap1	Top2a	Cyp3a13	Klk1b24	Tyms	Chek1	Cyp2d10	E2f1	Slit1	Eif4e	Sf3b1	Nqo1	Ntrk3	Igf2	Fgfr1	Ddit3	Pgp	Gmnn	Pla2g1b	Afp	Pla2g6	Itgal	Tnfsf13b	Mapk3	Papola	Mapk1	Muc16
+EVEROLIMUS	DGIdb_Drug_Targets_2024	Pbrm1	Tsc2	Arid1a	Braf	Tsc1	Esr1	Esr2	Mtor	Ar	Fkbp1a	Pik3r1	Pik3ca	Nf2	Atm	Nf1	Kras	Fgfr4	Bap1	Kdm5c	Ret	Flt3	Ctnnb1	Flcn	Nras	Rptor	Stk11	Akt3	Erbb2	Akt1	Vhl	Akt2	Hras
+EXEMESTANE	DGIdb_Drug_Targets_2024	Ccdc148	Tubb1	Esr1	Esr2	Cyp19a1	Igf1r	Ar	Stk11	Tcl1	Bglap2	Erbb2	Pgr	Map4k4	Nfe2l2
+FASUDIL	DGIdb_Drug_Targets_2024	Prkcg	Prkcd	Dapk3	Clk4	Cdk8	Cdk7	Cdk5	Rps6kb1	Prkd3	Prkcq	Prkd2	Sgk2	Rock1	Rock2	Lrrk2	Cyp3a13	Prkx	Gata2	Aurkb	Akt3	Cyp2d10	Rps6ka3	Chek2	Akt1	Prkacb	Map4k4
+FELBAMATE	DGIdb_Drug_Targets_2024	Grin3a	Grin2b	Grin2a	Grin3b	Cyp2d10	Cyp1a2	Cyp3a13	Grin2d	Grin2c	Grin1
+FELODIPINE	DGIdb_Drug_Targets_2024	Abcb1a	Gmnn	Cacna2d1	Cacna1c	Cacna1d	Cyp3a13	Cacna1f	Myo9b	Cacnb2	Mapt	Lep	Cacna1s	Abcg3
+FENOFIBRATE	DGIdb_Drug_Targets_2024	Adipoq	Abcb1a	Gckr	Jun	Ppara	2410137M14Rik	Cyp3a13	Tfpi	Vegfa	Ar	Slco1b2	Il6	Cfl1	Cyp1a2	Cdk1	Apoe	Cd40lg	Scarb1	Trp53	Apob
+FENOLDOPAM	DGIdb_Drug_Targets_2024	Cbx1	Ehmt2	Recql	Drd1	Adra2c	Adra2b	Drd5	Adra2a
+FENRETINIDE	DGIdb_Drug_Targets_2024	Kdm4a	Idh1	Rarg	Cbx1	Ehmt2	Cyp3a13	Eno2	Rorc	Esr1	Mtor	Nfkb1	Ar	Atxn2	Aldh1a1	Mapt	Bcl6	Rbp4	Rarb	Ddit3	Rara	Trp53
+FENTANYL	DGIdb_Drug_Targets_2024	Rhbdf2	Kcnj6	Oprd1	Calca	Lamb3	Arrb2	Mpo	Oprm1	Cyp3a13	Itgam	Ar	Fcgr4	Myd88	Il6	Cyp2d10	Slc9a9	Cyp1a2	Xdh	Astn2
+FINASTERIDE	DGIdb_Drug_Targets_2024	Ar	Tgm2	Akr1d1	Srd5a2	Cyp2d10	Cflar	Cyp1a2	Fgfr1	Srd5a1	Nfe2l2
+FLOXURIDINE	DGIdb_Drug_Targets_2024	Abcc5	Idh1	Cyp2d10	Cyp1a2	Cyp3a13	Eno2	Tyms
+FLUDARABINE	DGIdb_Drug_Targets_2024	Smad3	Cd40	Rrm1	Adh1	Dck	Ikzf1	Mpo	Pik3cg	Pola1	Sult2b1	Cxcl12	Xiap	Bax	Cyp2e1	Slc29a1	Nfe2l2	Slc22a12
+FLUMAZENIL	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabrg1	Gabrg3	Gabrg2	Tspo	Gabre	Gabrd	Nfe2l2
+FLUNARIZINE	DGIdb_Drug_Targets_2024	Hrh1	Gmnn	Atad5	Ehmt2	Cacna1g	Cacna1i	Cacna1h	Calm1
+FLUNISOLIDE	DGIdb_Drug_Targets_2024	Ar	Cyp2d10	Cyp1a2	Pla2g4a	Cyp3a13	Nr3c1
+FLUOROURACIL	DGIdb_Drug_Targets_2024	Abcc4	Abcc5	Pdgfrb	Ralbp1	Abcc2	Hspa5	Wnt5b	Braf	Msh2	Ppp2r5d	Dkk1	Gnl3	Pard3b	Rbx1	Upb1	Nt5c1a	Dpyd	Msh6	Atm	Cspg4	Abcc1	Trp53	Tymp	Ccnk	Galnt14	Megf11	Nlgn1	Keap1	Top2a	Aurka	Hmmr	Pik3r2	Egfr	Klc1	Tyms	Foxo1	Mecp2	Nras	Cyp4x1	Klc3	Slc22a16	Ccnd1	Perp	Cyp1b1	Mutyh	Pms2	Cbr3	Insr	Cbr1	Gckr	Mlh1	Smad4	Map2k1	Atrx	Xrcc3	Igfbp3	Mthfr	Sele	Cyp2a12	Dlg5	Kcnq1	Aldh3a1	Apex1	Gnas	Kras	Fgfr4	Lgr5	Fgfr2	Cd274	Colec10	Irs1	Cdkn1a	Twist1	Osgep	Cyp19a1	Rgs5	Exo1	Chn2	Igf2bp2	Nos1	Tmem167	Scn1a	Slc19a1	Rev3l
+FLUOXETINE	DGIdb_Drug_Targets_2024	Srp19	Crhr1	Ace	Gsk3b	Htr1b	Htr2a	Cyp3a13	Igf2	Slc6a4	Htr4	Slco1b2	Aanat	Htr7	Atxn2	Ppp1r1b	Reep5	Cyp2d10	Cyp1a2	Drd1	Nos2	Kcnh2
+FLUPHENAZINE	DGIdb_Drug_Targets_2024	Cyp2d10	Cbx1	Cyp1a2	Ehmt2	Drd1	Drd2	Trp53
+FLURAZEPAM	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Prl3d2	Gabrg3	Gabrg2	Gabrr3	Gabrr2	Gabrr1	Gabre	Gabrd
+FLUSPIRILENE	DGIdb_Drug_Targets_2024	Kdm4a	Smad3	Idh1	Xbp1	Gmnn	Atad5	Htt	Cbx1	Ehmt2	Ar	Thpo	Cyp2d10	Drd2	Mphosph8	Kcnh2	Npsr1
+FLUTAMIDE	DGIdb_Drug_Targets_2024	Cdkn1a	Aqp9	Ehmt2	Mpo	Pbp2	Cyp3a13	Klk1b24	Rorc	Ar	Th	Il2ra	Birc5	Cyp1a2	Vip	Nfe2l2
+FLUTICASONE PROPIONATE	DGIdb_Drug_Targets_2024	Car10	Cd163	Il10	Csf2	Pla2g4a	Hspa4	Cyp3a13	Nr3c1	Il1b	Tmco6	Ormdl3	Ccl5	Glcci1	Cd14
+FLUVOXAMINE	DGIdb_Drug_Targets_2024	Abcb1a	Cyp1a2	Cyp3a13	Htr1a	Fgf2	Mdga2	Slc6a4
+FORETINIB	DGIdb_Drug_Targets_2024	Yes1	Pdgfrb	Flt1	Pdgfra	Flt3	Kit	Flt4	Tek	Kdr	Met	Mst1r	Ros1
+FULVESTRANT	DGIdb_Drug_Targets_2024	Esrra	Rb1	Ephx2	Esr1	Esr2	Tfpi	Eml4	Cdk6	Pik3ca	Ccne1	Erbb2	Cyp1a2	Pgr	Trp53	Alk	Fgfr2
+FUROSEMIDE	DGIdb_Drug_Targets_2024	Slc12a3	Ace	Grp	Slc12a1	Slco1b2	Add1	Scnn1g	Tbxa2r	Apoa1	Gnb3	Tac1
+GABAPENTIN	DGIdb_Drug_Targets_2024	Cacna2d2	Cacna2d1	Cacna2d4	Cacna2d3	Cacnb2	Slc7a5	Cacnb3	Cacnb4	Cyp1a2	Cacnb1	Abcb1a	Cacna1a	Cacna1c	Cacna1b	Cacna1e	Cacna1d	Cyp3a13	Eno2	Cacna1g	Cacna1f	Comt	Cacna1i	Cacna1h	Cacng7	Cacng8	Cyp2d10	Cacna1s	Cacng1	Nos1	Cacng2	Cacng3	Cacng4	Cacng5	Cacng6
+GABOXADOL	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg2	Gabre
+GALLAMINE TRIETHIODIDE	DGIdb_Drug_Targets_2024	Chrna2	Chrnd	Kdm4a	Chrne	Chrng	Ehmt2	Chrnb1
+GANAXOLONE	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Ehmt2	Gabrg3	Gabrg2	Gabre	Gabrd
+GANETESPIB	DGIdb_Drug_Targets_2024	Hsp90aa1	Hsp90ab1	Myc	Alk
+GDC 0941	DGIdb_Drug_Targets_2024	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Pik3c3
+GDC 0973	DGIdb_Drug_Targets_2024	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Nf1	Braf	Kras	Map2k6	Map2k7
+GEDATOLISIB	DGIdb_Drug_Targets_2024	Nos3	Pik3r5	Pik3cd	Pik3r3	Pik3r2	Mtor	Pik3cg	Nras	Stk11	Pik3cb	Pik3r1	Pik3ca	Akt1s1	Akt1	Vhl	Trp53
+GEFITINIB	DGIdb_Drug_Targets_2024	Lyn	Map3k1	Limk1	Emp1	Irak4	Braf	Sirt2	Hipk4	Mapk14	Mapk10	Axl	Mapt	Pik3ca	Sik2	Alk	Frk	Rela	Abcb1a	Arf1	Keap1	Cyp3a13	Egfr	Crkl	Slk	Erbb4	Csnk1d	Cyp2d10	Erbb2	Mknk2	Chek2	Dvl2	Erbb3	Irak1	Pbk	Yes1	Tnk2	Mink1	Igf2	Hck	Lck	Smo	Met	Prkd3	Kras	Prkd2	Brsk1	Blk	Gmnn	Flt4	Uhrf1	Igf1r	Mapk9	Mapk8	Phkg2	Nup62	Pim1	Pim3	Camk2g	Ros1	Map4k4	Map4k5
+GEMCITABINE	DGIdb_Drug_Targets_2024	Cdsn	Mucl3	Cdc5lrt9	Nrg1	Braf	Alg10b	Nt5c1a	Pik3ca	Rrm2b	Msh5	Mthfd1	Camk4	Dcp1b	Fkbp5	Cda	Trp53	Raf1	Tnc	Xylt2	Brca1	Tnf	Brca2	Tent4a	Ppcdc	Serpina5	Slco1b2	Nras	Klc3	Chek1	Erbb2	Nt5c	Ubash3b	Acss2	Btrc	Wwox	Rrm2	Smad4	Rrm1	Alox5ap	2410137M14Rik	Mthfr	Xrcc1	Cip2a	Fancc	Igf2	Prrc2a	Esr2	Atat1	Ercc1	Wee1	Polr1g	Kras	Slc29a2	Slc29a1	Fgfr3	Mdm2	Cd274	Ppp1r18	Serpinc1	Dock8	Fhl2	Baz2b	Cbl	Ets2	Tgm2	Ppp1r13l	Hras	Or4d6	Sh2d5
+GEMFIBROZIL	DGIdb_Drug_Targets_2024	Slco1b2	Il6	Jun	Ppara	Lep	Ldlr
+GEMTUZUMAB OZOGAMICIN	DGIdb_Drug_Targets_2024	Slco1b2	Sult2b1	Chek1	Adh1	Siglecf	Pml	Slc22a12
+GILTERITINIB	DGIdb_Drug_Targets_2024	Nras	Axl	Flt3	Idh2	Braf	Jak3	Cbl	Jak1	Alk	Eml4	Jak2
+GLIMEPIRIDE	DGIdb_Drug_Targets_2024	Kcnj11	Abcc8	Irs1	Tnf	Kcnj1
+GLUCAGON	DGIdb_Drug_Targets_2024	Acly	Cort	Apoa1	Bdnf	Gcgr	Gpt	Ldlr	Pik3cg
+GOSSYPOL	DGIdb_Drug_Targets_2024	Arsa	Smad3	Tgfb1	Yes1	Vdr	Atad5	Gaa	Cbx1	Recql	Hspa4	Esr1	Mtor	Alox8	Ar	Galk1	Kat2a	Mapt	Apex1	Bcl2l1	Mphosph8	Pin1	Ppard	Trp53	Fen1	Blm	Thrb	Hpgd	Prl3d2	Ehmt2	Baz2b	Cyp3a13	Hsd17b10	Polb	Atxn2	Rgs4	Casp7	Ccnd1	Polk	Usp2	Usp1	Drd1	Mapk1	Casp1	Tac1	Poli
+GRANISETRON	DGIdb_Drug_Targets_2024	Nos1ap	Cyp2d10	Htr3b	Cyp3a13	Htr3a	Trp53
+GSK2126458	DGIdb_Drug_Targets_2024	Ret	Map2k1	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Braf	Pik3r2	Eml4	Pik3cg	Pik3r6	Nras	Pik3cb	Pik3r1	Pik3ca	Akt3	Akt1	Akt2
+HALOPERIDOL	DGIdb_Drug_Targets_2024	Epm2a	Tor1a	Bdnf	Cyp3a13	Homer1	Eif2ak4	Plekha6	Dtnbp1	Hspa4	Grin1	Mapk14	Cyp1a2	Ankk1	Trp53	Maob	Abcb5	Slc1a1	Grik4	Htr2a	Comt	Dpp6	Nt5e	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Nkx6-1	Tac1	Ldlr	Kcnh2	Sigmar1	Arid5b	Mthfr	Htr3a	Ar	Hspg2	Dlg4	Faah	Il1rn	Gria1	Ryr1	Gmnn	Rtkn2	Cacna1c	Slc2a4	Nts	Slc6a3	Nr4a1	Slc6a5	Akap13	Grin2b	Grin2a	Anpep	Rgs2	Zic4	Mc4r	Npy	Camk2g
+HARMINE	DGIdb_Drug_Targets_2024	Dyrk3	Dyrk2	Maoa	Dyrk1b	Cyp3a13	Dyrk1a	Clk4	Hsd17b10	Clk3	Clk2	Clk1	Apex1	Cyp1a2	Nfe2l2
+HEPARIN	DGIdb_Drug_Targets_2024	Csnk1a1	Srgn	Ccl21a	Csnk2a1	F10	Vwf	Pla2g2a	Tfpi2	Hspa4	F2	Nr5a1	Slpi	Hpse	Sdc1	Tpsb2	Serpinc1	Ucp2	Slc2a4	Lipc	Tfpi	Fgf4	Serpina5	Pik3cg	Tgm2	Fcgr4	Apob
+HOMATROPINE METHYLBROMIDE	DGIdb_Drug_Targets_2024	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Cyp1a2	Cyp3a13
+HYDROCHLOROTHIAZIDE	DGIdb_Drug_Targets_2024	Slc12a3	Ace	Tcf7l2	Hmgcs2	Nos3	Usp5	Hsd3b1	Tet2	Fbxl17	Prkca	Agt	Vasp	Diaph3	Nell1	Scnn1g	Ankfn1	Rad52	Ttc6	Yeats4	Gnb3	Aldh1a2	Slc25a31	Agtr1b	Nucb2	Pde3a	Ren1	Luc7l2	Lrrc15	Cdca3	Serpine1	Prkag2	Ado	Best3	Gpr83	Ptgs1	Grk5	Nelfcd	Plce1	Slit1	Csk	Uggt2	Csmd1	Ilkap
+HYDROCORTISONE	DGIdb_Drug_Targets_2024	Smad2	Anxa1	Vdr	Nr1i2	Tsc22d3	Arnt	Cyp3a13	Hif1a	Itgam	Nfkb1	Nr3c1	Tyms	Ar	Erbb2	Has3	Ada	Ccl17	Nfe2l2	Atf5
+HYDROQUINONE	DGIdb_Drug_Targets_2024	Nqo1	Cd40	Hpgd	Gstp1	Top2a	Ehmt2	Rorc	Hif1a	Cyp19a1	Hsd17b10	Il1b	Thpo	Bcl2	Nfe2l2
+HYDROXYUREA	DGIdb_Drug_Targets_2024	Pth	Rrm2	Blm	Dusp1	Rrm1	Dntt	Cyp3a13	Cp	Rrm2b	Hras	Abl1	Eif4e	Dnmt1
+IBRUTINIB	DGIdb_Drug_Targets_2024	Yes1	Blk	Lyn	Csf3r	Flt3	Bmx	Egfr	Myd88	Erbb2	Myc	Atm	Btk	Pim1	Plcg2	Trp53
+IBUDILAST	DGIdb_Drug_Targets_2024	Cyp2d10	Pde4d	Cyp1a2	Pde4c	Pde3a	Pde4b	Pde4a	Cyp3a13	Pde5a
+IBUPROFEN	DGIdb_Drug_Targets_2024	Nos3	Oprm1	Apc	Amacr	Pik3ca	Ifng	Cyp1a2	Ddit3	Tardbp	Faah	Abcb1a	Ptger1	Hpgd	Ptger4	Cyp3a13	Comt	Cyp19a1	Ptgs1	Ptgs2	Cxcr2	Cyp2d10	Vhl	Nos1	Ugt1a2	Ugt1a10
+IDARUBICIN	DGIdb_Drug_Targets_2024	Cbr3	Nqo2	Atad5	Dnmt3a	Cbx1	Recql	Dck	Cyba	Mtor	Etv6	Sult2b1	Nt5c3	Mapt	Apex1	Cyp2e1	Mphosph8	Fen1	Abcb1a	Blm	Thrb	Htt	Ncf4	Adh1	Top2a	Ehmt2	Slco1b2	Polb	Atxn2	Polk	Usp1	9930021J03Rik	Drd1	Rac2	Poli	Kcnh2	Polh	Slc22a12
+IL 2	DGIdb_Drug_Targets_2024	Mmp2	Stat4	Tyk2	Ilf3	Mapk14	Cd2	Tg	Fcgr3	Pik3cb	Il2ra	Pik3ca	Il2rb	Vim	Cd28	Cd40lg	Cd244a	Vipr1	Nop2	Prf1	Tnfaip1	Il2rg	Cbl	Fcgr4	Socs1	Fyn
+ILOPERIDONE	DGIdb_Drug_Targets_2024	Cerkl	Cntf	Nubpl	Htr2c	Htr2a	Htr1a	Nrg3	Adra2c	Htr6	Adra1a	Htr7	Hrh1	Drd1	Drd2	Drd3
+ILORASERTIB	DGIdb_Drug_Targets_2024	Acvr1	Pdgfrb	Pdgfra	Matk	Hipk2	Hipk4	Mapk13	Mapk14	Melk	Axl	Epha2	Frk	Rock1	Rock2	Aurka	Mst1r	Egfr	Prkaa1	Aurkc	Aurkb	Slk	Pak1	Csnk1d	Chek2	Kdr	Yes1	Insr	Plk4	Map2k2	Srms	Prkci	Prkcd	Map2k1	Tnk2	Mink1	Ptk2	Fgfr1	Btk	Prkd3	Prkd2	Fgfr3	Brsk1	Csf1r	Blk	Igf1r	Nek2	Abl1	Nek4	Ros1	Mark3	Mark2	Lyn	Limk1	Irak4	Tyk2	Clk4	Cdk8	Fer	Camk1	Sgk2	Itk	Alk	Ret	Lrrk2	Stk3	Erbb4	Erbb2	Mknk2	Irak1	Map3k20	Map4k2	Ntrk2	Ntrk3	Camk1d	Ntrk1	Syk	Pdpk1	Hck	Fgr	Lck	Kit	Rps6kb1	Taok1	Tyro3	Met	Pkn2	Csnk1g1	Csnk1g2	Flt1	Src	Ltk	Flt3	Flt4	Camk2b	Rps6ka5	Rps6ka3	Ptk2b	Fyn	Camk2g	Ikbke	Map4k4	Jak2
+IMATINIB	DGIdb_Drug_Targets_2024	Abcc4	Lyn	Pdgfrb	Pdgfra	Ugt2a1	Braf	Rundc3b	Clk4	Mapk10	Abi1	Nf2	Nf1	Ulk3	Abcg3	Alk	Frk	Abcb4	Ddr1	Ret	Abcb1a	Csf3r	Cyp3a13	Egfr	Atic	Bcl2l11	Irak1	Myc	Prkch	Smad3	Yes1	Abca3	Nqo2	Ntrk1	Eya2	Arid5b	Bcr	Lck	Kit	Slco1a8	Birc5	Taok1	Kras	Cd40lg	Csf1r	Cd274	Flt3	Ctnnb1	Pdgfb	Ikzf1	Slc2a4	Rcsd1	Abl2	Abl1	Sfn	Cyp2f2	Slc19a1	Jak2
+IMATINIB MESYLATE	DGIdb_Drug_Targets_2024	Bcr	Idh1	Rad52	Kit	Pdgfb	Abl1	Abcg3
+IMIPRAMINE	DGIdb_Drug_Targets_2024	Mc2r	Bdnf	Cyp2d10	Cyp1a2	Ehmt2	Drd1	Cyp3a13	Slc6a2	Slc6a4
+INDOMETHACIN	DGIdb_Drug_Targets_2024	Ace	Bdnf	Fst	Trpv1	Th	Kcnq1	Birc5	Cyp1a2	Agtr1b	Ddit3	Sag	Abcc1	Nfe2l2	Ptges	Itgb2l	Cd86	Kcne1	Adm	Afp	Slc2a4	Eno2	Fgf2	Tyms	Ptgs1	Ptgs2	Fcgr4	Cyp2d10	Myc	Stat6	Ggt1
+INFIGRATINIB	DGIdb_Drug_Targets_2024	Nras	Kit	Pik3ca	Fgfr1	Fgfr4	Fgfr3	Fgfr2
+INFLIXIMAB	DGIdb_Drug_Targets_2024	Cers6	Eya4	2410137M14Rik	Nfatc2	Atp5f1e	H2-T24	Tnfrsf1b	Tlr2	Il1b	Nfkbia	Adam17	Fcgr3	Il6	Slco1c1	Slc9a8	Alpl	H2-Ab1	Klrd1	Tlr9	Tlr4	H2-Eb2	Il23r	Tnf	Bglap2	Ccl3	Il12b	Ccl17
+INSULIN	DGIdb_Drug_Targets_2024	Ptpn1	Edn1	Bdnf	Sstr2	Nr5a1	Mapk10	Rara	Pcsk1	Ywhae	Csf2	Nop2	Aqp7	Adm	Ucp1	Tnf	Socs1	Ntf3	Sv2a	Grb14	Hnf4a	Ccn2	Nkx6-1	Socs6	Adipoq	Srebf1	Insr	Cartpt	Kcnq1	Ppp1r1a	Eif4g1	Vamp2	Ghrl	Arf6	Shbg	Reg1	Irs2	Lpl	Slc2a4	Eno2	Adcyap1r1	Crhr2	Pik3cg	Sis	Tdo2	Ibsp	Hras	Xdh	Mbp	Junb
+INTERFERON BETA 1A	DGIdb_Drug_Targets_2024	Birc5	2410137M14Rik	Mbp	Fhit	Gapvd1	Rora	Ifnar1	Zfp697	H2-Eb2	Ifnar2
+INTERFERON BETA 1B	DGIdb_Drug_Targets_2024	Il2ra	Irf6	Fhit	Gapvd1	Ifnar1	Ifnar2	Il2
+IPATASERTIB	DGIdb_Drug_Targets_2024	Flt3	Pik3ca	Akt3	Akt1	Akt2	Fgfr3
+IPH 2101	DGIdb_Drug_Targets_2024
+IPILIMUMAB	DGIdb_Drug_Targets_2024	Cd274	Mlh1	Pbrm1	2410137M14Rik	Braf	Msh2	Egfr	Nras	Pole	Pold1	Msh6	Atm	Ctla4	B2m	Pms2	Trp53	Alk
+IPRATROPIUM	DGIdb_Drug_Targets_2024	Chrm1	Chrm2	Cyp2d10	Cyp3a13
+IRINOTECAN	DGIdb_Drug_Targets_2024	Abcc4	Tgfb1	Abcc5	Pdgfrb	Ralbp1	Bche	Ube2i	Braf	Dkk1	Dcbld1	Runx3	Tgfbr2	Mapk10	Pik3ca	Abcg1	Atm	Cspg4	Pdzrn3	Top1	Trp53	Alk	Ces1d	Ugt1a10	Shmt1	Klc1	Tyms	Nras	Erbb2	Slco1b2	E2f1	Top1mt	Map2k1	Ugt1a1	Xrcc3	Isg15	Rad50	Nat1	Tdp1	Kcnq5	Kras	Fgfr3	Pin1	Ces2f	Plcb1	Cd274	Sema3c	Syne3	Rgs5	Slc19a1
+ISOFLURANE	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Gabra4	Gabrg1	Kcnk18	Gabrg3	Gabrg2	Glrb	Kcnk2	Kcnk3	Gabrb3	Gabrb2	Gabrb1	Gria1	Kcnk9	Kcna1	Atp2c1	Glra1	Gabre	Gabrd
+ISOPROTERENOL	DGIdb_Drug_Targets_2024	Vdr	Csf2	Cbx1	Sri	Adrb1	Ehmt2	Nrg1	Adrb2	Hspa4	Adra1d	Cp	Gfap	Adra1b	Adra2c	Mtor	Adra1a	Cyp19a1	Adra2a	Pik3cg	Aanat	Lipe	Mapk10
+ISOSORBIDE DINITRATE	DGIdb_Drug_Targets_2024	Gucy1a2	Gucy1a1	Gucy1b1	Npr1	Prl3d2
+ISOTRETINOIN	DGIdb_Drug_Targets_2024	Ar	Tg	Vdr	Car3	Rarg	Lpl	Rarb	Bcl2	Rara
+ISRADIPINE	DGIdb_Drug_Targets_2024	Cacna2d1	Cacna1c	Cacna1s	Cacna1d	Cyp3a13	Cacna1f
+ISTAROXIME	DGIdb_Drug_Targets_2024	Fxyd2	Atp1a4	Atp1a3	Atp2a2	Atp1a2	Atp1b3	Atp1a1	Atp1b1
+IUPHAR.LIGAND:1052	DGIdb_Drug_Targets_2024	Adh4	Atp5me	Atrx	Tnfrsf17	Trpm8	Abcd2
+IUPHAR.LIGAND:14	DGIdb_Drug_Targets_2024	Htr2c	A1bg	A2m
+IUPHAR.LIGAND:1713	DGIdb_Drug_Targets_2024	Apcs	Ryr2	Ryr3	Dagla	Actn2	Atp1a4	Atp1a3	Atp1b1	Apeh	Itpr1	Atp4b	Apc	Apbb2
+IUPHAR.LIGAND:2434	DGIdb_Drug_Targets_2024	Atp4a	Trpv6	Atp2a3	Pkd2l1	Trpv4	Atp2a2	Trpm8	Atp2b2	Atp2b1
+IUPHAR.LIGAND:2644	DGIdb_Drug_Targets_2024	Bckdhb	Bche	Nr2e1	Nr2c2	Bcl2l2
+IUPHAR.LIGAND:50	DGIdb_Drug_Targets_2024	Cd8b1	A1bg	Abcd1
+IUPHAR.LIGAND:52	DGIdb_Drug_Targets_2024	Abcb7	Aldh1a1	Aldh2	Aoc1l1	Abl2	Htr2c	A1bg	A2m	Abcd1
+IUPHAR.LIGAND:56	DGIdb_Drug_Targets_2024	Abcb7	Aldh1a1	Aldh2	Aoc1l1	Abl2	Htr2c	A1bg	A2m	Abl1	Abcd1
+IUPHAR.LIGAND:707	DGIdb_Drug_Targets_2024	Arg1	Arg2	Osgin2	Atp2b1	Gjb1	Atp4b	Mpped2	Myrf	Bcat2	Arf6	C1qc	Ryr2	Arf5	Ryr3	C1rb	Dagla	C5ar1	C1s1	C3ar1	C4bp	Pkd2l1	C8a	C8b	C2	C4b	C3	Itpr1	C8g	Atp5f1a	AI182371	C7	Capn5	C1qbp	Acp5
+IUPHAR.LIGAND:91	DGIdb_Drug_Targets_2024	Abr	A1bg	Abo	Acaa1b
+IXABEPILONE	DGIdb_Drug_Targets_2024	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+JNJ 26483327	DGIdb_Drug_Targets_2024	Yes1	Lyn	Lck	Src	Erbb4	Flt4	Erbb2	Fyn	Egfr
+KENPAULLONE	DGIdb_Drug_Targets_2024	Smad3	Lyn	Plk4	Limk1	Atad5	Csnk2a1	Pdpk1	Cdc7	Dyrk1a	Npc1	Nr0b1	Cdc42bpa	Lck	Cdk5	Cdk2	Cyp1a2	Rab9	Cdk1	Csf1r	Flt1	Gsk3b	Src	Gsk3a	Rock1	Flt3	Gmnn	Rock2	Flt4	Htt	Aurka	Ehmt2	Cyp3a13	Stk3	Aurkb	Chek1	Thpo	Cyp2d10	Chek2	Kdr	Pim1	Smn1	Abl1	Fyn	Mark3	Mark2
+KETOCONAZOLE	DGIdb_Drug_Targets_2024	Kdm4a	Vdr	Hsp90aa1	Cyp3a13	Cbx1	Ehmt2	Nr1h4	Baz2b	Cyp2d10	Cyp1a2	Mphosph8	Nfe2l2	Snca
+LABETALOL	DGIdb_Drug_Targets_2024	Gja1	Cyp2d10	Lpl	Cyp1a2	Hpse	Adrb1	Adrb2	Cyp3a13	Adra1b	Adra1a
+LAMIVUDINE	DGIdb_Drug_Targets_2024	Abcc4	Oca2	Pcyt1a	Abcc2	Pth	Abcc3	Mmp1a	Pcyt2	Slc22a3	Dck	2410137M14Rik	Nme1	Chpt1	Nt5c	Pgk1	Abcc1	Abcg3	Cmpk1
+LAMOTRIGINE	DGIdb_Drug_Targets_2024	2410137M14Rik	Cyp3a13	Aqp4	Cacna1h	Scn11a	Scn9a	Scn10a	Cyp2d10	Scn7a	Scn8a	Cyp1a2	H2-Ab1	Scn5a	Ppt1	Scn3a	Scn4a	Scn1a	Scn2a	H2-Eb2
+LANSOPRAZOLE	DGIdb_Drug_Targets_2024	Vdr	Gsr	Plk1	Npc1	Atp4b	Il1b	Phospho1	Atp4a	Mapt	Cyp1a2	Rab9	Cyp1a1	Slc22a8	Nfe2l2	Slc22a6	Nr1i2	Alox15	Ehmt2	Baz2b	Cyp3a13	Slco1b2	Rgs4	Cyp2d10
+LAPATINIB	DGIdb_Drug_Targets_2024	Yes1	2410137M14Rik	Nrg1	Braf	Esr1	Esr2	Abcb11	Pik3ca	Nf2	Met	Kras	Pgr	H2-Eb2	Ret	Cyp3a13	Egfr	Aurkb	Eef2k	Erbb4	Ccnd1	Erbb2	Erbb3
+LAROPIPRANT	DGIdb_Drug_Targets_2024	Ptgfr	Ptgdr2	Tbxa2r	Ptger2	Ptgir	Hmgcr	Ptgdr
+LEFLUNOMIDE	DGIdb_Drug_Targets_2024	Atad5	Htt	Cyp1a2	Rab9	Smn1	Cyp3a13	Dhodh	Nfe2l2
+LENALIDOMIDE	DGIdb_Drug_Targets_2024	Cul4a	Crbn	Tnfsf11	Vegfc	Tnf	Rbx1	Vegfa	Vegfb
+LENVATINIB	DGIdb_Drug_Targets_2024	Nras	Pdgfrb	Ret	Flt1	Pdgfra	Kit	Flt4	Fgfr1	Kdr	Fgfr2
+LESTAURTINIB	DGIdb_Drug_Targets_2024	Ar	Ntrk2	Ntrk3	Ret	Ntrk1	Flt3	Htt	Mtor	Jak2
+LETROZOLE	DGIdb_Drug_Targets_2024	Rb1	Kit	Mmp2	Ctnnb1	Erbb2	Cyp1b1	Cyp3a13	Pgr	Esr1	Cyp19a1
+LEUCOVORIN	DGIdb_Drug_Targets_2024	Abcc4	Abcc5	Pdgfrb	Ralbp1	Abcc2	Nos3	Map2k1	Xrcc3	Braf	Sele	Runx3	Pik3ca	Dpyd	Msh6	Abcg1	Atm	Bax	Cspg4	Kras	Abcc1	Umps	Abcg3	Fgfr2	Mtrr	Fastkd3	Shmt1	Gata3	Klc1	Tyms	Rgs5	Nras	Slc19a1
+LEUPROLIDE	DGIdb_Drug_Targets_2024	Ar	Cyp1a2	Gnrhr	Cyp3a13
+LEVODOPA	DGIdb_Drug_Targets_2024	Kdm4a	Il15	Cbx1	Mthfr	Recql	Adora2a	Apex1	Bax	Mphosph8	Fen1	Blm	mt-Co1	Slc22a1	Dbh	Ehmt2	Hsd17b10	Wrn	Polk	Drd1	Drd2	Drd3	Drd4	Drd5	Poli	Polh
+LEVOSIMENDAN	DGIdb_Drug_Targets_2024	Kcnj11	Tnnc1	Tnnt2	Pde3b	Pde3a	Tnni3
+LEVOTHYROXINE	DGIdb_Drug_Targets_2024	Thrb	Thra	Serpine1	Slco1b2	F9	Thbd	Pax8	Pparg	Nkx2-5	Nfe2l2	Nox3	Tshb
+LIDOCAINE	DGIdb_Drug_Targets_2024	Bdnf	Slc1a1	Mpo	Egfr	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+LINIFANIB	DGIdb_Drug_Targets_2024	Lyn	Pdgfrb	Pdgfra	Irak4	Hipk2	Clk4	Hipk4	Mapk13	Mapk14	Cdk8	Fes	Melk	Fer	Axl	Tek	Camk1	Epha2	Alk	Frk	Ret	Rock1	Rock2	Mst1r	Aurkb	Slk	Csnk1d	Mknk2	Irak1	Kdr	Pbk	Map3k20	Prkg1	Map4k2	Ntrk2	Yes1	Insr	Ntrk3	Plk4	Map2k2	Srms	Csnk2a1	Plk3	Mink1	Srpk1	Ptk2	Kit	Rps6kb1	Taok1	Met	Csnk1g1	Fgfr3	Csnk1g2	Brsk1	Csf1r	Blk	Flt1	Src	Dyrk3	Ltk	Flt3	Flt4	Camk2b	Rps6ka5	Rps6ka4	Mapk9	Camk2g	Map4k5	Mark2
+LIOTHYRONINE	DGIdb_Drug_Targets_2024	Thrb	Thra	Cyp2d10	Cyp1a2	Cyp3a13
+LORATADINE	DGIdb_Drug_Targets_2024	Gmnn	Slc6a15	Kcna5	Mpo	Tshr	Ar	Hrh1	Cyp2d10	Mapk1	Tac1	Ccl17	Npsr1
+LORAZEPAM	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabrr3	Gabrr2	Gabrr1	Tspo	Gabre	Gabrd
+LORLATINIB	DGIdb_Drug_Targets_2024	Nras	Rb1	Pik3ca	Fgfr1	Hras	Braf	Ros1	Trp53	Alk	Eml4
+LOVASTATIN	DGIdb_Drug_Targets_2024	Idh1	Vdr	Ppara	Cyp4f14	Apoa5	Pik3cb	Lep	Soat1	Cdk2	Cyp1a2	Abcg3	Abcb1a	Pxn	Lpl	Prl3d2	Ehmt2	Hmgcr	Thbs1	Cyp3a13	Rorc	Tfpi	Lipa	Pik3cg	Nt5e	Cyp2d10	Akt1	Smn1	Fdft1	Ldlr	Apob
+LOXAPINE	DGIdb_Drug_Targets_2024	Htr2c	Drd1	Htr2a	Drd2	Drd3	Drd4
+LUCITANIB	DGIdb_Drug_Targets_2024	Flt1	Flt4	Pik3ca	Fgfr1	Kdr	Fgf3	Fgf4	Fgfr2
+LUSUTROMBOPAG	DGIdb_Drug_Targets_2024	Serpinc1	Pros1	F2	F5
+LY2835219	DGIdb_Drug_Targets_2024	Ccnd3	Ccnd2	Cdk6	Ccnd1	Cdk4
+MAPROTILINE	DGIdb_Drug_Targets_2024	Atxn2	Cyp2d10	Cyp1a2	Drd1	Slc6a2	Mtor	Trp53	Tshr
+MARIMASTAT	DGIdb_Drug_Targets_2024	Mmp7	Adam17	Mmp1a	Mmp2	Mmp3	Adam10	Mmp9
+MASITINIB	DGIdb_Drug_Targets_2024	Csf1r	Yes1	Lyn	Pdgfrb	Pdgfra	Src	Kit	Abl1	Fgfr3	Hck	Fgfr2	Ptk2
+MEFENAMIC ACID	DGIdb_Drug_Targets_2024	Cyp2d10	Tdp1	Cyp1a2	Cyp3a13	Hif1a	Nfe2l2	Ptgs1	Ptgs2
+MEGESTROL ACETATE	DGIdb_Drug_Targets_2024	Ar	Abcb1a	Il15	Klk1b24	Pgr	Nfe2l2	Npsr1
+MELATONIN	DGIdb_Drug_Targets_2024	Tgfb1	Maob	Cyp3a13	Prl3d2	Gfap	Rora	Pik3cg	Aanat	Mtnr1b	Mtnr1a	Bglap2	Map2	Per1	Alox5	Ghrh	Ifng	Myc	Cyp1a2	Bax	Rara	Tmsb10b	Gclm
+MENADIONE	DGIdb_Drug_Targets_2024	Nqo1	Nqo2	Vdr	Vkorc1	F10	F2	Ar	F7	F9	Aldh1a1	Mapt	Ggcx	Cyp1a2	Ppard	Trp53	Vkorc1l1	Blm	Maob	Maoa	Pros1	Ehmt2	Proz	Atxn2	Cyp2d10
+MERCAPTOPURINE	DGIdb_Drug_Targets_2024	Kdm4a	Idh1	Cpt1a	Ugt1a1	Gnmt	Cyp2a12	Aldh1a1	Folh1	Impdh1	Tdp1	Cyp1a2	Hprt1	Slc28a3	Slc28a2	Slc29a1	Nfe2l2	Trp53	H2-Eb2	Pnpla3	Fto	Tpmt	Prps1l3	Gstp1	Ighmbp2	Baz2b	Cyp3a13	Gata3	Comt	Nt5c2	Cnnm2	Cyp2d10	Ppat	Xdh	Nudt15
+MESALAMINE	DGIdb_Drug_Targets_2024	Vdr	Il10	Chuk	Hpgd	Ehmt2	Recql	Cyp3a13	Gls	Hsd17b10	Ptgs1	Ptgs2	Ikbkb	Alox5	Apex1	Polk	Pparg	Usp1	Casp1
+MESTRANOL	DGIdb_Drug_Targets_2024	Ar	Cyp2d10	Cyp1a2	Esr1	Agt	Tshb
+METFORMIN	DGIdb_Drug_Targets_2024	Idh1	Tcf7l2	Kcnj11	Ppara	Map2k1	Hnf1b	Nbea	Fmo5	Prkab1	Mtor	Prkab2	Il1b	Capn10	Pik3ca	Pparg	Prpf31	Kras	Slc29a4	Prkaa2	Nr1i2	Slc22a3	Prkag2	Slc2a2	Prkag3	Prkag1	Prkaa1	Acacb	Igf1r	Nras	Stk11	Srr	Hras	Cpa6	Csmd1	Slc19a3
+METFORMIN HYDROCHLORIDE	DGIdb_Drug_Targets_2024	Ndufc2	Ndufc1	Prkab1	Ndufs8	Ndufs7	Ndufs6	Gpd2	Ndufs5	Ndufs4	Ndufs3	Ndufs2	Ndufs1	mt-Nd5	Ndufb9	Prkaa2	mt-Nd6	Ndufb8	Ndufb11b	Ndufb7	Ndufb6	Ndufb5	Ndufb10	Ndufb4	Ndufb3	Ndufb2	Ndufb1	mt-Nd3	mt-Nd4	mt-Nd1	mt-Nd2	Ndufv3	Ndufv2	Ndufv1	Ndufa9	Ndufa8	Ndufa7	Ndufa6	Ndufa5	Ndufa4	Ndufa3	Ndufa2	Ndufa1	Mtor	Ar	Ndufab1	Ndufa4l2	Ndufaf3	Ndufaf4	Ndufaf1	Ndufaf2	Ndufa12	Ndufa13	mt-Nd4l	Ndufa10	Ndufa11
+METHADONE	DGIdb_Drug_Targets_2024	Ntrk2	Kcnj6	Npy5r	Myocd	Bdnf	Txnrd2	Npy1r	Oprm1	Aldh5a1	Por	Th	Lep	Cry1	Nectin4	Ache	H2ax	Abcb1a	Ccl11	Nr1i2	Cyp3a13	Nr3c1	Slc6a4	Cdh2	Kcnh2
+METHIMAZOLE	DGIdb_Drug_Targets_2024	Jun	Csf2	Crmp1	Ehmt2	Tnf	Cyp7b1	Gfap	Fcgr4	Tpo	Il2ra	Bglap2	Dpysl3	Lep	Ctla4	Trp53
+METHOTREXATE	DGIdb_Drug_Targets_2024	Tpm3-rs7	Foxp3	Dok5	Folh1	Msh3	Cyp1a2	Bax	Klrd1	Bcor	Mphosph8	Slc28a3	Trp53	Slamf1	Slc46a1	Nalcn	Gls	Tyms	Sult2a1	Ccnd1	Cdh2	Cyp2d10	Alox5	Slc16a7	Idh1	Hgf	2410137M14Rik	H2-T24	Dhfr	Specc1l	Birc5	Fgf14	Fgfr4	Atf5	Ikzf1	Gata3	Abcc4	Ncoa3	Vdr	Gstm6	Nfatc2	Nfatc1	Atp5f1e	Bmp7	Cdk9	Slc22a29	Ada	Slc22a8	Nfe2l2	Rbms3	Tlr4	Col18a1	Gsk3b	Nr1i2	Nop2	Tat	Tnfaip3	Ighmbp2	Cyp3a13	Slco1b2	Atic	Klc3	Nqo1	Ntrk3	Cpt1a	Ntrk1	Nos3	Sod2	Impdh1	Ercc2	Apex1	Ahrr	Pparg	Pfdn4	Eng	Slc29a1	Folr1	Pnpla3	Cdkn1b	Pygl	Ehmt2	Afp	Hsd17b10	Polb	Poli	Polh
+METHOTRIMEPRAZINE	DGIdb_Drug_Targets_2024	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Adra1d	Htr2b	Drd3	Adra1b	Adra1a
+METHYLDOPA	DGIdb_Drug_Targets_2024	Kdm4a	Cbx1	Recql	Adra2c	Adra2b	Adra2a	Aldh1a1	Apex1	Cyp1a2	Fen1	Blm	Gmnn	Ehmt2	Baz2b	Cyp3a13	Hsd17b10	Polb	Rgs4	Casp6	Cyp2d10	Polk	Poli
+METHYLERGONOVINE	DGIdb_Drug_Targets_2024	Vdr	Rgs4	Aldh1a1	Ehmt2	Recql	Drd1
+METHYLPHENIDATE	DGIdb_Drug_Targets_2024	Arsa	Cmtm8	Farp2	Pdia2	Bdnf	Ggh	Elp5	Senp3	Arhgap12	Spsb2	Th	Nfib	Coro7	Esyt2	Pigm	Churc1	Trib3	Zfy1	Abcb1a	Aldh1l1	Pyroxd2	Htt	Arhgef28	Prl3d2	Etfdh	Zdhhc7	Slc6a2	Slc6a3	Slc6a4	Fxr2	Grin2b	Rrp7a	Cyp2d10	Pura	Cdh23	Pebp4	Drd1	Drd3	Opcml
+METHYLPREDNISOLONE	DGIdb_Drug_Targets_2024	Anxa1	Bdnf	Cd80	Nr3c1	Ar	Cxcl10	Il5	Il2ra	Ifng	Myc	Bcl2	Nfe2l2	Trp53
+METHYSERGIDE	DGIdb_Drug_Targets_2024	Htr7	Vdr	Rgs4	Aldh1a1	Htr2c	Ehmt2	Recql	Drd1	Htr2a	Htr1a
+METHYSERGIDE MALEATE	DGIdb_Drug_Targets_2024	Casp6	Mapt	Htr2c	Ehmt2	Htr1a
+METYROSINE	DGIdb_Drug_Targets_2024	Th	Cyp2d10	Cyp1a2
+MGCD265	DGIdb_Drug_Targets_2024	Flt1	Axl	Flt4	Tek	Kdr	Met	Mst1r	Map3k20
+MIANSERIN	DGIdb_Drug_Targets_2024	Hrh1	Hspa5	Htr2c	Drd1	Htr2a	Htr3a	Adra2a	Htr4
+MIDAZOLAM	DGIdb_Drug_Targets_2024	Brd4	Gabra3	Brd3	Crebbp	Gabra2	Gabrq	Brd2	Gabra1	Gabrp	Vdr	Gabra6	Gabra5	Tpm3-rs7	Gabra4	Gabrg1	Gabrg3	Gabrg2	Brdt	Gabrb3	Gabrb2	Pth	Gabrb1	Tgm2	Gabrr3	Gabrr2	Gabrr1	Ugt1a2	Gabre	Gabrd
+MIDODRINE	DGIdb_Drug_Targets_2024	Cyp2d10	Cyp1a2	Cyp3a13	Adra1b	Adra1a
+MIDOSTAURIN	DGIdb_Drug_Targets_2024	Prkch	Yes1	Ntrk3	Pdgfrb	Prkcg	Pdgfra	Prkci	Prkcd	Idh2	Prkce	Prkcb	Prkca	Prkcz	Kit	Fgfr1	Prkd1	Prkd3	Prkcq	Fgfr3	Flt3	Cbl	Kdr	Jak3	Stk32b	Jak1	Jak2
+MIFEPRISTONE	DGIdb_Drug_Targets_2024	Kdm4a	Bdnf	Cbx1	Lif	Baz2b	Klk1b24	Mtor	Nr3c1	Ar	Gnas	Drd1	Pgr	Mphosph8	Nfe2l2	Npsr1
+MINAPRINE	DGIdb_Drug_Targets_2024	Ache	Chrm1	Maoa	Htr2c	Drd1	Htr2a	Drd2	Htr2b	Slc6a4
+MIRTAZAPINE	DGIdb_Drug_Targets_2024	Cyp2d10	Lep	Htr2c	Htr2a	Slc2a4	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a
+MITOXANTRONE	DGIdb_Drug_Targets_2024	Arsa	Kdm4a	Smad3	Yes1	Mbnl1	Atad5	Cbx1	Recql	Dck	Nfkb1	Rpsa	Rad52	Bax	Bcl2	Mphosph8	Dnmt1	Abcg3	Trp53	Abcb1a	Blm	Galnt14	Htt	Top2a	Ehmt2	Brca1	Cyp3a13	Slco1b2	Mecp2	Atxn2	Rgs4	Wrn	Racgap1	Thpo	Nsd2	Polk	Pim1	Ugt1a2	Mapk1	Poli	Polh
+MK 2206	DGIdb_Drug_Targets_2024	Ar	Smad3	Ube2t	Akt3	Akt1	Akt2
+MK 2461	DGIdb_Drug_Targets_2024	Ntrk2	Ntrk3	Pdgfrb	Flt4	Fgfr1	Kdr	Met	Mst1r	Mertk	Fgfr2
+MK2206	DGIdb_Drug_Targets_2024	Flt3	Map2k1	Arid1a	Braf	Nras	Stk11	Kit	Pik3ca	Akt3	Erbb2	Akt1	Akt2	Hras	Fgfr2
+MLN 8054	DGIdb_Drug_Targets_2024	Lyn	Ntrk3	Csnk2a1	Pdpk1	Plk3	Clk4	Hck	Ptk2	Lck	Melk	Fgfr1	Btk	Tyro3	Epha2	Fgfr3	Src	Flt4	Aurka	Egfr	Aurkb	Pak1	Grk5	Chek2	Kdr	Abl1	Ros1
+MOCETINOSTAT	DGIdb_Drug_Targets_2024	Hdac5	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8
+MODAFINIL	DGIdb_Drug_Targets_2024	Cyp2d10	Cyp1a2	Cyp3a13	Slc6a3
+MONTELUKAST	DGIdb_Drug_Targets_2024	Car10	Galnt17	Abcc9	Cyp3a13	Mllt3	Cysltr1	Cyp2d10	Cyp1a2	Lta4h	Ugt1a2	Abcc1
+MORPHINE	DGIdb_Drug_Targets_2024	Ccr2	Rhbdf2	Abcc3	F2r	Txnrd2	Oprk1	Syp	Oprm1	Gcg	Pdyn	Grin1	Mapk14	Tlr2	Il1b	Cckbr	Per1	Taok3	Cyp1a2	Abcb1a	Oprd1	Lpar2	Cyp3a13	Itgam	Nr4a1	Grm1	Tbxa2r	Cyp2d10	Ugt1a6a	Hmox2	Ugt1a2	Drd2	Arvcf	Ugt1a10	Sult5a1
+MOSAPRIDE	DGIdb_Drug_Targets_2024	Htr3b	Htr3a	Htr4
+MOTESANIB	DGIdb_Drug_Targets_2024	Yes1	Pdgfrb	Ret	Flt1	Pdgfra	Kit	Flt4	Kdr
+MOTEXAFIN GADOLINIUM	DGIdb_Drug_Targets_2024	Rrm2	Rrm1	Rrm2b	Txnrd3	Txnrd2	Txnrd1
+MT 3724	DGIdb_Drug_Targets_2024	Rpl22	Rps8	Rpl21	Rps9	Rpl24	Rps6	Rpl23	Rps7	Rpl13a	Rps3a1	Rpsa	Fau	Rpl26	Rpl27	Rpl29	Ms4a1	Rpl11	Rpl10	Rpl13	Rpl12	Rpl15	Rpl14	Rps5	Gm6133	Rps2	Rps3	Rpl19	Rps15a	Rpl18	Rps27a	Rps26	Rps29	Rps28	Rps21	Rps20	Rps23	Rps25	Rpl6	Rpl3	Rpl30	Rpl4	Rpl35	Rpl34	Rplp1	Rpl8	Rps16	Rps15	Rps4x	Rps18	Rpl18a	Rps17	Rps19	Rpl36	Rps10	Rpl38	Rps11	Rpl7a	Rps14	Rps13
+MYCOPHENOLATE MOFETIL	DGIdb_Drug_Targets_2024	Ar	Ces1d	Epo	Il15	Impdh1	Impdh2	Hus1	Il12a	Prtn3	Ces2f	Ugt1a10
+MYCOPHENOLIC ACID	DGIdb_Drug_Targets_2024	Ces1d	Ugt1a10	Cyp3a13	Il18	Nfatc1	Hsd17b10	Ar	Impdh1	Impdh2	Slco1b2	Birc5	Pparg	Hprt1	Smn1	Snca	Ces2f
+N DESMETHYLCLOZAPINE	DGIdb_Drug_Targets_2024	Atxn2	Cyp2d10	Drd1	Ugt1a2	Cyp3a13
+NABUMETONE	DGIdb_Drug_Targets_2024	Cyp1a2	Smn1	Ptgs1	Rapgef4	Ptgs2
+NALBUPHINE	DGIdb_Drug_Targets_2024	Oprd1	Cyp2d10	Cyp1a2	Oprk1	Oprm1	Cyp3a13
+NALOXONE	DGIdb_Drug_Targets_2024	Oprd1	Anpep	Grp	Bdnf	Ntf3	Oprk1	Prl3d2	Crh	Oprm1	Rara	Adcyap1r1
+NALTREXONE	DGIdb_Drug_Targets_2024	Sigmar1	Oprd1	Dbh	Oprk1	Oprm1	Gcg	Comt	Aldh2	Bax	Ankk1	Drd2	Tac1
+NAPROXEN	DGIdb_Drug_Targets_2024	Alb	Cyp2d10	Cbx1	Cyp1a2	Cyp3a13	Plat	Ptgs1	Ptgs2
+NATEGLINIDE	DGIdb_Drug_Targets_2024	Kcnj11	Abcc8	Cyp2d10	Cyp1a2	Cyp3a13	Kcnj1
+NAVITOCLAX	DGIdb_Drug_Targets_2024	Nras	Bcl2l1	Polk	Bcl2	Braf	Poli	Trp53	Alk	Bcl2l2	Fgfr2
+NEFAZODONE	DGIdb_Drug_Targets_2024	Htr2a	Slc6a2	Adra1b	Adra1a	Slc6a4
+NERATINIB	DGIdb_Drug_Targets_2024	Yes1	Erbb4	Herc2	Pik3ca	Erbb2	Braf	Pgr	Esr1	Cbl	Egfr	Esr2
+NEVIRAPINE	DGIdb_Drug_Targets_2024	Adipoq	Tcf19	Abcb1a	Abcc2	Abcc3	Traf3ip2	Nr1i3	Cyp3a13	Nat1	Cyp2d10	Cyp1a2	H2-Ab1	Abcc1	Abcg3	Apob	Cchcr1
+NIACIN	DGIdb_Drug_Targets_2024	Hcar2	Cyp2d10	Qprt	Cyp1a2	Cyp3a13
+NICARDIPINE	DGIdb_Drug_Targets_2024	Ar	Il1b	Atxn2	Atad5	Bdnf	Cacna1c	Cbx1	Prl3d2	Ehmt2	Mtor
+NICOTINE	DGIdb_Drug_Targets_2024	Tgfb1	Chrnb2	Bdnf	Fmo1	Nrg1	Htr3b	Cp	Grin3a	Creb1	Por	Bax	Ddit3	Chrna2	Abcb1a	Chrna4	Epb41	Cdkn1a	Maoa	Chrna7	Nrxn1	Chat	Dbh	Chrna9	Afp	Cyp3a13	Slc6a3	Nr4a1	Cyp2d10	Ntf3	E2f1	Chrna10	Vhl	Apoe	Drd1	Ugt1a2	Drd4	Elane	Ugt1a10
+NIFEDIPINE	DGIdb_Drug_Targets_2024	Vdr	Atad5	Cacna2d1	Cbx1	Hspa4	Gfap	Mmp9	Myo9b	Nfkb1	Ar	Aldh1a1	Mapt	Nos1ap	Soat1	Cyp1a2	Apba1	Mphosph8	Nfe2l2	Gmnn	Nr1i2	Grp	Hpgd	Camk2b	Cacna1c	Cacna1b	Ehmt2	Baz2b	Cacna1d	Cyp3a13	Rorc	Hif1a	Cacna1f	Nr3c1	Nts	Adra1a	Hsd17b10	Atxn2	Rgs4	Ccnd1	Cyp2d10	Cacna1s	Drd1	Mapk1	Elane
+NILOTINIB	DGIdb_Drug_Targets_2024	Ddr2	Pdgfrb	Pdgfra	Flt3	Ugt1a1	Gstp1	Cyp3a13	Bcr	Kit	Abi1	Cyp1a1	Nf1	Abl1	Abcg3
+NILUTAMIDE	DGIdb_Drug_Targets_2024	Ar	Cyp2d10	Cyp1a2	Cyp3a13	Klk1b24	Nfe2l2
+NIMODIPINE	DGIdb_Drug_Targets_2024	Abcb1a	Atad5	Serpine1	Cacna1c	Fos	Nr1h4	Cacna1d	Gfap	Nr3c2	Cacna1f	Ntf3	Cacng1	Nos2
+NINTEDANIB	DGIdb_Drug_Targets_2024	Pdgfrb	Flt1	Pdgfra	Flt4	Cflar	Kit	Pik3ca	Akt1	Fgfr1	Kdr	Fgfr4	Fgfr3	Fgfr2
+NIRAPARIB	DGIdb_Drug_Targets_2024	Idh1	Mycs	Parp2	Parp1	Atm	Brca1	Arid1a	Brca2	Atr
+NISOLDIPINE	DGIdb_Drug_Targets_2024	Vdr	Gmnn	Cacna1a	Cacna1c	Ehmt2	Cacna1d	Cyp3a13	Cacna1f	Ar	Cyp2d10	Cacna1s	Cyp1a2	Nfe2l2
+NITRAZEPAM	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Hpgd	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabrr3	Gabrr2	Gabrr1	Scn1a	Gabre	Gabrd
+NITROGLYCERIN	DGIdb_Drug_Targets_2024	Gucy1a2	Gucy1a1	Gstm6	Gucy1b1	Npr1	Mapk3	Hras	Hif1a
+NIVOLUMAB	DGIdb_Drug_Targets_2024	Idh1	Pbrm1	Arid1a	Braf	Msh2	Pik3ca	Msh6	H2-Ea	Atm	Mdm4	Cdk12	Kras	Pdcd1	Fgfr3	Trp53	Alk	Mdm2	Cd274	Egfr	Nras	Stk11	Pole	Pold1	Erbb2	B2m	Pms2
+NOREPINEPHRINE	DGIdb_Drug_Targets_2024	Kdm4a	Fen1	Mbnl1	Vdr	Blm	Adrb1	Ehmt2	Recql	Adrb2	Adra1d	Adra1b	Adra2c	Comt	Adra1a	Adra2b	Adra2a	Mapt	Apex1	Tdp1	Drd1	Poli	Polh
+NORGESTREL	DGIdb_Drug_Targets_2024	Ar	Hspa5	Pgr	Esr1	Nfe2l2	Shbg
+NORTRIPTYLINE	DGIdb_Drug_Targets_2024	Ephx1	Bdnf	Slc39a14	Htr1a	Adra2a	Ppm1a	Fchsd1	Ust	Ddit4	Gnb3	Adgrl3	Trp53	Ces1d	Crhr1	Grik4	Grik2	Slc6a2	Comt	Slc6a4	Rptor	Atxn2	Rgs4	Cyp2d10	Drd1	Cacng2	Drd3
+OCTREOTIDE	DGIdb_Drug_Targets_2024	Igfbp1	Tg	Pik3cb	Lpar2	Mpo	Sstr1	Klk1b24	Sstr2	Sstr5	Pik3cg
+OLANZAPINE	DGIdb_Drug_Targets_2024	Ptprn2	Epm2a	Gstm5	Bdnf	Eif2ak4	Htr1b	Gcg	Htr1a	Prkab2	Il1a	Rabep1	Slc26a9	Cyp1a1	Spopl	Chrm3	Chrm4	Chrm1	Gipr	Prkaa2	Chrm2	Chrm5	Slc1a1	Glp1r	Htr2c	Ahr	Htr2a	Adrb3	Atp1a2	Adra1b	Adra1a	Hrh1	Sh2b1	Drd1	Drd2	Drd3	Drd4	Drd5	Gaa	Fmo1	Mthfr	Gfer	Adra2c	Htr3a	Adra2b	Adra2a	Tbc1d1	Cckbr	Gnb3	Pparg	Faah	Slc22a1	Tpmt	Gstp1	Chat	Htr6	Htr7	Rgs4	Mc4r	Plagl1	Csmd1
+OLAPARIB	DGIdb_Drug_Targets_2024	Idh1	Parp2	Parp3	Atrx	Dnmt3a	Idh2	Parp1	Fanca	Tet2	Arid1a	Braf	Esr1	Palb2	Esr2	Mycs	Msh3	Pik3ca	Atm	Cdk12	Pgr	Atr	Trp53	Bap1	Flt3	Hdac2	Brca1	Brca2	Ppp2r2a	Nras	Stk11	Chek1	Erbb2	Rad54l	Chek2	Myc	Vhl	Sf3b1	Kdm6a	Bard1	Jak2
+OMEPRAZOLE	DGIdb_Drug_Targets_2024	Kdm4a	Vdr	G6pdx	Plk1	Cbx1	Atp4b	Atp4a	Mapt	Cyp1a2	Slc22a8	Vip	Nfe2l2	Slc22a6	Csf2	Nr1i2	Hpgd	Gstp1	Hdc	Hexb	Ehmt2	Ahr	Baz2b	Tnf	Cyp3a13	Cyp2d10	Tac1
+ONDANSETRON	DGIdb_Drug_Targets_2024	Ugt1a10	Abcb1a	Gsr	Ugt1a1	Htr2a	Cyp3a13	Htr3a	Ugt1a6a	Ppy	Ugt1a2
+OPIOIDS	DGIdb_Drug_Targets_2024	Rhbdf2	Adgrv1	Bdnf	Tacr3	Zfp804a	Mcoln1	Gal	Il17a	Hnf1a	Lkaaear1	Gnb3	Taok3	Cyp1a2	Exoc4	Pde3a	Cnih3	Pom121l2	Rgs19	Faah	Gabrb3	Crybg2	Dbh	Tnf	Clcc1	Muc16	Slc18a2
+ORLISTAT	DGIdb_Drug_Targets_2024	Lipf	Dagla	Fasn	Lpl	Serpine1	Abhd6	Pnlip
+ORPHENADRINE	DGIdb_Drug_Targets_2024	Grin3a	Grin3b	Hrh1	Grin2d	Grin1
+OSI 027	DGIdb_Drug_Targets_2024	Rptor	Pik3ca	Akt1s1	Mlst8	Rictor	Deptor	Mtor
+OSIMERTINIB	DGIdb_Drug_Targets_2024	Nras	Pik3ca	Ctnnb1	Erbb2	Keap1	Met	Braf	Ros1	Egfr	Trp53	Alk
+OUABAIN	DGIdb_Drug_Targets_2024	Ar	Smad3	Idh1	Atad5	Stat3	Atp1a1	Klf5	Nfe2l2
+OXALIPLATIN	DGIdb_Drug_Targets_2024	Abcc5	Gckr	Mlh1	Xrcc3	Mthfr	Braf	Dkk1	Pard3b	Sele	Cxcl10	Zeb1	Mt1	Kcnq1	Mgat4a	Pik3ca	Dpyd	Msh6	Atm	Bax	Bcl2	Kras	Abcc1	Pin1	Trp53	Fgfr2	Cd274	Foxc2	Gstp1	Brca1	Ptgs2	Klc3	Gna13	Igf2bp2	Abl1	Atp7b	Atp7a	Csmd1	Pms2
+OXCARBAZEPINE	DGIdb_Drug_Targets_2024	Ugt1a10	Abcb1a	Vdr	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn1a	Scn2a	H2-Eb2
+OXYCODONE	DGIdb_Drug_Targets_2024	Rhbdf2	Oprd1	Septin3	Wbp2nl	Nr1i3	Macrod2	Oprk1	Oprm1
+OXYMETHOLONE	DGIdb_Drug_Targets_2024	Ar	Aldh1a1	Ehmt2	Cyp3a13	Plg	Esr1	Nfe2l2	Npsr1
+PACLITAXEL	DGIdb_Drug_Targets_2024	Epha6	Epha5	Map3k1	Tle3	Afg2a	Lig3	Msh2	Tuba4a	Msh6	Pdcd4	Abcg3	Trp53	Raf1	Rb1	Aurka	Tubb1	Tuba3b	Egfr	Fgd4	Tubb6	Tubb3	E2f1	Dscam	Acss2	Misp	Pms2	Nfe2	Fzd3	Ar	Nat1	Fasn	Birc5	Fgfr1	Pgp	Mad1l1	Arhgef10	Cd274	Gmnn	Eif4ebp1	Ets2	Fntb	Stmn1	Ros1	Abcc2	Abcc3	Gstm6	Mmp2	Bdnf	Tubb5	Lif	Nrg1	Nrg3	Tubb2a	Spidr	Fcgr3	Abcc10	Tubb2b	Pik3ca	Cdk2	Atm	Bcl2	Abcc1	Abcb1a	Nr1i2	Top2a	Brca1	Cyp3a13	Slco1b2	Trim30a	Erbb2	Casp3	Cbr3	Mlh1	Rrm1	Syk	Fos	Tubb4b	Tubb4a	Sod2	Ercc1	Ercc2	Kras	Slc29a1	Cdkn1a	Gstp1	Tuba1a	Pik3cg	Ednrb	Tuba1c	Tuba1b	Jak2
+PALBOCICLIB	DGIdb_Drug_Targets_2024	Map4k2	Cdkn2b	Dapk3	Dyrk1b	Braf	Dyrk1a	Esr1	Esr2	Clk4	Smarca4	Clk2	Cdk9	Cdk6	Ccne2	Cdk5	Pik3ca	Cdk4	Taok1	Met	Prkd3	Kras	Trp53	Alk	Rb1	Ret	Flt3	Rock2	Lrrk2	Mst1r	Prkx	Prkaa1	Nras	Mapk9	Ccnd3	Mapk8	Ccnd2	Chek1	Ccnd1	Erbb2	Rps6ka3	Nek2	Pak4	Map4k4	Map4k5
+PALIFERMIN	DGIdb_Drug_Targets_2024	Nrp1	Hspg2	Fgfr1	Fgfr4	Fgfr3	Fgfr2
+PALIPERIDONE	DGIdb_Drug_Targets_2024	Abcb1a	Rabep1	Erbb4	Nfib	Mc4r	Sh2b1	Ehmt2	Drd1	Htr2a	Drd2
+PAMIDRONATE	DGIdb_Drug_Targets_2024	Fdps	Cd86	Col1a1	Casr	Mmp2	Spp1	Tnfrsf11b
+PANITUMUMAB	DGIdb_Drug_Targets_2024	Map2k1	Nrg1	Tgfa	Braf	Nrg3	Egfr	Ereg	Btc	Nras	Pik3ca	Hras	Met	Kras	Hbegf
+PANOBINOSTAT	DGIdb_Drug_Targets_2024	Csf1r	Hdac5	Bap1	Hdac6	Hdac3	Smarcb1	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Actl6a	Sirt5	Sirt6	Sirt7	Hdac9	Sirt1	Sirt2	Hdac7	Hdac8	Sirt4	Mycs
+PAPAVERINE	DGIdb_Drug_Targets_2024	Crebbp	Thpo	Cyp2d10	Cbx1	Pde4b	Plau	Xdh	Adra1d	Cyp3a13	Nfe2l2
+PARDOPRUNOX	DGIdb_Drug_Targets_2024	Htr7	Drd2	Htr1a	Drd3	Drd4	Adra1a	Adra2a
+PAROXETINE	DGIdb_Drug_Targets_2024	Srp19	Rpp30	Htr1b	Ehmt2	Comt	Slc6a4	Ar	Htr7	Atxn2	Gdnf	Reep5	Drd3	Mdga2
+PAZOPANIB	DGIdb_Drug_Targets_2024	Pdgfrb	Pdgfra	Limk1	Vegfa	Cdk7	Scgb3a1	Trp53	Alk	Ret	Nr1i2	Hfe	Aurka	Ewsr1	Cyp3a13	Aurkb	Nras	Kdr	Yes1	Pbrm1	Ugt1a1	Tnk2	2410137M14Rik	Mtor	Ptk2	Ar	Lck	Kit	Fgfr1	Taok1	Met	Fgfr3	Ppard	Fgfr2	Csf1r	Flt1	Ltk	Flt4	Hdac2	Hif1a	Igf1r	Mapk9	Mapk8	Vhl	Nek2	Abl1	Fyn	Map4k4
+PD 0166285	DGIdb_Drug_Targets_2024	Acvr1	Pdgfrb	Pdgfra	Mapk14	Alk	Ret	Lrrk2	Mst1r	Prkx	Egfr	Prkaa1	Stk3	Aurkb	Kdr	Pak4	Map4k2	Ntrk2	Yes1	Ntrk3	Map2k2	Ntrk1	Map2k1	Syk	Tnk2	Mink1	Ptk2	Wee1	Lck	Fgfr1	Btk	Taok1	Tyro3	Met	Prkd3	Csf1r	Flt1	Src	Ltk	Flt3	Igf1r	Mapk9	Mapk8	Rps6ka3	Abl1	Fyn	Jak3	Ikbke	Map4k4	Jak2	Map4k5	Prkaca
+PD 0325901	DGIdb_Drug_Targets_2024	Nras	Stk11	Flt3	Kit	Map2k1	Pik3ca	Braf	Trp53
+PD173074	DGIdb_Drug_Targets_2024	Src	Fgfr1	Hras	Fgfr3	Fgfr2
+PEGINTERFERON ALFA 2A	DGIdb_Drug_Targets_2024	Abcb1a	Mettl1	2410137M14Rik	Il18	Oas1b	Egfr	Dnaaf9	Nt5c2	Cxcl10	Socs3	Cyp27b1	Il6	Ctla4	Calr	Slc29a1	Ifnar1	Mill1	Ifnar2
+PEMBROLIZUMAB	DGIdb_Drug_Targets_2024	Idh1	Fbxw7	Mlh1	Pbrm1	Pdcd1lg2	Arid1a	Braf	Msh2	Kit	Pik3ca	Msh6	H2-Ea	Mdm4	Cdk12	Met	Kras	Pdcd1	Trp53	Alk	Mdm2	Cd274	Keap1	Egfr	Nras	Stk11	Pole	Pold1	Erbb2	B2m	Ros1	Jak1	Pms2	Jak2
+PEMETREXED	DGIdb_Drug_Targets_2024	Abcc2	Cd274	Rrm1	Slc46a1	Ggh	Mthfr	Xrcc1	Egfr	Tyms	Vegfa	Dhfr	Atic	Exo1	Ercc2	Mthfd1	Gart	Kras	Slc19a1	Slc22a8	Alk
+PENTOXIFYLLINE	DGIdb_Drug_Targets_2024	Pde6h	Vwf	Pde6g	Pde4d	Il1b	Adora2b	Adora2a	Pde3b	Bcl2	Pde3a	Pde5a	Pde7b	Pde7a	Pde9a	Itgb2l	Pcna	Pde1c	Pde1b	Pde1a	Pde2a	Pde4c	Pde4b	Pde6d	Pde4a	Pde6c	Adora1	Pde6b	Pde6a	Pde8b	Pde8a
+PERGOLIDE MESYLATE	DGIdb_Drug_Targets_2024	Erg	Drd1	Drd2	Drd3	Drd4	Kcnh2
+PERHEXILINE	DGIdb_Drug_Targets_2024	Cpt1a	Cpt2	Cyp2d10	Cyp1a2	Cyp3a13
+PERPHENAZINE	DGIdb_Drug_Targets_2024	Skor2	Gmnn	Maml3	Prkce	Cbx1	Mtor	Atxn2	Rad52	Rgs4	Thpo	Cyp2d10	Drd1	Drd2	Mphosph8	Mcph1	Trp53	Kcnh2	Ube2n
+PERTUZUMAB	DGIdb_Drug_Targets_2024	Erbb2	Erbb3	Nrg1	Pgr	Esr1	Egfr
+PF 04691502	DGIdb_Drug_Targets_2024	Flt3	Pik3cb	Pik3r1	Pik3ca	Pik3r5	Pik3cd	Pik3r3	Pik3r2	Mtor	Pik3cg
+PF 06263507	DGIdb_Drug_Targets_2024	Tpbg	Tubb5	Tubb1	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+PF 06651600	DGIdb_Drug_Targets_2024	Tec	Txk	Btk	Jak3	Bmx
+PF 562271	DGIdb_Drug_Targets_2024	Pdgfrb	Matk	Hipk2	Hipk4	Mapk12	Melk	Mapk10	Axl	Sik2	Frk	Rock1	Rock2	Aurka	Mst1r	Prkx	Prkaa1	Aurkb	Slk	Pak1	Chek2	Kdr	Pak4	Yes1	Insr	Plk4	Prkcg	Map2k2	Prkcd	Tnk2	Mink1	Srpk1	Ptk2	Fgfr1	Map3k10	Btk	Prkd3	Prkcq	Prkd2	Fgfr3	Brsk1	Blk	Igf1r	Tbk1	Ros1	Mark4	Mark3	Mark2	Prkaca	Lyn	Irak4	Tyk2	Cdc42bpa	Clk4	Clk2	Cdk9	Cdk7	Cdk5	Cdk2	Cdk1	Sgk2	Itk	Alk	Ret	Gsk3b	Gsk3a	Lrrk2	Tssk1	Stk3	Grk5	Irak1	Map3k20	Map4k2	Ntrk2	Ntrk1	Csnk2a1	Pdpk1	Dapk3	Hck	Lck	Rps6kb1	Taok1	Met	Pkn2	Csnk1g1	Csnk1g2	Flt1	Src	Ltk	Flt3	Flt4	Camkk2	Mapk9	Rps6ka3	Ptk2b	Mapk1	Fyn	Camk2g	Jak3	Map4k4	Jak2	Map4k5
+PHENELZINE	DGIdb_Drug_Targets_2024	Maob	Cyp2d10	Maoa	Cyp1a2	Rab9	Ehmt2
+PHENOBARBITAL	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabra1	Gabra6	Gabra5	Gabra4	Fos	Mthfr	Pgd	Cyp1a2	Bax	Scn2a	Gria2	Ugt1a10	Gria3	Abcb1a	Chrna4	Pth	Gria1	Nr1i2	Chrna7	Nr1i3	Tat	Prl3d2	Grik2	Cyp3a13	Cyp2d10	Ugt1a6a	Ugt1a2
+PHENTOLAMINE	DGIdb_Drug_Targets_2024	Kcnj11	Alpi	Slc2a4	Tyms	Adra1a	Adra2a
+PHENYLBUTAZONE	DGIdb_Drug_Targets_2024	Ptgis	Alb	Cyp2d10	Cyp1a2	Ehmt2	Cyp3a13	Ptgs1	Ptgs2
+PHENYLEPHRINE	DGIdb_Drug_Targets_2024	Ntrk1	Bax	Drd1	Hspa4	Nos1	Adra1d	Fgf2	Itgam	Adra1b	Adra1a	Pik3cg
+PHENYTOIN	DGIdb_Drug_Targets_2024	Ephx1	Pou5f1	Vegfa	Tg	Cyp2a12	Nat1	Scn10a	Scn8a	Cyp1a2	Cyp1a1	Scn4a	Scn2a	Nfe2l2	Nr1i2	Slc2a1	Trh	Cyp3a13	Aqp4	Cyp19a1	Scn11a	Scn9a	Cyp2d10	Ntf3	Scn7a	Scn5a	Ugt1a6a	Scn3a	Scn1a	Ggt1	Ugt1a10
+PI 103	DGIdb_Drug_Targets_2024	Dapk3	Pik3r5	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Hipk2	Pik3c2b	Mtor	Pik3c2a	Clk4	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Pik3c3	Pim3
+PI 88	DGIdb_Drug_Targets_2024	Flt1	Flt4	Fgfr1	Hpse	Tfpi	Fgfr2
+PICTILISIB	DGIdb_Drug_Targets_2024	Yes1	Rb1	Lrrk2	Pik3r5	Pik3cd	Pik3r3	Arid1a	Braf	Pik3r2	Clk4	Pik3cg	Stk11	Cdk7	Pik3cb	Pik3r1	Pik3ca	Rit1	Erbb2	Fgfr1	Kras	Fgfr3	Jak2
+PILOCARPINE	DGIdb_Drug_Targets_2024	Chrm3	Ntrk2	Chrm1	Chrm2	Ntrk1	Ntf3	Chat	Fos	Prl3d2	Abcc1
+PIMASERTIB	DGIdb_Drug_Targets_2024	Map2k2	Map2k1	Nf1	Braf	Kras
+PIMOZIDE	DGIdb_Drug_Targets_2024	Kdm4a	Idh1	Xbp1	Atad5	Cbx1	Mtor	Ar	Mphosph8	Ppard	Trp53	Htr2a	Cyp3a13	Hif1a	Rxra	Atxn2	Thpo	Cyp2d10	Drd1	Mapk1	Drd2	Drd3	Drd4	Drd5	Kcnh2	Npsr1
+PIOGLITAZONE	DGIdb_Drug_Targets_2024	Tgfb1	Yes1	G6pdx	Ptprd	Nr1i2	Lpl	Slc2a1	Pparg	Hspa4	Thbs1	Ghrl	Gfap
+PIROXICAM	DGIdb_Drug_Targets_2024	Kdm4a	Pla2g2a	Cyp1a2	Baz2b	Cyp3a13	Ggt1	Ptgs1	Ptgs2
+PKI 587	DGIdb_Drug_Targets_2024	Crtc1	Crtc2	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Mtor	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Pik3c3
+PLATINUM	DGIdb_Drug_Targets_2024	Abcb1a	Cd74	Xrcc5	Gstp1	Slc2a1	Xrcc1	Hnf1b	Tyms	Klc3	Mapk8	Bivm	Ercc2	Stmn1	Ddit3	Rictor	Atp7b	Atp7a
+PLX4720	DGIdb_Drug_Targets_2024	Nras	Map2k1	Mitf	Rac1	Braf
+PODOFILOX	DGIdb_Drug_Targets_2024	Gmnn	Top2a	Tubb5	Tubb1	Cyp3a13	Nr0b1	Tuba1a	Tuba3b	Tubb2a	Tubb4a	Tuba4a	Ar	Tuba1c	Tuba1b	Tubb2b	Tubb6	Pax8	Tubb3
+PONATINIB	DGIdb_Drug_Targets_2024	Yes1	Pdgfrb	Ret	Pdgfra	Src	Flt3	Braf	Eml4	Bcr	Kit	Abl2	Fgfr1	Kdr	Abl1	Kras	Fgfr4	Fgfr3	Fgfr2
+PRAVASTATIN	DGIdb_Drug_Targets_2024	Rhoa	Ace	Abca1	Slc10a1	Mmp2	Mmp3	Il2	Il1b	Bax	Abcg3	H2-Eb2	Abcb1a	Lpl	Mttp	Hmgcr	Cyp3a13	Slco1b2	Adamts1	Npc1l1	Clmn	Apoe	Nos1	Ldlr	Apob
+PRAZEPAM	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Ar	Gabrr3	Gabrr2	Gabrr1	Gabre	Gabrd	Nfe2l2
+PRAZOSIN	DGIdb_Drug_Targets_2024	Ar	Mapk8	Nos1	Adra1d	Cyp3a13	Adra1b	Abcg3	Adra1a	Hsd17b10
+PREDNISOLONE	DGIdb_Drug_Targets_2024	Anxa1	Tspyl1	G6pdx	Tat	Mthfr	Lcat	Cyba	Plg	Cyp3a13	Gata3	Nr3c1	Fcgr4	Tg	Alpi	Dse	Rps19	Bglap2	Bax	Rac2	Cd34	Nfe2l2	Pnpla3
+PREDNISONE	DGIdb_Drug_Targets_2024	Anxa1	Gstm6	Nos3	Vwf	Cyba	Nfatc1	Bmp7	Ar	Cxcl12	Ptprc	Tg	Dok5	Ifng	Cyp1a2	Atf5	Itgb2l	Abcb1a	Calca	Tpmt	Ncf4	Gstp1	Cyp3a13	Gata3	Nr3c1	Hsd17b10	Ednra	Mc2r	Apoe	Ctla4	Mbp	Slc19a1
+PREGABALIN	DGIdb_Drug_Targets_2024	Cacna2d2	Cacna2d1	Cacna2d4	Cacna2d3	Cacnb2	Cacnb3	Cacnb4	Cacnb1	Cacna1a	Cacna1c	Cacna1b	Cacna1e	Cacna1d	Cacna1g	Cacna1f	Cacna1i	Cacng7	Cacng8	Cacna1s	Cacng1	Cacng2	Cacng3	Cacng4	Cacng5	Cacng6
+PRIMIDONE	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg2	Ar	Scn10a	Scn8a	Scn4a	Scn2a	Gria2	Gabrb3	Chrna4	Gabrb2	Gabrb1	Chrna7	Grik2	Scn11a	Scn9a	Scn7a	Scn5a	Scn3a	Scn1a	Gabre	Gabrd
+PROBENECID	DGIdb_Drug_Targets_2024	Ar	Abcb1a	Slc22a6	Abcc1	Slc22a8
+PROCHLORPERAZINE	DGIdb_Drug_Targets_2024	Kdm4a	Idh1	Gmnn	Cbx1	Ehmt2	Baz2b	Htr2a	Cyp3a13	Il2	Atxn2	Cyp2d10	Cyp1a2	Drd1	Drd2	Mphosph8	Rapgef4	Trp53
+PROGESTERONE	DGIdb_Drug_Targets_2024	Cr2	Tpm3-rs7	Nrg1	Cartpt	Cp	Esr1	Gfap	Prkab1	Nme2	Pax2	Ar	Aldh1a1	Pik3cb	Il2ra	Tdp1	Cyp1a2	Pmp22	Pgr	Rnaseh2a	Tardbp	Nfe2l2	Atf3	Oxtr	Mug1	Rock2	Slc2a1	Tat	Slc2a4	Cyp3a13	Rorc	Nr3c2	Nr3c1	Nppc	Sts	Tgm2	Rxra	Cyp2d10	Ephb1	Mapk1	Abl1	Atp7a	Ctsc
+PROMAZINE	DGIdb_Drug_Targets_2024	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Hif1a	Adra1b	Adra1a	Hrh1	Cyp2d10	Cyp1a2	Drd1	Drd2	Drd4
+PROMETHAZINE	DGIdb_Drug_Targets_2024	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htt	Cbx1	Prl3d2	Ehmt2	Atxn2	Hrh1	Cyp1a2	Cyp1a1	Drd1
+PROPIOMAZINE	DGIdb_Drug_Targets_2024	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Adra1b	Adra1a	Hrh1	Drd1	Drd2	Drd4
+PROPOFOL	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Trpv1	Gabrg3	Gabrg2	Scn4a	Scn2a	App	Gabrb3	Gabrb2	Gabrb1	Scn9a	Nos1	Drd2	Nos2	Gabre	Ugt1a10	Gabrd	Kcnh2
+PROPRANOLOL	DGIdb_Drug_Targets_2024	Abcb1a	G6pdx	Bdnf	Adrb1	Ehmt2	Hspb2	Adrb2	Cyp3a13	Gfap	Bglap2	Cyp2d10	Cyp1a2	Ccn2
+PROPYLTHIOURACIL	DGIdb_Drug_Targets_2024	Bdnf	Dio1	Prl3d2	Mpo	Tnf	Prkab1	Myo9b	Gja1	Tpo	Il2ra	Cyp2d10	Lep	Cyp1a2	Trp53
+PROTRIPTYLINE	DGIdb_Drug_Targets_2024	Thpo	Cyp2d10	Drd1	Slc6a2	Nfkb1	Slc6a4
+PSEUDOEPHEDRINE	DGIdb_Drug_Targets_2024	Alox15	Adrb2	Cyp3a13	Slc6a2	Slc6a3	Adra1a	Alox8	Hsd17b10	Adra2a	Pkm	Thpo	Cyp2d10	Gla
+PUMOSETRAG	DGIdb_Drug_Targets_2024	Htr3b	Htr3a
+PX 866	DGIdb_Drug_Targets_2024	Rps6	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Braf	Pik3c2g	Pik3r2	Pik3c2b	Mtor	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Pik3c3
+PYRIDOSTIGMINE	DGIdb_Drug_Targets_2024	Ache	Cyp2d10	Cbx1	Cyp3a13
+QUERCETIN	DGIdb_Drug_Targets_2024	Gsr	Avpr2	Recql	Cdc25c	Galk1	Mapt	Pik3cb	Pik3ca	Cyp1a2	Bax	Cyp1a1	Mphosph8	Top1	Rela	Pon1	Hpgd	Top2a	Alox15	Cyp3a13	Hspb1	Hsf1	E2f1	Drd1	Cd34	Yes1	Gpr35	Atad5	F2	Nfkb1	Alox8	Nfkb2	Aldh1a1	Apex1	Fen1	Blm	Ehmt2	Hif1a	Cyp19a1	Hsd17b10	Polb	Mapk3	Polk	Xdh	Abl1	Mbp	Poli	Apob	Polh
+QUETIAPINE	DGIdb_Drug_Targets_2024	Epm2a	Cyp3a13	Pde4d	Eif2ak4	Mthfr	Htr1a	Rabep1	Kcnma1	Mir582	Ankk1	Faah	Htr2c	Htr2a	Htr2b	Comt	Grin2b	Hrh1	Rgs4	Rims1	Sh2b1	Drd1	Drd2	Drd3
+QUINIDINE	DGIdb_Drug_Targets_2024	Kcne1	Abcb1a	Cyp2d10	Scn5a	Cyp3a13	Kcnh2
+QUIZARTINIB	DGIdb_Drug_Targets_2024	Csf1r	Nras	Pdgfrb	Ret	Pdgfra	Flt3	Kit	Idh2	Tet2	Fgf2	Jak3	Cbl
+RABEPRAZOLE	DGIdb_Drug_Targets_2024	Atp4b	Atp4a	Vdr	Il10	Aldh1a1	Hexb	Ehmt2	Tnf	Alox8
+RADIOTHERAPY	DGIdb_Drug_Targets_2024	Tgfb1	Idh1	Gstm6	Keap1	Prkce	Cacna2d3	Tnf	Areg	Osgep	Osmr	Tanc1	Stk11	Cdh2	Pik3ca	Apex1	Atm	Cdk1	Kdr	Tmem167	Mutyh	Rigi	Trp53
+RALOXIFENE	DGIdb_Drug_Targets_2024	Vdr	Ugt1a1	Cbx1	Esr1	Esr2	Il1b	Aldh1a1	Mapt	Pik3ca	Cyp1a2	Ghrl	Il6st	Gnrh1	Trp53	Cyp3a13	Plat	Hsd17b10	Igf1r	Pik3cg	Ptgs2	Atxn2	Tert	Thpo	Cyp2d10	Il6ra	Ugt1a10	Tshb
+RANITIDINE	DGIdb_Drug_Targets_2024	Abcb1a	Pth	Calca	Grp	Ehmt2	Hspa4	Cyp3a13	F8	Hrh2	Cyp2d10	Cyp1a2
+REGORAFENIB	DGIdb_Drug_Targets_2024	Yes1	Pdgfrb	Pdgfra	Ntrk1	Map2k1	Braf	Zhx2	Mapk11	Kit	Pik3ca	Fgfr1	Tek	Kras	Epha2	Fgfr3	Fgfr2	Frk	Raf1	Ddr2	Ret	Flt1	Flt4	Araf	Nras	Vhl	Kdr	Abl1
+REMOXIPRIDE	DGIdb_Drug_Targets_2024	Cyp2d10	Cyp1a2	Cyp3a13	Drd2
+RENZAPRIDE	DGIdb_Drug_Targets_2024	Htr2c	Htr2a	Htr3b	Htr2b	Htr3a	Htr4
+REPAGLINIDE	DGIdb_Drug_Targets_2024	Ar	Slc30a8	Tcf7l2	Kcnj11	Abcc8	Nos1ap	Nr1i2	Kcnq1	Igf2bp2	Cyp3a13	Neurod1
+RESERPINE	DGIdb_Drug_Targets_2024	Kdm4a	Abcb1a	Gmnn	Atad5	Lpl	Hgf	Cbx1	Ehmt2	Baz2b	Trpv1	Cyp3a13	Tyms	Ptgs2	Ar	Nt5e	Thpo	Ltf	Mphosph8	Slc18a2	Tac1	Gnrh1	Kcnh2
+RG 1530	DGIdb_Drug_Targets_2024	Acvr1	Lyn	Pdgfrb	Pdgfra	Limk1	Irak4	Tyk2	Clk4	Mapk14	Clk2	Melk	Cdk7	Fer	Cdk5	Cdk2	Cdk1	Epha2	Sgk2	Itk	Alk	Frk	Ret	Gsk3b	Gsk3a	Lrrk2	Aurka	Mst1r	Egfr	Prkaa1	Stk3	Slk	Pak1	Chek1	Erbb4	Grk5	Mknk2	Chek2	Irak1	Kdr	Pak4	Map4k2	Ntrk2	Insr	Ntrk3	Plk4	Prkcg	Camk1d	Map2k2	Ntrk1	Plk1	Prkcd	Csnk2a1	Map2k1	Syk	Pdpk1	Plk3	Tnk2	Dyrk1b	Srpk1	Ptk2	Lck	Kit	Fgfr1	Btk	Taok1	Pkn2	Tssk2	Fgfr3	Fgfr2	Brsk1	Csf1r	Blk	Flt1	Src	Ltk	Flt3	Flt4	Mapk9	Phkg2	Rps6ka3	Mapk1	Fyn	Jak3	Ros1	Jak2
+RGB 286638	DGIdb_Drug_Targets_2024	Cdk9	Cdk7	Cdk5	Cdk4	Cdk3	Cdk2	Cdk1
+RIBOCICLIB	DGIdb_Drug_Targets_2024	Rb1	Braf	Esr1	Nras	Cdk6	Ccnd1	Pik3ca	Cdk4	Erbb2	Pgr	Alk	Jak2
+RILUZOLE	DGIdb_Drug_Targets_2024	Cyp3a13	Npc1	Slc7a11	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Cyp1a2	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a	Tardbp
+RIMONABANT	DGIdb_Drug_Targets_2024	Abcc4	Abcc2	Abcc3	Gmnn	Cnr1	Abcc1
+RISPERIDONE	DGIdb_Drug_Targets_2024	Epm2a	Cyp3a13	Eif2ak4	Lrp1b	Tmeff2	Rabep1	Ppa2	Lep	Cyp1a1	Abcg3	Ugt1a10	Tnfrsf11a	Psmd14	Slc1a1	Htr2c	Adrb2	Htr2a	Tnf	Tyms	Agap1	Npas3	Cyp2d10	Msantd1	Sh2b1	Cyp1b1	Drd2	Kcnh2	Grid2	Ugt1a1	Tjp1	Nfib	Fasn	Ghrl	Cyp2e1	Htt	Nts	Grm3	Grin2b	Rgs4	Grm7	Ugt1a6a	Ugt1a2
+RITONAVIR	DGIdb_Drug_Targets_2024	Abcb1a	Abcc2	Tomm40	Vdr	Cyp3a13	Cxcl10	Kat2a	Apoc1	Apoc3	Cyp2d10	Apoe	Ugt1a2	Cyp2e1	Abcc1	Tlr4	Npsr1
+RITUXIMAB	DGIdb_Drug_Targets_2024	Tgfb1	Abcb1a	Ncf4	Tet2	Cyba	Fcgr4	Cxcl12	Fcgr3	Cxcl13	Il6	Rps19	Xiap	Ms4a1	Trp53	Jak2
+ROFECOXIB	DGIdb_Drug_Targets_2024	Il10	Aldh1a1	Birc5	Hspb1	Ptgs2
+ROLIPRAM	DGIdb_Drug_Targets_2024	Pde4d	Pde4c	Pde4b	Adrb2	Pde4a
+ROSIGLITAZONE	DGIdb_Drug_Targets_2024	Map2k3	Slc2a1	Hsd17b10	Pik3cg	Slco2b1	Scd2	Tg	Rbp4	Hnf4a	Npy	Agtr2	Crh	Pparg	Nos1	Cd40lg	Nfe2l2
+RUCAPARIB	DGIdb_Drug_Targets_2024	Yes1	Idh1	Parp2	Parp3	Parp1	Brca1	Arid1a	Braf	Brca2	Dyrk1a	Nras	Cyp2d10	Atm	Cdk1	Pim1	Cdk12	Prkd2	Atr
+RUXOLITINIB	DGIdb_Drug_Targets_2024	Csf3r	Flt3	Vhl	Braf	Plaur	Jak3	Crlf2	Jak1	Sh2b3	Trp53	Il7r	Jak2
+SAFINAMIDE	DGIdb_Drug_Targets_2024	Maob	Cacna2d2	Cacna2d1	Cacna1b	Cacnb3	Cacnb4	Scn11a	Scn9a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+SALIRASIB	DGIdb_Drug_Targets_2024	Nras	Blm	Gmnn	Cyp1a2	Kras	Mphosph8	Poli	Polh
+SARACATINIB	DGIdb_Drug_Targets_2024	Ddr2	Bcr	Idh1	Src	Vhl	Abl1	Alk	Eml4
+SELEGILINE	DGIdb_Drug_Targets_2024	Maob	Cyp2d10	Maoa	Cyp3a13
+SELICICLIB	DGIdb_Drug_Targets_2024	Ccna2	Cdk9	Rb1	Cdk7	Ccnd1	Cdk5	Cdk2	Cdk1	Smn1	Trp53
+SELUMETINIB	DGIdb_Drug_Targets_2024	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Mitf	Braf	Eml4	Pik3ca	Rit1	Fgfr1	Nf2	Atm	Nf1	Met	Kras	Fgfr3	Trp53	Alk	Fgfr2	Nras	Stk11	Gna11	Erbb3	Hras	Jak3	Ros1	Cic	Map2k6	Map2k7
+SEMAGACESTAT	DGIdb_Drug_Targets_2024	Aph1c	Aph1a	Psenen	Gyg1	Psen1	Psen2	Ncstn
+SERTINDOLE	DGIdb_Drug_Targets_2024	Ar	Htr2c	Htr2a	Adra1d	Drd2	Adra1b	Htr6	Adra1a	Kcnh2
+SEVOFLURANE	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk18	Atp5f1d	Gabrg3	Glrb	Cyp2e1	Kcnk2	Kcnk3	Gabrb3	Gabrb2	Mtrr	Gabrb1	Gria1	Kcnk9	Fastkd3	Kcna1	Gstp1	Cyp3a13	Atp2c1	mt-Nd1	Glra1	Grin2b	Cacna1s	Gabre	Gabrd
+SF1126	DGIdb_Drug_Targets_2024	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Prkdc	Pik3c2g	Pik3r2	Pik3c2b	Mtor	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Hras	Pik3c3
+SGI 1776	DGIdb_Drug_Targets_2024	Yes1	Flt3	Pim2	Pim1	Pim3
+SIMVASTATIN	DGIdb_Drug_Targets_2024	Abcg8	Ccr2	Idh1	Rhoa	Abcc2	Icmt	Abca1	Plk1	Mmp2	Bdnf	Tpm3-rs7	Cel	Lif	Apoa5	Cyba	F3	2410137M14Rik	Ar	Il17a	Cyp1a2	Nfe2l2	H2-Eb2	Abcb1a	Ryr1	Nr1i2	Pon1	Prdm16	Hmgcr	Nr2e3	Thbs1	Cyp3a13	Lipc	Pik3cg	Slco2b1	Pltp	Thbd	Cyp2d10	Cacna1s	Scap	Lepr	Ugt1a10
+SIROLIMUS	DGIdb_Drug_Targets_2024	Rb1	Abcb1a	Fbxw7	Tsc1	Fgf2	Egfr	Mtor	Eml4	Ar	Flcn	Fkbp1a	Nras	Rptor	Apc	Rheb	Pik3ca	Erbb2	Fgfr1	Nf1	Hras	Crlf2	Alk
+SNS 314	DGIdb_Drug_Targets_2024	Ntrk2	Cdk19	Ntrk3	Pdgfrb	Plk4	Prkcd	Mink1	Irak4	Clk4	Hipk4	Mapk13	Srpk1	Ptk2	Cdk8	Melk	Kit	Rps6kb1	Cdk1	Tyro3	Met	Prkd2	Epha2	Csnk1g2	Frk	Brsk1	Ret	Dyrk3	Rock2	Camk2b	Aurka	Aurkc	Aurkb	Slk	Mknk2	Chek2	Irak1	Kdr	Map3k20	Nek4	Camk2g	Ros1
+SORAFENIB	DGIdb_Drug_Targets_2024	Lyn	Pdgfrb	Abcc2	Pdgfra	Limk1	Braf	Hipk2	Zhx2	Hipk4	Mapk13	Vegfa	Mapk14	Mapk11	Mapk12	Cdk8	Mapk10	Axl	Pik3ca	Nf1	Epha2	Ptpn6	Abcg3	Trp53	Raf1	Ret	Abcb1a	Nr1i2	Aurka	Tnf	Araf	Cyp3a13	Egfr	Aurkb	Slco1b2	Slk	Nras	Mknk2	Adamts18	Irak1	Kdr	Map3k20	Ntrk2	Wwox	Yes1	Ntrk3	Plk4	Slc15a2	Ntrk1	Map2k1	Idh2	Prkce	Mink1	Arid1a	Srpk1	Kit	Rps6kb1	Cdh13	Fgfr1	Taok1	Kras	Fgfr3	Csf1r	Blk	Flt1	Dyrk3	Flt3	Gmnn	Slc22a1	Flt4	Ctnnb1	Camk2b	Hif1a	Cbl	Fgf3	Mapk9	Mapk8	Hmox1	Mapk3	Vhl	Mapk1	Abl1	Jak3	Mapk7	Mapk6	Ugt1a10	Jak1	Map2k6	Map4k5	Mapk4
+SORAFENIB TOSYLATE	DGIdb_Drug_Targets_2024	Pdgfrb	Ret	Flt1	Pdgfra	Flt3	Gmnn	Flt4	Vegfc	Braf	Vegfa	Vegfb	Ar	Atxn2	Kit	Pax8	Mc4r	Kdr	Ntsr1	Nfe2l2	Raf1
+SOTRASTAURIN	DGIdb_Drug_Targets_2024	Pdgfrb	Fer	Cdk5	Cdk2	Cdk1	Sgk2	Gsk3b	Gsk3a	Lrrk2	Mst1r	Egfr	Prkaa1	Stk3	Slk	Grk5	Erbb2	Akt1	Akt2	Kdr	Prkg1	Prkch	Prkcg	Camk1d	Prkci	Plk1	Prkcd	Map2k1	Pdpk1	Prkce	Mink1	Prkcb	Prkca	Prkcz	Rps6kb1	Prkd1	Taok1	Prkd3	Pkn2	Prkcq	Brsk1	Dyrk3	Ltk	Flt4	Camk2a	Camk2b	Rps6ka3	Pim2	Pim1	Pim3	Camk2g	Map4k4	Mark3	Map4k5
+SPIRONOLACTONE	DGIdb_Drug_Targets_2024	Adipoq	Abcb1a	Nr1i2	Thrb	Tnf	Cyp7b1	Nr3c2	Ar	Add1	Cyp1a2	Cyp1a1	Pparg	Cyp1b1	Ccn2
+SULFASALAZINE	DGIdb_Drug_Targets_2024	Tymp	G6pdx	Cd83	Hpgd	Acat1	Cyp3a13	2410137M14Rik	Mtr	Hif1a	Tyms	Ptgs1	Dhfr	Ptgs2	Nt5e	Mapt	Cyp2d10	Alox5	Cyp1a2	Pparg
+SULFINPYRAZONE	DGIdb_Drug_Targets_2024	Abcc2	Vdr	Aldh1a1	Hpgd	Ehmt2	Fpr1	Cyp3a13	Abcc1
+SULINDAC	DGIdb_Drug_Targets_2024	Ehmt2	Cyp3a13	Ptgs1	Ptgs2	Rxra	Pik3ca	Myc	Birc5	Cyp1a2	Tac1
+SULPIRIDE	DGIdb_Drug_Targets_2024	Cyp2d10	Cyp1a2	Cyp3a13	Drd2	Drd3	Kcnh2
+SULTHIAME	DGIdb_Drug_Targets_2024	Car13	Car12	Car2	Car1	Car4	Car3	Car5b	Car6	Car7	Car9	Car14
+SUMATRIPTAN	DGIdb_Drug_Targets_2024	Htr1f	Slc22a1	Bdnf	Htr1b	Htr2a	Oprm1	Gcg	Htr1a	Htr2b	Aqp4	Comt	Gnb3	Drd2
+SUNITINIB	DGIdb_Drug_Targets_2024	Yes1	Pdgfrb	Il4ra	Pdgfra	Nos3	Pbrm1	Vegfc	Ptpn12	Vegfa	Por	Kit	Ptprb	Fgfr1	Trp53	Fgfr2	Csf1r	Slc22a5	Bap1	Kdm5c	Ret	Flt1	Flt3	Nr1i2	Flt4	Nr1i3	Pdgfc	Pdgfb	Ewsr1	Pdgfa	Cyp3a13	Mki67	Hif1a	Pdgfd	Hmox1	Vhl	Kdr	Car9
+TACROLIMUS	DGIdb_Drug_Targets_2024	Kcnj11	Fmo3	Nod2	Gpt	Il18	Cyp3a13	Il2	Fkbp1a	Capn10	Kcnq1	Cyp2d10	Sumo2	Lep	Zscan25	Ugt1a2	Spp1	Abcg3	Ccl17	Hsd11b1
+TAK 733	DGIdb_Drug_Targets_2024	Nras	Map2k2	Map2k1	Pik3ca	Braf
+TALAZOPARIB	DGIdb_Drug_Targets_2024	Idh1	Mlh1	Flt3	Parp2	Atrx	Dnmt3a	Idh2	Parp1	Tet2	Arid1a	Braf	Brca2	Palb2	Egfr	Nras	Stk11	Mycs	Erbb2	Psmd4	Atm	Cdk12	Atr
+TAMOXIFEN	DGIdb_Drug_Targets_2024	Kdm4a	Tgfb1	Edn1	Ncoa3	Vdr	Ncoa1	Cbx1	Myod1	Nrg1	Pik3ca	Pip	Cyp1a2	Nf1	Tff3	Trp53	Col18a1	Nr1i2	Aurka	Hspb2	Brca1	Cyp3a13	Klk1b24	Pld2	Pld1	Tyms	Atxn2	Ccnd1	Cyp2d10	Erbb2	Lrmda	Rras2	E2f7	Zfp423	Idh1	Ntrk1	Fmo1	Fmo3	F2	Esr1	Esr2	F5	Dhfr	Ccna2	Slco1a8	Pgr	Gapdhrt	Gmnn	Hexb	Ehmt2	Baz2b	Cyp19a1	Igf1r	Tgm2	Slco2b1	Bglap2	Muc16	Ggt1
+TAMOXIFEN CITRATE	DGIdb_Drug_Targets_2024	Kdm4a	Gmnn	Cbfb	Runx1	Ehmt2	Baz2b	Rorc	Esr1	Ar	Aldh1a1	Thpo	Cyp2d10	Mphosph8	Ppard	Trp53	Kcnh2
+TANDUTINIB	DGIdb_Drug_Targets_2024	Csf1r	Acvr1	Ntrk3	Pdgfrb	Pdgfra	Flt3	Kit	Flt4	Itk
+TANESPIMYCIN	DGIdb_Drug_Targets_2024	Ar	Hsp90aa1	Gmnn	Hsp90ab1	Hif1a	Mtor
+TAZAROTENE	DGIdb_Drug_Targets_2024	Rxrb	Rarg	Rarb	Bcl2	Rara	Nfe2l2	Pml
+TEDATIOXETINE	DGIdb_Drug_Targets_2024	Htr2c	Htr2a	Htr3b	Slc6a2	Htr3a	Slc6a3	Adra1a	Slc6a4
+TELMISARTAN	DGIdb_Drug_Targets_2024	Agtr1b	Ehmt2	Usp1	Hsd17b10	Nfe2l2	Npsr1
+TEMAZEPAM	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabrr3	Gabrr2	Gabrr1	Tspo	Gabre	Gabrd
+TEMOZOLOMIDE	DGIdb_Drug_Targets_2024	H2ax	Idh1	Csf2	Mgmt	Atrx	Prl3d2	Arid1a	Brca2	Pik3ca	Msh6	Myc	Atm	Trp53	Alk
+TEMSIROLIMUS	DGIdb_Drug_Targets_2024	Fkbp1a	Rptor	Fbxw7	Ptprd	Pik3ca	Ctnnb1	Nf2	Vhl	Kras	Mtor
+TENIPOSIDE	DGIdb_Drug_Targets_2024	Top2b	Fas	Nop2	Top2a	Bcl2
+TERAZOSIN	DGIdb_Drug_Targets_2024	Cyp2d10	Htt	Cyp1a2	Adra1d	Cyp3a13	Adra1b	Adra1a
+TERFENADINE	DGIdb_Drug_Targets_2024	Abcb1a	Hrh1	Csf2	Thpo	Htt	Kcna5	Mtor	Kcnh2
+TESTOSTERONE	DGIdb_Drug_Targets_2024	Tgfb1	Vdr	Usp9y	Cav1	Esr1	Ar	Cxcl10	Apoa1	Fas	Slco1a8	Soat1	Tdp1	Cyp1a2	H2ax	Oxtr	Aqp9	Chat	Dbh	Lcat	Cyp3a13	Rorc	Tnfrsf11b	Nr3c1	Nppc	Rxra	Cyp2d10	Galr1	Hnf4a	Ugt1a2	Nos1	Amh	Cga
+TESTOSTERONE PROPIONATE	DGIdb_Drug_Targets_2024	Ar	Calca	Lcat	Esr1	Nr3c1	Tardbp
+TEZAMPANEL	DGIdb_Drug_Targets_2024	Gria2	Gria3	Gria1	Grik4	Grik5	Grik2	Grik3	Grik1	Gria4
+THALIDOMIDE	DGIdb_Drug_Targets_2024	F2r	Xrcc5	Crbn	Slc10a2	Vwf	Abcc6	Hgf	2410137M14Rik	Nfkb1	Rbx1	Vegfa	Ddb1	Ercc1	Nat1	Cyp1a2	Snord68	Chst3	Ppard	Fgfr2	Itgb2l	Ctnnb1	Rpl13	Spg7	Tnf	Fgf2	Ptgs2	Fcgr4	Mecom	Ctla4	Il6ra	Atp7a
+THEOPHYLLINE	DGIdb_Drug_Targets_2024	Pde4d	Ehmt2	Mpo	Adora2b	Il2ra	Mapkapk2	Prkar2b	Adora2a	Ifng	Pde3b	Pde4c	Adora3	Pde3a	Pde4b	Nos1	Pde4a	Adora1	Nos2	Pde5a
+THIETHYLPERAZINE	DGIdb_Drug_Targets_2024	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Htr2c	Drd1	Htr2a	Drd2	Drd4
+THIOGUANINE	DGIdb_Drug_Targets_2024	Kdm4a	Idh1	Cpt1a	Ugt1a1	Ggh	Nat1	Bmp7	Ar	Dok5	Impdh1	Pax8	Slc28a3	Nfe2l2	Pnpla3	Gda	Hpgd	Prps1l3	Ehmt2	Ighmbp2	Gata3	Nt5c2	Xdh	Nudt15
+THIORIDAZINE	DGIdb_Drug_Targets_2024	Cbx1	Htr2c	Ehmt2	Drd1	Htr2a	Drd2	Drd3	Drd4	Adra1a	Ppard
+TICLOPIDINE	DGIdb_Drug_Targets_2024	P2ry12	Cyp2d10	Cyp1a2	H2-Ab1	2410137M14Rik	Cyp3a13	H2-Eb2
+TIVOZANIB	DGIdb_Drug_Targets_2024	Yes1	Nras	Flt1	Flt4	Kdr	Braf
+TOFACITINIB	DGIdb_Drug_Targets_2024	Stat5b	Yes1	Flt3	Jak3	Tyk2	Ptpn6	Jak1	Jak2
+TOPIRAMATE	DGIdb_Drug_Targets_2024	Gabra3	Car12	Gabra2	Gabrq	Insr	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Scn10a	Scn8a	Scn4a	Scn2a	Gria2	Gabrb3	Gria3	Gabrb2	Gabrb1	Gria1	Nr1i2	Grik4	Grik5	Grik2	Grik3	Aqp4	Grik1	Car2	Car4	Scn11a	Scn9a	Scn7a	Scn5a	Scn3a	Scn1a	Gabre	Gabrd	Gria4
+TOPOTECAN	DGIdb_Drug_Targets_2024	Pik3ca	Bdnf	Top1mt	Akt1	Muc16	Top1	Tyms	Trp53	Alk	Mdm2
+TOREMIFENE	DGIdb_Drug_Targets_2024	Cd80	Cyp1b1	Cyp3a13	Pgr	Esr1	Esr2
+TOSEDOSTAT	DGIdb_Drug_Targets_2024	Enpep	Metap1d	Rnpepl1	Erap1	Lvrn	Lnpep	Npepps	Npepl1	Dnpep	Lap3	Xpnpep2	Anpep	Aopep	Xpnpep3	Rnpep	Metap1	Metap2
+TOZASERTIB	DGIdb_Drug_Targets_2024	Acvr1	Cdk19	Lyn	Pdgfrb	Limk1	Irak4	Tyk2	Smarca4	Melk	Mapk10	Axl	Sik2	Epha2	Itk	Alk	Ret	Lrrk2	Aurka	Mst1r	Egfr	Prkaa1	Aurkc	Aurkb	Slk	Pak1	Kdr	Map3k20	Pak4	Ntrk2	Yes1	Insr	Ntrk3	Plk4	Map2k2	Ntrk1	Csnk2a1	Map2k1	Pdpk1	Mink1	Lck	Prkcz	Fgfr1	Map3k10	Btk	Taok1	Tyro3	Pkn2	Prkd2	Fgfr3	Brsk1	Blk	Flt1	Src	Ltk	Flt3	Gmnn	Flt4	Mylk	Stk11	Abl2	Tnk1	Abl1	Fyn	Ros1	Mark4	Mark3	Jak2	Map4k5	Mark2
+TRAMADOL	DGIdb_Drug_Targets_2024	Oprd1	Septin3	Bdnf	Htr2c	Oprk1	Arrb2	Oprm1	Ica1	Slc6a2	Slc6a4	Rfpl4b	Cyp1a2	Cyp1b1	Hcn1	Sult5a1
+TRAMETINIB	DGIdb_Drug_Targets_2024	Map2k4	Dusp6	Map2k5	Map2k2	G6pdx	Map2k3	Map2k1	Dnmt3a	Etv1	Braf	Etv4	Etv5	Eml4	Rasa1	Apc	Kit	Pik3ca	Fgfr1	Atm	Nf1	Met	Kras	Trp53	Alk	Fgfr2	Mdm2	Raf1	Rb1	Ret	Cd274	Csf3r	Flt3	Ctnnb1	Keap1	Atxn1l	Nras	Stk11	Erbb3	Vhl	Hras	Abl1	Cic	Map2k6	Map2k7
+TRASTUZUMAB	DGIdb_Drug_Targets_2024	Cbr3	Abcb1a	Anxa1	Cd274	Hgf	Arid1a	Rnf8	Esr1	Egfr	Esr2	Fcgr4	Epcam	Fcgr3	Pik3ca	Erbb2	Erbb3	Ifng	Birc5	Akt2	Met	Kras	Pgr
+TRASTUZUMAB EMTANSINE	DGIdb_Drug_Targets_2024	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Erbb2	Tubb3
+TRAZODONE	DGIdb_Drug_Targets_2024	Hrh1	Kat2a	Htr2c	Htr2a	Htr1a	Slc6a2	Adra1b	Adra1a	Hsd17b10	Slc6a4	Adra2a
+TREMELIMUMAB	DGIdb_Drug_Targets_2024	Cd274	Mlh1	Msh6	Ctla4	Msh2	Pms2
+TRETINOIN	DGIdb_Drug_Targets_2024	Rarres1	Vdr	Flt3	Rarg	Ehmt2	Hif1a	Pml	Rxra	Kat2a	Rxrb	Rarb	Usp1	Rara	Rxrg	Nfe2l2
+TRIAMCINOLONE	DGIdb_Drug_Targets_2024	Tgfb1	Anxa1	Bche	G6pdx	Mmp1a	Lpl	Slc2a1	Cyp3a13	Fgf2	Nfkb1	Nr3c1	Serpina6	Ar	Cyp2d10	Cyp1a2	Apoe	Nfe2l2
+TRIAMTERENE	DGIdb_Drug_Targets_2024	Idh1	Thrb	Gaa	Scnn1a	Esr1	Hif1a	Hsd17b10	Hspb1	Ar	Scnn1g	Th	Scnn1b	Nfe2l2	Ppard	Trp53	Jak2
+TRIAZOLAM	DGIdb_Drug_Targets_2024	Brd4	Gabra3	Brd3	Crebbp	Gabra2	Gabrq	Brd2	Gabra1	Gabrp	Gabra6	Pbrm1	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Kat2b	Brdt	Gabrb3	Gabrb2	Gabrb1	Baz2b	Gabrr3	Gabrr2	Gabrr1	Tspo	Gabre	Gabrd
+TRICHLORMETHIAZIDE	DGIdb_Drug_Targets_2024	Slc12a3	Car2	Car1	Car4	Kcnma1	Slc12a1
+TRIFLUOPERAZINE	DGIdb_Drug_Targets_2024	Csf2	Camk2b	Glp1r	Cbx1	Ehmt2	Cyp3a13	Adra1a	Atxn2	Rad52	Rgs4	Caly	Thpo	Cyp2d10	Akt1	Cyp1a2	Usp1	Drd1	Mapk1	Drd2	Trp53	Apob
+TRIFLUPROMAZINE	DGIdb_Drug_Targets_2024	Chrm1	Chrm2	Cyp2d10	Cyp1a2	Drd1	Drd2	Htr2b	Trp53
+TRILOSTANE	DGIdb_Drug_Targets_2024	Ar	Pth	Hsd3b1	Nfe2l2
+TRIMETHOPRIM	DGIdb_Drug_Targets_2024	Cyp2d10	Cbx1	Cyp1a2	Mpo	Cyp3a13
+TRIMIPRAMINE	DGIdb_Drug_Targets_2024	Ephx1	Bdnf	Cbx1	2410137M14Rik	Htr1a	Fchsd1	Ddit4	Cyp1a2	Adgrl3	Ces1d	Crhr1	Grik4	Grik2	Htr2a	Cyp3a13	Slc6a2	Comt	Slc6a4	Rptor	Rgs4	Cyp2d10	Akt1	Drd1	Cacng2	Drd3
+UCN 01	DGIdb_Drug_Targets_2024	Prkch	Prkci	Diablo	Prkcd	Pdpk1	Prkce	Prkcb	Slc2a4	Prkca	Prkcz	Cdk6	Chek1	Cdk4	Xiap	Birc5	Cdk2	Prkd1	Prkd3	Prkcq
+URIDINE	DGIdb_Drug_Targets_2024	Slc28a1	Serpine1	Tat	Slc2a4	Slc28a2	Slc29a1
+UROKINASE	DGIdb_Drug_Targets_2024	Serpinb2	Serpine1	Plau	Plat	Plg
+USTEKINUMAB	DGIdb_Drug_Targets_2024	Slc22a4	Chuk	Il13	Stat4	2410137M14Rik	Adam33	Tirap	Htr2a	Tnfrsf1b	Il1b	Nfkbia	Il23a	Agbl4	Il12b	Il12a	Il17f
+VALPROIC ACID	DGIdb_Drug_Targets_2024	Col1a1	Rabep1	Sst	Cps1	Fas	Lep	Cyp1a2	Bcl2	Cyp1a1	Ankk1	Otc	Prkaa2	Nr1i2	Cyp3a13	Abat	Comt	Apeh	Mc2r	Cyp2d10	Sh2b1	Smn1	Xbp1	2410137M14Rik	Mthfr	Acadsb	Sod2	Aldh5a1	Cyp2a12	Ogdh	Hdac5	Bap1	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Cacna1c	Cacna1d	Hdac9	Cacna1f	Hdac7	Hdac8	Grin2b	Lepr	Ugt1a2	Ggt1	Tshb
+VANDETANIB	DGIdb_Drug_Targets_2024	Epha6	Acvr1	Epha5	Pdgfrb	Epha8	Pdgfra	Epha7	Mapk14	Apc	Axl	Tek	Atm	Epha2	Epha1	Epha4	Alk	Epha3	Ret	Rock2	Lrrk2	Egfr	Aurkb	Erbb4	Erbb2	Erbb3	Kdr	Yes1	Idh1	Map2k2	Map2k1	Ptk6	Lck	Fgfr1	Btk	Tyro3	Kras	Ephb6	Flt1	Src	Ltk	Gmnn	Epha10	Flt4	Htt	Ephb1	Abl1	Fyn	Ephb3	Ephb2	Map4k4	Ephb4	Map4k5
+VARENICLINE	DGIdb_Drug_Targets_2024	Chrnb2	Chrna4	Chrna3	Chrnb4	Chrna7
+VASOPRESSIN	DGIdb_Drug_Targets_2024	Ace	Dusp1	Avpr2	Bdnf	Serpine1	Camk2b	Avpr1a	Tacr1	Avpr1b	Hspb1	Mapk14	Thbs4	Nppc	E2f1	Prkd1
+VATALANIB	DGIdb_Drug_Targets_2024	Csf1r	Pdgfrb	Flt1	Pdgfra	Flt4	Egfr	Stk3	Ar	Kit	Ptprb	Rps6kb1	Kdr	Nfe2l2	Frk
+VELIPARIB	DGIdb_Drug_Targets_2024	Idh1	Mycs	Parp2	Parp3	Parp1	Atm	Brca1	Cdk12	Arid1a	Brca2	Atr
+VEMURAFENIB	DGIdb_Drug_Targets_2024	Yes1	Map2k2	Map2k1	Mitf	Tet2	Braf	Sox10	Trf	Stag2	Stag3	Pik3ca	Nf1	Met	Kras	Trp53	Fgfr2	Rb1	Abcb1a	Keap1	Cyp3a13	Pik3r2	Cbl	Atxn1l	Nras	Prex2	Akt3	Akt1	Hras	Rac1
+VENETOCLAX	DGIdb_Drug_Targets_2024	Idh1	Flt3	Kmt2a	Idh2	Braf	Nras	Kit	Pik3ca	Atm	Bcl2	Abl1	Kdm6a	Trp53	Alk
+VENLAFAXINE	DGIdb_Drug_Targets_2024	Gabrq	Gria3	Gabrp	Htr7	Gabra6	Bdnf	Grik4	Slc6a2	Slc6a4
+VERAPAMIL	DGIdb_Drug_Targets_2024	Tgfb1	Kcnip1	Nr1h3	Cacnb2	Cacnb3	Il1b	Cacnb4	Ptprd	Nos1ap	Il2ra	Bax	Abcc1	Cacnb1	Abcb1a	Gstp1	Cacna1c	Kcna4	Plau	Slc2a4	Cacna1d	Cyp3a13	Cacna1g	Cacna1f	Tyms	Cacna1i	Grk4	Grk5	Kcnmb1	Myc	Cacna1s	Cacng1	Ldlr
+VINBLASTINE	DGIdb_Drug_Targets_2024	Mmp2	Tubb5	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Pthlh	Tubb2b	Abcb4	Abcb1a	Csf2	Gmnn	Cdkn1a	Trh	Tubb1	Klk1b24	Tuba1a	Tuba3b	Tuba1c	Tuba1b	Tubb6	Tbxa2r	Tubb3	Cga
+VINCRISTINE	DGIdb_Drug_Targets_2024	Ralbp1	Abcc3	Bdnf	Tubb5	Nrg1	Cp	Tubb2a	Bmp7	Tuba4a	Slc5a7	Cxcl12	Mycs	Abcc10	Stim1	Tubb2b	Dok5	Pik3ca	Bcl2	Abcc1	Abcb4	Nr1i2	Odc1	Top2a	Tubb1	Ighmbp2	Mtr	Tuba3b	Tyms	Fcgr4	Tubb6	Ntf3	Tubb3	Smad3	Cpt1a	Nos3	Ugt1a1	Vwf	Mthfr	Cyba	Sulf2	Mrpl47	Tubb4a	Ar	Bcr	Atf5	Pnpla3	Cdkn1b	Gmnn	Tpmt	Ncf4	Actg1	Sri	Afp	Capg	Fgf2	Gata3	Tuba1a	Coch	Pik3cg	Syne2	Nkain3	Tuba1c	Tuba1b	Bahd1	Abl1	Rac2
+VORINOSTAT	DGIdb_Drug_Targets_2024	Idh1	Ace	Tubb5	Braf	Nr0b1	Tubb2a	Tubb4b	Tubb4a	Tubb2b	Pax8	Nfe2l2	Trp53	Cftr	Hdac5	Bap1	Hdac6	Rb1	Hdac3	Hdac4	Gmnn	Hdac1	Hdac11	Hdac10	Hdac2	Tubb1	Hdac9	Tuba1a	Tuba3b	Hdac7	Hdac8	Tuba1c	Tuba1b	Tubb6	Gna11	Tubb3
+VS 5584	DGIdb_Drug_Targets_2024	Flt3	Pik3cb	Pik3r1	Pik3ca	Pik3r5	Pik3cd	Pik3r3	Pik3r2	Mtor	Pik3cg
+WARFARIN	DGIdb_Drug_Targets_2024	Slc15a2	Epha7	Vkorc1	Vwf	Dnmt3a	Mthfr	Fmo2	Ddhd1	Vegfa	Alb	Asph	Nedd4	Stx1b	Trp53	Vkorc1l1	Crp	Lrp1	Pros1	Cyp3a13	Cyp2c55	Slco1b2	Prss53	Bglap2	Myc	Stx4a
+WORTMANNIN	DGIdb_Drug_Targets_2024	Vdr	Hsp90aa1	Ntrk1	F2r	Plk1	Gadd45a	Plk3	Hgf	Plk2	Nrg1	Hspa4	Trpv1	Prkab1	Myo9b	Mapk10	Mapt	Nfe2l2	Thrb	Slc1a1	Ehmt2	Slc2a4	Akt1	Ctla4	Spp1	Eif2b1	Tac1	Poli
+X 82	DGIdb_Drug_Targets_2024	Pdgfrb	Flt1	Pdgfra	Flt4	Kdr
+XL147	DGIdb_Drug_Targets_2024	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Braf	Pik3c2g	Pik3r2	Pik3c2b	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Pik3c3
+XL228	DGIdb_Drug_Targets_2024	Src	Aurka	Fgfr1	Abl1	Fgfr3	Igf1r	Fgfr2
+XL647	DGIdb_Drug_Targets_2024	Flt1	Flt4	Erbb2	Kdr	Egfr	Ephb4
+XL765	DGIdb_Drug_Targets_2024	Crtc1	Pik3cb	Pik3r1	Crtc2	Pik3ca	Pik3cd	Mtor	Pik3cg
+XL820	DGIdb_Drug_Targets_2024	Pdgfrb	Pdgfra	Kit	Flt4	Kdr
+XL999	DGIdb_Drug_Targets_2024	Pdgfrb	Flt1	Src	Axl	Flt3	Kit	Flt4	Kdr	Fgfr2
+YOHIMBINE	DGIdb_Drug_Targets_2024	Ehmt2	Drd1	Adra2c	Adra2b	Adra2a
+ZAFIRLUKAST	DGIdb_Drug_Targets_2024	Vdr	Gmnn	Baz2b	Ar	Polb	Kat2a	Cysltr1	Cyp2d10	Cyp1a2	Mapk1	Nfe2l2
+ZIDOVUDINE	DGIdb_Drug_Targets_2024	Abcc5	Slc22a7	Slc28a1	Dtymk	Slc22a6	Cyp3a13	Nme1	Nme2	Cxcl10	Por	Cyp2d10	Tk1	Cyp2e1	Slc28a3	Slc22a8	Abcg3
+ZILEUTON	DGIdb_Drug_Targets_2024	Mmp2	Cyp2d10	Alox5	Cyp3a13
+ZIPRASIDONE	DGIdb_Drug_Targets_2024	Lyn	Ehf	Eif2ak4	Htr2c	Adrb1	Ehmt2	Htr2a	Nalcn	Htr1a	Adra1a	Ar	Htr7	Cdh4	Hrh1	Mc4r	Cntn4	Drd2	Drd3	Drd4
+ZOLEDRONATE	DGIdb_Drug_Targets_2024	Fdps	Col1a1	Tnfrsf11a	Mmp2	Ggps1	Plau	Tnfrsf11b	Ppcdc
+ZOLPIDEM	DGIdb_Drug_Targets_2024	Ar	Gabra3	Gabra2	Gabra1	Hsd17b10
+ZONISAMIDE	DGIdb_Drug_Targets_2024	Cacna1g	Aqp4	Cacna1i	Cacna1h	Car1	Scn11a	Scn9a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4b	Scn4a	Scn1a	Scn2b	Scn2a	Scn3b	Scn1b
+ZOPICLONE	DGIdb_Drug_Targets_2024	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabrb1	Gabra6	Gabra5	Gabra4	Tspo
+ZSTK474	DGIdb_Drug_Targets_2024	Pik3cb	Pik3ca	Pik3cd	Braf	Jak2	Pik3cg
+ZUCAPSAICIN	DGIdb_Drug_Targets_2024	Aldh1a1	Cyp1a2	Trpv1	Cyp3a13

@@ -1,0 +1,152 @@
+&gamma;-glutamyl cycle Homo sapiens PWY-4041	HumanCyc_2016	Ggct	Ggt5	Gclc	Gss	Gclm	Ggt1	Cndp2	Oplah
+&gamma;-linolenate biosynthesis Homo sapiens PWY-6000	HumanCyc_2016	Slc27a2	Acsm4	Acsl3	Acsm3	Acsl1	Acsm1	Acsl6	Acsl5	Acsm5	Acsl4	Acsbg2	Acsbg1	Fads2
+1D-myo-inositol hexakisphosphate biosynthesis II (mammalian) Homo sapiens PWY-6362	HumanCyc_2016	Ippk	Itpk1	Ipmk	Ocrl	Inppl1	Itpkc	Inpp5d	Inpp5a	Inpp5b	Synj2	Synj1	Itpka	Itpkb	Inpp5k	Inpp5j
+2'-deoxy-&alpha;-D-ribose 1-phosphate degradation Homo sapiens PWY-7180	HumanCyc_2016	Dera	Aldh1b1	Aldh3a1	Aldh3b3	Aldh3b1	Pgm2
+2-oxobutanoate degradation Homo sapiens PWY-5130	HumanCyc_2016	Bckdhb	Bckdha	Mcee	Dbt	Pccb	Pcca	Dld
+3-phosphoinositide biosynthesis Homo sapiens PWY-6352	HumanCyc_2016	Sacm1l	Fig4	Pik3cb	Pik3r1	Pikfyve	Pik3ca	Pi4kb	Pi4ka	Pik3c3	Pi4k2b	Pi4k2a	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Pik3c2a	Pik3r6	Pik3cg	Pip5kl1	Pip5k1a	Pip5k1b	Pip4k2b	Pip5k1c	Cdipt
+3-phosphoinositide degradation Homo sapiens PWY-6368	HumanCyc_2016	Tpte	Mtmr3	Mtmr14	Sacm1l	Ocrl	Inppl1	Inpp4b	Inpp5d	Inpp4a	Inpp5b	Synj2	Synj1	Inpp5e	Inpp5f	Inpp5k	Pmpca	Inpp5j
+4-hydroxy-2-nonenal detoxification Homo sapiens PWY-7112	HumanCyc_2016	Gsta3	Gstp1
+C20 prostanoid biosynthesis Homo sapiens PWY66-374	HumanCyc_2016	Hpgds	Ptgis	Ptges2	Ptges3	Tbxas1	Ptgs1	Ptges	Ptgs2	Ptgds
+CDP-diacylglycerol biosynthesis Homo sapiens PWY-5667	HumanCyc_2016	Cds2	Cds1	Gk	Abhd5	Mboat7	Mboat2	Agpat1	Lclat1	Agpat2	Gk2	Agpat3	Agpat4	Mboat1	Agpat5	Gk5	Gpam	Lpcat4	Lpcat3	Gpat2
+CMP phosphorylation Homo sapiens PWY-7205	HumanCyc_2016	Nme7	Cmpk2	Nme3	Nme4	Nme5	Nme6	Nme1	Cmpk1	Nme2
+D-galactose degradation V (Leloir pathway) Homo sapiens PWY66-422	HumanCyc_2016	Galk1	Galt	Gale	Galm	Pgm2	Pgm1
+D-myo-inositol (1,3,4)-trisphosphate biosynthesis Homo sapiens PWY-6364	HumanCyc_2016	Ipmk	Ocrl	Inppl1	Minpp1	Itpkc	Inpp5d	Inpp5a	Inpp5b	Synj2	Synj1	Itpka	Itpkb	Inpp5k	Inpp5j
+D-myo-inositol (1,4,5)-trisphosphate biosynthesis Homo sapiens PWY-6351	HumanCyc_2016	Plch1	Plcb4	Pi4kb	Plcd1	Pi4ka	Plch2	Plcd4	Plcb2	Plcb3	Pi4k2b	Plcd3	Plcb1	Pi4k2a	Pip5kl1	Plcz1	Pip4k2a	Plce1	Pip5k1a	Pip5k1b	Pip4k2b	Pip4k2c	Plcg1	Pip5k1c	Plcg2	Cdipt
+D-myo-inositol (1,4,5)-trisphosphate degradation Homo sapiens PWY-6363	HumanCyc_2016	Inpp1	Ocrl	Inppl1	Inpp5a	Inpp5b	Impa1	Synj2	Impa2	Synj1	Inpp5f	Inpp5k	Inpp5j
+D-myo-inositol-5-phosphate metabolism Homo sapiens PWY-6367	HumanCyc_2016	Mtmr3	Plch1	Mtmr14	Plcb4	Plcz1	Pip4k2a	Plce1	Plcd1	Pip4k2c	Plcg1	Plch2	Plcg2	Plcd4	Plcb2	Plcb3	Plcd3	Plcb1
+GABA shunt Homo sapiens GLUDEG-I-PWY	HumanCyc_2016	Glud1	Aldh5a1	Gad2	Gad1	Glul	Abat
+GDP-glucose biosynthesis II Homo sapiens PWY-5661-1	HumanCyc_2016	Hk1	Pgm2	Hk3	Pgm1	Gck	Hk2
+GDP-mannose biosynthesis Homo sapiens PWY-5659	HumanCyc_2016	Pmm2	Mpi	Pmm1	Gmppa	Gmppb	Gpi1
+L-kynurenine degradation Homo sapiens PWY-6309	HumanCyc_2016	Dhtkd1	Got2	Aadat	Haao	Acmsd	Kmo	Tdo2	Afmid	Kynu	Ido1	Ido2
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde Homo sapiens PWY-5653	HumanCyc_2016	Nmnat2	Nmnat1	Qprt	Nmnat3	Nadsyn1
+NAD de novo biosynthesis Homo sapiens NADSYN-PWY	HumanCyc_2016	Nmnat2	Tdo2	Nmnat1	Afmid	Qprt	Haao	Kynu	Nmnat3	Kmo	Ido1	Ido2	Nadsyn1
+TCA cycle Homo sapiens PWY66-398	HumanCyc_2016	Fh1	Idh3g	Mdh2	Dlst	Sdhd	Sdhb	Sdhc	Sdha	Csl	Sucla2	Suclg2	Aco2	Suclg1	Mdh1	Idh3a	Ogdh	Idh3b
+UDP-N-acetyl-D-galactosamine biosynthesis II Homo sapiens PWY-5514	HumanCyc_2016	Gnpda1	Gnpda2	Gale	Hkdc1	Gnpnat1	Pgm3	Uap1	Gpi1	Gck
+UDP-N-acetyl-D-glucosamine biosynthesis II Homo sapiens UDPNACETYLGALSYN-PWY	HumanCyc_2016	Gfpt1	Gfpt2	Gnpnat1	Pgm3	Uap1
+UTP and CTP de novo biosynthesis Homo sapiens PWY-7176	HumanCyc_2016	Nme7	Cmpk2	Nme3	Nme4	Ctps2	Nme5	Ctps1	Nme6	Nme1	Cmpk1	Nme2
+acetone degradation I (to methylglyoxal) Homo sapiens PWY-5451	HumanCyc_2016	Cyp4x1	Cyp2a12	Cyp2u1	Cyp2s1	Akr1b1	Adh1	Cyp2e1	Akr1b7
+adenosine deoxyribonucleotides de novo biosynthesis Homo sapiens PWY-7227	HumanCyc_2016	Rrm2	Nme7	Rrm2b	Rrm1	Nme3	Nme4	Nme5	Nme6	Nme1	Nme2
+adenosine nucleotides degradation Homo sapiens SALVADEHYPOX-PWY	HumanCyc_2016	Pnp2	Nt5e	Nt5c1a	Nt5c3	Nt5c1b	Xdh	Ada	Nt5c2
+adenosine ribonucleotides de novo biosynthesis Homo sapiens PWY-7219	HumanCyc_2016	Adsl	Ak1	Ak2	Ak3	Ak4	Ak5	Ak7	Ak8
+allopregnanolone biosynthesis Homo sapiens PWY-7455	HumanCyc_2016	Srd5a2	Srd5a1
+androgen biosynthesis Homo sapiens PWY66-378	HumanCyc_2016	Cyp17a1	Srd5a2	Hsd3b1	Hsd17b3	Srd5a1
+bile acid biosynthesis, neutral pathway Homo sapiens PWY-6061	HumanCyc_2016	Hsd3b7	Slc27a2	Akr1d1	Cyp7a1	Cyp8b1	Baat	Cyp27a1	Por	Amacr	Acox2	Cyp2r1	Scp2	Acaa2	Slc27a5
+bupropion degradation Homo sapiens PWY66-241	HumanCyc_2016	Cyp4x1	Cyp2a12	Cyp2u1	Cyp2s1
+ceramide de novo biosynthesis Homo sapiens PWY3DJ-12	HumanCyc_2016	Sptlc1	Sptlc2	Sptlc3	Kdsr	Sptssa	Degs2
+cholesterol biosynthesis I Homo sapiens PWY66-341	HumanCyc_2016	Cyp51	Lss	Dhcr24	Msmo1	Hsd17b7	Tm7sf2	Sqle	Ebp	Nsdhl	Sc5d	Lbr	Dhcr7	Fdft1
+cholesterol biosynthesis II (via 24,25-dihydrolanosterol) Homo sapiens PWY66-3	HumanCyc_2016	Cyp51	Lss	Dhcr24	Msmo1	Hsd17b7	Tm7sf2	Sqle	Ebp	Nsdhl	Sc5d	Lbr	Dhcr7	Fdft1
+cholesterol biosynthesis III (via desmosterol) Homo sapiens PWY66-4	HumanCyc_2016	Cyp51	Lss	Dhcr24	Msmo1	Hsd17b7	Tm7sf2	Sqle	Ebp	Nsdhl	Sc5d	Lbr	Dhcr7	Fdft1
+chondroitin sulfate biosynthesis (late stages) Homo sapiens PWY-6567	HumanCyc_2016	Chst7	Ust	Chst12	Chst13	Chst11	Chst2	Chst15	Chst3
+chondroitin sulfate biosynthesis Homo sapiens PWY-6569	HumanCyc_2016	Csgalnact2	Csgalnact1	Chst7	Xylt1	B3gat3	B3gat2	B3gat1	Xylt2	B3galt6	Ust	Chst12	Chst13	Chst11	Chst2	Chst15	B4galt7	Chst3
+chondroitin sulfate degradation (metazoa) Homo sapiens PWY-6573	HumanCyc_2016	Arsb	Galns	Hyal5	Hexa	Hyal1	Hyal4	Hexb
+citrulline-nitric oxide cycle Homo sapiens PWY-4983	HumanCyc_2016	Ass1	Nos3	Asl	Nos1	Nos2
+coenzyme A biosynthesis Homo sapiens COA-PWY-1	HumanCyc_2016	Pank3	Pank1	Pank2	Ppcs	Ppcdc	Coasy
+creatine-phosphate biosynthesis Homo sapiens PWY-6158	HumanCyc_2016	Ckmt2	Ckm	Ckmt1	Ckb
+cysteine biosynthesis Homo sapiens PWY-6292	HumanCyc_2016	Cbs	Ahcyl	Mat2b	Mat1a	Mat2a	Cth
+dermatan sulfate biosynthesis Homo sapiens PWY-6571	HumanCyc_2016	Csgalnact2	Csgalnact1	Xylt1	B3gat3	B3gat2	B3gat1	Xylt2	B3galt6	Dse	Ust	Chst14	Chst15	B4galt7
+dermatan sulfate degradation (metazoa) Homo sapiens PWY-6576	HumanCyc_2016	Hyal5	Hexa	Hyal1	Idua	Ids	Hexb
+dolichyl-diphosphooligosaccharide biosynthesis Homo sapiens MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	HumanCyc_2016	Dpm2	Dpm3	Dpagt1	Alg8	Alg5	Alg6	Alg3	Alg1	Alg13	Dpm1
+dopamine degradation Homo sapiens PWY6666-2	HumanCyc_2016	Aldh3a2	Maob	Maoa	Comt	Sult5a1
+estradiol biosynthesis I Homo sapiens PWY66-380	HumanCyc_2016	Cyp2a12	Hsd17b1	Hsd17b7	Hsd17b11	Cyp19a1
+ethanol degradation II Homo sapiens PWY66-21	HumanCyc_2016	Aldh3a2	Acss3	Aldh2	Adh1	Acss2	Acss1
+ethanol degradation IV Homo sapiens PWY66-162	HumanCyc_2016	Aldh3a2	Acss3	Cat	Aldh2	Acss2	Acss1
+fatty acid &beta;-oxidation (peroxisome) Homo sapiens PWY66-391	HumanCyc_2016	Slc27a2	Acsl3	Acsl1	Hsd17b4	Acsl6	Ehhadh	Acsl5	Acsl4	Acox2	Acox1	Scp2	Acsbg2	Acsbg1	Hadh	Acaa1b
+fatty acid &beta;-oxidation Homo sapiens FAO-PWY	HumanCyc_2016	Slc27a2	Acsl3	Eci1	Acsl1	Acsl6	Acsl5	Acsl4	Echs1	Hsd17b10	Hadhb	Acadl	Scp2	Acsbg2	Acsbg1	Acaa2	Hadh
+fatty acid activation Homo sapiens PWY-5143	HumanCyc_2016	Slc27a2	Acsl3	Acsl1	Acsl6	Acsl5	Acsbg2	Acsl4	Acsbg1
+folate polyglutamylation Homo sapiens PWY-2161	HumanCyc_2016	Fpgs	Shmt2	Mthfd1l	Mthfd1	Shmt1
+folate transformations I Homo sapiens PWY-2201	HumanCyc_2016	Aldh1l2	Aldh1l1	Mthfd2	Mthfd2l	Shmt2	Mthfd1l	Mthfd1	Shmt1	Mthfr	Mthfs	Mtr
+fructose 2,6-bisphosphate synthesis Homo sapiens PWY66-423	HumanCyc_2016	Pfkfb3	Pfkfb2	Pfkfb4	Pfkfb1
+gluconeogenesis Homo sapiens PWY66-399	HumanCyc_2016	Tpi1	Mdh2	Pgam1	Pgam2	Eno1	Eno2	Eno3	Bpgm	G6pc2	Pcx	G6pc3	Pgk2	Gapdhs	Pgk1	Aldoc	Mdh1	Aldob	Fbp1	Aldoa	Pck1	Fbp2	Gapdhrt	Gpi1
+glutathione redox reactions I Homo sapiens PWY-4081	HumanCyc_2016	Gpx1	Gpx3	Gpx2	Gsr	Gpx4	Gpx7
+glutathione-mediated detoxification Homo sapiens PWY-4061	HumanCyc_2016	Gstm4	Gstk1	Gstm5	Gstm7	Gstm6	Gsto2	Ggh	Gstp1	Mgst2	Mgst3	Gstt2	Mgst1	Gstz1	Gsta3	Anpep
+glycerol degradation Homo sapiens PWY-4261	HumanCyc_2016	Gk5	Gk	Gpd2	Gk2
+glycine betaine degradation Homo sapiens PWY-3661-1	HumanCyc_2016	Dmgdh	Bhmt1b	Shmt2	Shmt1	Sardh
+glycoaminoglycan-protein linkage region biosynthesis Homo sapiens PWY-6557	HumanCyc_2016	Xylt1	B3gat3	B3gat2	B3gat1	Xylt2	B3galt6	B4galt7
+glycogen biosynthesis Homo sapiens PWY-5067	HumanCyc_2016	Gys2	Ugp2	Gbe1	Gyg1	Gys1	Pgm2	Pgm1
+glycogenolysis Homo sapiens PWY-5941	HumanCyc_2016	G6pc3	Agl	Pygb	Pygl	Pygm	G6pc2	Pgm2	Pgm1
+glycolysis Homo sapiens PWY66-400	HumanCyc_2016	Tpi1	Pklr	Pgam1	Pgam2	Eno1	Eno2	Hk1	Eno3	Bpgm	Hk3	Gck	Hk2	Pkm	Pfkm	Pfkl	Pgk2	Gapdhs	Pgk1	Aldoc	Aldob	Aldoa	Gapdhrt	Gpi1	Pfkp
+guanosine deoxyribonucleotides de novo biosynthesis Homo sapiens PWY-7226	HumanCyc_2016	Rrm2	Nme7	Rrm2b	Rrm1	Nme3	Nme4	Nme5	Nme6	Nme1	Nme2
+guanosine nucleotides de novo biosynthesis Homo sapiens PWY-7228	HumanCyc_2016	Rrm2	Rrm1	Nme3	Gmps	Nme4	Nme5	Nme6	Nme1	Nme2	Guk1	Impdh1	Nme7	Impdh2	Rrm2b
+guanosine ribonucleotides de novo biosynthesis Homo sapiens PWY-7221	HumanCyc_2016	Guk1	Impdh1	Nme7	Impdh2	Nme3	Gmps	Nme4	Nme5	Nme6	Nme1	Nme2
+heme biosynthesis Homo sapiens PWY-5920	HumanCyc_2016	Alad	Alas2	Fech	Hmbs	Alas1	Urod	Uros	Cpox	Ppox
+heparan sulfate biosynthesis (late stages) Homo sapiens PWY-6558	HumanCyc_2016	Hs3st3a1	Hs3st3b1	Hs3st1	Glce	Hs3st6	Hs6st1	Hs3st4	Hs6st2	Hs3st5	Hs6st3	Hs3st2	Hs2st1	Ext1	Extl1	Ext2	Ndst3	Ndst2	Ndst1	Extl3	Extl2	A4gnt	Ndst4
+heparan sulfate biosynthesis Homo sapiens PWY-6564	HumanCyc_2016	Hs3st3b1	Hs3st1	B3gat3	Glce	B3gat2	B3gat1	Hs3st6	B3galt6	Hs3st4	Hs3st5	Hs3st2	Ext1	Ext2	A4gnt	B4galt7	Hs3st3a1	Xylt1	Xylt2	Hs6st1	Hs6st2	Hs6st3	Hs2st1	Extl1	Ndst3	Ndst2	Ndst1	Extl3	Extl2	Ndst4
+histidine degradation Homo sapiens PWY-5030	HumanCyc_2016	Hal	Amdhd1	Mthfd1	Uroc1	Ftcd
+icosapentaenoate biosynthesis II (metazoa) Homo sapiens PWY-7049	HumanCyc_2016	Elovl5	Acsm4	Acsl3	Acsm3	Acsl1	Acsm1	Acsl6	Acsl5	Acsm5	Acsl4	Fads2	Fads1
+inositol pyrophosphates biosynthesis Homo sapiens PWY-6369	HumanCyc_2016	Ppip5k1	Ippk	Ppip5k2	Ipmk	Ip6k2	Ip6k1	Ip6k3
+isoleucine degradation Homo sapiens ILEUDEG-PWY	HumanCyc_2016	Bckdhb	Bckdha	Dbt	Hadha	Acat1	Dld	Acadsb	Bcat2	Echs1	Bcat1	Hsd17b10	Acat3
+ketogenesis Homo sapiens PWY66-367	HumanCyc_2016	Hmgcl	Bdh2	Hmgcs2	Bdh1	Acat1
+leucine degradation Homo sapiens LEU-DEG2-PWY	HumanCyc_2016	Hmgcl	Bckdhb	Bckdha	Hmgcll1	Auh	Dbt	Mccc1	Mccc2	Ivd	Dld	Bcat2	Bcat1
+leukotriene biosynthesis Homo sapiens PWY66-375	HumanCyc_2016	Ggt5	Alox5	Dpep2	Lta4h	Dpep1
+lysine degradation II (pipecolate pathway) Homo sapiens PWY66-425	HumanCyc_2016	Dhtkd1	Aldh7a1	Aadat	Pipox	Pycr1	Crym
+melatonin degradation I Homo sapiens PWY-6398	HumanCyc_2016	Sult5a1	Cyp4x1	Cyp2a12	Cyp2u1	Por	Cyp2s1	Cyp1a2	Cyp1b1
+methionine salvage cycle III Homo sapiens PWY-7527	HumanCyc_2016	Mtap	Mat2b	Mat1a	Adi1	Mat2a	Amd1	Mri1	Apip	Srm	Enoph1
+mevalonate pathway Homo sapiens PWY-922	HumanCyc_2016	Mvk	Idi1	Idi2	Hmgcs2	Pmvk	Hmgcs1	Acat1	Hmgcr	Mvd	Acat3
+mitochondrial L-carnitine shuttle Homo sapiens PWY-6111	HumanCyc_2016	Cpt1b	Cpt1a	Cpt2	Cpt1c	Crat
+mucin core 1 and core 2 O-glycosylation Homo sapiens PWY-7433	HumanCyc_2016	Galnt7	Galnt6	Galnt5	Galnt4	Galnt3	Galnt2	C1galt1	Galnt1	Galntl6	B3gnt3	Galnt13	Galnt12	Galnt15	Galnt14	Galnt16	Gcnt1	Galnt18	Galnt11	Galnt10	Gcnt3	Gcnt4	St3gal1	Gcnt7	St3gal2	Galnt9	St3gal4
+nicotine degradation III Homo sapiens PWY66-221	HumanCyc_2016	Cyp4x1	Cyp2a12	Cyp2u1	Cyp2s1	Aox1	Ugt1a2
+nicotine degradation IV Homo sapiens PWY66-201	HumanCyc_2016	Fmo1	Inmt	Fmo2	Fmo3	Fmo4	Fmo5	Cyp4x1	Cyp2a12	Cyp2u1	Cyp2s1	Aox1	Ugt1a2
+noradrenaline and adrenaline degradation Homo sapiens PWY-6342	HumanCyc_2016	Adh4	Aldh3a2	Pnmt	Maob	Aldh2	Maoa	Adh1	Comt	Adh6b
+oleate biosynthesis Homo sapiens PWY-5996	HumanCyc_2016	Scd2	Fads6	Acot2	Acot4
+oxidative ethanol degradation III Homo sapiens PWY66-161	HumanCyc_2016	Aldh3a2	Acss3	Aldh2	Acss2	Cyp2e1	Acss1
+palmitate biosynthesis Homo sapiens PWY-5994	HumanCyc_2016	Acot8	Fasn	Oxsm	Acot2	Acot7	Acot4
+pentose phosphate pathway Homo sapiens PENTOSE-P-PWY	HumanCyc_2016	G6pdx	Rpia	Rpe	Pgls	Taldo1	Pgd	Tkt
+phosphatidylcholine biosynthesis Homo sapiens PWY3O-450	HumanCyc_2016	Pcyt1a	Pcyt1b	Chkb	Chka	Chpt1	Cept1
+phosphatidylethanolamine biosynthesis II Homo sapiens PWY4FS-6	HumanCyc_2016	Chkb	Pcyt2	Etnk2	Etnk1	Cept1
+phospholipases Homo sapiens LIPASYN-PWY	HumanCyc_2016	Pla2g12a	Pla2g2e	Pla2g2f	Pnpla8	Pla2g4e	Pla2g2d	Pla2g4f	Plch1	Pla2g2a	Pla2g4c	Pla2g4d	Pla2g4a	Pla2g4b	Plcb4	Pla2g10	Plcd1	Plch2	Plcd4	Plcb2	Plcb3	Plcd3	Plcb1	Pla2g1b	Pla2g3	Pld6	Pla2g5	Pla2g6	Pld2	Pld1	Oc90	Pld4	Pld3	Plb1	Plcz1	Plce1	Plcg1	Plcg2
+protein citrullination Homo sapiens PWY-4921	HumanCyc_2016	Padi4	Padi3	Padi6	Padi2	Padi1
+protein ubiquitylation Homo sapiens PWY-7511	HumanCyc_2016	Ube2h	Ube2i	Ube2c	Ube2e2	Ube2e3	Ube2a	Ube2g2	Ube2b	Ube2e1	Ube2g1	Ube2ql1	Ube2w	Cdc34	Uevld	Ube2z	Ube2srt	Ube2t	Ube2u	Ube2r2	Ube2o	Uba3	Ube2v1	Uba1	Ube2v2	Ube2k	Ube2m	Ube2n	Uba7	Uba6	Uba5	Nedd4l	Ube2d1	Ube2d2a	Ubr1	Ube2l6	Ube2j1	Ube2l3	Ube2j2	Ube2q2	Rnf216	Ube2q1
+purine deoxyribonucleosides salvage Homo sapiens PWY-7224	HumanCyc_2016	Guk1	Dguok	Nme7	Nme3	Nme4	Ak5	Nme5	Dck	Nme6	Nme1	Nme2
+purine nucleotides de novo biosynthesis Homo sapiens PWY-841	HumanCyc_2016	Paics	Rrm2	Adsl	Rrm1	Nme3	Nme4	Nme5	Nme6	Nme1	Nme2	Impdh1	Nme7	Impdh2	Rrm2b	Gart	Pfas	Ak1	Ak2	Ak3	Gmps	Ak4	Ak5	Ak7	Ak8	Guk1	Atic	Ppat
+purine nucleotides degradation Homo sapiens PWY-6353	HumanCyc_2016	Pnp2	Nt5e	Nt5c1a	Gda	Nt5c3	Impdh1	Impdh2	Nt5c1b	Xdh	Ada	Nt5c2
+putrescine degradation III Homo sapiens PWY-0	HumanCyc_2016	Aldh3a2	Maob	Aldh2	Aldh1b1	Maoa	Aldh3a1	Aldh3b3	Aldh3b1	Sat1	Sat2
+pyridoxal 5'-phosphate salvage Homo sapiens PLPSAL-PWY	HumanCyc_2016	Phospho2	Pdxk	Pnpo	Alpi	Pdxp
+pyrimidine deoxyribonucleosides salvage Homo sapiens PWY-7199	HumanCyc_2016	Tk1	Dck	Tk2	Tyms	Cda
+pyrimidine deoxyribonucleotide phosphorylation Homo sapiens PWY-7197	HumanCyc_2016	Dtymk	Nme7	Cmpk2	Nme3	Nme4	Nme5	Nme6	Nme1	Cmpk1	Nme2
+pyrimidine deoxyribonucleotides biosynthesis from CTP Homo sapiens PWY-7210	HumanCyc_2016	Rrm2	Dtymk	Rrm1	Nme3	Nme4	Nme5	Ntpcr	Nme6	Tyms	Nme1	Nme2	Dctd	Nme7	Rrm2b
+pyrimidine deoxyribonucleotides de novo biosynthesis Homo sapiens PWY-7184	HumanCyc_2016	Rrm2	Dtymk	Rrm1	Nme3	Nme4	Nme5	Ntpcr	Nme6	Tyms	Nme1	Nme2	Nme7	Rrm2b
+pyrimidine ribonucleosides degradation Homo sapiens PWY-7209	HumanCyc_2016	Dpys	Dpyd	Upp2	Upp1	Cda	Upb1
+pyruvate decarboxylation to acetyl CoA Homo sapiens PYRUVDEHYD-PWY	HumanCyc_2016	Pdha2	Pdha1	Pdhb	Dld	Dlat
+reactive oxygen species degradation Homo sapiens DETOX1-PWY-1	HumanCyc_2016	Gpx1	Gpx3	Gpx2	Cat	Gpx7	Gpx6	Gpx8	Sod3	Sod1	Sod2
+retinoate biosynthesis I Homo sapiens PWY-6872	HumanCyc_2016	Aldh1a1	Rbp4	Rbp1	Aldh1a3	Aldh1a2	Rdh16f2	Sdr16c5
+retinol biosynthesis Homo sapiens PWY-6857	HumanCyc_2016	Ces1d	Rdh8	Lipc	Ces5a	Ces4a	Dhrs3	Dhrs4	Dhrs9	Rdh12	Rbp4	Rdh11	Rbp1	Rbp2	Rdh10	Lrat	Pnlip	Ces2f
+selenocysteine biosynthesis Homo sapiens PWY-6281	HumanCyc_2016	Sars2	Sephs1	Pstk	Sephs2	Sepsecs
+serine and glycine biosynthesis Homo sapiens SER-GLYSYN-PWY	HumanCyc_2016	Srr	Psat1	Shmt2	Shmt1	Phgdh	Vps29	Psph
+serotonin and melatonin biosynthesis Homo sapiens PWY-6030	HumanCyc_2016	Aanat	Tph2	Tph1	Ddc	Asmt
+serotonin degradation Homo sapiens PWY-6313	HumanCyc_2016	Sult5a1	Aldh3a2	Aldh2	Maoa	Adh1	Adh6b
+spermine and spermidine degradation I Homo sapiens PWY-6117	HumanCyc_2016	Aoc3	Smox	Sat1	Paox	Sat2
+sphingomyelin metabolism/ceramide salvage Homo sapiens PWY3DJ-11281	HumanCyc_2016	Smpd4	Smpd3	Samd8	Sgms2	Sgms1	Smpd2	Smpd1	Enpp7
+sphingosine and sphingosine-1-phosphate metabolism Homo sapiens PWY3DJ-11470	HumanCyc_2016	Acer2	Acer1	Asah2	Sphk2	Sphk1	Asah1	Sgpp2	Ptgr1	Sgpp1
+stearate biosynthesis Homo sapiens PWY-5972	HumanCyc_2016	Elovl1	Slc27a2	Acsl3	Elovl6	Acsl1	Acot2	Acsl5	Acsbg2	Acsl4	Acsbg1	Acot7	Acot4
+sucrose degradation Homo sapiens PWY66-373	HumanCyc_2016	Tpi1	Sis	Galm	Aldoc	Khk	Aldob	Aldoa
+superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism Homo sapiens PWY-6358	HumanCyc_2016	Inpp1	Ipmk	Ocrl	Inppl1	Minpp1	Itpkc	Inpp5d	Inpp5a	Inpp5b	Impa1	Synj2	Impa2	Synj1	Itpka	Itpkb	Inpp5f	Inpp5k	Inpp5j
+superpathway of cholesterol biosynthesis Homo sapiens PWY66-5	HumanCyc_2016	Fdps	Hmgcs2	Cyp51	Hmgcs1	Ggps1	Lss	Dhcr24	Sqle	Mvd	Dhcr7	Mvk	Idi1	Idi2	Acat1	Hmgcr	Msmo1	Hsd17b7	Tm7sf2	Acat3	Ebp	Nsdhl	Pmvk	Sc5d	Lbr	Fdft1
+superpathway of choline degradation to L-serine Homo sapiens PWY66-414	HumanCyc_2016	Aldh7a1	Dmgdh	Bhmt1b	Shmt2	Shmt1	Sardh	Chdh
+superpathway of conversion of glucose to acetyl CoA and entry into the TCA cycle Homo sapiens PWY66-407	HumanCyc_2016	Pdha2	Tpi1	Pdha1	Idh3g	Mdh2	Pklr	Pgam1	Pgam2	Sdhd	Bpgm	Sdhb	Sdhc	Gck	Sdha	Csl	Pkm	Pfkm	Pfkl	Sucla2	Gapdhs	Dld	Suclg2	Aco2	Aldoc	Suclg1	Aldob	Aldoa	Gapdhrt	Gpi1	Pfkp	Ogdh	Fh1	Pdhb	Dlst	Eno1	Eno2	Hk1	Eno3	Hk3	Hk2	Pgk2	Pgk1	Dlat	Mdh1	Idh3a	Idh3b
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate) Homo sapiens PWY-5910	HumanCyc_2016	Mvk	Idi1	Fdps	Idi2	Hmgcs2	Pmvk	Hmgcs1	Ggps1	Acat1	Hmgcr	Mvd	Acat3
+superpathway of inositol phosphate compounds Homo sapiens PWY-6371	HumanCyc_2016	Plch1	Itpk1	Ipmk	Ocrl	Itpkc	Pik3cb	Pikfyve	Pik3ca	Itpka	Itpkb	Pi4kb	Plcd1	Pi4ka	Plch2	Pik3c3	Plcd4	Pi4k2b	Plcd3	Pi4k2a	Mtmr3	Ippk	Pik3r5	Pik3r4	Pik3r3	Pik3r2	Inppl1	Pik3r6	Pip5kl1	Plcz1	Pip4k2a	Plce1	Pip4k2b	Pip4k2c	Ip6k2	Ip6k1	Ip6k3	Sacm1l	Fig4	Minpp1	Plcb4	Pik3r1	Synj2	Synj1	Plcb2	Plcb3	Plcb1	Mtmr14	Pik3cd	Pik3c2g	Pik3c2b	Pik3c2a	Pik3cg	Inpp5d	Inpp5a	Ppip5k1	Inpp5b	Ppip5k2	Pip5k1a	Inpp5k	Pip5k1b	Plcg1	Pip5k1c	Plcg2	Cdipt	Inpp5j
+superpathway of melatonin degradation Homo sapiens PWY-6402	HumanCyc_2016	Sult5a1	Cyp4x1	Cyp2a12	Cyp2u1	Por	Cyp2s1	Maoa	Cyp1a2	Cyp1b1
+superpathway of methionine degradation Homo sapiens PWY-5328	HumanCyc_2016	Bckdhb	Bckdha	Ahcyl	Got1	Suox	Mcee	Cbs	Dbt	Pccb	Mat2b	Mat1a	Pcca	Mat2a	Cth	Dld	Cdo1
+superpathway of purine nucleotide salvage Homo sapiens PWY66-409	HumanCyc_2016	Rrm2	Adsl	Rrm1	Nme3	Nme4	Nme5	Nme6	Aprt	Nme1	Nme2	Impdh1	Nme7	Impdh2	Rrm2b	Hprt1	Ada	Ak1	Adk	Ak2	Ak3	Gmps	Ak4	Ak5	Ak7	Ak8	Pnp2	Guk1
+superpathway of pyrimidine deoxyribonucleoside salvage Homo sapiens PWY-7200	HumanCyc_2016	Dtymk	Nme3	Nme4	Nme5	Dck	Nme6	Tyms	Nme1	Nme2	Nme7	Cmpk2	Tk1	Tk2	Cda	Cmpk1
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis Homo sapiens PWY-7211	HumanCyc_2016	Rrm2	Dtymk	Cad	Rrm1	Nme3	Nme4	Ctps2	Nme5	Ntpcr	Ctps1	Nme6	Tyms	Nme1	Nme2	Nme7	Rrm2b	Cmpk2	Umps	Cmpk1
+superpathway of pyrimidine ribonucleotides de novo biosynthesis Homo sapiens PWY0-162	HumanCyc_2016	Cad	Nme3	Nme4	Ctps2	Nme5	Ctps1	Nme6	Nme1	Nme2	Nme7	Cmpk2	Umps	Cmpk1
+superpathway of steroid hormone biosynthesis Homo sapiens PWY-7305	HumanCyc_2016	Srd5a2	Hsd3b1	Hsd17b7	Hsd17b11	Cyp19a1	Cyp17a1	Cyp2a12	Hsd17b1	Cyp11a1	Cyp21a1	Hsd17b3	Srd5a1
+superpathway of tryptophan utilization Homo sapiens PWY66-401	HumanCyc_2016	Akr1a1	Nmnat3	Kmo	Aldh3a2	Cyp2a12	Cyp2u1	Por	Nmnat2	Cyp2s1	Nmnat1	Cyp1a2	Ido1	Ido2	Dhtkd1	Tph2	Tph1	Ddc	Maob	Qprt	Asmt	Maoa	Adh1	Haao	Acmsd	Adh6b	Nadsyn1	Sult5a1	Cyp4x1	Aanat	Tdo2	Aldh2	Afmid	Kynu	Cyp1b1
+tRNA charging Homo sapiens TRNA-CHARGING-PWY	HumanCyc_2016	Hars2	Rars2	Mars2	Dars2	Wars2	Sars2	Lars2	Pars2	Cars2	Farsb	Farsa	Tars2	Aars2	Fars2	Yars2	Nars2	Iars2	Ears2	Vars2
+tRNA splicing Homo sapiens PWY-6689	HumanCyc_2016	Tsen34	Tsen15	Trpt1	Tsen54	Tsen2
+terminal O-glycans residues modification Homo sapiens PWY-7434	HumanCyc_2016	B4galt3	St6gal2	B4galt1	B4galt2	Cdk11b	St8sia2	St6gal1	Itga2b	Gcnt2	Fut9	Gcnt3	St3gal3
+tetrapyrrole biosynthesis Homo sapiens PWY-5189	HumanCyc_2016	Alad	Alas2	Hmbs	Alas1	Uros
+the visual cycle I (vertebrates) Homo sapiens PWY-6861	HumanCyc_2016	Rdh8	Dhrs3	Rpe65	Dhrs4	Rlbp1	Dhrs9	Rbp3	Rdh12	Rbp4	Rdh11	Rbp1	Rbp2	Rdh10	Rdh5	Lrat
+threonine degradation Homo sapiens PWY66-428	HumanCyc_2016	Bckdhb	Sds	Bckdha	Dbt	Dld	Sdsl
+thyroid hormone metabolism II (via conjugation and/or degradation) Homo sapiens PWY-6261	HumanCyc_2016	Sult5a1	Dio1	Dio2	Ugt1a10
+triacylglycerol biosynthesis Homo sapiens TRIGLSYN-PWY	HumanCyc_2016	Dgat2	Dgat1	Mboat7	Mboat2	Mboat1	Gpam	Lpcat4	Lpcat3	Abhd5	Mogat1	Agpat1	Lclat1	Agpat2	Agpat3	Agpat4	Agpat5	Gpat2
+triacylglycerol degradation Homo sapiens LIPAS-PWY	HumanCyc_2016	Pnliprp2	Cel	Abhd6	Lipc	Lipg	Lipf	Lipe	Abhd12	Mgll	Pnpla2	Pnpla3	Pnlip
+tryptophan degradation Homo sapiens TRYPTOPHAN-DEGRADATION-1	HumanCyc_2016	Dhtkd1	Tdo2	Afmid	Haao	Kynu	Acmsd	Kmo	Ido1	Ido2
+tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde Homo sapiens PWY-5651	HumanCyc_2016	Tdo2	Afmid	Haao	Kynu	Kmo	Ido1	Ido2
+tyrosine degradation Homo sapiens TYRFUMCAT-PWY	HumanCyc_2016	Gstz1	Hgd	Tat	Hpd	Fah
+ubiquinol-10 biosynthesis Homo sapiens PWY-5872	HumanCyc_2016	Coq5	Coq3	Coq2	Pdss2	Pdss1	Coq7	Coq6
+urate biosynthesis/inosine 5'-phosphate degradation Homo sapiens PWY-5695	HumanCyc_2016	Pnp2	Nt5e	Impdh1	Impdh2	Xdh	Nt5c2
+urea cycle Homo sapiens PWY-4984	HumanCyc_2016	Ass1	Arg1	Cps1	Asl	Otc
+valine degradation Homo sapiens VALDEG-PWY	HumanCyc_2016	Bckdhb	Acad8	Bckdha	Hibadh	Echs1	Abat	Aldh6a1	Dbt	Hadha	Dld	Bcat2	Hibch	Bcat1
+zymosterol biosynthesis Homo sapiens PWY-6074	HumanCyc_2016	Nsdhl	Cyp51	Lbr	Msmo1	Hsd17b7	Tm7sf2

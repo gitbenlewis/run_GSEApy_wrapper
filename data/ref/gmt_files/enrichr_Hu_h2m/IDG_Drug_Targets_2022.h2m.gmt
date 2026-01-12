@@ -1,0 +1,888 @@
+(S)-nitrendipine	IDG_Drug_Targets_2022	Cacna1c	Cacna1s	Cacna1d	Kcnn4	Cacna1f
+Abemaciclib	IDG_Drug_Targets_2022	Cdk9	Cdk7	Cdk6	Cdk4	Cdk1	Kcnh2
+Abiraterone Acetate	IDG_Drug_Targets_2022	Ar	Cyp17a1	Cyp3a13
+Acalabrutinib	IDG_Drug_Targets_2022	Tec	Lyn	Erbb4	Erbb2	Txk	Btk	Bmx
+Acamprosate	IDG_Drug_Targets_2022	Grin3a	Gabrb3	Gabra1	Grin2b	Grin2a	Grin3b	Grin2d	Grin2c	Grin1	Gabrg2
+Acarbose	IDG_Drug_Targets_2022	Mgam	Sis	Gaa
+Aceclidine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Acetazolamide	IDG_Drug_Targets_2022	Car13	Car12	Car11	Aqp1	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Acetoxolone	IDG_Drug_Targets_2022	Ces1d	Hsd11b2	Hsd17b1	Hsd17b2	Ces2f	Hsd11b1
+Acetylcholine	IDG_Drug_Targets_2022	Chrm3	Chrna2	Chrnd	Chrm4	Chrnb2	Chrm1	Chrna4	Chrm2	Chrna3	Chrnb4	Chrm5	Chrna7
+Acetylcysteine	IDG_Drug_Targets_2022	Gss	Gm10053	Slc7a11	Vegfa	Sod2
+Acetyldigitoxin	IDG_Drug_Targets_2022	Fxyd2	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Atp1a1	Atp1b2	Atp1b1
+Acetylsalicylic Acid	IDG_Drug_Targets_2022	Naprt	Asic3	Ggt1	Ptgs1	Ptgs2
+Aclarubicin	IDG_Drug_Targets_2022	Top2b	Mmp2	Top2a	Htr2b	Top1
+Aclatonium	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Aclidinium Bromide	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Adenine	IDG_Drug_Targets_2022	Pi4kb	Pi4ka	Xdh	Pi4k2b	Pi4k2a
+Adenosine	IDG_Drug_Targets_2022	Dot1l	Ahcyl	Adk	Adora2b	Prkar2b	Adora2a	Prkar2a	Adora3	Adora1	Map3k7	Prkacb	Ada	Gapdhrt	Pi4k2b	Pi4k2a	Prkaca
+Adenosine Phosphate	IDG_Drug_Targets_2022	Trpm2	Src	Ldha	Ak2	Dnph1	Fbp1	Trpm4
+Adenosine Triphosphate	IDG_Drug_Targets_2022	Gpr17	P2ry13	Hspa8	Trap1	Ak2	Hsp90b1	P2rx6	P2rx5	P2rx4	P2rx3	P2ry4	Mapkapk2	P2rx2	P2rx1	P2ry2	Hspa1b	P2ry1	Map3k7	Trpm4	Jak2
+Adinazolam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Tspo	Gabrd
+Adiphenine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5
+Afamelanotide	IDG_Drug_Targets_2022	Mc3r	Mc1r	Mc5r	Mc4r	Ada
+Afatinib	IDG_Drug_Targets_2022	Epha6	Map2k5	Dyrk1b	Csnk1e	Dyrk1a	Cit	Hck	Hipk4	Mapk14	Gak	Lck	Sbk1	Mapk10	Axl	Met	Frk	Blk	Ephb6	Src	Dyrk2	Flt3	Txk	Egfr	Slk	Stk10	Mapk9	Rps6ka6	Erbb4	Phkg2	Mknk1	Phkg1	Erbb2	Mknk2	Erbb3	Irak1	Ripk2	Abl1
+Agomelatine	IDG_Drug_Targets_2022	Mtnr1b	Mtnr1a	Htr2c	Htr2a	Htr2b
+Alcuronium	IDG_Drug_Targets_2022	Chrm3	Chrna2	Chrnd	Chrm4	Chrna1	Chrm1	Chrna4	Chrm2	Chrnb4	Chrna7	Chrnb1
+Alectinib	IDG_Drug_Targets_2022	Ret	Kdr	Ros1	Srpk1	Alk
+Alfaxalone	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Slc6a1	Gabrg3	Gabrg2	Gabre	Gabrd
+Alfentanil	IDG_Drug_Targets_2022	Sigmar1	Abcb1a	Oprd1	Oprk1	Oprm1
+Alfuzosin	IDG_Drug_Targets_2022	Ache	Slc22a1	Adra1d	Adra1b	Adra1a
+Alitretinoin	IDG_Drug_Targets_2022	Rxra	Rxrb	Rarg	Nr1h3	Nr1h2	Rarb	Rara	Rorc	Rxrg	Nr4a1
+Alpidem	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Abcb11	Tspo	Gabre	Gabrd
+Alprazolam	IDG_Drug_Targets_2022	Brd4	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Cckar	Gabra5	Ptafr	Cyp3a13	Gabrg2
+Alprenolol	IDG_Drug_Targets_2022	Adrb1	Adrb2	Htr2a	Adrb3	Htr1a	Fdft1
+Alprostadil	IDG_Drug_Targets_2022	Catsper2	Catsper1	Catsper4	Catsper3	Ptger1	Ptger2	Ptgir	Ptger3	Ptger4	Ptgdr
+Amantadine	IDG_Drug_Targets_2022	Grin3a	Sigmar1	Grin2b	Slc47a1	Grin2a	Grin3b	Grin2d	Grin2c	Grin1
+Amfetamine	IDG_Drug_Targets_2022	Htr1f	Maoa	Htr1b	Htr2c	Htr2a	Htr3b	Htr1a	Htr2b	Cartpt	Slc6a2	Taar1	Htr3a	Htr6	Slc6a3	Adra1a	Slc6a4	Adra2a	Htr4	Htr5a	Htr7
+Amidefrine	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Amifampridine	IDG_Drug_Targets_2022	Kcnf1	Kcnh3	Kcnh4	Kcnd1	Kcnh5	Kcnd2	Kcnh6	Kcnb1	Kcnd3	Kcnh7	Kcnh8	Kcns1	Kcns2	Kcnq1	Kcns3	Kcnq2	Kcnq3	Kcnq4	Kcna10	Kcnq5	Kcng1	Kcng2	Kcng3	Kcng4	Kcnc1	Kcnc2	Kcna1	Kcnc3	Kcna2	Kcnc4	Kcna3	Kcna4	Kcna5	Kcna6	Kcna7	Kcnv1	Kcnv2	Kcnh1	Kcnh2
+Amiloride	IDG_Drug_Targets_2022	Aoc3	Slc22a1	Maoa	Scnn1a	Plau	Slc9a1	Slc9a2	Scnn1g	Slc9a5	Adora2a	Scnn1b	Asic3	Asic1	Asic2
+Aminobutyric Acid	IDG_Drug_Targets_2022	Gabra2	Gabra1	Gabbr1	Gabrr1	Gabrg1	Slc6a13	Slc6a12	Slc6a1	Slc6a11
+Amiodarone	IDG_Drug_Targets_2022	Ccr2	Htr1b	Oprm1	Tacr2	Mc3r	Kdm5a	Chrm3	Chrm4	Hcn4	Abcb1a	Chrm1	Chrm2	Oprd1	Chrm5	Htr2c	Adrb1	Htr2a	Adrb3	Cyp3a13	Htr2b	Hrh2	Erbb2	Adora3	Bdkrb2	Drd1	Drd2	Drd3	Drd4	Ccr4	Fdft1	Kcnh2	Sigmar1	Oprk1	Thap1	Pgrmc1	Adra2b	Adra2a	Ar	Sqle	Mc5r	Kdm7a	Thrb	Thra	Phf2	Kcna7	Slc6a2	Htr6	Slc6a3	Slc6a4	Cacna1h	Ednra	Ebp	Mc4r	Scn5a	Fyn
+Amisulpride	IDG_Drug_Targets_2022	Htr7	Htr1b	Htr2a	Drd2	Htr2b	Drd3	Adra2c	Drd4	Htr6	Adra2a
+Amitriptyline	IDG_Drug_Targets_2022	Sigmar1	Kcnj6	Ntrk1	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Scn2a	Chrm3	Chrm4	Ret	Chrm1	Chrm2	Slc22a1	Chrm5	Slc22a2	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Hrh4	Scn9a	Aox1	Scn5a	Drd1	Drd2	Drd3	Drd5	Kcnh2
+Amlexanox	IDG_Drug_Targets_2022	Gpr35	Tbk1	Pde4d	Pde4c	Pde4b	Pde4a	Ikbke
+Amlodipine	IDG_Drug_Targets_2022	Cacna2d1	Cacna1c	Adra1d	Cacna1d	Adra1b	Adra2c	Htr6	Slc6a3	Adra1a	Adra2a	Cacna1h	Car1	Aox1	Cacng1	Kcnk2
+Amoxapine	IDG_Drug_Targets_2022	Gabra1	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Gabrg2	Chrm3	Chrm4	Abcb1a	Chrm1	Gabrb2	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Slc6a5	Htr7	Hrh1	Cyp2d10	Drd1	Drd2	Drd3	Drd4
+Amrinone	IDG_Drug_Targets_2022	Pde4d	Pde3b	Pde4c	Pde3a	Pde4b	Pde4a	Ttk
+Amsacrine	IDG_Drug_Targets_2022	Top2b	Slc22a1	Cyp2d10	Top1mt	Top2a	Top1	Kcnh2
+Androstanolone	IDG_Drug_Targets_2022	Ar	Pgr	Nr3c2	Nr3c1	Cyp19a1	Serpina6	Shbg
+Androstenediol	IDG_Drug_Targets_2022	Ar	Esr1	Esr2	Serpina6	Shbg
+Androstenedione	IDG_Drug_Targets_2022	Ar	Hsd17b3	Cyp19a1	Serpina6	Shbg
+Anhydrovinblastine	IDG_Drug_Targets_2022	Abcb1a	Abcc2	Abcc10	Abcc1	Tubb4b
+Apatinib	IDG_Drug_Targets_2022	Ret	Src	Kit	Kdr	Csk
+Apomorphine	IDG_Drug_Targets_2022	Sigmar1	Htr1f	Trpa1	Htr1b	Oprk1	Htr3b	Oprm1	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Mdm2	Oprd1	Mpi	Slc22a1	Htr2c	Htr2a	Adra1d	Htr2b	Adra1b	Htr6	Adra1a	Htr4	Htr7	Drd1	Drd2	Drd3	Drd4	Drd5
+Apraclonidine	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Aprindine	IDG_Drug_Targets_2022	Hcn4	Cyp2d10	Psma1	Scn5a	Calm2	Calm3	Slc8a1	Calm1	Kcnh2
+Aripiprazole	IDG_Drug_Targets_2022	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Chrm5	Htr2c	Adrb1	Adrb2	Htr2a	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Aripiprazole Lauroxil	IDG_Drug_Targets_2022	Htr7	Hrh1	Htr1b	Htr2c	Htr2a	Drd2	Htr1a	Drd3	Drd4	Htr6
+Armodafinil	IDG_Drug_Targets_2022	Cyp1a2	Drd2	Drd3	Adra1b	Slc6a3
+Ascorbic Acid	IDG_Drug_Targets_2022	P4ha1	Plod1	Slc23a2	Slc23a1	Tyr
+Asenapine	IDG_Drug_Targets_2022	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Chrm3	Chrm1	Chrm2	Chrm5	Htr2c	Adrb1	Adrb2	Htr2a	Htr2b	Adra1b	Htr6	Slc6a3	Adra1a	Hrh2	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5
+Aspartic Acid	IDG_Drug_Targets_2022	Got2	Got1	Slc1a1	Acy1	Slc1a2	Asns	Slc1a3	Slc1a6	Grin2d	Grin2c	Grin1	Grin3a	Ass1	Grin2b	Grin2a	Grin3b	Asph	Aspa	Slc25a13	Slc25a12
+Astemizole	IDG_Drug_Targets_2022	Htr1b	Oprm1	Tacr1	Htr1a	Tacr2	Sstr5	Mc3r	Calm2	Calm3	Abcg3	Calm1	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Oprd1	Chrm5	Htr2c	Adrb1	Htr2a	Adra1d	Adrb3	Cyp3a13	Htr2b	Adra1b	Egfr	Adra1a	Hrh2	Hrh1	Hrh4	Erbb2	Adora3	Drd1	Drd2	Drd3	Drd4	Kcnh1	Kcnh2	Sigmar1	Eed	Oprk1	2410137M14Rik	Adra2c	Htr3a	Pgrmc1	Adra2b	Adra2a	Lck	Mc5r	Slc28a1	Slc47a1	Tmem97	Slc6a2	Htr6	Slc6a3	Slc6a4	Glra1	Fntb	Fnta	Mc4r	Fyn
+Atazanavir	IDG_Drug_Targets_2022	Abcb1a	Ugt1a1	Cyp1a2	Cyp3a13
+Atomoxetine	IDG_Drug_Targets_2022	Kcnj5	Kcnj6	Cyp2d10	Klf10	Slc6a2	Slc6a3	Kcnj3	Slc6a4	Kcnh2
+Atorvastatin	IDG_Drug_Targets_2022	Hdac6	Hdac1	Hdac2	Nr1i3	Hmgcr	Cyp3a13
+Atracurium	IDG_Drug_Targets_2022	Chrna2	Chrnd	Chrna1	Chrna4	Chrna3	Chrna7	Kcnn3	Chrnb1
+Atropine	IDG_Drug_Targets_2022	Ache	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Slc22a1	Chrm5	Htr2c	Htr2a	Adra1d	Adra2a
+Auranofin	IDG_Drug_Targets_2022	Alox5	Trpa1	Txnrd1	Adora3	Fyn	Drd3	Drd4	Nr3c1	Adra2b	Adra2a
+Axitinib	IDG_Drug_Targets_2022	Map3k3	Map3k4	Pdgfrb	Pdgfra	Mapk10	Axl	Tek	Ulk3	Ulk2	Ankk1	Tnik	Sik1	Cdk16	Tesk1	Aurka	Egfr	Aurkc	Aurkb	Slk	Nuak2	Kdr	Map3k9	Pak4	Srpk3	Yes1	Map2k5	Plk4	Map2k2	Map2k1	Tnk2	Mink1	Srpk1	Map3k19	Fgfr1	Bmp2k	Fgfr3	Map3k12	Fgfr2	Csf1r	Blk	Txk	Stk10	Stk16	Abl2	Tnk1	Abl1	Ros1	Ripk4	Eif2ak2	Hunk	Cdc42bpb	Tyk2	Mertk	Acvr2b	Myo3a	Aak1	Itk	Bmpr1b	Ddr2	Ddr1	Ret	Lrrk2	Stk3	Stk4	Grk4	Irak1	Ripk2	Ripk1	Map4k2	Map4k3	Map4k1	Ntrk1	Csnk2a2	Tie1	Fgr	Gak	Lck	Kit	Met	Pkn2	Cdkl2	Mylk2	Ephb6	Mylk3	Flt1	Flt3	Flt4	Ttk	Camkk1	Camkk2	Mapk8	Riok1	Riok3	Csk	Jak3	Map4k4	Jak2	Map4k5
+Azapetine	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Azathioprine	IDG_Drug_Targets_2022	Abcc4	Abcc5	Tpmt	Rac1	Abcg3
+Azelastine	IDG_Drug_Targets_2022	Abcb1a	Chrm1	Hrh1	Hrh3	Htr2c	Htr2b	Adra1b	Adra1a	Kcnh2
+Baclofen	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabbr2	Gabra1	Gabrb2	Gabrp	Gabbr1	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Adora3	Gabre	Gabrd
+Baicalin	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Kdm1a	Gabra6	Gabra5	Gabra4	Gabrg1	Prep	Gabrg3	Gabrg2	Cdk1	Gabre	Gabrd
+Baricitinib	IDG_Drug_Targets_2022	Gak	Aak1	Bmp2k	Jak3	Tyk2	Jak1	Jak2
+Beclometasone Dipropionate	IDG_Drug_Targets_2022	Ar	Il5	Adgrg3	Pgr	Mmp9	Nr3c2	Nr3c1
+Belinostat	IDG_Drug_Targets_2022	Brd4	Hdac5	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8
+Bendamustine	IDG_Drug_Targets_2022	Hdac6	Hdac3	Hdac1	Hdac10	Hdac2	Hdac8
+Bendroflumethiazide	IDG_Drug_Targets_2022	Slc12a3	Car2	Car1	Car4	Kcnma1
+Benperidol	IDG_Drug_Targets_2022	Sigmar1	Htr2a	Drd2	Drd3	Drd4	Kcnh2
+Benserazide	IDG_Drug_Targets_2022	Ddc	Uba2	Esr2	Hk2	Sae1
+Benzatropine	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Slc6a19	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Adra2c	Htr6	Pgrmc1	Slc6a3	Adra1a	Adra2b	Slc6a4	Adra2a	Hrh2	Hrh1	Drd3
+Benzbromarone	IDG_Drug_Targets_2022	Ptpn1	Eya2	Eya3	Adora3	Mapk1	Pde4a	Htr2b	Abcc1	Mapk14	Slc22a12
+Benzethonium	IDG_Drug_Targets_2022	Ache	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Tacr2	Slc6a2	Adra2c	Pgrmc1	Slc6a3	Adra2b	Slc6a4	Adra2a	Erbb2	Kiss1r	Fyn	Kcnh2
+Benzocaine	IDG_Drug_Targets_2022	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Benzquinamide	IDG_Drug_Targets_2022	Drd2	Drd3	Adra2c	Drd4	Adra2b	Adra2a	Ptgs2
+Benzthiazide	IDG_Drug_Targets_2022	Slc12a3	Car2	Car1	Car4	Kcnma1
+Bepridil	IDG_Drug_Targets_2022	Hcn4	Kcnt1	Cacna1a	Cacna1c	Kcnq4	Scn5a	Scn3a	Cacna1d	Scn1a	Scn2a	Cacna1h	Kcnh2
+Betamethasone Phosphate	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Hrh1	Chrm5	Nr3c1
+Bexarotene	IDG_Drug_Targets_2022	Cyp26a1	Rxra	Cyp26b1	Rxrb	Rarg	Nr1h3	Nr1h2	Rarb	Pparg	Rara	Rxrg
+Bezafibrate	IDG_Drug_Targets_2022	Fabp2	Ppara	Lpl	Pparg	Hmgcr	Ppard	Fabp1
+Biperiden	IDG_Drug_Targets_2022	Chrm3	Chrna2	Chrm4	Chrm1	Chrm2	Chrm5
+Bithionol	IDG_Drug_Targets_2022	Oprm1	Htr1a	Tacr2	Esr1	Adra2c	Esr2	Adra2b	Adra2a	Mapk14	Lck	Tbxas1	Adora2a	Slc47a1	Slc22a1	Slc22a3	Napepld	Slc22a2	Htr2c	Atp1a2	Htr2b	Slc6a2	Egfr	Slc6a3	Kcnt1	Erbb2	Adora3	Mapk1	Drd3
+Boceprevir	IDG_Drug_Targets_2022	Ctsb	Ctsa	Cma1	Ctsk	Ctsf	Ctss	Elane
+Bopindolol	IDG_Drug_Targets_2022	Cyp2d10	Adrb1	Adrb2	Htr2a	Adrb3	Htr1a	Htr2b
+Bortezomib	IDG_Drug_Targets_2022	Car13	Car12	Ctsa	Psd	Cma1	F2	Nfkb1	Nfkb2	Psmb9	Psma1	Ctrb1	Rela	Psmb10	Psmb8	Car2	Psmb5	Car1	Car4	Car3	Car5b	Car5a	Car6	Psmb1	Psmb2	Psmd1	Car7	Car9	Ctsg	Car14	Elane
+Bosutinib	IDG_Drug_Targets_2022	Epha6	Epha5	Epha8	Dclk3	Tec	Tek	Ulk3	Sik2	Ulk2	Ankk1	Sik3	Ulk1	Cdk14	Epha2	Cdk15	Epha1	Sik1	Cdk16	Epha4	Epha3	Mst1r	Prkaa1	Nuak2	Chek1	Csnk1d	Chek2	Srpk3	Yes1	Srms	Dmpk	Plk1	Prkcd	Plk2	Prkce	Csnk1e	Nuak1	Ptk2	Bcr	Btk	Prkd3	Prkcq	Txk	Nlk	Mylk	Dstyk	Tbk1	Pip5k1a	Lyn	Csnk1a1	Tyk2	Itk	Ddr2	Ddr1	Ret	Stk33	Stk35	Stk36	Stk39	Ripk2	Map4k2	Map4k3	Map4k1	Syk	Tnni3k	Cit	Hck	Gak	Kit	Taok2	Taok3	Nek11	Pkn1	Taok1	Pkn2	Camkk2	Riok1	Riok3	Jak3	Ikbke	Map4k4	Jak2	Map4k5	Map3k3	Map3k4	Pdgfrb	Map3k1	Pdgfra	Map3k2	Matk	Vrk2	Hipk2	Hipk1	Hipk4	Hipk3	Axl	Tnik	Frk	Rock1	Rock2	Egfr	Slk	Pak2	Pak1	Map3k9	Map3k7	Pak3	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Tnk2	Mink1	Cask	Map3k19	Stk24	Stk25	Stk26	Map3k11	Bmp2k	Map3k12	Map3k13	Csf1r	Blk	Pkmyt1	Stk10	Abl2	Nek2	Abl1	Map2k6	Map2k7	Eif2ak1	Eif2ak4	Irak4	Hunk	Bmx	Mertk	Clk4	Clk3	Clk2	Clk1	Fes	Cdk7	Fer	Myo3a	Myo3b	Aak1	Alk	Mast1	Bmpr2	Nim1k	Lrrk2	Tssk1	Stk3	Stk4	Grk4	Erbb4	Erbb2	Erbb3	Irak1	Ntrk2	Ntrk3	Camk1d	Ntrk1	Tie1	Fgr	Wee1	Lck	Wee2	Zap70	Rps6kb1	Tyro3	Met	Ephb6	Src	Ltk	Flt3	Camk2a	Rps6ka6	Stk32a	Phkg2	Phkg1	Rps6ka3	Rps6ka2	Ptk2b	Tlk2	Ephb1	Tlk1	Csk	Fyn	Camk2g	Ephb3	Mapk7	Ephb2	Ephb4
+Bremelanotide	IDG_Drug_Targets_2022	Mc3r	Mc2r	Mc1r	Mc5r	Mc4r
+Brentuximab Vedotin	IDG_Drug_Targets_2022	Tubb2b	Tubb6	Tubb3	Tubb5	Tnfrsf8	Tubb1	Tubb2a	Tubb4b	Tubb4a
+Brexanolone	IDG_Drug_Targets_2022	Gabrb3	Gabra1	Gabrb2	G6pdx	Gabra6	Gabra4	Gabrd	Gabrg2
+Brexpiprazole	IDG_Drug_Targets_2022	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Htr1a	Htr2b	Slc6a2	Adra1b	Adra2c	Htr6	Slc6a3	Adra1a	Adra2b	Slc6a4	Adra2a	Htr5a	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4
+Brigatinib	IDG_Drug_Targets_2022	Insr	Flt3	Ros1	Egfr	Igf1r	Alk
+Brimonidine	IDG_Drug_Targets_2022	Adra1d	Htr1a	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Brinzolamide	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car1	Car4	Car5b	Car5a	Car6	Car7	Car9	Car14
+Bromocriptine	IDG_Drug_Targets_2022	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Cyp3a13	Htr1a	Htr2b	Adra1b	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Ar	Htr7	Drd1	Slc17a8	Drd2	Drd3	Drd4	Drd5
+Bromperidol	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Drd1	Drd2	Drd3	Drd4	Adra1a
+Brompheniramine	IDG_Drug_Targets_2022	Hrh1	Scn3a	Scn1a	Scn2a	Kcnh2
+Budesonide	IDG_Drug_Targets_2022	Ar	Il5	Abcb1a	Ifng	Pgr	Mmp9	Nr3c2	Nr3c1
+Budipine	IDG_Drug_Targets_2022	Grin3a	Grin2b	Grin2a	Grin3b	Grin2d	Grin2c	Grin1	Kcnh2
+Buflomedil	IDG_Drug_Targets_2022	Sigmar1	Ebp	Cacng1	Adra1d	Adra1b	Adra2c	Adra1a	Adra2a
+Bufylline	IDG_Drug_Targets_2022	Pde1b	Pde1a	Pde4d	Pik3cd	Adora2b	Adora2a	Alpl	Pde3b	Pde4c	Adora3	Pde3a	Pde4b	Pde4a	Adora1
+Bupivacaine	IDG_Drug_Targets_2022	Kcnd3	Ptger1	Cyp2d10	Scn5a	Kcna5	Scn4a	Scn1a	Htr3a	Kcnk3	Kcnh2
+Buprenorphine	IDG_Drug_Targets_2022	Oprd1	Oprk1	Oprm1	Oprl1	Kcnh2
+Bupropion	IDG_Drug_Targets_2022	Chrnb2	Chrna3	Chrnb4	Cyp2d10	Chrna7	Slc6a2	Pgrmc1	Slc6a3	Adra1a	Slc6a4
+Buspirone	IDG_Drug_Targets_2022	Sigmar1	Htr1f	Htr1b	Htr1a	Adra2c	Pgrmc1	Adra2b	Adra2a	Slc47a1	Slc22a2	Htr2c	Htr2a	Adra1d	Cyp3a13	Htr2b	Adra1b	Adra1a	Htr7	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Butenafine	IDG_Drug_Targets_2022	Ache	Sigmar1	Cyp2d10	Slc6a2	Pgrmc1	Slc6a4	Adra2a
+Cabazitaxel	IDG_Drug_Targets_2022	Tubb2b	Tubb6	Tubb3	Tubb5	Tubb1	Tubb2a	Tubb4b	Tubb4a
+Cabergoline	IDG_Drug_Targets_2022	Htr1b	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Drd1	Drd2	Drd3	Drd4	Drd5
+Cabozantinib	IDG_Drug_Targets_2022	Ret	Flt1	Src	Flt3	Flt4	Aurka	Mst1r	Egfr	Axl	Kit	Fgfr1	Tek	Kdr	Met
+Caffeine	IDG_Drug_Targets_2022	Ache	Gda	Adora2b	Adora2a	Adora3	Pik3cd	Adora1	Pygm	Kcnh2
+Camostat	IDG_Drug_Targets_2022	Slc47a1	Try4	Hpn	Klk1b24	Slc22a2	Tmprss2	F2	Plg	Hgfac
+Candesartan Cilexetil	IDG_Drug_Targets_2022	Adrb3	Cyp3a13	Slc6a2	Egfr	Adra2b	Erbb2	Tbxas1	Polk	Adora3	Agtr1b	Poli	Polh
+Cannabidiol	IDG_Drug_Targets_2022	Faah	Gpr18	Cnr2	Cnr1	Gpr55	Trpv1	Trpv2
+Capsaicin	IDG_Drug_Targets_2022	Kcna1	Kcna2	Alox5	Cyp1a2	Trpm8	Trpv1	Kcna7	Ptgs1
+Captopril	IDG_Drug_Targets_2022	Ace	Lta4h	F2	Ren1	Ptgs1	Ptgs2
+Caramiphen	IDG_Drug_Targets_2022	Sigmar1	Chrm1	Chrm2	Prcp	Slc6a3
+Carbachol	IDG_Drug_Targets_2022	Ache	Chrm3	Chrna2	Chrm4	Chrna1	Chrnb2	Chrm1	Chrna4	Chrm2	Chrna3	Chrnb4	Chrm5	Chrna7	Chrnd
+Carbamazepine	IDG_Drug_Targets_2022	Chrna2	Gabra1	Gabrb2	Chrnb4	Hrh1	Nr1i2	Scn9a	Fzd8	Scn5a	Scn4a	Slc6a4	Gabrg2
+Carfilzomib	IDG_Drug_Targets_2022	Ctsb	Psmb8	Psmb5	Gsto1	Psmb1	Psmb2	Psmb9	Kcnh2	Psmb10
+Cariprazine	IDG_Drug_Targets_2022	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Carvedilol	IDG_Drug_Targets_2022	Kcnk10	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Kcnk2	Tlr4	App	Ryr2	Slc47a1	Slc22a1	Slc22a2	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Adrb3	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Htr4	Drd1	Drd2	Drd3	Kcnh2
+Cefalotin	IDG_Drug_Targets_2022	Ptpn7	Mmp9	Slc22a8	Sstr4	Ptgs2
+Cefapirin	IDG_Drug_Targets_2022	Sigmar1	Oprd1	Mmp1a	Oprk1	Oprm1	Tacr1	Cyp3a13	Htr1a	Htr2b	Tacr2	Adra2c	Sstr4	Nisch	Hrh2	Cnr1	Cyp2d10	Drd2	Drd3	Drd4
+Cefotetan	IDG_Drug_Targets_2022	Mmp1a	Mmp2	Mmp9	Comt	Ptgs2
+Cefsulodin	IDG_Drug_Targets_2022	Grk2	L3mbtl1	Ptpn11	Ptpn6
+Celecoxib	IDG_Drug_Targets_2022	Car13	Car12	Pdpk1	Adra2b	Mapk14	Pde5a	Pgr	Ptges	Hdac6	Hdac1	Adrb3	Slc6a2	Slc6a3	Ptgs1	Slc6a4	Ptgs2	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Cyp2d10	Adora3	Car7	Drd1	Pde4a	Car9	Car14
+Ceritinib	IDG_Drug_Targets_2022	Ntrk2	Insr	Lyn	Pdgfra	Ntrk1	Syk	Etv6	Fgr	Lck	Zap70	Kit	Cdk4	Cdk2	Btk	Met	Fgfr4	Fgfr3	Alk	Fgfr2	Ret	Abcb1a	Src	Flt3	Rock2	Tssk1	Egfr	Igf1r	Mknk2	Kdr	Abl1	Jak3	Ros1	Jak1	Jak2	Kcnh2
+Cevimeline	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Chidamide	IDG_Drug_Targets_2022	Hdac3	Hdac1	Hdac11	Nampt	Hdac10	Hdac2	Hdac8
+Chlorambucil	IDG_Drug_Targets_2022	Oprd1	Akr1b1	Adam9	Ctse	Ctsd
+Chlordiazepoxide	IDG_Drug_Targets_2022	Ache	Gabra3	Trhr	Gabra2	Gabrb3	Gabrq	Bche	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Hrh1	Cckar	Cckbr	Tspo	Gabre	Gabrd
+Chlorhexidine	IDG_Drug_Targets_2022	Slc47a1	Slc22a1	Synj2	Tpr	Mmp2	Slc22a3	Slc22a2	Rce1	Mmp9
+Chlormadinone	IDG_Drug_Targets_2022	Ar	Atp1a2	Pgr	Nr3c1
+Chloroquine	IDG_Drug_Targets_2022	App	Chrm3	Sigmar1	Chrm4	Nqo2	Chrm1	Chrm2	Chrm5	Prnp	Tmem97	Adra2c	Adra2b	Adra2a	Bace1	Dhfr	Kcnh2
+Chlorphenamine	IDG_Drug_Targets_2022	L3mbtl1	L3mbtl3	Htr2b	Slc6a2	Slc6a3	Slc6a4	Hrh1	Hrh4	Cyp2d10	Mbtd1	Scn3a	Scn1a	Scn2a	Kcnh2
+Chlorpromazine	IDG_Drug_Targets_2022	Htr1b	Oprm1	Trpv1	Htr1a	Tacr2	Grin2d	Grin2c	Grin1	Htr5a	Grin3a	Mc3r	Grin3b	Calm2	Kcnk2	Calm3	Calm1	Chrm3	Chrm4	Chrna1	Abcb1a	Chrm1	Chrm2	Oprd1	Adcy1	Chrm5	Adcy5	Alox15	Htr2c	Adcy4	Adcy3	Htr2a	Adcy2	Adra1d	Htr2b	Adcy8	Adra1b	Egfr	Adra1a	Adcy6	Hrh2	Hrh1	Hrh4	Cyp2d10	Erbb2	Aox1	Drd1	Scn3a	Drd2	Drd3	Drd4	Drd5	Kcnh2	Sigmar1	Prnp	Oprk1	Gfer	Adra2c	Htr3a	Pgrmc1	Adra2b	Adra2a	Mc5r	Scn2a	Ryr1	Slc22a1	Slc22a2	Slc6a2	Htr6	Slc6a3	Slc6a4	Grin2b	Htr7	Grin2a	Tpr	Mc4r	Smpd1	Fyn	Scn1a
+Chlorprothixene	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Slc22a1	Chrm5	Htr2a	Htr6	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5
+Chlortalidone	IDG_Drug_Targets_2022	Car13	Slc12a3	Car12	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Chlorzoxazone	IDG_Drug_Targets_2022	Nos3	Kcnma1	Kcnn2	Nos1	Kcnn4	Nos2
+Choline	IDG_Drug_Targets_2022	Chrna2	Chrnd	Slc5a7	Chrnb2	Chrna4	Slc6a8	Chrna3	Chrnb4
+Choline Theophyllinate	IDG_Drug_Targets_2022	Pde1b	Pde1a	Pde4d	Pik3cd	Adora2b	Adora2a	Alpl	Pde3b	Pde4c	Adora3	Pde3a	Pde4b	Pde4a	Adora1
+Cianidanol	IDG_Drug_Targets_2022	App	Car13	Car12	F2	Dhodh	Ptgs1	Bace1	Ptgs2	Car2	Car1	Car4	Kit	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Cicaprost	IDG_Drug_Targets_2022	Ptgfr	Ptger1	Ptger2	Ptgir	Ptger3	Ptger4	Ptgdr
+Ciclosporin	IDG_Drug_Targets_2022	Abcb1a	Abcc2	Slc10a1	Fpr1	Cyp3a13	Tacr2	Dhodh	Pik3cg	Fkbp1b	Ppp3ca	Slco1b2	Fkbp1a	Ppia	Abcb11	Abcc1	Fkbp4	Ppib	Abcg3	Ppid
+Cinchocaine	IDG_Drug_Targets_2022	Scn10a	Scn5a	Scn3a	Scn1a	Scn2a
+Cinnarizine	IDG_Drug_Targets_2022	Sigmar1	Oprm1	Htr1a	Adra2c	Pgrmc1	Adra2b	Adra2a	Scn2a	Chrm3	Chrm4	Chrm1	Chrm5	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Slc6a3	Adra1a	Slc6a4	Hrh1	Hrh4	Scn3a	Drd2	Drd3	Scn1a
+Ciprofloxacin	IDG_Drug_Targets_2022	Gabra3	Top2b	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Top2a	Gabrg1	Gabrg3	Gabrg2	Hrh3	Gabre	Gabrd
+Cisapride	IDG_Drug_Targets_2022	Sigmar1	Htr1f	Htr1b	Htr3b	Htr1a	Adra2c	Htr3a	Pgrmc1	Adra2b	Adra2a	Htr2c	Hmgcr	Htr2a	Adra1d	Cyp3a13	Htr2b	Adra1b	Adra1a	Slc6a4	Htr4	Htr7	Cyp2d10	Drd1	Drd2	Drd3	Kcnh2
+Cisplatin	IDG_Drug_Targets_2022	Ccr2	Abcc5	Abcc2	Abcc6	Chrm5	Atp1a2	Egfr	Lck	Cxcr2	Mc5r	Tbxas1	Mapk3	Adora3	Fyn	Drd3
+Citalopram	IDG_Drug_Targets_2022	Sigmar1	Chrm1	Slc22a1	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Slc6a2	Adra1b	Slc6a3	Adra1a	Slc6a4	Hrh1	Kcnh2
+Clebopride	IDG_Drug_Targets_2022	Ache	Htr2c	Htr2a	Htr2b	Adra2c	Adra2b	Adra2a	Htr4	Drd1	Drd2	Drd3	Drd4	Kcnh2
+Clemastine	IDG_Drug_Targets_2022	Sigmar1	Htr1b	Adra2c	Pgrmc1	Adra2b	Adra2a	Chrm3	Chrm4	Chrm1	Chrm2	Slc22a1	Chrm5	Htr2c	Htr2a	Tmem97	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Hrh2	Hrh1	Cyp2d10	Drd1	Drd2	Drd3	Kcnh2
+Clemizole	IDG_Drug_Targets_2022	Trpc6	Hrh4	Trpc4	Trpc5	Trpc3	Hmox2
+Clobetasol Propionate	IDG_Drug_Targets_2022	Ar	Anxa1	Abcb11	Pgr	Cyp3a13	Nr3c1
+Clodronic Acid	IDG_Drug_Targets_2022	Ptpn1	Slc25a4	Slc17a9	Slc25a5
+Clofarabine	IDG_Drug_Targets_2022	Pola1	Rrm2	Uck2	Uck1	Rrm1	Prps1l3	Pde2a
+Clomifene	IDG_Drug_Targets_2022	Sigmar1	Tacr2	Esr1	Adra2c	Pgrmc1	Adra2b	Adra2a	Ar	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adrb3	Htr2b	Slc6a2	Adra1b	Egfr	Htr6	Slc6a3	Ptgs1	Slc6a4	Ebp	Hrh1	Cyp2d10	Erbb2	Adora3	Fyn	Drd3	Kcnh2
+Clomipramine	IDG_Drug_Targets_2022	Sigmar1	Kcnj6	Htr1f	Htr1b	Htr3b	Htr1a	Adra2c	Htr3a	Pgrmc1	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Chrm2	Slc22a1	Chrm5	Gstp1	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Htr4	Hrh2	Htr7	Hrh1	Tpr	Cyp2d10	Aox1	Drd1	Drd2	Drd3
+Clonazepam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Clonidine	IDG_Drug_Targets_2022	Hcn4	Slc47a1	Slc22a1	Slc22a2	Adrb1	Adra1d	Htr1a	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Nisch	Hcn1	Hcn2
+Clorazepate	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabra5	Gabrg2
+Clorotepine	IDG_Drug_Targets_2022	Kcnk9	Htr2c	Htr2a	Adra1d	Htr2b	Taar1	Adra1b	Htr6	Adra1a	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5
+Clotiapine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Drd1	Htr2a	Drd2	Htr2b
+Clotrimazole	IDG_Drug_Targets_2022	Avpr2	Htr1b	Oprm1	Tacr1	Htr1a	Tacr2	Adora2a	Ido1	Ido2	Ache	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Oprd1	Nr1i2	Nr1i3	Htr2c	Adrb1	Htr2a	Adra1d	Adrb3	Cyp3a13	Htr2b	Egfr	Adra1a	Car2	Hrh2	Hrh1	Cysltr1	Erbb2	Adora3	Drd1	Adora1	Drd2	Drd3	Drd4	Ccr4	Kcnh2	Cyp51	Oprk1	Nr1h4	Cyp8b1	Adra2b	Adra2a	Ar	Tbxas1	Pgr	Vcp	Slc22a1	Ptafr	Kcna3	Slc6a2	Htr6	Nr3c1	Slc6a3	Cyp19a1	Slc6a4	Ptgs2	Cyp17a1	Fyn	Kcnn4	Mdh1
+Clozapine	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr1a	Htr5a	Calm1	Chrm3	Chrm4	Chrm1	Chrm2	Adcy1	Chrm5	Adcy5	Htr2c	Adcy4	Adrb1	Adcy3	Adrb2	Htr2a	Adcy2	Adra1d	Htr2b	Adcy8	Adra1b	Adra1a	Adcy6	Hrh2	Hrh1	Hrh4	Hrh3	Aox1	Adora3	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2	Sigmar1	Htr3b	Adra2c	Htr3a	Adra2b	Adra2a	Slc6a2	Htr6	Slc6a4	Htr7	Ugt1a2
+Cocaine	IDG_Drug_Targets_2022	Sigmar1	Chrm1	Htr1b	Oprk1	Htr3b	Slc6a1	Cartpt	Slc6a2	Htr3a	Slc6a3	Adra1a	Slc6a4	Hrh1	Scn11a	Scn5a	Scn3a	Scn1a	Scn2a	Kcnh2
+Colchicine	IDG_Drug_Targets_2022	Brd4	Glra1	Glra2	Abcb1a	Tubb2b	Tubb5	Pim1	Cyp3a13	Tppp	Tuba1a	Abcc1	Tubb4b
+Colecalciferol	IDG_Drug_Targets_2022	Glra1	Cyp27a1	Cyp27b1	Vdr	Cyp2r1
+Colforsin Daropate	IDG_Drug_Targets_2022	Adcy1	Slc2a1	Scn3a	Scn1a	Scn2a
+Colistin	IDG_Drug_Targets_2022	Mc3r	Erbb2	Mc5r	Mc4r	Fyn	Egfr
+Copanlisib	IDG_Drug_Targets_2022	Pik3cb	Pik3ca	Pik3cd	Mtor	Pik3cg
+Corbadrine	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Cortisone Acetate	IDG_Drug_Targets_2022	Anxa1	Slc47a1	Fntb	Fnta	Kcna1	Nr3c1	Serpina6	Shbg
+Coumarin	IDG_Drug_Targets_2022	Car13	Car12	Maob	Maoa	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Crisaborole	IDG_Drug_Targets_2022	Pde1a	Pde4d	Pde4c	Pde4b	Pde4a	Pde7a
+Crizotinib	IDG_Drug_Targets_2022	Epha6	Map3k3	Acvr1	Epha5	Epha8	Map3k1	Epha7	Map3k2	Dclk2	Hipk4	Dclk1	Axl	Tek	Ulk3	Sik2	Ulk2	Ankk1	Ulk1	Epha2	Epha1	Epha4	Epha3	Frk	Rock1	Rock2	Tesk1	Aurka	Mst1r	Inppl1	Egfr	Prkaa1	Aurkc	Aurkb	Slk	Nuak2	Musk	Map3k7	Nek9	Srpk3	Yes1	Insr	Plk4	Dmpk	Map2k3	Nek7	Tnk2	Mink1	Cask	Srpk1	Ptk2	Map3k19	Stk26	Prkd1	Btk	Prkd3	Bmp2k	Map3k15	Fgfr3	Map3k12	Map3k13	Csf1r	Blk	Dyrk2	Txk	Igf1r	Stk10	Dstyk	Tbk1	Abl2	Pip5k1a	Tnk1	Abl1	Mlkl	Ros1	Lyn	Insrr	Limk1	Ripk4	Ripk3	Eif2ak2	Limk2	Irak4	Tyk2	Bmx	Mertk	Tgfbr1	Fes	Cdk7	Fer	Aak1	Coq8b	Itk	Alk	Bmpr1b	Ddr1	Ret	Nim1k	Stk3	Stk4	Grk4	Stk35	Irak3	Irak1	Ripk2	Ripk1	Map4k2	Ntrk2	Map4k3	Ntrk3	Cdk11b	Map4k1	Ntrk1	Syk	Tie1	Tnni3k	Sbk3	Fgr	Lck	Sbk1	Zap70	Kit	Rps6kb1	Taok2	Taok3	Taok1	Tyro3	Met	Cdkl2	Ephb6	Flt1	Src	Ltk	Flt3	Acvr1b	Camkk2	Ikbkb	Ptk2b	Riok1	Ephb1	Riok3	Fyn	Jak3	Mapk7	Ikbke	Jak1	Ephb4	Jak2	Map4k5
+Cyamemazine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Htr1a	Htr3a	Htr7	Drd1	Drd2	Drd3
+Cyanocobalamin	IDG_Drug_Targets_2022	Amn	Mtrr	Mmab	Tcn2	Mmaa	Mtr
+Cyclizine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Maob	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Adra1b	Slc6a3	Adra2a	Hrh1	Cyp2d10	Drd3
+Cyclobenzaprine	IDG_Drug_Targets_2022	Chrm3	Ret	Abcb1a	Chrm1	Chrm2	Htr2c	Htr2a	Htr2b	Slc6a2	Htr6	Slc6a4	Htr7	Hrh1	Aox1
+Cycloserine	IDG_Drug_Targets_2022	Grin3a	Grin2b	Grin2a	Grin3b	Cyp3a13	Grin2d	Grin2c	Grin1
+Cyclothiazide	IDG_Drug_Targets_2022	Gria2	Slc12a3	Gria3	Gria1	Gria4
+Cyproheptadine	IDG_Drug_Targets_2022	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Calm2	Calm3	Scn2a	Calm1	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Chrm5	Setd7	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Hrh4	Drd1	Scn3a	Drd2	Drd3	Scn1a	Drd4	Drd5	Kcnh2
+Cyproterone Acetate	IDG_Drug_Targets_2022	Ar	Oprm1	Adora1	Pgr	Nr3c1
+Cytarabine	IDG_Drug_Targets_2022	Pola1	Polb	Pole	Pold1	Mdm2
+Dabigatran Etexilate	IDG_Drug_Targets_2022	Nqo2	Try4	Slc47a1	Hpn	F10	Slc22a2	F2	Plat	Plg
+Dabrafenib	IDG_Drug_Targets_2022	Dstyk	Ripk3	Ripk2	Araf	Braf	Kras	Ripk1	Tgfbr1	Raf1
+Dacomitinib	IDG_Drug_Targets_2022	Lck	Src	Erbb4	Erbb2	Jak3	Egfr
+Danazol	IDG_Drug_Targets_2022	Chrm3	Oprk1	Htr2a	Oprm1	Adrb3	Tacr2	Esr1	Slc6a2	Adra2c	Nr3c1	Slc6a3	Adra2b	Slc6a4	Adra2a	Ar	Sts	Adora3	Drd1	Pgr	Drd3	Shbg
+Dapiprazole	IDG_Drug_Targets_2022	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra1a	Adra2b
+Darifenacin	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Adrb1	Adrb2	Drd2
+Dasatinib	IDG_Drug_Targets_2022	Epha6	Map3k3	Acvr1	Epha5	Map3k4	Pdgfrb	Epha8	Pdgfra	Map3k2	Vrk2	Myt1	Mapk13	Mapk14	Mapk11	Tec	Mapk12	Ulk3	Sik2	Sik3	Epha2	Tnik	Epha1	Sik1	Epha4	Epha3	Frk	Raf1	Tesk1	Aurka	Egfr	Aurkb	Slk	Kdr	Map3k7	Yes1	Map2k5	Map2k2	Srms	Dmpk	Map2k1	Tnk2	Mink1	Csnk1e	Ptk6	Bcr	Map3k19	Stk25	Stk26	Fgfr1	Btk	Fgfr3	Fgfr2	Map3k13	Csf1r	Blk	Txk	Pkmyt1	Nlk	Stk10	Abl2	Nek2	Abl1	Lyn	Limk1	Cdc42bpg	Limk2	Eif2ak4	Braf	Cdc42bpb	Tyk2	Bmx	Cdc42bpa	Tgfbr1	Acvr2b	Tgfbr2	Acvr2a	Pik3ca	Coq8a	Bmpr1a	Itk	Bmpr1b	Ddr2	Acvrl1	Ddr1	Ret	Stk4	Stk35	Erbb4	Stk36	Erbb2	Erbb3	Ripk2	Map4k2	Map4k3	Map4k1	Syk	Tnni3k	Mtor	Hck	Fgr	Gak	Wee1	Lck	Sbk1	Wee2	Kit	Taok2	Taok3	Nek11	Mylk2	Ephb6	Flt1	Src	Flt3	Pik3cd	Tuba1a	Acvr1b	Ephb1	Csk	Fyn	Ephb3	Jak3	Ephb2	Map4k4	Ephb4	Jak2	Map4k5
+Daunorubicin	IDG_Drug_Targets_2022	Abcb1a	Mmp2	Abcc6	Top2a	Abcc1	Abcg3
+Daunorubicinol	IDG_Drug_Targets_2022	Abcb1a	Abcc6	Top2a	Abcc1	Abcg3
+Decamethonium	IDG_Drug_Targets_2022	Ache	Chrnd	Chrna1	Chrnb2	Chrne	Chrna4	Chrm2	Hrh3	Chrng	Chrnb1
+Delgocitinib	IDG_Drug_Targets_2022	Rock2	Jak3	Tyk2	Jak1	Jak2
+Delorazepam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Dequalinium	IDG_Drug_Targets_2022	Cnga2	Kcnn1	Kcnn2	Kcnn3	Prkca	Cnga1
+Desflurane	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Kcnk10	Kcnk9	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk18	Gabrg3	Gabrg2	Glra1	Glrb	Kcnk2	Gabre	Kcnk3	Gabrd
+Desipramine	IDG_Drug_Targets_2022	Kcnj5	Kcnj6	Htr1f	Htr1b	Htr3b	Htr1a	Htr3a	Adra2b	Adra2a	Htr5a	Scn2a	Slc29a4	Chrm3	Chrm4	Chrm1	Chrm2	Slc22a1	Chrm5	Htr2c	Htr2a	Htr2b	Slc6a2	Htr6	Slc6a3	Adra1a	Slc6a4	Htr4	Htr7	Hrh1	Cacng1	Drd1	Scn3a	Drd2	Scn1a	Kcnh2
+Deslanoside	IDG_Drug_Targets_2022	Fxyd2	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Atp1a1	Atp1b2	Atp1b1
+Desloratadine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra2b	Slc6a4	Hrh2	Hrh1	Hrh4	Drd3
+Desoxycortone	IDG_Drug_Targets_2022	Htr2c	Htr2a	Htr2b	Nr3c2	Nr3c1	Serpina6	Shbg
+Dexamethasone	IDG_Drug_Targets_2022	Ar	Il5	Il4	Anxa1	Nr1i2	Pgr	Nr3c2	Nr3c1	Fabp1	Ptgs2
+Dexamethasone Palmitate	IDG_Drug_Targets_2022	Ar	Pgr	Nr3c2	Nr3c1	Fabp1
+Dexamethasone Phosphate	IDG_Drug_Targets_2022	Ar	Pgr	Nr3c2	Nr3c1	Fabp1
+Dexamethasone Valerate	IDG_Drug_Targets_2022	Ar	Pgr	Nr3c2	Nr3c1	Fabp1
+Dexamfetamine	IDG_Drug_Targets_2022	Htr1f	Maoa	Htr1b	Htr2c	Htr2a	Htr3b	Htr1a	Htr2b	Cartpt	Slc6a2	Taar1	Htr3a	Htr6	Slc6a3	Adra1a	Slc6a4	Adra2a	Htr4	Htr5a	Htr7	Slc18a2
+Dexchlorpheniramine	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Slc6a2	Adra1b	Pgrmc1	Slc6a3	Adra2b	Slc6a4	Adra2a	Hrh2	Hrh1
+Dexetimide	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Dexfenfluramine	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Htr1b	Htr2c	Adrb1	Htr2a	Htr1a	Htr2b	Adra1b	Adra2c	Htr6	Adra1a	Adra2b	Slc6a4	Adra2a	Htr7
+Dexmedetomidine	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Dexmethylphenidate	IDG_Drug_Targets_2022	Drd1	Drd2	Drd3	Slc6a2	Drd4	Slc6a3	Drd5
+Dexniguldipine	IDG_Drug_Targets_2022	Abcb1a	Cacna1c	Adra1d	Cacna1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Cacna1h	Cacna1s	Adora3	Adora1	Drd2
+Dexrabeprazole	IDG_Drug_Targets_2022	Atp4b	Atp4a	Fasn	Ddah1	Sarm1	Ide	Adora3	Drd3	Adra2b	Engase
+Dextromethorphan	IDG_Drug_Targets_2022	Sigmar1	Slc22a1	Tas2r120	Grin2d	Grin2c	Grin1	Slc6a4	Grin3a	Grin2b	Grin2a	Grin3b	Cyp2d10	Scn3a	Scn1a	Scn2a
+Dextrothyroxine	IDG_Drug_Targets_2022	Grin3a	Grin2b	Grin2a	Grin3b	Thrb	Thra	Grin2d	Grin2c	Grin1
+Diazepam	IDG_Drug_Targets_2022	Gabra3	Trhr	Gabra2	Gabrq	Bche	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Fabp1	Ache	Gabrb3	Gabrb2	Gabrb1	Cyp3a13	Adra1a	Adora3	Tspo	Gabre	Gabrd
+Dichlorphenamide	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car1	Car4	Car5b	Car5a	Car6	Car7	Car9	Car14
+Diclofenac	IDG_Drug_Targets_2022	Ugt1a10	Ugt1a1	Trpa1	Ptgs1	Ptgs2	Ttr	Trpm3	Ugt1a6a	Pparg	Akr1b7	Asic3	Fabp1
+Dicloxacillin	IDG_Drug_Targets_2022	Chrm3	Chrm1	Hrh2	Abcb11	Chrm2	Pde2a	Slc6a3
+Dicoumarol	IDG_Drug_Targets_2022	Nqo1	Vkorc1	Gpr35	Akr1b1	Mapk1	Pcsk7
+Dicycloverine	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Htr2b	Htr6	Pgrmc1	Hrh2	Scn3a	Drd3	Scn1a	Scn2a	Kcnh2
+Diethylstilbestrol	IDG_Drug_Targets_2022	Esrrb	Esrra	Oprk1	Avpr1a	Oprm1	Esrrg	Tacr2	Esr1	Adra2c	Esr2	Adra2b	Adra2a	Mapk14	Ar	Gale	Tbxas1	Adora2a	Pgr	Ache	Chrm3	Chrm1	Slc28a1	Oprd1	Nr1i2	Alox15	Htr2c	Adrb1	Htr2a	Adra1d	Htr2b	Slc6a2	Htr6	Nr3c1	Slc6a3	Adra1a	Ptgs1	Slc6a4	Cysltr1	Adora3	Drd1	Adora1	Drd2	Fyn	Drd3
+Diflunisal	IDG_Drug_Targets_2022	Ttr	Car2	Car1	Ptgs1	Dhfr	Ptgs2
+Digitoxin	IDG_Drug_Targets_2022	Stat3	Fxyd2	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Atp1a1	Atp1b2	Atp1b1	Kcnh2
+Digoxin	IDG_Drug_Targets_2022	Stat3	Fxyd2	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Rorc	Atp1a1	Atp1b2	Atp1b1	Kcnh2
+Dihydroergocristine	IDG_Drug_Targets_2022	Htr1b	Htr2c	Htr2a	Oprm1	Adra1d	Adrb3	Cyp3a13	Htr1a	Htr2b	Adra1b	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Htr4	Drd1	Drd2	Drd3
+Dihydroergotamine	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Htr5a	Cckbr	Slc47a1	Slc22a2	Htr2c	Htr2a	Adra1d	Cyp3a13	Htr2b	Adra1b	Htr6	Adra1a	Htr4	Htr7	Drd1	Drd2	Drd3
+Diiodohydroxyquinoline	IDG_Drug_Targets_2022	Ace	Lck	Erbb2	Mapk3	Adora3	Mapk1	Fyn	Comt	Egfr	Mapk14
+Dilazep	IDG_Drug_Targets_2022	Scn3a	Scn1a	Slc29a2	Scn2a	Slc29a1
+Dilevalol	IDG_Drug_Targets_2022	Adrb1	Adrb2	Htr1a	Adra1b	Adra1a
+Diltiazem	IDG_Drug_Targets_2022	Abcb1a	Kcnc1	Slc22a1	Cacna1c	Htr2a	Cacna1d	Cyp3a13	Kcna7	Cacna1f	Htr3a	Cacna1h	Cacna1s	Cacng1	Scn3a	Scn1a	Scn2a	Kcnh2
+Dimenhydrinate	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Slc6a3	Adra2b	Adra2a	Hrh1	Cyp2d10
+Dimethyltubocurarinium	IDG_Drug_Targets_2022	Chrna2	Chrnd	Chrna1	Chrnb2	Chrnb1
+Dimetindene	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5
+Dinoprost	IDG_Drug_Targets_2022	Ptgfr	Ptgdr2	Ptger1	Tbxa2r	Ptger2	Ptger3	Ptger4	Ptgdr
+Dinoprostone	IDG_Drug_Targets_2022	Catsper2	Ptgfr	Catsper1	Catsper4	Catsper3	Slc22a6	Ptgdr2	Ptger1	Ptger2	Ptgir	Ptger3	Ptger4	Tbxa2r	Ptgdr
+Diosmetin	IDG_Drug_Targets_2022	Kdm1a	Ipmk	Cyp1b1	Ip6k2	Abcc1
+Diphenhydramine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Slc22a2	Htr2c	Htr2a	Htr2b	Slc6a2	Slc6a3	Slc6a4	Hrh1	Hrh4	Cyp2d10	Scn3a	Scn1a	Scn2a	Kcnh2
+Diphenidol	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Htr2a	Adra1b	Cyp2d10	Scn3a	Drd2	Drd3	Scn1a	Scn2a
+Dipyridamole	IDG_Drug_Targets_2022	Slc28a1	Pde1c	Pde6h	Pde1b	Pde6g	Pde1a	Alox15	Pde11a	Pde10a	Pde2a	Pde3b	Pde3a	Pde6d	Pde4a	Pde6c	Pde5a	Pde6b	Pde6a	Pde7b	Pde7a	Pde8b	Slc29a1	Pde8a	Slc29a4
+Disopyramide	IDG_Drug_Targets_2022	Chrm3	Kcnj5	Hcn4	Chrm1	Chrm2	Hrh1	Slc22a1	Scn5a	Kcnh2
+Disulfiram	IDG_Drug_Targets_2022	Ccr2	Gsdmd	Htr1b	Oprk1	Oprm1	Pgrmc1	Adra2b	Adra2a	Lox	Cyp1a2	Mgll	Kdm5a	Slc28a1	Maoa	Alox15	Ehmt1	Loxl4	Ehmt2	Htr2b	Slc6a2	Htr6	Slc6a3	Loxl2	Loxl3	Cxcr2	Aldh2	Mapk3	Adora3	Drd1	Pde4a	Tspo	Drd2	Drd3	Ccr5	Drd4	Ccr4
+Ditiocarb	IDG_Drug_Targets_2022	Car13	Car12	Gsdmd	Car2	Car1	Car4	Ehmt1	Ehmt2	Car9	Cyp2e1
+Dobutamine	IDG_Drug_Targets_2022	Car13	Sigmar1	Car12	Pgrmc1	Adra2b	Lck	Slc22a1	Alox15	Adrb1	Adrb2	Adra1d	Slc6a2	Adra1b	Comt	Egfr	Slc6a3	Adra1a	Slc6a4	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Fyn	Drd3	Car14
+Docetaxel	IDG_Drug_Targets_2022	Abcb1a	Tubb5	Tubb1	Nod2	Cyp3a13	Tacr2	Tubb2a	Egfr	Tubb4b	Tubb4a	Ghrhr	Abcc10	Tubb2b	Tubb6	Tubb3
+Doconexent	IDG_Drug_Targets_2022	Rxra	Ffar1	Trpa1	Cyp19a1	Ptgs1	Ptgs2
+Dodecanoic Acid	IDG_Drug_Targets_2022	Ppara	Ffar1	Pparg	Ppard
+Domperidone	IDG_Drug_Targets_2022	Oprk1	Oprm1	Adra2c	Adra2b	Adra2a	Calm2	Calm3	Calm1	Abcb1a	Slc47a1	Slc22a2	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Adra1a	Slc6a4	Rxra	Hrh1	Cyp2d10	Aox1	Drd2	Drd3	Kcnh2
+Donepezil	IDG_Drug_Targets_2022	Ache	Sigmar1	Abcb1a	Bche	Hrh3	Maob	Chat	Slc6a4	Bace1	Kcnh2
+Dopamine	IDG_Drug_Targets_2022	Sigmar1	Oprk1	Gfer	Oprm1	Htr1a	Taar1	Adra2c	Adra2b	Adra2a	Mtnr1b	Mtnr1a	Adora2b	Oprd1	Adcy1	Adcy5	Dbh	Adcy4	Adrb1	Adcy3	Adrb2	Adcy2	Adra1d	Slc6a2	Adcy8	Adra1b	Slc6a3	Adra1a	Adcy6	Drd1	Drd2	Drd3	Drd4	Drd5
+Dorzolamide	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Dosulepin	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Htr2a	Slc6a2	Slc6a3	Adra1a	Adra2b	Slc6a4
+Dotinurad	IDG_Drug_Targets_2022	Slc22a6	Slc22a8	Abcg3	Slc22a12
+Doxacurium	IDG_Drug_Targets_2022	Chrna2	Chrnd	Chrna1	Chrm2	Chrnb1
+Doxazosin	IDG_Drug_Targets_2022	Abcb1a	Mmp1a	Htr2c	Adrb2	2410137M14Rik	Adra1d	Htr2b	Adra1b	Adra2c	Slc6a3	Adra1a	Slc6a4	Adra2a	Htr4	Kcnh2
+Doxepin	IDG_Drug_Targets_2022	Sigmar1	Htr1f	Htr1b	Htr3b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Chrm2	Slc22a1	Chrm5	Slc22a2	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Htr4	Hrh2	Htr7	Hrh1	Hrh4	Drd1	Drd2	Drd3
+Doxorubicin	IDG_Drug_Targets_2022	Top2b	Abcb1a	Abcc2	Chrm1	Mmp2	Abcc6	Top2a	Alox15	Aurka	Htr1b	Cisd1	Rnase1	Htr4	Lck	Tert	Erbb2	Casp1	Fyn	Top1	Abcc1	Abcg3
+Doxycycline	IDG_Drug_Targets_2022	Mmp13	Mmp7	Mmp8	Mmp2	Rpl10	Mmp3
+Dronabinol	IDG_Drug_Targets_2022	Glra1	Glra2	Gpr18	Glra3	Cnr2	Cnr1	Gpr55	Trpa1	Trpv2	Drd3
+Dronedarone	IDG_Drug_Targets_2022	Hcn4	Thra	Kcnq2	Kcna5	Cacng1	Hcn1	Thap1	Hcn3	Hcn2	Kcnh2
+Droperidol	IDG_Drug_Targets_2022	Chrm4	Chrm5	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra2c	Pgrmc1	Adra1a	Adra2b	Adra2a	Htr4	Hrh1	Drd1	Scn3a	Drd2	Drd3	Scn1a	Drd4	Scn2a	Kcnh2
+Droxidopa	IDG_Drug_Targets_2022	Chrm1	Adrb1	Adrb2	Adra1d	Adrb3	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Duloxetine	IDG_Drug_Targets_2022	Htr1f	Shmt2	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Slc6a2	Htr6	Slc6a3	Slc6a4	Htr7	Hrh1
+Ebastine	IDG_Drug_Targets_2022	Htr1b	Htr1a	Tacr2	Adra2c	Pgrmc1	Adra2b	Adra2a	Ache	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Adrb3	Htr2b	Slc6a2	Adra1b	Egfr	Htr6	Slc6a3	Adra1a	Slc6a4	Hrh2	Hrh1	Erbb2	Adora3	Drd1	Drd2	Fyn	Drd3	Drd4	Kcnh2
+Econazole	IDG_Drug_Targets_2022	Bche	Htr1b	Oprm1	Tacr1	Htr1a	Tacr2	Mmp9	Mc3r	Adora2a	Cyp1a2	Orai1	Ido1	Ido2	Ache	Chrm3	Chrm4	Chrm1	Chrm2	Oprd1	Htr2c	Adrb1	Htr2a	Adra1d	Adrb3	Cyp3a13	Htr2b	Egfr	Adra1a	Hrh2	Cyp2d10	Erbb2	Adora3	Drd1	Adora1	Drd2	Drd3	Drd4	Sigmar1	Cyp51	Oprk1	Cyp8b1	Pgrmc1	Adra2b	Adra2a	Ar	Mc5r	Tbxas1	Pgr	Npy2r	Slc6a2	Htr6	Slc6a3	Slc6a4	Cyp17a1	Cnr1	Fyn	Mdh1
+Eicosapentaenoic Acid	IDG_Drug_Targets_2022	Rxra	Ppara	Pparg	F3	Cyp19a1	Ppard	Ptgs1	Ptgs2
+Eletriptan	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr1a
+Eltanolone	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Emetine	IDG_Drug_Targets_2022	Rbbp9	Adra1d	Adra1b	Adra2c	Adra1a	Adra2a
+Empagliflozin	IDG_Drug_Targets_2022	Slc5a9	Slc5a1	Slc5a10	Slc5a11	Slc5a2
+Encainide	IDG_Drug_Targets_2022	Scn5a	Scn4b	Scn2b	Scn3b	Scn1b
+Enflurane	IDG_Drug_Targets_2022	Glra1	Kcnk10	Kcnk9	Kcnk18	Kcnk2	Kcnk3
+Enfortumab Vedotin	IDG_Drug_Targets_2022	Tubb2b	Tubb6	Tubb3	Tubb5	Tubb1	Tubb2a	Nectin4	Tubb4b	Tubb4a
+Enoximone	IDG_Drug_Targets_2022	Pde4d	Pde4c	Pde3a	Pde4b	Pde4a
+Enoxolone	IDG_Drug_Targets_2022	Ces1d	Prkch	Ptpn1	Glo1	Ptpn11	Pygm	Hsd11b2	Alox5	Akr1b7	Ptpn6	Ces2f	Hsd11b1
+Enprofylline	IDG_Drug_Targets_2022	Adora2b	Adora2a	Adora3	Pde4b	Adora1
+Enprostil	IDG_Drug_Targets_2022	Ptgfr	Ptger1	Ptgir	Ptger3	Ptger4
+Entrectinib	IDG_Drug_Targets_2022	Ntrk2	Insr	Ntrk3	Ret	Ntrk1	Flt3	Tnk2	Aurka	Ptk6	Igf1r	Aurkb	Ptk2	Jak3	Ros1	Jak1	Alk	Jak2
+Epalrestat	IDG_Drug_Targets_2022	Akr1b1	Cyp4a30b	Akr1a1	Sord	Akr1b7
+Epinastine	IDG_Drug_Targets_2022	Abcb1a	Hrh2	Slc47a1	Hrh1	Slc22a2	Htr2a	Adra1a	Adra2a	Kcnh2
+Epinephrine	IDG_Drug_Targets_2022	Alox15	Adrb1	Adrb2	Oprm1	Adra1d	Adrb3	Slc6a2	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Drd1	Drd2
+Erdafitinib	IDG_Drug_Targets_2022	Fgfr1	Kdr	Fgfr4	Fgfr3	Fgfr2
+Ergometrine	IDG_Drug_Targets_2022	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra1b	Htr6	Adra2b	Adra2a	Drd1	Drd2	Drd3
+Ergotamine	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Htr5a	Lck	Cckbr	Tbxas1	Chrm1	Chrm2	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Cyp3a13	Htr2b	Adra1b	Htr6	Adra1a	Htr4	Htr7	Cckar	Drd1	Drd2	Fyn	Drd3	Drd5
+Eribulin	IDG_Drug_Targets_2022	Tubb2b	Tubb6	Tubb3	Tubb5	Tubb1	Tubb2a	Tubb4b	Tubb4a
+Erlotinib	IDG_Drug_Targets_2022	Epha6	Map3k3	Epha5	Pdgfrb	Epha8	Pdgfra	Epha7	Map3k2	Hipk4	Mapk10	Axl	Ulk3	Sik2	Tnik	Epha3	Frk	Aurka	Egfr	Aurkc	Aurkb	Slk	Csnk1d	Kdr	Pip4k2c	Srpk3	Yes1	Map2k5	Plk4	Dmpk	Mink1	Csnk1e	Ptk2	Map3k19	Bmp2k	Fgfr2	Blk	Dyrk2	Slc22a1	Txk	Stk10	Slco2b1	Tbk1	Abl2	Tnk1	Abl1	Lyn	Ripk4	Eif2ak2	Cdc42bpg	Eif2ak4	Braf	Tyk2	Mertk	Coq8a	Aak1	Coq8b	Alk	Ddr1	Ret	Lrrk2	Grk4	Erbb4	Stk36	Mknk1	Erbb2	Mknk2	Erbb3	Ripk2	Dapk3	Tie1	Tnni3k	Cit	Hck	Fgr	Gak	Lck	Sbk1	Kit	Stk17b	Tyro3	Met	Mylk2	Ephb6	Flt1	Src	Ltk	Flt3	Flt4	Ttk	Tuba1a	Rps6ka4	Mapk9	Ephb1	Csk	Jak3	Ephb4	Jak2	Mapk4
+Erythromycin	IDG_Drug_Targets_2022	Abcb11	Aox1	Cyp1b1	Kcnh2
+Escitalopram	IDG_Drug_Targets_2022	Chrm1	Hrh1	Htr2c	Slc6a2	Slc6a3	Adra1a	Slc6a4
+Esketamine	IDG_Drug_Targets_2022	Grin3a	Grin2b	Grin2a	Grin3b	Grin2d	Grin2c	Grin1
+Eslicarbazepine Acetate	IDG_Drug_Targets_2022	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Estazolam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabra5	Gabrg2
+Estradiol	IDG_Drug_Targets_2022	Esrrb	Esrra	Alox15	Esr1	Esr2	Nr3c1	Slc6a3	Slc6a4	Serpina6	Ar	Sts	Kcnma1	Gper1	Aox1	Cyp1b1	Pgr	Shbg
+Estradiol Benzoate	IDG_Drug_Targets_2022	Ar	Adora3	Fyn	Htr2b	Pgr	Esr1	Slc6a2	Adra2c	Nr3c1	Slc6a4	Shbg
+Estriol	IDG_Drug_Targets_2022	Or51e2	Alox15	Esr1	Esr2	Nr3c1	Slc6a4	Serpina6	Shbg
+Estriol Succinate	IDG_Drug_Targets_2022	Or51e2	Alox15	Esr1	Esr2	Nr3c1	Slc6a4	Serpina6	Shbg
+Estrone	IDG_Drug_Targets_2022	Ar	Sts	Hsd17b1	Alox15	Htr2b	Pgr	Esr1	Esr2	Cyp19a1	Slc6a4	Serpina6	Shbg
+Eszopiclone	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabra1	Gabrb2	Gabra5	Gabra4	Gabrg3	Gabrg2
+Ethacrynic Acid	IDG_Drug_Targets_2022	Gale	Akr1b1	Gsto1	Slc12a1	Gstp1
+Ethambutol	IDG_Drug_Targets_2022	Htr2c	Htr2a	Cyp3a13	Htr2b
+Ethanol	IDG_Drug_Targets_2022	Glra1	Grin3a	Glra2	Gabrb2	Gabra4	Gabrd
+Ethinylestradiol	IDG_Drug_Targets_2022	Slc47a1	Nr1i3	Slc22a2	Alox15	Oprk1	Oprm1	Esr1	Slc6a2	Esr2	Nr3c1	Slc6a3	Slc6a4	Htr4	Ar	Adora2a	Aox1	Adora3	Pgr	Shbg
+Ethotoin	IDG_Drug_Targets_2022	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Ethoxzolamide	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Ethyl Hydroxybenzoate	IDG_Drug_Targets_2022	Car12	Car2	Car1	Car7	Car9	Esr1	Esr2	Car14
+Ethylestrenol	IDG_Drug_Targets_2022	Ache	Ar	Chrm2	Pgr	Esr1	Slc6a2	Slc6a4
+Etizolam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabra5	Gabrg2
+Etomidate	IDG_Drug_Targets_2022	Chrnd	Gabra2	Gabra1	Gabrb2	Gabrg2
+Etoposide	IDG_Drug_Targets_2022	Top2b	Abcb1a	Abcc2	Abcc3	Nr1i2	Abcc6	Top2a	Alox15	Abcc1	Abcg3
+Etoxadrol	IDG_Drug_Targets_2022	Grin3a	Grin2b	Grin2a	Grin3b	Grin2d	Grin2c	Grin1
+Etravirine	IDG_Drug_Targets_2022	Abcb1a	Abcc2	Abcc3	Abcc1	Abcg3
+Famotidine	IDG_Drug_Targets_2022	Car13	Car12	Slc47a1	Hsp90aa1	Slc22a3	Slc22a2	Car2	Hrh2	Car1	Car4	Car5b	Car5a	Car6	Car7	Car9	Car14
+Fampridine	IDG_Drug_Targets_2022	Kcnf1	Kcnh3	Kcnh4	Kcnd1	Kcnh5	Kcnd2	Kcnh6	Kcnb1	Kcnd3	Kcnh7	Kcnh8	Kcns1	Kcns2	Kcnq1	Kcns3	Kcnq2	Kcnq3	Kcnq4	Kcna10	Kcnq5	Kcng1	Kcng2	Kcng3	Kcng4	Kcnc1	Kcnc2	Kcna1	Kcnc3	Kcna2	Kcnc4	Kcna3	Kcna4	Kcna5	Kcna6	Kcna7	Kcnv1	Kcnv2	Kcnh1	Kcnh2
+Fasudil	IDG_Drug_Targets_2022	Rps6ka5	Rock1	Rock2	Prkce	Pkn1	Pkn2	Mylk	Kcnh2	Prkaca
+Fedratinib	IDG_Drug_Targets_2022	Cdk18	Epha6	Acvr1	Epha8	Epha7	Dclk3	Mapk15	Dclk2	Dclk1	Mapk10	Tek	Ulk3	Sik2	Ulk2	Ankk1	Sik3	Ulk1	Cdk14	Epha2	Cdk15	Epha1	Sik1	Cdk16	Epha4	Cdk17	Epha3	Prkaa2	Tesk1	Prkaa1	Nuak2	Chek1	Kdr	Pip4k2b	Pip4k2c	Musk	Srpk3	Yes1	Insr	Plk4	Srms	Dmpk	Plk1	Plk3	Plk2	Prkce	Ptk6	Nuak1	Srpk1	Ptk2	Srpk2	Lats2	Btk	Prkd3	Txk	Mylk	Dstyk	Tbk1	Pip5k1a	Lyn	Insrr	Ripk4	Braf	Tyk2	Coq8a	Pi4kb	Camk1	Coq8b	Sgk3	Itk	Ddr2	Acvrl1	Ddr1	Ret	Stk33	Stk36	Stk38	Stk39	Ripk2	Ripk1	Brd4	Map4k2	Map4k3	Cdkl5	Map4k1	Csnk2a2	Csnk2a1	Syk	Tnni3k	Cit	Hck	Gak	Kit	Stk17b	Taok2	Taok3	Nek11	Pkn1	Taok1	Cdkl2	Brdt	Camkk1	Camkk2	Ikbkb	Riok1	Riok3	Riok2	Jak3	Ikbke	Jak1	Jak2	Map3k3	Map3k4	Pdgfrb	Pdgfra	Map3k2	Matk	Prpf4b	Hipk2	Hipk1	Hipk4	Ern1	Hipk3	Melk	Axl	Frk	Rock1	Rock2	Aurka	Egfr	Aurkc	Aurkb	Slk	Pak2	Pak1	Map3k9	Map3k7	Pak4	Pak6	Pak5	Map2k4	Nek9	Map2k5	Map2k2	Map2k3	Nek5	Map2k1	Nek6	Nek7	Tnk2	Dyrk1b	Mink1	Cask	Map3k19	Stk25	Stk26	Fgfr1	Map3k10	Map3k11	Bmp2k	Fgfr4	Fgfr3	Map3k12	Fgfr2	Map3k13	Csf1r	Blk	Igf1r	Stk10	Stk11	Stk16	Abl2	Mark1	Nek1	Tnk1	Nek2	Nek3	Abl1	Nek4	Ros1	Mark4	Mark3	Mark2	Limk1	Eif2ak2	Eif2ak1	Limk2	Eif2ak4	Irak4	Bmx	Mertk	Clk4	Tgfbr2	Clk2	Cdk9	Clk1	Fes	Cdk7	Fer	Pik3ca	Cdk4	Aak1	Alk	Bmpr1b	Bmpr2	Nim1k	Lrrk2	Tssk1	Grk4	Erbb4	Irak3	Mknk1	Mknk2	Irak1	Prkg2	Prkg1	Ntrk2	Ntrk3	Camk1d	Ntrk1	Dapk2	Chuk	Dapk1	Dapk3	Tie1	Sbk3	Fgr	Wee1	Lck	Sbk1	Wee2	Zap70	Rps6kb1	Snrk	Met	Camk1g	Mylk2	Ephb6	Mylk3	Flt1	Src	Ltk	Flt3	Flt4	Camk2a	Camk2b	Ttk	Acvr1b	Mylk4	Pik3cg	Rps6ka5	Rps6ka4	Mapk9	Mapk8	Rps6ka6	Phkg2	Rps6ka1	Phkg1	Rps6ka3	Rps6ka2	Ptk2b	Tlk2	Ephb1	Tlk1	Csk	Fyn	Camk2g	Mapk7	Ephb2	Mapk6	Ephb4
+Felodipine	IDG_Drug_Targets_2022	Aox1	Cacna1c	Adora3	Nr1h4	Scn3a	Cacna1d	Scn1a	Scn2a	Cacna1h	Cftr
+Femoxetine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Drd2	Htr1a	Slc6a2	Slc6a3	Slc6a4
+Fenfluramine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Htr1a	Htr2b	Adra1b	Adra2c	Htr6	Adra1a	Adra2b	Slc6a4	Adra2a	Htr7
+Fenofibrate	IDG_Drug_Targets_2022	Ache	Ppara	Htr2c	Adora3	Pparg	Htr2a	Adrb3	Drd3	Slc6a2	Slc6a3	Fabp1
+Fenoldopam	IDG_Drug_Targets_2022	Adora2b	Drd1	Gfer	Adra1d	Drd2	Adra1b	Drd4	Adra1a	Drd5
+Fentanyl	IDG_Drug_Targets_2022	Sigmar1	Hrh1	Oprd1	Slc22a1	Maob	Maoa	Oprk1	Oprm1	Kcnh2
+Fesoterodine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Filgotinib	IDG_Drug_Targets_2022	Csf1r	Flt3	Flt4	Jak3	Tyk2	Jak1	Jak2	Kcnh2
+Finasteride	IDG_Drug_Targets_2022	Srd5a2	Hsd3b1	Srd5a1
+Fingolimod	IDG_Drug_Targets_2022	Sgpl1	S1pr1	S1pr4	S1pr3	S1pr5	Trpm7
+Flavoxate	IDG_Drug_Targets_2022	Pde4d	Pde4c	Pde4b	Pde4a	Pde7b	Pde7a	Pde8b	Pde8a	Kcnh2
+Flecainide	IDG_Drug_Targets_2022	Hcn4	Kcnc1	Kcnd2	Scn5a	Kcna5	Kcna7	Scn4a	Kcnh2
+Flibanserin	IDG_Drug_Targets_2022	Htr2c	Htr2a	Drd2	Htr1a	Htr2b	Drd3	Drd4	Htr5a
+Fludarabine Phosphate	IDG_Drug_Targets_2022	Pola1	Rrm2	Rrm1	Car5a	Adora2a	Adora3	Adora1
+Flufenamic Acid	IDG_Drug_Targets_2022	Akr1b1	Trpa1	Tas2r110	Mpo	Ptgs1	Ptgs2	Ar	Trpm2	Ttr	Kcnt2	Naprt	Akr1b7	Kcnk2	Trpm4	Tead4	Trpm5
+Flumazenil	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Flunarizine	IDG_Drug_Targets_2022	Sigmar1	Oprk1	Oprm1	Htr1a	Adra2c	Pgrmc1	Adra2b	Adra2a	Kcnk2	Scn2a	Chrm3	Chrm4	Chrm1	Oprd1	Chrm5	Htr2c	Cacna1b	Htr2a	Adra1d	Htr2b	Cacna1g	Slc6a2	Adra1b	Slc6a3	Adra1a	Cacna1i	Slc6a4	Cacna1h	Hrh1	Cnr1	Adora3	Drd1	Rce1	Scn3a	Drd2	Drd3	Scn1a	Kcnh2
+Flunitrazepam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Fluoxetine	IDG_Drug_Targets_2022	Sigmar1	Kcnj6	Htr1f	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Kcnk2	Slc29a4	Ache	Chrm3	Chrm4	Chrm1	Chrm2	Kcnc1	Chrm5	Htr2c	Adrb1	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Hrh1	Hrh3	Cyp2d10	Drd3	Kcnh2
+Flupentixol	IDG_Drug_Targets_2022	Sigmar1	Hrh1	Slc22a1	Drd1	Htr2a	Drd2	Htr1a	Drd3	Kcnk2	Drd4	Adra1a	Drd5
+Fluphenazine	IDG_Drug_Targets_2022	Htr1b	Oprm1	Htr1a	Tacr2	Htr5a	Kcnk2	Chrm3	Chrm4	Chrm1	Chrm2	Oprd1	Adcy1	Chrm5	Adcy5	Htr2c	Adcy4	Adcy3	Htr2a	Adcy2	Adra1d	Adrb3	Htr2b	Adcy8	Adra1b	Egfr	Adra1a	Adcy6	Hrh2	Hrh1	Erbb2	Adora3	Drd1	Scn3a	Drd2	Drd3	Drd4	Drd5	Kcnh2	Sigmar1	Oprk1	Adra2c	Pgrmc1	Adra2b	Adra2a	Ar	Mc5r	Scn2a	Slc6a2	Htr6	Slc6a3	Slc6a4	Htr7	Tpr	Fyn	Scn1a
+Fluphenazine Enanthate	IDG_Drug_Targets_2022	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5
+Flurbiprofen	IDG_Drug_Targets_2022	Fabp2	Ptgs1	Fabp1	Ptgs2
+Fluspirilene	IDG_Drug_Targets_2022	Htr1b	Adrb1	Adrb2	Htr2a	Htr1a	Htr2b	Oprl1	Adra2c	Htr6	Adra2b	Adra2a	Glra1	Hrh1	Drd2	Drd3	Drd4	Kcnh2
+Flutamide	IDG_Drug_Targets_2022	Ar	Abcb11	Cyp1a2	Htr6	Htr4
+Fluvastatin	IDG_Drug_Targets_2022	Rxra	Slc10a1	Nr1i3	Hmgcr
+Fluvoxamine	IDG_Drug_Targets_2022	Sigmar1	Cyp1a2	Slc6a2	Slc6a3	Slc6a4
+Formoterol	IDG_Drug_Targets_2022	Hsp90aa1	Adrb1	Adrb2	Adrb3	Drd2	Drd3
+Fospropofol	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabrd
+Fulvestrant	IDG_Drug_Targets_2022	Esrra	Nr1i2	Ephx2	Gper1	Nr1h4	Pgr	Esr1	Esr2
+Furosemide	IDG_Drug_Targets_2022	Car13	Car12	Gpr35	Slc12a1	Slc12a2	Cisd1	Atp1a1	Car2	Car1	Car4	Car5b	Car5a	Car6	Car7	Car9	Car14	Hsd11b1
+Gabapentin	IDG_Drug_Targets_2022	Grin3a	Slc7a5	Gabbr2	Cacna2d2	Cacna2d1	Kcnq3	Scn5a	Kcnq5	Adora1	Adra2a
+Gabexate	IDG_Drug_Targets_2022	Slc47a1	Aoc3	Hpn	F10	Slc22a2	Plau	F2	Plat	Plg	Klkb1	Tpsb2
+Gamolenic Acid	IDG_Drug_Targets_2022	Ppara	Ffar1	Srd5a2	Pparg	F3	Ppard
+Gefitinib	IDG_Drug_Targets_2022	Epha6	Map3k3	Epha5	Lyn	Epha8	Map3k2	Dclk3	Irak4	Braf	Hipk4	Cdk7	Mapk10	Axl	Ulk3	Sik2	Tnik	Epha1	Abcg3	Epha3	Frk	Ret	Egfr	Slk	Nuak2	Erbb4	Stk36	Csnk1d	Irak3	Mknk1	Erbb2	Mknk2	Chek2	Erbb3	Irak1	Kdr	Pip4k2c	Ripk2	Map2k5	Dmpk	Dapk3	Tnk2	Mink1	Csnk1e	Ptk6	Cit	Hck	Bace1	Fgr	Gak	Map3k19	Lck	Sbk1	Kit	Stk17b	Prkd1	Met	Mylk2	Blk	Ephb6	Src	Ltk	Flt3	Txk	Tuba1a	Nlk	Stk10	Rps6ka4	Mapk9	Phkg2	Phkg1	Abl2	Ephb1	Abl1	Pim3	Mapk6	Ephb4	Mapk4
+Gemcitabine	IDG_Drug_Targets_2022	Pola1	Pole	Rrm2	Pold1	Rrm1	Dck	Tyms	Cmpk1
+Gemfibrozil	IDG_Drug_Targets_2022	Ttr	Ppara	Lpl	Cisd1	Fabp1
+Gentian Violet	IDG_Drug_Targets_2022	Oprk1	Oprm1	Tacr2	Adra2c	Adra2b	Adra2a	Ar	Adora2a	Ache	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2a	Adra1d	Cyp3a13	Adra1b	Egfr	Slc6a3	Hrh2	Cyp2d10	Adora3	Drd1	Drd2	Fyn	Drd3
+Gentisic Acid	IDG_Drug_Targets_2022	Car12	Car2	Car1	Alox5	Car7	Car9	Car14
+Gepirone	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr2a	Adra1d	Drd2	Htr1a	Adra1b	Adra1a
+Gilteritinib	IDG_Drug_Targets_2022	Ret	Ltk	Ntrk1	Axl	Flt3	Ros1	Mertk	Alk
+Glibenclamide	IDG_Drug_Targets_2022	Abcb11	Kcnj11	Abcc8	Abcc9	Nlrp3	Pparg	Cisd1	Trpm4	Cftr	Kcnh2
+Glucagon	IDG_Drug_Targets_2022	Adcy1	Gcgr	Glp1r	Adcy5	Adcy4	Adcy3	Adcy2	Adcy8	Adcy6
+Glutamic Acid	IDG_Drug_Targets_2022	Gsr	Grin1	Glud1	Gria2	Gria3	Gria1	Slc1a1	Slc1a2	Grik4	Slc1a3	Grik5	Grik2	Grik3	Slc1a6	Grik1	Grm2	Grm1	Grm4	Grm3	Grm6	Grm5	Grm8	Grm7	Adora3	Gria4
+Glycine	IDG_Drug_Targets_2022	Grin3a	Or51e2	Grin2b	Grin2a	Grin3b	Slc6a9	Grin2d	Grin2c	Grin1
+Glycopyrronium Bromide	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Gossypol	IDG_Drug_Targets_2022	Mpg	Kif11	Mdh2	Akr1b1	Slc2a1	Esr1	Ldhb	Ldha	Bcl2l1	Bcl2	Mdh1	Mcl1	Bcl2l2
+Gramicidin	IDG_Drug_Targets_2022	Ednra	Lck	Mc5r	Tbxas1	Mc4r	Atp1a2	Fyn	Tacr2
+Granisetron	IDG_Drug_Targets_2022	Chrnb2	Chrna4	Slc47a1	Chrna3	Slc22a2	Htr3b	Htr3a	Kcnh2
+Guanabenz	IDG_Drug_Targets_2022	Slc22a1	Maoa	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Taar1	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Nisch
+Guanethidine	IDG_Drug_Targets_2022	Adra1d	Slc6a2	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Guanfacine	IDG_Drug_Targets_2022	Nisch	Htr2c	Htr2a	Adra1d	Htr2b	Adra2c	Adra1a	Adra2b	Adra2a
+Guanidine	IDG_Drug_Targets_2022	Kcnf1	Kcnh3	Kcnh4	Kcnd1	Kcnh5	Kcnd2	Kcnh6	Kcnb1	Kcnd3	Kcnh7	Kcnh8	Kcns1	Kcns2	Kcnq1	Kcns3	Kcnq2	Kcnq3	Kcnq4	Kcna10	Kcnq5	Kcng1	Kcng2	Kcng3	Kcng4	Kcnc1	Kcnc2	Kcna1	Kcnc3	Kcna2	Kcnc4	Kcna3	Kcna4	Kcna5	Kcna6	Kcna7	Kcnv1	Kcnv2	Kcnh1	Kcnh2
+Halazepam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Haloperidol	IDG_Drug_Targets_2022	Kcnj6	Htr1f	Htr1b	Oprm1	Htr1a	Htr5a	Calm2	Kcnk2	Calm3	Calm1	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Oprd1	Adcy1	Chrm5	Adcy5	Htr2c	Adcy4	Adcy3	Adrb2	Htr2a	Adcy2	Adra1d	Htr2b	Adcy8	Adra1b	Adra1a	Adcy6	Hrh2	Hrh1	Ap2s1	Drd1	Scn3a	Drd2	Drd3	Drd4	Drd5	Kcnh1	Slc18a3	Zfp664	Kcnh2	Sigmar1	Oprk1	Adra2c	Pgrmc1	Adra2b	Adra2a	Scn2a	Tmem97	Slc6a2	Htr6	Slc6a4	Htr7	Ebp	Scn1a
+Haloprogin	IDG_Drug_Targets_2022	Htr2c	Oprk1	Htr2a	Tacr2	Slc6a2	Adra2c	Htr6	Slc6a3	Adra2b	Slc6a4	Adra2a	Gale	Adora3	Drd1	Drd3
+Halothane	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Kcnk10	Kcnk9	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk18	Gabrg3	Gabrg2	Glra1	Glrb	Kcnk2	Gabre	Kcnk3	Gabrd
+Hesperetin	IDG_Drug_Targets_2022	Car12	Gsk3b	Kdm1a	Car4	Car7	Cyp1b1	Dpp4
+Hexachlorophene	IDG_Drug_Targets_2022	Hspa5	Hspa8	Mif	Tacr2	Esr1	Adra2c	Esr2	Adra2a	Mapk14	Ar	Lck	Tbxas1	Adora2a	Cyp1a2	Hspa1b	Dld	Ache	Vcp	Napepld	Htr2c	Atp1a2	Htr2b	Egfr	Slc6a4	Ptgs2	Erbb2	Mapk3	Adora3	Mapk1	Fyn
+Hexamethonium	IDG_Drug_Targets_2022	Chrnd	Chrna1	Chrnb2	Chrna4	Chrnb4	Chrna6	Chrng	Chrnb1
+Hexamidine	IDG_Drug_Targets_2022	Try4	St14	Plau	Prmt1	F2
+Hexobarbital	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabra1	Gabra5	Gabrg2
+Hexocyclium	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Histamine	IDG_Drug_Targets_2022	Hrh2	Hrh1	Hrh4	Hrh3	Taar1
+Homatropine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Hydralazine	IDG_Drug_Targets_2022	Ache	Ryr2	Bche	Dnmt3a	Dnmt3c	Alox15	Aox1	Cacna1c	Mpo	Lpo	Dnmt1
+Hydrochlorothiazide	IDG_Drug_Targets_2022	Slc12a3	Car2	Car1	Car4	Kcnma1
+Hydrocortisone	IDG_Drug_Targets_2022	Anxa1	Nos2	Nr3c2	Nr3c1	Serpina6	Shbg
+Hydroquinidine	IDG_Drug_Targets_2022	Scn5a	Scn4b	Scn2b	Scn3b	Kcnh2	Scn1b
+Hydroquinone	IDG_Drug_Targets_2022	Ache	Car13	Car12	Car2	Car1	Car4	Car3	Car5b	Car5a	Car9	Car14
+Hydroxycarbamide	IDG_Drug_Targets_2022	Car2	Rrm2	Rrm1	Car5a	Car9
+Hydroxychloroquine	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Hba-a1	Tmem97	Adra1d	Adra2c	Adra2b	Adra2a	Tlr9	Tlr7	Kcnh2
+Hydroxyprogesterone Caproate	IDG_Drug_Targets_2022	Ar	Mapk3	Adora3	Pgr	Nr3c1	Slc6a3	Serpina6	Shbg
+Hymecromone	IDG_Drug_Targets_2022	Car12	Maob	Akr1b1	Hsd17b3	Car9
+Hyoscyamine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Ibrutinib	IDG_Drug_Targets_2022	Yes1	Blk	Lyn	Ret	Src	Txk	Ptk6	Bmx	Egfr	Hck	Tec	Fgr	Lck	Fer	Erbb4	Erbb2	Btk	Abl1	Csk	Fyn	Jak3	Itk	Fgfr2	Kcnh2
+Ibuprofen	IDG_Drug_Targets_2022	Slc22a6	Ptgs1	Ptgs2	Slc5a8	Dhrs9	Alb	Alox5	Asic1	Fabp1	Ptgds
+Idelalisib	IDG_Drug_Targets_2022	Pik3cb	Pik3ca	Pik3cd	Prkdc	Pik3c3	Pik3cg
+Ifenprodil	IDG_Drug_Targets_2022	Sigmar1	Htr2a	Tmem97	Adra1d	Htr1a	Grin2d	Adra1b	Grin2c	Adra1a	Grin1	Adra2a	Grin2b	Ebp	Grin2a	Hrh1	Kcnh2
+Iloperidone	IDG_Drug_Targets_2022	Sigmar1	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Cckbr	Chrm4	Chrm1	Chrm2	Htr2c	Htr2a	Htr2b	Slc6a2	Htr6	Slc6a3	Adra1a	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5
+Iloprost	IDG_Drug_Targets_2022	Ptgfr	Ptger1	Tbxa2r	Ptger2	Ptgir	Ptger3	Ptger4	Ptgdr
+Imatinib	IDG_Drug_Targets_2022	Car13	Car12	Cdk19	Lyn	Pdgfrb	Epha8	Pdgfra	Braf	Tyk2	Bmx	Clk4	Hipk4	Mapk14	Clk1	Melk	Mapk10	Abcc1	Abcg3	Frk	Raf1	Ddr2	Ddr1	Abcb1a	Htr2a	Egfr	Car2	Hrh2	Car1	Car4	Car3	Car5b	Car5a	Car6	Irak1	Car7	Kdr	Pip4k2c	Car9	Car14	Insr	Nqo2	Plk4	Syk	Tnni3k	Bcr	Fgr	Gak	Lck	Kit	Tbxas1	Fgfr1	Fgfr2	Csf1r	Blk	Slc47a1	Src	Flt3	Slc22a3	Slc22a2	Slc6a4	Mapk9	Mapk8	Abl2	Ephb1	Abl1	Fyn	Ephb4	Jak2
+Imipramine	IDG_Drug_Targets_2022	Kcnj5	Kcnj6	Htr1f	Htr1b	Htr1a	Grin2d	Grin2c	Grin1	Htr5a	Grin3a	Grin3b	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Adra1b	Adra1a	Hrh1	Adora3	Drd1	Scn3a	Drd2	Drd3	Drd4	Drd5	Kcnh1	Kcnh2	Sigmar1	Prnp	Htr3b	Adra2c	Htr3a	Adra2b	Adra2a	Scn2a	Slc22a1	Slc22a2	Slc6a2	Htr6	Slc6a3	Slc6a4	Htr4	Grin2b	Htr7	Grin2a	Smpd1	Scn1a
+Indapamide	IDG_Drug_Targets_2022	Car13	Slc12a3	Car12	Alox15	Car2	Car1	Car4	Car5b	Kcnq1	Car5a	Car6	Car7	Car9	Car14
+Indinavir	IDG_Drug_Targets_2022	Slc47a1	Tbxas1	Cyp3a13	Tacr2
+Indomethacin	IDG_Drug_Targets_2022	Abcb1a	Ptgdr2	Ptger2	Akr1b1	Glo1	Kcna7	Ptgs1	Ptgs2	Ar	Dhrs9	Naprt	Pparg	Nos2	Abcc1	Ptges	Ptgds
+Indoramin	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Drd4	Adra1a	Adra2b	Adra2a
+Infigratinib	IDG_Drug_Targets_2022	Ntrk2	Yes1	Insr	Lyn	Pdgfra	Syk	Braf	Tyk2	Bmx	Lck	Kit	Smo	Fgfr1	Tek	Met	Fgfr4	Fgfr3	Alk	Fgfr2	Ret	Flt1	Src	Flt3	Flt4	Mst1r	Kdr	Ephb1	Abl1	Fyn	Ros1	Jak2
+Ingenol Mebutate	IDG_Drug_Targets_2022	Prkcg	Prkcd	Prkce	Prkd1	Prkcb	Prkca
+Ipratropium	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Slc22a2
+Irinotecan	IDG_Drug_Targets_2022	Abcc4	Ache	Chrm4	Abcb1a	Abcc2	Slc47a1	Mmp1a	Slc22a1	Slc22a3	Slc22a2	Adra2c	Top1	Abcc1	Abcg3
+Isoflurane	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Kcnk10	Kcnk9	Gabra6	Gabra5	Gabra4	Gabrg1	Htr2b	Kcnk18	Gabrg3	Gabrg2	Glra1	Glrb	Kcnk2	Gabre	Kcnk3	Gabrd
+Isoprenaline	IDG_Drug_Targets_2022	Tas2r120	Tas2r114	Tas2r124	Tas2r110	Tas2r118	Tas2r138	Tas2r139	Tas2r135	Tas2r144	Tas2r130	Tas2r126	Tas2r131	Alox15	Adrb1	Adrb2	Adrb3	Drd2	Tas2r119	Drd3	Tas2r108	Drd4	Tas2r137
+Isotretinoin	IDG_Drug_Targets_2022	Or51e2	Crabp1	Hsd17b6	Htr2b	Adra2b	Mapk14	Adh4	Dhrs9	Rarb	Rdh5	Adora3	Mapk1	Rara
+Isradipine	IDG_Drug_Targets_2022	Nr1i2	Cacna1c	Cacna1d	Cacna1f	Cacna1h	Kcnh2
+Istradefylline	IDG_Drug_Targets_2022	Adora2b	Maob	Adora2a	Adora3	Adora1
+Itraconazole	IDG_Drug_Targets_2022	Cyp51	Avpr2	Adrb2	Cyp3a13	Fyn	Cyp8b1	Ccr4
+Ivermectin	IDG_Drug_Targets_2022	Chrm3	Abcb1a	Chrm1	Chrm5	Chrna7	Nr1h4	Atp2a2	Atp2a1	Atp1a1	Slc6a2	Adra2c	Slc6a3	Adra2a	Glra1	Glra2	Glra3	P2rx4	Glrb	Adora3	Drd1	Drd3
+Ixabepilone	IDG_Drug_Targets_2022	Tubb2b	Tubb6	Tubb3	Tubb5	Tubb1	Tubb2a	Tubb4b	Tubb4a
+Kainic Acid	IDG_Drug_Targets_2022	Gria2	Gria3	Gria1	Grik4	Adora3	Grik5	Grik2	Grik3	Grik1	Gria4
+Ketamine	IDG_Drug_Targets_2022	Gria2	Grin3a	Chrna1	Gria3	Grin2b	Gria1	Grin2a	Grin3b	Grin2d	Grin2c	Gria4	Grin1
+Ketanserin	IDG_Drug_Targets_2022	Sigmar1	Htr1f	Htr1b	Htr1a	Adra2b	Adra2a	Htr5a	Htr2c	Htr2a	Adra1d	Htr2b	Adra1b	Htr6	Adra1a	Htr7	Hrh1	Adora3	Drd1	Drd2	Slc18a1	Drd4	Slc18a2	Drd5	Kcnh2
+Ketobemidone	IDG_Drug_Targets_2022	Grin3a	Sigmar1	Oprd1	Oprk1	Oprm1
+Ketoconazole	IDG_Drug_Targets_2022	Cyp51	Htr1b	Tacr2	Pgrmc1	Adra2b	Adra2a	Abcb11	Cyp24a1	Cyp21a1	Tbxas1	Kcna10	Ido1	Abcb1a	Slc28a1	Chrm2	Oprd1	Nr1i2	Slc22a1	Alox15	Adra1d	Cyp3a13	Cyp7a1	Slc6a2	Adra1b	Slc6a3	Adra1a	Cyp19a1	Slc6a4	Cyp17a1	Cyp27b1	Hrh2	Cyp11a1	Aox1	Gnrhr	Kcnh2
+Ketorolac	IDG_Drug_Targets_2022	Pak1	Akr1b1	Ptgs1	Fabp1	Ptgds	Ptgs2
+Ketotifen	IDG_Drug_Targets_2022	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Htr6	Adra2b	Adra2a	Hrh2	Hrh1	Hrh4	Drd1	Drd3
+Labetalol	IDG_Drug_Targets_2022	Sigmar1	Cyp2d10	Adrb1	Adrb2	Rce1	Adra1d	Htr1a	Htr2b	Slc6a2	Adra1b	Slc6a3	Adra1a
+Lacidipine	IDG_Drug_Targets_2022	Ar	Tbxas1	Cacna1c	Adora3	Cacna1d	Cyp3a13	Drd3	Slc6a2
+Lacosamide	IDG_Drug_Targets_2022	Car13	Car12	Dpysl2	Car2	Car1	Car4	Scn9a	Car3	Car5b	Scn10a	Car5a	Car6	Car7	Scn3a	Car9	Scn2a	Car14
+Lamotrigine	IDG_Drug_Targets_2022	Sigmar1	Scn9a	Scn10a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Htr3a	Scn2a
+Lanreotide	IDG_Drug_Targets_2022	Sstr1	Sstr2	Sstr3	Sstr4	Sstr5
+Lansoprazole	IDG_Drug_Targets_2022	Atp4b	Phospho1	Atp4a	Mapt	Fasn	Cyp2d10	Ddah1	Engase	Ido1	Ido2
+Lapatinib	IDG_Drug_Targets_2022	Insr	Map2k5	Pdgfrb	Abcb1a	Pik3c2g	Pik3c2b	Tuba1a	Egfr	Slco1b2	Slk	Stk10	Erbb4	Erbb2	Erbb3	Cdk2	Pi4kb	Ripk2	Abl1	Abcg3	Map2k7
+Laropiprant	IDG_Drug_Targets_2022	Ptgfr	Ptgdr2	Ptger1	Tbxa2r	Ptger2	Ptgir	Ptger3	Ptgdr
+Leflunomide	IDG_Drug_Targets_2022	Slc28a1	Maoa	Cyp1a2	Slc6a2	Slc6a3	Dhodh
+Lenvatinib	IDG_Drug_Targets_2022	Pdgfrb	Ret	Flt1	Pdgfra	Kit	Flt4	Car5a	Fgfr1	Kdr	Egfr
+Levallorphan	IDG_Drug_Targets_2022	Ache	Sigmar1	Oprd1	Oprk1	Oprm1
+Levamfetamine	IDG_Drug_Targets_2022	Sigmar1	Htr1f	Htr1b	Htr2c	Htr2a	Htr3b	Htr1a	Htr2b	Taar1	Htr3a	Htr6	Htr4	Htr5a	Htr7
+Levobunolol	IDG_Drug_Targets_2022	Sigmar1	Adrb1	Adrb2	Adrb3	Htr1a	Slc6a4
+Levobupivacaine	IDG_Drug_Targets_2022	Kcnd3	Ptger1	Cyp2d10	Kcna5	Scn4a	Scn1a	Htr3a	Kcnh2
+Levodopa	IDG_Drug_Targets_2022	Slc7a5	Lck	Alox15	Drd1	Drd2	Fyn	Egfr
+Levomilnacipran	IDG_Drug_Targets_2022	Grin3a	Grin2b	Grin2a	Grin3b	Grin2d	Slc6a2	Grin2c	Slc6a3	Grin1	Slc6a4
+Levonorgestrel	IDG_Drug_Targets_2022	Ar	Pgr	Esr1	Nr3c1	Slc6a4	Shbg
+Levorphanol	IDG_Drug_Targets_2022	Ache	Sigmar1	Oprd1	Slc22a1	Oprk1	Oprm1	Grin2d	Grin2c	Grin1	Grin3a	Grin2b	Grin2a	Grin3b	Scn3a	Scn1a	Scn2a
+Levosulpiride	IDG_Drug_Targets_2022	Htr2c	Drd1	Htr2a	Mpo	Adra1d	Drd2	Htr2b	Drd3	Adra1b	Drd4	Adra1a	Drd5
+Levothyroxine	IDG_Drug_Targets_2022	Ttr	Mdh2	Thrb	Thra	Mif	Nr1h4	Thap1
+Lidocaine	IDG_Drug_Targets_2022	Chrnd	Chrna1	Hcn4	Scn9a	Scn10a	Scn5a	Scn3a	Scn4a	Scn1a	Htr3a	Scn2a	Chrnb1
+Lidoflazine	IDG_Drug_Targets_2022	Scn3a	Scn1a	Scn2a	Slc29a1	Kcnh2
+Lindane	IDG_Drug_Targets_2022	Ar	Gabrb3	Gabra1	Gabrb1	Gabrr1	Gabra6	Gabrg2
+Linoleic Acid	IDG_Drug_Targets_2022	Ppara	Ffar1	Kcnb1	F3	Cyp19a1	Ptgs1	Ptgs2	Fabp3	Fabp4	Ffar4	Pparg	Adora1	Ppard
+Linolenic Acid	IDG_Drug_Targets_2022	Fabp3	Ppara	Ffar1	Pparg	F3	Cyp19a1	Ppard	Ptgs1	Ptgs2
+Linopirdine	IDG_Drug_Targets_2022	Kcnq1	Kcnq2	Kcnq3	Kcnq4	Kcnq5
+Liothyronine	IDG_Drug_Targets_2022	Gabra3	Pcna	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Thrb	Gabra6	Thra	Gabra5	Gabra4	Gabrg1	Thap1	Gabrg3	Gabrg2	Adora1	Gabre	Gabrd
+Lisuride	IDG_Drug_Targets_2022	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Hrh2	Htr7	Hrh1	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Drd5
+Lofepramine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Htr2c	Drd2	Htr1a	Slc6a2	Adra1a	Slc6a4
+Lofexidine	IDG_Drug_Targets_2022	Nisch	Adra1d	Htr1a	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Lonafarnib	IDG_Drug_Targets_2022	Nras	Fntb	Fnta	Hras	Kras
+Loperamide	IDG_Drug_Targets_2022	Sigmar1	Oprk1	Oprm1	Grin2d	Grin2c	Pgrmc1	Sstr5	Tek	Calm2	Calm3	Scn2a	Calm1	Ces2f	Oprd1	Slc22a1	Cacna1a	Adrb2	Adra1d	Htr2b	Adra1b	Adra1a	Slc6a4	Grin2b	Hrh2	Grin2a	Hrh1	Cyp2d10	Aox1	Scn5a	Scn3a	Drd3	Scn1a	Men1
+Loprazolam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabra1	Gabra5	Gabrg2
+Loratadine	IDG_Drug_Targets_2022	Abcb1a	Hrh1	Kcnk9	Nr1i2	Slc6a15	Nr1h4	Htr2b	Kcnh2
+Lorcainide	IDG_Drug_Targets_2022	Scn5a	Scn4b	Scn2b	Scn3b	Scn1b
+Lorlatinib	IDG_Drug_Targets_2022	Ntrk2	Ntrk3	Fes	Fer	Ltk	Ntrk1	Tnk2	Ptk2b	Ros1	Alk	Frk	Ptk2
+Losartan	IDG_Drug_Targets_2022	Abcb1a	Ace	Pde4d	Agtr2	Pde3b	Pde4c	Agtr1b	Pde3a	Pde4b	Pde4a	Gp6
+Lovastatin	IDG_Drug_Targets_2022	Ache	Hdac6	Bche	Hdac1	Nr1i2	Hdac2	Hmgcr	Tacr2	Slc6a2	Itgal	Slc6a3	Ar	Hcar2	Adora1
+Loxapine	IDG_Drug_Targets_2022	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Kcnk2	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Slc6a2	Adra1b	Htr6	Adra1a	Hrh2	Htr7	Kcnt1	Hrh1	Hrh4	Drd1	Drd2	Drd3	Drd4	Drd5
+Lumateperone	IDG_Drug_Targets_2022	Htr2c	Drd1	Htr2a	Drd2	Htr1a	Adra1b	Drd4	Adra1a	Slc6a4
+Lurasidone	IDG_Drug_Targets_2022	Htr7	Htr2a	Drd2	Htr1a	Adra2c	Adra2a
+Lysergide	IDG_Drug_Targets_2022	Htr2c	Adrb1	Adrb2	Htr2a	Htr1a	Htr2b	Htr6	Htr5a	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5
+Mafenide	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car1	Car4	Car5b	Car5a	Car6	Car7	Car9	Car14
+Maprotiline	IDG_Drug_Targets_2022	Kcnj6	Adra2c	Adra2b	Adra2a	Abcg3	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Cyp3a13	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Trpm3	Hrh2	Hrh1	Aox1	Drd1	Drd2	Drd3	Drd5
+Masoprocol	IDG_Drug_Targets_2022	Trpa1	Alox15	Alox12	Esr1	Alox8	Cyp19a1	Igf1r	Ptgs1	Ptgs2	Ar	Ttr	Hsd17b1	Hsd17b2	Alox5
+Mazindol	IDG_Drug_Targets_2022	Sigmar1	Hrh1	Slc6a2	Slc6a3	Slc6a4
+Mecamylamine	IDG_Drug_Targets_2022	Chrna2	Chrnb3	Chrna1	Chrnb2	Chrna4	Chrna3	Chrnb4	Chrna6	Chrna7
+Meclofenamic Acid	IDG_Drug_Targets_2022	Ar	Fabp2	Ttr	Alox5	Mapk1	Ptgs1	Fabp1	Ptgs2
+Medazepam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Medetomidine	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Medroxyprogesterone	IDG_Drug_Targets_2022	Ar	Hrh2	Pgr	Esr1	Nr3c2	Esr2	Nr3c1	Shbg
+Mefenamic Acid	IDG_Drug_Targets_2022	Ache	Akr1b1	Naprt	Trpa1	Mpo	Akr1b7	Ptgs1	Ptgs2
+Mefloquine	IDG_Drug_Targets_2022	Glra1	Abcb1a	Adora2a	Hba-a1	Adora1	Kcnh2
+Megestrol Acetate	IDG_Drug_Targets_2022	Ar	Abcb1a	Pgr	Nr3c1
+Melatonin	IDG_Drug_Targets_2022	Nqo2	Mtnr1b	Mtnr1a	Hrh3	Cyp1b1	Mpo	Htr2b	Rora
+Melperone	IDG_Drug_Targets_2022	Chrm4	Chrm2	Htr2c	Htr2a	Htr1a	Adra1a	Adra2a	Hrh1	Cyp2d10	Drd2	Drd3	Drd4	Kcnh2
+Memantine	IDG_Drug_Targets_2022	Grin3a	Grin2b	Grin2a	Slc22a1	Grin2c	Htr3a	Grin1
+Menadione	IDG_Drug_Targets_2022	Dusp6	Dusp1	Gsr	Tpr	Maob	Maoa	Aox1	Cdc25a	Uchl4	Cdc25b	Ido1	Cdc25c
+Mepacrine	IDG_Drug_Targets_2022	Bche	Prnp	Adra2c	Adra2b	Adra2a	Scn2a	Ache	Chrm3	Chrm4	Chrm1	Chrm2	Pla2g1b	Chrm5	Htr2a	Adra1d	Slc6a2	Adra1b	Ptgs1	Ptgs2	Hrh2	Tpr	Aox1	Scn3a	Drd3	Scn1a
+Mephenytoin	IDG_Drug_Targets_2022	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Mepivacaine	IDG_Drug_Targets_2022	Scn9a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Meprobamate	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Abcb1a	Gabra1	Gabra5	Gabrg2
+Mepyramine	IDG_Drug_Targets_2022	Sigmar1	Hrh1	Cyp2d10	Htr2c	Adora3	Htr2a	Htr2b	Slc6a3	Slc6a4	Adra2a	Kcnh2
+Mequitazine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Tpr	Chrm5
+Mercaptopurine	IDG_Drug_Targets_2022	Abcc4	Pnp2	Abcc5	Tpmt	Ppat	Ptgs1
+Mesalazine	IDG_Drug_Targets_2022	Alox5	Pparg	Tnf	Hao1	Ptgs1	Ptgs2
+Mesoridazine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Htr1a	Htr6	Hrh1	Drd1	Drd2	Drd3	Drd4	Kcnh2
+Mestranol	IDG_Drug_Targets_2022	Ar	Cnr1	Pgr	Esr1	Slc6a2	Slc6a4
+Metergoline	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr1a	Tacr2	Adra2c	Adra2b	Adra2a	Htr5a	Ache	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Htr4	Hrh2	Htr7	Hrh1	Cyp2d10	Drd1	Drd2	Drd3
+Metformin	IDG_Drug_Targets_2022	Ndufa9	Ndufa8	Ndufa7	Ndufa6	Ndufa5	Ndufa4	Ndufa3	Ndufa2	Ndufa1	Ndufc2	Ndufc1	Prkab1	Ndufs8	Ndufs7	Ndufab1	Ndufs6	Ndufa4l2	Ndufs5	Ndufaf3	Ndufs4	Ndufaf4	Ndufs3	Ndufaf1	Ndufs2	Ndufaf2	Ndufs1	Ndufb9	Ndufb8	Ndufa12	Ndufb11b	Ndufb7	Slc22a1	Ndufa13	Ndufb6	Ndufa10	Ndufb5	Slc22a3	Ndufa11	Ndufb10	Ndufb4	Slc22a2	Ndufb3	Ndufb2	Ndufb1	Dpp4	Ndufv3	Ndufv2	Ndufv1
+Methadone	IDG_Drug_Targets_2022	Grin3a	Sigmar1	Oprd1	Chrna10	Oprk1	Oprm1	Kcnh2
+Methamphetamine	IDG_Drug_Targets_2022	Sigmar1	Htr2b	Slc6a2	Taar1	Adra2c	Slc18a2	Slc6a3	Adra2b	Slc6a4	Adra2a
+Methanthelinium	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Methapyrilene	IDG_Drug_Targets_2022	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Htr2b	Slc6a2	Htr6	Slc6a3	Adra2b	Slc6a4	Adra2a	Hrh1	Cyp2d10
+Methaqualone	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabra6	Gabra5	Gabra4	Gabrd	Gabrg2
+Metharbital	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Methazolamide	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Methohexital	IDG_Drug_Targets_2022	Chrna2	Glra1	Chrnb2	Gabrb3	Gabra1	Gabrg2
+Methotrexate	IDG_Drug_Targets_2022	Abcc4	Abcc5	Abcb1a	Abcc2	Slc46a1	Tyms	Dhfr	Fpgs	Abcc1	Folr2	Slc19a1	Abcg3	Folr1
+Methoxamine	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Methoxyflurane	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Glra1	Gabre	Gabrd
+Methscopolamine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Methyldopa	IDG_Drug_Targets_2022	Ddc	Alox15	Fyn	Egfr	Adra2a
+Methylergometrine	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Htr6	Adra2b	Adra2a	Cyp2d10	Drd1	Drd2	Drd3
+Methylparaben	IDG_Drug_Targets_2022	Car12	Car2	Car1	Car7	Car9	Car14
+Methylphenidate	IDG_Drug_Targets_2022	Slc6a2	Adra2c	Slc6a3	Adra2b	Slc6a4	Adra2a
+Methylthioninium Chloride	IDG_Drug_Targets_2022	App	Gsr	Mapt	Maob	Maoa	Txnrd1
+Methysergide	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm1	Chrm2	Htr1f	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra2c	Htr6	Adra2b	Adra2a	Htr5a	Htr7	Hrh1	Bcl2l1	Drd1	Drd2	Drd3	Mcl1
+Metoclopramide	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr3b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Chrm1	Slc22a1	Htr2c	Htr2a	Mpo	Adra1d	Htr2b	Adra1b	Adra1a	Htr4	Cyp2d10	Aox1	Drd2	Drd3
+Mexiletine	IDG_Drug_Targets_2022	Hcn4	Slc22a2	Htr2b	Scn9a	Scn10a	Scn5a	Scn4b	Scn4a	Scn1a	Scn2b	Kcnk3	Scn2a	Scn3b	Kcnh2	Scn1b
+Mezlocillin	IDG_Drug_Targets_2022	Il1r1	Alb	Tbxas1	Pparg	Abcc1	Ptgdr2	Ptger1	Ptger2	Akr1b1	Ptger3	Ptger4	Cyp3a13	Pde11a	Ptgs1	Ptgs2	Car2	Cnr2	Cnr1	Alox5	Adora3	Ptgdr	Ptgds
+Mianserin	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr3b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Scn2a	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Hrh4	Drd1	Scn3a	Drd2	Drd3	Scn1a	Drd4
+Mibefradil	IDG_Drug_Targets_2022	Catsper2	Catsper1	Abcb1a	Catsper4	Catsper3	Kcnk9	Cacna1a	Cacna1c	Cacna1b	Cacna1e	Cyp3a13	Cacna1g	Cacna1i	Cacna1h	Scn9a	Scn5a	Orai1	Scn4a	Scn2a	Kcnh2
+Miconazole	IDG_Drug_Targets_2022	Bche	Htr1b	Oprm1	Tacr1	Htr1a	Tacr2	Mc3r	Adora2a	Agtr2	Alpl	Orai1	Ido1	Ido2	Ache	Chrm3	Chrm4	Chrm1	Chrm2	Oprd1	Htr2c	Adrb1	Htr2a	Adra1d	Adrb3	Atp1a2	Cyp3a13	Htr2b	Egfr	Hrh2	Cyp2d10	Erbb2	Adora3	Drd1	Adora1	Drd2	Drd3	Drd4	Kcnh2	Cyp51	Oprk1	Cyp8b1	Pgrmc1	Adra2b	Adra2a	Ar	Mc5r	Tbxas1	Pgr	Slc6a2	Htr6	Slc6a3	Cyp19a1	Slc6a4	Ptgs2	Cyp17a1	Cnr1	Mc4r	Fyn	Mdh1
+Midazolam	IDG_Drug_Targets_2022	Gabra3	Trhr	Gabra2	Gabrb3	Gabrq	Abcb1a	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Cyp3a13	Gabrg3	Gabrg2	Tspo	Gabre	Gabrd
+Midostaurin	IDG_Drug_Targets_2022	Cdk19	Mapk10	Tek	Ulk3	Sik2	Sik3	Sik1	Prkaa2	Prkaa1	Nuak2	Chek1	Akt3	Akt1	Akt2	Kdr	Pip4k2b	Prkch	Srpk3	Yes1	Plk4	Dmpk	Prkcd	Prkce	Prkca	Nuak1	Srpk1	Srpk2	Lats2	Lats1	Prkd3	Prkcq	Prkd2	Mylk	Dstyk	Tbk1	Pip5k1a	Prkacb	Prkaca	Lyn	Tyk2	Camk1	Sgk3	Ddr1	Ret	Stk33	Map4k2	Map4k3	Map4k1	Csnk2a1	Syk	Hck	Gak	Kit	Stk17b	Pkn1	Pkn2	Tuba1a	Camkk1	Camkk2	Ikbkb	Riok1	Riok3	Riok2	Jak3	Ikbke	Jak1	Map4k4	Jak2	Map4k5	Map3k3	Pdgfrb	Pdgfra	Map3k2	Prpf4b	Hipk2	Hipk4	Ern1	Hipk3	Melk	Axl	Tnik	Frk	Rock1	Rock2	Aurka	Prkx	Egfr	Aurkc	Aurkb	Slk	Pak2	Pak1	Map3k9	Map3k7	Pak3	Map2k4	Map2k3	Tnk2	Dyrk1b	Mink1	Dyrk1a	Map3k19	Stk25	Prpf4	Fgfr1	Map3k10	Map3k11	Bmp2k	Fgfr3	Fgfr2	Map3k13	Brsk1	Csf1r	Blk	Brsk2	Stk10	Stk11	Stk16	Mark1	Pim2	Tnk1	Pim1	Abl1	Pim3	Ros1	Mark4	Map2k6	Mark3	Mark2	Eif2ak2	Eif2ak4	Hunk	Mertk	Clk4	Clk3	Clk2	Clk1	Fer	Pik3ca	Aak1	Alk	Mast1	Gsk3b	Gsk3a	Lrrk2	Tssk1	Stk3	Stk4	Grk1	Grk4	Erbb4	Irak3	Mknk2	Prkg2	Prkg1	Ntrk2	Ntrk3	Camk1d	Ntrk1	Dapk2	Chuk	Dapk1	Pdpk1	Dapk3	Tie1	Fgr	Wee1	Lck	Zap70	Rps6kb1	Tyro3	Met	Camk1g	Ephb6	Mylk3	Flt1	Src	Ltk	Flt3	Flt4	Camk2a	Camk2b	Pik3c2g	Tnks2	Ttk	Pik3c2b	Mylk4	Rps6ka5	Rps6ka4	Mapk9	Mapk8	Rps6ka6	Stk32a	Phkg2	Rps6ka1	Phkg1	Rps6ka3	Rps6ka2	Ptk2b	Csk	Fyn	Camk2g
+Mifepristone	IDG_Drug_Targets_2022	Sigmar1	Nr1i2	Alox15	Oprk1	Oprm1	Cyp3a13	Esr1	Nr3c2	Esr2	Nr3c1	Adra2b	Mapk14	Ar	Fyn	Pgr
+Migalastat	IDG_Drug_Targets_2022	Mgam	Glb1	Agl	Sis	Gaa	Gba2	Gla	Lct
+Miglitol	IDG_Drug_Targets_2022	Mgam	Glb1	Agl	Sis	Gaa	Lct
+Miglustat	IDG_Drug_Targets_2022	Mgam	Ugcg	Agl	Sis	Gaa	Treh	Gba2
+Milrinone	IDG_Drug_Targets_2022	Pde4d	Pde3b	Pde4c	Pde3a	Pde4b	Pde4a	Pde5a
+Mirtazapine	IDG_Drug_Targets_2022	Chrm1	Chrm2	Htr2c	Htr2a	Adra1d	Htr1a	Slc6a2	Adra1b	Adra2c	Htr3a	Adra1a	Adra2b	Adra2a	Htr7	Hrh1	Drd1	Drd2	Drd3
+Mitotane	IDG_Drug_Targets_2022	Cyp11a1	Fdx1	Adora3	Htr2b	Slc6a2	Htr6	Slc6a3	Slc6a4	Adra2a
+Mitoxantrone	IDG_Drug_Targets_2022	Abcc2	Dyrk1a	Apex1	Btk	Abcc1	Abcg3	Chrm4	Abcb1a	Chrm1	Mpg	Slc47a1	Chrm2	Slc22a1	Slc22a3	Slc22a2	Top2a	Alox15	Htr2c	Slc6a2	Egfr	Erbb2	Pim1	Fyn	Ros1	Kcnh2
+Modafinil	IDG_Drug_Targets_2022	Cyp1a2	Drd2	Adra1b	Slc6a3
+Molindone	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Htr2c	Htr2a	Htr1a	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4
+Monobenzone	IDG_Drug_Targets_2022	Alox15	Slc6a2	Tyr	Ptgs1	Ptgs2
+Montelukast	IDG_Drug_Targets_2022	Chrm3	Gpr17	Chrm1	Oprd1	Adrb2	Adrb3	Htr2b	Tacr2	Slc6a2	Adra2c	Egfr	Slc6a3	Adra2a	Mapk14	Cysltr1	Tbxas1	Alox5	Adora3	Fyn	Drd3
+Morphine	IDG_Drug_Targets_2022	Sigmar1	Oprd1	Slc22a1	Oprk1	Drd1	Oprm1	Drd2	Oprl1	Drd3	Drd4	Drd5
+Mosapride	IDG_Drug_Targets_2022	Sigmar1	Htr2c	Htr3b	Cyp3a13	Htr2b	Htr3a	Adra2b	Slc6a4	Adra2a	Htr4	Cyp1a2	Kcnh2
+Moxonidine	IDG_Drug_Targets_2022	Nisch	Htr1a	Adra2c	Adra2b	Adra2a
+Nabumetone	IDG_Drug_Targets_2022	Maoa	Cyp1a2	Slc6a2	Ptgs1	Ptgs2
+Nafamostat	IDG_Drug_Targets_2022	C1rb	Try4	Hpn	C1s1	F10	Klk1b24	St14	Tmprss2	F2	Plg	Asic3	Tpsb2	Asic1	Asic2	Hgfac
+Naftopidil	IDG_Drug_Targets_2022	Adrb2	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Nalfurafine	IDG_Drug_Targets_2022	Oprd1	Hcrtr1	Mapk3	Oprk1	Mapk1	Oprm1	Oprl1
+Naloxone	IDG_Drug_Targets_2022	Sigmar1	Oprd1	Cyp2d10	Oprk1	Adora3	Oprm1	Ccr5
+Naltrexone	IDG_Drug_Targets_2022	Sigmar1	Chrna4	Oprd1	Cyp2d10	Chrna7	Oprk1	Oprm1
+Nandrolone	IDG_Drug_Targets_2022	Ar	Slc22a1	Pgr	Serpina6	Shbg
+Nandrolone Decanoate	IDG_Drug_Targets_2022	Ar	Slc22a1	Pgr	Serpina6	Shbg
+Naphazoline	IDG_Drug_Targets_2022	Nisch	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Naproxen	IDG_Drug_Targets_2022	Lipe	Ptgs1	Ptgds	Ptgs2
+Naratriptan	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr1a
+Nefazodone	IDG_Drug_Targets_2022	Ache	Htr2c	Htr2a	Cyp3a13	Htr1a	Slc6a2	Slc6a3	Adra1a	Adra2b	Slc6a4	Abcb11	Hrh1	Drd2
+Nefopam	IDG_Drug_Targets_2022	Htr2c	Scn5a	Htr2a	Htr2b	Slc6a2	Slc6a3	Slc6a4
+Nelfinavir	IDG_Drug_Targets_2022	Abcb1a	Oprd1	Chrm5	Alox15	Oprk1	Oprm1	Adrb3	Cyp3a13	Tacr2	Slc6a2	Egfr	Slc6a3	Mapk14	Ar	Lck	Tbxas1	Mapk3	Adora3	Drd1	Fyn	Pgr
+Nemonapride	IDG_Drug_Targets_2022	Htr2a	Drd2	Drd3	Drd4	Adra1a
+Neratinib	IDG_Drug_Targets_2022	Map3k3	Map3k4	Map3k2	Hipk4	Melk	Mapk10	Axl	Tek	Sik2	Tnik	Sik1	Cdk16	Mst1r	Egfr	Slk	Nuak2	Pak2	Pak1	Chek1	Chek2	Kdr	Map3k9	Pak6	Yes1	Insr	Map2k5	Map2k2	Map2k1	Tnk2	Mink1	Csnk1e	Nuak1	Ptk2	Map3k19	Stk24	Stk25	Stk26	Map3k10	Prkd1	Btk	Map3k11	Prkd3	Prkd2	Map3k12	Map3k13	Csf1r	Blk	Txk	Stk10	Dstyk	Nek2	Nek3	Abl1	Map2k7	Lyn	Insrr	Eif2ak4	Mertk	Fes	Cdk7	Fer	Mast1	Stk3	Stk4	Stk33	Stk35	Erbb4	Stk36	Erbb2	Erbb3	Irak1	Map4k2	Map4k3	Camk1d	Map4k1	Syk	Tie1	Hck	Fgr	Gak	Wee1	Lck	Wee2	Stk17b	Taok3	Met	Csnk1g3	Csnk1g2	Ephb6	Src	Flt3	Mapk8	Rps6ka1	Rps6ka2	Ptk2b	Csk	Fyn	Jak3	Stk32b	Map4k4	Map4k5
+Nicardipine	IDG_Drug_Targets_2022	Abcb1a	Nr1i2	Cacna1c	Kcna4	Adra1d	Cacna1d	Cyp3a13	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Cacna1h	Adora2a	Cacna1s	Adora3	Adora1	Mdh1	Slc29a1	Abcg3
+Niclosamide	IDG_Drug_Targets_2022	Lyn	Gsk3b	Src	Pdpk1	Stat3	Aurka	Egfr	Kcnt1	Kit	Akt1	Fgfr1	Tek	Kdr	Jak2
+Nicotinamide	IDG_Drug_Targets_2022	Hcar2	Faah	Nnmt	Qprt	Sarm1	Sirt5	Sirt1	Sirt2	Sirt3
+Nicotine	IDG_Drug_Targets_2022	Chrnb3	Chrnb2	Chrnb4	Kcnd3	Trpa1	Htr3b	Htr3a	Cyp2a12	Chrnb1	Chrm3	Chrna2	Chrm4	Chrna1	Chrm1	Chrna4	Chrm2	Chrna3	Chrna6	Chrna5	Chrm5	Chrna7	Chrna9	Chrnd	Chrng	Chrna10
+Nicotinic Acid	IDG_Drug_Targets_2022	App	Hcar2	Nnmt	Nampt	Qprt
+Nifedipine	IDG_Drug_Targets_2022	Ccr2	Bche	Gsr	Abcb11	Glrb	Tbxas1	Adora2a	Cyp1a2	Kcnk2	Scn2a	Ido1	Ido2	Ache	Slc28a1	Kcna1	Kcna2	Alox15	Cacna1c	Htr2c	Kcna5	Htr2a	Cacna1d	Cyp3a13	Kcna7	Cacna1f	Mylk	Cacna1h	Glra1	Ttr	Glra3	Cacna1s	Adora3	Pde4a	Scn3a	Adora1	Scn1a	Kcnh2
+Niflumic Acid	IDG_Drug_Targets_2022	Ttr	Kcnt2	Gpr35	Clcnkb	Dhodh	Ptgs1	Ptgs2	Tead4
+Nilotinib	IDG_Drug_Targets_2022	Car13	Epha6	Car12	Epha5	Lyn	Pdgfrb	Epha8	Pdgfra	Braf	Cdc42bpb	Bmx	Clk4	Mapk14	Mapk11	Clk1	Mapk10	Tek	Epha2	Epha1	Epha4	Epha3	Frk	Raf1	Ddr2	Ddr1	Ret	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Pip4k2c	Car9	Car14	Ntrk2	Yes1	Insr	Map2k5	Nqo2	Ntrk3	Map4k1	Tie1	Tnni3k	Hck	Bcr	Fgr	Lck	Kit	Taok3	Fgfr1	Taok1	Fgfr2	Csf1r	Blk	Ephb6	Src	Flt3	Stk10	Mapk9	Mapk8	Abl2	Ephb1	Abl1	Csk	Fyn	Ephb3	Ephb2	Ephb4	Jak2
+Nimesulide	IDG_Drug_Targets_2022	Slc6a19	Mmp1a	Mpo	Pde4a	Slc6a3	Cyp19a1	Ptgs1	Ptgs2
+Nimodipine	IDG_Drug_Targets_2022	Slc28a1	Nr1i2	Cacna1c	Nr1h4	Cacna1d	Cyp3a13	Nr3c2	Cacna1f	Cacna1h	Cnr1	Adora2a	Cacna1s	Adora3	Cacng1	Adora1
+Nintedanib	IDG_Drug_Targets_2022	Cdk18	Epha6	Acvr1	Dclk3	Dclk1	Mapk10	Tek	Ulk3	Sik2	Ulk2	Ulk1	Cdk14	Epha2	Epha1	Sik1	Cdk16	Cdk17	Epha3	Prkaa2	Prkaa1	Nuak2	Chek1	Csnk1d	Kdr	Pip4k2b	Musk	Srpk3	Yes1	Insr	Plk4	Csnk1e	Nuak1	Srpk1	Ptk2	Srpk2	Lats2	Lats1	Prkd1	Btk	Prkd3	Prkcq	Prkd2	Txk	Mylk	Tbk1	Pip5k1a	Lyn	Insrr	Ripk4	Tyk2	Camk4	Camk1	Sgk3	Itk	Ddr2	Acvrl1	Ddr1	Ret	Stk33	Stk35	Stk39	Ripk1	Map4k2	Map4k3	Map4k1	Csnk2a2	Csnk2a1	Hck	Kit	Stk17b	Pkn1	Pkn2	Cdkl2	Camkk1	Camkk2	Riok1	Riok3	Jak3	Ikbke	Jak1	Map4k4	Jak2	Map4k5	Map3k3	Pdgfrb	Pdgfra	Map3k2	Prpf4b	Hipk2	Hipk1	Hipk4	Ern1	Hipk3	Melk	Axl	Tnik	Frk	Aurkc	Aurkb	Slk	Pak2	Map3k9	Map3k7	Pak4	Pak3	Kcnh2	Pak5	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Tnk2	Dyrk1b	Mink1	Map3k19	Stk24	Stk26	Fgfr1	Map3k10	Map3k11	Bmp2k	Fgfr4	Map3k15	Fgfr3	Map3k12	Fgfr2	Map3k13	Csf1r	Blk	Igf1r	Stk10	Stk11	Stk16	Abl2	Mark1	Tnk1	Abl1	Ros1	Mark4	Mark3	Mark2	Eif2ak4	Irak4	Mertk	Tgfbr1	Clk4	Clk2	Clk1	Fes	Cdk7	Fer	Cdk4	Myo3b	Cdk2	Aak1	Alk	Mast1	Abcb1a	Bmpr2	Gsk3b	Gsk3a	Lrrk2	Tssk1	Stk3	Stk4	Grk1	Grk4	Irak3	Irak1	Prkg1	Ntrk2	Ntrk3	Camk1d	Ntrk1	Dapk2	Chuk	Pdpk1	Dapk3	Tie1	Oxsr1	Sbk3	Fgr	Wee1	Lck	Sbk1	Zap70	Rps6kb1	Tyro3	Met	Camk1g	Mylk2	Ephb6	Mylk3	Flt1	Src	Ltk	Flt3	Flt4	Camk2a	Ttk	Acvr1b	Mylk4	Rps6ka5	Rps6ka4	Mapk8	Rps6ka6	Phkg2	Rps6ka1	Phkg1	Rps6ka3	Rps6ka2	Ptk2b	Ephb1	Fyn	Mapk7	Ephb4
+Niraparib	IDG_Drug_Targets_2022	Parp12	Parp4	Parp10	Parp2	Parp3	Tnks	Parp1	Tnks2	Parp14
+Nisoldipine	IDG_Drug_Targets_2022	Cacna1a	Adora2a	Cacna1c	Cyp1a2	Adora3	Scn3a	Cacna1d	Scn1a	Scn2a	Cacna1h	Kcnh2
+Nitrazepam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabra1	Gabrb2	Gabrb1	Gabra4	Gabrg2
+Nitrendipine	IDG_Drug_Targets_2022	Ptafr	Cacna1c	Cacna1d	Cacna1f	Cacna1h	Ttr	Adora2a	Cacna1s	Adora3	Cacng1	Scn3a	Adora1	Kcnn4	Scn1a	Scn2a	Kcnh2
+Nitroxoline	IDG_Drug_Targets_2022	Brd4	Ctsb	Comt	Metap2	Ptgs2
+Nomifensine	IDG_Drug_Targets_2022	Hrh1	Maoa	Hba-a1	Mpo	Htr1a	Slc6a2	Slc6a3	Slc6a4
+Nordazepam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabbr2	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabrr2	Gabre	Gabrd
+Norepinephrine	IDG_Drug_Targets_2022	Adrb1	Adrb2	Oprm1	Adra1d	Adrb3	Adra1b	Adra2c	Slc6a3	Adra1a	Adra2b	Adra2a	Drd1	Drd2
+Norethindrone Acetate	IDG_Drug_Targets_2022	Ar	Pgr	Esr1	Nr3c1	Slc6a4	Shbg
+Norethisterone	IDG_Drug_Targets_2022	Ar	Pgr	Esr1	Esr2	Nr3c1	Slc6a4	Shbg
+Norfloxacin	IDG_Drug_Targets_2022	Gabra3	Top2b	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Slc47a1	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Nortriptyline	IDG_Drug_Targets_2022	Kcnj10	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Chrm3	Chrm4	Ret	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Hrh2	Hrh1	Cyp2d10	Aox1	Drd1	Drd2	Drd3
+Octreotide	IDG_Drug_Targets_2022	Oprm1	Sstr1	Sstr2	Sstr3	Sstr4	Sstr5
+Ofloxacin	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Chrm1	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Slc6a4	Gabrg2	Hrh3	Gabre	Gabrd
+Olanzapine	IDG_Drug_Targets_2022	Htr1f	Htr1b	Gfer	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Alox15	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Aox1	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Olaparib	IDG_Drug_Targets_2022	Parp6	Parp12	Parp4	Parp10	Parp2	Parp3	Tnks	Parp1	Tnks2	Parp16
+Oleic Acid	IDG_Drug_Targets_2022	Faah	Ppara	Ffar1	F3	Cyp19a1	Fabp4	Fabp5	Tert	Ffar4	Pparg	Top1	Ppard	Fabp1
+Oliceridine	IDG_Drug_Targets_2022	Cacna1c	Scn5a	Oprm1	Oprl1	Kcnh2
+Omeprazole	IDG_Drug_Targets_2022	Atp4b	Abcb1a	Atp4a	Fasn	Gsto1	Ddah1	Cyp1a2	Cyp3a13	Engase
+Ondansetron	IDG_Drug_Targets_2022	Sigmar1	Chrnb2	Chrm1	Chrna4	Slc47a1	Slc22a1	Slc22a3	Chrna7	Slc22a2	Htr1b	Htr2c	Htr2a	Htr3b	Oprm1	Htr2b	Htr3a	Htr4	Cckbr	Aox1	Kcnh2
+Orlistat	IDG_Drug_Targets_2022	Faah	Dagla	Daglb	Lpl	Abhd6	Lipc	Pla2g7	Lipg	Lipf	Abhd12	Abhd16a	Fasn	Cnr1	Pnlip
+Orphenadrine	IDG_Drug_Targets_2022	Grin2d	Grin2c	Adra2b	Grin1	Adra2a	Grin3a	Grin3b	Scn10a	Scn4a	Chrm3	Chrm4	Chrm1	Chrm2	Slc22a1	Chrm5	Htr2c	Htr2a	Htr2b	Slc6a2	Htr6	Slc6a4	Grin2b	Hrh2	Grin2a	Hrh1	Scn9a	Cyp2d10	Scn5a	Scn1a	Kcnh2
+Osimertinib	IDG_Drug_Targets_2022	Insr	Erbb3	Egfr	Alk	Ctsc	Kcnh2
+Oxagrelate	IDG_Drug_Targets_2022	Pde1c	Pde1b	Pde1a	Pde3b	Pde3a
+Oxaprozin	IDG_Drug_Targets_2022	AI182371	Shmt2	Ephx2	Fpr1	Ptgs1	Ptgs2
+Oxatomide	IDG_Drug_Targets_2022	Chrm1	Hrh1	Htr2a	Htr2b	Drd3
+Oxiconazole	IDG_Drug_Targets_2022	Ache	Chrm3	Chrm1	Oprd1	Htr2a	Adrb3	Cyp3a13	Htr1a	Htr2b	Tacr2	Slc6a2	Adra2c	Slc6a3	Adra2b	Slc6a4	Adra2a	Cyp2d10	Tbxas1	Adora3	Drd1	Drd3	Ido1
+Oxitriptan	IDG_Drug_Targets_2022	Htr7	Htr2c	Htr2a	Htr1a	Htr2b
+Oxybutynin	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Htr2b	Drd3	Slc6a2	Pgrmc1	Slc6a3
+Oxymetazoline	IDG_Drug_Targets_2022	Chrm4	Chrm5	Htr1b	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Nisch	Cyp2d10
+Oxyphenbutazone	IDG_Drug_Targets_2022	Ptgis	Naprt	Fpr1	Ptgs1	Ptgs2
+Oxytocin	IDG_Drug_Targets_2022	Oxtr	Avpr2	Avpr1a	Avpr1b	Oxt
+Ozanimod	IDG_Drug_Targets_2022	S1pr2	S1pr1	S1pr4	S1pr3	S1pr5
+Paclitaxel	IDG_Drug_Targets_2022	Abcb1a	Oprd1	Nr1i2	Tubb5	Tubb1	Nod2	Tacr2	Tubb2a	Mertk	Tubb4b	Tubb4a	Abcb11	Abcc10	Tubb2b	Tubb6	Cckar	Erbb2	Mc5r	Tubb3	Fyn
+Palbociclib	IDG_Drug_Targets_2022	Ccna2	Cdk9	Cdk6	Flt3	Rps6ka1	Ccnd1	Cdk4	Cdk2	Dyrk1a	Jak3
+Paliperidone	IDG_Drug_Targets_2022	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Htr5a	Ptger3	Htr2c	Adrb1	Adrb2	Htr2a	Htr2b	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Hrh4	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Pancuronium	IDG_Drug_Targets_2022	Chrnd	Chrna1	Chrnb2	Chrna4	Chrng	Chrnb1
+Panobinostat	IDG_Drug_Targets_2022	Brd4	Hdac5	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8
+Pantoprazole	IDG_Drug_Targets_2022	Atp4b	Atp4a	Slc47a1	Fasn	Ddah1	Slc22a2	Atp1a1	Ido2
+Papaverine	IDG_Drug_Targets_2022	Ache	Pde1c	Pde1b	Shmt2	Pde1a	Pde4d	Pde10a	Padi4	Pde2a	Pde3b	Pde3a	Pde4b	Pde4a	Pde5a	Kcnh2
+Paracetamol	IDG_Drug_Targets_2022	Car13	Car12	Nr1i3	Alox15	Alox5ap	Trpv1	Ptgs2	Car2	Car1	Car4	Mb	Car3	Cnr1	Car7	Car9	Car14
+Paraoxon	IDG_Drug_Targets_2022	Ache	Car13	Faah	Bche	Car2	Car1	Cnr1	Mgll
+Paroxetine	IDG_Drug_Targets_2022	Sigmar1	Tacr1	Htr1a	Adra2c	Adra2b	Adra2a	P2rx4	Cyp1a2	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Adrb1	Mpo	Adra1d	Slc6a2	Adra1b	Slc6a3	Adra1a	Slc6a4	Grk2	Cyp2d10	Drd3	Kcnh2
+Pazopanib	IDG_Drug_Targets_2022	Pdgfrb	Map3k1	Pdgfra	Map3k2	Mapk10	Tek	Sik2	Tnik	Sik1	Cdk16	Frk	Raf1	Aurka	Aurkc	Slk	Kdr	Map3k9	Pip4k2c	Map2k4	Yes1	Map2k5	Plk4	Srms	Nek5	Ptk6	Map3k19	Fgfr1	Map3k10	Map3k11	Bmp2k	Fgfr4	Fgfr3	Fgfr2	Csf1r	Blk	Txk	Nlk	Stk10	Stk16	Abl2	Tnk1	Nek2	Pip5k1c	Abl1	Ros1	Map2k6	Mark3	Lyn	Limk1	Eif2ak2	Limk2	Braf	Tyk2	Mertk	Acvr2b	Tgfbr2	Fes	Fer	Pi4kb	Camk1	Aak1	Itk	Alk	Bmpr1b	Ache	Ddr2	Ddr1	Ret	Stk36	Irak3	Irak1	Ripk2	Ripk1	Map4k2	Map4k3	Cdk11b	Map4k1	Syk	Tie1	Hck	Fgr	Gak	Lck	Kit	Taok2	Taok3	Taok1	Met	Camk1g	Mylk2	Ephb6	Flt1	Src	Ltk	Flt3	Flt4	Ttk	Mapk8	Fyn	Riok2	Jak3	Map4k4	Jak2	Map4k5
+Pecazine	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Gfer	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Pgrmc1	Adra1a	Adra2b	Adra2a	Malt1	Hrh1	Drd3
+Pemetrexed	IDG_Drug_Targets_2022	Fpgs	Slc46a1	Shmt1	Gart	Folr2	Slc19a1	Tyms	Folr1	Dhfr
+Penfluridol	IDG_Drug_Targets_2022	Oprd1	Htr2c	Oprk1	Htr2a	Oprm1	Adra1d	Adrb3	Htr1a	Htr2b	Adra2c	Htr6	Adra2b	Htr5a	Hrh2	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5
+Pentamidine	IDG_Drug_Targets_2022	Aoc1l1	F10	St14	Prmt1	S100b	Grin2d	Grin2c	Grin1	Acr	Adra2a	Grin3a	Ptp4a2	Ptp4a3	Grin3b	Ptp4a1	Chrm4	Slc47a1	Chrm2	Try4	Slc22a1	Chrm5	Maoa	Slc22a3	Slc22a2	Htr2c	Htr2a	Adra1d	Plg	Sat1	Slc6a2	Adra1b	Slc6a3	Adra1a	Grin2b	Grin2a	Drd3	Kcnh2
+Pentobarbital	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd	Kcnh2
+Pentoxyverine	IDG_Drug_Targets_2022	Sigmar1	Chrm1	Chrm2	Slc22a1	Prcp	Slc6a3
+Pergolide	IDG_Drug_Targets_2022	Htr1b	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Htr7	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Perhexiline	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Cpt1b	Cpt1a	Chrm5	Adra1d	Cacna1g	Slc6a2	Adra1b	Egfr	Adra1a	Cacna1i	Cacna1h	Cpt2	Cyp2d10	Fyn	Kcnh2
+Perlapine	IDG_Drug_Targets_2022	Hrh4	Htr2a	Drd2	Drd3	Drd4	Htr6
+Perphenazine	IDG_Drug_Targets_2022	Chrm3	Htr2c	Htr2a	Htr1a	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Htr7	Hrh1	Aox1	Drd2	Drd3	Drd4	Kcnh2
+Pethidine	IDG_Drug_Targets_2022	Grin3a	Sigmar1	Oprd1	Slc22a1	Oprk1	Oprm1	Slc6a3	Slc6a4	Kcnh2
+Pexidartinib	IDG_Drug_Targets_2022	Csf1r	Cdk19	Ntrk3	Flt1	Lck	Flt3	Kit	Kdr
+Phenazopyridine	IDG_Drug_Targets_2022	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Phencyclidine	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrna1	Bche	Chrm1	Chrm2	Chrm5	Prcp	Grin2d	Grin2c	Grin1	Grin3a	Grin2b	Grin2a	Grin3b
+Phenelzine	IDG_Drug_Targets_2022	Aoc3	Kdm1a	Maob	Cyp2d10	Maoa	Gfer	Cyp3a13	Slc6a3	Ido1
+Pheniramine	IDG_Drug_Targets_2022	Hrh1	Hrh4	Scn3a	Scn1a	Scn2a
+Phenobarbital	IDG_Drug_Targets_2022	Gabra1	Gabrb2	Nr1i2	Nr1i3	Scn3a	Scn1a	Scn2a	Gabrg2
+Phenol	IDG_Drug_Targets_2022	Car12	Car2	Car1	Car4	Car3	Car9	Car14
+Phenoxybenzamine	IDG_Drug_Targets_2022	Slc22a1	Adra1d	Adra1b	Adra1a	Adra2b	Adra2a	Drd1	Scn3a	Drd2	Drd3	Scn1a	Drd4	Scn2a	Drd5
+Phentolamine	IDG_Drug_Targets_2022	Sigmar1	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Nisch	Hrh1	Cyp2d10	Scn3a	Scn1a	Scn2a	Kcnh2
+Phenylalanine	IDG_Drug_Targets_2022	Slc7a5	Xiap	Cacna2d1	Gpr139	Alpi
+Phenylbutazone	IDG_Drug_Targets_2022	Ptgis	Naprt	Fpr1	Ptgs1	Ptgs2
+Phenylephrine	IDG_Drug_Targets_2022	Adrb1	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Phenylpropanolamine	IDG_Drug_Targets_2022	Chrm1	Htr7	Adra1d	Slc6a2	Adra1b	Adra2c	Slc6a3	Adra1a	Adra2b	Adra2a	Kcnh2
+Phenyltoloxamine	IDG_Drug_Targets_2022	Hrh1	Drd1	Drd2	Drd4	Drd5
+Phenytoin	IDG_Drug_Targets_2022	Scn9a	Nr1i3	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Picrotoxin	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Htr3a	Gabrg3	Gabrg2	Glra1	Glra2	Glrb	Gabre	Gabrd
+Pilocarpine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Pimecrolimus	IDG_Drug_Targets_2022	Il5	Fkbp1a	Ppp3cc	Ifng	Il2
+Pimozide	IDG_Drug_Targets_2022	Sigmar1	Kcnj6	Oprk1	Oprm1	Htr1a	Adra2c	Adra2b	Adra2a	Kcna10	Calm2	Kcnk2	Abcc1	Calm3	Scn2a	Calm1	Chrm3	Abcb1a	Oprd1	Slc22a2	Htr2c	Htr2a	Cacna1g	Htr6	Adra1a	Cacna1i	Cacna1h	Glra1	Htr7	Hrh1	Hrh4	Usp1	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Pindolol	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Adrb3	Htr1a	Htr2b
+Pioglitazone	IDG_Drug_Targets_2022	Car2	Abcb11	Ppara	Maob	Akr1b1	Maoa	Cisd2	Pparg	Cisd1
+Pipamazine	IDG_Drug_Targets_2022	Sigmar1	Chrm5	Htr1b	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Slc6a2	Adra1b	Adra2c	Htr6	Pgrmc1	Adra1a	Adra2b	Slc6a4	Adra2a	Hrh1	Cyp2d10	Drd1	Drd2	Drd3
+Pipamperone	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Htr1a	Htr2b	Adra2c	Adra2b	Adra2a	Hrh1	Drd2	Drd3
+Pipecuronium	IDG_Drug_Targets_2022	Chrna2	Chrnd	Chrna1	Chrnb2	Chrna4	Chrnb4	Chrnb1
+Pirenzepine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Adora3
+Piribedil	IDG_Drug_Targets_2022	Adra1d	Drd2	Htr1a	Htr2b	Drd3	Adra1b	Adra2c	Drd4	Adra1a	Adra2b	Adra2a
+Pirlindole	IDG_Drug_Targets_2022	Maoa	Tead1	Tead2	Tead3	Tead4
+Pitolisant	IDG_Drug_Targets_2022	Bche	Hrh2	Hrh1	Hrh3	Kcnh2
+Pizotifen	IDG_Drug_Targets_2022	Chrm1	Htr7	Htr2c	Htr2a	Drd2	Htr1a	Htr2b
+Plerixafor	IDG_Drug_Targets_2022	Ccr2	Cxcl12	Cxcr4	Ackr3	Ccr4
+Podophyllotoxin	IDG_Drug_Targets_2022	Tubb5	Tubb1	Cyp3a13	Tuba1a	Tuba3b	Tubb2a	Nr3c1	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+Polatuzumab Vedotin	IDG_Drug_Targets_2022	Cd79b	Tubb2b	Tubb6	Tubb3	Tubb5	Tubb1	Tubb2a	Tubb4b	Tubb4a
+Ponatinib	IDG_Drug_Targets_2022	Cdk19	Lyn	Pdgfrb	Ret	Pdgfra	Src	Flt3	Ripk3	Bcr	Cdk8	Kit	Fgfr1	Kdr	Ripk2	Abl1	Csk	Ripk1	Fgfr4	Fgfr3	Fgfr2
+Pralsetinib	IDG_Drug_Targets_2022	Ddr1	Ntrk3	Pdgfrb	Ret	Ntrk1	Flt3	Fgfr1	Kdr	Jak1	Jak2
+Pramipexole	IDG_Drug_Targets_2022	Htr1b	Adrb2	Htr2a	Htr1a	Adra2c	Adra2b	Adra2a	Hrh2	Htr7	Drd2	Drd3	Drd4
+Pramocaine	IDG_Drug_Targets_2022	Sigmar1	Scn3a	Scn1a	Pgrmc1	Scn2a
+Prazosin	IDG_Drug_Targets_2022	Nqo2	Mmp1a	Oprm1	Htr1a	Mmp9	Adra2c	Adra2b	Adra2a	Scn2a	Slc47a1	Slc22a1	Slc22a2	Htr2c	Htr2a	Adra1d	Htr2b	Csn2	Adra1b	Adra1a	Adora3	Scn3a	Drd2	Scn1a	Drd4	Kcnh2
+Prednisolone	IDG_Drug_Targets_2022	Ar	Anxa1	Adam17	Il6	Gpbar1	Glul	Pgr	Nr3c2	Nr3c1	Fabp1	Serpina6
+Prednisolone Tebutate	IDG_Drug_Targets_2022	Ar	Adam17	Il6	Gpbar1	Glul	Pgr	Nr3c2	Nr3c1	Fabp1	Serpina6
+Prenylamine	IDG_Drug_Targets_2022	Cacna1c	Cacna1s	Scn3a	Cacna1d	Scn1a	Scn2a
+Pridinol	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Primaquine	IDG_Drug_Targets_2022	Nqo2	G6pdx	Hsp90aa1	Maob	Maoa	Shmt2	Cyp1a2	Hba-a1	Ahr	Slc6a4	Kcnh2
+Probenecid	IDG_Drug_Targets_2022	Car12	Car2	Slc22a6	Car9	Trpv2	Slc22a8	Slc22a12	Ugt1a10
+Procainamide	IDG_Drug_Targets_2022	Ache	Chrm2	Dnmt3a	Dnmt3c	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Dnmt1	Scn2a	Kcnh2
+Procaine	IDG_Drug_Targets_2022	Chrnd	Grin3a	Chrna1	Ryr1	Scn10a	Htr3a	Chrnb1
+Prochlorperazine	IDG_Drug_Targets_2022	Sigmar1	Htr1b	Htr1a	Adra2c	Pgrmc1	Adra2b	Adra2a	Cyp1a2	Chrm3	Chrm4	Chrm1	Chrm2	Slc22a1	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Htr4	Hrh1	Cyp2d10	Drd1	Drd2	Fyn	Drd3	Drd4	Kcnh2
+Procyclidine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Grin2d	Grin2c	Grin1	Grin3a	Grin2b	Grin2a	Grin3b	Hrh1
+Profenamine	IDG_Drug_Targets_2022	Ache	Grin3a	Bche	Chrm1	Chrm2	Slc22a1
+Progabide	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Progesterone	IDG_Drug_Targets_2022	Catsper2	Sigmar1	Catsper1	Abcb1a	Catsper4	Slc28a1	Catsper3	Srd5a2	Trpc5	Esr1	Nr3c2	Esr2	Nr3c1	Serpina6	Ar	Fabp2	P2rx3	Soat1	Srd5a1	Pgr	Fabp1	Shbg
+Promazine	IDG_Drug_Targets_2022	Sigmar1	Prnp	Gfer	Htr1a	Adra2c	Pgrmc1	Adra2b	Adra2a	Scn2a	Chrm3	Chrm4	Chrm1	Chrm2	Slc22a1	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Hrh1	Tpr	Cyp2d10	Aox1	Drd1	Scn3a	Drd2	Drd3	Scn1a	Drd4	Drd5
+Promethazine	IDG_Drug_Targets_2022	Sigmar1	Bche	Prnp	Gfer	Htr1a	Adra2c	Adra2b	Adra2a	Scn2a	Calm1	Chrm3	Chrm4	Chrm1	Chrm2	Slc22a1	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Hrh1	Hrh4	Cyp2d10	Aox1	Drd1	Scn3a	Drd2	Drd3	Scn1a
+Propafenone	IDG_Drug_Targets_2022	Sigmar1	Kcnj11	Abcc9	Htr1a	Cyp1a2	Scn4b	Kcnk2	Scn2b	Kcnk3	Hcn4	Abcb1a	Slc22a1	Slc22a2	Htr2c	Adrb1	Kcna5	Adrb2	Htr2a	Adra1d	Adrb3	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Cyp2d10	Aox1	Scn5a	Scn3b	Kcnh2	Scn1b
+Proparacaine	IDG_Drug_Targets_2022	Sigmar1	Scn10a	Maoa	Scn3a	Scn1a	Scn2a
+Propiomazine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Htr2c	Drd1	Htr2a	Drd2	Adra1b	Drd4
+Propofol	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Hcn1	Faah	Gabrb3	Gabrb2	Gabrb1	Alox15	Htr2c	Htr2b	Slc6a2	Ptgs1	Car2	Car1	Gabre	Gabrd
+Propranolol	IDG_Drug_Targets_2022	Sigmar1	Hcn4	Abcb1a	Slc22a1	Cacna1c	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Adrb3	Htr1a	Htr2b	Htr6	Pgrmc1	Slc6a4	Hrh1	Cyp2d10	Cyp1a2	Drd2
+Protriptyline	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Htr2b	Slc6a2	Slc6a3	Slc6a4	Hrh1	Adora3	Kcnh2
+Pyridoxine	IDG_Drug_Targets_2022	Cbs	Pdxk	Psat1	Shmt1	Pnpo	Pdxp
+Pyrimethamine	IDG_Drug_Targets_2022	Chrm1	Slc47a1	Hexa	Slc22a1	Hexb	Dhfr
+Pyrithione	IDG_Drug_Targets_2022	Car13	Car12	Loxl4	Gfer	Loxl2	Loxl3	Car4	Car3	Car5b	Lox	Car5a	Car6	Car7	Car9	Car14
+Pyrithione Zinc	IDG_Drug_Targets_2022	Car13	Car12	Car4	Car3	Car5b	Kcnq1	Car5a	Car6	Kcnq2	Kcnq4	Car7	Kcnq5	Car9	Car14
+Quazepam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabra1	Gabrb1	Gabrg2
+Quercetin	IDG_Drug_Targets_2022	Car13	Ptpn1	Car12	Bche	Ipmk	Axl	Lap3	Cyp1a1	Calm2	Calm3	Abcg3	Calm1	App	Kdm1a	Mpo	Egfr	Aurkb	Nt5e	Ccnd1	Hsd17b2	Alox5	Akt1	Adora3	Kdr	Cyp1b1	Adora1	Car14	Elane	Plk1	Nek6	Trpc5	Ephx2	Nuak1	Bace1	Ptk2	Pik3r1	Nox4	Slc2a2	Prep	Plau	Slc2a4	Lpo	Cyp19a1	Igf1r	Ccnb3	Ccnb2	Ccnb1	Pde2a	Nek2	Pim1	Mmp2	Avpr2	Mmp3	Akr1a1	Braf	Sord	Mmp9	Mmp13	Mmp12	Cdk6	Cdk5	Cdk4	Adora2a	Cdk2	Cdk1	Abcc1	Alk	Ache	Ret	Abcb1a	Gsk3b	Gsk3a	Maob	Maoa	Glo1	Alox15	Alox12	Elavl1	Elavl3	Dpp4	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Cd38	Hif1an	Car9	Ip6k2	Drd4	Ccr4	Gpr35	Csnk2a1	Dapk1	Syk	F2	Lck	Ctrb1	Pkn1	Met	Cdk5r1	Src	Flt3	Pla2g1b	Akr1b1	Camk2b	Pygl	Pik3cg	Ptgs2	Psmb5	Xdh	Nos2
+Quetiapine	IDG_Drug_Targets_2022	Sigmar1	Htr1f	Htr1b	Htr1a	Adra2c	Pgrmc1	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Adra1a	Htr7	Hrh1	Aox1	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Quinagolide	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr2c	Htr2a	Htr3b	Adra1d	Htr1a	Htr2b	Adra1b	Adra2c	Htr3a	Htr6	Adra1a	Adra2b	Adra2a	Htr4	Htr5a	Htr7	Drd1	Drd2
+Quinidine	IDG_Drug_Targets_2022	Hcn4	Abcb1a	Bche	Slc47a1	Chrm2	Kcnd2	Slc22a2	Kcna5	Kcna7	Kcnt1	Cyp2d10	Scn5a	Scn3a	Scn4b	Scn1a	Scn2b	Scn2a	Scn3b	Kcnh1	Slc29a4	Kcnh2	Scn1b
+Quinine	IDG_Drug_Targets_2022	Abcb1a	Slc22a1	Hba-a1	Scn3a	Scn1a	Scn2a	Slc29a4	Kcnh2
+Quizartinib	IDG_Drug_Targets_2022	Epha6	Ntrk2	Lyn	Ntrk3	Pdgfrb	Pdgfra	Epha7	Ntrk1	Tie1	Mapk15	Hipk4	Map3k19	Lck	Kit	Tnik	Epha3	Frk	Csf1r	Ddr2	Ddr1	Ephb6	Mylk3	Ret	Flt1	Flt3	Flt4	Mylk	Slk	Stk10	Mknk2	Kdr	Ripk2	Abl1	Musk	Ripk1	Map3k7	Map4k4	Map4k5
+Rabeprazole	IDG_Drug_Targets_2022	Atp4b	Atp4a	Fasn	Ddah1	Sarm1	Ide	Adora3	Atp1a1	Drd3	Adra2b	Engase
+Raloxifene	IDG_Drug_Targets_2022	Sigmar1	Htr1b	Oprk1	Nr1h4	2410137M14Rik	Oprm1	Tacr2	Esr1	Adra2c	Esr2	Pgrmc1	Adra2b	Adra2a	Il6	Adora2a	Ache	Oprd1	Nr1i2	Htr2c	Htr2a	Adra1d	Htr2b	Pld2	Slc6a2	Adra1b	Htr6	Pld1	Slc6a3	Adra1a	Slc6a4	AI182371	Ebp	Gper1	Aox1	Drd1	Drd2	Fyn	Drd3
+Raltitrexed	IDG_Drug_Targets_2022	Slc46a1	Folr2	Slc19a1	Tyms	Folr1	Dhfr
+Rapacuronium	IDG_Drug_Targets_2022	Chrnd	Chrna1	Chrne	Chrng	Chrnb1
+Reboxetine	IDG_Drug_Targets_2022	Kcnj5	Kcnj6	Htr2c	Slc6a2	Htr6	Slc6a3	Kcnj3	Slc6a4
+Regorafenib	IDG_Drug_Targets_2022	Glra1	Pdgfrb	Flt1	Flt3	Kit	Flt4	Ephx2	Fgfr1	Tek	Kdr	Braf	Raf1
+Remimazolam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabra1	Gabrb2	Gabra5	Gabrg1	Gabrg3	Gabrg2
+Remoxipride	IDG_Drug_Targets_2022	Sigmar1	Drd1	Htr2a	Drd2	Htr1a	Drd3	Drd4	Drd5
+Repaglinide	IDG_Drug_Targets_2022	Slco1b2	Kcnj11	Abcc8	Slc22a1	Abcc9
+Reserpine	IDG_Drug_Targets_2022	Abcb1a	Oprm1	Htr1a	Slc6a4	Drd1	Scn3a	Drd2	Drd3	Scn1a	Slc18a1	Scn2a	Slc18a2	Abcg3
+Resorcinol	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car5b	Car5a	Car9	Ptgs1	Car14
+Retinol	IDG_Drug_Targets_2022	Nr2c2	Rlbp1	Rbp7	Aldh1a1	Rbp3	Rdh13	Rbp4	Rdh12	Rbp1	Aldh1a2	Rbp2	Rdh5
+Revefenacin	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Ribavirin	IDG_Drug_Targets_2022	Impdh1	Impdh2	Enpp1	Adk	Adora1	Top1	Nt5c2
+Rifampicin	IDG_Drug_Targets_2022	Slco1b2	Abcb11	Cyp51	Nr1i2	Gsto1	Slco1a8	Alox15	Casp1	Inha
+Rilmenidine	IDG_Drug_Targets_2022	Nisch	Adra2c	Adra1a	Adra2b	Adra2a
+Riluzole	IDG_Drug_Targets_2022	Grin3a	Trpc5	Kcnn1	Scn5a	Kcnn2	Kcnn3	Kcnn4	Slc6a2	Kcnh2
+Rimonabant	IDG_Drug_Targets_2022	Ache	Gpr18	Cnr2	Cnr1	Gpr55	Kcnh2
+Ripazepam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Ripretinib	IDG_Drug_Targets_2022	Csf1r	Pdgfrb	Pdgfra	Kit	Tek	Kdr
+Risperidone	IDG_Drug_Targets_2022	Sigmar1	Htr1f	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Slc47a1	Chrm2	Slc22a2	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Htr2b	Adra1b	Htr6	Adra1a	Slc6a4	Glra1	Hrh2	Htr7	Hrh1	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Ritonavir	IDG_Drug_Targets_2022	Abcb1a	Slc47a1	Nr1i2	Slc22a1	Ugt1a1	Slc22a2	Oprk1	Avpr1a	Oprm1	Cyp3a13	Tacr2	Cyp2d10	Tbxas1
+Rizatriptan	IDG_Drug_Targets_2022	Htr1f	Cyp2d10	Htr1b	Htr2c	Htr2a	Htr3b	Htr1a	Htr3a
+Romidepsin	IDG_Drug_Targets_2022	Brd4	Hdac5	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8	Ncor1	Ncor2
+Ropinirole	IDG_Drug_Targets_2022	Htr2a	Htr1a	Htr2b	Adra2c	Adra2b	Adra2a	Htr7	Drd1	Drd2	Drd3	Drd4	Drd5
+Ropivacaine	IDG_Drug_Targets_2022	Scn9a	Scn10a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Kcnk3	Scn2a
+Rosiglitazone	IDG_Drug_Targets_2022	Ppara	Ffar1	Slc10a1	Maob	Rarg	Trpc5	Maoa	Cisd2	Cisd1	Car2	Rxra	Abcb11	Tbxas1	Agtr1b	Pparg	Ppard	Kcnh2
+Rotigotine	IDG_Drug_Targets_2022	Drd1	Drd2	Drd3	Drd4	Drd5
+Ruboxistaurin	IDG_Drug_Targets_2022	Map3k3	Pdgfrb	Map3k2	Prpf4b	Hipk2	Mapk15	Hipk1	Hipk3	Tnik	Cdk16	Egfr	Aurkc	Slk	Nuak2	Chek1	Akt3	Chek2	Akt2	Pip4k2b	Map3k9	Map2k4	Prkch	Srpk3	Map2k5	Plk4	Prkcg	Dmpk	Prkci	Prkcd	Prkce	Dyrk1b	Mink1	Prkcb	Dyrk1a	Prkca	Nuak1	Srpk1	Srpk2	Lats2	Lats1	Map3k19	Prkcz	Fgfr1	Bmp2k	Prkcq	Prkd2	Mylk	Stk10	Stk11	Tbk1	Pim2	Pip5k1a	Pim1	Pip5k1c	Pim3	Prkacb	Ros1	Map2k6	Mark2	Prkaca	Clk4	Clk2	Clk1	Cdk7	Cdk4	Aak1	Sgk3	Gsk3b	Lrrk2	Stk3	Stk4	Grk1	Stk33	Grk4	Mknk1	Prkg2	Map4k2	Map4k3	Camk1d	Cdkl5	Map4k1	Csnk2a2	Dapk2	Csnk2a1	Dapk1	Pdpk1	Dapk3	Cit	Hck	Gak	Lck	Kit	Rps6kb1	Taok2	Taok3	Pkn1	Taok1	Pkn2	Flt3	Camk2a	Camk2b	Camkk1	Camkk2	Rps6ka5	Rps6ka4	Rps6ka6	Rps6ka1	Phkg1	Rps6ka3	Rps6ka2	Riok1	Riok3	Tlk1	Camk2g	Jak3	Map4k5
+Rucaparib	IDG_Drug_Targets_2022	Parp12	Parp4	Parp10	Parp2	Parp3	Tnks	Parp1	Tnks2	Parp14
+Rufinamide	IDG_Drug_Targets_2022	Scn11a	Scn9a	Scn10a	Car5a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Rutoside	IDG_Drug_Targets_2022	Ache	Kdm1a	Akr1b1	Alb	Chrm5	Ephx2	Nmur2	Xdh	Adra2c	Adra2a
+Ruxolitinib	IDG_Drug_Targets_2022	Map3k3	Map3k1	Map3k2	Dclk3	Vrk2	Hipk2	Hipk1	Dclk2	Dclk1	Ern1	Hipk3	Melk	Ulk3	Ulk2	Ankk1	Sik3	Ulk1	Epha3	Rock1	Rock2	Aurkc	Nuak2	Map3k7	Pak4	Pak6	Pak5	Map2k4	Srpk3	Plk4	Map2k2	Dmpk	Map2k3	Plk1	Map2k1	Nek7	Plk3	Plk2	Prkce	Tnk2	Cask	Dyrk1a	Srpk1	Map3k19	Stk25	Stk26	Bmp2k	Map3k15	Dyrk2	Mylk	Tbk1	Stk16	Nek3	Abl1	Mark2	Csnk1a1	Ripk4	Braf	Tyk2	Clk4	Clk2	Cdk7	Pi4kb	Camk1	Aak1	Alk	Bmpr1b	Mast1	Ret	Bmpr2	Lrrk2	Grk1	Grk4	Mknk2	Irak1	Stk39	Prkg2	Map4k2	Ntrk2	Ntrk3	Camk1d	Ntrk1	Csnk2a2	Dapk2	Csnk2a1	Dapk1	Dapk3	Nr1h2	Oxsr1	Sbk3	Gak	Sbk1	Kit	Stk17b	Taok2	Taok3	Taok1	Camk1g	Ephb6	Hdac6	Ltk	Camk2a	Camk2b	Ttk	Rps6ka5	Ikbkb	Rps6ka4	Mapk8	Rps6ka6	Phkg2	Rps6ka1	Phkg1	Rps6ka2	Riok1	Riok3	Riok2	Camk2g	Jak3	Ikbke	Jak1	Jak2
+Sabcomeline	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Safinamide	IDG_Drug_Targets_2022	Sigmar1	Scn9a	Maob	Maoa	Scn3a	Scn1a	Scn2a
+Salicylic Acid	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car1	Car4	Car6	Naprt	Car7	Car9	Car14
+Salmeterol	IDG_Drug_Targets_2022	Aox1	Adrb1	Adrb2	Adrb3	Drd2	Drd3
+Saquinavir	IDG_Drug_Targets_2022	Abcb1a	Abcc2	Oprd1	Oprk1	Avpr1a	Oprm1	Cyp3a13	Htr1a	Tacr2	Slc6a3	Tbxas1	Drd3	Abcc1
+Saxagliptin	IDG_Drug_Targets_2022	Abcb1a	Dpp8	Dpp9	Cyp3a13	Dpp4
+Scopolamine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Serine	IDG_Drug_Targets_2022	Ache	Bche	Slc1a5	Ggt1	Slc7a10
+Sertindole	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Chrm3	Abcb1a	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Htr2b	Adra1b	Htr6	Adra1a	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Kcnh2
+Sertraline	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Htr2b	Slc6a2	Adra1b	Adra2c	Pgrmc1	Slc6a3	Adra1a	Adra2b	Slc6a4	Adra2a	Mc5r	Kcnh2
+Sevoflurane	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Kcnk10	Kcnk9	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk18	Gabrg3	Gabrg2	Glra1	Kcnk2	Gabre	Kcnk3	Gabrd
+Sibutramine	IDG_Drug_Targets_2022	Kcnd3	Slc22a2	Slc6a2	Adra2c	Slc6a3	Adra2b	Slc6a4
+Sildenafil	IDG_Drug_Targets_2022	Abcc5	Pde6h	Pde6g	Pde4d	Pde10a	Adora2a	Pde3b	Pde3a	Pde5a	Pde7a	Ido2	Pde9a	Pde1c	Pde1b	Pde1a	Adra1b	Pde11a	Slco1b2	Pde2a	Pde4c	Pde4b	Pde6d	Pde4a	Pde6c	Adora1	Pde6b	Pde6a	Pde8a	Kcnh2
+Silodosin	IDG_Drug_Targets_2022	Abcb1a	Adra1d	Adra1b	Adra1a	Kcnh2
+Silymarin	IDG_Drug_Targets_2022	Car13	Car12	Plau	Slc2a4	F2	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Xdh	Car9	Car14
+Siponimod	IDG_Drug_Targets_2022	S1pr2	S1pr1	S1pr4	S1pr3	S1pr5
+Sirolimus	IDG_Drug_Targets_2022	Fkbp1b	Fkbp1a	Abcb1a	Fkbp3	Slc28a1	Pdcd4	Cyp3a13	Eif4e	Fkbp5	Mtor
+Sitagliptin	IDG_Drug_Targets_2022	Ace	Dpp7	Dpp8	Dpp9	Fap	Dpp4
+Sitosterol	IDG_Drug_Targets_2022	Ache	Polb	Maob	Maoa	F2	Nfkb1	Dpp4
+Sodium Aurothiomalate	IDG_Drug_Targets_2022	Txnrd1	Adora3	Fyn	Egfr
+Solifenacin	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Somatostatin	IDG_Drug_Targets_2022	Oprd1	Oprm1	Sstr1	Sstr2	Sstr3	Sstr4	Sstr5
+Sorafenib	IDG_Drug_Targets_2022	Epha6	Cdk19	Epha5	Pdgfrb	Epha8	Pdgfra	Epha7	Hipk2	Mapk15	Hipk1	Hipk4	Mapk13	Hipk3	Htr5a	Mapk14	Mapk11	Mapk12	Axl	Tek	Cdk14	Epha2	Tnik	Cdk15	Epha1	Epha4	Cdk17	Epha3	Frk	Raf1	Aurka	Araf	Egfr	Aurkc	Aurkb	Pnp2	Slk	Kdr	Musk	Map3k7	Insr	Map2k5	Plk4	Srms	Ephx2	Map3k19	Fgfr1	Fgfr3	Fgfr2	Csf1r	Htr6	Nlk	Stk10	Htr7	Abl2	Tnk1	Abl1	Lyn	Csnk1a1	Limk1	Ripk3	Limk2	Braf	Htr1a	Mertk	Tgfbr2	Clk1	Cdk8	Cdk7	Cdk5	Cdk3	Myo3b	Cdk2	Ddr2	Ddr1	Ret	Htr2c	Htr2a	Htr2b	Stk33	Stk36	Mknk1	Mknk2	Car7	Ripk2	Ripk1	Cdkl3	Ntrk2	Ntrk3	Map4k1	Ntrk1	Tie1	Tnni3k	Cit	Hck	Fgr	Lck	Kit	Taok2	Taok3	Taok1	Met	Cdkl2	Mylk2	Ephb6	Mylk3	Flt1	Src	Flt3	Flt4	Ttk	Mapk9	Rps6ka6	Mapk3	Ephb1	Mapk1	Csk	Fyn	Jak3	Ephb2	Map4k4	Ephb4	Map4k5
+Spiperone	IDG_Drug_Targets_2022	Sigmar1	Htr1f	Htr1b	2410137M14Rik	Htr1a	Htr5a	Scn2a	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Csn2	Adra1b	Htr6	Adra1a	Htr7	Hrh1	Drd1	Scn3a	Drd2	Drd3	Scn1a	Drd4	Drd5	Slc18a3
+Spironolactone	IDG_Drug_Targets_2022	Ar	Slc47a1	Nr1i2	Pgr	Nr3c2	Esr2	Nr3c1
+Stanozolol	IDG_Drug_Targets_2022	Ar	Cyp2d10	Adora3	Pgr	Esr1
+Stearic Acid	IDG_Drug_Targets_2022	Ache	Fabp4	Ppara	Pparg	Ppard
+Strychnine	IDG_Drug_Targets_2022	Chrm3	Glra1	Chrm4	Chrm1	Chrm2	Tas2r114	Tas2r120	Scn3a	Scn1a	Scn2a
+Sufentanil	IDG_Drug_Targets_2022	Sigmar1	Oprd1	Slc22a1	Oprk1	Oprm1
+Sulconazole	IDG_Drug_Targets_2022	Nr1h4	Tacr2	Adra2c	Adra2b	Adra2a	Tbxas1	Alpl	Cyp1a2	Ido1	Ido2	Chrm3	Chrm4	Chrm1	Chrm5	Htr2c	Htr2a	Cyp3a13	Htr2b	Slc6a2	Slc6a3	Slc6a4	Cyp2d10	Adora3	Fyn	Mdh1	Drd3
+Sulfanilamide	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Sulfasalazine	IDG_Drug_Targets_2022	Mmp1a	Slc10a1	Slc46a1	Akr1b1	Acat1	Slc7a11	Ptgs1	Ptgs2	Ar	Car2	Car1	Tbxas1	Alox5	Mapk1	Casp1
+Sulindac	IDG_Drug_Targets_2022	Glra1	AI182371	Rxra	Abcb11	Mmp2	Akr1b1	Glo1	Ptges	Ptgs1	Ptgs2
+Suloctidil	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm5	Adrb3	Htr1a	Htr2b	Tacr2	Slc6a2	Adra2c	Egfr	Slc6a3	Slc6a4	Adra2a	Hrh2	Hrh1	Adora3	Fyn	Drd3
+Sulpiride	IDG_Drug_Targets_2022	Car12	Adra2a	Car2	Car1	Car3	Car5b	Car5a	Car6	Car7	Drd1	Car9	Drd2	Drd3	Drd4	Drd5
+Sumatriptan	IDG_Drug_Targets_2022	Htr7	Slc47a1	Htr1f	Htr1b	Htr2c	Htr2a	Htr1a	Htr3a	Htr6	Htr5a
+Sunitinib	IDG_Drug_Targets_2022	Cdk18	Epha6	Epha5	Epha7	Dclk3	Dclk2	Dclk1	Mapk10	Ulk3	Sik2	Ulk2	Ankk1	Ulk1	Cdk14	Sik1	Cdk16	Cdk17	Epha3	Prkaa2	Prkaa1	Nuak2	Chek1	Csnk1d	Chek2	Stk38l	Akt2	Kdr	Pip4k2b	Musk	Srpk3	Yes1	Insr	Plk4	Plk2	Csnk1e	Prkca	Ptk6	Nuak1	Srpk1	Ptk2	Srpk2	Lats2	Lats1	Prkd1	Btk	Prkd3	Prkcq	Prkd2	Slc22a1	Mylk	Dstyk	Tbk1	Pip5k1a	Lyn	Csnk1a1	Insrr	Ripk4	Tyk2	Camk4	Camk1	Sgk3	Itk	Ache	Ddr2	Ddr1	Ret	Stk33	Stk35	Stk38	Stk39	Ripk1	Map4k2	Map4k3	Map4k1	Csnk2a2	Csnk2a1	Cit	Hck	Gak	Kit	Stk17b	Taok3	Pkn1	Taok1	Pkn2	Cdkl2	Camkk1	Camkk2	Riok1	Riok3	Brd9	Riok2	Jak3	Ikbke	Jak1	Map4k4	Jak2	Map4k5	Map3k3	Map3k4	Pdgfrb	Pdgfra	Map3k2	Matk	Prpf4b	Hipk2	Hipk1	Hipk4	Ern1	Hipk3	Melk	Axl	Tnik	Frk	Rock1	Rock2	Aurka	Egfr	Aurkc	Aurkb	Slk	Map3k9	Map3k7	Pak4	Pak3	Pak6	Kcnh2	Pak5	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Nek7	Tnk2	Dyrk1b	Mink1	Dyrk1a	Map3k19	Stk24	Stk25	Stk26	Prpf4	Fgfr1	Map3k11	Bmp2k	Fgfr4	Map3k15	Fgfr3	Map3k12	Fgfr2	Map3k13	Brsk1	Csf1r	Blk	Brsk2	Dyrk2	Igf1r	Stk10	Stk11	Stk16	Abl2	Mark1	Pim2	Tnk1	Nek2	Abl1	Pim3	Mark4	Map2k6	Mark3	Mark2	Eif2ak2	Eif2ak4	Irak4	Hunk	Mertk	Clk4	Clk2	Clk1	Fes	Cdk7	Fer	Cdk5	Pik3ca	Cdk4	Myo3a	Myo3b	Aak1	Alk	Bmpr1b	Mast1	Bmpr2	Nim1k	Lrrk2	Tssk1	Stk3	Stk4	Grk1	Grk4	Irak3	Mknk1	Mknk2	Irak1	Ntrk2	Ntrk3	Camk1d	Ntrk1	Dapk2	Chuk	Dapk1	Pdpk1	Dapk3	Tie1	Oxsr1	Dlk1	Sbk3	Fgr	Wee1	Lck	Sbk1	Rps6kb1	Snrk	Tyro3	Met	Csnk1g1	Camk1g	Csnk1g3	Csnk1g2	Mylk2	Ephb6	Mylk3	Flt1	Src	Ltk	Flt3	Flt4	Camk2a	Camk2b	Pik3cd	Tnks2	Ttk	Mylk4	Pik3cg	Rps6ka5	Rps6ka4	Mapk9	Rps6ka6	Phkg2	Rps6ka1	Phkg1	Rps6ka3	Rps6ka2	Ptk2b	Tlk2	Ephb1	Tlk1	Fyn	Camk2g	Mapk7	Ephb4
+Suramin	IDG_Drug_Targets_2022	P2ry13	Prkch	Stat5b	Prkcg	Entpd2	Entpd3	Prkci	Prkcd	Stat1	Prkce	Sirt5	Prkcb	Prmt1	Prkca	Sirt1	Sirt2	Prkcz	P2rx5	P2rx4	P2rx3	P2rx2	P2rx1	Prkd1	Prkd3	Prkcq	Prkdc	P2ry6	P2ry2	P2ry1	Stat5a
+Suxamethonium	IDG_Drug_Targets_2022	Ache	Chrnd	Chrna1	Chrne	Chrng	Chrnb1
+Tacrine	IDG_Drug_Targets_2022	Ache	App	Chrm3	Chrm4	Bche	Chrm1	Chrm2	Slc22a1	Chrm5	Maoa	Chat	Adra1d	Slc6a2	Hnmt	Adra1a	Grin1	Chrne	Grin2b	Grin2a	Cyp2d10	Aox1
+Tacrolimus	IDG_Drug_Targets_2022	Fkbp10	Sf3b3	Cyp3a13	Mtor	Il2	Fkbp1b	Il5	Ppp3ca	Fkbp1a	Ppp3cc	Ifng	Fkbp5	Kcnh2
+Tadalafil	IDG_Drug_Targets_2022	Ache	Pde6h	Pde6g	Pde6d	Pde6c	Pde5a	Pde6b	Pde6a	Pde11a	Kcnh2
+Talbutal	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Talipexole	IDG_Drug_Targets_2022	Adra1d	Drd2	Htr1a	Drd3	Adra1b	Adra2c	Drd4	Adra2b	Drd5	Adra2a
+Tamoxifen	IDG_Drug_Targets_2022	Oprm1	Tacr1	Htr1a	Tacr2	Mc3r	Adora2a	Dhcr7	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Oprd1	Nr1i2	Chrm5	Htr2c	Adrb1	Htr2a	Adra1d	Adrb3	Atp1a2	Htr2b	Egfr	Adra1a	Ppp3ca	Hrh2	Erbb2	Gper1	Aox1	Adora3	Bdkrb2	Drd1	Adora1	Drd2	Drd3	Drd4	Kcnh2	Sigmar1	Esrra	Oprk1	Esrrg	Esr1	Esr2	Pgrmc1	Adra2b	Adra2a	Ar	Lck	Mc5r	Tbxas1	Ebpl	Pgr	Slc22a2	Slc6a2	Htr6	Slc6a3	Ptgs1	Slc6a4	Ptgs2	Ebp	Mc4r	Fyn
+Tamsulosin	IDG_Drug_Targets_2022	Htr1f	Htr1b	Adra1d	Htr1a	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Htr7	Drd2	Drd3
+Tannic Acid	IDG_Drug_Targets_2022	Akr1b1	Alox15	Hmgcr	Mapk14	Car2	Lck	Car1	Car6	Tbxas1	Cyp1a2	Mapk3	Mapk1	Fyn	Pde5a
+Tegaserod	IDG_Drug_Targets_2022	Htr1a	Htr2b	Htr3a	Htr4
+Telaprevir	IDG_Drug_Targets_2022	Ctsb	Ctsa	Cma1	Ctsk	Cela1	Plg	Ctss	Elane
+Telmisartan	IDG_Drug_Targets_2022	Glra1	Ace	Slc47a1	Agtr2	Agtr1b	Pparg
+Tenidap	IDG_Drug_Targets_2022	Alox5	Cyp1a2	Ptgs1	Kcnj4	Ptgs2
+Teniposide	IDG_Drug_Targets_2022	Abcb1a	Abcc3	Abcc6	Top2a	Abcg3
+Terazosin	IDG_Drug_Targets_2022	Nqo2	Slc22a1	Htr2a	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Kcnh2
+Terbinafine	IDG_Drug_Targets_2022	Sigmar1	Sqle	Cyp2d10	Slc6a2	Pgrmc1	Adra2a
+Terconazole	IDG_Drug_Targets_2022	Sigmar1	Cyp51	Htr1b	Adra2c	Pgrmc1	Adra2b	Adra2a	Ache	Chrm3	Chrm4	Chrm1	Slc28a1	Chrm2	Chrm5	Alox15	Htr2c	Htr2a	Adra1d	Slc6a2	Adra1b	Slc6a3	Adra1a	Slc6a4	Htr4	Hmox2	Drd1	Fyn	Drd3
+Terfenadine	IDG_Drug_Targets_2022	Abcb1a	Chrm1	Hsp90aa1	Htr2c	Htr2a	Adra1d	Htr2b	Tacr2	Slc6a2	Adra1b	Adra2c	Egfr	Htr6	Slc6a3	Adra1a	Hrh1	Drd1	Drd2	Fyn	Drd3	Ccr5	Kcnh1	Cyp2j13	Kcnh2
+Terguride	IDG_Drug_Targets_2022	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Drd1	Drd2	Drd3	Drd4	Drd5
+Testosterone	IDG_Drug_Targets_2022	Ar	Sigmar1	Cyp51	Srd5a2	Nr1i3	Srd5a1	Pgr	Nr3c1	Cyp19a1	Serpina6	Shbg
+Tetrabenazine	IDG_Drug_Targets_2022	Scn3a	Drd2	Scn1a	Slc18a1	Adra2c	Scn2a	Slc18a2	Adra2a
+Tetracaine	IDG_Drug_Targets_2022	Sigmar1	Scn9a	Maoa	Scn8a	Htr2c	Scn5a	Htr2a	Scn3a	Scn1a	Scn2a	Cnga1
+Tetryzoline	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Theophylline	IDG_Drug_Targets_2022	Tmigd3	Adora2b	Pde1b	Adora2a	Pde1a	Alpl	Pde3b	Adora3	Pde3a	Pde4a	Pik3cd	Adora1
+Thiamine	IDG_Drug_Targets_2022	Thtpa	Tktl1	Hsp90aa1	Tpk1	Tkt	Slc19a2
+Thiamylal	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Thiethylperazine	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Gfer	Htr2a	Htr1a	Htr2b	Adra1a	Hrh1	Drd1	Drd2	Drd3
+Thiocolchicoside	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Thioguanine	IDG_Drug_Targets_2022	Abcc4	Abcc5	Impdh1	Impdh2	Alox15	Mapk3	Adora3	Hprt1	Xdh	Ptgs1
+Thiomersal	IDG_Drug_Targets_2022	Car13	Car12	Slc6a2	Adra2c	Htr6	Adra2b	Slc6a4	Adra2a	Car4	Car3	Car5b	Car5a	Car6	Cyp2d10	Mapk3	Adora3	Car7	Tlr9	Drd3	Car14
+Thiopental	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Kcnc4	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Thioridazine	IDG_Drug_Targets_2022	Kcnj6	Htr1f	Htr1b	Htr1a	Htr5a	Cyp1a2	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Nr1i3	Htr2c	Htr2a	Adra1d	Htr2b	Adra1b	Egfr	Adra1a	Hrh2	Hrh1	Hrh4	Cyp2d10	Aox1	Drd1	Scn3a	Drd2	Drd3	Drd4	Drd5	Kcnh2	Sigmar1	Oprk1	Adra2c	Pgrmc1	Adra2b	Adra2a	Scn2a	Slc6a2	Htr6	Slc6a3	Slc6a4	Htr7	Pim1	Fyn	Scn1a
+Thiothixene	IDG_Drug_Targets_2022	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5
+Thiram	IDG_Drug_Targets_2022	Faah	Lox	Bbox1	Ehmt1	Loxl4	Ehmt2	Mgll	Loxl2	Loxl3
+Tiamenidine	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Tibolone	IDG_Drug_Targets_2022	Ar	Sts	Pgr	Esr1	Slc6a4
+Ticlopidine	IDG_Drug_Targets_2022	Sigmar1	P2ry12	Adra2c	Pgrmc1	Adra2b	Ptgs1	Adra2a	Ptgs2	Abcb11	Cyp2a12	Cyp2d10
+Tiludronic Acid	IDG_Drug_Targets_2022	Ptpn1	Mmp14	Mmp8	Mmp2	Tcirg1
+Tiotropium Bromide	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Tipranavir	IDG_Drug_Targets_2022	Abcb1a	Ctse	Ctsd	Zmpste24
+Tirabrutinib Hydrochloride	IDG_Drug_Targets_2022	Tec	Blk	Lck	Erbb4	Erbb2	Txk	Btk	Bmx
+Tiratricol	IDG_Drug_Targets_2022	Ar	Pcna	Slc10a1	Thrb	Thra
+Tirilazad	IDG_Drug_Targets_2022	Hrh2	Lck	Htr2c	Mapk3	Adrb2	Htr2a	Fyn	Htr2b	Adra2c	Egfr	Mapk14
+Tivozanib	IDG_Drug_Targets_2022	Pdgfrb	Flt1	Pdgfra	Flt3	Kit	Flt4	Fgfr1	Kdr	Met	Ephb2
+Tizanidine	IDG_Drug_Targets_2022	Nisch	Adra2c	Adra1a	Adra2b	Adra2a
+Tocainide	IDG_Drug_Targets_2022	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Tofacitinib	IDG_Drug_Targets_2022	Map4k2	Camk1d	Dmpk	Prkcd	Dclk3	Tyk2	Dclk1	Lck	Pkn1	Ulk3	Camk1	Bmp2k	Pkn2	Ret	Rock1	Rock2	Camk2a	Lrrk2	Stk3	Nuak2	Rps6ka6	Rps6ka1	Mknk2	Rps6ka2	Tnk1	Abl1	Fyn	Jak3	Jak1	Jak2
+Tolazoline	IDG_Drug_Targets_2022	Adra1d	Taar1	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Tolcapone	IDG_Drug_Targets_2022	Ttr	Abcb11	Gpr35	Klf10	Comt
+Tolfenamic Acid	IDG_Drug_Targets_2022	Ar	Ttr	Ptgs1	Ptgs2
+Tolmetin	IDG_Drug_Targets_2022	Akr1b1	Glo1	Ptgs1	Ptgs2
+Tolterodine	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Kcnh2
+Topiramate	IDG_Drug_Targets_2022	Car13	Car12	Gabra1	Gabrg2	Scn2a	Gria2	Gria3	Gabrb2	Gria1	Nr1i2	Grik4	Grik5	Grik2	Grik3	Grik1	Car2	Car1	Car4	Car5b	Car5a	Car6	Scn5a	Car7	Car9	Scn1a	Gria4	Car14
+Topotecan	IDG_Drug_Targets_2022	Abcc4	Abcb1a	Abcc2	Slc47a1	Nr1i2	Slc22a2	Top1mt	Cyp3a13	Hif1a	Top1	Abcg3
+Tramadol	IDG_Drug_Targets_2022	Oprd1	Slc22a1	Oprk1	Oprm1	Slc6a2	Slc6a4
+Tramazoline	IDG_Drug_Targets_2022	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Tranylcypromine	IDG_Drug_Targets_2022	Kdm1a	Kdm1b	Maob	Maoa	Htr1a	Cyp8b1	Slc6a2	Slc6a3	Cyp2a12	Drd2	Drd3
+Trastuzumab Emtansine	IDG_Drug_Targets_2022	Tubb2b	Tubb6	Erbb2	Tubb3	Tubb5	Tubb1	Tubb2a	Tubb4b	Tubb4a
+Trazodone	IDG_Drug_Targets_2022	Sigmar1	Htr1b	2410137M14Rik	Htr1a	Adra2c	Pgrmc1	Adra2b	Adra2a	Htr2c	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Slc6a3	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Kcnh2
+Treprostinil	IDG_Drug_Targets_2022	Ptger1	Ptger2	Ptgir	Ptger3	Ptger4	Ptgdr
+Tretinoin	IDG_Drug_Targets_2022	Rarg	Crabp1	Crabp2	Nr2e1	Rorb	Htr2b	Rorc	Nr2c2	Rora	Rxra	Rxrb	Rarb	Rdh5	Adora3	Mapk1	Rara	Rxrg	Pin1	Ppard	Ido2
+Tretoquinol	IDG_Drug_Targets_2022	Adrb1	Adrb2	Adra1d	Adrb3	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Tbxa2r	Drd1	Drd2	Drd3	Drd4	Drd5
+Triamterene	IDG_Drug_Targets_2022	Scnn1g	Cyp2d10	Slc12a1	Scnn1b	Scnn1a	Casp1	Ctsg
+Triazolam	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Ptafr	Gabra4	Gabrg1	Cyp3a13	Gabrg3	Gabrg2	Cckar	Gabre	Gabrd
+Trichlormethiazide	IDG_Drug_Targets_2022	Car13	Slc12a3	Car12	Car2	Car1	Car4	Car5b	Car5a	Car6	Car7	Car9	Car14
+Triclofos	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Trientine	IDG_Drug_Targets_2022	Car13	Car12	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Trifluoperazine	IDG_Drug_Targets_2022	Sigmar1	Htr1a	Adra2c	Adra2b	Adra2a	Ebpl	Calm2	Calm3	Scn2a	Calm1	Chrm3	Abcb1a	Htr2c	Htr2a	Prkdc	Adra1d	Htr2b	Adra1b	Htr6	Adra1a	Htr7	Ebp	Hrh1	Tpr	Scn3a	Drd2	Drd3	Scn1a	Drd4	Gusb	Kcnh2
+Trifluperidol	IDG_Drug_Targets_2022	Sigmar1	Ebp	Drd2	Drd3	Drd4
+Triflupromazine	IDG_Drug_Targets_2022	Abcb1a	Bche	Tpr	Htr2a	Drd2
+Trihexyphenidyl	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10
+Trilaciclib	IDG_Drug_Targets_2022	Cdk9	Nuak2	Cdk7	Cdk6	Flt3	Cdk5	Cdk4	Cdk2	Cdk1	Nek10
+Trimetaphan	IDG_Drug_Targets_2022	Chrna1	Chrna3	Chrnb4	Chrna7	Chrna10
+Trimipramine	IDG_Drug_Targets_2022	Hrh1	Slc22a1	Slc6a2	Slc6a3	Slc6a4
+Troglitazone	IDG_Drug_Targets_2022	Ptpn1	Maob	Akr1b1	Maoa	Alox15	Cyp3a13	Htr2b	Gys2	Car2	Abcb11	Tbxas1	Ugt1a6a	Adora3	Pparg	Mapk1	Ido1	Ido2
+Tropicamide	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Tropisetron	IDG_Drug_Targets_2022	Chrna1	Chrnb2	Chrna4	Chrna3	Chrm5	Chrna7	Htr3b	Htr1a	Htr3a	Slc6a4	Htr4	Chrnd	Glra1	Glra2	Glrb	Chrng	Chrnb1
+Tubocurarine	IDG_Drug_Targets_2022	Gabra3	Chrnb2	Gabra2	Gabrq	Gabra1	Gabrp	Chrnb4	Gabra6	Gabra5	Gabra4	Gabrg1	Htr3b	Htr3a	Gabrg3	Gabrg2	Chrnb1	Chrna2	Chrna1	Gabrb3	Chrna4	Gabrb2	Slc47a1	Chrm2	Chrna3	Gabrb1	Chrna7	Slc22a2	Chrnd	Chrng	Kcnn1	Kcnn2	Kcnn3	Gabre	Gabrd
+Tyramine	IDG_Drug_Targets_2022	Htr1f	Htr1b	Htr2c	Htr2a	Htr3b	Htr1a	Htr2b	Taar1	Htr3a	Htr6	Bace1	Htr4	Htr5a	Htr7
+Ubenimex	IDG_Drug_Targets_2022	Lap3	Anpep	Mmp2	Erap1	Rnpep	Lta4h	Lnpep	Npepps
+Umbralisib	IDG_Drug_Targets_2022	Pik3cb	Pik3ca	Csnk1e	Pik3cd	Pik3cg
+Umeclidinium	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Uridine Triphosphate	IDG_Drug_Targets_2022	P2ry6	P2rx3	P2ry4	P2ry2
+Vadadustat	IDG_Drug_Targets_2022	Egln2	Egln1	Egln3	Ogfod1	Hif1an	Vegfa
+Valdecoxib	IDG_Drug_Targets_2022	Car13	Car12	Htr2b	Slc6a2	Ptgs1	Ptgs2	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Valethamate	IDG_Drug_Targets_2022	Chrm3	Sigmar1	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10
+Valproic Acid	IDG_Drug_Targets_2022	Aldh5a1	Hdac1	Hdac2	Akr1b1	Akr1a1	Ugt1a2
+Vandetanib	IDG_Drug_Targets_2022	Epha6	Acvr1	Epha5	Map3k4	Pdgfrb	Epha8	Pdgfra	Epha7	Axl	Tek	Ulk3	Sik2	Sik3	Epha2	Tnik	Epha1	Sik1	Epha4	Epha3	Frk	Rock2	Tesk1	Mst1r	Egfr	Prkaa1	Aurkc	Slk	Kdr	Yes1	Map2k5	Plk4	Map2k2	Srms	Map2k1	Mink1	Csnk1e	Ptk6	Map3k19	Fgfr1	Btk	Fgfr4	Fgfr3	Fgfr2	Csf1r	Blk	Txk	Stk10	Abl2	Abl1	Lyn	Ripk4	Cdc42bpg	Irak4	Hunk	Cdc42bpb	Cdc42bpa	Mertk	Cdk7	Coq8a	Coq8b	Alk	Bmpr1b	Ddr2	Acvrl1	Ddr1	Ret	Stk33	Stk35	Erbb4	Mknk1	Erbb2	Mknk2	Erbb3	Irak1	Ripk2	Map4k2	Map4k3	Map4k1	Tie1	Tnni3k	Cit	Hck	Fgr	Gak	Lck	Kit	Rps6kb1	Tyro3	Met	Ephb6	Flt1	Src	Ltk	Flt3	Flt4	Tuba1a	Rps6ka6	Stk32a	Phkg2	Rps6ka1	Phkg1	Ephb1	Csk	Fyn	Ephb2	Mapk6	Map4k4	Ephb4	Map4k5
+Vardenafil	IDG_Drug_Targets_2022	Pde1b	Pde1a	Pde4d	Pde11a	Pde10a	Pde2a	Pde3b	Pde4c	Pde3a	Pde4b	Pde4a	Pde5a	Pde6a	Pde9a
+Varenicline	IDG_Drug_Targets_2022	Chrna2	Chrnd	Chrna1	Chrnb2	Chrna4	Chrna3	Chrnb4	Chrna7	Chrng	Chrnb1
+Vecuronium	IDG_Drug_Targets_2022	Chrna2	Chrnd	Chrna1	Chrnb2	Chrna4	Slc47a1	Chrnb4	Chrng	Slc22a2	Chrnb1
+Vemurafenib	IDG_Drug_Targets_2022	Fech	Kdr	Araf	Braf	Kras	Raf1
+Venlafaxine	IDG_Drug_Targets_2022	Htr2c	Htr2a	Slc6a2	Htr6	Slc6a3	Adra1a	Slc6a4
+Verapamil	IDG_Drug_Targets_2022	Kcnj6	Htr1a	Tpcn1	Pgrmc1	Adra2a	Tpcn2	Kcna10	Abcc1	Scn2a	Abcg3	Slc29a4	Hcn4	Abcb1a	Chrm2	Kcnc2	Slc22a1	Kcna3	Slc22a2	Cacna1c	Htr2c	Htr2a	Adra1d	Cacna1d	Cyp3a13	Htr2b	Kcna7	Adra1b	Adra1a	Slc6a4	Cacna1h	Hrh2	Car1	Aox1	Cacna1s	Scn5a	Scn3a	Tspo	Drd3	Scn1a	Kcnh2
+Vidarabine	IDG_Drug_Targets_2022	Pola1	Ahcyl	Dguok	Rrm2	Rrm1	Prps1l3	Adcy5	Dck	Dpp4
+Vilazodone	IDG_Drug_Targets_2022	Ache	Htr1b	Htr2c	Htr2a	Htr3b	Adra1d	Htr1a	Adra1b	Adra2c	Htr3a	Htr6	Adra1a	Adra2b	Slc6a4	Adra2a	Htr4	Htr7	Hrh1	Drd2	Drd3	Drd4
+Vinblastine	IDG_Drug_Targets_2022	Abcb1a	Abcc2	Maob	Tubb5	Alox15	Tubb1	Tubb2a	Tubb4b	Tubb4a	Abcc10	Tubb2b	Tubb6	Tbxas1	Tubb3	Abcc1
+Vincristine	IDG_Drug_Targets_2022	Abcb1a	Abcc2	Tubb5	Tubb1	Tubb2a	Tubb4b	Tubb4a	Abcc10	Tubb2b	Tubb6	Tubb3	Abcc1
+Vinflunine	IDG_Drug_Targets_2022	Tubb2b	Tubb6	Tubb3	Tubb5	Tubb1	Tubb2a	Tubb4b	Tubb4a
+Vinorelbine	IDG_Drug_Targets_2022	Tubb2b	Tubb6	Tubb3	Tubb5	Tubb1	Cyp3a13	Tacr2	Tubb2a	Tubb4b	Tubb4a
+Voriconazole	IDG_Drug_Targets_2022	Cyp11a1	Cyp3a13	Cyp46a1
+Vorinostat	IDG_Drug_Targets_2022	Brd4	Hdac5	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8	Ncor1	Ncor2	Lta4h
+Vortioxetine	IDG_Drug_Targets_2022	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Htr1a	Htr3a	Htr6	Slc6a3	Slc6a4	Htr5a	Hrh2	Htr7	Hrh1
+Warfarin	IDG_Drug_Targets_2022	Vkorc1l1	Vkorc1	Cyp3a13	Pcsk7
+Xanomeline	IDG_Drug_Targets_2022	Chrm3	Chrm4	Chrm1	Chrm2	Htr1f	Chrm5	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra1b	Htr6	Htr7	Drd2	Drd3
+Ximelagatran	IDG_Drug_Targets_2022	F7	F11	F10	Plau	F2	Plat	Plg
+Xylometazoline	IDG_Drug_Targets_2022	Htr1b	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Yohimbine	IDG_Drug_Targets_2022	Htr1f	Htr1b	Cdc25a	Htr1a	Adra2c	Adra2b	Adra2a	Htr5a	Top1	Scn2a	Cacna1c	Htr2a	Adra1d	Htr2b	Adra1b	Htr6	Adra1a	Htr7	Cyp2d10	Adora3	Drd1	Scn3a	Drd2	Drd3	Scn1a	Drd4	Drd5
+Zafirlukast	IDG_Drug_Targets_2022	Slc47a1	Slc10a1	Ephx2	Slc22a2	Pla2g4a	Cyp3a13	Egfr	Mapk14	Cysltr1	Tbxas1	Mapk3	Adora3	Pparg	Mapk1	Ptges
+Zaleplon	IDG_Drug_Targets_2022	Gabra2	Gabrb3	Gabra1	Gabrb2	Gabrg2
+Zileuton	IDG_Drug_Targets_2022	Alox5	Ephx2	Alox15	Alox5ap	Lta4h	Ptges
+Zinc Chloride	IDG_Drug_Targets_2022	Ar	Gpr39	Ppp3ca	Car2	Ube2t	Fyn	Slc6a2	Egfr
+Ziprasidone	IDG_Drug_Targets_2022	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Htr2b	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Zoledronic Acid	IDG_Drug_Targets_2022	Fdps	Car12	Car2	Mmp14	Mmp8	Btnl12	Mmp2	Ggps1	Car9	Mmp9	Car14
+Zolmitriptan	IDG_Drug_Targets_2022	Htr1f	Htr1b	Drd1	Drd2	Htr1a	Adra2c	Adra2b	Adra2a
+Zolpidem	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Abcb1a	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Rce1	Tspo	Gabre	Gabrd
+Zonisamide	IDG_Drug_Targets_2022	Car13	Car12	Maob	Cacna1g	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Scn1a	Car14
+Zopiclone	IDG_Drug_Targets_2022	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Gabre	Gabrd
+Zotepine	IDG_Drug_Targets_2022	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Adrb1	Adrb2	Htr2a	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Hrh4	Drd1	Drd2	Drd3	Drd4	Drd5
+Zuclopenthixol	IDG_Drug_Targets_2022	Drd1	Htr2a	Drd2	Htr6	Adra1a
+alpha-Ergocryptine	IDG_Drug_Targets_2022	Htr1b	Htr2c	Htr2a	Oprm1	Adra1d	Adrb3	Cyp3a13	Htr1a	Htr2b	Adra1b	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Drd1	Drd2	Drd3

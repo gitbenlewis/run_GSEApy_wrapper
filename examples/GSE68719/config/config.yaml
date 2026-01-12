@@ -1,0 +1,76 @@
+local_conda_env:
+  env_nextflow: env_nextflow
+  env_RNAseq: env_RNAseq
+parent_outdir: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/
+dataset_name: GSE68719
+GSEApy_parameters_defaults:
+  feature_name_column_name: symbol
+  gsea_permutation_num: 1000
+  min_size: 10
+  max_size: 3000
+  results_table_min_genes_matched: 0
+  threads: 30
+  seed: 6
+  rank_metric_calc_flavor: signed_neg_log10_pvalue
+  l2fc_column_name: log2FoldChange
+  pvalue_column_name: pvalue
+  GSEA_run_filename_tag: GSEA
+  gene_term_collections_2_use:
+    - GO_Biological_Process_2025
+    - GO_Cellular_Component_2025
+    - GO_Molecular_Function_2025
+    - KEGG_2021_Human
+    - Reactome_2022
+    - Reactome_Pathways_2024
+    - WikiPathways_2024_Human
+    - WikiPathways_2024_Mouse
+    - MSigDB_Computational
+    - MSigDB_Hallmark_2020
+    - CellMarker_2024
+    - ARCHS4_TFs_Coexp
+    - ARCHS4_Tissues
+    - Disease_Perturbations_from_GEO_down
+    - Disease_Perturbations_from_GEO_up
+    - c1.all
+    - c2.all
+    - c2.cgp
+    - c2.cp.biocarta
+    - c2.cp.kegg_legacy
+    - c2.cp.kegg_medicus
+    - c2.cp.pid
+    - c2.cp.reactome
+    - c2.cp
+    - c2.cp.wikipathways
+    - c3.all
+    - c3.mir.mir_legacy
+    - c3.mir.mirdb
+    - c3.mir
+    - c3.tft.gtrd
+    - c3.tft.tft_legacy
+    - c3.tft
+    - c4.3ca
+    - c4.all
+    - c4.cgn
+    - c4.cm
+    - c5.all
+    - c5.go.bp
+    - c5.go.cc
+    - c5.go.mf
+    - c5.go
+    - c5.hpo
+    - c6.all
+    - c7.all
+    - c7.immunesigdb
+    - c7.vax
+    - c8.all
+    - h.all
+    - msigdb
+gene_term_collections_gmt_file_directory_list:
+  enrichr_Hu_h2m: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/data/ref/gmt_files/enrichr_Hu
+  msigdb_Mm: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/data/ref/gmt_files/msigdb_Hu
+run_4_all_differentialabundance_runs: false
+gseapy_runs:
+  - gseapy_run_name: GSEApy
+    DA_run_name: DESeq2_diffexp_pmi_age_rin
+    DA_table: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
+    DA_table_sepstr: "\t"

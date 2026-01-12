@@ -1,0 +1,571 @@
+AATF mouse	TRRUST_Transcription_Factors_2019	Bbc3	Cdkn1a	Bax	Bak1
+ABL1 human	TRRUST_Transcription_Factors_2019	Jun	Ccnd2	Bcl6	Cdkn1a	Csf1	Bcl2	Pim1	Bax	Foxo3	Trp53
+AHR human	TRRUST_Transcription_Factors_2019	Pcna	Ugt1a1	Rfc3	Il13	Arnt	Fos	Brca1	Il1b	Il6	Ccnd1	Ccng2	Myc	Ugt1a6a	Cyp1a2	Ahrr	Cyp1a1	Cyp1b1	Car9	Abcg3	Mfsd2a
+AHR mouse	TRRUST_Transcription_Factors_2019	Nqo1	Abcc4	Serpinb2	Apaf1	Pla2g4a	Gata4	Cyp19a1	Vav3	Ptgs2	Il17a	Il6	Smoc2	E2f2	Cyp1a2	Snai2	Cyp1a1	Cyp1b1	Nkx2-5	Sim1
+APC human	TRRUST_Transcription_Factors_2019	Dlg1	F8	Amhr2	Odc1	Myc	Birc5	Akt1	Nos2	Klf4	Dnmt1	Ptgs2	Sgk1
+APEX1 human	TRRUST_Transcription_Factors_2019	Rela	Pth	Cd19	Nfkb1	Slc5a5
+APEX1 mouse	TRRUST_Transcription_Factors_2019	Blk	Rela	Pax5	Apod	Nfkb1	Tlr4	Ptgs2
+AR human	TRRUST_Transcription_Factors_2019	Ptpn1	Med1	Jun	Srd5a3	Greb1	Fn1	Etv1	Tsc2	Tsc1	Cyp7b1	Gtf2f1	Mid1	Cdc6	Pnrc1	Vegfa	Clk3	Kiss1	Pcx	Acta1	Th	Stim1	Folh1	Cdk6	Pip	Vim	Fkbp4	Ucn	Rela	Btg2	Klk1b24	Btg1	Tmprss2	Hmmr	Trps1	Klk4	Pbp2	Tgfa	Egfr	Ndrg1	Muc1	Nras	Bsg	Cdh2	Erbb2	Cdh1	Cdk20	Erbb3	Myc	Akt1	Kiss1r	Tbp	Serpinb5	Tcf7l2	Arg1	Arg2	Igfbp3	Wnt7b	Nat1	Gnmt	Klf5	Nfkb1	Tjp1	Wee1	Rest	Cdh11	Aldh1a3	Xiap	Crh	Crisp3	Foxa1	Crisp4	Cdkn1a	Psca	Ctnnb1	Pigr	Igf1r	Ptgs2	Elk4	Sesn1	Pmepa1	Ep300	Nkx3-1	Hmox1
+AR mouse	TRRUST_Transcription_Factors_2019	Ccr2	Foxa1	Scnn1a	Tnf	Nr0b1	Runx2	Sox2	Psat1	Nkx3-1	Klkb1	Fkbp5	Cga
+ARID3A human	TRRUST_Transcription_Factors_2019	Rbl1	Cr2	E2f1	Cdk1	Cdc6	Pml
+ARNT human	TRRUST_Transcription_Factors_2019	Egln2	Epo	Jun	Gad1	Fos	Brca1	Ahr	Esr1	Hif1a	Relb	Vegfa	Bhlhe40	Ccne1	Ugt1a6a	Cdk2	Cyp1a1	Cyp1b1	Car9	Mfsd2a	Ctsd
+ARNT mouse	TRRUST_Transcription_Factors_2019	Atxn3	Th	E2f2	Cyp1a2	Cyp1a1	Cyp1b1	Sim1
+ARNTL human	TRRUST_Transcription_Factors_2019	Per3	Per2	Per1	Bhlhe40	Cry2	Cry1
+ARNTL mouse	TRRUST_Transcription_Factors_2019	Dbp	Per2	Wnt10a	Vwf	Ctnnb1	Per1	Bhlhe40	Maoa	Bhlhe41	Tcf3	Nfe2l2
+ASCL1 human	TRRUST_Transcription_Factors_2019	Tph1	Chrna3	Chrnb4	Chrna5	Igf2	Dkk1	Pcsk6
+ASCL1 mouse	TRRUST_Transcription_Factors_2019	Phox2a	Tph2	Pdgfra	Cdkn2d	Rnd3	Bub1	Dll3	Hes5	Dll4
+ATF1 human	TRRUST_Transcription_Factors_2019	Flt1	Pcsk1	Il10	Usp7	Tgfb2	Top2a	Mitf	Slc20a1	Plaur	Nts	Ccna1	Th	Ldha	Erbb2	Fth1	Bcl2	Slc22a8	Cga	Gabpa	Cftr
+ATF2 human	TRRUST_Transcription_Factors_2019	Map3k1	Tgfb2	Jun	Nos3	Dusp1	Mmp2	Fn1	Impdh2	Fas	Apoc3	Ifng	Atf3	Rela	Cdkn1a	Retn	Tnf	Plau	Plat	Fasl	Ins1	Ptgs2	Polb	Dusp10	Kat5	Ccnd1	St3gal5	Itgb8	Ifnb1	Pck2	Pck1
+ATF2 mouse	TRRUST_Transcription_Factors_2019	Cebpa	Serpinb5	Entpd1	Gabrb3	Rela	Fos	Ucp1	Tnf	Rhob	Il23a	Ccnd1	Per1	Fgf21	Pparg	Sox9
+ATF3 human	TRRUST_Transcription_Factors_2019	Gdf15	Cd82	Mmp2	Asns	Ak4	Adipor1	Adipor2	Sele	Penk	Id1	Ccl5	Ifng	Ddit3	Pclaf	Ldlr	Trp53
+ATF3 mouse	TRRUST_Transcription_Factors_2019	Atf3	Il6	Sort1	Ccnd1	Pdx1	Tnfrsf22	Il12b	Gck
+ATF4 human	TRRUST_Transcription_Factors_2019	Sigmar1	Igfbp1	Hspa5	Asns	Tnfrsf22	Sirt1	Sirt2	Vegfa	Ndc80	F7	Il6	Nupr1	Ddit4	Fgf15	Ddit3	Irf7	Trib3	Ddr2	Hrk	Atf3	Cebpb	Plau	Ptgs2	Bglap2	Chac1	Fgf21	Apoe	Disc1	Car9	Mcl1	Atg5
+ATF4 mouse	TRRUST_Transcription_Factors_2019	Ddr2	Cdkn1b	Cdkn1a	Hspa5	Sphk2	Ihh	Mir106b	Fgf2	Il6	Mcm7	Trib3
+ATF5 human	TRRUST_Transcription_Factors_2019	Egr1	Creb1	Ccnd3	Id1	Sh2d1a	Bcl2	Disc1
+ATF6 human	TRRUST_Transcription_Factors_2019	Rtn3	Stard4	Wbp1	Xbp1	Hspa5	Srf	Pdx1	Nr0b2	Atp2a2	Mafa	Dnajc3	Bglap2	Nucb1	Ddit3
+ATM human	TRRUST_Transcription_Factors_2019	Pcna	Dusp1	Cdkn1a	Gadd45a	Slc2a1	Cflar	Tnfrsf22	Pvr	Terf1	Foxm1	Vegfa	Igf1r	Klrk1	Sp1	Mtf1	Aplf	Fas	Bax	Bcl2	Pbk	Pmaip1	Mcl1
+BCL11B mouse	TRRUST_Transcription_Factors_2019	Cdkn1b	Notch1	Il10	Gfi1	Bcl2l1	Ahr	Zbtb7b	Foxp3	Runx3
+BCL3 mouse	TRRUST_Transcription_Factors_2019	Trim63	Runx1	Tnfaip3	Tnf	Nfkb1	Nfkb2	Fbxo32	Cxcl10	Ubc	Il23a	Ccnd1	Ifng	Nos1
+BCL6 human	TRRUST_Transcription_Factors_2019	Xbp1	Cdkn1a	Cdkn2b	Stat3	Cd80	Litaf	Nfkb1	Hdac7	Chek1	Irf4	Ccnd2	Bcl6	Sumo1	Myc	Bcl2l1	Pdcd2	Fcer2a
+BCL6 mouse	TRRUST_Transcription_Factors_2019	Csf1r	Cdkn1b	Cdkn1a	Cdkn2b	Gadd45a	Prdm1	Rorc	Gata3	Hdac7	Batf	Il17a	Socs2	Il9	Bcl6	Myc	Tbx21	Ifng
+BMI1 mouse	TRRUST_Transcription_Factors_2019	Cdkn2d	Cdkn1a	Hmga2	E4f1	Cdk1	Pmaip1	Ikzf1	Nanog	Dkk1	Nfkb1
+BRCA1 human	TRRUST_Transcription_Factors_2019	Gm5478	S100a2	Hspa5	Hmga2	Sirt1	Vegfa	Krt18	Krt17	Cyp1a1	Atm	Irf9	Tff1	Irf7	Mad2l1	Foxc2	Foxc1	Brca2	Bach1	Areg	Egfr	Khsrp	Cdh3	Ccnd1	Myc	Cyp1b1	E2f6	Ctsd	Egr1	Casr	Stat1	Stat2	Gadd45a	Stat3	Fst	Fos	Igf1	Esr1	Ddb2	Aspm	Hnrnpa2b1	Ddit3	Mdm2	Mdc1	Cdkn1b	Rnasel	Cdkn1a	Ifna4	Xpc	Hif1a	Igf1r	Cyp19a1	Ccnb1	Ep300	Jak1	Trp63	Jak2
+BRCA1 mouse	TRRUST_Transcription_Factors_2019	Rad51	Cdkn1a	Hmga2	Akt1	Sirt1	Mad2l1	Mdm2
+BTF3 human	TRRUST_Transcription_Factors_2019	Rras2	Abl2	Madcam1	Atm	Sspn	Hpse2	Ephb2	Nfkb1
+CDX1 human	TRRUST_Transcription_Factors_2019	Tbp	Pcna	Postn	Irf2bp2	Pparg	Dsc2	Krt20	Ptgs2
+CDX2 human	TRRUST_Transcription_Factors_2019	Slc15a1	Vdr	Muc17	Igfbp3	Axin2	Klf4	Sp1	Apc	Elmo3	Tff3	Cdh17	Lct	Dsc2	Cftr	Ugt1a10	Gucy2c	Abcb1a	Gsk3b	Cdkn1a	Gstp1	Fut2	Acat3	Ptgs2	Gspt1	Slc9a2	Heph	Reg4
+CDX2 mouse	TRRUST_Transcription_Factors_2019	Mgam	Cdx4	Cdx1	Pou5f1	Glb1	Shh	Heph	Nanog	Cdh17
+CEBPA human	TRRUST_Transcription_Factors_2019	Il10	Cd163	Slc10a1	Homer3	Sftpd	Defa5	Fn1	Hspa4	Il3	Il5	Il6	Id1	Alb	Lep	Tlr9	Bcl2	S100a9	Csf3r	Csf1	Prl3d2	Cyp3a13	Vldlr	Hk3	Socs3	Myc	Spp1	Pck2	Pck1	Elane	Msr1	Insr	Stat3	Igf1	Igf2	F9	Star	Hamp	Mad1l1	Gapdhrt	Spi1	Serpinc1	Crmp1	Afp	Csf2ra	Hsd17b11	Icam1	Cxcr2	Itgax
+CEBPA mouse	TRRUST_Transcription_Factors_2019	Abca3	Spi1	Nr1h3	Crabp2	Zbtb16	Cflar	Slc2a4	Clu	Nfkb1	Ptgs2	Il4	Lpin1	Scgb1a1	Alb	Aldh3a1	Bcl2	Il12b	Prtn3	Nos2	Mstn	Amelx	Apod	Pck1	Elane
+CEBPB human	TRRUST_Transcription_Factors_2019	Il10	Mmp1a	Gdf15	Slc10a1	Sftpd	Il13	Asns	Ptpn13	Il3	Il5	Il4	Il1b	Slc5a8	Il6	Irf4	Alb	Tff3	Top1	S100a9	Abcb1a	Csf3r	Hp	Tnfaip6	Prdm1	Prl3d2	Adm	Tnf	Prss50	Hsf1	Csrp1	Pck2	Insr	Cr2	Xbp1	Dapk1	Gadd45g	Gfer	F8	Star	Bcl2l1	Ddit3	Mad1l1	Crp	Oxtr	Furin	Cdkn1a	Il24	Gh	Fasl	Cyp19a1	Ptgs2	Plac1	Slc19a1
+CEBPB mouse	TRRUST_Transcription_Factors_2019	Insr	Snrpn	Cr2	Slc10a1	Foxf1	Hgf	Fos	Mafb	Runx2	Il1b	Il6	Scgb1a1	Alb	Aldh3a1	Id2	Pparg	Bcl2	Cebpa	Csf1r	Atf3	Btg2	Csf3	Cdkn1a	Serpine1	Il5ra	Ucp1	Clu	Csn2	Ptgs1	Ptgs2	Socs3	Bglap2	Cxcr4	Myc	Abl2	Abl1	Ppargc1a	Pck1
+CEBPD human	TRRUST_Transcription_Factors_2019	Pdgfra	Ccl20	Tnfaip6	Prl3d2	Gadd45g	Tnf	Pou5f1	Sod1	Cyp19a1	Ptgs2	C3	Casp8	Il23a	Pparg	Ddit3	Gapdhrt
+CEBPE human	TRRUST_Transcription_Factors_2019	Spi1	Mmp2	Myc	Prg2	Ctsg	Ltf	Gata1
+CEBPZ human	TRRUST_Transcription_Factors_2019	Col1a2	Mlh1	Apc	Gzmc	Col11a1	Sox9
+CIITA human	TRRUST_Transcription_Factors_2019	Crebbp	Rab4b	H2-Eb2	Stat1	2410137M14Rik	Mmp9	Sirt1	Col1a2	Il4	Irf1	Col1a1	Psmc5	Irf2	H2-Ab1	H2-Ea	S100a4	Slc26a3	Fasl	H2-DMb1	Plxna1	H2-Ob	H2-DMa	H2-Oa
+CITED2 mouse	TRRUST_Transcription_Factors_2019	Cebpa	Smad3	Ldhd	Nr5a1	Ldhb	Fgf9	Pparg	Pdk4	Mmp9	Wnt4	Pdk2
+CLOCK human	TRRUST_Transcription_Factors_2019	Nr0b2	Nr3c1	Per3	Per2	Tpo	Nampt	Kat5	Per1	Bhlhe40	Star	Bhlhe41	Cry2	Cry1
+CLOCK mouse	TRRUST_Transcription_Factors_2019	Vwf	Serpine1	Serpine2	Scnn1a	Nr0b2	Dbp	Per2	Thbd	Tpo	Nampt	Per1	Bhlhe40	Bhlhe41	Cry2	Cry1
+CREB1 human	TRRUST_Transcription_Factors_2019	Slc39a1	Il10	Jun	Mmp2	Bdnf	Muc5ac	Mitf	Etv3	Cck	Il2	Nr5a2	Cd4	Th	Il6	Rrm2b	Ifng	H2-Ab1	Tlr9	Nf1	Bcl2	Slc22a8	Vip	Gsk3b	Pcsk1	Gsk3a	Crtc1	Hpgd	Odc1	Trh	Nolc1	Prl3d2	Nrf1	Aqp3	Adra1a	Acaca	Uxt	Mc2r	Laptm4b	Bcl2l11	Casp8	Bdkrb1	Erbb2	Bdkrb2	Muc4	H2-Ob	Gabpa	Fos	Nr2f1	Nr2f6	Smad6	Ppp2ca	Ndc80	Nr4a3	Ar	Rp1	Ppm1d	Nmnat2	Snai2	Spry2	Snai1	Ptges	Foxa1	Flt1	Il5ra	Slc20a1	Psen1	Ppp2r2b	Plau	Xpc	Plat	Nts	Grpr	Cyp19a1	Ptgs2	Cyp17a1	Lyl1	Cyp11a1	Pold2	Cxcr4	Stmn1	Ibsp	Ccl5	Npy	Hmox1	Sox9	Slc19a1	Cga	Msmb
+CREB1 mouse	TRRUST_Transcription_Factors_2019	Entpd1	Il10	Hspa5	Prkce	Mif	Fos	Nfkbiz	Mitf	Etv2	Etv3	Acsl4	Esr1	Cldn11	Ppm1d	Nmnat2	Pde3b	Nf1	Bcl2	Cftr	Nectin2	Crtc2	Twist1	Slc20a1	Nrf1	Ptgs2	Ldha	Penk	Noct	Ppargc1a
+CREB5 human	TRRUST_Transcription_Factors_2019	Dgkg	Atp6v0e	Stat1	Rdx	Mx2	Lgals3bp	Mapkapk3	Ly96	Tnfrsf11b	Rasgrp3	Cfb	Tgfbr3
+CREBBP human	TRRUST_Transcription_Factors_2019	Ppara	Cck	Hinfp	Il4	Irf1	Rad51	Creb1	Psmc5	Insm1	Rara	S100a4	Ezh2	Trp53	Csf2	Cdkn1a	Alox15	Brca1	Egfr	Rs1	Ptgs2	Hoxa10	Hoxa9	Ep300	Pck2	Trim75
+CREBBP mouse	TRRUST_Transcription_Factors_2019	Med1	Crebbp	Nfyb	Setdb1	Hgf	Fos	Esr1	Nfkb1	Hinfp	Foxp3	F7	Myh1	Sst	Il6	Krt16	Fosb	Per1	Star	Birc5	Bcl2	Cryab	Clock	Crx	Tnf	Npas2	Rs1	Socs3	Grip1	Spib	Ldha	Cyp11a1	Ep300	Fth1	Hmox1	Ifnb1	Nfya	Alx1
+CREM human	TRRUST_Transcription_Factors_2019	Tbp	Ace	Dusp4	G6pdx	Dusp1	Gpx4	Fos	Acr	Il2	Ccna2	Zap70	Ccna1	Creb1	Th	Star	Cd247	Taf4	Il5ra	Fhl5	Plat	Fasl	Slc5a5	Ldhc	Mc2r	Ccl4
+CRX mouse	TRRUST_Transcription_Factors_2019	Samd7	Kcnv2	Rbp3	Fam161a	Sag	Rho	Nr2e3	Pde6b	Pde6a	Rs1	Samd11
+CTCF human	TRRUST_Transcription_Factors_2019	Rarres1	Dmpk	Igf2	Pax6	Wt1	Rbl2	Bcl6	Etnk2	Nf1	Ang	Nanog	App	Ipo13	Csf2	Brca1	Asap2	Celsr3	Pbxip1	Ptprg	Slc6a4	Bbc3	Rad21	Irak2	Six5	Ccnd1	Tert	Atxn7	Myc
+CTCF mouse	TRRUST_Transcription_Factors_2019	Csf2	Irak2	Mgat5b	Atxn7	Igf2	Pax6	Celsr3
+CTNNB1 human	TRRUST_Transcription_Factors_2019	Ncoa2	Rb1	Chga	Mmp7	Jun	Stard7	Glce	Fst	Gli2	Cldn2	Pld1	Ptgs2	Ar	Mmp14	Ccnd1	Myc	Tcf7	Birc5	Vim	Nrcam	Ppard	Cd44
+CTNNB1 mouse	TRRUST_Transcription_Factors_2019	Fgfbp1	Pdgfra	Mmp7	Cdx4	Cdx2	Cdx1	Axin2	Vegfd	Mitf	Isl1	Vegfa	Pml	Runx2	Mmp13	Bmp4	Mycs	Fas	Rapsn	Lef1	Lect2	Ihh	Ccnd1	Cdh1	E2f1	Myc	Casp3	Otx2	Wnt1	Wnt4	Atoh1	Foxj1	Nr0b1	Tbx3	Grem2	Ccne1	Bcl2l1	Birc5	Met	Tcf4	Nanog	Neurog1	Myf5	Ppard	Inha	Foxa2	Slc2a1	Twist1	Cyp19a1	Ptgs2	Smc3	Fgf8	Gja1	Ccl7	Bglap2	Glul	Gast	Ephb2
+CUX1 human	TRRUST_Transcription_Factors_2019	Fto	Cdkn1b	Cr2	Racgap1	Wnt5a	Cybb	Ect2	Cftr
+CUX1 mouse	TRRUST_Transcription_Factors_2019	Dctn6	Cdkn1b	Cdkn1a	Ncam1	Fam89b	Runx2	Pola1	Ccna2	Myc	Atp6v1e2
+DACH1 mouse	TRRUST_Transcription_Factors_2019	Lin28a	Cdkn1b	Sox2	Ccnd1	Nanog	Klf4
+DDIT3 human	TRRUST_Transcription_Factors_2019	Atf2	Cebpa	Rtn3	Nos3	Asns	Tnfrsf22	Sirt1	Sirt2	Trf	Il6	Cdk2	Ankrd1	Trib3	Atg5	Mcl1	Atf5
+DLX2 mouse	TRRUST_Transcription_Factors_2019	Nrp2	Dlx6	Arx	Foxj1	Amelx
+DLX3 mouse	TRRUST_Transcription_Factors_2019	Bglap2	Mmp9	Dspp	Runx2	Pgf
+DLX5 mouse	TRRUST_Transcription_Factors_2019	Gbx2	Wnt5a	Myc	Ibsp	Igfbp3	Sp7	Alpl	Dspp	Runx2
+DMTF1 mouse	TRRUST_Transcription_Factors_2019	Egr1	Ccnd2	Junb	Ets1	Areg	Ets2
+DNMT1 human	TRRUST_Transcription_Factors_2019	Mgmt	Cdkn2b	Mbd2	Gad1	Tnfrsf22	Msh2	Esr1	Vegfa	Il3	Runx3	Sfrp5	Bmp2	Birc5	Rgs10	Trp53	Rb1	Hdac1	Sfrp1	Rassf1	Reln	Casp8	Epcam	Tert	Bag1	Cxcr4	Cdh1	Timp3	Prom1
+DNMT3A human	TRRUST_Transcription_Factors_2019	Sfrp5	Cdh6	Jup	Cdkn1a	Setdb1	Igfbp3	Sfrp1	Pou5f1
+DNMT3A mouse	TRRUST_Transcription_Factors_2019	Rb1	Dpp6	Ifng	Nanog	Pou5f1	Vtn	Mdm2
+E2F1 human	TRRUST_Transcription_Factors_2019	Gins3	Ctnnbip1	Pnrc2	Hic1	Dok1	Mycs	Cdan1	Il23a	Ulk1	Asf1b	Trp53	Pcna	Rnf2	Rb1	Serpine1	Aurka	Tnf	Tyms	Aurkb	Cd2ap	Chek1	Myb	Racgap1	Ccnd1	Chek2	E2f1	Myc	Peg10	Drosha	Kdr	Muc4	Myh10	E2f6	Map3k5	Crebbp	Fzd1	Plk1	Lrba	Xrcc1	Fanca	Dhfr	Trp73	Ar	Fgfr1	Birc5	Nox4	Kif2c	Siva1	Dnmt1	Pin1	Mcph1	Mdm2	Isyna1	Cdca7	Foxm1	Rasgrp1	Ccnb1	Tnfsf11	Pdk4	Trp53bp2	Mybl2	Atg5	Skp2	Dusp1	Hspa5	Apaf1	Hmga1	Etv4	Cdc6	Vegfa	Il1b	Fshr	Irf3	Mcm5	Atm	Bcl2	Cdk1	Tlr3	Abcb1a	Mefv	Ptpro	Top2a	Brca1	Fhit	Pcsk6	Bmi1	Npat	Map1lc3a	Bbc3	Dram1	Nrip1	Rasgef1b	Tert	Casp7	Ect2	Mcl1	Wwox	Serpinb5	Rrm2	Rbm38	Dapk2	Rrm1	Trp53inp1	Rpa2	Rrp1b	Nell2	Ercc1	Rad51	Dbf4	Bivm	Ccne1	Pparg	Ddit3	Flt1	Ppp1r13b	Cdkn1c	Mcm8	Cdkn1a	Uhrf1	Fmn2	Thbs1	Mapk8	Cux1	Ccl3
+E2F1 mouse	TRRUST_Transcription_Factors_2019	Gins3	Pdgfra	Tgfb2	Apaf1	Hmga1	Mertk	Vegfa	Hinfp	Tapbp	Pola1	Mycs	Atm	Bcl2	Nfe2l2	Tlr3	Dlx1	Pcna	Rb1	Dlx2	Bmi1	Npat	Ccnd1	Pura	Tk1	Myh10	Atp6v1e2	Mcl1	Egr1	Cdkn2c	Nfkb1	Dhfr	Ddb2	Ccna2	Bin1	Nox4	Siva1	Mxd3	Dnmt1	Fbn2	Nrp1	Mcm8	Cdkn1a	Pdk4	Nos2	Bid
+E2F3 human	TRRUST_Transcription_Factors_2019	Plk1	Cdkn1a	Aurka	Cdc6	Vegfa	Ccna2	Mapk8	Ccnb1	Cux1	Tfe3	Cdk1	Map3k5
+E2F3 mouse	TRRUST_Transcription_Factors_2019	Ddb2	Mycs	Tfe3	Igf2	Pmp2	Fgf2
+E2F4 human	TRRUST_Transcription_Factors_2019	Plk4	Plk1	Mcm10	Brca1	Ttk	Ltbp4	Hcfc1	Aurkb	Ar	Rad51	Ccnb1	Ccnd1	Cux1	Myc	Peg10	Cdk2	Topbp1	Birc5	Pparg	Pclaf	Map3k5	Lin54
+E2F4 mouse	TRRUST_Transcription_Factors_2019	Plk4	Rb1	Mycs	Rad51	Stmn1	E2f2	Brca1	Fgf2	Mybl2
+E2F6 human	TRRUST_Transcription_Factors_2019	Apaf1	Il13	E2f1	Brca1	Pclaf	Cyc1	Brd7
+EBF1 mouse	TRRUST_Transcription_Factors_2019	Omp	Blk	Cd79a	Iglc3	Pax5	Pparg	Tac4
+EGR1 human	TRRUST_Transcription_Factors_2019	Chga	Ace	Gdf15	Tfpi2	Fn1	Vegfa	Il3	Tgfbr2	Syn2	Syn1	Il2	Slc9a3	Mmp14	Th	Il6	Stim1	Rbl2	Ube2srt	Fap	Fas	Ifng	Cd28	Eapp	Trp53	Fcer2a	Bcar1	Ache	Pcsk2	Atf3	Abcb1a	Tnf	Klk1b24	Egfr	Hsd11b2	Myb	Ccnd2	Tbxa2r	Ccnd1	Alox5	Wnt4	Ldlr	Toe1	Dmrt1	Ggps1	Lmtk2	Igf2	Plaur	F3	Nfkb1	Sod1	Trp73	Ar	Por	Gdnf	Impdh2	Il2rb	Ltb	Hpse	Pparg	Tcf4	Spry1	Cdk5r1	Ptges	Ptp4a1	Flt1	Cdkn1a	Nab2	Akr1b1	Pdgfc	Pdgfb	Slc4a2	Plau	Psen2	Fasl	Fgf2	Hif1a	Ptgs2	Cacna1h	Tmpo	Hyal1	Sox18	Stmn1	Ep300	Tnfsf10
+EGR1 mouse	TRRUST_Transcription_Factors_2019	Jun	Ptges2	Mmp9	Tgfbr2	Syn2	Mapk14	Il2	Il4	Il1b	Mmp14	Th	Stim1	Id3	Fas	Bax	Itga7	Gnrh1	Ache	Epo	Serpine1	Chrna7	Tnf	Ndrg1	Hsd11b2	Socs1	Ccnd2	Ccnd1	Tk1	Wnt4	Ngfr	Crebbp	Jund	Ntrk1	Cdkn2d	Ifngr1	Gadd45b	Gadd45a	Ggps1	Pdx1	Ngb	Smad7	F3	Rcan1	Cat	Ppp1r1b	Ltb	Birc5	Met	Cdk5r1	Ptges	Pnmt	Cdkn1c	Itgb6	Thbs1	Eno1	Fgf2	Nr4a1	Icam1	Igf1r	Cacna1h	Mapk8	Ptprz1	Bnip3	Il12a
+EGR2 human	TRRUST_Transcription_Factors_2019	Gjb1	Il6	Mpz	Lif	Fasl	Igf2	Ido1	Ptgs2
+EGR2 mouse	TRRUST_Transcription_Factors_2019	Cebpb	Hoxb1	Nab1	Nab2	Zbtb16	Ncmap	Cbl	Il2rb	Id2	Mpz	Id4	Hoxa2	Hoxb2
+EHMT2 mouse	TRRUST_Transcription_Factors_2019	Wnt10a	Cdkn1a	Ccnd1	Fgf21	Pparg	Pou5f1
+ELF1 human	TRRUST_Transcription_Factors_2019	Meis1	Erbb2	Tek	Tlr9	Cybb	Fcer1a	Brca2	Fli1
+ELF1 mouse	TRRUST_Transcription_Factors_2019	Csf1r	Lyl1	Epha7	Tollip	Tal1	Dntt	Fcer1a	Fcer1g	Fli1	Il3
+ELF3 human	TRRUST_Transcription_Factors_2019	Cldn7	Sprr3	Krt4	Timp3	Mmp9	Ptgs2
+ELK1 human	TRRUST_Transcription_Factors_2019	Dap3	Cited2	Eif2ak1	Srf	Fos	Pdgfb	Tnfrsf22	Psen1	Fut4	Fosl1	Zfp36	Ptprz1	Mecom	Erbb2	Tlr9	Muc4	Ezh2	Mcl1	Skp2
+ELK1 mouse	TRRUST_Transcription_Factors_2019	Egr1	Tbp	Mylk3	Il6	Hmox1	Fos	Mylk
+EOMES mouse	TRRUST_Transcription_Factors_2019	Il17a	Sox2	Mesp1	Ebf1	Prf1	Rorc
+EP300 human	TRRUST_Transcription_Factors_2019	Eif2ak1	Mmp9	Vcam1	Vegfa	Hinfp	Il5	Zeb1	Col1a2	Wt1	Il6	Krt16	Ifng	S100a4	Pcna	Rela	Abcb1a	Epo	Crabp1	Alox15	Brca1	Klk1b24	Rs1	Slc9a2	Yy1	Ccnd1	Erbb2	Myc	Cyp1b1	Car9	Crebbp	Mgmt	Cdkn2b	Parp1	Igfbp3	Nr1h4	Cybb	Nr0b2	Igf1	Gfap	Nfkb1	Trp73	Rad51	Ccne1	Tbxas1	Birc5	Dnmt1	Ezh2	Mdm2	Lama3	Cdkn1a	Ptgs2	Thbd	Ccnb2	Il12b	Trim75
+EP300 mouse	TRRUST_Transcription_Factors_2019	Edn1	Mmp2	Cav3	Axin2	Fn1	Myod1	Mmp9	Hinfp	Tapbp	Col1a2	Il6	Irf2	Rarb	Tff2	Npr1	Npas2	Rs1	Socs3	Ldha	Myb	Hrh4	Ccnd1	Spp1	Wnt4	Neurod1	Smad3	Cpt1b	Mef2c	Fos	Nr1h4	Nr0b2	Klf5	Pou5f1	F7	Col2a1	Creb1	Fasn	Aldh3a1	Birc5	Txnip	Pparg	Cryab	Dnmt1	Clock	Irs1	Flt4	Cdkn1a	Gata4	Tnfsf13b	Ptgs2	Chrne	Ccnb2	Bglap2	Hmox1	Tnfsf10	Nos2	Stat5a
+EPAS1 human	TRRUST_Transcription_Factors_2019	Flt1	Mmp14	Ptprz1	Serpine1	Ccr7	Car9	Msc	Usf2	Vegfa
+EPAS1 mouse	TRRUST_Transcription_Factors_2019	Flt1	Epo	Cited2	Serpine1	Vcam1	Pou5f1	Runx2	Efna1	Cdh5	Kdr	Fxn	Abcg3
+ERCC2 human	TRRUST_Transcription_Factors_2019	Cdkn1a	Cpd	E2f1	Xpa	Bcl2	Bax	Lamtor5	Trp53
+ERG human	TRRUST_Transcription_Factors_2019	Vwf	Zeb1	Tdrd1	Erg	Vim	Tff3	Eng	Crisp3	Hpgd	Ilk	Tmprss2	Fgf2	Icam1	Icam2	Sox4	Epb41l4b	Cdh5	Wnt11	Adamts1	Cxcr4	Epb41l3	Hmox1	Kcnn2	Pim1	Spp1
+ERG mouse	TRRUST_Transcription_Factors_2019	Lyl1	Cdh5	Vwf	Vim	Snai2	Erg	Snai1	Icam2
+ESR1 human	TRRUST_Transcription_Factors_2019	Zfhx3	Jun	Greb1	F12	Vegfa	Runx2	Mmp13	Foxp1	Nr5a2	Zeb1	Cxcl12	Sp1	Krt19	Cdk4	Cyp1a1	Bcl2	Rara	Tff1	Cd24a	Abcg3	Trp53	Ret	Btg2	Serpine1	Brca1	Tgfa	Nrf1	Ahr	Oxt	Egfr	Tyms	Hspb1	Crhbp	Pelp1	Ccnd1	Tert	Cdh1	E2f1	Myc	Ywhaq	Kdr	Cyp1b1	Tac2	Amh	Mta3	Ctsd	Mill1	Nqo1	Esrra	Fos	Esr1	Serpinb9c	Ar	Ccna2	Dct	Crh	Avp	Pgr	Mdm2	Cebpb	Flt1	Cdkn1b	Blm	Cdkn1a	Ctnnb1	Chat	Htra2	Cyp19a1	Plac1	Pmaip1	Ugt1a2	Junb	Jak2
+ESR1 mouse	TRRUST_Transcription_Factors_2019	Srebf1	Esrra	Pou3f1	Stat3	F12	Fos	Nr0b2	Igf1	Vegfa	Nell2	Bmp2	Th	Pik3r1	Pparg	Ltf	Cdkn1a	Slc2a4	Nrf1	Slc7a1	Ptgs1	Cyp19a1	Casp12	Ccnd1	Myc	Tnfsf11	Stat5a
+ESR2 human	TRRUST_Transcription_Factors_2019	Insr	Jun	Cdkn1a	Serpine1	Fos	Chat	Tgfa	Oxt	Brca2	Vegfa	Pelp1	Ptprc	Tert	Mknk2	Crh	Avp	Tff1	Ctsd
+ESR2 mouse	TRRUST_Transcription_Factors_2019	Slc2a4	Vegfa	Ptgs1	Igf1r	Ar	Nell2	Casp8	Mapk8	Bmp2	Mapk3	Akt1	Pparg	Bcl2	Casp3	Mapk1	Ptgds	Stat5a
+ESRRA human	TRRUST_Transcription_Factors_2019	Dap3	Nrip1	Snai2	Nr2f1	Ahr	Snai1	Nr2f6	Pnrc1	Cyp19a1
+ESRRA mouse	TRRUST_Transcription_Factors_2019	Ppara	Nrip1	Acadm	Rb1cc1	Apoa4	Spp1	Ppargc1a
+ETS1 human	TRRUST_Transcription_Factors_2019	Ctsb	Fgfbp1	Dusp6	Angpt2	Foxd1	Mmp1a	Mmp3	Mmp9	Emsy	Gp6	Tgfbr2	Il3	Rhoc	Il2	Mmp13	Il5	Bmp4	Col1a1	Wt1	Cd6	Bax	Sqstm1	Trp53	Tfap2a	Abcb1a	Csf3r	Csf2	Hpgd	Prl3d2	Tnc	Ndrg1	Atxn2	Myb	Tbxa2r	Tert	Casp1	Car9	Muc4	Egr1	Cr1l	Igfbp1	Chuk	Csnk2a1	Vwf	Taf12	Parp1	Tnfsf14	Cip2a	Fli1	Pthlh	Tmem158	Lck	Il2rb	Tbxas1	Cd8a	Csnk2b	Erg	Spry2	Mdm2	Slc26a3	Flt1	Cdkn1a	F13a1	Itgb3	Ece1	Was	Plau	Grpr	Anpep	Cxcr4	Hmox1	Nkx3-1	Mgat5
+ETS1 mouse	TRRUST_Transcription_Factors_2019	Il10	Angpt2	Mmp3	Ebf1	Krt8	Mmp9	Emsy	Vegfa	Tgfbr2	Foxp3	Runx3	Runx2	Mmp13	Il5	Zeb1	Bmp4	Cd4	Tlr4	Csf3r	Oprd1	Npr1	Itga2b	Prdm1	Cd3d	Cdh5	Tbx21	Kdr	Timp1	Spp1	Pcyt1a	Egr1	Serpinb5	Nos3	Vwf	Sh2d1a	Nr2f2	Fos	Nr2f1	Fli1	Ltbr	Sell	Erg	Met	Il7r	Csf1r	Ighm	Rnf11	Ikzf1	Ptgs2	Thbd	Anpep	Hmox1
+ETS2 human	TRRUST_Transcription_Factors_2019	Msr1	Egr1	Cd163	Angpt2	Mmp1a	Mmp2	Vwf	Mmp3	Mmp9	Fli1	Il5	Lck	Erg	Tlr9	Cdk1	Pde7a	Trp53	Mdm2	App	Csf3r	Csf2	Cdkn1a	Tnc	Icam1	Chrne	Anpep	Tert	Myc	Il12b	Cga
+ETS2 mouse	TRRUST_Transcription_Factors_2019	Pcyt1a	Egr1	Dusp6	Jun	Setdb1	Sh2d1a	Krt8	Etv4	Fli1	Ifne	Cd4	Kit	Bcl2l1	Erg	Mdm2	Csf1r	Csf3r	Flt4	Nab2	Stab1	Hmox1	Hmox2	Nos2
+ETV2 mouse	TRRUST_Transcription_Factors_2019	Lmo2	Spi1	Tek	Plau	Sox9	Fli1
+ETV4 human	TRRUST_Transcription_Factors_2019	Egln1	Mmp7	Mmp1a	Mmp2	Tnf	Plaur	Ets1	Tgfbr2	Syn2	Ptgs2	Mmp14	Ccnd3	Ccnd2	Tert	Bdkrb1	Erbb2	Vim	Agtr1b	Timp2	Muc4
+ETV4 mouse	TRRUST_Transcription_Factors_2019	Dusp6	Mmp7	Mmp3	Twist1	Plau	Mmp9	Zhx1	Tgfbr2	Ptgs2	Mta2	Ccnd2	Tert	Erbb2	Vim
+ETV5 mouse	TRRUST_Transcription_Factors_2019	Parg	Il17a	Cav1	Elmo1	Il17f	Ptgs2
+EWSR1 human	TRRUST_Transcription_Factors_2019	Egr2	Phlda1	Atf1	Tert	Mitf	Cck	Nr0b1	Pou4f1	Tgfbr2
+EZH2 human	TRRUST_Transcription_Factors_2019	Igfbp1	Vdr	Mmp2	Cdkn2b	Mst1	Sstr1	Runx3	Fbxo32	Kpnb1	Cpeb1	Apc	Aldh1a1	Axl	Polr3d	Pax8	Ccne1	Snai2	Trp53	Pcna	Foxc1	Satb1	Hdac1	Cdkn1a	Prl3d2	Twist1	Brca1	Adrb2	Pbp2	Sfrp1	Hoxb13	Adamts1	Ccnd1	Cdh1	Myc	Dact3	Pip5k1c	Ciita
+EZH2 mouse	TRRUST_Transcription_Factors_2019	Unc5b	Bad	Dkk1	Il17a	Creb3l1	Ccna2	Bcl2l11	Il9	Hey2	Tbx21	Il17f	Nanog	Neurog1
+FLI1 human	TRRUST_Transcription_Factors_2019	Phlda1	Il10	Mmp1a	Hdac1	Eya3	Itga2b	Igfbp3	Mir708	Mpl	Cck	Fli1	Foxm1	Gp6	Gp9	Tgfbr2	Gata1	Col1a2	Tert	Ep300	Id2	Hmox1	Erg
+FLI1 mouse	TRRUST_Transcription_Factors_2019	Rb1	Itga2b	Smad6	Fli1	Mmp13	Inpp5d	Lyl1	Tert	Erg	Upp1	Ezh2
+FOS human	TRRUST_Transcription_Factors_2019	Fgfbp1	Mmp7	Mmp1a	Pdha1	Slc10a2	Mmp3	Vegfd	Cck	Mmp9	Il1a	Acta1	Fas	Meltf	Cyp1a2	Trp53	Sprr3	Clu	Casp9	Ccnd1	Ntf3	Myc	Pck2	Nqo1	Batf3	Smad4	Fos	Plaur	Fmo4	Smad7	Nfkb1	Ngf	Ercc4	Star	Bcl2l1	Ddit3	Pgr	Cd40lg	Ezr	Foxa1	Crp	Spi1	Oxtr	Stfa1	Gstp1	Crem	Plau	Nts	Ptgs2	Hsph1	Srr	Nppa	Npy	Nefl	Lrig2	Nos2	Sox7
+FOS mouse	TRRUST_Transcription_Factors_2019	Tgfb1	Jun	Slc10a2	Mmp2	Bdnf	Nfatc1	Mmp9	Il2	Ifne	Il6	Bmp2	Stim1	Krt18	Dcstamp	Tff2	Nfe2l2	Gnrh1	Csf3	Tinagl1	Grik2	Ppp1r3b	Socs3	Pdpn	Nacc1	Penk	Acp5	Egr1	Tslp	Fos	Ngf	Wee1	Pomc	Star	Crh	Src	Spi1	Srxn1	Gria1	Fam89b	Il27	Plau	Hmgcr	Nr3c1	Il1rl1	Mapk8	Srr	Ccl5	Nefl	Nos2	Tpsb2	Nck2
+FOSL1 human	TRRUST_Transcription_Factors_2019	Gclc	Mmp1a	Sftpd	Itgb3	Clu	Plaur	Itgav	Ezh2
+FOSL1 mouse	TRRUST_Transcription_Factors_2019	Jun	Mmp2	Prdm1	Fos	Thbs1	Thbs2	Nfe2l2
+FOSL2 human	TRRUST_Transcription_Factors_2019	Tgfb1	Clu	Brca1	Plaur	Il5	Fosl1	Myb	Bcl6	Ibsp	Timp1	Nos2	Ccr4	Mdm2
+FOXA1 human	TRRUST_Transcription_Factors_2019	Sftpb	Ret	Abca1	Serpinc1	Brca1	Krt7	Gcg	Esr1	Ccng2	Myc	Hspa1b	Nf1	Bcl2	Nkx2-1	Agr2	Tff1	Rprm	Apob	Cftr
+FOXA1 mouse	TRRUST_Transcription_Factors_2019	Sftpb	Sftpc	Cbx5	Scgb1a1	Sftpd	Pdx1	Afp	Sftpa1	Gcg
+FOXA2 human	TRRUST_Transcription_Factors_2019	Col18a1	Tcf7l2	Mmp7	Abca1	Serpinc1	Sox14	Gfer	Pax6	Gcg	Nr5a2	Tpo	Slco1b2	Apoa1	Cdh1	Nkx2-1	Agr2	Tff1	Cftr
+FOXA2 mouse	TRRUST_Transcription_Factors_2019	Il33	Tbx1	St18	Tle4	Cpt1a	Hmgcs2	Cbx5	Helt	Ccl20	Il13	Wnt7b	Pdx1	Gcg	G6pc2	Pgf	Il4	Lmx1b	Lmx1a	Map1b	Birc2	Ccl11	Cul2	Ferd3l	Mchr1	Gli2	Cdc73	Vtn	Ascl1	Sox2	Sox17	Otx1	Msx1	Otx2	Hcrt	Hadh
+FOXC1 mouse	TRRUST_Transcription_Factors_2019	Tbx1	Cxcl12	Hey2	Cxcr4	Msx2	Snai1	Dll4	Runx2
+FOXC2 mouse	TRRUST_Transcription_Factors_2019	Tbx1	Hand1	Hey2	Gja4	Cxcr4	Itgb3	Dll4
+FOXD3 human	TRRUST_Transcription_Factors_2019	Cyfip2	Capn6	Rarb	Mitf	Spp1	Rnd3	Ndrg1
+FOXF2 human	TRRUST_Transcription_Factors_2019	Itgb1	Cxcl12	Bambi	Pdgfa	Wasf2
+FOXG1 mouse	TRRUST_Transcription_Factors_2019	Eya2	Cdkn1a	Dmrt3	Cdkn2b	Serpine1	Dmrta1	Ebf2	Ebf3
+FOXM1 human	TRRUST_Transcription_Factors_2019	Sftpb	Fgb	Btg2	Cdc25a	Cyp3a13	Cdc6	Cdc25b	Vegfa	Vegfb	Ar	Brip1	Ccnb1	Cdh1	Myc	Krt15	Apoe
+FOXM1 mouse	TRRUST_Transcription_Factors_2019	Sftpb	Sftpc	Stat3	Lama4	Axin2	Lif	Prrc2a	Pou5f1	Nfkb2	Ptgs2	Socs3	Brip1	Nr4a2	Ikbkb	Mycs	Sox2	Scgb1a1	Cdh1	Myc	Pttg1	Snai2	Snai1
+FOXO1 human	TRRUST_Transcription_Factors_2019	Egr1	Igfbp1	Edn1	Cdkn1b	Angpt2	Irs2	Fshb	Prl3d2	Pdgfb	Pdgfa	Adipor1	Nlk	Klf2	Ar	Fabp4	Il6	Cxcr4	Txnip	Hyou1	Tnfsf10	Nkx6-1	Rag1	Neurog3
+FOXO1 mouse	TRRUST_Transcription_Factors_2019	Ccr2	Edn1	Trim63	Angpt2	Ccl20	Fshb	Foxp3	Gck	Runx2	Mmp13	Ccng2	Alpl	Bax	Myh7	Adipor1	Casp8	Bcl2l11	Ccnd2	Ccnd1	Akt1	Ccr7	Ppargc1a	Pck1	Egr1	Adipoq	Srebf1	Igfbp1	Nos3	Pdx1	Klf2	Pik3r1	Apoc3	Sell	Ostn	Pparg	Trib3	Il7r	Foxa2	Cdkn1b	Cdkn1a	Lpl	Ikzf1	Pdk4
+FOXO3 human	TRRUST_Transcription_Factors_2019	Galt	Cdkn2b	Myocd	Sirt6	Fasl	Sirt1	Foxm1	Vegfa	Vegfb	Ar	Bbc3	Bcl2l11	Ccnd2	Bcl6	Pik3ca	Txnip	Birc5	Tnfsf10
+FOXO3 mouse	TRRUST_Transcription_Factors_2019	Socs3	Cdkn1b	Nol3	Ccnd2	Ccnd1	Gadd45a	Ccng2	Lcn2	Sirt1
+FOXO4 human	TRRUST_Transcription_Factors_2019	Psmd11	Creb1	Bcl6	Tnfsf10	Hif1a	Sod2
+FOXO4 mouse	TRRUST_Transcription_Factors_2019	Bcl2l11	Rbl2	Ccnd2	Ccnd1	Gadd45a	Anxa8	Ppargc1a
+FOXP1 mouse	TRRUST_Transcription_Factors_2019	Fgf17	Fgf16	Scgb1a1	Lhx3	Fgf20	Fgf3
+FOXP2 human	TRRUST_Transcription_Factors_2019	Srpx	Cntnap2	Srpx2	Nkx2-1	Met	Plaur
+FOXP3 human	TRRUST_Transcription_Factors_2019	Il10	Satb1	Usp21	Cdkn1a	Il2ra	Erbb2	Brca1	Zfp13	Ccr4	Il2
+FOXP3 mouse	TRRUST_Transcription_Factors_2019	Il22b	Il17a	Il2ra	Erbb2	Ifng	Tnfrsf18	Ctla4	Brca1	Nfkb1	Opn1sw	Il2	Skp2
+FOXQ1 human	TRRUST_Transcription_Factors_2019	Wnt3a	Cdh1	Bcl11a	Twist1	Rspo2	Vegfa
+GABPA mouse	TRRUST_Transcription_Factors_2019	Chrne	Il10	Cox4i1	Cyp7b1	Sod3	Il7r	Skp2
+GATA1 human	TRRUST_Transcription_Factors_2019	Hbb-y	Hba-a1	Runx1	Dicer1	Cdc6	Gp6	Gp9	Cops5	Bst2	Wt1	Gfi1b	Tal1	Ifng	Cda	Gypa	Epo	Itga2b	Mpl	Bach1	Ppox	Muc1	Dpysl2	Dach1	Tbxa2r	Bdkrb1	Fcer1a	Ccr3	Nfe2	Smad1	Klf1	Prg2	Cybb	Gp1bb	Fli1	Epor	Bace1	Semg1	Gnas	Aggf1	Cebpa	Ptgfr	Hemgn	Spi1	Alas2	Furin	Cbfb	F13a1	Ltbp4	Pbxip1	Gata1	Il1rl1
+GATA1 mouse	TRRUST_Transcription_Factors_2019	Sigmar1	Nfe2	Spi1	Zbtb7a	Epb42	Itga2b	Cdc6	Fli1	Ccna1	Tfdp2	Tal1	Fcer1g	Cga
+GATA2 human	TRRUST_Transcription_Factors_2019	Spi1	Epo	Angpt2	Nos3	Adh1	Prg2	Cybb	Gata1	Ar	Il1rl1	Dpysl2	Wt1	Pparg	Pecam1	Fcer1a	Ms4a2	Tshb
+GATA2 mouse	TRRUST_Transcription_Factors_2019	Cebpa	Spi1	Lyl1	Csf2	Angpt2	Rc3h1	Nkx6-1	Smad6	Tshb
+GATA3 human	TRRUST_Transcription_Factors_2019	Tcf7l2	Il10	Mmp1a	Cdx2	Stat4	Esr1	Nfkb1	Epor	Tgfbr3	Il5	Zeb1	Il4	Lox	Cd8b1	Slco4c1	Cd8a	Aldh1a2	Ifng	Tek	Erg	Cd40lg	Lcn11	Chst4	Rela	Foxc2	Epo	Foxc1	Klk1b24	Gata3	Fut7	Muc1	Cdh3	Hsd17b1	Cdh1	Il12rb2
+GATA3 mouse	TRRUST_Transcription_Factors_2019	Cdkn2c	Il10	Cdx2	Il13	Il24	Foxp3	Il3	Runx3	Il5	Il4	Mycs	Dlc1	Ifng	Tbx21	Erg	Fgf10	Rag2
+GATA4 human	TRRUST_Transcription_Factors_2019	Nos3	Hdac9	Fabp2	Il5	Cyp17a1	Fcgr4	Fcgr3	Sgpl1	Ccnd2	Sumo1	Iapp	Sis	Nppa	Erbb2	Star	Nppb	Fgf10	Hamp	Amh
+GATA4 mouse	TRRUST_Transcription_Factors_2019	Hexim1	Mef2c	Hspa5	Dmrt1	Myog	Epor	Lrrc10	Spdef	Bmp4	Ccnd2	Nppa	Id2	Nppb	Star	Ankrd1	Hesx1	Amh	Adora1	Nkx2-5	Lhx9
+GATA6 human	TRRUST_Transcription_Factors_2019	Sult2a1	Cyp17a1	Dab2	Vwf	Apoa1	Cyp11a1	Cav1	Plau	Dkk1
+GATA6 mouse	TRRUST_Transcription_Factors_2019	Ppp1r14a	Sftpc	Rbpjl	Cdx2	Tnnc1	Cav1	Wnt7b	Bhlha15	Ttf1	Mylk	Spdef	Shh	Nkx2-1	Sftpa1	Nox1
+GFI1 human	TRRUST_Transcription_Factors_2019	Cyp27b1	Gucy1b1	Cdkn1a	Bax	Nf1	Elane
+GFI1 mouse	TRRUST_Transcription_Factors_2019	Spi1	Gfi1b	Cdkn1a	Cdkn2b	Id2	Zbtb16	Bax	Bak1	Il7r	Elane
+GFI1B mouse	TRRUST_Transcription_Factors_2019	Socs3	Socs1	Meis1	Gfi1b	Elf4	Gfi1	Rcor2	Rag1	Rag2
+GLI1 human	TRRUST_Transcription_Factors_2019	Egr2	Pdgfra	Smad4	Jun	Il1r2	Muc5ac	Tnfrsf22	Sfrp1	Socs1	Fas	Bhlhe41	Cdk2	Akt1	Bcl2	Sox9	S100a9
+GLI1 mouse	TRRUST_Transcription_Factors_2019	Pdgfra	Has2	Cdh1	Nhlh1	Pvr	Foxm1	Runx3	Runx2
+GLI2 human	TRRUST_Transcription_Factors_2019	Foxa2	Ifitm5	Wnt2b	Foxc2	Pdgfra	Jun	Foxe1	Foxf1	Fst	Muc5ac	Tnfrsf22	Foxl1	Socs1	Fas	Cdh1	Bhlhe41	Bcl2
+GLI2 mouse	TRRUST_Transcription_Factors_2019	Ifitm5	Foxe1	Ptch1	Gli1	Pax3	Ascl1	Bmp2	Shh	Ndp	Fkbp8	Hes1	Sox8	Myf5
+GLI3 mouse	TRRUST_Transcription_Factors_2019	Fgf8	Shh	Pitrm1	Has2	Pvr	Gli2	Nkx6-1	Gli1	Myf5
+GTF2I mouse	TRRUST_Transcription_Factors_2019	Sec23a	Tgfb2	Hspa5	Fos	Dlk1	Tgfbr2	Cfdp1	Akap12	Csrp2	Id1	Ccnd1	Nsd1	Ccl7	Gsc	Folr1
+GTF2IRD1 mouse	TRRUST_Transcription_Factors_2019	Tgfb2	Csrp2	Ccl7	Dlk1	Folr1	Tgfbr2
+HAND2 mouse	TRRUST_Transcription_Factors_2019	Dlx5	Dlx6	Dbh	Msx1	Phox2b	Runx2
+HDAC1 human	TRRUST_Transcription_Factors_2019	Hmgcs1	Hspa5	Eif2ak1	Mmp9	Rhob	Runx3	Il2	Col1a2	Sp1	Bambi	Rarb	H2-Ea	Tff1	Trp53	Pcna	Abcb1a	Cd82	Bcl2a1d	Alox15	Psip1	Cyp3a13	Brca2	Egfr	Sfrp1	Reln	Epcam	Ccnd2	Ccnd1	Tert	Cdh1	E2f1	Spp1	Mill1	Egr1	Serpinb5	Nos3	Mgmt	Stat3	Gad1	Igfbp3	Fos	Smad7	Esr1	Klf4	Pou5f1	Nfkb1	Ar	Cldn7	Tjp1	Apoc3	Snai2	Birc5	Txnip	Rgs10	Reck	Dnmt1	Birc3	Cd44	Cdkn1a	Cd1d1	Icam1	Ptgs2	Recql4	Grin2b	Mmp28
+HDAC1 mouse	TRRUST_Transcription_Factors_2019	Jun	Cdc25a	Ppp2ca	Ar	Nfkbia	Sp1	Rbl2	Il6	Fas	Fshr	Star	Pparg	Reck	Cebpb	Cdkn1b	Cdkn1a	Csn2	Comp	Epcam	Akap12	Bglap2	Ccl5	Il12b	Nos2	Spp1	Nfya
+HDAC2 human	TRRUST_Transcription_Factors_2019	Cad	Apaf1	Muc5ac	Igf1	Klf4	Vegfa	Tgfbr2	Bmp7	Col1a2	Sp1	Mycs	Ccne1	Snai2	Dnmt1	Cdkn1a	Twist1	Cd1d1	Grm2	Cdh1	Myc	Alox5	Tnfsf10	Trp63
+HDAC2 mouse	TRRUST_Transcription_Factors_2019	Nfkbia	Cdkn1a	Ccne1	Star	Nos2	Smarca4	Grm2	Bmp7
+HDAC3 human	TRRUST_Transcription_Factors_2019	Gtf2i	Jun	Mbd1	Mmp2	Ifna4	Lss	Tnf	Egfr	Gata2	Vegfa	Grhl1	Pram1	Apoc3	Cxcr4	Cdh1	Myc	Alox5	Gas2	Tlr9	Raet1d	Pck2	Gcm1
+HDAC3 mouse	TRRUST_Transcription_Factors_2019	Nfkbia	Nr4a2	Cdkn1b	Phlpp1	Jun	Bcl2l1	Fos
+HDAC4 human	TRRUST_Transcription_Factors_2019	Tgif2	Tgif1	Mef2a	Hdac3	Il10	Smad4	Jun	Cdkn1a	Slc2a4	Vcam1	Klf4	Hoxb13	Vegfa	Ptgs2	Runx2	Mmp13	Il5	Ptpa	Wt1	Car9	Reck	Atf4	Ptges
+HDAC5 human	TRRUST_Transcription_Factors_2019	Mef2a	Yy1	Wt1	Slc2a1	Slit2	Slc2a4	Igf2	Fgf2
+HDAC7 human	TRRUST_Transcription_Factors_2019	Mef2a	Mef2d	Mef2c	Actn4	Cdkn1a	Maml1	Hdc	Esr1	Hif1a	Cyp7a1	Nr4a1	Akap12
+HDAC9 human	TRRUST_Transcription_Factors_2019	App	Rela	Igfbp1	Mef2a	Myef2l	Cited2	Hspa5	Prl3d2	Cflar	Tnfrsf22	Il18	Esr1	Nfkb1	Mmp13	Stat6	Trp53
+HDGF human	TRRUST_Transcription_Factors_2019	Fas	Cdh1	Vim	Smyd1	Vegfa	Vegfb
+HES1 human	TRRUST_Transcription_Factors_2019	Cd4	Dbf4	Map2	E2f1	Htr1a	Ascl1	Ptgds
+HES1 mouse	TRRUST_Transcription_Factors_2019	Cdkn1b	Cdkn1c	Map2	Htr1a	Coro1a	Ascl1
+HESX1 mouse	TRRUST_Transcription_Factors_2019	Prop1	Pou1f1	Fshb	Cga	Dnmt1
+HEY1 human	TRRUST_Transcription_Factors_2019	Ocln	Acta2	Bmp2	Prox1	Gata6	Kdr	Gata4
+HEY1 mouse	TRRUST_Transcription_Factors_2019	Id1	Nppa	Gata6	Olig2	Gata4	Runx2
+HIC1 human	TRRUST_Transcription_Factors_2019	Stat3	Myc	E2f1	Ackr3	Vldlr	Epha2	Sirt1	Lrp8	Vegfa
+HIF1A human	TRRUST_Transcription_Factors_2019	Edn1	Ace	Tgfb3	Mmp2	Sdhb	Muc3a	Vegfa	Gck	Vegfb	Tlr2	Ass1	Cxcl12	Pik3ca	Ppp1r3c	Lep	Vim	Bax	Agtr1b	Tlr6	Aldoa	Abcb1a	Epo	Serpine1	Klk1b24	Muc1	Nt5e	Socs1	Ldha	Ccnd1	Tert	Tubb3	Cdh1	Pgk1	E2f3	Timp2	Car9	Ccr7	Mill1	Wasf3	Arnt2	Egln1	Egln3	Ppara	Stat3	Alox5ap	Mif	Arnt	Ace2	Ar	Lox	Ercc2	Apex1	Met	Zfp217	Reck	Hbegf	Slc29a1	Gapdhrt	Ptges	Pfkfb3	Itgb2l	Pfkfb4	Alas2	Tfrc	Slc2a1	Twist2	Twist1	Plau	Eno1	Xpc	Fgf2	Hif1a	Rora	Nr3c1	Nr4a1	Ednrb	Fam162a	Cxcr4	Vhl	Bnip3	Setd2	Bid
+HIF1A mouse	TRRUST_Transcription_Factors_2019	Pfkfb3	Crebbp	Epo	Cited2	Myocd	Serpine1	Tuft1	Vegfa	Ptgs2	Bace1	Dll4	Mdk	Hey2	Bsg	Hey1	Fam162a	Hmox1	Snai1
+HIPK2 human	TRRUST_Transcription_Factors_2019	Abcb1a	Mef2c	Cdkn1a	Ctbp2	Vim	Hif1a	Nox1	Vegfa	Trp53
+HIVEP2 human	TRRUST_Transcription_Factors_2019	2410137M14Rik	H2-T24
+HMGA1 human	TRRUST_Transcription_Factors_2019	Kl	Insr	Pou1f1	Xpa	Cdc25a	Twist1	Brca1	Ptgs2	Il1b	Sp1	Cdh1	Cryab	Trp53	Rag2	Cd44
+HMGA2 mouse	TRRUST_Transcription_Factors_2019	Mia	Cdh1	Igf2bp2	Snai2	Twist1	Snai1	Nfkb1	Nkx2-5
+HNF1A human	TRRUST_Transcription_Factors_2019	Gpr39	Igfbp1	Ugt1a1	Vegfa	Tm4sf1	Alb	Cyp1a2	Cdh17	Slc22a29	Lct	Fabp1	Ugt1a10	Crp	Mttp	Acat3	Nt5e	Apom	Csrp1	Slco1b2
+HNF1A mouse	TRRUST_Transcription_Factors_2019	Mgam	Slc6a19	Pax4	Cyp7b1	Cyp8b1	Cyp39a1	Guca2a	Il17a	Cyp27a1	Glb1	Soat2	Bcl6	Cyp1a2	Cyp2e1	Lct	Crp	Prdm1	Rorc	Cyp7a1	Cldn2	Pkhd1	Pck1
+HNF1B mouse	TRRUST_Transcription_Factors_2019	Socs3	Egr2	Pkhd1	Onecut1	Pde4c	Kif12	Mafb
+HNF4A human	TRRUST_Transcription_Factors_2019	Gpr39	Tbp	Abcg8	Tcf7l2	Mmp7	Ppara	Kcnj11	Abcc6	Apoa2	Gfer	Rnase2b	Gh	Gck	Fabp2	Cyp27a1	Hnf1a	Apoa1	Apoc3	Abcg5	Shbg	Slc26a3	Slc22a6	Serpinc1	Nr1i2	Cdkn1a	Mttp	Pcsk9	Afp	Cyp3a13	Cyp7a1	Lipc	Acat3	C1qtnf5	Npc1l1	Cyp2d10	Myc	Ldlr	Apob	Ugt1a10
+HNF4A mouse	TRRUST_Transcription_Factors_2019	Ppara	Slc6a19	Slc10a1	Pklr	Cdx2	F12	Hmga2	Apoa4	Gck	Apoc3	Slc27a5	Cfb	Shbg	Cebpa	Foxa2	Foxa1	Cebpb	Onecut1	Gstp1	Acmsd	Csn2	Cyp7a1	Lipc	Perp	Ppargc1a	Pck1
+HOXA1 human	TRRUST_Transcription_Factors_2019	Pcna	Lyl1	Epas1	Ccnd1	Myc	Bcl2	Ier3
+HOXA10 human	TRRUST_Transcription_Factors_2019	Il11	Igfbp1	Emx2	Cdkn1c	Il15	Itgb3	Bhlhe22	Klf9	Wt1	Lyl1	Mycs	Id2	Phgdh	Snai1	Trp53
+HOXA10 mouse	TRRUST_Transcription_Factors_2019	Hlf	Tdo2	Gfi1	Phgdh	Dkk1	Gata1	Mylk
+HOXA9 human	TRRUST_Transcription_Factors_2019	Rela	Mycs	Cdh3	Arhgef1	Id2	Sele	Vcam1	Nfkb1
+HOXA9 mouse	TRRUST_Transcription_Factors_2019	Lmo2	Sox4	Flt3	Myb	Erg	Spp1
+HOXB7 human	TRRUST_Transcription_Factors_2019	Cdkn1b	Ccnd1	Mmp2	Dapk1	Wnt5a	Pdgfa	Fgf2	Thbs2	Egfr	Vegfa
+HOXC8 mouse	TRRUST_Transcription_Factors_2019	Pcna	Clec10a	Llgl1	Spp1	Smad6	Nkd2	Sgpp1
+HSF1 human	TRRUST_Transcription_Factors_2019	Jun	Hspa4	Nat1	2410137M14Rik	Nfkb1	Guca2b	Hopx	Il1b	Crygb	Cryga	Hspa1b	Map3k14	Fkbp4	Rela	Abcb1a	Cdkn1a	Serpine1	Tnf	Hsd17b6	Fut4	Stip1	Ldha	Bag3	Ubb	Sesn3	Polk	Atg7	Mill1
+HSF2 human	TRRUST_Transcription_Factors_2019	Map2k4	Mapk8	Tnfsf11	Fos	Txn1	Hspa4	Hif1a
+ID1 mouse	TRRUST_Transcription_Factors_2019	Cdkn1a	Ifng	Alpl	Myod1	Rel	Thbs1	Tnf	Rorc	Runx2
+ID2 mouse	TRRUST_Transcription_Factors_2019	Col1a2	Ccna2	Spi1	Lipe	Il10	Zbtb16	Alpl	Tcf3	Runx2
+ID3 mouse	TRRUST_Transcription_Factors_2019	Adipoq	Col1a2	Smarcc1	Notch1	Alpl	Vcam1	Runx2
+IKBKB human	TRRUST_Transcription_Factors_2019	Nos2	Mmp9	Vcam1	Trp53	Cd44
+IKBKB mouse	TRRUST_Transcription_Factors_2019	Cxcl10	Nfkbia	Cxcl9	Rps6kb1	Cxcr4	Tnf	Ccl19	Nfkb1	Ptgs2
+IKZF1 mouse	TRRUST_Transcription_Factors_2019	Notch1	Oprd1	Il10	Osr1	Oprk1	Il2	Cd79a	Cd4	Iglc3	Myc	Nos2	Prom1	Fgfr4	Rag1	Il7r
+ILF3 human	TRRUST_Transcription_Factors_2019	H2-Ea	Birc5	Acrv1	Plau	Il2	H2-Eb2
+ING1 human	TRRUST_Transcription_Factors_2019	Pcna	Cdkn1a	Fat1	Casp3	Bax	Afp	Trp53
+ING4 human	TRRUST_Transcription_Factors_2019	Cdkn1b	Ntrk1	Cdkn1a	Angpt1	Ngf	Ptgs2	Ccnd1	Arl6ip5	Bcl2	Casp3	Bax	Spp1	Trp53	Skp2
+IRF1 human	TRRUST_Transcription_Factors_2019	Il10	Eif2ak2	Tap2	Tap1	Mmp9	Vcam1	Psmb9	Tapbp	Foxp3	Cxcl10	Ogn	Irf2	Cdk4	Ifng	Slpi	Cdk2	Bcl2	Cdk1	Trp53	Cd40	Psmb10	Socs1	Socs2	Myb	Casp7	E2f1	Ciita	Ifna4	Dst	Cybb	2410137M14Rik	Ccne1	Ncf2	Cdkn1a	Il27	Pigr	Fasl	Ifit3	Ccnb1	Ccl5	Il12b	Ifnb1	Tnfsf10	Il12a	Trim75	Polh
+IRF1 mouse	TRRUST_Transcription_Factors_2019	Tap2	Tap1	Foxp3	Mapk14	Cxcl10	Il4	Myd88	Sell	Ifng	Cfb	Cdkn1a	Il27	Pigr	Tnf	Socs1	Ccl5	Il12b	Ifnb1	Il12a	Nos2	Upp1	Ciita	Gbp2
+IRF2 human	TRRUST_Transcription_Factors_2019	Il4	Ifngr1	Dst	Cxcr4	Ifnb1	Tap1	Ciita
+IRF3 human	TRRUST_Transcription_Factors_2019	Abcc2	Ifna4	Cxcl10	Mavs	Socs2	Tnpo1	Irf5	Pura	Ccl5	Ifnb1	Irf7	Tlr4	Tlr3
+IRF3 mouse	TRRUST_Transcription_Factors_2019	Socs2	Il23a	Ifna4	Pura	Ifnb1	Pvr	Il12a	Usp18
+IRF4 mouse	TRRUST_Transcription_Factors_2019	Il1b	Il4	Spi1	Cxcl9	Il10	Il9	Cdkn2b	Prdm1	Nfatc2	Zbtb20	Runx3
+IRF7 human	TRRUST_Transcription_Factors_2019	Cxcl10	Ifna4	Ifnl2	Cd80	Ccl5	Nr1h4	Ifnb1	Atf4
+IRF7 mouse	TRRUST_Transcription_Factors_2019	Ifnl2	Ifna4	Nr1h4	Ifnb1
+IRF8 human	TRRUST_Transcription_Factors_2019	Il1b	Il10	Ncf2	Cflar	Gas2	Nf1	Cybb	Il12a	Tlr4	Tlr3
+IRF8 mouse	TRRUST_Transcription_Factors_2019	C1qb	Spi1	Slc11a1	Cdkn2b	Il27	Cflar	Tnf	Fancc	Bcr	Il1b	Dab2	Cd8a	Ccl5	Ifng	Gas2	Nf1	Il12b	Il12a	Nos2	Abl1	Jak1
+IRF9 human	TRRUST_Transcription_Factors_2019	Cdkn1b	Ccnd2	Cdkn1a	Il27	Ncam1	Ifit3	Pml
+ISL1 mouse	TRRUST_Transcription_Factors_2019	Mef2c	Arx	Fgf10	Msx1	Pou4f2	Tbx5	Pbx1
+JUN human	TRRUST_Transcription_Factors_2019	Map3k1	Cck	Vcam1	Runx2	Il23a	Mgp	Fas	Meltf	Cyp1a2	Neil1	Trp53	App	Atf3	Sprr3	Csf2	Cd82	Csf1	Tnc	Tnf	Egfr	Relb	Myb	Ccnd1	Myc	Msr1	Batf3	Smad7	Nfkb2	Trp73	Ar	Fosl1	Gclc	Star	Bcl2l1	Pgr	Ezr	Ezh2	Spi1	Bex2	Oxtr	Txn1	Il5ra	Crem	Plau	Plat	Fasl	Mmp20	Ets1	Nts	Ets2	Cyp19a1	Fgf7	Lgals3	Apom	Gja1	Cyp11a1	Stmn1	Ibsp	Il12b	Il12a	Sox7	Pdk1	Slc19a1	Cyp2j13	Edn1	Vdr	Mmp7	Jun	Mmp1a	Pdha1	Mmp2	Mmp3	Vegfd	Oprm1	Mmp9	Vegfa	Il3	Rhob	Tnfrsf1b	Il2	Il1a	Mmp13	Il1b	Mmp12	Acta1	Il6	Krt16	Ifng	Rarb	Ren1	Tff1	Rara	Abcb1a	Eln	Brca1	Alox12	Car2	Ldha	Penk	Tert	Lbp	Smn1	Timp2	Pck2	Nqo1	Mef2d	Ppara	Nos3	Mgmt	Syk	Plaur	F3	Ngf	Dcn	Sod2	Apoc3	Ddit3	Cdk5r1	Ppard	Becn1	Stfa1	Cdkn1a	Rarg	Il24	Gstp1	Ddx21	Ptn	Ptgs2	Mapk8	Nampt	Hey1	Mat2a	Pold2	Ccl5	Npy	Nefl	Itgax	Ifnb1	Itgb8	Nos2
+JUN mouse	TRRUST_Transcription_Factors_2019	Tgfb1	Il23a	Dmtf1	Ptpn4	Csf2	Serpine1	Odc1	Prdm1	Aqp5	Ppp1r3b	Tnf	Asah1	Relb	Ccnd3	Nacc1	Ccnd2	Ccnd1	Spp1	Msr1	Esr1	Gfap	Nfkb1	Maf	Fosl1	Gclc	Aldh3a1	Star	Csf1r	Spi1	Fam89b	Slc2a1	Twist1	Plau	Eno2	Icam1	Cyp19a1	Fgf7	Tgm1	C1qtnf3	Tpr	Cyp11a1	Hmox1	Tnfsf11	Il12b	Pdk1	Cd14	Tpsb2	Il11	Sftpb	Mmp7	Jun	Itga5	Angpt2	Mmp2	Smurf1	Mmp3	Myod1	Sirt1	Mmp9	Il3	Il2	Mmp13	Il1b	Mmp12	Ifne	Il4	Bmp2	Col3a1	Il6	Krt18	Mmp19	Dcstamp	Ifng	Bcl3	Jdp2	Tff2	Nfe2l2	Gnrh1	Socs3	Penk	Ctsk	Gnrhr	Timp1	B4galnt1	Ctse	Tbp	Serpinb5	Mir23a	Fos	Slc39a14	Plaur	Ngf	Wee1	Aldh1a1	Cat	Crh	Met	Rab18	Plin2	Nectin2	Src	Cebpd	Srxn1	Il27	Il24	Hmgcr	Slc8a1	Nr3c1	Ptgs2	Phex	Mapk8	Ccl5	Nefl	Nos2	Gast	Nck2
+JUNB human	TRRUST_Transcription_Factors_2019	Nqo1	Smad4	Cdkn1a	Cd82	Sftpd	Clu	Egfr	Il3	Ptgs2	Il4	Il1b	Apom
+JUNB mouse	TRRUST_Transcription_Factors_2019	Il4	Il31	Ccnd1	Mmp2	Serpine1	Ctsk	Plau	Myl9	Foxp3
+JUND human	TRRUST_Transcription_Factors_2019	Nqo1	Tgfb1	Nqo2	Fgfbp1	Gadd45a	Sftpd	Plaur	F3	Il3	Il5	Fosl1	Gclc	Il6	Bcl6	Cd40lg	Mdm2	Stfa1	Cdkn1a	Itgb3	Clu	Plat	Nts	Ptgs2	Sox4	Myb	Ccnd1	Erbb2	Ccl5	Timp1	Nos2	Itgav	Gast	Ccr4
+JUND mouse	TRRUST_Transcription_Factors_2019	Il11	Gcm2	Jun	Mmp2	Ccl5	Tcirg1
+KAT2B human	TRRUST_Transcription_Factors_2019	Rb1	Cdkn1b	Smad4	Cdkn1a	Npas2	Lin28a	Zeb1	Trp73	Yy1	Cdk2	Cyp1b1	Irf7	Clock
+KAT5 mouse	TRRUST_Transcription_Factors_2019	Col2a1	Nppa	Sox9	Pax6
+KCNIP3 mouse	TRRUST_Transcription_Factors_2019	Hrk	Cacna1c	Fos	Tnfaip3	Ndor1	Pdyn	Grin1	Slc8a3
+KLF10 human	TRRUST_Transcription_Factors_2019	Cdkn1a	Itgad	Stmn1	Serpine1	Fgfr1	Egfr	Ptgs1
+KLF2 human	TRRUST_Transcription_Factors_2019	Wee1	Thbd	Fabp5	Nos3	Cdkn1a	Cxcr4	Sell	Pparg	Ccr7	Ccr5	Il2
+KLF3 mouse	TRRUST_Transcription_Factors_2019	Klf8	Acta1	Ckm	Six4
+KLF4 human	TRRUST_Transcription_Factors_2019	Vdr	Gdf15	Mmp2	Cdx2	Hspa8	Hba-a1	Vegfa	Sod1	Il1b	Krt19	Il6	Birc5	Cyp1a1	Rara	Nanog	Alpi	Trp53	Pfkp	Zfp750	Lxn	Atf3	Cdkn1b	Ifitm1	Cdkn1c	Lama3	Tagln	Cdkn1a	Odc1	Hdc	Lama1	Thbd	Cdh5	Ccnb1	Ccnd1	Cdh1	Bdkrb2	Gpa33	Cd14
+KLF4 mouse	TRRUST_Transcription_Factors_2019	Cebpb	Lefty1	Cdkn2b	Serpine1	Muc5ac	Dmp1	Dspp	Ptgs2	Slurp1	Ccnd2	Cdh1	Snai2	Nanog	Rlim	Nos2	Agrp
+KLF5 human	TRRUST_Transcription_Factors_2019	Itgb2l	Fgfbp1	Notch1	Cdkn2b	Hif1a	Mmp9	Foxo1	Ccnb1	Ccnd1	Fasn	Cxcr4	Birc5	Myh11
+KLF5 mouse	TRRUST_Transcription_Factors_2019	Egr1	Serpine1	Pdgfa	Nanog	Nos2	Ltf	Pou5f1	Mcm2	Vegfa	Runx2
+KLF6 human	TRRUST_Transcription_Factors_2019	Atf3	Dapk2	Cdkn1a	Tfpi2	Krt12	Lama1	Mmp9	Asah1	Igf1r	Ccnd1	Cdh1	Pttg1	Txnip	Pmaip1	Nos2	Cers2
+KLF8 human	TRRUST_Transcription_Factors_2019	Mmp14	Cdh2	Slc22a3	Cdh1	Vim	Fn1	Mmp9	Epsti1
+LDB1 mouse	TRRUST_Transcription_Factors_2019	Epb42	Arx	Glp1r	Runx1	Fgf10	Igf1	Lhx6	Nlrp2	Tcf3	Mafa	Bmp7
+LEF1 human	TRRUST_Transcription_Factors_2019	Chga	Mmp7	Mitf	Esr1	Ar	Cyld	Snai2	Birc5	Tcf4	Dsg4	Tcf3	Cebpa	Eda	Oca2	Mycbp	Ctnnb1	Prl3d2	Cd1d1	Cldn2	Nt5e	Herc2	Ccnd1	Ccl7	Myc	Ctla4	Nrcam	Elane	Skp2	Rag2
+LEF1 mouse	TRRUST_Transcription_Factors_2019	Pou1f1	Hes7	Mmp7	Cdx4	Il13	Zbtb16	Foxj1	Dkk1	Ovol1	Pou5f1	Runx2	Mmp13	Fgf18	Col2a1	Il5	Il4	Dsg4	Neurog1	Tcf3	Ncam1	Mesp1	Ctnnb1	Lrp5	Dll1	Ptgs2	Ccl7	Cdh1	Col11a1	Msx2	Elane	Rag2
+LHX2 mouse	TRRUST_Transcription_Factors_2019	Rarres2	Rax	Cga	Tshb	Robo2
+LMO2 human	TRRUST_Transcription_Factors_2019	Zeb1	Lef1	Lyl1	Gypa	Angpt2	Cdh1	Erg	Nfatc1	Elk1	Fgf2
+LMX1B human	TRRUST_Transcription_Factors_2019	Cd2ap	Col4a1	Nphs2	Col4a4	Nlrp2	Tcf3
+LMX1B mouse	TRRUST_Transcription_Factors_2019	Fgf8	Tph2	Nphs2	Wnt1	Pax2
+MAF human	TRRUST_Transcription_Factors_2019	Mmp13	Il5	Il4	Gclc	Ccnd2	Itgb7
+MAF mouse	TRRUST_Transcription_Factors_2019	Maf	Il4	Ccnd2	Pdx1	Gcg	Cryab	Cryaa
+MAFA mouse	TRRUST_Transcription_Factors_2019	Pcsk1	Glp1r	Slc2a2	Pdx1	Nrf1	G6pc2	Nkx6-1
+MAX mouse	TRRUST_Transcription_Factors_2019	Atxn3	Ccnb1	Cebpd	Cad	Odc1	Bax
+MAZ human	TRRUST_Transcription_Factors_2019	Tsg101	Cd4	Mmp14	Mmp1a	Hras	Clcnkb	Htr1a	Mmp9
+MBD1 human	TRRUST_Transcription_Factors_2019	Abcb1a	Mgmt	Setdb1	Alox5	Irf8	Igf2
+MBD2 human	TRRUST_Transcription_Factors_2019	Dapk1	Adgrb1	Myog	Gstp1	Alox5	Msh2	Nanog	Chd4	Klk10	Pou5f1
+MECP2 human	TRRUST_Transcription_Factors_2019	Abcb1a	Reln	Cdkl5	Mgmt	Dlx5	Ccnd1	Alox5	Igfbp3	Gad1	Tff1	Esr1
+MECP2 mouse	TRRUST_Transcription_Factors_2019	Ddc	Eya2	Igfbp3	Oprm1	Mobp	Dlk1	Fxyd1	Aff1	Per2	Per1	Irak1	Plagl1	Fkbp5	Prodh	S100a9
+MEF2A human	TRRUST_Transcription_Factors_2019	Mef2a	Jun	Tnni3	Sost	Slc2a4	Nrf1	Ppargc1a	Mapk7	Mapk14	Cox6a1
+MEF2A mouse	TRRUST_Transcription_Factors_2019	Mef2a	Dpf3	Slc2a4	Nrf1	Ppargc1a	Cox6a1
+MEF2C human	TRRUST_Transcription_Factors_2019	Mecp2	Cdkl5	Cpt1b	Jun	Sost	Mapk7	Nr4a1	Vegfa
+MEF2C mouse	TRRUST_Transcription_Factors_2019	Il10	Jun	Ckm	Myog	Ampd1	Runx2	Myh1	Des	Sfrp2	Hand2	Sp7	Calr	Rgr	Myom1	Il1rn	Myom2	Hdac4	Dlx5	Dlx6	Myom3	Frzb	Socs2	Bglap2	Rho	Capn2	Myoz2
+MEF2D human	TRRUST_Transcription_Factors_2019	Atf3	Jun	Atm	Sost	Cd14	Hdac7
+MEIS1 mouse	TRRUST_Transcription_Factors_2019	Krt19	Flt3	Myog	Ptch1	Pax6	Tgfbr2
+MEIS2 mouse	TRRUST_Transcription_Factors_2019	Egr2	Krt19	Cdkn2b	Cdh1	Pax6	Tgfbr2
+MEN1 human	TRRUST_Transcription_Factors_2019	Rad51ap1	Rad51	Cdkn2c	Cdkn1b	Jund	Casp8	Tert	Prl3d2	Brca1	Gast	Gata3
+MEN1 mouse	TRRUST_Transcription_Factors_2019	Yap1	Jund	Hoxa9	Gbx2	Suv39h1	Axin2	Gli1	Mafa	Ezh2
+MITF human	TRRUST_Transcription_Factors_2019	Fos	Prkcb	Tyr	Mc1r	Kit	Dct	Kcnma1	Cdk2	Hoxb4	Met	Birc7	Oca2	Tyrp1	Bcl2a1d	Pmel	Hif1a	Best1	Trpm1	Herc2	Mlana	Gpnmb	Ctsk	Acp5	Serpinf1	Ppargc1a
+MITF mouse	TRRUST_Transcription_Factors_2019	Tbx2	Ngfr	Itga4	Fos	Pax4	Pax6	Tyr	Dkk3	Clcn7	Ostm1	Gpr143	Pik3r1	Irf4	Dct	Dcstamp	Sdc1	Met	Cd40	Tyrp1	Cdkn1a	Slc45a2	Pmel	Slc2a2	Best1	Trpm1	Ctsk	Acp5
+MLXIPL mouse	TRRUST_Transcription_Factors_2019	Pklr	Pdx1	Mafa	Acacb	Acaca	Gck	Gpam	Fasn	Fas	Txnip	Mstn
+MSC human	TRRUST_Transcription_Factors_2019	Il10	Mmp2	Il2ra	Ifng	Lta	Cdc25a	Ctla4	Mcm7	Cdc6	Dkk1	Foxp3
+MSX1 human	TRRUST_Transcription_Factors_2019	Notch3	Hey1	Dkk1	Cga	Dlk1	Zhx2
+MSX1 mouse	TRRUST_Transcription_Factors_2019	Bmp4	Shh	Tagln	Myocd	Srf	Ptch1	Ets1	Fgf3	Cga	Pax3	Stra8	Atoh1
+MSX2 human	TRRUST_Transcription_Factors_2019	Cdh2	Bglap2	Ibsp	Nkx3-1	Bcl2	Abcg3	Sod1
+MSX2 mouse	TRRUST_Transcription_Factors_2019	Dlx2	Dlx5	Tagln	Myocd	Srf	Mepe	Ihh	Lss	Ets1	Dkk1	Dspp	Runx2	Neurod6	Bglap2	Enpp1	Alpl	Sp7	Pparg	Atoh1
+MTA1 human	TRRUST_Transcription_Factors_2019	Hdac1	Alox15	Brca1	Smad7	Esr1	Mmp9	Egfr	Rnf144a	Cdh1	Myc	Bcl2l1	Snai2	Snai1	Nos2	Tff1	Epha2	Mta3	Mnat1	Bcas3	Itgb3bp
+MTA1 mouse	TRRUST_Transcription_Factors_2019	Rnf144a	Cdkn1a	Rrm2b	Six3	Pax5	Timp2	Clock
+MTF1 human	TRRUST_Transcription_Factors_2019	Gclc	Prnp	Mcat	Aco1	Sod1	Sncb	Pgf
+MTF1 mouse	TRRUST_Transcription_Factors_2019	Ep300	Slc39a10	Selenow	Dnmt1	Pgf
+MYB human	TRRUST_Transcription_Factors_2019	Lmo2	Gstm6	Il15	Klf1	Dhrs2	Col1a2	Col1a1	Wt1	Ccna1	Il7	Lck	Cd4	Mzf1	Sp3	Nmu	Bcl2	Pdcd4	Sim2	Clec4g	Cdo1	Cebpa	Csf3r	Was	Gata3	Nr3c1	Icam1	Hrh1	Myb	Anpep	Mat2a	Erbb2	Myc	Tk1	Ctsg	Cd34	Elane	Rag2
+MYB mouse	TRRUST_Transcription_Factors_2019	Csf1r	Csf3r	Nol3	Gstm7	Igfbp5	Cdkn1a	Rfx2	Ptgs2	Ppm1a	Kit	Anpep	Myc	Snai2	Prtn3	Rara	Rag2
+MYBL2 human	TRRUST_Transcription_Factors_2019	Col1a1	Sp1	Ccna1	Ccnd1	Myc	Ncl	Mybl2
+MYBL2 mouse	TRRUST_Transcription_Factors_2019	Lin9	Igfbp5	Eln	Rfx2	Prrc2a	Pou5f1	Adra2b	Mip	Ccna1	Adora2b	Col5a2	Erbb2	Sftpa1
+MYC human	TRRUST_Transcription_Factors_2019	Ube2c	Dkk1	Cdc25c	Ass1	Tfam	Trp53	Pcna	Atf3	Odc1	Srsf1	Sfrp1	Ndrg1	Nol7	Chek1	Ccnd2	Cdh3	Ccnd1	Chek2	St3gal1	St3gal3	St3gal4	Nfe2	Crebbp	Surf2	Surf1	2410137M14Rik	Tnfrsf22	H2-T24	Trp73	Ccna2	Tlx1	Fmr1	Cbfb	Tfrc	Cdca7	Gata4	Fasl	Ipo7	Foxm1	Gata1	Prdx3	Ccnb1	Bag2	Rcc1	Pmaip1	Junb	Prodh	Prom1	Ier3	Mst1	Cflar	Axin2	Hspa4	Vegfa	Tfap4	Il6	Cdk6	Cdk4	Id2	Cdk2	Bcl2	Shmt1	Cyp3a13	Bmi1	Mtdh	Ptbp1	Ldha	Tert	Top1mt	Pgk1	Cd38	Siglecf	Ddx18	Cad	Mme	Cdc34	Ebna1bp2	Hnrnpa2b1	Ccne1	Kras	Cebpa	Cdkn1a	Ifna4	Hdac2	Xpo1	Sart3	Wrn	Cxcr4	Ep300	Igf2bp1	Mapk1	Brd7
+MYC mouse	TRRUST_Transcription_Factors_2019	Rhoa	Pdgfrb	Zbtb17	Cav1	Dkk1	Cdk4	Bax	Bcl2	Tfam	Trrap	Odc1	Slc1a2	Ndrg1	Mta1	Zfp36	Ccnd2	Tert	Mxi1	Cdh1	Myc	Timp3	Acp5	Eif4e	Wnt4	Suz12	Eed	Cad	Slc11a1	Cdkn2b	Nfia	Hnrnpa2b1	Mir122	Snai1	Bcat1	Ezh2	Nop56	Cebpd	Cdkn1a	Hdac2	Cdca7	Nrgn	Ccnb1
+MYCN human	TRRUST_Transcription_Factors_2019	Ngfr	Ntrk1	Lrrn3	Trp53inp1	2410137M14Rik	Hmga1	H2-T24	Dkk3	Grhl1	Ddb1	Id2	Ifng	Mcm4	Birc5	Bax	Mcm5	Mcm6	Nes	Mcm7	Abcc1	Mcm2	Trp53	Cd44	Mcm3	Mdm2	Abcb1a	Cdkn1b	Mcm8	Cdkn1a	Hdac2	Mcm10	Clu	Bmi1	Ndrg1	Efnb3	Mxi1	Ciita	Mybl2	Ctsd	Skp2
+MYCN mouse	TRRUST_Transcription_Factors_2019	Igfbp2	Smad4	Ptdss1	Igfbp6	Hdac2	Acp5	Otx2	Nrgn	Ndrg1
+MYF5 mouse	TRRUST_Transcription_Factors_2019	Myh7b	Des	Rb1	Ccnd3	Cdkn1a	Myog	Sp7	Myod1	Myf6
+MYF6 mouse	TRRUST_Transcription_Factors_2019	Des	Rb1	Ccnd3	Cdkn1a	Myog	Ampd1	Reck
+MYOD1 mouse	TRRUST_Transcription_Factors_2019	Cdon	Zbtb18	Atp6v1e1	Ckm	Myog	Cdc6	Smarca4	Bmp5	Des	Acta2	Myl6	Myl1	Myl2	Sp7	Selenow	Itga7	Cdo1	Rb1	Acacb	Atxn3	Ccnd3	Ccnd1	Ankrd2	Ppargc1a	Atp9a	Myh7b	Crebbp	Arnt	Smad7	Maf	Fosl1	Aldh1a1	Sdc1	Snai2	Dcx	Cdh15	Reck	Myf5	Smtnl1	Myf6	Cdkn1c	Cdkn1a	Barx2	Actc1	Sgcg	Sgca	Inpp5k
+MYOG mouse	TRRUST_Transcription_Factors_2019	Myh7b	Rb1	Myef2l	Cdkn1a	Myod1	Pax7	Barx2	Des	Ccnd3	Art1	Myl1	Itga7	Myf6
+MZF1 human	TRRUST_Transcription_Factors_2019	Mmp2	Tert	Cdh2	Pik3r3	Blmh	Cd34	Padi1
+NANOG human	TRRUST_Transcription_Factors_2019	Yes1	Lxn	Sema6a	Cdx2	Gdf3	Cdc25a	Gata6	Afp	Lamb1	Gata4	Dkk1	Pou5f1	Gata2	Fgf4	Klf2	Sox1	Cdk6	Ccnd1	Mtf2	Kdr	Cga	Nodal	L1td1
+NANOG mouse	TRRUST_Transcription_Factors_2019	Esrrb	Idh1	Cdx2	Gata6	Nr0b1	Dkk1	Bmi1	Nfkb1	Lin28a	Zfp57	Zfp42	Snai1	Tcf3	Eras
+NCOA1 mouse	TRRUST_Transcription_Factors_2019	Ar	Adipoq	Nfkbia	Mef2c	Psat1	Itga5	Cdkn1a	Twist1	Gata4	Esr1
+NCOA3 human	TRRUST_Transcription_Factors_2019	Mmp7	Epo	Erbb2	Plac1	Bcl2	Brca1
+NCOA3 mouse	TRRUST_Transcription_Factors_2019	Nfkbia	Igfbp3	Pparg	Nanog	Nr0b1	Klf4	Npas2	Clock	Tbx3
+NCOR1 human	TRRUST_Transcription_Factors_2019	Ar	G0s2	Igfbp3	Snai2	Pparg	Igf1	Esr1
+NEUROD1 mouse	TRRUST_Transcription_Factors_2019	St18	Sct	Mgat5b	Pdx1	Pax6	Insm2	G6pc2	Atoh1	Rnd2
+NEUROG2 mouse	TRRUST_Transcription_Factors_2019	Epha5	Eomes	Sema3c	Dll3	Neurod1	Rnd2
+NEUROG3 mouse	TRRUST_Transcription_Factors_2019	Atoh8	Insm1	Pax4	Insm2	Vsx2	Neurod1
+NF1 human	TRRUST_Transcription_Factors_2019	Sftpb	Fos	Afp	Msh2	Plat	Hsd11b2	Ddb2	Ddb1	Sp3	Ppp2r2d	Myc	Mbp	Gnrh1	Trp53
+NFATC1 human	TRRUST_Transcription_Factors_2019	Sp1	Egr3	Ifng	Cd3g	Cyp2e1	Icam1	Il2
+NFATC1 mouse	TRRUST_Transcription_Factors_2019	Csf2	Cx3cr1	Itgb3	B3gat1	Foxp3	Bmp7	Il2	Aqp2	Oscar	Il4	Il2ra	Dcstamp	Il12b	Pag1
+NFATC2 human	TRRUST_Transcription_Factors_2019	Egr3	Tert	Ifng	Enpp2	Cd3g	Foxp3	Mdm2
+NFATC2 mouse	TRRUST_Transcription_Factors_2019	Egr3	Il31	Il10	Il21	Csf2	Il13	Cx3cr1	Tnf	Nfatc1	Bace1	Il2	Il4	Ccna2	Il9	Il2ra	Ifng	Acp5	Ccr9	Il12b	Icos
+NFE2 mouse	TRRUST_Transcription_Factors_2019	Gcm2	Hmbs	Epb42	Abcc6	Tnf	Tyms	Il2
+NFE2L2 human	TRRUST_Transcription_Factors_2019	Nqo1	Gss	Mthfr	Brca1	Sdhb	Sod1	Sod2	Gclc	Cat	Krt16	Hmox1	Cftr
+NFE2L2 mouse	TRRUST_Transcription_Factors_2019	Abcc4	Tgfb1	Abcc2	Abcc3	Il10	Txnrd1	Nfatc1	Sdha	Runx2	Krt16	Fas	Sp7	Bcl2	Mcm7	Sqstm1	Nfe2l2	Keap1	Slc40a1	Slc7a11	Areg	Cd36	Ptgds	Nqo1	Cdkn2c	Fos	Fmo3	Nfkb1	Sod2	Gclc	Txnip	Pparg	Mdm2	Il1rn	Cebpb	Calcoco2	Srxn1	Cox17	Mgst1	Mir106b	Sult1e1	Prdx2	Bglap2	Prdx1	Hmox1	Tnfsf11	Scarb1
+NFIC human	TRRUST_Transcription_Factors_2019	Jun	Itga5	Vwf	Tfpi2	Slc34a2	Hgf	Gfap	Smug1	Col1a1	Pole2	Fabp7	Cyp1a1	Matn1	Gtf3c2	Col18a1	Alas1	Gucy1b1	Irs2	Gh	Fhl5	Gtf3c1	Hsd11b2	Cyp17a1	Pold2
+NFIC mouse	TRRUST_Transcription_Factors_2019	Col1a1	Pdgfra	Fam89b	Hgf	Pdgfa	Mbp	Gfap	Klf4	Dspp
+NFIL3 human	TRRUST_Transcription_Factors_2019	App	Il1b	Hpgd	Vwf	Ifng	Tnfsf10	Pgr	Areg	Ereg	Ptgs2
+NFIL3 mouse	TRRUST_Transcription_Factors_2019	Bmp4	Abcb4	Per2	Eomes	Id2	Arnt	Fgf21	Cyp7a1	Ptgs2
+NFKB1 human	TRRUST_Transcription_Factors_2019	Cck	Psmb9	Col1a2	Col1a1	Il23a	Cyp1a1	Bax	Trp53	Optn	Atf3	Serpine1	Nolc1	Nod2	Psmb10	Hoxa9	E2f1	Myc	Alox5	Akt1	Akt2	Hes1	B2m	Muc6	Ptgds	Egr1	Abca1	Tslp	Tnfsf14	Gadd45g	Mif	Bace1	2410137M14Rik	Ar	Col2a1	Sdc1	Nox4	Snai1	Ptges	Cftr	Ptgfr	Crhr1	Il1rn	Cfi	Hif1a	Gata3	Icam1	Cyp27b1	Lipe	Hmox1	Pdk4	Il12b	Il12a	A2m	Tnfsf10	Junb	Ier3	Ctsb	Ccr2	Edn1	Il10	Ccl22	Ccl20	Vegfd	Fn1	Il18	Vegfa	Il1a	Mmp13	Tlr2	Il1b	Trf	Bst1	Ncor1	Mmp14	Bhmt1b	Ncor2	Tff3	Cd28	Tlr9	Tlr7	Tff1	Tlr3	Serpina3b	Btg2	Cd40	Ebi3	Cd3g	Brca2	Klk1b24	Ctcf	Hsd11b2	Socs3	Epcam	Tert	Stk39	Cd38	Ripk2	Timp1	Ccr7	Ccr5	Ccr3	Mgmt	Plin1	Serpinb1b	Csnk2a1	Stat4	Prox1	Bgn	F3	Il17a	F8	Xiap	Cyp2e1	Cd40lg	Hbegf	Il17c	Il21	Tnfrsf13c	Ccl11	Faf1	Cdkn1a	Ifna4	Ptafr	Pigr	Gstp1	Ptger4	Ptgs2	Hyal1	Nampt	Cxcr2	Cxcr4	Ifnb1	Ccl19	Pglyrp2	Olr1	Tgfb1	Cd74	Tfpi2	Tap2	Tap1	Vcam1	Agt	Grin1	Foxp3	Cxcl10	Cxcl12	Wt1	Olfm4	Fas	Ppig	S100a6	Cd69	Sqstm1	Pde7a	Ptpn6	Abcg3	Cd86	Cd83	Csf2	Csf1	Cd80	Tnc	Tnf	Foxo3	Egfr	Slc9a2	Yy1	Bcl2l11	Ccnd2	Ccnd1	Cdh1	Tbx21	Adora3	Adora1	Nlrp2	Mill1	Reps2	Pcyt2	Muc17	Traf1	Tnfrsf22	Traf2	Gfap	Sele	Nfkb1	Creb3	Gclc	Gdnf	Bcl2l1	Birc5	Hpse	Lcn2	Birc2	Birc3	Lpl	Plau	Fasl	Ager	Cyp19a1	Fgf7	Fgf8	Ccnb1	Rgs4	Nppb	Tnfrsf9	Pou2f2	Mmp1a	Mmp2	Pla2g2a	Mmp3	Gkn2	Nfkbiz	Cflar	Muc5ac	Oprm1	Ptpn13	Mmp9	Tapbp	Il2	Hax1	Nfkbia	Irf1	Il4	Bmp2	Elf3	Il6	Irf4	Rrm2b	Tnip3	Cdk4	Adora2a	Ifng	Bcl3	Carm1	Bcl2	Irf7	Fbp1	Defb3	Abcb1a	Gsk3b	Gsk3a	Bcl2a1d	Ncam1	Tnfaip3	Nrf1	Cyp3a13	Casp9	Bdkrb1	Casp3	Trpc1	Madcam1	Drd2	Amh	Mcl1	Tbp	Kdm2a	Muc5b	Cr2	Nos3	Vwf	Erap1	Alox5ap	Plaur	Sod2	Pthlh	Il2ra	Sftpa1	Crp	Hdac1	Flt4	Crmp1	Hdac7	Tnfsf13b	Slc25a27	Thbd	Mat2a	Ccl5	Igf2bp2	Ccl4	Itgax	Ccl3	Nos1	Nos2	Trim21	Upp1
+NFKB1 mouse	TRRUST_Transcription_Factors_2019	Mapk14	Tec	Col1a1	Il23a	Cd7	Lef1	Epas1	Aqp5	Glrx	Ntn1	Myb	Myc	Alox5	Akt1	Kdr	Hes1	Ppargc1a	Egr2	Tnfsf15	Gadd45b	Pla2g4a	Bin1	Psme2b	Btk	Hamp	Ptges	Cfb	Dmp1	Twist1	Fth1	Hmox1	Pdk4	Sox9	Apoe	Il12b	Il12a	Junb	Banp	Edn1	Il10	Il15	Dusp1	Ccl22	Ccl20	Vegfc	Fn1	Lif	Vegfa	Il1a	Tlr2	Il1b	Mmp14	Cenpj	Dcstamp	Rel	Tlr4	Cd40	Ebi3	Hsd11b2	Shh	Tert	Stk39	Timp3	Ankrd2	Cd38	Ripk2	Pck1	Adipoq	Nqo1	Ppara	Stat1	Fos	Per2	Ebna1bp2	Per1	Xiap	Plin2	Cdkn1a	Ctnnb1	Nudt1	Dcst2	Dcst1	Ptgs1	Ptgs2	Phex	Ikbkb	Ifnb1	Myoz2	Tgfb1	Ube2h	Vcam1	Agt	Foxp3	Cxcl10	Wt1	Cxcl13	Fas	Ptpn4	Cd86	Csf2	Csf1	Slc1a2	Cd80	Tnf	Egfr	Relb	Yy1	Ccnd3	Ccnd1	Cdh1	Msx1	Adora1	Kcnd2	Sele	Nfkb1	Selp	Aldh3a1	Bcl2l1	Birc5	Lcn2	Birc2	Gclm	Birc3	Slc2a1	Slc2a4	Ager	Atp12a	Cyp11a1	Pmaip1	Mbp	Tnfrsf4	Prodh	Trim63	Kcnip2	Mmp2	Mmp3	Nfkbiz	Cflar	Mmp9	Tapbp	Il2	Nfkbia	Il4	Bmp2	Elf3	Il6	Adora2b	Irf4	Cdk4	Adora2a	Ifng	Bcl2	Fbp1	Tnfrsf25	Bmpr2	Tnfaip3	Nrf1	Trem1	Drd2	Amh	Ppp1r14a	Gm1123	Kdm2a	Nos3	Ngb	Plaur	Klf5	Sod2	Ppm1d	Il2ra	Cebpa	Cebpb	Src	Thrb	Hmgcr	Itgam	Tnfsf13b	Ppp1r13l	Ccl5	Igf2bp2	Nos2	Upp1
+NFKB2 human	TRRUST_Transcription_Factors_2019	Snd1	Selp	Ccnd2	Cdk6	Ccl21a	Hif1a
+NFKB2 mouse	TRRUST_Transcription_Factors_2019	Snd1	Csf2	Il23a	Ccnd1	Myc	Dmp1	Rel	Hes1	Hif1a	Relb
+NFKBIA human	TRRUST_Transcription_Factors_2019	Rela	Cd40	Mmp1a	Ebi3	Mmp3	Pon2	Traf1	Mmp9	Nfkb1	Icam1	Il1b	Fas	Ccl5	S100a6	Ifnb1	Tnfsf10	Nos2
+NFYA human	TRRUST_Transcription_Factors_2019	Abcb1a	Cdkn1b	Ogg1	Hspa5	Gadd45a	Fxr2	Sox3	Stk11	Cbs	Cyp2a12	Lpin1	Gfi1b	Sox18	Sp3	Ccnd2	Fas	Hoxb4	Ddit3	Hoxb7
+NFYA mouse	TRRUST_Transcription_Factors_2019	Adipoq	Srebf1	Ogg1	Hspa5	Hspb1	Dspp	Cldn11	Ccnd2	E2f1	Cdk1	Mapk1	Hspa1b
+NFYB human	TRRUST_Transcription_Factors_2019	Abcb1a	Cdkn1b	Tph1	Fos	Fxr2	Sox3	Stk11	Lpin1	Gfi1b	Sox18	Ccnd2	Fas	Hoxb7
+NFYC human	TRRUST_Transcription_Factors_2019	Fdps	Abcb1a	Cdkn1b	Fos	Fxr2	Sox3	Lpin1	Gfi1b	Sox18	Ccnd2	Fas	Hoxb7
+NKX2-1 human	TRRUST_Transcription_Factors_2019	Sftpb	Ret	Stk11	Sp1	Lmo3	Sftpa1
+NKX2-1 mouse	TRRUST_Transcription_Factors_2019	Sftpb	Sftpc	Abca3	Shh	Scgb1a1	Pax8	Sox17	Wnt7b	Foxj1	Prdm13	Hcrtr2
+NKX2-5 human	TRRUST_Transcription_Factors_2019	Lyl1	Mef2c	Ctnnb1	Nppb	Dact3	Gata4	Tbx5	Dact1	Dact2
+NKX2-5 mouse	TRRUST_Transcription_Factors_2019	Hexim1	Mef2c	Myocd	Etv2	Tbx5	Mycs	Hand1	Myl2	Tlx2	Id2	Fgf10	Tll1	Calr	Lrrc10	Gjc1	Nppa	Mov10l1	Nppb	Msx2	Adora1	Jarid2
+NKX3-1 human	TRRUST_Transcription_Factors_2019	Ar	Ccnd1	Six6	Tmprss2	Fos	Klk1b24	Esr1	Vegfa	Igf1r	Actg2
+NOTCH1 mouse	TRRUST_Transcription_Factors_2019	Smarcc1	Spi1	Cdkn1a	Ctnnb1	Dtx1	Pax7	Nrarp	Nfkb1	Gata2	Rbpj	Dll4	Runx2	Efnb2	Hey2	Ccnd1	Hey1	Ccne1	Sp7	Casp3	Scgb3a2	Sox9	Tcf3	Hes5
+NPM1 human	TRRUST_Transcription_Factors_2019	Brd4	Rpl3	Usp7	Elf4	Cdkn1a	Ccnd1	Taf1a	Ptpn6	Dnmt1	Mdm2	Atf5
+NR0B1 human	TRRUST_Transcription_Factors_2019	Cyp17a1	Nr5a1	Star	Nr1h4	Nos1	Esrrg	Amh	Cyp19a1	Camp	Pbx1
+NR0B1 mouse	TRRUST_Transcription_Factors_2019	Srebf1	Nr5a1	Cyp11a1	Star	Hnf4a	Pparg	Rlf	Esrrg	Sf1	Pou5f1	Cyp19a1
+NR0B2 human	TRRUST_Transcription_Factors_2019	Cyp27a1	Apoc3	E2f1	Pck2	Cyp7a1	Cyp8b1	Ptgs2
+NR0B2 mouse	TRRUST_Transcription_Factors_2019	Smad3	Cdkn1a	Mttp	Serpine1	Slc51b	Slc40a1	Smad7	Cyp7a1	Cyp8b1	Npas2	Mir127	Nr5a2	Mir433	Bhmt1b	Mtf1	Bglap2	Pparg	Ppargc1a	Neurod1
+NR1H3 mouse	TRRUST_Transcription_Factors_2019	Srebf1	Abca1	Plin1	Arg2	Nr1h3	Ucp1	Cyp7b1	F3	Cyp7a1	Pltp	Lipe	Mlxipl	Bhlhe40	Abcg1	Apoe	Nos2	Map3k8
+NR1H4 human	TRRUST_Transcription_Factors_2019	Abcc4	Klf11	Abcb4	Rela	Edn1	Nr1i2	Hsd3b1	Cyp7a1	Ins1	Nfkb1	Vegfa	Dcn	Stk11	Pltp	Abcb11	Fabp6	Slco1b2	Scarb1
+NR1H4 mouse	TRRUST_Transcription_Factors_2019	Abcc4	Klf11	Abcc2	Abcb11	Slc10a1	Fabp6	Nr0b2	Scarb1
+NR1I2 human	TRRUST_Transcription_Factors_2019	Il10	Ugt1a1	Cyp4a30b	Nfkb1	Fosl1	Klf6	Fgf15	Bcl2l1	Bcl2	Thrsp	Rela	Abcb1a	Rab3a	Ptafr	Hp	Nod1	Thbs1	Nod2	Cyp3a13	Coro1c	Rxra
+NR1I2 mouse	TRRUST_Transcription_Factors_2019	Ppara	Cyp24a1	Cdkn1a	E2f1	Insig1	Msx2	Cd36
+NR1I3 mouse	TRRUST_Transcription_Factors_2019	Sqle	Ppara	Atp6v1e1	Cpt1a	Ppig	Thrsp	Cyp7a1	Pck1	Mcl1
+NR2F1 human	TRRUST_Transcription_Factors_2019	Cyp17a1	Lhcgr	Dr1	Serpinc1	Mttp	Apoc3	Apoa2	Cyp19a1	Apob
+NR2F2 human	TRRUST_Transcription_Factors_2019	Ppara	Hey2	Hey1	E2f1	Nts	Pou5f1	Tfap2a
+NR2F2 mouse	TRRUST_Transcription_Factors_2019	Flt1	Ppara	Dr1	Mttp	Slc2a4	Oxt	Atp1a1	Cyp7a1	Pou5f1	Dspp	Vegfa	Ar	Shh	Bglap2	Rarb	Insl3
+NR3C1 human	TRRUST_Transcription_Factors_2019	Stat1	Ugt1a1	Slc10a2	Bad	Pnrc1	Nfkb1	Atp1b1	Cdk6	Cdk4	Ppig	Bax	Rln1	Trp53	Atf2	Csf1r	Nr1i2	Cdkn1a	Maoa	Srf	Tat	Scnn1a	Brca1	Elk1	Ets1	Nr3c1	Cyp19a1	Hsd11b2	Hrh1	Ccnd3	Cald1	Ccnd1	Bglap2	Rps6ka3	Spp1	Muc4
+NR3C1 mouse	TRRUST_Transcription_Factors_2019	Trim63	Vdr	Abcc2	Slc10a1	Fam89b	Pdhx	Brca1	Nr0b1	Ch25h	Runx2	Npas4	Ptgs2	Nfkbia	Ccnd3	Cdk6	Cdk4	Crh	Ptx3	Hes1
+NR3C2 human	TRRUST_Transcription_Factors_2019	Cabin1	Cd40	Lcn2	Ccr6	Ccr5	Atp1b1	Egfr
+NR3C2 mouse	TRRUST_Transcription_Factors_2019	Tns1	Rasl12	Tsc22d3	Scnn1a	Mllt3	Fkbp5	Sgk1
+NR4A1 human	TRRUST_Transcription_Factors_2019	Cdkn1b	Mmp2	Serpine1	Hsd3b1	Rnf7	Tnf	Fasl	Babam2	Cyp17a1	Ccna2	Cyp11a1	Star	E2f1	Timp2	Mdm2
+NR4A1 mouse	TRRUST_Transcription_Factors_2019	Ar	Edn1	Kcnb1	Hsd3b1	Serpine1	Prl3d2	Prmt1	Nkx2-5
+NR4A2 mouse	TRRUST_Transcription_Factors_2019	Ptpru	Nrp1	Apom	Kcnb1	Gch1	Tnc	Spp1	Duxf3	Slc18a2	Slc6a3	Foxp3
+NR5A1 human	TRRUST_Transcription_Factors_2019	Cited2	Stard7	Hsd3b1	Nr0b1	Pnrc1	Pou5f1	Cyp19a1	Pbx1	Cyp17a1	Mc2r	Cyp11a1	Fshr	Star	Sry	Amh	Insl3
+NR5A1 mouse	TRRUST_Transcription_Factors_2019	Adcy4	Nr0b1	Pou5f1	Cyp19a1	Pbx1	Cyp17a1	Nr5a1	Mc2r	Fgf9	Cnr1	Cyp11a1	Star	Sox9	Nos1	Amh	Insl3	Abcg3	Wnt4	Inha
+NR5A2 human	TRRUST_Transcription_Factors_2019	Abcg8	Nr5a2	Abcb11	Slc10a2	Ccne1	Cyp11a1	Star	Hsd3b1	Abcg5	Cyp19a1
+NR5A2 mouse	TRRUST_Transcription_Factors_2019	Slc10a2	Tnf	Slc51a	Slc51b	Nr0b1	Cyp7a1	Cyp8b1	Pou5f1	Cyp19a1	Kiss1	Ccnd1	Ccne1	Apoa1	Nanog	Kras	Scarb1	Ptf1a	Ptgds
+NRF1 human	TRRUST_Transcription_Factors_2019	Nqo1	Snrpn	Fmr1	Galnt3	Slc46a1	Ide	Sdhb	Cox6a1	Tomm34	Fxr2	Prdx3	Spast	Prdx5	Cxcr4	Capns1
+NRF1 mouse	TRRUST_Transcription_Factors_2019	Gria2	Il1rn	Cox17	Fmr1	Ide	Sirt6	Pvr	Atp1a1	Nr3c1	Atp1b1	Kif17	Grin1	Sdha	Grin2b	Hmox1	Sp7	Cox4i1	Tfam	Nos1	Cd47
+NRL mouse	TRRUST_Transcription_Factors_2019	Kcnv2	Mef2c	Rbp3	Ppp2r5c	Rho	Sag	Nr2e3	Prph2	Pde6b	Pde6a
+NUPR1 mouse	TRRUST_Transcription_Factors_2019	Ccna2	Tcf19	Paxip1	Ep300	Hmox1	Gcg
+ONECUT1 mouse	TRRUST_Transcription_Factors_2019	Foxa2	Onecut3	Foxf1	Slc2a2	Pdx1	Mafa	Neurog3
+OTX2 human	TRRUST_Transcription_Factors_2019	Pou1f1	Il6	Rbp3	Dct	Ccng2	Aurka	Hesx1	Igf1	Pax6	Tyr	Best1	Cdc25c
+OTX2 mouse	TRRUST_Transcription_Factors_2019	Tyrp1	Nkx2-2	Crx	Tyr	Gnrh1
+PARP1 human	TRRUST_Transcription_Factors_2019	Il10	Jun	Dnaaf4	Fn1	Htr1a	Nfkb1	Ifng	Vim	Bcl2	Snai1	Fbn1	Ifnar1	Rela	Smarcb1	Cdkn1a	Serpine1	Hfe	Brca2	Foxo1	Thbd	Sh3bp2	Cdh1	E2f1	Serpinf1
+PARP1 mouse	TRRUST_Transcription_Factors_2019	Rela	Il10	Sh3bp2	E2f1	Fn1	Nkx2-1	Nos2	Mmp9	Vcam1	Nfkb1	Apod
+PAX2 human	TRRUST_Transcription_Factors_2019	Wt1	Ncam1	Erbb2	Adam10	Trp53	L1cam
+PAX2 mouse	TRRUST_Transcription_Factors_2019	Robo3	Ret	Emx2	Eya1	En2	Pax6	Gcg	Pou3f3	Wt1	Sfrp2	Ccnd1	Gbx2	Neurog2
+PAX3 human	TRRUST_Transcription_Factors_2019	Dpysl2	Shh	Cxcr4	Bcl2l1	Mitf	Met
+PAX3 mouse	TRRUST_Transcription_Factors_2019	Lef1	Tgfb2	Tyrp1	Dmrt2	St8sia2	Mitf	Myod1	Lbx2	Pou3f2	Dct	Met	Msx2	Spry1	Wnt1	Mbp	Hes1	Itm2a	Neurog2	Fgfr4	Myf5
+PAX5 human	TRRUST_Transcription_Factors_2019	Lef1	Rb1	Blk	Xbp1	Mmp1a	Cdkn1a	Fhl2	Prkce	Prdm1	Cd79a	Mycs	Ccnd1	Tert	Cd19	Bax	Bcl2	Met	Timp1	Fcer2a	Trp53	Rag2
+PAX5 mouse	TRRUST_Transcription_Factors_2019	Csf1r	Aicda	Blk	Flt3	Cd72	Ebf1	En2	Prdx6	Cd79a	Iglc3	Cd19	Blnk
+PAX6 human	TRRUST_Transcription_Factors_2019	Itgb1	Pcsk1	Itga5	Mmp2	Fabp7	Pdhx	Six3	Prox1	Met	Krt12	Gcg
+PAX6 mouse	TRRUST_Transcription_Factors_2019	Tgfb2	Odf2	Shroom3	Wnt7b	Pdx1	Gcg	Mmp9	G6pc2	Mafa	Dkk3	Pax2	Gck	Maf	Bcl9	Sfrp2	Cdk6	Aldh3a1	Mab21l2	Met	Hoxd4	Tcf4	Sp8	Cryab	Neurog1	Trim11	Neurog2	Vsx2	Tlr4	Cryaa	Pcsk2	Cdkn1b	Pcsk1	Nr2e1	Rlbp1	Atoh7	Sox2	Shh	Six3	Plagl1	Sost	Bcl9l
+PAX7 mouse	TRRUST_Transcription_Factors_2019	Nfix	Id3	Myod1	Ets1	Pax3	Myf5
+PAX8 human	TRRUST_Transcription_Factors_2019	Wt1	Tg	Ncam1	E2f1	Slc3a1	Slc5a5	Trp53	Tshr
+PBX1 mouse	TRRUST_Transcription_Factors_2019	Dcc	Hoxb1	Cdkn2b	Myog	Pax6	Pax3	Pbx1	Cyp17a1	Mc2r	Cdh1	Fgf10	Alx1
+PBX2 human	TRRUST_Transcription_Factors_2019	Emx2	Meis1	Vcp	Fmo3
+PDX1 mouse	TRRUST_Transcription_Factors_2019	Nr5a2	St18	Slc2a2	Pax4	Tshz1	Fam3b	Gcg	Neurog3
+PER1 mouse	TRRUST_Transcription_Factors_2019	Egr1	Slc12a3	Bhlhe40	Cry2	Scnn1a	Crem	Clock
+PGR human	TRRUST_Transcription_Factors_2019	Igfbp1	Il10	Dusp1	Esr1	Atp1b1	Vegfa	Foxp3	Bcl2	Rln1	Abcg3	Rela	Irs2	Klk4	Klk1b24	Egfr	Pld1	Cyp19a1	Ptgs2	Hltf	Ccnd1	Erbb2	E2f1	Myc	Ywhaq
+PGR mouse	TRRUST_Transcription_Factors_2019	Ptger2	Fam89b	Fshb	Ihh	Klf5	Esr1	Csn2	Cyp19a1	Nfkbia	Bcl2l1	Id4	Adam8
+PIAS1 human	TRRUST_Transcription_Factors_2019	Fabp2	Cyp17a1	Muc1	Stat1	Sis	Prmt1
+PITX1 human	TRRUST_Transcription_Factors_2019	Jun	Ifna4	Fshb	Prl3d2	Runx1	Duxbl1	Tbx4	Runx2	Tert	Irf2	Nkx3-1	Irf7	Hes1	Trib2	Gnrh1
+PITX1 mouse	TRRUST_Transcription_Factors_2019	Tbx1	Tert	Fshb	Barx1	Tbx4
+PITX2 human	TRRUST_Transcription_Factors_2019	Lef1	Slc13a3	Abcb1a	Fgf16	Plod1	Wnt5a	Fshb	Prl3d2	Lhx6	Wnt2	Gnrh1
+PITX2 mouse	TRRUST_Transcription_Factors_2019	Tbx2	Lef1	Dlx2	Tbx1	Mef2c	Mga	Gad1	Fshb	Myod1	Foxj1	Gata4	Isl1	Tbx6	Tbx5	Tbx4	Bmp4	Nr5a1	Tbx15	Depdc1b	Plod1	Hesx1	Amelx	Myf5
+PITX3 mouse	TRRUST_Transcription_Factors_2019	Foxe3	Aldh1a1	Bdnf	En1	Slc18a2	Slc6a3
+PLAG1 mouse	TRRUST_Transcription_Factors_2019	Egr1	Fas	Nkx3-1	Tnfrsf22	Igf2
+PML human	TRRUST_Transcription_Factors_2019	Flt3	Uba7	Cdkn1a	Ccnt1	Eaf2	Tnfaip3	Hipk2	Egfr	Nr4a1	Hck	Pml	Grip1	Ccnd1	Ep300	Casp3	Bax	Ifnb1	Tnfsf10	Trp53
+POU1F1 human	TRRUST_Transcription_Factors_2019	Pou1f1	Ghr	Gh	Vdr	Bdkrb1	Prl3d2	Insm1	Ren1	Cga	Tshb
+POU1F1 mouse	TRRUST_Transcription_Factors_2019	Ghr	Neurod4	C1qtnf3	Prl3d2	Trh	Tshb
+POU2AF1 mouse	TRRUST_Transcription_Factors_2019	Spi1	Pou2f1	Pou2f2	Slc22a1	Cxcr5	Cd79b	Spib	Lgals1	Id3	Id2	Btk
+POU2F1 human	TRRUST_Transcription_Factors_2019	Ptgir	St6gal1	Vwf	Cdx2	Gadd45a	Txnrd1	Pou2af1	Vcam1	Il2	Ar	Il5	Il4	Gfi1b	Id1	Il2ra	Rrm2b	Snai2	Lct	Gcm1	Mad2l1	Gnrh1	Sdc4	Twist1	Plau	Gata1	Rptor	Hpgds	Lgals4	Ccnd1	Bdkrb1	Capn6	Tk1	Spp1	Snapc1
+POU2F1 mouse	TRRUST_Transcription_Factors_2019	Thrb	Cdx2	Fam89b	Gadd45a	Lpl	Atp11c	Csn2	Il2	Il5	Il4	Cd79b	Cd79a	Aldh3a1	Ifng	Irf3	Btk	Nos2	Gnrh1	Mad2l1
+POU2F2 human	TRRUST_Transcription_Factors_2019	Il5	Spi1	Spib	Id2	H2-Ea	Tk1	Spp1	H2-Ob
+POU2F2 mouse	TRRUST_Transcription_Factors_2019	Crisp3	Csf3	Lpl	Il5ra	Cxcr5	Retn	Atp11c	Pdcd1lg2	Il2	Il5	Il4	Cd79b	Cd79a	Ifng	Btk	Nos2	Cd36
+POU3F1 mouse	TRRUST_Transcription_Factors_2019	Egr2	Mpz	Otx2	Mbp	Myf5
+POU3F2 human	TRRUST_Transcription_Factors_2019	Ddc	Fabp7	Cdh13	Mitf	Nkx2-1	Pde5a	Pax3	Gnrh1	Foxp2
+POU4F1 mouse	TRRUST_Transcription_Factors_2019	Cdkn1a	Syt1	Bcl2l1	Bcl2	Bax	Pmaip1	Pou4f2	Runx3
+POU5F1 human	TRRUST_Transcription_Factors_2019	Eomes	Sema6a	Lefty1	Ddc	Dlx5	Cdkn1a	Cdx2	Gadd45a	Gata6	Thy1	Dkk1	T	Fgf4	Tbx18	Bmp4	Hlx	Sox2	Zfp42	Id2	Spp1	Nanog	Itga6	L1td1
+POU5F1 mouse	TRRUST_Transcription_Factors_2019	Eed	Sema6a	Lefty1	Cdx2	Myod1	Tet2	Nr0b1	Pou5f1	Pax2	Klf2	Zfp42	Kif2a	Nanog	Stk40	Cdkn1a	Mesp1	Rif1	Gata6	Fgf4	Fgf8	Sox2
+PPARA human	TRRUST_Transcription_Factors_2019	Srebf2	Igfbp1	Cpt1a	Acsl1	G0s2	Apoa5	Apoa4	Mmp9	Sod2	Nfkbia	Fabp4	Il6	Acox1	Apobr	Apoc3	Angptl4	Txnip	Cyp1a1	Plin2	Serpine1	Lpl	Ucp1	Slc9a1	Ptgs2	Sult2a1	Tuba1b	Acadl	Hmox1	Slc25a20	Pdk4	Mlycd	Il6ra	Cd36	Ugt1a10	Apob	Stat5a
+PPARA mouse	TRRUST_Transcription_Factors_2019	Slc15a1	Cpt1a	Cidea	Mmp12	Aldh3a2	Nfkbia	Fabp4	Il6	Angptl4	Pxmp4	Bcl2	Acot2	Il6st	Trib3	Fbp2	Fabp1	Cebpa	Cebpb	Gsk3b	Abcd4	Cebpd	Slc27a1	Nr1i2	Pex11a	Retsat	Serpine1	Lpl	Serpine2	Ucp2	Mpo	Cyp7a1	Ptgs2	Gys2	Lgals4	Tbx21	Ucp3	Slc25a20	Pdk4	Spp1	Cd36	Stat5a
+PPARD human	TRRUST_Transcription_Factors_2019	Hsd11b2	Cat	Lpl	Angptl4	Txn1	Ang	Pdk4	Timp1	Sat1	Sod1
+PPARD mouse	TRRUST_Transcription_Factors_2019	Tgfb1	Gys2	Sp1	Lpl	Ucp3	Insig1	Angptl4	Slc25a20	Pparg	Pdk4	Foxo1
+PPARG human	TRRUST_Transcription_Factors_2019	Pou2f1	Gk	Mmp1a	Gdf15	Bad	Cav1	Cflar	Mmp9	Tg	Rarb	Bcl2	Ren1	Abcg3	Trp53	Cd83	Csf1	Serpine1	Acat1	Retn	Dbi	Tnfrsf11b	Vldlr	Cldn2	Egfr	Slc5a5	Slc9a1	Brs3	Ccnd1	Myc	Socs7	Cd36	Ciita	Adipoq	Cpt1b	Jag1	Nr1h3	Klf4	Tshr	Erp44	Fabp4	Cat	Ccne1	Apobr	Bcl2l1	Angptl4	Txnip	Plin2	Cebpa	Ero1a	Defb14	Cdkn1a	Slc2a4	Atp2a2	Fasl	Fgf1	Ager	Sat1	Icam1	Ptgs2	Lipe	Hmox1	Ugt1a10	Apob	Pdk2
+PPARG mouse	TRRUST_Transcription_Factors_2019	Cav1	Cidec	Cidea	Gck	Il2	Cops5	Il4	Scnn1g	Ifng	Mstn	Slc27a1	Csf2	Csf1	Serpine1	Ucp2	Ucp1	Retn	Dbi	Muc1	Ccnd1	Ucp3	Egr1	Adipoq	Insr	Paqr7	Plin1	Hgf	Sorbs1	Pdx1	Klf5	Sod2	Maf	Fabp4	Cat	Plin5	Angptl4	Plin4	Plin2	Slc2a2	Atp2a2	Fgf1	Ptgs2	Gys2	Lipe	C1qtnf3	Hmox1	Scarb1
+PPARGC1A human	TRRUST_Transcription_Factors_2019	Apoc3	Mfn2	Mlycd	Apoa5	Pck2	Aldob	Otc	Cyp7a1
+PPARGC1A mouse	TRRUST_Transcription_Factors_2019	Srebf2	Cpt1b	Ppara	Nr1i2	Cav3	Pdhx	Ucp1	Nrf1	Tfb2m	Tfb1m	Cidea	Apoa4	Hnf4a	Hamp	Tfam	Mbp	Duxf3
+PRDM1 human	TRRUST_Transcription_Factors_2019	Pcna	Lmo2	Myc	Gcsam	Mki67	Ciita
+PRDM1 mouse	TRRUST_Transcription_Factors_2019	Bmp5	Nlrp12	Xbp1	Bcl6	Id3	Tnfrsf17	Pax5	Cxcr5	Ifnb1	Pdcd1	Map3k5
+PROX1 human	TRRUST_Transcription_Factors_2019	Nr5a2	Cdkn1b	Rgs4	Cdkn1c	Nr1i2	Ccne1	Six3	Ifng	Akt2	Twist1	Cyp7a1
+PROX1 mouse	TRRUST_Transcription_Factors_2019	Esrra	Calcrl	Notch1	Flt4	Gfi1	Twist1	Olig2	Cyp7a1	Rgs4	Pdpn	Ccne1	Ifng	Nkx2-5
+PTTG1 human	TRRUST_Transcription_Factors_2019	Rhoa	Pttg1ip	Fgf2	Vegfa	Cdc42	Ccnb1	Lgals1	Id3	Myc	Cdk1	Kdr	Rac1	Timp2	S100a4	Dock1
+RARA human	TRRUST_Transcription_Factors_2019	Sftpb	Fgfbp1	Abcc3	Muc5ac	Prkca	Hck	Ccna1	Scd2	Rarb	Cyp1a1	Crh	Cdkn1a	Maob	Crabp1	Nr1i3	Cxcr5	Plau	Ets1	Icam1	Rptor	Thbd	Hsd17b2	Hnf4a	Anxa8	Macrod1
+RARA mouse	TRRUST_Transcription_Factors_2019	Pcp2	Abcc2	Stat1	Cebpe	Lamb1	Klf5	Pou5f1
+RB1 human	TRRUST_Transcription_Factors_2019	Sftpd	Dnmt3a	Fos	Igf1	Vegfa	Dhfr	Elf1	Tfdp1	Rbl1	Sp1	Ebna1bp2	Tgfbi	Fgfr1	Birc5	Pparg	Cdk1	Ddit3	Hbp1	Atf2	Pcna	Rb1	Cdkn1a	Brca1	Wrn	Cdh1	E2f1	Myc	E2f2	E2f3	Trp53bp2	Map3k5
+RB1 mouse	TRRUST_Transcription_Factors_2019	Atf2	Robo3	Spi1	Jun	Cdkn1a	Fos	Igf2	Elf1	Fosl1	Sp1	Ccnd1	Bin1	E2f1	Birc5	Mybl2	Dnmt1
+RBL1 mouse	TRRUST_Transcription_Factors_2019	Mycs	Myc	Alpl	Hes1	Fgf2	Mybl2
+RBL2 mouse	TRRUST_Transcription_Factors_2019	Pcna	Ccna2	Rad51	Sox2	Stmn1	Alb	Cdk2	Birc5	Cdc25a	Brca1
+RBMX human	TRRUST_Transcription_Factors_2019	Egr1	Fosl1	Jund	Kit	Fos	Txnip	Junb	Ros1
+RBPJ mouse	TRRUST_Transcription_Factors_2019	Cr2	Cdkn1a	Hoxd1	Prdm1	Fos	Olig2	Nfatc1	Tyrobp	Ascl1	Lfng	Cdh2	Birc5	Hesx1	Sox9	Plcg2	Rlim	Hes1	Nodal
+REL human	TRRUST_Transcription_Factors_2019	Crp	Il10	Cdkn1a	Bcl2a1d	Tnfaip3	Klk1b24	F3	Sele	Icam1	Il2	Sod2	Il1b	Il6	Csrp1	Il2ra	Ccl5	Il12b	Cd40lg	Ephb2	Birc3	Ier3
+REL mouse	TRRUST_Transcription_Factors_2019	Rc3h1	Ngb	Foxp3	Il2	Sod2	Il4	Il1b	Pthlh	Wt1	Il23a	Ifng	Birc3	Ezh2	Cebpd	Il21	Tnfaip3	Tnf	Rorc	Ccl5	Myc	E2f3	Il12b	Il12a	Nos2
+RELA human	TRRUST_Transcription_Factors_2019	Bad	Cck	Psmb9	Col1a2	Col1a1	Il23a	Cyp1a1	Bax	Trp53	Optn	Epas1	Serpine1	Nolc1	Psmb10	E2f1	Myc	Alox5	Akt1	Akt2	Hes1	Muc6	Egr1	Abca1	Tslp	Tnfsf14	Gadd45g	Mif	2410137M14Rik	Bace1	Ar	Col2a1	Sdc1	Nox4	Snai1	Ptges	Cftr	Ptgfr	Crhr1	Il1rn	Oxtr	Cfi	Twist1	Hif1a	Gata3	Icam1	Cyp27b1	Lipe	Hmox1	Pdk4	Il12b	Il12a	Tnfsf10	Junb	Ier3	Ctsb	Ccr2	Edn1	Il10	Ccl22	Ccl20	Vegfd	Fn1	Il18	Sirt1	Vegfa	Il1a	Mmp13	Tlr2	Il1b	Mmp12	Trf	Ncor1	Mmp14	Bhmt1b	Ncor2	Tff3	Cd28	Tlr9	Tlr7	Tff1	Tlr3	Serpina3b	Btg2	Cd40	Ebi3	Brca2	Klk1b24	Hsd11b2	Socs3	Epcam	Tert	Stk39	Cd38	Ripk2	Timp1	Ccr7	Pck2	Ccr5	Ccr3	Ppara	Stat1	Mgmt	Plin1	Serpinb1b	Csnk2a1	Stat3	Stat4	Prox1	Bgn	F3	Il17a	F8	Xiap	Cyp2e1	Cd40lg	Hbegf	Il17c	Ppard	Tnfrsf13c	Ccl11	Faf1	Cdkn1a	Ifna4	Ptafr	Pigr	Gstp1	Ptger4	Ptgs2	Hyal1	Nampt	Cxcr2	Cxcr4	Ifnb1	Ccl19	Olr1	Cd74	Tap2	Tap1	Vcam1	Agt	Grin1	Foxp3	Cxcl10	Cxcl12	Wt1	Olfm4	Fas	Ppig	S100a6	Cd69	Ptpn6	Abcg3	Cd86	Cd83	Csf2	Csf1	Gtf2b	Cd80	Tnc	Tnf	Foxo3	Egfr	Slc9a2	Yy1	Bcl2l11	Ccnd2	Ccnd1	Cdh1	Tbx21	Adora3	Adora1	Nlrp2	Mill1	Reps2	Pcyt2	Muc17	Traf1	Tnfrsf22	Traf2	Gfap	Sele	Nfkb1	Creb3	Gclc	Bcl2l1	Birc5	Hpse	Lcn2	Pgr	Birc2	Birc3	Lpl	Plau	Fasl	Ager	Cyp19a1	Fgf7	Fgf8	Ccnb1	Rgs4	Nppb	Tnfrsf9	Pou2f2	Mmp1a	Mmp2	Pla2g2a	Mmp3	Gkn2	Nfkbiz	Cflar	Muc5ac	Ptpn13	Mmp9	Tapbp	Il2	Nfkbia	Irf1	Il4	Bmp2	Elf3	Il6	Cdk6	Irf4	Tnip3	Cdk4	Adora2a	Ifng	Bcl3	Carm1	Bcl2	Irf7	Fbp1	Defb3	Abcb1a	Gsk3a	Bcl2a1d	Ncam1	Tnfaip3	Nrf1	Cyp3a13	Casp9	Bdkrb1	Casp3	Trpc1	Madcam1	Drd2	Amh	Mcl1	Tbp	Kdm2a	Muc5b	Cr2	Nos3	Vwf	Erap1	Alox5ap	Plaur	Sod2	Pthlh	Il2ra	Sftpa1	Trib3	Crp	Hdac1	Flt4	Hdac7	Slc25a27	Thbd	Mat2a	Ccl5	Igf2bp2	Ccl4	Itgax	Ccl3	Nos1	Nos2	Trim21	Upp1
+RELA mouse	TRRUST_Transcription_Factors_2019	Ptpn1	Cdx2	Vcam1	Agt	Tec	Cxcl10	Col1a1	Wt1	Stim1	Il23a	Fas	Cd86	Epas1	Csf1	Serpine2	Slc1a2	Cd80	Tnf	Yy1	Ccnd1	Myc	Akt1	Hes1	Map3k8	Hgf	Nfkb1	Pgf	Selp	Bcl2l1	Psme2b	Dnmt1	Birc3	Cacna1c	Dmp1	Twist1	Slc2a4	Rorc	Atp12a	Icam1	Cyp11a1	Fth1	Pdk4	Sox9	Apoe	Il12b	Tnfrsf4	Trim63	Il10	Ccl20	Mmp3	Cflar	Fn1	Mmp9	Il2	Tlr2	Cdk9	Il4	Bmp2	Mmp14	Il6	Il9	Irf4	Ifng	Bcl2	Pecam1	Cd40	Ebi3	Tnfaip3	Nrf1	Hsd11b2	Duox2	Shh	Stk39	Cd38	Ripk2	Gm1123	Kdm2a	Ppara	Mgmt	Fos	Ngb	Klf5	Itch	Sod2	Cldn5	Ppm1d	Xiap	Met	Cdkn1b	Ptafr	Dcst2	Dcst1	Gli1	Tnfsf13b	Ptgs2	Phex	Cxcr4	Ccl5	Igf2bp2	Ifnb1	Nos2	Upp1	Gabre	Pglyrp1
+RELB mouse	TRRUST_Transcription_Factors_2019	Myb	Ccnd1	Myc	Hes1	Birc2
+REST human	TRRUST_Transcription_Factors_2019	Chgb	Chga	Stat1	Bdnf	Oprm1	Dyrk1a	Cartpt	Grin1	Syn1	Lin28a	Ar	Gjd2	Th	Vgf	Kcnq2	Kcnq3	Avp	Scg3	Vip	Nrp1	Gabrb3	Tph2	Pcsk1	Cacna1h	Glra1	Penk	Tubb3	Cd59a	Kcnn4	Tac2	Tac1
+REST mouse	TRRUST_Transcription_Factors_2019	Srrm4	Tph2	Bdnf	Bsx	Oprm1	Dyrk1a	Celsr3	Npas4	Cacna1h	Brinp1	Gjd2	Grin2b	Penk	Scn8a	Kcnn4
+RFX1 human	TRRUST_Transcription_Factors_2019	Pcna	Msln	Hdac1	Cd70	Il5ra	Fgf1	Itgal	Map1a	Col1a2	H2-DMb1	Myc	H2-Ea	H2-Ob	Ciita
+RFX5 human	TRRUST_Transcription_Factors_2019	H2-Eb2	Hdac2	Col1a2	H2-DMb1	Ifng	H2-Ab1	H2-Ea	H2-Ob	H2-DMa	H2-Oa
+RFX5 mouse	TRRUST_Transcription_Factors_2019
+RFXANK human	TRRUST_Transcription_Factors_2019	H2-Eb2	H2-DMb1	H2-Ab1	H2-Ea	H2-Ob	H2-DMa	H2-Oa
+RFXANK mouse	TRRUST_Transcription_Factors_2019
+RFXAP human	TRRUST_Transcription_Factors_2019	H2-Eb2	H2-DMb1	H2-Ab1	H2-Ea	H2-Ob	H2-DMa	H2-Oa
+RFXAP mouse	TRRUST_Transcription_Factors_2019
+RNF2 mouse	TRRUST_Transcription_Factors_2019	Sox2	Zfp42	Scnn1a	Hoxb4	Fezf2	Hoxb8	Hoxb6
+RORA mouse	TRRUST_Transcription_Factors_2019	Pcp2	Cpt1b	Ppara	Cav3	Apoa1	Apoc3	E2f1	Cyp7b1	Lamb1	Npsr1
+RUNX1 human	TRRUST_Transcription_Factors_2019	Jun	Mir27a	Gp1ba	Klf4	Nfkb1	Vegfa	Il3	Il2	Cd6	Nf1	Bpi	Prkcq	Myl9	Mad2l1	Itgb2l	Csf1r	Slc22a4	Rela	Spi1	Csf2	Ncam1	Csf1	Itga2b	Fhl2	Mpl	Pik3cd	Mpo	Klk1b24	Alox12	Lgals3	Ccnd2	Mecom	Baalc	Ccl3	Timp1	Sympk	Myh10	Cd34	Elane
+RUNX1 mouse	TRRUST_Transcription_Factors_2019	Cebpa	Csf1r	Spi1	Cd40	Igfbp3	Mpl	Smad6	Il2	Cd79a	Art1	Il23a	Slc22a17	Fxyd2	Ifng	Piezo2
+RUNX2 human	TRRUST_Transcription_Factors_2019	Pth	Mmp2	Vegfc	Ihh	Lrp5	Twist1	Plau	Klk1b24	Esr1	Vegfa	Ar	Mmp13	Lgals3	Pip	Ibsp	Snai2	Sp7	Snai3	Elane
+RUNX2 mouse	TRRUST_Transcription_Factors_2019	Smurf1	Osr1	Axin2	Asrgl1	Dkk1	Gdf10	Mmp13	Col1a2	Col1a1	Tg	Bmp2	Mgp	Zfp64	Sp7	Alpl	Bax	Mcm3	Lef1	Shox2	Ihh	Csn2	Panx3	Hes1	Spp1	Nr2f2	Smad6	Dspp	Fgf18	Col2a1	Tcf7	Pparg	Atf6	Hbegf	Ddx5	Pttg1ip	Thbs1	Ikzf1	Fgf3	Cyp19a1	Crebzf	Lgals3	Gja3	Bglap2	Cyp11a1	Enpp1	Ibsp	Tnfsf11	Sox9	Sox5	Sox6
+RUNX3 human	TRRUST_Transcription_Factors_2019	Jag1	Cflar	Runx1	Mmp9	Cldn7	Dnase1	Capn10	Cd6	Traf6	Tcf4	Clec4g	Txn2	Cdkn1a	Pea15a	Ing1	Hspd1	Tial1	Casp8	Ing4	Ccnd1	Casp7	Myc	Casp2	Casp3	Timp1	Fadd	Hes1	Cd36	Wnt4
+RUNX3 mouse	TRRUST_Transcription_Factors_2019	Cldn7	Cd4	Slc22a17	Itgae	Ifng	Thbs1	Ccr7
+RXRA human	TRRUST_Transcription_Factors_2019	Cpt1b	Abcc3	Abca1	Serpinc1	Cxcr5	Il2rg	Cyp3a13	Cyp7a1	Pld1	Nol7	Thbd	Abcb11	Hnf1a	Il2ra	Il2rb	Hsd17b2	Hnf4a
+RXRA mouse	TRRUST_Transcription_Factors_2019	Srebf1	Abcc2	Dr1	Mttp	Nr0b2	Mpo	Cyp7a1	Lipe	Cyp26a1	Abcb11	Amelx
+SALL4 human	TRRUST_Transcription_Factors_2019	Zeb1	Abca3	Hoxa9	Sall4	Cdh1	Pou5f1
+SATB1 human	TRRUST_Transcription_Factors_2019	Spi1	Sparc	Cr2	Hdac1	Hbb-y	Cybb	Mki67	Gata3	Il2	Il5	Il4	Il2ra	Cd8b1	Cdk4	Bcl2
+SATB1 mouse	TRRUST_Transcription_Factors_2019	Il4	Spi1	Cr2	Bcl2	Nes	Nanog
+SF1 human	TRRUST_Transcription_Factors_2019	Sult2a1	Mc2r	Tcerg1	Cyp11a1	Star	Hsd3b1	U2af2	Sox9	Nr0b1	Amh	Sf3b1
+SF1 mouse	TRRUST_Transcription_Factors_2019	Nr0b1	Pou5f1	Cyp17a1	Vnn1	Cyp26b1	Cyp11a1	Star	Sox9	Amh	Cga	Gnrh1	Abcg3	Inha
+SFPQ human	TRRUST_Transcription_Factors_2019	Th	Dnaaf4	Stat6	Adarb2
+SIN3A mouse	TRRUST_Transcription_Factors_2019	Cebpb	Map4	Sp3	Rest	Star	Nos2	Smarca4
+SIRT1 human	TRRUST_Transcription_Factors_2019	Nqo1	Egln1	Hbb-y	Bcl11a	Cflar	Tnfrsf22	Hspa4	Esrrg	Pax6	Mmp9	Sele	Foxp3	Hic1	Tbx3	Lin28a	Trp73	Col1a2	Il1b	Per1	Hyou1	Pparg	Ezh2	Trp53	Abcb1a	Notch1	Shc1	Cdkn1a	Ctnnb1	Tnf	Xpc	Hif1a	Foxo3	Icam1	Ndrg1	Ccar2	Dll4	Adamts5	Acan	Wrn	Hsf1	Ccnd1	Tert	Cdh1	Myc	Nbn	Mcl1
+SIRT1 mouse	TRRUST_Transcription_Factors_2019	Smad3	Srebf1	Parp1	Sirt6	Nr0b2	Mmp9	Dkk1	Hcrtr2	Mmp13	Il6	Bcl2l1	Pparg	Nox1	Crp	Rela	Shc1	Nr1i2	Ucp2	Scnn1a	Retn	Bclaf1	Timp1	Rictor	Hes1
+SIX1 mouse	TRRUST_Transcription_Factors_2019	Dusp6	Myog	Vegfc	Six2	Myod1	Mtor	Pax2	Ccna2	Sall1	Ccnd1	Neurog1	Myf5	Atoh1	Neurod1
+SMAD1 mouse	TRRUST_Transcription_Factors_2019	Cdkn1a	Runx1	Tnfrsf11b	Ovol2	Smad6	Runx2	Col2a1	Col1a1	Col4a1	Bmp2	Hey1	Col4a2	Tlx2	Id3	Id2	Tnfsf11	Tbx20	Dsg4	Spp1	Msx2	Creld2	Nkx2-5
+SMAD2 mouse	TRRUST_Transcription_Factors_2019	Becn1	Cdkn1a	Gadd45b	Dapk1	Fshb	Afp	Hoxd11	Foxp3	Fbln5	Il2	Acta2	Rgcc	Il9	Gsc	Pparg	Nanog	Hes1	Skil
+SMAD3 human	TRRUST_Transcription_Factors_2019	Tgfb1	Vdr	Jun	Fst	Smad7	Mmp9	Vegfa	Foxp3	Pthlh	Por	Mxd1	Bambi	Apoc3	Angptl4	Foxa2	Epo	Cdkn1a	Serpine1	Tnc	Ahr	Ltbp4	Cyp7a1	Gli2	Fstl3	Cyp17a1	Zfp36	Ccnd2	Tert	Bglap2	Myc
+SMAD3 mouse	TRRUST_Transcription_Factors_2019	Jun	Myocd	Fshb	Fn1	Sstr2	Mmp9	Sirt1	Vegfa	Foxp3	Runx2	Il2	Col1a2	Acta2	Il23a	Il9	Tagln	Serpine1	Nedd9	Cldn3	Fbln5	Mir433	Cdh1	Myc	Ppargc1a	Gm1123	Il31	Gadd45b	Dapk1	Cdkn2b	Smad7	Col2a1	Ocln	Pparg	Psme3	Snai1	Angptl2	Rif1	Plau	Tnfsf13b	Enpp1	Gsc	Gast	Tpsb2
+SMAD4 human	TRRUST_Transcription_Factors_2019	Tgfb1	Jun	Cdkn2b	Smad7	Fbxo32	Por	Bambi	Apoc3	Bcl2	Epo	Cdkn1a	Serpine1	Hp	Ucp2	Tnc	Ahr	Fstl3	Gli1	Dach1	Zfp36	Bglap2	Myc	Skil	Btrc	Runx1t1
+SMAD4 mouse	TRRUST_Transcription_Factors_2019	Gm1123	Tgfb1	Mmp7	Il10	Jun	Gadd45b	Dapk1	Cdkn2b	Hgf	Fshb	Muc5ac	Sstr2	Smad7	Vegfa	Tgfbr2	Col2a1	Ocln	Il9	Tlx2	Id3	Id2	Pparg	Snai1	Dsg4	Bmpr1b	Cdkn1a	Scnn1a	Afp	Cldn3	Tnfsf13b	Cdh1	Gsc	Nkx2-1	Gast	Skil	Nkx2-5	Tpsb2
+SMAD5 mouse	TRRUST_Transcription_Factors_2019	Col2a1	Bmp2	Id3	Id2	Nr2e1	Creld2	Dsg4	Ovol2	Smad6
+SMAD7 human	TRRUST_Transcription_Factors_2019	Tgfb1	Cdkn1a	Cdkn2b	Myc	Hmox1	Krt14	Cdk1	Met	Tgfbr1
+SMAD7 mouse	TRRUST_Transcription_Factors_2019	Smad3	Tgfb1	Col1a2	Nfkbia	Glb1	Met	Vegfa	Tnfsf13b
+SMARCA4 human	TRRUST_Transcription_Factors_2019	Cad	Cdkn1a	Ccnd1	Mecom	Cdh1	Fos	Abcg3	Cd44
+SMARCA4 mouse	TRRUST_Transcription_Factors_2019	Sftpb	Sparc	Epb42	Cdkn1a	Myog	Mitf	Pou5f1	Tbx5	Nfkbia	Il4	Sox2	Adamts1	Sall4	Rest	Cdh1	Hmox1	Nanog	Cd44	Calm1
+SNAI1 human	TRRUST_Transcription_Factors_2019	Gm1123	Vdr	Cdh2	Cdh1	Fn1	Thbs1	Pbp2	Snai1	Hbegf	Cldn3
+SNAI1 mouse	TRRUST_Transcription_Factors_2019	Gm1123	Mmp2	Cdx2	Fn1	Runx2	Lin28a	Nr5a2	Col2a1	Ocln	Tjp1	Mmp15	Kit	Id1	Snai1	Nanog	Llgl2	Tfcp2l1	Ctnnb1	Itgb4	Cldn3	Ptgs2	Thbd	Cdh1	Hnf4a	Phgdh
+SNAI2 human	TRRUST_Transcription_Factors_2019	Gm1123	Jag1	Vdr	Hpgd	Lpar2	Mmp9	Pou5f1	Cxcl12	Mmp17	Cdh2	Cxcr4	Cdh1	Cd44
+SNAI2 mouse	TRRUST_Transcription_Factors_2019	Col2a1	Bbc3	Ocln	Tjp1	Cdx2	Ctnnb1	Cdh1	Lpar2	Dsg2
+SOX10 human	TRRUST_Transcription_Factors_2019	Gjb1	Gjc2	Ret	Ednrb	Mia	Col11a2	Mpz	Mitf	Pmp22	Nes	Mbp
+SOX10 mouse	TRRUST_Transcription_Factors_2019	Ret	Egr2	Dhh	Dct	Sufu	Mpz	Aatk	Mitf	Olig2	Tyr	Hes5	L1cam
+SOX17 human	TRRUST_Transcription_Factors_2019	Nfat5	Csnk1a1	Serbp1	Hnf4a	Macc1	Fn1
+SOX17 mouse	TRRUST_Transcription_Factors_2019	Foxa2	Lef1	Sftpc	Ccnd1	Ctnnb1	Macc1	Lama1	Foxj1	Mbp	Cer1
+SOX2 human	TRRUST_Transcription_Factors_2019	Ntrk3	Sema6a	Abcc3	Mmp3	Abcc6	Mki67	Pax6	Dkk1	Isl1	Pou4f2	Fgf4	Bmp4	Asxl1	Ccnd1	Lhx3	Tubb3	Plac1	Vim	Rho	Itga6	L1td1
+SOX2 mouse	TRRUST_Transcription_Factors_2019	Pou1f1	Sema6a	Jag1	Lefty1	Pou5f1	Mycs	Birc5	Nanog	Neurog1	Lef1	Cdkn1b	Nr2e1	Egfr	Fgf4	Gli3	Sox2	Shh	Zscan10	Ccnd1	Six3	Nkx2-1	Atoh1	Neurod1
+SOX4 human	TRRUST_Transcription_Factors_2019	Dhx9	Ncam1	Kmt2a	Nkx3-1	Dicer1	Axin2	Ago1	Hdac8
+SOX4 mouse	TRRUST_Transcription_Factors_2019	Spi1	Cald1	Mecom	Ctnnb1	Tcf4	Ezh2
+SOX5 mouse	TRRUST_Transcription_Factors_2019	Nfkbib	Pthlh	Catsper1	Spag6l	Sox10
+SOX6 human	TRRUST_Transcription_Factors_2019	Ccna2	Cdkn1a	Ccnd1	Ctnnb1	Cdk4	Trp53
+SOX9 human	TRRUST_Transcription_Factors_2019	Dcc	Cdkn1a	Mia	Col11a2	Mitf	Pou3f2	Sox10	Klf4	Rxfp2	Tyr	Best1	Ar	Col2a1	Nr5a1	Shh	Dct	Cdk4	Nes	Amh	Hes1	Sf1
+SOX9 mouse	TRRUST_Transcription_Factors_2019	Slc6a19	Mia	Pdx1	Wwp2	Etv2	Sox10	Pax3	Vegfa	Col2a1	Pthlh	Vnn1	Pik3ca	Matn1	Neurog3	Lxn	Ret	Catsper1	Furin	Cdkn1a	Ctnnb1	Bmi1	Best1	Phex	Fgf9	Cyp26b1	Cdh1	Sgca	Nkx3-2
+SP1 human	TRRUST_Transcription_Factors_2019	Stard3	Chga	Egf	Mcts1	Cck	Slc5a8	Col1a1	Vim	Bax	Agtr1b	Atf2	Hcn4	Sct	Pon1	Serpine1	Lcat	Retn	Cldn3	Cd2ap	Dpysl2	Mta1	Myc	Alox5	Nkx2-1	Cyp1b1	Muc4	Muc6	Abca1	Prkce	Terf2	Bace1	Bace2	Col2a1	Ar	Pnoc	Tcn2	Padi3	Vamp2	Hoxb7	Padi1	Chst4	Hp	Pdgfc	Pdgfb	Xpc	Gata3	Adh6b	Gja1	Plac1	Mybl1	Mybl2	Prom1	Slc19a1	Slc19a2	Slc19a3	Fgfbp1	Cenpw	Pdha1	Pax6	Sirt1	Lyz3	Mmp11	Slc7a5	Mmp14	Cenph	Rara	Ada	Areg	Hsd11b2	Ldhc	Ldha	Tert	Timp3	Tk1	Timp1	Timp2	Cic	Gpr39	Serpinb5	Ifngr1	Mgmt	Cdkn2b	Csnk2a1	Fos	Adam10	Sctr	F3	Ddb2	F7	Ddb1	Adam17	Fabp6	Apex1	Rgn	Hbegf	Eng	Slc29a1	Arf6	Oat	Cdkn1b	Cdkn1a	Htt	Col11a2	Gstp1	Adam23	Ptgs2	Recql4	Wrn	Smpd1	Gast	Pglyrp2	Brd7	Cyp2f2	Slc39a1	Snrpn	Usp7	Cd163	F10	Tfpi2	Agt	Ticam1	Wt1	Sqstm1	Utrn	Epo	Odc1	Tnc	Tnf	Ahr	Cxcl14	Egfr	Slc9a2	Yy1	Cdh3	Cdh2	Has2	Macrod1	Spp1	Slc39a8	Ldlr	Kcnh2	Igfbp1	Slc15a1	F2r	Igfbp4	Igfbp3	Tnfrsf22	Nfkb1	Adra2b	Nfkb2	Birc5	Pgr	Dnmt1	Cers2	Mdm2	Cd151	Tpmt	Cbfb	Fmr1	Irs2	Crem	Fasl	Rora	Foxm1	Cyp19a1	Stk11	Mmp28	Bag2	Itga5	Apaf1	Dnmt3a	Dnmt3c	Itga2	Cdc42bpg	Muc5ac	Dhcr24	Htr1a	Cdk6	Sp3	Itgad	Cdk4	Apoa1	Nf1	Bcl2	Aco1	Snap25	Cyp3a13	Adra1a	Spn	Tbxa2r	Me1	Slc13a4	Gfer	Aspn	Klf8	Dbf4	P2rx4	Impdh2	Kctd11	Apoc3	Il2rb	Drg2	Ifi205	Met	Reck	Folr1	Itgb2l	Src	Hdac4	Lsp1	Itgb3	Hsd17b11	Ednrb	Thbd	Gm2a	Ccl5	Sry	Slc25a20	Itgax	Tnni3	Ugt1a2	Itgav	Smarca1	Gm5478	Lep	Ces1d	App	Fgl2	Lrp5	C4b	Bsg	E2f1	Kdr	Egr1	Insr	St6gal1	Tnfsf14	Mif	Gdf5	Igf2	Ptk6	2410137M14Rik	Alox8	Cyp27a1	Por	Star	Btk	Ezr	Ptges	Cftr	Oxtr	Ppl	Cd1d1	Icam1	Gspt1	Tmpo	Sox3	Rassf1	Pelo	Apoe	Sox9	Inpp5j	Tnfsf10	Cd14	Skp2	Ctsb	Il10	Krt14	Cyp7b1	Vegfa	Tlr2	Nr5a1	Trf	Ugdh	Krt19	Th	P4ha1	Krt18	Krt16	Id4	Cd28	Atm	Col18a1	Acvrl1	Gipr	Maob	Brca1	Tgfa	Adrb3	Klk1b24	Cyp7a1	Fxr2	Ugcg	Socs1	C1qbp	Hnf4a	Phgdh	Pck1	Hba-x	Adipoq	Nqo2	Mme	Dmrt1	Syp	Kit	Kcnq2	Xiap	Kcnq3	Cd44	Ptn	Was	Cyp17a1	Hyal1	Npy	Hras	Tgfb1	Chrnb4	Hsd3b1	Lmo4	Slc31a1	Grin1	Mycs	Pole2	Fas	Scnn1b	Elmo3	Aplnr	Plaa	Abcg3	Tymp	Rela	Gda	Mpg	Cd83	Loxl4	Mpo	Fbln1	Tyms	Atp2c1	Nol7	Nt5e	Comp	Prss50	Ccnd2	Wif1	Hsd17b1	Ccnd1	Hsd17b2	Pttg1	Tbx21	Mill1	Ndufv2	Ndufv1	Srebf1	Pdia2	Prnp	Hgf	Esr1	Ccna2	Isg20	Creb1	Gclc	Amacr	Fgfr1	Kif2c	Fgfr3	Fbn1	Lpl	Psen1	Plau	Plat	Ltbp4	Nr4a1	Igf1r	Fpgs	Ubc	Tgm4	Vdr	Abcc3	Mmp2	Cav1	Hmga2	Oprm1	Hmga1	Rps3a1	Mmp9	Il3	Tgfbr2	Il2	Gh	Kiss1	Fes	Il6	Elf4	Mmrn1	Irf5	Dnase2a	Eapp	Blmh	Fbp1	Abcc1	Chi3l1	B4galt1	Abcb1a	Abcb8	Psip1	Slc3a2	Alox12	Fut4	Grk2	Sgpl1	Bdkrb1	Erbb2	Adgre5	Casp3	Car9	Snapc1	Gm1123	Nos3	Ptgir	Tinf2	Dck	Plaur	Epor	Sod1	Sod2	Pthlh	Cat	Spry2	Taf7	Ltf	B4galt5	Hcn2	Sigirr	Crmp1	Atp2a3	Atp2a2	Ppp2r2b	Slc4a2	Lama1	Acan	Cbs	Mat2b	Pold1	Mat2a	Pold2	Nos1	Pde6b	Pde6a
+SP1 mouse	TRRUST_Transcription_Factors_2019	Gm5478	Cadm1	Acsl4	Runx2	Tec	Col1a2	Col1a1	Mgp	Prkra	Heca	Hspa1b	Parg	App	Ifitm5	Sct	Epas1	Serpine1	Adcy4	Slc5a1	Slc5a2	Ascl2	Bach1	Asah1	Mta2	Myb	Bsg	Myc	Alox5	Nkx2-1	Egr1	Ngfr	Insr	Gstk1	Jund	Abca1	St8sia1	Slc11a1	Bsx	Mif	Klf16	Bace1	Ar	Col2a1	Star	Btk	Acsbg1	Nanog	Pemt	Sparc	Napepld	Cend1	Mgst1	Adcyap1r1	Icam1	Sult5a1	Prdx6	Cd79a	Lipe	Ptdss1	Lgals1	Prkar2b	Tnfsf11	Kcnn3	Apoe	Cd14	Sftpb	Il10	Jun	Ptges2	Gabra6	Tescl	Wnt9a	Nfatc1	Sirt1	Vegfa	Syn2	Slc7a5	Tlr2	Nr5a1	Tal1	Bhlhe40	Cldn19	Rnf141	Oprd1	Acaca	Socs3	Atxn3	Csrp2	Tert	Timp3	Phgdh	Ctse	Cdkn2c	Cdkn2d	Rnls	Nr1h3	Parp1	Nr1h2	Fos	Pou5f1	Fabp6	Kit	Mgarp	Cdk5r1	Cdk5r2	Nrp1	Ecm1	Cdkn1c	Cdkn1a	Txlng	Kcna5	Ptgs1	Ptgs2	Mrc1	Bglap2	Rho	Tspo	Dmd	Rac2	Jak3	Cd55b	Tfap2c	Aplp1	Zbtb14	Bfsp1	Agt	Hinfp	Cops5	Col5a1	Csf2	Csf1	Ucp2	Tnf	Ahr	Fbln1	Egfr	Tyms	Ndrg1	Slc9a2	Lmna	Cdh5	Ccnd3	Ccnd2	Ccnd1	Ucp3	Mfn2	Gpc4	Acss1	Myh11	Pcyt1a	Srebf1	Esrra	Igfbp3	Hgf	Smad7	Gfap	Ccna1	Lhx4	Nat1	Riox2	Aldh3a1	Sell	Pgr	Dnmt1	Csf1r	Notch1	Cox17	Irs1	Fmr1	Lpl	Slc2a1	Il5ra	Slc2a4	Ets1	Atp12a	Tgm1	Mmp28	Cyp11a1	Tnk1	Mbp	Sh3gl1	Itga5	Setdb1	Mmp2	Abcc6	Gfpt2	Hmga2	Muc5ac	Oprm1	Hmga1	Htr1a	Mmp9	Dnm1	Mertk	Tgfbr2	Bmp7	Il2	Bmp4	Acta2	Sp1	Bmp2	Il6	Cdk6	Sp4	Nf1	Nes	Itga6	Abcc1	Kdm5a	Slc25a4	Npr1	Tnfaip3	Slc3a2	Pld2	Ghr	Me1	Cox4i1	Skil	Gm1123	Lhcgr	Smarcc1	Nos3	Oprk1	Ngb	Dck	Cirbp	Plaur	Sod3	Epor	Sod2	Ppm1a	Rest	Met	Kctd13	Ltf	Nectin2	Cebpa	Src	Pkd1	Cebpd	Thra	Hmgcr	Lama1	Hdac7	Nrgn	Hmgcl	Mapk1	Pde6b	Pde6a	Scarb1
+SP2 human	TRRUST_Transcription_Factors_2019	Mat2a	Hsd17b2	Dnmt3a	Dnmt3c	Cd14	Mmp9	Papss2
+SP2 mouse	TRRUST_Transcription_Factors_2019	Col2a1	Pcyt1a	Mgp	Id3	Ucp2	B4galnt1	Ets1	Dhfr
+SP3 human	TRRUST_Transcription_Factors_2019	Chrnb4	Foxp3	Col1a1	Mycs	Msh6	Agtr1b	Utrn	Tymp	Rela	Sct	Cd83	Slc1a3	Lcat	Fbln1	Slc9a2	Cd2ap	Yy1	Bsg	Cdh2	Ccnd1	Hsd17b2	Nkx2-1	Kdr	Muc4	Mill1	Muc6	Igfbp1	Abca1	F2r	Igfbp4	Igfbp3	Hgf	Gdf5	Nfkb1	Col2a1	Cyp27a1	Tcn2	Birc5	Nox4	Padi3	Btk	Hoxb7	Fgfr3	Padi1	Cftr	Tpmt	Lpl	Plat	Cyp46a1	Rora	Rassf1	Ubc	Sox18	Cd14	Cnmd	Tgm4	Slc19a3	Ctsb	Ace	Mmp2	Dnmt3a	Dnmt3c	Itga2	Hmga2	Oprm1	Vegfa	Cenph	Itgad	Alpl	Id4	Etf1	Tff2	Tff1	Dnase2a	Eapp	Fbp1	Gipr	Maob	Alox12	Klk1b24	Cyp3a13	Socs3	Erbb2	Adgre5	Timp1	Car9	Timp2	Nos3	Cdkn2b	Dmrt1	Sctr	Plaur	Bpi	Reck	Hbegf	Hdac4	Cdkn1a	Col11a2	Atp2a2	Lama1	Cyp17a1	Cbs	Mat2a	Itgav	Cyp2f2
+SP3 mouse	TRRUST_Transcription_Factors_2019	Tfap2c	Il10	Angpt2	Gabra6	Setdb1	Tescl	Hmga2	Muc5ac	Oprm1	Dnm1	Mertk	Vegfa	Acta2	Sp1	Bmp2	Il6	Mgp	Tal1	Prkra	Nes	Itga6	Ifitm5	Epas1	Oprd1	Csf1	Ucp2	Adcy4	Ahr	Fbln1	Acaca	Slc9a2	Socs3	Lmna	Ghr	Cdh5	Bsg	Tert	Ucp3	Gpc4	Pcyt1a	Nos3	Hgf	Dck	Sod3	Col2a1	Riox2	Rest	Star	Sdc1	Met	Nanog	Pgr	Acsbg1	Cdk5r1	Dnmt1	Cdk5r2	Cebpa	Cdkn1a	Lpl	Txlng	Lama1	Nrgn	Ptgs2	Lipe	Ptdss1	Tnk1	Rho	Kcnn3	Tspo	Mapk1	Pde6b	Dmd	Rac2
+SP4 human	TRRUST_Transcription_Factors_2019	Ass1	Yy1	Rela	Ccnd1	Maob	Erbb2	Birc5	Kdr	Pde6b	Nfkb1	Fgfr3
+SP4 mouse	TRRUST_Transcription_Factors_2019	Ptdss1	Gria1	Rho	Pde6b	Cdk5r1	Nrgn	Vegfa	Slc9a2
+SP7 mouse	TRRUST_Transcription_Factors_2019	Ifitm5	Satb2	Ctnnb1	Dmp1	Dkk1	Vegfa	Dspp	Col5a1	Gja3	Bglap2	Ibsp	Col5a3	Sp7	Sost	Spp1
+SPDEF human	TRRUST_Transcription_Factors_2019	Serpinb5	Spink4	Retnla	Cdh1	Agr2	Plaur	Klk1b24	Sqstm1	Mmp9
+SPDEF mouse	TRRUST_Transcription_Factors_2019	Sftpc	Scgb1a1	Cdkn1a	Sox17	Birc5	Foxj1
+SPI1 human	TRRUST_Transcription_Factors_2019	Cd163	Il18	Nsfl1c	Il5	Il1b	Fes	Bcl6	Clec4g	Ms4a1	Tlr4	Cd22	Parg	Csf3r	Cd40	Tnfrsf11a	Csf1	Itga2b	Alox15	Tnf	Pbp2	Jchain	Ctss	Ctsk	Acp5	Macrod1	Fcer1a	Ctsg	Elane	Msr1	Dapk2	Mme	Ptgir	Stat3	Prg2	Cybb	Fli1	P2ry10	Rnase2b	Hck	Btk	Ifi205	Prtn3	Bpi	Itgb2l	Scarb2	Ncf2	Was	Csf2ra	Itgam	Gata1	Ifit3	Fcgr1	Ccl5	Itgax	Il12b	Mapk1	Scarb1
+SPI1 mouse	TRRUST_Transcription_Factors_2019	Med1	Mef2c	Oprm1	Nfkb1	Mmp13	Tec	Il1b	Elf1	Ptprc	Fes	Il9	Tal2	Tal1	Dcstamp	Scn8a	Irf8	Ncf1	Tlr4	Il7r	Csf1r	Ighm	Flt3	Ncf4	Itga2b	Ptpro	Itgb3	Tnf	Aif1	Bcl2l11	Mrc1	Ccl5	Acp5	Fcer1g	Elane	Ptgds
+SREBF1 human	TRRUST_Transcription_Factors_2019	Fdps	Cav1	Pdx1	Nr0b2	Apoa5	Ar	Acly	Scd2	Lpin1	Fabp6	Fasn	Fas	Bcl2l1	Pparg	Thrsp	Irs2	Lrp1	Pcsk9	Acacb	Hk2	Hmox1	Cic	Pck1	Ldlr	Fdft1
+SREBF1 mouse	TRRUST_Transcription_Factors_2019	Adipoq	Abca3	Fbxw7	Elovl5	Elovl3	Nr0b2	Cidea	Npc1	Cyp8b1	Gck	Il17a	Fabp6	Gpam	Fasn	Fas	Lep	Thrsp	Mstn	Cdkn1a	Cd5l	Slc2a4	Retn	Clu	Hmgcr	Pla2g6	Acaca	Lipe	Hmox1	Ankrd2	Acss2	Ppargc1a	Abcd2	Kcnj3	Ptgds
+SREBF2 human	TRRUST_Transcription_Factors_2019	Fdps	Abcg8	Abca1	Pon1	Lrp1	Mttp	Pon2	Hmgcr	Pcsk9	Lipc	Npc1l1	Fabp6	Fas	Hnf4a	Prss8	Pparg	Acot7	Abcg5	Ldlr	Fdft1
+SREBF2 mouse	TRRUST_Transcription_Factors_2019	Mvk	Fabp6	Srd5a2	Cdkn1a	Hmgcs1	Hnf4a	Hmox1	Hmgcr	Pcsk9	Npc1	Acss2
+SRF human	TRRUST_Transcription_Factors_2019	Mmp2	Prrx1	Fos	Samd4	Lmo7	Mmp9	Fosl1	Kpnb1	Acta1	Creb1	Mmp14	Ube2srt	Fxn	Myl9	Cftr	Tagln	Serpine1	Fhl2	Plau	Plg	Smn1	Dmd	Hmgxb4	Kpna1	Mcl1
+SRF mouse	TRRUST_Transcription_Factors_2019	Egr1	Mmp2	Tagln	Ckm	Tgfb1i1	Fos	Myod1	Barx2	Klf3	Mylk	Actg2	Aqp2	Acta2	Mmp14	Kcnmb1	Nppa	Hmgxb4	Myh11
+SRY human	TRRUST_Transcription_Factors_2019	Nfkbib	Th	Wdr5	Sox9	Etv2	Prom1
+STAT1 human	TRRUST_Transcription_Factors_2019	Ctsb	Ccr1	Edn1	Il10	Hsp90aa1	Il1r1	Ifnlr1	Oprm1	Tap1	Mmp9	Psmb9	Smarca4	Foxp3	Pml	Mmp13	Cxcl10	Il1b	Irf1	Il6	Krt17	Fas	Ifng	Irf8	Bax	Irf7	Vip	Trp53	Cd22	Tlr3	App	Cd86	Cd40	Acat1	Ly96	Gls	Egfr	Socs3	Muc1	Tbx21	Timp1	S100a10	Muc4	Ciita	Ppara	Stat2	Stat3	Prkce	Nr1h4	H2-T24	Plscr1l1	Il2ra	Nox4	Lcn2	Xaf1	Cd40lg	Nox1	Fgfr3	Cftr	Cebpe	Cdkn1a	Il27	Ifna4	Mvp	Chat	Fgf2	Icam1	Tnfsf13b	Ptgs2	Ifit3	Fcgrt	Fcgr1	Hmox1	Pim1	Ccl3	Ifnb1	Nos2	Gast	Upp1	Scarb1	Jak2
+STAT1 mouse	TRRUST_Transcription_Factors_2019	Egr1	Pou3f1	Rc3h1	Bace1	Runx2	Cxcl10	Irf1	Il6	Ifng	Pparg	Irf9	Irf7	Pdcd1	Mdm2	Cfb	App	Cd40	Cebpd	Cxcl9	Il27	Gfi1	Socs3	Duox2	Socs1	Tbx21	Ifnb1	Nos2	Upp1	Cd36	Ciita	Gbp2
+STAT2 human	TRRUST_Transcription_Factors_2019	Rcan1	Scarb2	Irf1	Stat1	Ifna4	Nos2	Scarb1	Ifit3	Ptgs2	Pml
+STAT3 human	TRRUST_Transcription_Factors_2019	Tgfb1	Usp7	Osm	Cops5	Fas	Lep	Ror1	Ptpn6	Trp53	Epas1	Fgl1	Pros1	Hp	Prdm1	Ucp2	Lcat	Egfr	Sts	Muc1	Zfp36	Ccnd3	Ccnd2	Ccnd1	Cdh1	Myc	Akt1	S1pr1	Muc4	Mill1	S100a11	Klf11	Abca1	F2r	Cish	Hgf	Tnfrsf22	Gfap	Esr2	Pias3	Pgf	Ar	Myd88	Bcl2l1	Birc5	Nox4	Hamp	Nanog	Dnmt1	Nox1	Ifnar1	Cfb	Mdc1	Il1rn	Faah	Lgals3bp	Twist2	Twist1	Fgf1	Fgf2	Hif1a	Ltbp1	Nlk	Icam1	Cyp19a1	Stk11	Sall4	Hmox1	Pim1	A2m	Junb	Trp63	Il11	Vdr	Mmp7	Pou2f1	Il10	Mmp1a	Mmp2	Greb1	Mmp3	Cflar	Oprm1	Hspa4	Oas1b	Ptpn13	Tyk2	Mmp9	Pax3	Vegfa	Etv6	Nme1	Vegfb	Il2	Irf1	Mmp14	Il6	Krt17	Bcl6	Cdk4	Ifng	Bcl2	Chi3l1	Trh	Nr2c2	Hspb1	Socs3	Socs1	Shh	Tert	Csrp1	Timp1	Mcl1	Muc5b	Ppara	Stat1	Fgg	Fos	Il2ra	Ddit3	Cd46	Crp	Cdkn1b	Il21	Ccl11	Flt3	Cdkn1a	Ptgs2	Psmb5	Akap12	Gast	Ikbke	Jak2
+STAT3 mouse	TRRUST_Transcription_Factors_2019	Tgfb1	Entpd1	Il10	Mmp2	Ccl20	Cav1	Rc3h1	Lif	Mmp9	Vegfa	Batf	Slc9a3	Col1a1	Il6	Il23a	Bcl2	Vip	Rela	Pcsk1	Prdm1	Trh	Tnf	Pnp2	Socs3	Muc1	Nt5e	Ccnd3	Ccnd2	Ccnd1	Nhlh2	Myc	Akt1	S1pr1	Nkx2-5	Egr1	Srebf1	Eed	Cdkn2d	Wnt3a	Rnls	Igfbp5	Stat3	Hgf	Fos	Nr0b1	Gfap	Klf4	Epor	Bace1	Maf	Pik3r1	Bcl2l1	Nostrin	Hamp	Il17f	Tcf4	Mdc1	Cdkn1b	Spi1	Pkd1	Il21	Cebpd	Gfi1	Twist2	Twist1	Hif1a	Il12a	Nos2	Jak3	Sox6
+STAT4 human	TRRUST_Transcription_Factors_2019	Socs3	Irf1	Il2ra	Myc	Tbx21	Ifng	Nox4	Pim1	Prf1	S100a4	Nox1
+STAT4 mouse	TRRUST_Transcription_Factors_2019	Prdx3	Irf4	Tbx21	Ifng	Nos2	Il18r1
+STAT5A human	TRRUST_Transcription_Factors_2019	Cdkn2b	Cel	Esr1	Csn2	Stk11	Sp1	Hrh1	Ccnd2	Bcl6	Sumo1	Ccnd1	Ifng	Bcl2l1
+STAT5A mouse	TRRUST_Transcription_Factors_2019	Sftpb	Il10	Cdkn2b	Epor	Ar	Il9	Il2ra	Bcl2l1	Clnk	Dpagt1	Csf3	Csf2	Fam89b	Prf1	Csn2	Nr3c1	Socs3	Socs2	Psap	Dpf3	Pdk4	Csn1s1	Grb10	Pck1
+STAT5B human	TRRUST_Transcription_Factors_2019	Bcl6	Ccnd1	Ifng	Bcl2l1	Cel	Igf1	Esr1	Esr2
+STAT6 human	TRRUST_Transcription_Factors_2019	Rhoa	Egln3	Stat1	Il1r1	Dusp1	Cish	Il13	Hsd3b1	Fos	Oprm1	Sele	Adra2b	Col1a2	Il4	Col1a1	Selp	Irf4	Fosb	Sidt1	Cyp2e1	Slc26a4	Tlr4	Fcer2a	Cd40	Ccl11	Itga2b	Alox15	Alox12	Ptgs2	Socs1	Cysltr1	Ormdl3	Cnr1	Ccl17
+STAT6 mouse	TRRUST_Transcription_Factors_2019	Egr1	Ncoa3	Il24	Itgb3	Gfi1	Tfec	Tnf	Gata3	Csn2	Foxp3	Il4	Il9	Hand2	Bcl2l1
+TAL1 human	TRRUST_Transcription_Factors_2019	Mycs	Myb	Angpt2	Tert	Aldh1a2	Erg	Krt7	Epor	Nfkb1	Cd34
+TAL1 mouse	TRRUST_Transcription_Factors_2019	Tfdp2	Kit	Epb42	Ccnd1	Myog	Runx1	Erg	Tcf3	Smad6	Pdzk1ip1
+TBP human	TRRUST_Transcription_Factors_2019	App	Crp	Fus	Cdkn1a	Igfbp4	Ppbp	Fos	Lin28b	Il6	Ccnb1	Bdkrb1	Myc	E2f1	Bcl2	Nf1
+TBP mouse	TRRUST_Transcription_Factors_2019	Ntrk1	Csrp3	Fos	Polr2f	Prg2	Nf1	Fgf23
+TBX1 mouse	TRRUST_Transcription_Factors_2019	Fgf8	Mef2c	Ripply3	Ywhae	Flt4	C1qbp	Fgf10
+TBX2 mouse	TRRUST_Transcription_Factors_2019	Mycs	Cdkn1b	Gja1	Grem1	Tyrp1	Cdkn1a	Gja3	Nppa
+TBX21 human	TRRUST_Transcription_Factors_2019	Fut7	Il4	Yy1	Il10	Ptgdr2	Il13	Ifng	Cxcr3	Nelfcd	Gata3	Ccr4	Chst4
+TBX21 mouse	TRRUST_Transcription_Factors_2019	Il4	Il7	Il21	Il23r	Hand2	Ifng	Spp1	Gata3	S1pr5
+TBX3 mouse	TRRUST_Transcription_Factors_2019	Gja1	Cdkn1a	Bglap2	Nppa	Onecut1	Gja5	Ibsp	Sp7	Hnf1b	Runx2
+TCF12 mouse	TRRUST_Transcription_Factors_2019	Acta2	Smarcc1	Cldn13	Ptcra	Id2	Myog
+TCF21 mouse	TRRUST_Transcription_Factors_2019	Ar	Nr5a1	Cdkn1a	Sf1
+TCF3 human	TRRUST_Transcription_Factors_2019	Aicda	Cr2	Cdkn1a	Il5ra	Ins1	Pou5f1	Bbc3	Cd4	Exo1	Cdk6	Cdh1	Myc	Rag1
+TCF3 mouse	TRRUST_Transcription_Factors_2019	Esrrb	Adipoq	Smarcc1	Aicda	Ube2i	Ptcra	Ckm	Ebf1	Pax5	Nr0b2	Vcam1	Foxp3	Nr5a2	Col2a1	Acta2	Cd5	Cldn13	Kit	Cd7	Id1	Iglc3	Myl2	Insm1	Nanog	Neurog1	Lef1	Notch1	Epb42	Cdkn1a	Ung	Foxo1	Cd79a	Atxn3	Ccnd3	Cdh1	Cd19
+TCF4 human	TRRUST_Transcription_Factors_2019	Jun	Defa5	Fst	Mitf	Klf4	Vegfa	Clec4b1	Vcan	Birc5	Vim	Bcl2	Notum	Heca	Lgr5	Cd44	Abcb1a	Cntnap2	Nrxn1	Pld1	Ccnd1	Myc	Wnt4	Skp2
+TCF4 mouse	TRRUST_Transcription_Factors_2019	Edn1	Cdx2	Mitf	Fn1	Hmga1	Sstr2	Plaur	Smc3	Ptgs2	Fgf18	Cops5	Acta2	Hnf1a	Id3	Cdh1	Id2	Myc	Notum	Cd44
+TCF7L2 human	TRRUST_Transcription_Factors_2019	Acvrl1	Abcb1a	Stard7	Wwc1	Stat3	Ctnnb1	Glce	Snai2	Birc5	Heca	Gata3	Ptgs2
+TFAP2A human	TRRUST_Transcription_Factors_2019	Gm5478	Mmp2	Galnt3	Gpx4	Nme3	Lnpep	Mmp9	Snap91	Vegfa	Dcbld2	L1cam	Kiss1	Col1a1	Th	Fas	Bcl2	Ache	App	Mpg	Cd82	Crabp2	Dbh	Adm	Pvr	Egfr	Adra1a	Brs3	Hsd17b1	Cdh1	Erbb2	Hoxa4	Timp2	Muc4	Klf12	F2r	Mcam	Igfbp5	Hgf	Plaur	Prkca	Adra2b	Bace1	Sod2	Kit	Impdh2	Taf7	Spry2	Cryab	Cftr	Oat	Hip1	Foxa1	Ecm1	Cdkn1a	Htt	Gh	Crx	Ets1	Nr3c1	Ptgs2	Ccnb1	Sult1e1	Pold2	Cyp11a1	Hmox1	Gast	Cga	Slc19a1	Gusb
+TFAP2A mouse	TRRUST_Transcription_Factors_2019	Cebpa	Lhcgr	Hoxa9	Meis1	Apoe	Dmd	Kctd13	Hoxa7	Vegfa	Itpr1
+TFAP2C human	TRRUST_Transcription_Factors_2019	Gpx1	Ret	Ecm1	Stfa1	Cdkn1a	Mmp2	Sult1e1	Erbb2	Crabp2	Esr1
+TFAP2C mouse	TRRUST_Transcription_Factors_2019	Nanos3	Dnmt3l	Kit	Cdk6	Cdkn1a	Dmrt1	Dnmt3c	Klf4	Sfrp1	Fgf4
+TFAP4 human	TRRUST_Transcription_Factors_2019	Sall2	Clcn5	Cdkn1a	Ifng	Ppp2r2b	Muc4	Mdm2
+TFCP2 human	TRRUST_Transcription_Factors_2019	Trf	Gsk3b	Wt1	Sry	Pax6	A2m	Spp1	Tyms
+TFDP1 human	TRRUST_Transcription_Factors_2019	Pcna	Nrip1	Rrm1	Ccne1	Cav1	Cdk1	Tyms	Mybl2	Trp53	Dhfr
+TP53 human	TRRUST_Transcription_Factors_2019	Pdgfrb	Gdf15	Ckm	Dkk1	Hipk2	Prkab1	Pml	Fas	Bax	Epha2	Trp53	Rela	Cyfip2	Rb1	Atf3	Cd82	Tceal1	Aqp3	Foxo3	Egfr	Tyms	Ptpa	Antxr1	Chek1	Hsf1	Ccnd1	Chek2	Perp	E2f1	Myc	Pttg1	Alox5	Akt1	E2f3	Ppargc1a	E2f7	Smad3	Egr1	Siah1a	Plk1	Gadd45a	Plk3	Igfbp3	Prg3	Tnfrsf22	Esr1	Nfkb1	Pias3	Trp73	Slc6a6	Frmd5	Ccna2	Ccna1	Reep5	Tbxas1	Bcl2l1	Birc5	Mdm4	Siva1	Cryab	Mad1l1	Dnmt1	Ezh2	Mdm2	Slc2a1	Xpc	Fgf2	Ipo7	Foxm1	Igf1r	Rassf1	Ccnb2	Ccnb1	Alkbh2	Nkx3-1	Pmaip1	Sfn	Ier3	Fus	Dusp1	Mmp1a	Mmp2	Apaf1	Cav1	Pax5	Ptpn13	Sstr2	Vegfa	Nme1	Rad51b	Vcan	Elf4	Id1	Rrm2b	Cdk4	Id2	Bcl3	Cdk2	Carm1	Bcl2	Cdk1	Mcm7	Abcb1a	Btg3	Btg2	Brca1	Nlrc4	Brca2	Bbc3	Map4	Tert	Hnf4a	Casp3	Ankrd1	Bdkrb2	Casp1	Ctsd	Mcl1	Tcf7l2	Stat1	Mgmt	Chuk	Stat3	Cables1	Prc1	S100b	Klf2	Ddb2	Ddb1	Adgrb1	Met	Apcs	Cdkn1b	Flt1	Hsp90ab1	Cdkn1a	Ogg1	Ctnnb1	Uhrf1	Gstp1	Thbs1	Afp	Mki67	Gli2	Ing1	Xpo1	Recql4	Wrn	Pold1	Bglap2	Plagl1	Gpnmb	Hras	Gc	Trim75
+TP63 human	TRRUST_Transcription_Factors_2019	Zfp750	Vdr	Smarcd3	Ppara	Cdkn1a	Brca1	Xpc	Evpl	Klf4	Ddb2	Id2	Bax	Tcf4
+TP73 human	TRRUST_Transcription_Factors_2019	Vdr	Cdkn1a	Cables1	Aqp3	Bbc3	Tert	E2f1	Birc5	Cdk1	Bax	Pmaip1	Mdm2
+TRERF1 human	TRRUST_Transcription_Factors_2019	Cd86	Cd40	Cd80	Ccr7	Lilra5
+TRP53 mouse	TRRUST_Transcription_Factors_2019	Pdgfrb	Gdf15	Ckm	Mcts1	Runx1	Hipk2	Agt	Foxp3	Pml	Axl	Nupr1	Fas	Bax	Steap3	Hspa1b	Pcna	Rela	Atf3	Ei24	Serpine1	Rchy1	Foxo3	Tyms	Ndrg1	Chek1	Mxi1	Perp	E2f1	Myc	Nkx2-5	Gtse1	Ptgds	Smad3	Egr1	Srebf1	Insr	Gadd45a	Plk3	Prnp	Hgf	Ckap2	Pappa	Nr0b2	Tnfrsf22	Dyrk1a	Nfkb1	Pias3	Ptk2	Col2a1	Slc6a6	Ccna2	Reep5	Birc5	Psme3	Tcf4	Nanog	Siva1	Mdm2	Notch1	Psen1	Slc2a4	Foxm1	Igf1r	Sesn1	Ccnb2	Ccnb1	Glipr1	Sall2	Pcbp2	Nkx3-1	Hmox1	Pmaip1	Edil3	Slc19a2	Dusp4	Dusp1	Dusp2	Mmp2	Apaf1	Smurf1	Myog	Lif	Myod1	Pax2	Rap2b	Krt19	Elf4	Cdk5	Rrm2b	Id2	Cdk2	Bcl2	Tff2	Mcm7	Pmp2	Abcc1	Gsk3b	Btg2	Mir34a	Cks1b	Fpr1	Neurod2	Bbc3	Casp8	Epcam	Map4	Casp6	Tert	Casp7	Casp3	Ankrd1	E4f1	Amelx	Serpinb5	Cdkn2c	Tcf7l2	Mgmt	Prox1	Fos	Klf4	Klf2	Sod2	Per2	Psrc1	Gap43	Adgrb1	Ddit4	Met	Hdgf	Ltf	Cdkn1b	Src	Pkd1	Cdkn1c	Cdkn1a	Uhrf1	Thbs1	Afp	Nr3c1	Ptgs2	Rps6ka1	Cxcr2	Sin3a	Polk	Mapk1	Hras	Bak1	Upp1	Gabre
+TRP63 mouse	TRRUST_Transcription_Factors_2019	Smarcd3	Satb1	Cdkn1a	Nectin1	Krt14	Irf6	Evpl	Smarca4	Vegfa	Ptk2
+TRP73 mouse	TRRUST_Transcription_Factors_2019	Ngfr	Pdgfrb	Casp8ap2	Gls2	Cdkn1c	Cdkn1a	Itch	Foxo3	Nr3c1	Bbc3	Psrc1	Hey2	E2f1	Bax	Pmaip1	Mdm2
+TWIST1 human	TRRUST_Transcription_Factors_2019	F2r	Mmp1a	Gdf15	Mmp2	Fos	Fn1	Nr2f1	Ctps1	Esr1	Dkk1	Klf17	Dnm3	Runx2	Rbl2	Atm	Nf1	Bcl2	Pfdn4	Cd44	Srpx	Itgb1	Ilk	Ybx1	Bmi1	Icam1	Rap1a	Myb	Cdh2	Cdh1	Erbb3	Mapk3	Akt2	Timp1	Mapk1
+TWIST1 mouse	TRRUST_Transcription_Factors_2019	Brd4	Postn	Pdgfra	Ckm	Mme	Sox10	Esr1	Dkk1	Runx3	Col2a1	Zeb1	Tek	Fgf10	Zyx	Abcg3	Fgfr2	Cdkn1a	Tnf	Fgf2	Hoxa9	Shh	Cdh1	Tbx21	Tbx20	Sox9	Alx3	Il12rb2
+TWIST2 human	TRRUST_Transcription_Factors_2019	Postn	F2r	Gdf15	Mmp2	Fos	Fn1	Nr2f1	Ctps1	Dkk1	Runx2	Rbl2	Atm	Nf1	Pfdn4	Cd44	Srpx	Itgb1	Ilk	Icam1	Rap1a	Myb	Cdh2	Cdh1	Erbb3
+TWIST2 mouse	TRRUST_Transcription_Factors_2019	Srebf1	Add1	Cdkn1a	Ckm	Msx1	Dkk1
+USF1 human	TRRUST_Transcription_Factors_2019	Ctsb	Tgfb1	Pou2f1	Slc16a1	Tgfb2	Apoa2	Apoa5	Agt	Gck	Cd2	P4ha1	Apc	Serbp1	Ifng	Myh9	Cyp1a1	Id4	S100a6	Fbp1	Ptpn6	Rela	Serpine1	Slc1a3	Brca2	Ascl2	Tyms	Tert	Tbx21	Fcer1a	B2m	Ciita	Ctsd	Ptgds	Abca1	Pklr	Top3a	Fmo3	Nfkb1	Ext1	Isg20	Nphs2	Tcn2	Asph	Apex1	Hoxb4	Sf1	Hoxb7	Foxa2	Fmr1	Pigr	Slc22a2	Mvp	Gata5	Lipc	Cyp19a1	Ptgs2	Ccnb1	Scn9a	Cxcr4	Hmox1	Slc19a1
+USF1 mouse	TRRUST_Transcription_Factors_2019	Fmr1	Bdnf	Pigr	Tnfaip3	Pdx1	Apoa5	Gata5	Col1a1	Prnd	Lipe	Fasn	Fshr	Cyp1a1	Alx3	Spp1	Ciita
+USF2 human	TRRUST_Transcription_Factors_2019	Ctsb	Tgfb1	Igf2r	Pou2f1	Tgfb2	Abca1	Pklr	Top3a	Apoa2	Pdx1	Apoa5	Nr5a1	Cd2	P4ha1	Apc	Tcn2	Asph	Myh9	Hoxb4	Sf1	Fbp1	Ptpn6	Cftr	Epas1	Fmr1	Pigr	Thbs1	Brca1	Brca2	Ascl2	Lipc	Hif1a	Cyp19a1	Ptgs2	Atp5f1a	Cxcr2	Tert	Cxcr4	Hmox1	Fcer1a	B2m	Slc19a1	Ctsd
+USF2 mouse	TRRUST_Transcription_Factors_2019	Fmr1	Bdnf	Pigr	Apoa5	Col1a1	Lipe	Fasn	Fshr	Hmox1	Alx3	Spp1
+VDR human	TRRUST_Transcription_Factors_2019	Il10	Igfbp3	Foxp3	Dkk4	Il2	Tnfrsf21	Ncor1	Il6	Cyp24a1	Ddit4	Bhlhe40	Trpv6	Cyp1a1	H2-Eb2	Cdkn1b	Pth	Cdkn1a	Prl3d2	Ucp1	Asap2	Cyp3a13	Cyp7a1	Egfr	Pld1	Hoxa10	Calb1	Podxl	Bglap2	Erbb2	Cdh1	Il12b	Amh	Cd14	Skp2	Camp
+VDR mouse	TRRUST_Transcription_Factors_2019	Nphs1	Ctnnb1	Igfbp3	Tnfsf11	Lrp5	Spp1	Runx2
+VHL human	TRRUST_Transcription_Factors_2019	Car12	Cdkn1b	Sparc	Cdkn1c	Angpt2	Tfrc	Klf10	Hif1a	Igf1r	Vegfa	Ar	Dab2	Nmu	Ccnd1	Col4a2	Cxcr4	Bhlhe40	Tcf4	Car9	Trp53
+WT1 human	TRRUST_Transcription_Factors_2019	Ube2i	Vdr	Jun	Ckm	Dnmt3a	Vegfa	Ereg	Pax2	Vegfb	Nr5a1	Mycs	Stim1	Irf8	Bcl2	Abcb1a	Odc1	Klk1b24	Ctcf	Cdc73	Egfr	Ndrg2	Cx3cl1	Hoxa10	Myb	Tbxa2r	Tert	Cdh1	Adgre5	Myc	Amh	Camp	Smad3	Wtap	Igf1	Igf2	Ar	Nphs1	Ccne1	Il2rb	Snai2	Hbegf	Cdkn1a	Thbs1	U2af2	Pdgfa	Ets1	Cxxc5	Ciao1	Igf1r	Cyp19a1	Podxl	Sry	Itgax	Cd14	Junb
+WT1 mouse	TRRUST_Transcription_Factors_2019	Epo	Il10	Amhr2	Csf1	Igf2	Pou4f2	Coro1b	Vegfa	Pax2	Nr5a1	Adamts16	Nphs1	Stim1	Snai2	Amh	Wnt4	Inha
+WWTR1 human	TRRUST_Transcription_Factors_2019	Smad3	Igfbp1	Ltbr	Asns	Bax	Bak1
+XBP1 human	TRRUST_Transcription_Factors_2019	Wfs1	Hspa5	Edem2	Prnp	Gad1	Ptger4	Esr1	Zhx2	Vegfa	Ern1	Sod2	Il6	Nppb	Hspa1b	Ddit3	Nos2	Erp29
+XBP1 mouse	TRRUST_Transcription_Factors_2019	Stard5	Setd7	Prdm1	Pax5	Pou2af1	Bhlha15	Herpud1	Vegfa	Ern1	Foxo1	Irf4	Fasn	Tmbim6
+YBX1 human	TRRUST_Transcription_Factors_2019	Mmp2	Mia	Agt	Cdc20	Mmp13	Ar	Mycs	Fas	Anapc4	Cks2	Met	Mnat1	Cdkn3	Rad9a	Abcb1a	Top2a	Ccnc	Egfr	Tyms	Slc6a4	Ccnb1	Sumo1	Cxcr4	Erbb2	Cdh1	E2f1	Erbb3	Rbbp8	Kpna2	Skp2
+YBX1 mouse	TRRUST_Transcription_Factors_2019	Nono	Mia	Avp	Bmi1	Egfr
+YY1 human	TRRUST_Transcription_Factors_2019	Snrpn	Cbx5	Hbb-y	Peg3	Hspa5	Hsd3b1	Dek	Oprm1	Gdap1	Sap30	Vegfb	Col1a2	Il5	Il1b	Il4	Trf	Fcgr3	Apc	Fas	Adora2a	Ifng	H2-Ea	Nf1	Wdfy4	Irf7	Trp53	Tfap2a	Pcna	Epas1	Cox7c	Dbh	Brca1	Prdm2	Cyp3a13	Ctcf	Egfr	Atp2c1	Cox6a1	Aph1a	Fcgr4	Bdkrb1	Has2	Erbb2	Dnajb4	Myc	Fcer1a	Muc4	Ccr5	Ldlr	Fdps	Postn	Crebbp	Surf2	Surf1	Vwf	Top3a	Parp1	Ino80	Lss	Tnfrsf22	Fmo3	Smad7	Hcfc1	Pdia6	Trp73	Bivm	Star	Gnas	Hoxb7	Cftr	Hdac3	Slc26a3	Hdac1	Hdac2	Tfrc	Actc1	Hif1a	Hoxb13	Nr3c1	Tdo2	Cxcr4	Lrig2	Ifnb1	Nos2
+YY1 mouse	TRRUST_Transcription_Factors_2019	Egf	Cdkn2c	Hspa5	Peg3	Top3a	Fos	Zhx1	Pax2	Col1a1	Id4	Tcf4	Rb1	Serpine1	Rgs16	Cpox	Lama1	Nr3c1	Cdh1	Ifnb1	Otx2	Msx2	Amelx	Tnfrsf4	Nkx2-5
+ZBTB16 human	TRRUST_Transcription_Factors_2019	Cebpa	Lef1	Ccna2	Crabp1	Cxcr4	Id2	Gfi1	Bcl2	Sox9	Bid
+ZBTB33 mouse	TRRUST_Transcription_Factors_2019	Mmp7	Wnt11	Bcl6	Ctnnb1	Rapsn
+ZBTB7A human	TRRUST_Transcription_Factors_2019	Pkm	Myc	Fos	Pfkp
+ZBTB7A mouse	TRRUST_Transcription_Factors_2019	Creb3	Comp	Ccna2	Bcl2l11	Nfatc1
+ZEB1 human	TRRUST_Transcription_Factors_2019	Gm1123	Itgb4	Lamc2	Grhl2	Pou5f1	Ar	Muc1	Epcam	Col4a3	Bcl6	Cdh1	Pkp3
+ZEB1 mouse	TRRUST_Transcription_Factors_2019	Tgfb1	Mia	Itga4	Mitf	Gata3	Il2	Cd4	Rbl2	Cdh1	Ccng2	Pkp3	St3gal5	Itga7
+ZEB2 human	TRRUST_Transcription_Factors_2019	Gm1123	Itga5	Cdh1	Vim	Meox2	Pou5f1
+ZFP148 mouse	TRRUST_Transcription_Factors_2019	Spi1	Tph1	Rnls	Cdkn1a	Tal1	Gata1
+ZFP36 human	TRRUST_Transcription_Factors_2019	Lats2	Serpinb2	Il6	Elavl1	Hif1a	Vegfa	Il2
+ZNF148 human	TRRUST_Transcription_Factors_2019	Sox18	Irs2	Mmp3	Odc1	Adora2a	Vim	Gast
+ZNF382 human	TRRUST_Transcription_Factors_2019	Stat5b	Jun	Cdk6	Id1	Stat3	Myc	Hmga2	Mitf	Nfkb1	Ikbke

@@ -1,0 +1,1071 @@
+14-3-3 domain	InterPro_Domains_2019	Ywhag	Ywhae	Ywhab	Ywhaq	Sfn	Ywhaz	Ywhah
+2-5-oligoadenylate synthetase, N-terminal	InterPro_Domains_2019	Oas2	Oas3	Oas1b	Ilf2	Oasl1
+2Fe-2S ferredoxin-type iron-sulfur binding domain	InterPro_Domains_2019	Fdx1	Fdx2	Aox1	Xdh	Ndufs1	Sdhb
+3'-5' exonuclease domain	InterPro_Domains_2019	Exd2	Exosc10	Wrn	Exd1
+3'5'-cyclic nucleotide phosphodiesterase, catalytic domain	InterPro_Domains_2019	Pde1c	Pde1b	Pde4d	Pde1a	Pde11a	Pde10a	Pde4c	Pde2a	Pde3b	Pde3a	Pde4b	Pde6c	Pde4a	Pde6b	Pde5a	Pde7b	Pde6a	Pde7a	Pde8b	Pde8a	Pde9a
+3-beta hydroxysteroid dehydrogenase/isomerase	InterPro_Domains_2019	Hsd3b7	Sdr42e1	Sdr42e2	Nsdhl	Hsd3b1
+3-oxo-5-alpha-steroid 4-dehydrogenase, C-terminal	InterPro_Domains_2019	Srd5a3	Srd5a2	Tecr	Srd5a1	Tecrl
+4Fe-4S ferredoxin-type, iron-sulphur binding domain	InterPro_Domains_2019	Ndufs8	Dpyd	Etfdh	Sdhb	Abce1
+AAA+ ATPase domain	InterPro_Domains_2019	Dync2h1	Tap2	Atad3a	Tap1	Afg3l2	Psmc6	Abca12	Psmc4	Katnal2	Psmc5	Psmc2	Katnal1	Psmc3	Yme1l1	Abcg1	Psmc1	Abcg4	Abcg5	Abcg3	Tor2a	Clpb	Fign	Spg7	Ntpcr	Atad2b	Ruvbl1	Ruvbl2	Lonp2	Ascc3	Abcf3	Abcf1	Abcf2	Lonp1	Abca2	Abca3	Nsf	Dnah12	Abca1	Dnah11	Abca6	Abca7	Abca4	Abca5	Abca8b	Gpn1	Wrnip1	Abca9	Clpx	Dnah10	Cftr	Vcp	Srpr	Abca13	Ak9	Chtf18	Rnf213	Fignl2	Fignl1	Abcc4	Abcc5	Abcc2	Rfc4	Abcc3	Rfc5	Abcc8	Rfc2	Rfc3	Abcc9	Abcc6	Rfc1	Pex1	Nav1	Nav2	Nav3	Cdc6	Rad51b	Abcc10	Rad51d	Dmc1	Pex6	Mcm7	Abcc1	Mcm3	Vwa8	Abcb4	Dnah5	Dnah2	Nvl	Abcb1a	Dnah3	Dnah8	Vps4a	Abcb7	Abcb8	Dnah9	Dnah6	Abcb5	Abcb6	Dnah7c	Vps4b	Ighmbp2	Abcb9	Spast	Orc1	Orc4	Mdn1	Atad1	Atad5	Katna1	Bcs1l	Rad51	Abcb10	Abcb11	Trip13	Dync1h1	Abce1	Abcd3	Abcd4	Mcm8	Mcm9	Tor4a	Nubp1	Abcc12	Atp5f1b	Srp54a	Abcd1	Abcd2
+ABC transporter type 1, transmembrane domain	InterPro_Domains_2019	Abcc4	Abcc5	Abcc2	Abcc3	Abcc8	Abcc9	Abcc6	Tap2	Tap1	Abcb10	Abcb11	Abcc10	Abcc1	Cftr	Abcb4	Abcd3	Abcb1a	Abcd4	Abcb7	Abcb8	Abcb5	Abcb6	Abcb9	Abcc12	Abcd1	Abcd2
+ABC transporter-like	InterPro_Domains_2019	Abcc4	Abcg8	Abcc5	Abcc2	Abcc3	Abcc8	Abcc9	Abcc6	Tap2	Tap1	Abca12	Abcc10	Abcg1	Abcg4	Abcg5	Abcc1	Abcg3	Abcb4	Abcb1a	Abcb7	Abcb8	Abcb5	Abcb6	Abcb9	Abcf3	Abcf1	Abcf2	Abca2	Abca3	Abca1	Abca6	Abca7	Abca4	Abca5	Abca8b	Abca9	Abcb10	Abcb11	Abce1	Cftr	Abcd3	Abcd4	Abca13	Abcc12	Abcd1	Abcd2
+ABC-2 type transporter	InterPro_Domains_2019	Abcg8	Abcg1	Abcg4	Abcg5	Abcg3
+ADAM, cysteine-rich domain	InterPro_Domains_2019	Adam12	Adam11	Adam33	Adam32	Adam30	Adam2	Adam18	Adam7	Adam15	Adam9	Adam8	Adam23	Adam22	Adam21	Adam25	Adamts13	Adamts17	Adamts5	Adamts15	Adam29	Adam28	Adamts4	Adamts14	Adamts1	Adamts19	Adamts8
+ADAM-TS Spacer 1	InterPro_Domains_2019	Papln	Adamts20	Adamts12	Adamts10	Thsd4	Adamts17	Adamts5	Adamtsl2	Adamts16	Adamts6	Adamts3	Adamts15	Adamts4	Adamts14	Adamts1	Adamts2	Adamtsl5	Adamts19	Adamtsl4	Adamts18	Adamts9	Adamts7	Adamts8
+AGC-kinase, C-terminal	InterPro_Domains_2019	Cdc42bpg	Cdc42bpb	Cdc42bpa	Sgk2	Sgk3	Sgk1	Mast1	Rock1	Rock2	Mast4	Mast3	Mast2	Prkx	Grk2	Grk1	Grk4	Grk3	Grk6	Grk5	Stk38	Akt3	Akt1	Stk38l	Akt2	Prkg2	Prkg1	Prkch	Prkcg	Dmpk	Prkci	Prkcd	Prkce	Prkcb	Prkca	Cit	Mastl	Lats2	Lats1	Prkcz	Rps6kb2	Rps6kb1	Pkn1	Pkn3	Prkcq	Pkn2	Rps6ka5	Rps6ka4	Rps6ka6	Rps6ka1	Rps6ka3	Rps6ka2	Prkacb	Prkaca
+AIG1-type guanine nucleotide-binding (G) domain	InterPro_Domains_2019	Gimap1	Gimap4	Gimap3	Gimap6	Gimap7	Gimd1	Gimap8
+AMP-binding enzyme, C-terminal domain	InterPro_Domains_2019	Slc27a2	Acss3	Slc27a1	Acsm4	Acsm3	Acsl1	Acsm1	Acsm2	Acsm5	Acsf3	Acsf2	Acss2	Slc27a4	Acss1	Slc27a3	Slc27a6	Slc27a5
+AMP-dependent synthetase/ligase	InterPro_Domains_2019	Acsl3	Acsl1	Acsl6	Acsl5	Acsl4	Acsf3	Acsf2	Acsbg2	Acsbg1	Slc27a4	Slc27a3	Slc27a6	Slc27a5	Slc27a2	Acss3	Slc27a1	Aasdh	Acsm4	Acsm3	Acsm1	Acsm2	Acsm5	Aacs	Dip2a	Dip2b	Dip2c	Acss2	Acss1
+AP complex, mu/sigma subunit	InterPro_Domains_2019	Ap1s1	Copz2	Arcn1	Copz1	Ap4m1	Ap3m2	Ap3s1	Ap1s3	Ap1s2	Ap2s1	Ap4s1	Ap3s2	Ap3m1	Ap1m2	Ap2m1
+APBB1IP, PH domain	InterPro_Domains_2019	Apbb1ip	Grb14	Grb10	Raph1	Grb7
+APC10/DOC domain	InterPro_Domains_2019	Zzef1	Cul9	Cul7	Herc2	Hectd3	Mycbp2	Anapc10
+ARID DNA-binding domain	InterPro_Domains_2019	Kdm5b	Kdm5c	Kdm5d	Arid5a	Arid4a	Arid5b	Arid3a	Arid4b	Arid3b	Arid1a	Arid3c	Arid1b	Jarid2	Kdm5a	Arid2
+ATP-dependent helicase, C-terminal	InterPro_Domains_2019	Brip1	Ercc2	Ddx11	Rtel1
+ATP-grasp fold	InterPro_Domains_2019	Cad	Mccc1	Itpk1	Acacb	Acaca	Pcx	Sucla2	Cps1	Pcca	Carns1	Gart	Rimklb	Rimkla
+ATP:guanido phosphotransferase, N-terminal	InterPro_Domains_2019	Ckmt2	Ckm	Ckmt1	Ckb
+ATP:guanido phosphotransferase, catalytic domain	InterPro_Domains_2019	Ckmt2	Ckm	Ckmt1	Ckb
+ATPase, AAA-type, core	InterPro_Domains_2019	Atad1	Nsf	Rfc4	Rfc5	Rfc2	Atad5	Iqca1l	Rfc1	Pex1	Katna1	Atad3a	Nav3	Wrnip1	Bcs1l	Clpx	Afg3l2	Psmc6	Psmc4	Katnal2	Psmc5	Psmc2	Psmc3	Pex6	Katnal1	Yme1l1	Psmc1	Trip13	Iqca1	Nvl	Vcp	Vps4a	Clpb	Vps4b	Fign	Spg7	Atad2b	Chtf18	Spast	Orc1	Fignl2	Fignl1	Lonp2	Lonp1
+ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain	InterPro_Domains_2019	Atp6v1a	Atp5f1a	Atp5f1b	Atp6v1b1	Atp6v1b2
+ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain	InterPro_Domains_2019	Atp6v1a	Atp5f1a	Atp5f1b	Atp6v1b1	Atp6v1b2
+AWS domain	InterPro_Domains_2019	Nsd1	Nsd2	Nsd3	Ash1l	Setd2
+Actin-depolymerising factor homology domain	InterPro_Domains_2019	Gmfb	Dbnl	Cfl2	Gmfg	Cfl1	Dstn	Twf2	Cotl1	Twf1	Dbn1
+Activin types I and II receptor domain	InterPro_Domains_2019	Acvr1	Bmpr2	Amhr2	Tgfbr1	Acvr1b	Bmpr1a	Acvr2b	Bmpr1b	Acvr2a
+Acyl-CoA dehydrogenase/oxidase C-terminal	InterPro_Domains_2019	Acad9	Acad8	Acadvl	Acoxl	Acadm	Acadl	Ivd	Acadsb	Acad12	Acad11	Gcdh	Acads
+Acyl-CoA dehydrogenase/oxidase, N-terminal	InterPro_Domains_2019	Acad9	Acad8	Acadvl	Acadm	Acadl	Ivd	Acadsb	Acad12	Acad11	Gcdh	Acads
+Acyl-CoA oxidase/dehydrogenase, central domain	InterPro_Domains_2019	Acad9	Acad8	Acadvl	Acadsb	Acoxl	Acox3	Acadm	Acadl	Acox2	Acox1	Ivd	Acad12	Acad11	Gcdh	Acads
+Acyl-CoA-binding protein, ACBP	InterPro_Domains_2019	Acbd7	Acbd6	Acbd5	Eci3	Dbi	Acbd4	Acbd3
+Acyltransferase, C-terminal domain	InterPro_Domains_2019	Lpgat1	Lclat1	Agpat3	Agpat4	Agpat5
+Adenosine deaminase/editase	InterPro_Domains_2019	Adad2	Adad1	Adat1	Adarb1	Adarb2	Adar
+Adenosine/AMP deaminase domain	InterPro_Domains_2019	Adal	Ampd1	Ampd2	Ampd3	Ada
+Adenylate cyclase, N-terminal	InterPro_Domains_2019	Adcy1	Adcy5	Adcy4	Adcy3	Adcy2	Adcy8	Adcy7	Adcy6
+Adenylate cyclase, conserved domain	InterPro_Domains_2019	Adcy5	Adcy4	Adcy2	Adcy8	Adcy7	Adcy6
+Adenylyl cyclase class-3/4/guanylyl cyclase	InterPro_Domains_2019	Gucy2e	Gucy2c	Gucy1a2	Gucy2f	Gucy1a1	Gucy1b1	Adcy1	Npr1	Npr2	Adcy5	Adcy4	Adcy3	Adcy2	Adcy9	Adcy8	Adcy7	Adcy6	Adcy10
+Alcohol dehydrogenase, C-terminal	InterPro_Domains_2019	Mecr	Adh1	Sord	Ptgr2	Adh6b	Ptgr1	Adh7	Adh4	Cryz	Adh5	Fasn
+Alcohol dehydrogenase, N-terminal	InterPro_Domains_2019	Mecr	Adh1	Sord	Adh6b	Adh7	Vat1	Adh4	Cryz	Adh5	Rtn4ip1	Vat1l
+Aldehyde dehydrogenase domain	InterPro_Domains_2019	Aldh1l2	Aldh1l1	Aldh5a1	Aldh4a1	Aldh3a2	Aldh7a1	Aldh6a1	Aldh1a1	Aldh1b1	Aldh2	Aldh3a1	Aldh1a3	Aldh3b3	Aldh1a2	Aldh3b1	Aldh18a1	Aldh9a1	Aldh8a1	Aldh16a1
+Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant	InterPro_Domains_2019	Prdx4	Prdx3	Prdx6	Prdx2	Prdx1
+Alpha carbonic anhydrase domain	InterPro_Domains_2019	Car13	Car12	Car11	Car10	Ptprg	Car2	Car1	Car4	Car5b	Car3	Ptprz1	Car6	Car5a	Car8	Car7	Car9	Car14
+Alpha crystallin/Hsp20 domain	InterPro_Domains_2019	Hspb7	Hspb6	Hspb9	Hspb8	Hspb3	Hspb2	Odf1	Cryab	Hspb1	Cryaa
+Alpha-2-macroglobulin	InterPro_Domains_2019	Mug1	C4b	C3	AI182371	Cd109	A2m
+Alpha-2-macroglobulin, bait region domain	InterPro_Domains_2019	AI182371	C4b	Mug1	Cd109	A2m	C3
+Alpha-D-phosphohexomutase, alpha/beta/alpha domain I	InterPro_Domains_2019	Pgm3	Pgm5	Pgm2	Pgm2l1	Pgm1
+Alpha-amylase, C-terminal domain	InterPro_Domains_2019
+Alpha-amylase/branching enzyme, C-terminal all beta	InterPro_Domains_2019	Gbe1
+Alpha-defensin	InterPro_Domains_2019	Defa5
+Alpha-ketoglutarate-dependent dioxygenase AlkB-like	InterPro_Domains_2019	Alkbh3	Alkbh6	Alkbh5	Alkbh2	Alkbh1	Alkbh8	Alkbh7
+Alpha-macroglobulin, receptor-binding	InterPro_Domains_2019	AI182371	C4b	Mug1	Cd109	A2m	C3
+Alpha-macroglobulin-like, TED domain	InterPro_Domains_2019	Mug1	C4b	C3	AI182371	Cd109	A2m
+Alpha/beta hydrolase fold-1	InterPro_Domains_2019	Ephx3	Ephx2	Ephx4	Abhd14b	Abhd14a	Serhl	Mgll	Spg21	Abhd1	Abhd5	Abhd4	Abhd3	Abhd2	Abhd8	Abhd6	Bphl	Lipa	Lipf	Abhd11	Ppme1	Abhd16b	Lipk	Abhd16a	Abhd10	Lipn	Lipm	Mest
+Alpha/beta hydrolase fold-3	InterPro_Domains_2019	Aadacl3	Aadacl4fm5	Nceh1	Lipe	Afmid	Aadac	Aadacl2
+Amidohydrolase-related	InterPro_Domains_2019	Dpysl2	Gda	Dpysl5	Cad	Amdhd1	Dpys	Amdhd2	Dpysl3	Dpysl4	Acmsd	Crmp1
+Amine oxidase	InterPro_Domains_2019	Il4i1	Kdm1a	Smox	Rnls	Kdm1b	Pyroxd2	Maob	Maoa	Paox	Ppox
+Amino acid permease/ SLC12A domain	InterPro_Domains_2019	Slc12a3	Slc12a4	Slc12a5	Slc12a6	Slc12a1	Slc12a2	Slc12a7	Slc12a8	Slc12a9
+Amino acid transporter, transmembrane domain	InterPro_Domains_2019	Slc36a2	Slc36a1	Slc38a2	Slc36a4	Slc36a3	Slc38a1	Slc32a1	Slc38a10	Slc38a11	Tmem104	Slc38a8	Slc38a7	Slc38a9	Slc38a4	Slc38a3	Slc38a6	Slc38a5
+Aminoacyl-tRNA synthetase, class II	InterPro_Domains_2019	Hars2	Fars2	Dars2	Sars2	Nars2	Pars2	Tars2	Farsa
+Aminoacyl-tRNA synthetase, class II (D/K/N)	InterPro_Domains_2019	Nars2	Dars2
+Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)	InterPro_Domains_2019	Sars2	Pars2	Tars2
+Aminoacyl-tRNA synthetase, class Ia	InterPro_Domains_2019	Lars2	Iars2	Vars2
+Aminotransferase class V domain	InterPro_Domains_2019	Nfs1	Psat1	Mocos	Kynu	Scly	Agxt
+Aminotransferase, class I/classII	InterPro_Domains_2019	Got1l1	Alas2	Alas1	Got2	Aadat	Got1	Kyat1	Gpt2	Tat	Accsl	Gpt	Gcat	Accs	Sptlc1	Sptlc2	Sptlc3	Kyat3
+Ammonium transporter AmtB-like domain	InterPro_Domains_2019	Rhd	Rhbg	Rhag	Rhcg
+Anaphase-promoting complex subunit 4, WD40 domain	InterPro_Domains_2019	Wdr17	Copa	Wdr3	Wdr53	Wdr62	Thoc3	Wdr35	Wdr36	Wdr47	Wdr55	Wdhd1	Cdc20	Eml5	Eml6	Nwd1	Wrap73	Fzr1	Anapc4	Gemin5	Coro6
+Anaphylatoxin, complement system domain	InterPro_Domains_2019	AI182371	C4b	C3
+Anaphylatoxin/fibulin	InterPro_Domains_2019	AI182371	C4b	Fbln2	Fbln1	C3
+Ankyrin repeat-containing domain	InterPro_Domains_2019	Ankfy1	Ankef1	Asb9	Asb7	Asb8	Asb5	Ankk1	Asb6	Bcor	Asb3	Asb4	Bcorl1	Asb1	Asb2	Mtpn	Ankle1	Gls2	Ankle2	Clpb	Trank1	Gabpb2	Gls	Gabpb1	Uaca	Tonsl	Anks1b	Anks1	Ppp1r27	Ankdd1b	Ankdd1a	Tex14	Ank3	Ank1	Ank2	Abtb2	Abtb1	Fank1	Pla2g6	Nrarp	Trp53bp2	Bard1	Hace1	Ankib1	Ripk4	Ankrd65	Ankrd66	Ankrd63	Anks4b	Ankrd61	Ankrd60	Ythdc2	Ankrd9	Ankrd2	Ankrd1	Ankrd6	Cdkn2c	Ankrd49	Cdkn2d	Cdkn2b	Slf1	Ankrd45	Ankrd46	Zdhhc13	Tnni3k	Kidins220	Zdhhc17	Mib1	Mib2	Clip4	Clip3	Ankrd44	Ankrd42	Ankrd40	Ankra2	Ankrd13c	Invs	Rnasel	Nudt12	Sncaip	Dzank1	Asz1	Ankrd54	Ankrd55	Ankrd52	Ankrd53	Ankrd50	Ankmy2	Git2	Ankrd13b	Git1	Ankrd13a	Ankmy1	Ankrd29	Ankrd27	Ankrd28	Ppp1r16a	Ankrd23	Ppp1r16b	Ankrd24	Trpv3	Trpv4	Trpv1	Trpv2	Ankhd1	Tanc1	Tanc2	Acap3	Acap2	Gpank1	Trpv5	Trpv6	Anks6	Ankrd22	Mphosph8	Rai14	Kank4	Kank3	Kank2	Kank1	Ankrd39	Anks3	Ankrd37	Ankrd35	Asb14	Asb15	Asap2	Asb12	Asap3	Asb13	Acap1	Asb18	Asb16	Caskin1	Asb10	Asap1	Asb11	Ankar	Caskin2	Ankrd33	Ostf1	Ankrd31	Potefam1	Ankrd34c	Ankrd34b	Trpc6	Acbd6	Trpc7	Trpc4	Trpc5	Trpc3	Rfxank	Espnl	Ibtk	Nfkb1	Nfkb2	Dgkz	Ankfn1	Ankrd34a	Osbpl1a	Dgki	Ankrd33b	Notch3	Ankrd16	Notch1	Ankrd17	Notch2	Cttnbp2	Ankrd12	Espn	Ankrd10	Camta1	Ankrd11	Camta2	Ankzf1	Ppp1r12a	Ppp1r12b	Trpa1	Nfkbiz	Shank1	Nfkbib	Nfkbia	Bcl3	Sowaha	Sowahb	Ppp1r12c	Nfkbie	Shank3	Nfkbid	Psmd10	Lrrk1	Ilk	Tnks	Agap3	Agap2	Agap1	Trpc1	Ankub1	Myo16	Fem1b	Dapk1	Fem1c	Fem1a	Nfkbil1	Aspg	Ppp1r13b	Sowahc	Sowahd	Ehmt1	Ehmt2	Tnks2	Ush1g	Hectd1	Ppp1r13l	Krit1
+Anoctamin, dimerisation domain	InterPro_Domains_2019	Ano1	Ano2	Ano7	Ano5	Ano6	Ano3	Ano4
+Anti-proliferative protein	InterPro_Domains_2019	Btg4	Btg3	Btg2	Btg1	Tob2	Tob1
+Anticodon-binding	InterPro_Domains_2019	Hars2	Pars2	Polg2	Tars2
+Arf GTPase activating protein	InterPro_Domains_2019	Arap3	Arap1	Arap2	Adap2	Adap1	Arfgap2	Arfgap3	Arfgap1	Smap1	Acap3	Acap2	Smap2	Agap3	Agap2	Asap2	Asap3	Acap1	Agap1	Asap1	Agfg1	Git2	Git1	Agfg2
+Arfaptin homology (AH) domain	InterPro_Domains_2019	Ica1l	Pick1	Arfip2	Ica1	Arfip1
+Argonaute, linker 1 domain	InterPro_Domains_2019	Piwil2	Ago4	Ago2	Ago3	Ago1	Piwil1
+Armadillo repeat-containing domain	InterPro_Domains_2019	Armcx5	Armcx2	Armcx3	Armc12	Armcx6	Armc10	Gprasp1	Gprasp2	Armcx1
+Arrestin C-terminal-like domain	InterPro_Domains_2019	Arrdc5	Arrdc1	Arrdc2	Arrb1	Arrdc3	Arrdc4	Txnip	Sag	Arrb2	Arr3
+Arrestin-like, N-terminal	InterPro_Domains_2019	Arrdc5	Arrdc1	Arrdc2	Arrb1	Arrdc3	Arrdc4	Txnip	Sag	Arrb2	Arr3
+Aspartic peptidase, N-terminal	InterPro_Domains_2019	Pgc	Ren1	Ctse	Ctsd
+Ataxin-2, C-terminal	InterPro_Domains_2019	Atxn2l	Atxn2	Usp10	Tob2	Paip2b	Gspt2	Paip1	Paip2
+B-box, C-terminal	InterPro_Domains_2019	Trim2	Mid1	Mid2	Trim9	Fsd1l	Trim3	Fsd1	Trim37	Trim28	Trim66	Trim33	Trim23	Trim67	Trim45	Trim24
+B-box-type zinc finger	InterPro_Domains_2019	Trim61	Trim62	Trim63	Trim60	Mid1	Bspry	Mid2	Pml	Trim58	Trim14	Trim59	Trim15	Trim16	Trim17	Trim10	Trim54	Trim55	Trim11	Trim56	Trim13	Trim50	Trim52	Mefv	Trim2	Trim9	Trim7	Trim8	Zbbx	Trim30a	Trim6	Trim3	Trim47	Trim43b	Trim44	Trim45	Trim46	Trim40	Trim41	Trim42	Rnf207	Trim36	Trim37	Trim38	Trim39	Trim32	Trim33	Trim34b	Trim35	Trim72	Trim31	Trim71	Trim29	Trim25	Trim26	Trim27	Trim28	Trim21	Trim65	Trim75	Trim66	Trim67	Trim23	Trim24	Trim68
+B30.2/SPRY domain	InterPro_Domains_2019	Btnl9	Trim62	Btnl12	Btn1a1	Trim60	Mid1	Bspry	Mid2	Trim14	Trim58	Trim15	Trim16	Trim17	Trim10	Trim11	Ranbp10	Trim50	Mefv	Rnf39	Hnrnpu	Fbxo45	Fsd1l	Rfpl4b	Trim9	Rfpl4	Trim7	Trim30a	Trim6	Herc1	Trim47	Fsd1	Fsd2	Trim43b	Trim46	Trim41	Spryd3	Spryd4	Btn2a2	Spryd7	Ranbp9	Spsb4	Spsb3	Spsb2	Spsb1	Hnrnpul1	Hnrnpul2	Trim36	Triml1	Trim38	Triml2	Trim39	Rnf123	Trim34b	Trim35	Trim72	Ryr2	Ryr3	Ryr1	Ddx1	Ash2l	Cmya5	Trim25	Trim69	Trim26	Trim27	Trim65	Trim21	Ermap	Trim75	Trim67	Rspry1	Trim68
+BAAT/Acyl-CoA thioester hydrolase C-terminal	InterPro_Domains_2019	Acot2	Acot6	Acot4	Baat
+BAG domain	InterPro_Domains_2019	Bag5	Bag3	Bag4	Bag1	Bag2
+BAR domain	InterPro_Domains_2019	Sh3glb2	Sh3glb1	Arhgef38	Arhgef37	Arhgap17	Arhgap44	Dnmbp	Bin3	Bin2	Sh3bp1	Bin1	Sh3gl1	Amph	Sh3gl3	Sh3gl2
+BEACH domain	InterPro_Domains_2019	Wdr81	Lrba	Nbeal1	Nbeal2	Wdfy4	Wdfy3	Nbea	Lyst	Nsmaf
+BEN domain	InterPro_Domains_2019	Nacc1	Nacc2	Bend4	Bend5	Bend2	Bend3	Bend6	Banp	Bend7
+BRCT domain	InterPro_Domains_2019	Parp4	Slf1	Parp1	Rfc1	Xrcc1	Dntt	Lig4	Rev1	Lig3	Dbf4	Mcph1	Engase	Terf2ip	Mdc1	Paxip1	Ctdp1	Brca1	Pes1	Topbp1	Nbn	Polm	Trp53bp1	Poll	Ect2	Bard1
+BRICHOS domain	InterPro_Domains_2019	Sftpc	Gkn2	Gkn1	Tnmd	Itm2a	Itm2b	Cnmd	Itm2c	Bricd5
+BRK domain	InterPro_Domains_2019	Chd9	Chd8	Chd7	Chd6	Smarca2	Smarca4
+BRO1 domain	InterPro_Domains_2019	Brox	Rhpn2	Rhpn1	Ptpn23
+BTB/Kelch-associated	InterPro_Domains_2019	Klhl26	Btbd19	Klhl28	Btbd17	Klhl29	Btbd6	Klhl22	Klhl2	Klhl23	Klhl3	Klhl4	Klhl24	Btbd7	Klhl5	Klhl25	Btbd9	Klhl20	Kbtbd12	Klhl1	Klhl21	Kbtbd4	Kbtbd6	Klhl6	Klhl7	Kbtbd2	Klhl8	Klhl9	Kbtbd3	Kbtbd8	Ivns1abp	Klhl38	Keap1	Klhl33	Klhl34	Ipp	Klhl35	Klhl36	Klhl30	Klhl31	Klhl32	Ccin	Klhl40	Klhl41	Klhl42	Gan	Klhl15	Klhl17	Lgals3bp	Klhl18	Klhl11	Klhl12	Klhl13	Klhl14	Gmcl1	Klhl10	Btbd2	Btbd1	Enc1	Btbd3
+BTB/POZ domain	InterPro_Domains_2019	Zbtb18	Klhl26	Btbd18	Btbd19	Zbtb14	Ankfy1	Klhl28	Zbtb17	Btbd17	Zbtb16	Klhl29	Btbd6	Zbtb11	Klhl22	Klhl23	Zbtb10	Btbd8	Klhl24	Btbd7	Zbtb12	Klhl25	Btbd10	Btbd9	Klhl20	Hic2	Klhl21	Hic1	Armc5	Lztr1	Kcng1	Ivns1abp	Kcng2	Kcng3	Zbtb26	Zbtb25	Klhl38	Keap1	Zbtb22	Zbtb21	Klhl34	Ipp	Klhl35	Zbtb24	Klhl36	Bach1	Klhl30	Bach2	Klhl31	Zbtb20	Klhl32	Slx4	Nacc1	Nacc2	Tdpoz7	Zbtb7a	Kcnd1	Kcnd2	Kcnd3	Ibtk	Abtb2	Abtb1	Kcna10	Zbtb8b	Zfp131	Zbtb8a	Klhl15	Klhl17	Lgals3bp	Klhl18	Klhl11	Zbtb2	Klhl12	Zbtb1	Klhl13	Klhl14	Zbtb6	Rcbtb1	Rhobtb1	Zbtb5	Gmcl1	Zbtb4	Rcbtb2	Rhobtb2	Zbtb3	Klhl10	Rhobtb3	Kcnv1	Btbd2	Btbd1	Btbd3	Zbtb7c	Zbtb7b	Patz1	Kcnb1	Klhl2	Klhl3	Klhl4	Kcnrg	Klhl5	Kbtbd12	Kbtbd11	Klhl1	Kbtbd4	Zbtb9	Kbtbd6	Kcns1	Kcns2	Klhl6	Klhl7	Kcns3	Bcl6	Kbtbd2	Klhl8	Klhl9	Kbtbd3	Bcl6b	Spopl	Kbtbd8	Kcnc1	Kcnc2	Kcnc3	Kcnc4	Tnfaip1	Mynn	Kbtbd13	Ccin	Zbtb37	Zbtb39	Zbtb38	Zbtb33	Kctd1	Kctd2	Zbtb32	Kctd3	Zbtb34	Kctd4	Klhl40	Kctd5	Klhl41	Kctd6	Kctd7	Klhl42	Kctd8	Kctd9	Gan	Kctd10	Shkbp1	Kctd14	Kctd15	Kctd12	Kctd13	Gzf1	Kctd16	Kctd17	Zbtb48	Zbtb47	Kcna1	Kcna2	Kcna3	Zbtb49	Kcna4	Zbtb44	Kcna5	Zbtb43	Kcna6	Zbtb46	Zbtb45	Kcna7	Zbtb40	Zbtb42	Zbtb41	Kctd21	Enc1	Kctd20
+Band 3 cytoplasmic domain	InterPro_Domains_2019	Slc4a8	Slc4a9	Slc4a1	Slc4a2	Slc4a10	Slc4a3	Slc4a4	Slc4a5	Slc4a7
+Band 4.1 domain	InterPro_Domains_2019	Mylip	Rdx	Msn	Myo7a	Myo7b	Ptpn13	Ptpn14	Tyk2	Nf2	Tln2	Tln1	Ptpn3	Ptpn4	Frmpd1	Epb41	Frmpd4	Frmpd2	Frmpd3	Ptpn21	Farp2	Myo10	Frmd4b	Farp1	Ptk2	Frmd3	Fermt1	Frmd5	Fermt2	Frmd6	Frmd7	Frmd8	Frmd4a	Myo15a	Ezr	Fermt3	Plekhh3	Epb41l5	Epb41l4b	Epb41l4a	Epb41l1	Epb41l2	Epb41l3	Ptk2b	Krit1	Jak3	Plekhh1	Plekhh2	Jak1	Jak2
+Band 7 domain	InterPro_Domains_2019	Phb2	Stoml3	Stoml2	Stoml1	Nphs2	Erlin2	Flot2	Stom	Erlin1	Flot1
+Basic leucine zipper domain, Maf-type	InterPro_Domains_2019	Nfe2	Nrl	Mafb	Bach1	Mafa	Bach2	Maff	Maf	Mafg	Mafk	Nfe2l1	Nfe2l2	Nfe2l3
+Basic-leucine zipper domain	InterPro_Domains_2019	Jun	Batf	Tef	Jdp2	Nfe2l1	Nfe2l2	Nfe2l3	Atf2	Atf3	Atf1	Atf6b	Nrl	Crebl2	Bach1	Bach2	Dbp	Creb3l1	Creb3l4	Creb3l2	Creb3l3	Nfil3	Batf2	Nfe2	Batf3	Jund	Xbp1	Fos	Mafb	Mafa	Creb3	Maf	Maff	Fosl2	Fosl1	Creb1	Fosb	Mafg	Ddit3	Mafk	Atf6	Atf7	Atf4	Creb5	Atf5	Cebpa	Hlf	Cebpb	Cebpd	Cebpe	Cebpg	Crebrf	Crem	Crebzf	Junb
+Beta-retroviral matrix protein	InterPro_Domains_2019
+Beta/alpha defensin	InterPro_Domains_2019	Defa5	Defb3
+Beta/gamma crystallin	InterPro_Domains_2019	Crybg1	Crybg3	Crygs	Crybg2	Crybb2	Cryba1	Crygn	Crybb1	Crybb3	Cryba2	Cryba4	Crygb	Crygc	Cryga
+Bicarbonate transporter, C-terminal	InterPro_Domains_2019	Slc4a8	Slc4a9	Slc4a11	Slc4a1	Slc4a2	Slc4a10	Slc4a3	Slc4a4	Slc4a5	Slc4a7
+Biotin carboxylase, C-terminal	InterPro_Domains_2019	Pcx	Pcca	Mccc1	Acacb	Acaca
+Biotin carboxylase-like, N-terminal domain	InterPro_Domains_2019	Pcx	Pcca	Mccc1	Acacb	Acaca
+Biotin carboxylation domain	InterPro_Domains_2019	Pcx	Pcca	Mccc1	Acacb	Acaca
+Biotin/lipoyl attachment	InterPro_Domains_2019	Gcsh	Pcx	Dbt	Pcca	Mccc1	Pdhx	Dlst	Dlat	Acacb	Acaca
+Branched-chain alpha-ketoacid dehydrogenase kinase/Pyruvate dehydrogenase kinase, N-terminal	InterPro_Domains_2019	Bckdk	Pdk4	Pdk1	Pdk3	Pdk2
+Brix domain	InterPro_Domains_2019	Imp4	Ppan	Brix1	Rpf1	Rpf2
+Bromo adjacent homology (BAH) domain	InterPro_Domains_2019	Mta1	Bahcc1	Mta2	Rere	Bahd1	Pbrm1	Orc1	Tnrc18	Ash1l	Mta3	Dnmt1
+Bromodomain	InterPro_Domains_2019	Bptf	Brd4	Crebbp	Brd3	Brpf1	Brd2	Brd1	Brpf3	Sp110	Pbrm1	Baz1a	Ash1l	Baz1b	Smarca2	Smarca4	Taf1	Kat2b	Kat2a	Zmynd11	Phip	Trim33	Brwd3	Brdt	Zmynd8	Kmt2a	Baz2a	Baz2b	Atad2b	Cecr2	Ep300	Sp100	Trim28	Brd9	Brd8	Brd7	Trim66	Trim24
+Butyrophylin-like, SPRY domain	InterPro_Domains_2019	Btnl9	Trim62	Btnl12	Trim60	Btn1a1	Mid1	Bspry	Mid2	Trim58	Trim14	Trim15	Trim16	Trim17	Trim10	Trim11	Trim50	Mefv	Rnf39	Fsd1l	Rfpl4b	Rfpl4	Trim7	Trim30a	Trim6	Fsd2	Trim43b	Trim41	Spryd4	Btn2a2	Trim36	Triml1	Trim38	Trim39	Triml2	Trim34b	Trim35	Trim72	Trim69	Trim25	Trim26	Trim27	Trim21	Ermap	Trim65	Trim75	Trim68
+C-CAP/cofactor C-like domain	InterPro_Domains_2019	Cap2	Cap1	Rp2	Tbccd1	Tbcc
+C-type lectin-like	InterPro_Domains_2019	Dgcr2	Cd72	Clec2m	Sftpd	Clec4b1	Vcan	Clec4d	Clec4e	Cd209d	Clec4a1	Cd207	Klrd1	Cd248	Cd209g	Cd69	Clec4f	Clec4g	Fcer2a	Clec2l	Clec10a	Clec18a	Clec14a	Clec3a	Clec3b	Clec7a	Atrnl1	Clec11a	Cd93	Prg3	Prg2	Layn	Sele	Atrn	Bcan	Selp	Clec4n	Sell	Sftpa1	Klrb1	Pla2r1	Clec2d	Frem1	Cd302	Reg1	Colec12	Pkd1	Colec11	Chodl	Colec10	Clec12b	Clec12a	Ncan	Reg3a	Ly75	Asgr1	Pkd1l2	Pkd1l3	Clec9a	Asgr2	Acan	Thbd	Clec1a	Klrk1	Clec1b	Clec5a	Mrc1	Mrc2	Reg4	Klrc2	Klrg1	Mbl2	Olr1	Klrg2
+C1q domain	InterPro_Domains_2019	C1ql1	Adipoq	Cbln1	C1ql4	C1qtnf9	Otol1	C1ql3	C1ql2	Mmrn2	Mmrn1	C1qtnf12	Caprin2	Col8a1	Col8a2	Cbln4	Cbln3	Cbln2	C1qc	C1qb	C1qa	Erfe	C1qtnf5	C1qtnf4	C1qtnf3	C1qtnf2	C1qtnf7	C1qtnf6	Emilin2	Emilin1	C1qtnf1
+C2 domain	InterPro_Domains_2019	Uvrag	Unc13c	Plcl1	Unc13d	Unc13a	Unc13b	Plcl2	Sytl2	Sytl1	Rpgrip1l	Tc2n	Sytl5	Sytl4	Sytl3	Tollip	Plcd1	Plcd4	Plcd3	Cpne9	Cpne6	Cpne5	Cep120	Cpne8	Cpne7	Hecw1	Rab11fip1	Rab11fip2	Capn5	Capn6	Plce1	Cpne2	Cpne4	Cpne3	Rab11fip5	Prkch	Syt6	Syt5	Prkcg	Fer1l6	Syt4	Fer1l5	Syt3	Syt2	Pla2g4e	Syt1	Pla2g4f	Pla2g4d	Prkce	Pla2g4a	Pla2g4b	Prkcb	Prkca	Syt9	Syt8	Syt7	Bcr	Hecw2	Doc2b	Doc2a	Itsn1	Itsn2	Nedd4l	Prf1	Abr	Rims3	Rims2	Rgs3	Rims4	Rims1	Plcg1	Plcg2	Rph3a	Rasa4	Smurf2	Plch1	Myof	Smurf1	Baiap3	Rasa1	Rpgrip1	Rasa2	Rasa3	Plch2	Cc2d1a	Cc2d1b	Mctp1	Mctp2	C2cd5	C2cd3	C2cd2	Rasal1	Rasal2	C2cd4c	C2cd4d	Plcz1	Ccdc33	Cc2d2a	Otof	Wwp1	Syt17	Syt16	Wwp2	Syt15	Syt14	Itch	Dab2ip	Plcb4	Esyt1	Syt13	Syt12	Syt11	Syt10	Esyt3	Esyt2	Pkn2	Plcb2	Plcb3	Plcb1	Dysf	Pik3c2g	Pik3c2b	Pik3c2a	Pclo	Syngap1
+CAP Gly-rich domain	InterPro_Domains_2019	Clip4	Clip3	Clip2	Cyld	Clip1	Kif13b	Tbce	Cep350	Dctn1	Tbcb
+CAP domain	InterPro_Domains_2019	Crisp2	Crisp3	Glipr1l3	Crisp4	R3hdml	Clec18a	Glipr2	Glipr1	Crispld2	Crispld1	Pi16	Pi15	Glipr1l2
+CARD domain	InterPro_Domains_2019	Card10	Card11	Apaf1	Card9	Cradd	Card6	Dlg5	Casp1	Card14	Birc2	Birc3	Nol3	Bcl10	Nod1	Nod2	Nlrc4	Pycard	Casp9	Casp12	Casp2	Ripk2	Nlrp1a
+CARP motif	InterPro_Domains_2019	Cap2	Cap1	Rp2	Tbccd1	Tbcc
+CBM21 (carbohydrate binding type-21) domain	InterPro_Domains_2019	Ppp1r3g	Ppp1r3d	Ppp1r3c	Ppp1r3f	Ppp1r3e	Ppp1r3b	Ppp1r3a
+CBS domain	InterPro_Domains_2019	Prkag2	Clcnkb	Prkag3	Prkag1	Clcn4	Clcn3	Clcn2	Clcn1	Clcn7	Clcn6	Cnnm1	Cbs	Clcn5	Cnnm2	Impdh1	Impdh2	Cnnm3	Cnnm4
+CCDC144C-like, coiled-coil domain	InterPro_Domains_2019
+CD209-like, C-type lectin-like domain	InterPro_Domains_2019	Colec12	Clec10a	Asgr1	Asgr2	Clec4b1	Clec4d	Clec4e	Clec4n	Cd209d	Mrc2	Clec4a1	Cd207	Cd209g	Clec4f	Fcer2a
+CD80-like, immunoglobulin C2-set	InterPro_Domains_2019	Kirrel2	Cadm4	Cadm2	Kirrel1	Mcam	Cadm3	Crtam	Cadm1	Btn1a1	Pdcd1lg2	Cd200r3	Nphs1	Bcam	Mag	Siglec1	Nectin1	Nectin4	Nectin3	Nectin2	Cd22	Cd274	Cd80	Pvr	Ager	Alcam	Tmem25
+CENP-T/Histone H4, histone fold	InterPro_Domains_2019	Cenpt
+CHCH	InterPro_Domains_2019	Chchd5	Ndufa8	Chchd4	Cox19	Chchd10	Chchd1	Chchd2
+CID domain	InterPro_Domains_2019	Scaf8	Pcf11	Rprd1a	Rprd2	Rprd1b	Cherp	Scaf4	U2surp
+CIDE-N domain	InterPro_Domains_2019	Dffb	Dffa	Cideb	Cidec	Cidea
+COMM domain	InterPro_Domains_2019	Commd9	Commd10	Commd3	Commd4	Commd1	Commd2	Commd7	Commd8	Commd5	Commd6
+COS domain	InterPro_Domains_2019	Trim9	Fsd1l	Trim63	Trim42	Trim36	Fsd1	Mid1	Trim54	Trim55	Mid2	Trim67	Trim46
+CP2 transcription factor	InterPro_Domains_2019	Tfcp2	Tfcp2l1	Ubp1	Grhl2	Grhl3	Grhl1
+CRA domain	InterPro_Domains_2019	Rmnd5a	Rmnd5b	Gid8	Maea	Ranbp9	Ranbp10
+CRAL-TRIO lipid binding domain	InterPro_Domains_2019	Mcf2	Gdap2	Ptpn9	Nf1	Ttpal	Bnipl	Arhgap8	Trio	Prune2	Mospd2	Sestd1	Arhgap1	Kalrn	Rlbp1	Sec14l3	Sec14l4	Sec14l1	Sec14l2	Mcf2l	Sec14l5	Ttpa	Bnip2	Atcay	Clvs1	Clvs2
+CRAL/TRIO, N-terminal domain	InterPro_Domains_2019	Sec14l3	Sec14l4	Sec14l1	Sec14l2	Sec14l5	Ttpa	Ptpn9	Ttpal	Clvs1	Clvs2	Rlbp1
+CRIB domain	InterPro_Domains_2019	Cdc42se2	Cdc42se1	Cdc42bpg	Was	Wasl	Cdc42bpb	Cdc42bpa	Pak2	Pak1	Cdc42ep5	Cdc42ep4	Cdc42ep3	Cdc42ep2	Cdc42ep1	Pak4	Pak3	Pak6	Pak5
+CS domain	InterPro_Domains_2019	Nudc	Dnaaf4	Ptges3	Cacybp	Usp19	Hacd3	Shq1	Cyb5r4	Nudcd3	Chordc1	Nudcd2	Nudcd1	Sugt1	Itgb1bp2	Ptges3l
+CTLH, C-terminal LisH motif	InterPro_Domains_2019	Mkln1	Rmnd5a	Wdr26	Smu1	Rmnd5b	Gid8	Maea	Wdr47	Ranbp9	Ranbp10
+CTLH/CRA C-terminal to LisH motif domain	InterPro_Domains_2019	Rmnd5a	Rmnd5b	Gid8	Maea	Ranbp9	Ranbp10
+CUB domain	InterPro_Domains_2019	Dcbld1	Dcbld2	Tmprss15	Sez6l	Mfrp	Bmp1	Megf8	Lrp10	Lrp12	Tmprss6	Masp1	Tmprss7	Tnfaip6	Lrp3	Sez6	Scube3	Scube1	Scube2	C1rl	Pamr1	Cubn	Atrnl1	Ovch2	St14	Kremen2	Kremen1	Pcolce	Atrn	Cdcp2	Adgrb3	Tll2	Tll1	Masp2	Pcolce2	Nrp1	Nrp2	C1rb	C1s1	Pdgfc	Sez6l2	Cuzd1	Neto2	Neto1	Adgrg6	Dmbt1	Pdgfd	Csmd3	Csmd2	Csmd1
+CUT domain	InterPro_Domains_2019	Onecut3	Cux2	Satb1	Satb2	Cux1	Onecut1	Onecut2
+CXC Chemokine domain	InterPro_Domains_2019	Cxcl9	Ppbp	Cxcl1	Cxcl5	Cxcl10	Cxcl12	Cxcl13
+Cadherin prodomain	InterPro_Domains_2019	Cdh4	Cdh3	Cdh2	Cdh1	Cdh13	Dsc1	Dsc2	Dsc3
+Cadherin, C-terminal catenin-binding domain	InterPro_Domains_2019	Pcdhga9	Pcdhga8	Pcdhga7	Pcdhga6	Pcdhga5	Pcdhga4	Pcdhgc5	Pcdhga3	Pcdhgc4	Pcdhga2	Pcdha12	Pcdha11	Pcdhga10	Pcdha9	Pcdhga11	Pcdhga12	Pcdhgb2	Pcdhgb1	Pcdhgb7	Pcdhgb6	Pcdhgb5	Pcdhgb4	Pcdhac1	Pcdha2	Pcdha1	Pcdhgc3	Pcdhga1	Pcdha6	Pcdha5	Pcdha10	Pcdha3	Pcdha8	Pcdhac2
+Cadherin, N-terminal	InterPro_Domains_2019	Pcdhga9	Pcdhga8	Pcdhga7	Pcdhga6	Pcdhga5	Pcdhga4	Pcdh8	Pcdhga3	Pcdh9	Pcdhga2	Pcdha12	Pcdha11	Pcdhga10	Pcdha9	Pcdhga11	Pcdhga12	Pcdhb3	Pcdhb2	Pcdhb1	Pcdhgb2	Pcdhb15	Pcdhb13	Pcdhgb1	Pcdhb4	Pcdhb5	Pcdhb18	Pcdhga1	Pcdhgc5	Pcdhgc4	Pcdhb17	Pcdhb22	Pcdhb20	Pcdhb16	Pcdhb19	Pcdhgb7	Pcdh12	Pcdhgb6	Pcdhgb5	Pcdh11x	Pcdh10	Pcdhgb4	Pcdh19	Pcdh18	Pcdh17	Pcdhac1	Pcdha2	Pcdha1	Pcdhgc3	Pcdha6	Pcdh7	Pcdha5	Pcdha10	Pcdha3	Pcdha8	Pcdh1	Pcdhac2
+Cadherin, cytoplasmic C-terminal domain	InterPro_Domains_2019	Pcdhga9	Pcdhga8	Pcdhga7	Pcdhga6	Pcdhga5	Pcdhga4	Pcdhgc5	Pcdhga3	Pcdhga2	Pcdhb17	Pcdhb22	Pcdhb20	Pcdhb16	Pcdhb19	Pcdhb18	Pcdhga10	Pcdhga11	Pcdhga12	Pcdhb3	Pcdhb2	Pcdhb1	Pcdhgb2	Pcdhb15	Pcdhb13	Pcdhgb1	Pcdhb4	Pcdhb5	Pcdhgb7	Pcdhgb6	Pcdhgb5	Pcdh10	Pcdhgb4	Pcdhac1	Pcdhgc3	Pcdhga1	Pcdhac2
+Cadherin, cytoplasmic domain	InterPro_Domains_2019	Cdh9	Cdh8	Cdh7	Cdh6	Cdh5	Cdh4	Cdh20	Cdh3	Cdh10	Cdh2	Cdh11	Cdh1	Cdh22	Cdh12	Dsg1a	Cdh24	Dsg3	Cdh15	Dsg4	Dsc1	Cdh18	Dsc2	Cdh19	Dsc3
+Cadherin-like	InterPro_Domains_2019	Pcdh8	Pcdh20	Pcdh9	Pcdha12	Pcdha11	Pcdha9	Pcdhga10	Pcdhga11	Pcdhga12	Pcdhb3	Pcdhb2	Pcdhb1	Pcdhb15	Pcdhb13	Dchs2	Pcdhb4	Dchs1	Pcdhb5	Dsc1	Dsc2	Pcdhb18	Dsc3	Celsr1	Celsr2	Celsr3	Cdh9	Cdh8	Cdh7	Cdh6	Cdh5	Cdh4	Cdh3	Cdh2	Cdh1	Cdh10	Cdhr1	Cdh11	Cdhr2	Cdh12	Cdhr3	Fat1	Cdh13	Cdhr4	Fat2	Fat3	Cdhr5	Fat4	Cdh15	Cdh16	Cdh17	Cdh18	Cdh19	Pcdh12	Clstn3	Pcdh11x	Pcdh10	Clstn1	Clstn2	Pcdh15	Pcdh19	Pcdh18	Pcdh17	Pcdhac1	Pcdha2	Cdh20	Pcdha1	Cdh22	Cdh23	Cdh24	Pcdha6	Pcdha5	Cdh26	Pcdha10	Pcdha3	Pcdha8	Pcdhac2	Pcdhga9	Pcdhga8	Pcdhga7	Pcdhga6	Pcdhga5	Pcdhga4	Pcdhga3	Pcdhga2	Dsg1a	Pcdhgb2	Dsg2	Pcdhgb1	Dsg3	Dsg4	Ret	Pcdhga1	Pcdhgc5	Pcdhgc4	Pcdhb17	Pcdhb22	Pcdhb20	Pcdhb16	Pcdhb19	Pcdhgb7	Pcdhgb6	Pcdhgb5	Pcdhgb4	Pcdhgc3	Pcdh7	Pcdh1
+Calcineurin-like phosphoesterase domain, ApaH type	InterPro_Domains_2019	Ppef1	Tmem62	Tmppe	Ppp1ca	Ppp2ca	Ppp1cb	Cpped1	Ppp5c	Adprm	Mpped2	Mpped1	Smpdl3a	Mppe1	Ppef2	Mre11a	Smpdl3b	Dbr1	Ppp3ca	Ppp6c	Ppp2cb	Ppp1cc	Nt5e	Ppp3cb	Ppp3cc	Ppp4c	Acp7	Smpd1	Acp5
+Calcium-dependent secretion activator domain	InterPro_Domains_2019	Cadps2	Unc13c	Unc13a	Unc13b
+Calmodulin-regulated spectrin-associated protein, CH domain	InterPro_Domains_2019	Camsap1	Vav1	Camsap2	Vav2	Vav3	Camsap3
+Calpain subdomain III	InterPro_Domains_2019	Capn9	Capn12	Capn7	Capn10	Capn11	Capn8	Capn5	Capn6	Capn3	Capn1	Capn2
+Calponin homology domain	InterPro_Domains_2019	Actn4	Actn3	Actn2	Actn1	Mical3	Nav2	Parvb	Nav3	Lmo7	Sptb	Parva	Vav1	Vav2	Vav3	Lrch1	Lrch3	Lrch2	Lcp1	Hook3	Hook2	Ehbp1l1	Hook1	Parvg	Gas2	Plec	Lrch4	Utrn	Arhgef6	Arhgef7	Sptbn4	Sptbn5	Tagln	Spata4	Iqgap1	Iqgap2	Iqgap3	Micall1	Micall2	Flna	Flnb	Flnc	Gas2l2	Sptbn1	Gas2l3	Sptbn2	Gas2l1	Specc1	Limch1	Dst	Aspm	Ccdc88c	Ehbp1	Ccdc88a	Smtn	Specc1l	Tagln2	Tagln3	Mapre2	Mapre3	Smtnl1	Smtnl2	Mapre1	Macf1	Spef2	Spef1	Syne1	Dixdc1	Camsap1	Camsap2	Syne2	Camsap3	Cnn3	Cnn2	Cnn1	Mical2	Clmn	Mical1	Dmd	Pls1	Pls3
+Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain	InterPro_Domains_2019	Pcx	Cad	Cps1	Pcca	Mccc1	Acacb	Acaca
+Carbohydrate kinase, FGGY, C-terminal	InterPro_Domains_2019	Gk5	Fggy	Gk	Gk2	Xylb
+Carbohydrate kinase, FGGY, N-terminal	InterPro_Domains_2019	Gk5	Fggy	Gk	Shpk	Gk2	Xylb
+Carbohydrate-binding WSC	InterPro_Domains_2019	Pkd1	Wscd1	Wscd2	Kremen2	Kremen1
+Carbon-nitrogen hydrolase	InterPro_Domains_2019	Btd	Vnn1	Nit1	Nit2	Upb1	Nadsyn1
+Carboxylesterase, type B	InterPro_Domains_2019	Ces1d	Ache	Bche	Nlgn2	Nlgn3	Nlgn1	Cel	Ces5a	Ces4a	Tg	Ces3a	Ces2f
+Carboxypeptidase, activation peptide	InterPro_Domains_2019	Cpa4	Cpa3	Cpa2	Cpa1	Cpb2	Cpb1	Cpa6	Cpa5
+Cathepsin propeptide inhibitor domain (I29)	InterPro_Domains_2019	Ctsk	Ctsh	Ctsw	Ctsf	Ctss
+Cation-transporting P-type ATPase, C-terminal	InterPro_Domains_2019	Atp2b4	Atp1a4	Atp2a3	Atp1a3	Atp2a2	Atp2b3	Atp2a1	Atp1a2	Atp2b2	Atp1a1	Atp2b1	Atp2c2	Atp12a	Atp2c1	Atp4a	Atp13a3
+Cation-transporting P-type ATPase, N-terminal	InterPro_Domains_2019	Atp2b4	Atp1a4	Atp2a3	Atp1a3	Atp2a2	Atp2b3	Atp2a1	Atp1a2	Atp2b2	Atp1a1	Atp2b1	Atp2c2	Atp12a	Atp2c1	Atp4a	Atp13a5	Atp13a3	Atp13a4
+Cation/H+ exchanger	InterPro_Domains_2019	Slc9c1	Slc9b1	SLC9C2	Tmco3	Slc9a1	Slc9b2	Slc9a2	Slc9a3	Slc9a4	Slc9a5	Slc9a6	Slc9a7	Slc9a8	Slc9a9
+Cationic amino acid transporter, C-terminal	InterPro_Domains_2019	Slc7a14	Slc7a1	Slc7a2	Slc7a3	Slc7a4
+Chaperone DnaJ, C-terminal	InterPro_Domains_2019	Dnaja2	Dnaja1	Dnajb1	Dnajb11	Dnajb5	Dnaja4	Dnaja3	Dnajb4	Dnajb13
+Chemokine interleukin-8-like domain	InterPro_Domains_2019	Ccl24	Ccl6	Ccl22	Ccl21a	Xcl1	Ccl20	Ppbp	Cxcl10	Cxcl12	Cxcl13	Ccl28	Ccl27al	Cxcl9	Ccl11	Ccl4	Ccl3	Cxcl14	Cxcl1	Cx3cl1	Cxcl5	Ccl12	Ccl7	Ccl5	Ccl19	Ccl17
+Chitinase II	InterPro_Domains_2019	Chid1	Ovgp1	Chit1	Chia1	Ctbs	Chi3l1
+Choline/carnitine acyltransferase domain	InterPro_Domains_2019	Cpt1b	Cpt1a	Cpt2	Chat	Crot	Cpt1c	Crat
+Chromo domain	InterPro_Domains_2019	Cbx8	Cbx7	Cbx6	Cbx5	Cbx4	Cbx2	Cbx1	Cdyl	Cdyl2	Mphosph8	Suv39h2	Chd9	Chd8	Suv39h1	Chd7	Chd6	Chd5	Chd4	Chd3	Chd2	Chd1
+Chromo domain subgroup	InterPro_Domains_2019	Cbx7	Cbx6	Cbx5	Cbx4	Cbx1
+Chromo/chromo shadow domain	InterPro_Domains_2019	Cbx8	Smarcc1	Cbx7	Smarcc2	Cbx6	Cbx5	Cbx4	Cbx2	Cbx1	Msl3	Cdyl	Cdyl2	Mphosph8	Suv39h2	Chd9	Chd8	Suv39h1	Arid4a	Chd7	Arid4b	Chd6	Chd5	Chd4	Chd3	Chd2	Chd1	Kat5	Kat8
+Circularly permuted (CP)-type guanine nucleotide-binding (G) domain	InterPro_Domains_2019	Gnl3l	Lsg1	Noa1	Mtg1	Gnl1	Gnl3	Gnl2
+Citron homology (CNH) domain	InterPro_Domains_2019	Map4k2	Map4k3	Map4k1	Tgfbrap1	Cdc42bpg	Nrk	Mink1	Cdc42bpb	Cit	Cdc42bpa	Tnik	Garnl3	Map4k4	Map4k5	Vps39
+Class I myosin tail homology domain	InterPro_Domains_2019	Myo1e	Myo1f	Myo1c	Myo1d	Myo1a	Myo1b	Myo1g	Myo1h
+Class I myosin, motor domain	InterPro_Domains_2019	Myo1e	Myo1f	Myo1c	Myo1d	Myo1a	Myo1b	Myo1g	Myo1h
+Clathrin adaptor, alpha/beta/gamma-adaptin, appendage, Ig-like subdomain	InterPro_Domains_2019	Gga3	Gga2	Ap1g1	Ap1g2	Ap2b1	Ap1b1	Ap2a2	Ap2a1	Gga1
+Clathrin/coatomer adaptor, adaptin-like, N-terminal	InterPro_Domains_2019	Copb1	Ap2b1	Ap4e1	Ap3d1	Ap1b1	Ap3b2	Ap4b1	Ap2a2	Ap3b1	Ap2a1	Ap1g1	Ap1g2	Copg1	Copg2
+Coagulation factor 5/8 C-terminal domain	InterPro_Domains_2019	Cntnap4	Ddr2	Nrp1	Nrp2	Cntnap3	Ddr1	Cntnap2	Cntnap1	Aebp1	Btbd9	Dcbld1	Dcbld2	Rs1	F5	F8	Cpxm2	Cpxm1	Edil3	Mfge8
+CobW/HypB/UreG, nucleotide-binding domain	InterPro_Domains_2019
+Cobalamin (vitamin B12) biosynthesis CobW-like, C-terminal	InterPro_Domains_2019
+Cold shock domain	InterPro_Domains_2019	Lin28a	Lin28b	Csdc2	Ybx1	Csde1	Ybx3	Ybx2	Carhsp1
+Cold-shock (CSD) domain	InterPro_Domains_2019	Csdc2	Ybx1	Csde1	Ybx3	Ybx2	Carhsp1
+Cold-shock protein, DNA-binding	InterPro_Domains_2019	Lin28a	Lin28b	Csdc2	Ybx1	Csde1	Ybx3	Ybx2	Carhsp1
+Collagen IV, non-collagenous	InterPro_Domains_2019	Col4a1	Col4a3	Col4a2	Col4a5	Col4a4	Col4a6
+Collectin, C-type lectin-like domain	InterPro_Domains_2019	Colec11	Colec10	Sftpd	Sftpa1	Mbl2
+Complement Clr-like EGF domain	InterPro_Domains_2019	Cd93	Lrp1b	Matn2	Gas6	Matn4	Fbn1	Fbn2	Nid1	Lrp2	Lrp1	Ltbp3	Lrp4	Fbln2	Fbln1	Ltbp1	Nid2	Fbln5	Scube3	Efemp1	Scube1	Thbd	Adgre1	Scube2	Efemp2	Hmcn1	Hmcn2
+Connexin, N-terminal	InterPro_Domains_2019	Gje1	Gjc2	Gjb1	Gjd3	Gjd2	Gjc1	Gjb3	Gja1	Gjd4	Gjc3	Gjb2	Gja4	Gjb5	Gja3	Gjb4	Gjb6	Gja10	Gja5	Gja8
+Copine	InterPro_Domains_2019	Cpne9	Cpne6	Cpne5	Cpne8	Cpne7	Cpne2	Cpne4	Cpne3
+Copine, C2B domain	InterPro_Domains_2019	Cpne9	Cpne6	Cpne5	Cpne8	Cpne7	Cpne2	Cpne4	Cpne3
+Cro/C1-type helix-turn-helix domain	InterPro_Domains_2019	Hmbox1	Edf1	Pou2f3	Pou4f1	Pou4f2	Pou4f3
+Cullin homology domain	InterPro_Domains_2019	Cul4b	Cul9	Cul4a	Cul7	Cul5	Cul3	Cul2	Cul1	Anapc2
+Cullin protein, neddylation domain	InterPro_Domains_2019	Cul4b	Cul9	Cul4a	Cul7	Cul5	Cul3	Cul2	Cul1
+Cullin, N-terminal	InterPro_Domains_2019	Cul4b	Cul9	Cul4a	Cul7	Cul5	Cul3	Cul2	Cul1	Cacul1	Anapc2
+Cyclic nucleotide-binding domain	InterPro_Domains_2019	Kcnh3	Kcnh4	Kcnh5	Kcnh6	Kcnh7	Kcnh8	Cnbd2	Prkar1b	Prkar1a	Cnbd1	Cngb3	Rapgef2	Rapgef3	Pnpla6	Pnpla7	Rapgef6	Hcn1	Cngb1	Rapgef4	Hcn3	Hcn2	Hcn4	Slc9c1	SLC9C2	Prkar2b	Prkar2a	Cnga2	Cnga3	Cnga4	Cnnm4	Prkg2	Kcnh1	Cnga1	Kcnh2	Prkg1
+Cyclin, C-terminal domain	InterPro_Domains_2019	Ccnjl	Ccnk	Ccnj	Ccnf	Ccna2	Ccnb3	Ccna1	Ccnb2	Ccnb1	Ccnd3	Ccnd2	Ccnd1	Ccne2	Ccne1	Ccnl2	Ccnl1	Ccno
+Cyclin, N-terminal	InterPro_Domains_2019	Ccnjl	Cables1	Cables2	Ccna2	Ccna1	Ccne2	Ccny	Ccne1	Ccng2	Ccng1	Ccnq	Ccno	Ccnk	Ccnt2	Ccnj	Ccnt1	Ccni	Ccnh	Ccnf	Ccnc	Ccnb3	Ccnb2	Ccnb1	Ccnd3	Ccnd2	Ccnd1	Ccnl2	Ccnl1
+Cyclin-like	InterPro_Domains_2019	Ccnjl	Brf1	Cables1	Cables2	Ccna2	Rbl1	Ccna1	Rbl2	Ccne2	Ccny	Ccne1	Ccng2	Ccng1	Ccnq	Ccno	Rb1	Ccnk	Ccnt2	Ccnj	Ccnt1	Ccni	Ccnh	Gtf2b	Ccnf	Ccnc	Ccnb3	Ccnb2	Ccnb1	Ccnd3	Ccnd2	Ccnd1	Ccnl2	Ccnl1
+Cyclophilin-type peptidyl-prolyl cis-trans isomerase domain	InterPro_Domains_2019	Ranbp2	Ppil1	Ppil2	Ppil3	Cwc27	Ppwd1	Ppia	Ppig	Ppif	Ppih	Ppic	Ppil4	Ppib	Ppil6	Ppie	Nktr	Ppid
+Cystatin domain	InterPro_Domains_2019	Cstdc2	Cstb	Stfa1	Ahsg	Cst8	Cst7	Cst6	Kng1	Cst10	Cst11	Fetub	Hrg	Cstl1
+Cysteine-rich flanking region, C-terminal	InterPro_Domains_2019	Lingo3	Lrrc24	Lingo4	Lrrn3	Gp5	Islr2	Nyx	Gp9	Tpbgl	Tlr2	Lrfn4	Lrfn3	Tlr1	Rtn4rl1	Pxdn	Rtn4rl2	Lrit2	Lrfn2	Lrfn1	Tlr8	Lrrn2	Tlr7	Lrrn1	Tlr6	Tlr5	Tlr4	Tlr3	Lrrc38	Rtn4r	Igfals	Lrrc4	Adgra2	Flrt3	Adgra3	Flrt1	Flrt2	Slit2	Slit1	Slit3	Ntrk2	Lgi2	Ntrk3	Lgi1	Ntrk1	Lgi4	Lgi3	Tpbg	Cd180	Gp1bb	Gp1ba	Lrg1	Vasn	Igsf10	Lrrc15	Amigo1	Pkd1	Lrrc19	Lrtm1	Amigo2	Lrrc17	Lrtm2	Tril	Lrit1	Lrrc55	Islr	Elfn1	Cpn2	Slitrk1	Chadl	Slitrk3	Slitrk2	Slitrk5	Slitrk4	Chad	Lrig2	Slitrk6	Lrig1	Lrig3	Lrrc4b
+Cystine knot, C-terminal	InterPro_Domains_2019	Muc5b	Vwf	Muc19	Muc5ac	Otogl	Grem2	Grem1	Nbl1	Gpha2	Sostdc1	Slit2	Ndp	Slit1	Otog	Sost	Slit3	Ccn3	Muc6	Cer1
+Cytidine and deoxycytidylate deaminase domain	InterPro_Domains_2019	Apobec2	Cdadc1	Aicda	Apobec1	Apobec4	Apobec3	Adat2	Gm49322	Dctd	Cda
+Cytidyltransferase-like domain	InterPro_Domains_2019	Pcyt1a	Pcyt1b	Nmnat2	Pcyt2	Nmnat1	Nmnat3	Coasy
+Cytochrome b5-like heme/steroid binding domain	InterPro_Domains_2019	Cyb5b	Nenf	Cyb5d1	Pgrmc1	Suox	Cyb5a	Cyb5d2	Fa2h	Fads3	Pgrmc2	Cyb5r4	Herc2	Fads2	Fads1
+Cytochrome b561/ferric reductase transmembrane	InterPro_Domains_2019	Frrs1	Cyb561a3	Cybrd1	Cyb561	Cyb561d2	Cyb561d1
+Cytosolic carboxypeptidase, N-terminal	InterPro_Domains_2019	Agbl5	Agtpbp1	Agbl2	Agbl1	Agbl4	Agbl3
+Cytosolic fatty-acid binding	InterPro_Domains_2019	Crabp1	Crabp2	Fabp12	Fabp2	Rbp7	Fabp3	Fabp4	Fabp5	Fabp6	Fabp7	Rbp1	Fabp9	Rbp2	Pmp2	Fabp1
+D-galactoside/L-rhamnose binding SUEL lectin domain	InterPro_Domains_2019	Eva1c	Adgrl1	Adgrl2	Pkd1l2	Adgrl3
+DAN	InterPro_Domains_2019	Grem2	Grem1	Nbl1	Dand5	Cer1
+DAPIN domain	InterPro_Domains_2019	Mefv	Nlrp14	Pycard	Nlrp9a	Aim2	Nlrp12	Nlrp10	Nlrp5	Nlrp6	Nlrp3	Nlrp4c	Ifi205	Nlrp1a	Nlrp2
+DAZ, RNA recognition motif, vertebrates	InterPro_Domains_2019	Dazl
+DDE superfamily endonuclease domain	InterPro_Domains_2019	Tigd4	Tigd3	Jrk	Tigd5	Pogz	Pogk	Jrkl	Cenpb	Tigd2
+DDHD domain	InterPro_Domains_2019	Sec23ip	Pitpnm2	Pitpnm1	Pitpnm3	Ddhd1	Ddhd2
+DDT domain	InterPro_Domains_2019	Bptf	Baz2a	Baz2b	Baz1a	Baz1b
+DEAD/DEAH box helicase domain	InterPro_Domains_2019	Hfm1	Recql	Ddx31	Dhx40	Ddx19a	Ddx19b	Ddx39a	Ddx39b	D1Pas1	Ddx49	Ddx3y	Dhx9	Ddx47	Ythdc2	Ddx46	Ddx41	Ddx42	Dhx30	Dhx33	Dhx36	Dhx37	Dhx38	Ascc3	Helq	Ddx18	Ddx17	Ddx59	Polq	Ddx56	Ddx10	Ddx54	Tdrd9	Ddx55	Ddx52	Ddx50	Ddx51	Tdrd12	Dhx29	Snrnp200	Eif4a3l2	Eif4a2	Ddx6	Eif4a1	Ddx27	Ddx28	Blm	Ddx5	Ddx4	Ddx25	Ddx23	Ddx24	Ddx1	Ddx21	Ddx20	Ddx60	Recql5	Recql4	Wrn	Dhx57	Dhx15	Dhx16	Mtrex
+DEAD2	InterPro_Domains_2019	Brip1	Ercc2	Ddx11	Rtel1
+DEP domain	InterPro_Domains_2019	Plek	Plek2	Fmn2	Prex2	Rgs6	Gpr155	Depdc7	Depdc1b	Pikfyve	Prex1	Dvl1	Dvl2	Rgs11	Dvl3	Rapgef3	Depdc1a	Deptor	Rgs9	Depdc5	Rapgef4	Rgs7
+DHR-1 domain	InterPro_Domains_2019	Dock7	Dock11	Dock6	Dock5	Dock10	Dock4	Dock9	Dock8	Dock3	Dock2	Dock1
+DHR-2 domain	InterPro_Domains_2019	Dock7	Dock11	Dock6	Dock5	Dock10	Dock4	Dock9	Dock8	Dock3	Dock2	Dock1
+DIX domain	InterPro_Domains_2019	Dvl1	Dvl2	Dvl3	Axin2	Axin1	Dixdc1
+DM DNA-binding domain	InterPro_Domains_2019	Dmrtb1	Dmrt2	Dmrtc2	Dmrt3	Dmrta2	Dmrta1	Dmrt1
+DMAP1-binding domain	InterPro_Domains_2019	Gnptab	Gnptg	Dip2a	Dip2b	Dip2c	Dnmt1
+DNA binding HTH domain, Psq-type	InterPro_Domains_2019	Tigd4	Tigd3	Jrk	Tigd5	Jrkl	Cenpb	Lcor	Tigd2	Lcorl
+DNA mismatch repair protein MutS, C-terminal	InterPro_Domains_2019	Msh3	Msh4	Msh5	Msh6	Msh2
+DNA mismatch repair protein MutS, core	InterPro_Domains_2019	Msh3	Msh4	Msh5	Msh6	Msh2
+DNA recombination and repair protein Rad51-like, C-terminal	InterPro_Domains_2019	Rad51c	Rad51b	Rad51	Rad51d	Dmc1	Xrcc3	Xrcc2
+DNA recombination and repair protein RecA-like, ATP-binding domain	InterPro_Domains_2019	Rad51c	Rad51b	Rad51	Rad51d	Dmc1	Xrcc3	Xrcc2
+DNA-binding RFX-type winged-helix domain	InterPro_Domains_2019	Rfx7	Rfx8	Rfx5	Rfx6	Rfx3	Rfx4	Rfx1	Rfx2	Arid2
+DNA/RNA non-specific endonuclease	InterPro_Domains_2019	Endog	Enpp1	Enpp3	Endod1	Enpp2	Exog
+DOMON domain	InterPro_Domains_2019	Moxd1	Frrs1	Dbh	Frrs1l
+DZF domain	InterPro_Domains_2019	Zfr2	Zfr	Strbp	Ilf2	Ilf3
+Dbl homology (DH) domain	InterPro_Domains_2019	Arhgef33	Ect2l	Arhgef38	Arhgef37	Arhgef39	Vav1	Vav2	Vav3	Obscn	Spata13	Arhgef5	Arhgef2	Arhgef3	Sos2	Ngef	Arhgef9	Arhgef6	Sos1	Arhgef7	Rasgrf1	Arhgef1	Rasgrf2	Fgd1	Arhgef10l	Fgd2	Kalrn	Fgd3	Fgd4	Prex2	Fgd5	Fgd6	Mcf2l	Prex1	Ect2	Arhgef40	Plekhg4	Arhgef12	Arhgef11	Plekhg5	Farp2	Plekhg2	Plekhg3	Arhgef16	Arhgef15	Mcf2	Plekhg6	Arhgef18	Arhgef17	Arhgef19	Tiam1	Farp1	Tiam2	Bcr	Dnmbp	Net1	Als2	Plekhg1	Arhgef10	Arhgef25	Trio	Arhgef26	Itsn1	Arhgef28	Itsn2	Abr	Akap13
+Death domain	InterPro_Domains_2019	Ngfr	Ankdd1b	Edaradd	Ankdd1a	Unc5b	Dapk1	Unc5c	Unc5cl	Unc5a	Cradd	Thoc1	Unc5d	Tnfrsf22	Ank3	Ank1	Nfkb1	Lrrd1	Ank2	Nfkb2	Tnfrsf1a	Myd88	Tnfrsf21	Fas	Tnfrsf25	Dthd1	Tradd	Tnfrsf11b	Irak2	Irak3	Irak1	Fadd	Ripk1	Pidd1
+Death effector domain	InterPro_Domains_2019	Casp8	Cflar	Pea15a	Fadd	Dedd2	Dedd
+Dedicator of cytokinesis C/D, N-terminal	InterPro_Domains_2019	Dock7	Dock11	Dock6	Dock10	Dock9	Dock8
+Dedicator of cytokinesis, C-terminal	InterPro_Domains_2019	Dock7	Dock11	Dock6	Dock5	Dock10	Dock4	Dock9	Dock8	Dock3	Dock2	Dock1
+Dedicator of cytokinesis, N-terminal domain	InterPro_Domains_2019	Dock5	Dock4	Dock3	Dock2	Dock1
+Defensin propeptide	InterPro_Domains_2019	Defa5
+Dehydrogenase, E1 component	InterPro_Domains_2019	Dhtkd1	Bckdha	Pdha2	Pdha1	Ogdhl	Ogdh
+Deltex, C-terminal	InterPro_Domains_2019	Dtx3l	Dtx1	Dtx2	Dtx3	Dtx4
+Diacylglycerol kinase, accessory domain	InterPro_Domains_2019	Dgkh	Dgkg	Dgke	Dgkd	Dgkb	Dgka	Dgkq	Dgkk	Dgkz	Dgki
+Diacylglycerol kinase, catalytic domain	InterPro_Domains_2019	Dgkh	Cerkl	Dgkg	Dgke	Dgkd	Agk	Cerk	Dgkb	Sphk2	Dgka	Sphk1	Dgkz	Dgkq	Dgkk	Dgki
+Diacylglycerol/phorbol-ester binding	InterPro_Domains_2019	Prkch	Prkcg	Prkci	Prkcd	Prkce	Prkcb	Araf	Braf	Prkca	Rasgrp3	Cdc42bpb	Rasgrp4	Rasgrp1	Prkcz	Chn2	Prkd1	Chn1	Prkd3	Prkcq	Prkd2	Raf1
+Diaphanous autoregulatory (DAD) domain	InterPro_Domains_2019	Diaph1	Diaph2	Diaph3	Fmnl2	Daam2	Fmnl1	Fhod3	Daam1
+Dilute domain	InterPro_Domains_2019	Afdn	Radil	Myo5c	Myo5a	Myo5b	Rasip1
+Dipeptidylpeptidase IV, N-terminal domain	InterPro_Domains_2019	Dpp10	Dpp6	Dpp8	Dpp9	Fap	Dpp4
+Disintegrin domain	InterPro_Domains_2019	Adamdec1	Adam12	Adam23	Adam11	Adam22	Adam33	Adam10	Adam21	Adam32	Adam25	Adam30	Adam2	Adam18	Adam29	Adam17	Adam28	Adam7	Adam15	Adam9	Adam8
+Disulphide isomerase	InterPro_Domains_2019	Pdia4	Pdia3	Txndc5	P4hb	Pdia6
+DnaJ domain	InterPro_Domains_2019	Dnajb13	Dnajb14	Dnajc4	Dnajc3	Dnajc2	Dnajc1	Dnajc30	Dnajc8	Dnajc7	Dnajb11	Dnajc6	Dnajc5	Dnajb12	Dnajc9	Dnajc24	Dnajc25	Dnajc27	Dnajc28	Dnajb2	Dnajb1	Dnajb7	Dnajb6	Dnajc21	Dnajb5	Dnajc22	Dnajb4	Dnajc5g	Dnajb9	Dnajb8	Dnajc5b	Dnajc12	Dnajc13	Dnajc14	Dnajc15	Dnajc16	Dnajc17	Dnajc18	Dnajc19	Dnaja2	Dnaja1	Gak	Dnajc10	Dnaja4	Dnajc11	Dnaja3	Hscb	Slc8a1	Sacs	Sec63
+Domain of unknown function DUF1605	InterPro_Domains_2019	Dhx8	Dhx9	Ythdc2	Dqx1	Dhx40	Dhx30	Dhx32	Dhx33	Dhx34	Dhx57	Dhx35	Dhx36	Dhx15	Dhx37	Dhx38	Dhx16	Dhx29
+Domain of unknown function DUF1899	InterPro_Domains_2019	Coro2a	Coro7	Coro6	Coro2b	Coro1a	Coro1b	Coro1c
+Domain of unknown function DUF3456	InterPro_Domains_2019	Cnpy1	Cnpy2	Creld1	Cnpy3	Cnpy4	Mzb1
+Domain of unknown function DUF3496	InterPro_Domains_2019
+Domain of unknown function DUF3699	InterPro_Domains_2019
+Domain of unknown function DUF4599	InterPro_Domains_2019	Spata31	Spata31d1b
+Domain of unknown function DUF4704	InterPro_Domains_2019	Lrba	Nbeal1	Nbeal2	Nbea
+Domain of unknown function DUF4749	InterPro_Domains_2019	Pdlim2	Pdlim1	Pdlim4	Pdlim3	Ldb3	Pdlim5
+Domain of unknown function DUF4939	InterPro_Domains_2019	Peg10	Ldoc1	Rtl5	Rtl6	Rtl8b	Rtl3
+Double-stranded RNA-binding domain	InterPro_Domains_2019	Stau1	Stau2	Dhx9	Eif2ak2	Strbp	Dicer1	Adarb1	Adarb2	Adar	Ilf3	Cdkn2aip	Mrpl44	Tarbp2	Dus2	Son	Nkrf	Drosha	Adad2	Adad1	Prkra	Dgcr8
+Doublecortin domain	InterPro_Domains_2019	Rp1	Dcdc2b	Dcdc2c	Dcx	Dclk2	Dcdc2a	Rp1l1	Dclk1
+Drought induced 19 protein type, zinc-binding domain	InterPro_Domains_2019	Zeb1	Rnf125	Rnf114	Rnf138rt1	Zeb2	Kcmf1	Rnf166
+Dual specificity phosphatase, catalytic domain	InterPro_Domains_2019	Dusp5	Tpte	Epm2a	Dusp6	Rngtt	Dusp4	Dusp1	Dusp2	Ssh3	Dusp9	Dusp28	Dusp7	Ssh1	Dusp26	Dusp8	Ssh2	Dusp23	Ptp4a3	Dusp21	Dusp22	Ptp4a1	Cdc14a	Dusp18	Dusp19	Dusp16	Ptpdc1	Dusp14	Cdc14b	Dusp15	Styxl1	Dusp12	Dusp10	Dusp11	Ptpmt1	Styx-ps
+Dual specificity protein phosphatase domain	InterPro_Domains_2019	Dusp5	Epm2a	Dusp6	Dusp4	Dusp1	Dusp2	Ssh3	Dusp9	Dusp28	Dusp7	Ssh1	Dusp26	Dusp8	Ssh2	Dusp23	Dusp21	Dusp22	Cdc14a	Dusp18	Dusp19	Dusp16	Ptpdc1	Dusp14	Cdc14b	Dusp15	Styxl1	Dusp12	Dusp10	Dusp11	Ptpmt1	Styx-ps
+Dullard phosphatase domain, eukaryotic	InterPro_Domains_2019	Ctdnep1	Ctdsp1	Ctdsp2	Ctdspl2	Ctdspl
+Dynamin GTPase effector	InterPro_Domains_2019	Mx2	Dnm1	Dnm2	Dnm1l	Dnm3
+Dynamin central domain	InterPro_Domains_2019	Mx2	Dnm1	Dnm2	Dnm1l	Dnm3
+Dynamin, GTPase domain	InterPro_Domains_2019	Mx2	Opa1	Dnm1	Dnm2	Dnm1l	Dnm3
+Dynamin-type guanine nucleotide-binding (G) domain	InterPro_Domains_2019	Mx2	Srl	Dnm1	Dnm2	Ehd1	Dnm3	Ehd2	Ehd3	Ehd4	Opa1	Mfn2	Mfn1	Dnm1l
+Dynein heavy chain region D6 P-loop domain	InterPro_Domains_2019	Dnah5	Dync2h1	Dnah2	Dnah12	Dnah11	Dnah3	Dnah8	Dnah17	Dnah9	Dnah6	Dnah7c	Dnhd1	Dnah10	Dnah1	Dync1h1
+Dynein heavy chain, AAA module D4	InterPro_Domains_2019	Dnah14	Dnah5	Dync2h1	Dnah2	Dnah12	Dnah11	Dnah3	Dnah8	Dnah17	Dnah9	Dnah6	Dnah7c	Dnhd1	Dnah10	Dnah1	Dync1h1
+Dynein heavy chain, ATP-binding dynein motor region	InterPro_Domains_2019	Dnah14	Dnah5	Dync2h1	Dnah2	Dnah11	Dnah3	Dnah8	Dnah17	Dnah9	Dnah6	Dnah7c	Dnah10	Dnah1	Dync1h1
+Dynein heavy chain, coiled coil stalk	InterPro_Domains_2019	Dnah14	Dnah5	Dync2h1	Dnah2	Dnah11	Dnah3	Dnah8	Dnah17	Dnah9	Dnah6	Dnah7c	Dnhd1	Dnah10	Dnah1	Dync1h1
+Dynein heavy chain, domain-1	InterPro_Domains_2019	Dnah5	Dync2h1	Dnah2	Dnah11	Dnah8	Dnah17	Dnah9	Dnah10	Dync1h1
+Dynein heavy chain, domain-2	InterPro_Domains_2019	Dnah5	Dync2h1	Dnah2	Dnah12	Dnah11	Dnah3	Dnah8	Dnah17	Dnah9	Dnah6	Dnah7c	Dnhd1	Dnah10	Dnah1	Dync1h1
+Dynein heavy chain, hydrolytic ATP-binding dynein motor region	InterPro_Domains_2019	Dnah14	Dnah5	Dync2h1	Dnah2	Dnah12	Dnah11	Dnah3	Dnah8	Dnah17	Dnah9	Dnah6	Dnah7c	Dnhd1	Dnah10	Dnah1	Dync1h1
+E2F transcription factor, CC-MB domain	InterPro_Domains_2019	E2f1	E2f2	E2f3	E2f4	E2f5	E2f6
+E2F/DP family, winged-helix DNA-binding domain	InterPro_Domains_2019	Tfdp1	Tfdp2	E2f1	E2f2	E2f3	E2f4	E2f5	E2f6	E2f7	E2f8
+EF-hand domain	InterPro_Domains_2019	Actn4	Actn3	Actn2	Actn1	Ankef1	Hpcal1	Hpcal4	Flg2	Myl6	Myl7	Capn12	Nin	Myl1	Capn11	Myl2	Myl3	Myl4	Plcd1	Sparcl1	Calm2	Plcd4	Myl9	Calm3	Calm1	Tbc1d9b	Calml3	Calml4	Calm5	Cracr2a	Myl12b	Cracr2b	Capns2	Capns1	Myl10	S100a16	Rab11fip3	Rab11fip4	Caln1	S100a11	Efcc1	Tbc1d8b	Tnnc1	Tnnc2	Hrnr	Aif1l	Ehd1	Ehd2	Ehd3	Ehd4	Ocm	Caps2	Necab3	Flg	Necab2	Macf1	Capsl	Itsn1	Necab1	Itsn2	Ppp3r1	Ppp3r2	Plcg1	Rhbdl3	Tescl	Eps15l1	Letm1	Crnn	Vsnl1	Calu	Cetn1	Cetn2	Cetn3	Duox1	Duox2	Spta1	Eps15	Cgref1	Smoc2	Nucb1	Nucb2	Ryr2	Ryr3	Fkbp10	Ryr1	Fkbp14	Lpcat2	Guca1b	Efcab5	Lpcat1	Fstl1	Efcab6	Efcab7	Aif1	Efcab8	Efcab9	Fstl5	Guca1a	Fstl4	Ncs1	Efcab2	Efcab3	Sdf4	Ninl	Sptan1	P4htm	S100a2	Gca	S100a1	Selenon	Gpd2	Fkbp9	S100a6	S100a5	S100a4	Fkbp7	S100a9	S100a8	Dgkg	Dgkb	Pdcd6	Dgka	Cib4	Cib3	Cib2	Cib1	Nkd1	Nkd2	Capn9	Gnptab	Capn8	Capn3	Chp2	Chp1	Capn1	Capn2	Reps1	Reps2	Swap70	Ppef1	Pef1	Efhb	Micu3	Ppef2	Micu2	Micu1	Pvalb	Cabp7	Cabp5	Rasef	Cacna1b	Cabp4	Cacna1e	Cabp1	Cabp2	Rasgrp3	Myl6b	Rasgrp2	Rasgrp4	Scgn	Rab44	Rptn	Rasgrp1	Efhd2	Pls1	Efhd1	Pls3	Kcnip1	Kcnip2	Kcnip3	Plch1	Kcnip4	Zzef1	Rcn2	Rcn3	Lcp1	Rcn1	Efhc2	Efhc1	Plch2	Mcfd2	Hpca	Usp32	Dnah7c	Ncald	Efcab14	Efcab12	Efcab11	Efcab10	Rhot1	Calb1	Rhot2	Calb2	Plcz1	S100g	Rcvrn	Dst	Ppp2r3a	Tbc1d9	S100b	S100z	Slc25a13	Slc25a12	Prkcsh	Sri	Tchh	Spata21	Pkd2	Slc25a24	Slc25a23	Slc25a25
+EF-hand domain, type 1	InterPro_Domains_2019	Dtna	Dmd	Utrn	Dytn	Drp2
+EF-hand domain, type 2	InterPro_Domains_2019	Dtna	Dmd	Utrn	Dytn	Drp2
+EF-hand, Ca insensitive	InterPro_Domains_2019	Spta1	Actn4	Actn3	Actn2	Actn1	Sptan1
+EGF domain	InterPro_Domains_2019	Scube3	Cubn	Nell1	Scube1	Nid1	Scube2	Stab1	Stab2	Umod	Nid2	Megf8	Thbs2
+EGF-like calcium-binding domain	InterPro_Domains_2019	Egf	Npnt	F10	F12	Lrp1b	Agrn	Fbln7	Celsr1	Masp1	Lrp2	Lrp1	Pros1	Vwce	Fbln2	Lrp4	Fbln1	Dll1	Celsr2	Celsr3	Dll3	Lrp8	Dll4	Fbln5	Scube3	Comp	Scube1	Scube2	Slit2	Slit1	Hmcn1	Slit3	Hmcn2	Pamr1	Ldlr	Habp2	Cubn	Jag1	Jag2	Cd93	Hspg2	Fat1	Fat2	Matn2	Matn1	Fat3	Fat4	Fbn1	Matn4	Fbn2	Matn3	Notch3	Notch1	Notch2	Ltbp3	Ltbp4	Ltbp1	Ltbp2	Efemp1	Tpo	Efemp2	Crtac1	Svep1	Edil3	Egfl6	Egfl8	Egfl7	Heg1	Vcan	Bmp1	Mmrn1	Vwa2	Creld1	Creld2	Cd248	Gas6	Megf8	Adgrl4	Tenm2	Nid1	Proz	Umod	Nid2	Vldlr	Adgre1	Ccbe1	Susd1	Dlk1	Dlk2	F7	Nell2	F9	Nell1	Tll2	Tll1	Masp2	Umodl1	Sned1	Crb2	Crb1	C1rb	Megf6	C1s1	Ncan	Thbs1	Thbs3	Thbs2	Thbs4	Thbd	Egflam	Dner	Stab1	Stab2	Oit3
+EGF-like domain	InterPro_Domains_2019	Egf	Ereg	Cfc1	Fras1	Tek	Itgbl1	Astn1	Lrp2	Lrp1	Zan	Lrp6	Lrp5	Lrp4	Dll1	Dll3	Lrp8	Dll4	Hmcn1	Hmcn2	Muc4	Habp2	Ntng2	Cubn	Jag1	Jag2	Ntng1	Vasn	Btc	Hspg2	Bcan	Mep1b	Fat1	Fat2	Fat3	Fat4	Hhip	Nagpa	Scarf1	Scarf2	Heg1	Adam33	Adam32	Adam30	Tmeff1	Tmeff2	Vwa2	Creld1	Creld2	Megf9	Gas6	Megf8	Adgrl4	Tenm1	Tenm2	Tenm3	Tenm4	Tgfa	Umod	Areg	Vldlr	Pcsk6	Pear1	Pcsk5	Otog	Atrnl1	Susd1	Adam12	Adam11	F7	Epgn	F9	Adam15	Hbegf	Crb2	Crb1	Megf6	Ncan	Adam23	Ptgs1	Ptgs2	Adam28	Egflam	Dner	Stab1	Stab2	Npnt	F10	F12	Muc3a	Lrp1b	Adam9	Adam8	Agrn	Fbln7	Celsr1	Tnxb	Pros1	Clec18a	Tnc	Vwce	Fbln2	Fbln1	Celsr2	Celsr3	Fbln5	Scube3	Comp	Scube1	Tnn	Reln	Scube2	Wif1	Tnr	Slit2	Slit1	Malrd1	Slit3	Pamr1	Ldlr	Tecta	Muc17	Cd93	Sele	Selp	Sell	Matn2	Matn1	Mfge8	Fbn1	Matn4	Fbn2	Matn3	Notch3	Notch1	Notch2	Ltbp3	Plau	Plat	Ltbp4	Ltbp1	Ltbp2	Efemp1	Tpo	Efemp2	Cntnap3	Muc13	Svep1	Edil3	Egfl6	Egfl8	Egfl7	Nrg1	Lamb2	Nrg2	Lamb1	Nrg3	Vcan	Nrg4	Bmp1	Mmrn1	Cd248	Cntnap4	Cntnap2	Cntnap1	Nid1	Megf11	Nrxn2	Megf10	Nrxn1	Lamc1	Proz	Nrxn3	Lamc3	Lamc2	Nid2	Adgre1	Impg1	Impg2	Hgfac	Ccbe1	Tie1	Dlk1	Dlk2	Atrn	Nell2	Nell1	Tll2	Tll1	Masp2	Umodl1	Sned1	C1rb	Lama3	Lama2	Lama5	Lama4	Lama1	Thbs1	Thbs3	Atraid	Thbs2	Thbs4	Acan	Thbd	Oit3
+EGF-like domain, extracellular	InterPro_Domains_2019	Itgb1	Atrnl1	Tenm4	Egfl7	Tnxb	Itgb6	Itgb4	Itgb3	Tnc	Adam22	Adam11	Tnr	Itgbl1	Itgb8	Itgb7
+EH domain	InterPro_Domains_2019	Ehd2	Ehd3	Ehd4	Itsn1	Itsn2	Synrg	Eps15	Eps15l1	Reps1	Ehd1	Reps2
+EH domain-containing protein, N-terminal	InterPro_Domains_2019	Ehd2	Ehd3	Ehd4	Srl	Ehd1
+ELM2 domain	InterPro_Domains_2019	Zfp541	Rere	Trerf1	Mta1	Mta2	Mier3	Mier2	Mier1	Mta3	Rcor3	Rcor2	Rcor1
+ELMO domain	InterPro_Domains_2019	Elmod1	Elmod3	Elmo1	Elmod2	Elmo2	Elmo3
+EMI domain	InterPro_Domains_2019	Postn	Egfl8	Megf6	Egfl7	Megf11	Col26a1	Megf10	Pear1	Mmrn2	Mmrn1	Tgfbi	Emilin3	Emilin2	Emilin1	Umodl1	Emid1
+ENTH  domain	InterPro_Domains_2019	Hip1	Picalm	Tepsin	Hip1r	Enthd1	Clint1	Epn1	Snap91	Epn2	Epn3
+ERAP1-like C-terminal domain	InterPro_Domains_2019	Enpep	Anpep	Lvrn	Erap1	Lnpep	Trhde	Npepps
+ERCC4 domain	InterPro_Domains_2019	Eme1	Eme2	Ercc4	Fancm	Mus81
+EXPERA domain	InterPro_Domains_2019	Ebp	Ebpl	Tmem97	Tm6sf2	Tm6sf1
+EamA domain	InterPro_Domains_2019	Slc35f3	Slc35f5	Slc35g1	Slc35g3	Slc35g2
+Elongation factor EFG, domain V-like	InterPro_Domains_2019	Gfm2	Gfm1	Efl1	Guf1	Eef2	Eftud2
+Elp3/MiaB/NifB	InterPro_Domains_2019	Rsad1	Rsad2	Elp3	Cdk5rap1	Mocs1	Cdkal1	Lias
+Endonuclease/exonuclease/phosphatase	InterPro_Domains_2019	Cnot6l	Angel2	Ocrl	Inppl1	Cnot6	Inpp5d	Inpp5a	Inpp5b	Dnase1	Synj2	Noct	Synj1	Apex2	Inpp5e	Tdp2	Pde12	Smpd2	Apex1	Inpp5k	Angel1	Inpp5j	Dnase1l3	Dnase1l1	Dnase1l2
+Enhancer of polycomb-like, N-terminal	InterPro_Domains_2019	Brpf1	Brd1	Brpf3	Epc1	Jade2	Epc2	Jade1	Jade3
+Ephrin receptor ligand binding domain	InterPro_Domains_2019	Epha6	Epha5	Ephb6	Epha8	Epha7	Epha10	Ephb1	Ephb3	Epha2	Ephb2	Epha1	Epha4	Epha3	Ephb4
+Ephrin receptor, transmembrane domain	InterPro_Domains_2019	Epha6	Epha5	Ephb6	Epha8	Epha7	Epha10	Ephb1	Ephb3	Epha2	Ephb2	Epha1	Epha4	Epha3	Ephb4
+Ephrin receptor-binding domain	InterPro_Domains_2019	Efna2	Efnb3	Efna1	Efnb2	Efna4	Efna3	Efnb1	Efna5
+Ephrin-A ectodomain	InterPro_Domains_2019	Efna2	Efna1	Efna4	Efna3	Efna5
+Epsin, ENTH domain	InterPro_Domains_2019	Enthd1	Clint1	Epn1	Epn2	Epn3
+Ets domain	InterPro_Domains_2019	Etv1	Etv2	Etv3	Etv4	Fli1	Etv5	Etv6	Elf1	Elf2	Elf3	Elf4	Elf5	Fev	Erg	Erf	Spi1	Ehf	Ets1	Etv3l	Elk1	Ets2	Elk3	Elk4	Spic	Spdef	Spib	Gabpa
+Exonuclease, RNase T/DNA polymerase III	InterPro_Domains_2019	Rexo1	Rexo2	Trex2	Isg20l2	Aen	Rexo4	Rexo5	Isg20	Pan2	Eri1	Eri2	Eri3	Trex1
+Exoribonuclease, phosphorolytic domain 1	InterPro_Domains_2019	Exosc8	Exosc7	Pnpt1	Exosc6	Exosc5	Exosc9	Exosc4
+Exoribonuclease, phosphorolytic domain 2	InterPro_Domains_2019	Exosc8	Exosc7	Pnpt1	Exosc5	Exosc9	Exosc4
+Exportin-1/Importin-beta-like	InterPro_Domains_2019	Xpo1	Ipo13	Xpo5	Xpot	Xpo6	Tnpo3
+Extended PHD (ePHD) domain	InterPro_Domains_2019	Kdm4a	Kdm4b	Brpf1	Kdm4c	Phf6	Brd1	Phf11d	Brpf3	Kmt2b	Kmt2a	Kmt2d	Kmt2c	Jade2	Jade1	Zfp957	Jade3	Phf7	Mllt6	Rai1	Mllt10	Phf14	G2e3
+Extracellular Endonuclease, subunit A	InterPro_Domains_2019	Endog	Enpp1	Enpp3	Endod1	Enpp2	Exog
+F-BAR domain	InterPro_Domains_2019	Fnbp1	Arhgap29	Gmip	Fchsd2	Fchsd1	Fes	Fer	Nostrin	Gas7	Trip10	Fnbp1l	Arhgap4	Arhgap45	Pstpip2	Pstpip1	Fcho2	Fcho1	Pacsin3	Srgap3	Srgap2	Pacsin1	Srgap1	Pacsin2
+F-box associated (FBA) domain	InterPro_Domains_2019	Fbxo17	Fbxo2	Fbxo27	Fbxo6	Fbxo44	Nccrp1
+F-box domain	InterPro_Domains_2019	Fbxw5	Fbxw4	Fbxw7	Ect2l	Fbxw9	Fbxw11	Fbxw25	Fbxw8	Fbxo3	Fbxo17	Fbxo2	Fbxo15	Fbxo16	Fbxo11	Fbxo10	Fbxw2	Fbxo48	Ccnf	Fbxo46	Fbxo47	Fbxo44	Fbxo45	Fbxo42	Fbxo40	Fbxo41	Fbxl22	Fbxl20	Btrc	Kdm2a	Kdm2b	Fbxo39	Fbxl18	Fbxl19	Fbxo38	Fbxo36	Fbxl17	Fbxl14	Fbxo33	Fbxo34	Fbxl15	Fbxo31	Fbxl12	Fbxl13	Fbxo30	Fbxl2	Fbxl4	Fbxl3	Fbxl6	Fbxl5	Fbxl8	Fbxl7	Fbh1	Fbxo28	Fbxo27	Fbxo24	Fbxo22	Eloa	Fbxo5	Fbxo4	Fbxo7	Fbxo6	Fbxo9	Fbxo8	Skp2
+FAD dependent oxidoreductase	InterPro_Domains_2019	Dao	Pdpr	Dmgdh	Pipox	Sardh	Gpd2	L2hgdh	Ddo	Foxred1
+FAD-binding 8	InterPro_Domains_2019	Duox1	Duox2	Nox4	Cybb	Nox1	Nox3
+FAD-binding domain	InterPro_Domains_2019	Mical2	Mical1	Mical3	Kmo	Coq6
+FAD-binding domain, PCMH-type	InterPro_Domains_2019	Ldhd	Agps	Aox1	Xdh	Dhcr24	D2hgdh
+FAD-binding domain, ferredoxin reductase-type	InterPro_Domains_2019	Mtrr	Oxnad1	Nos3	Cybb	Cyb5r3	Duox1	Duox2	Cyb5r2	Cyb5r4	Por	Nox4	Nos1	Nos2	Cyb5rl	Ndor1	Nox1	Cyb5r1	Nox3
+FAD/NAD(P)-binding domain	InterPro_Domains_2019	Gsr	Aifm2	Pyroxd1	Aifm3	Txnrd3	Dpyd	Txnrd2	Sqor	Aifm1	Txnrd1	Dld
+FAM69, protein-kinase domain	InterPro_Domains_2019	Pkdcc	Dipk1c	Dipk1b	Dipk2b	Dipk1a	Dipk2a
+FAM83, N-terminal	InterPro_Domains_2019	Fam83h	Fam83g	Fam83f	Fam83a	Fam83e	Fam83d	Fam83c	Fam83b
+FAST kinase leucine-rich	InterPro_Domains_2019	Fastkd1	Fastkd2	Fastkd3	Fastk	Fastkd5	Tbrg4
+FAST kinase-like protein, subdomain 2	InterPro_Domains_2019	Fastkd1	Fastkd2	Fastkd3	Fastk	Fastkd5	Tbrg4
+FATC domain	InterPro_Domains_2019	Trrap	Smg1	Atm	Prkdc	Mtor	Atr
+FCH domain	InterPro_Domains_2019	Fnbp1	Fnbp1l	Arhgap4	Arhgap45	Fchsd2	Fchsd1	Fes	Pstpip2	Fer	Pstpip1	Fcho2	Fcho1	Pacsin3	Nostrin	Srgap3	Gas7	Srgap2	Pacsin1	Srgap1	Pacsin2	Trip10
+FCP1 homology domain	InterPro_Domains_2019	Timm50	Ctdnep1	Ctdp1	Ctdsp1	Ctdsp2	Ublcp1	Ctdspl2	Ctdspl
+FERM adjacent (FA)	InterPro_Domains_2019	Farp2	Epb41	Farp1	Frmd3	Epb41l5	Frmd5	Epb41l4b	Frmd7	Epb41l4a	Epb41l1	Epb41l2	Epb41l3	Ptpn4
+FERM central domain	InterPro_Domains_2019	Mylip	Farp2	Rdx	Msn	Myo10	Myo7a	Frmd4b	Myo7b	Ptpn13	Ptpn14	Farp1	Ptk2	Frmd3	Fermt1	Frmd5	Fermt2	Frmd6	Frmd7	Frmd8	Frmd4a	Myo15a	Nf2	Tln2	Ezr	Tln1	Fermt3	Ptpn3	Ptpn4	Frmpd1	Epb41	Plekhh3	Frmpd4	Frmpd2	Frmpd3	Ptpn21	Epb41l5	Epb41l4b	Epb41l4a	Epb41l1	Epb41l2	Epb41l3	Ptk2b	Krit1	Plekhh1	Plekhh2	Jak1
+FERM domain	InterPro_Domains_2019	Mylip	Farp2	Rdx	Msn	Myo10	Myo7a	Frmd4b	Myo7b	Ptpn13	Ptpn14	Tyk2	Farp1	Ptk2	Frmd3	Frmd5	Frmd6	Frmd7	Frmd8	Frmd4a	Myo15a	Nf2	Tln2	Ezr	Tln1	Ptpn3	Ptpn4	Frmpd1	Epb41	Plekhh3	Frmpd4	Frmpd2	Frmpd3	Ptpn21	Epb41l5	Epb41l4b	Epb41l4a	Epb41l1	Epb41l2	Epb41l3	Ptk2b	Krit1	Jak3	Plekhh1	Plekhh2	Jak1	Jak2
+FERM, C-terminal PH-like domain	InterPro_Domains_2019	Mylip	Farp2	Rdx	Msn	Frmd4b	Ptpn13	Ptpn14	Farp1	Frmd3	Frmd5	Frmd6	Frmd7	Frmd4a	Nf2	Ezr	Ptpn3	Ptpn4	Epb41	Frmpd2	Ptpn21	Epb41l5	Epb41l4b	Epb41l4a	Epb41l1	Epb41l2	Epb41l3
+FERM, N-terminal	InterPro_Domains_2019	Mylip	Farp2	Rdx	Msn	Frmd4b	Ptpn13	Ptpn14	Farp1	Frmd3	Frmd5	Frmd6	Frmd7	Frmd4a	Nf2	Tln2	Ezr	Tln1	Ptpn3	Ptpn4	Epb41	Frmpd2	Ptpn21	Epb41l5	Epb41l4b	Epb41l4a	Epb41l1	Epb41l2	Epb41l3
+FF domain	InterPro_Domains_2019	Tcerg1	Tcerg1l	Prpf40b	Prpf40a	Arhgap5	Arhgap35
+FKBP-type peptidyl-prolyl cis-trans isomerase domain	InterPro_Domains_2019	Fkbp11	Fkbp3	Fkbp10	Fkbp15	Fkbp14	Aip	Fkbp1b	Fkbp1a	Fkbp9	Fkbp8	Aipl1	Fkbp5	Fkbp4	Fkbp7	Fkbp6
+FY-rich, C-terminal	InterPro_Domains_2019	Tbrg1	Kmt2b	Kmt2a	Kmt2d	Kmt2c
+FY-rich, N-terminal	InterPro_Domains_2019	Tbrg1	Kmt2b	Kmt2a	Kmt2d	Kmt2c
+FYVE zinc finger	InterPro_Domains_2019	Ankfy1	Zfyve21	Rbsn	Zfyve26	Rufy2	Rufy1	Zfyve19	Hgs	Pikfyve	Wdfy2	Wdfy1	Wdfy3	Mtmr3	Plekhf1	Mtmr4	Plekhf2	Zfyve9	Zfyve1	Fgd1	Fgd2	Fgd3	Eea1	Fgd4	Fgd5	Fyco1	Zfyve27	Fgd6	Zfyve28
+Fatty acid desaturase domain	InterPro_Domains_2019	Fads3	Fads6	Degs2	Degs1	Fads2	Fads1
+Fatty acid hydroxylase	InterPro_Domains_2019	Fa2h	Faxdc2	Sc5d	Agmo	Msmo1	Ch25h
+FerIin domain	InterPro_Domains_2019	Fer1l6	Fer1l5	Myof	Dysf	Otof
+Ferlin B-domain	InterPro_Domains_2019	Fer1l6	Fer1l5	Myof	Dysf	Otof
+Ferlin, C-terminal domain	InterPro_Domains_2019	Fer1l6	Fer1l5	Myof	Dysf	Otof
+Ferlin, fifth C2 domain	InterPro_Domains_2019	Fer1l6	Fer1l5	Myof	Dysf	Otof
+Ferlin, fourth C2 domain	InterPro_Domains_2019	Fer1l6	Fer1l5	Myof	Dysf	Otof
+Ferlin, second C2 domain	InterPro_Domains_2019	Fer1l6	Fer1l5	Myof	Dysf	Otof
+Ferlin, sixth C2 domain	InterPro_Domains_2019	Fer1l6	Fer1l5	Myof	Dysf	Otof
+Ferlin, third C2 domain	InterPro_Domains_2019	Fer1l6	Myof	Dysf	Otof
+Ferric reductase transmembrane component-like domain	InterPro_Domains_2019	Duox1	Duox2	Steap4	Steap1	Nox4	Cybb	Steap2	Steap3	Nox1	Nox3
+Ferric reductase, NAD binding domain	InterPro_Domains_2019	Duox1	Duox2	Nox4	Cybb	Nox1	Nox3
+Ferritin-like diiron domain	InterPro_Domains_2019	Ftmt	Fth1	Ftl1
+Ferritin/DPS protein domain	InterPro_Domains_2019	Ftmt	Fth1	Ftl1
+Fibrillar collagen, C-terminal	InterPro_Domains_2019	Col1a2	Col2a1	Col1a1	Col27a1	Col3a1	Col5a2	Col5a1	Col11a2	Col5a3	Col11a1
+Fibrinogen, alpha/beta/gamma chain, C-terminal globular domain	InterPro_Domains_2019	Fgb	Angpt4	Fgg	Angpt2	Angpt1	Fibcd1	Angptl7	Mfap4	Angptl4	Angptl3	Angptl6	Angptl2	Angptl1	Fcnb	Cntnap4	Cntnap3	Cntnap2	Cntnap1	Tnxb	Fgl1	Fgl2	Tnc	Itln1	Tnn	Tnr
+Fibronectin type II domain	InterPro_Domains_2019	Igf2r	Mmp2	Sel1l	F12	Fn1	Ly75	Mmp9	Bsph1	Mrc1	Mrc2	Pla2r1	Hgfac
+Fibronectin type III	InterPro_Domains_2019	Epha6	Cdon	Epha5	Epha8	Epha7	Lrrn4	Lrrn3	Fndc8	L1cam	Fndc9	Fndc7	Fndc4	Fndc5	Il31ra	Fndc1	Tek	Fndc11	Lrrn1	Epha2	Obsl1	Epha1	Epha4	Astn1	Epha3	Cntfr	Vsig10l2	Col12a1	Il21r	Ndnf	Il2rg	Phyhip	Il27ra	Prtg	Flrt3	Flrt1	Flrt2	Abi3bp	Fsd1	Fsd2	Insr	Vasn	Hcfc1	Hcfc2	Il22ra2	Il22ra1	Igsf9b	Fank1	Epha10	Il23r	Tril	Il20rb	Phyhipl	Mylk	Cmya5	Il20ra	Il12b	Mybpc2	Mybpc3	Insrr	Il10rb	Il10ra	Fn1	Igfn1	Osmr	Mybpc1	Crlf1	Ptprf	Ptprc	Ptprd	Ptprb	Vwa1	Crlf2	Crlf3	Ptpru	Igsf9	Ptprs	Ptprt	Ptprq	Ebi3	Ptpro	Atf7ip2	Ptprm	Ptprk	Ptprj	Ptprg	Kalrn	Ptprh	Trim9	Chl1	Ifngr1	Ifngr2	Il11ra2	Mybph	F3	Lrrn4cl	Dscaml1	Robo3	Robo4	Robo1	Robo2	Egflam	Prlr	Il4ra	Cntn6	Lifr	Mid1	Mid2	Lrfn4	Lrfn3	Obscn	Axl	Lrit3	Lrit2	Lrfn2	Lrfn1	Cntn2	Rimbp3	Cntn3	Cntn4	Col20a1	Cntn5	Rimbp2	Il6st	Cntn1	Csf3r	Tnxb	Mpl	Tnc	Tnn	Tnr	Tspoap1	Dscam	Il12rb2	Il12rb1	Sdk1	Sdk2	Ankfn1	Col6a3	Ifnar1	Ifnar2	Il7r	Myom1	Myom2	Il5ra	Lrit1	Csf2ra	Csf2rb2	Myom3	Igf1r	Lepr	Ros1	Il6ra	Il13ra1	Trim67	Il13ra2	Ifnlr1	Ush2a	Mertk	Il9r	Mdga2	Col14a1	Ncam1	Fsd1l	Ghr	Boc	Ncam2	D130043K22Rik	Trim46	Atf7ip	Dcc	Trim42	Tie1	Fndc3a	Fndc3b	Sorl1	Pomgnt2	Epor	Nphs1	Nfasc	Igdcc3	Il2rb	Igdcc4	Trim36	Tyro3	Umodl1	Sned1	Ephb6	Mdga1	Itgb4	Ttn	Ptprz1	Mybphl	Speg	Ephb1	Nrcam	Neo1	Ephb3	Ephb2	Ephb4
+Flavodoxin/nitric oxide synthase	InterPro_Domains_2019	Mtrr	Por	Nos3	Tyw1	Nos1	Nos2	Ndor1
+Flavoprotein pyridine nucleotide cytochrome reductase	InterPro_Domains_2019	Cyb5r3	Cyb5r2	Mtrr	Por	Nos3	Nos1	Nos2	Ndor1	Cyb5r1
+Flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain	InterPro_Domains_2019	Cyb5r3	Cyb5r2	Cyb5r4	Cyb5rl	Cyb5r1
+Folate receptor-like	InterPro_Domains_2019	Rtbdn	Hhip	Hhipl2	Izumo1r	Folr2	Folr1	Hhipl1
+Follistatin-like, N-terminal	InterPro_Domains_2019	Sparc	Fst	Slit2	Slit1	Fstl1	Sparcl1	Fstl3	Agrn
+Follistatin/Osteonectin EGF domain	InterPro_Domains_2019	Sparc	Fst	Sparcl1	Fstl1	Fstl3
+Fork head domain	InterPro_Domains_2019	Foxd4	Foxd3	Foxd2	Foxd1	Foxh1	Foxl2	Foxl1	Foxp4	Foxp3	Foxp2	Foxp1	Foxc2	Foxc1	Foxg1	Foxk2	Foxo6	Foxk1	Foxo4	Foxo3	Foxo1	Foxs1	Foxb2	Foxb1	Foxf2	Foxf1	Foxj3	Foxj2	Foxj1	Foxn4	Foxn3	Foxn2	Foxn1	Foxr2	Foxr1	Foxa3	Foxa2	Foxa1	Foxe3	Foxe1	Foxi3	Foxi2	Foxi1	Foxm1	Foxq1
+Forkhead-associated (FHA) domain	InterPro_Domains_2019	Tcf19	Mcrs1	Phf12	Aptx	Chfr	Afdn	Aplf	Slmap	Aggf1	Mdc1	Slc4a1ap	Phldb1	Tifa	Kif14	Foxk2	Mki67	Rnf8	Foxk1	Tifab	Kif1a	Ppp1r8	Kif13a	Chek2	Fhad1	Kif13b	Snip1	Nbn	Kif1c	Cep170b	Kif1b	Cep170
+Formin, FH2 domain	InterPro_Domains_2019	Fhod1	Fhod3	Fmn1	Fmn2	Diaph1	Diaph2	Diaph3	Inf2	Fmnl2	Fhdc1	Fmnl3	Daam2	Fmnl1	Daam1	Grid2ip
+Formin, FH3 domain	InterPro_Domains_2019	Diaph1	Diaph2	Diaph3	Inf2	Fmnl2	Fmnl3	Daam2	Fmnl1	Daam1
+Formin, GTPase-binding domain	InterPro_Domains_2019	Diaph1	Diaph2	Diaph3	Inf2	Fmnl2	Fmnl3	Daam2	Fmnl1	Daam1
+Frizzled domain	InterPro_Domains_2019	Col18a1	Fzd2	Fzd1	Fzd4	Fzd3	Fzd6	Fzd5	Fzd8	Fzd7	Fzd9	Fzd10	Cpz	Sfrp1	Sfrp4	Sfrp5	Sfrp2	Mfrp	Frzb	Smo	Ror2	Musk	Ror1	Corin
+Frizzled/Smoothened, transmembrane domain	InterPro_Domains_2019	Fzd2	Fzd1	Fzd4	Fzd3	Fzd6	Fzd5	Smo	Fzd8	Fzd7	Fzd9	Fzd10
+Fucosyltransferase, N-terminal	InterPro_Domains_2019	Fut7	Fut10	Fut9	Fut11	Fut4
+Furin-like cysteine-rich domain	InterPro_Domains_2019	Insr	Erbb4	Insrr	Erbb2	Erbb3	Egfr	Igf1r
+G-patch domain	InterPro_Domains_2019	Rbm17	Zgpat	Gpkow	Tfip11	Cherp	Gpatch11	Son	Gpank1	Sugp1	Aggf1	Sugp2	Pinx1	Gpatch3	Gpatch2	Gpatch4	Gpatch8	Rbm5	Nkrf	Gpatch1	Rbm10	Cmtr1	Rbm6
+G-protein gamma-like domain	InterPro_Domains_2019	Gng13	Gng12	Gng2	Gngt2	Rgs6	Gngt1	Gng11	Gng4	Gng3	Gng10	Gng5	Gng8	Gng7	Rgs11	Rgs9	Rgs7
+G-protein, beta subunit	InterPro_Domains_2019	Chaf1b	Gnb1	Gnb3	Gnb2	Gnb5	Gnb4	Nle1
+GAF domain	InterPro_Domains_2019	Pde10a	Pde2a	Pde6c	Pde6b	Pde5a	Pde6a	Pde11a
+GAGE	InterPro_Domains_2019	Piwil1
+GAIN domain, N-terminal	InterPro_Domains_2019	Celsr1	Adgrb3	Adgrb1	Adgrb2	Adgrl1	Adgrl2	Celsr2	Celsr3	Adgrl3	Adgrl4
+GAR domain	InterPro_Domains_2019	Macf1	Dst	Gas2	Gas2l2	Gas2l3	Gas2l1
+GAT domain	InterPro_Domains_2019	Gga3	Tom1l2	Gga2	Tom1l1	Tom1	Gga1
+GB1/RHD3-type guanine nucleotide-binding (G) domain	InterPro_Domains_2019	Gbp6	Atl2	Atl3	Atl1	Gbp2	Gbp5	Rnf112	Gbp7
+GCC2, Rab binding domain	InterPro_Domains_2019	Gcc2
+GDNF/GAS1	InterPro_Domains_2019	Gfral	Gas1	Gfra2	Gfra1	Gfra4	Gfra3
+GHMP kinase N-terminal domain	InterPro_Domains_2019	Mvk	Galk1	Mvd	Galk2
+GNAT domain	InterPro_Domains_2019	Naa40	Naa50	Naa20	Naa30	Nat8f2	Naa10	Elp3	Nat14	Sat1	Naa80	Sat2	Naa60	Aanat	Kat2b	Kat2a	Nat9	Nat10	Gnpnat1	Satl1	Nat8l	Kat14
+GOLD domain	InterPro_Domains_2019	Tmed10	Tmed9	Sec14l3	Sec14l4	Sec14l1	Fyco1	Sec14l2	Sec14l5	Tmed4	Tmed3	Tmed2	Tmed1	Tmed8	Tmed7	Acbd3	Tmed6	Tmed5
+GPCR family 3, C-terminal	InterPro_Domains_2019	Gabbr2	Casr	Gabbr1	Grm2	Grm1	Gprc5a	Grm4	Grm3	Gprc6a	Gprc5c	Grm6	Gprc5b	Grm5	Grm8	Grm7	Tas1r1	Tas1r3	Tas1r2	Gpr179	Gprc5d	Gpr156	Gpr158
+GPCR, family 2, extracellular hormone receptor domain	InterPro_Domains_2019	Glp2r	Gcgr	Sctr	Pth2r	Adgrf3	Adgrb3	Adgrb1	Adgrb2	Adgrl1	Adgrl2	Adgrl3	Crhr1	Gipr	Vipr2	Calcrl	Celsr1	Vipr1	Glp1r	Pth1r	Celsr2	Celsr3	Adcyap1r1	Crhr2	Ghrhr	Calcr	Adgra2	Adgra3
+GPCR, family 2-like	InterPro_Domains_2019	Adgrd1	Adgrl1	Adgrl2	Adgrl3	Adgrl4	Gipr	Vipr2	Celsr1	Vipr1	Glp1r	Pth1r	Fzd10	Celsr2	Celsr3	Adgre1	Adgra2	Adgra3	Adgra1	Gpr157	Fzd2	Fzd1	Fzd4	Adgrv1	Fzd3	Fzd6	Fzd5	Glp2r	Fzd8	Fzd7	Gcgr	Fzd9	Sctr	Pth2r	Adgrf3	Adgrf4	Adgrf1	Adgrb3	Smo	Adgrb1	Adgrf5	Adgrb2	Crhr1	Calcrl	Adcyap1r1	Crhr2	Ghrhr	Adgrg4	Adgrg5	Adgrg2	Calcr	Adgrg3	Adgrg6	Adgrg7	Adgrg1
+GPCR, family 3, nine cysteines domain	InterPro_Domains_2019	Casr	Grm2	Grm1	Grm4	Gprc6a	Grm3	Grm6	Grm5	Grm8	Grm7	Tas1r1	Tas1r3	Tas1r2
+GPCR, rhodopsin-like, 7TM	InterPro_Domains_2019	Trhr	Or11g1	Taar9	Or2l5	Taar8a	Or1j4	Taar5	Or4p4	Or1j1	Taar1	Taar2	Gpr160	Mrgprd	Gpr162	Or4k15c	Gpr161	Agtr2	Agtr1b	Or13j1	C3ar1	Mrgprg	Or2k2	Or1i2	Mrgpre	Mrgprf	Or6s1	Gpr153	Or5m11b	Gpr152	Or5m10b	Or2i1	Gpr151	Or10d3	Gpr157	Or8b12c	Or10c1	Or4n5	Or2j3	Or4n4b	Or5p80	Or5p72	Gpr182	Gpr183	Or13ae2	Or14j1	Or7a36	Or4m1	Rxfp1	Htr6	Grpr	Rxfp2	Htr4	Rxfp4	Or8u8	Gpr174	Htr7	Gpr176	Gpr171	Galr3	Gpr173	Galr2	Galr1	Or56b1	Cmklr1	Or56b35	Gpr17	Gpr18	Gpr15	Or9a7	Gpr12	Tacr3	Tacr1	Tacr2	Or1n2	Or1n1	Or5v1b	Or6x1	Or52a5b	Vmn1r233	Gpr19	Or10h1b	Gpr26	Gpr27	Or10h28	Gpr25	Gpr22	Fpr-rs6	Gpr20	Fpr1	Gpr21	Or1m1	Or4s2	Or2ag13	Opn1mw	Or2ag2	Gpr119	Npsr1	Gpr39	P2ry13	P2ry14	Gpr37	P2ry12	Gpr35	Or10g3	Or10g1	Gpr33	Or10g9	Gpr34	Gpr31b	Gpr3	Gpr4	P2ry10	Gpr6	Or5t9	Gpr142	Or5t15	Gpr141	Gpr149	Or10g6	Gpr146	Rgr	Lgr5	Lgr4	Ptafr	Gpr45	Or11h4	Ffar3	Or4q3	Gpr139	Or11h23	Rho	Or11h6	Or14p1	Gpr135	Gpr55	Or5as1	Gpr52	Gpr50	Or2t44	Or2t6	Or13c25	Or2t29	Or51t4	Or13c7b	Mtnr1b	Or2t35	Mtnr1a	Or2t1	Or2l13b	Or4x18	Or4x5-ps1	Or9a4	Ltb4r2	Or9a2	Or13c3	Chrm3	Chrm4	Or8g2	Chrm1	Chrm2	Gpr68	Or5ar1	Chrm5	Gpr65	Gpr62	Gpr63	Gpr61	Or1q1	Cysltr1	Or51s1	Or4a47	Adora3	Or14n1-ps1	Adora1	F2r	Or5b21	Gpr75	Adra2c	Adra2b	Adra2a	Or1p4-ps1	Or13a1	Gpr101	Or7e177	Gpr88	Gpr87	Gpr85	Gpr82	Gpr83	Or8w1	Or51q1	Or6p1	Or5ap2	Or5b12b	Or6c217	Htr1f	Or6c76	Avpr2	Or6c75	Or13g1	Or6c74	Htr1b	Htr1a	Adora2b	Adora2a	Or10a49	Or10a2	Or56a5	Or10a4	Or56a3b	Or6c65	Or13f5	Htr2c	Htr2a	Adra1d	Htr2b	Adra1b	Adra1a	P2ry6	Tbxa2r	P2ry4	Or2w3	Or8b8	Or2w1	P2ry2	P2ry1	Or8b4	Or6c68	Or8b3	Drd1	Or12d17	Drd2	Drd3	Drd4	Drd5	Prlhr	Or5au1	Lhcgr	Hcrtr1	Hcrtr2	Or51v14	Or2v2	Or2v1	Or11a4	Or8a1	Cx3cr1	Ednra	Or52w1	Ednrb	Or1s2	Or13d1	Or8h8	Or56b2	Or52m1	Gpr37l1	Htr5a	Lpar6	Or10v1	Or4c10b	Or4c12	Or6c6c	Or4c11c	Or2at4	Or4c29	Or8g17	Or5a21	Or6c3	Or5a1	Or4c121	Or5ak25	Or6c2	Or6c1b	Or9i1b	Rrh	Or52l1	Ntsr1	Or7d9	Or6b2b	Or2a25	Or6b1	Ptgdr	Ntsr2	Xcr1	Avpr1a	Nmbr	Avpr1b	Or51i2	Or51i1	Or52k2	Mc1r	Cckbr	Or2a12	Or4d11	Or4d10	Or6a2	Or7c70	Or9g4b	Or2a56	Or9g20	Ptgfr	Npffr1	Oxtr	Npffr2	Or52j3	Lpar2	Lpar3	Lpar4	Lpar5	Lpar1	Or10s1	Ffar4	Or2y1c	Or8d4	Ffar2	Or8d2b	Or8d23	Ccr10	Ccr2	Or4d2	Ccr1	Or4d1	Ffar1	Gpbar1	Mc3r	Or10z1	Or52r1	Fshr	Or4a15	Or4c102	Or4c35	Or4a74	Or14a256	Or4c3	Or3a1b	Or8k18	Oprd1	Tas2r131	Or8k24	Ptgdr2	Or8k1	Adrb1	Adrb2	Adrb3	Brs3	Mc2r	Cckar	Or4c127	Ccr9	Gnrhr	Ccr8	Or5an1	Ccr7	Ccr6	Ccr5	Oxgr1	Ccr4	Ccr3	Or4b13	Or8j3	Or6f1	Or51m1	Mas1	Or10x1	Mc5r	F2rl1	Or4a78	F2rl2	F2rl3	Or5c1	Or7g12	Or7g32	Or7g31	Or8i2	Or9k2	Ptger1	Ptger2	Or2a51	Ptger3	Ptger4	Or51l1-ps1	Cxcr6	Or52n2c	Cxcr5	Or52n1	Or52n5	Or52n4	Or10w1	Or5d35	Cxcr2	Cxcr4	Mc4r	Cxcr3	Or5al1	Or5d16	Or5b105	Or5b99	Or5d14	Or2d36	Or1b1	Or2d2	Or52e5	Or52e4	Or5j3	Npy1r	Or52e2	Or5ac20	Aplnr	Or52e8b	Or1a1	Or6k6	Or2c1	Sucnr1	Or6k2	Or5i1	Or52d1	Or9q2	Or9q1	Prokr2	Or2ak7	Ccrl2	S1pr2	Kiss1r	Or51b6	S1pr1	S1pr4	S1pr3	Or51b4	Or2b6	S1pr5	Ghsr	Or5h26	Or4f6	Opn3	Or4f4-ps1	Or4f7	Opn5	Opn4	Or10k2	Or2aj5	Nmur2	Or2a7	Nmur1	Or2a5	Or51a7	Or2a52	Or5g25	Or4e2	Or4e1	Or10j3	Or52b2	C5ar1	Or10j5	C5ar2	Mchr1	Or11l3	Hcar2	Hcar1	Or52b6-ps1	Or52b4	Or4d6	Or4d5	Or51g2	Or52i2	Or51g1	Npy5r	Mrgprb1	Or1f19	Or2h1	Or10q1b	Sstr1	Or4l15	Oprm1	Sstr2	Sstr3	Or6y1	Sstr4	Sstr5	Or2b11	Or6c8	Opn1sw	Or51f2	Tas2r130	Or51f1e	Or5m9	Or52h1	Or5m8	Npy4r	Or4k5	Or5m3	Or4k2	Or4k1	Or10ag55-ps1	Oprl1	Or10p1	Or8s16	Hrh2	Hrh1	Hrh4	Npbwr1	Hrh3	Bdkrb1	Gper1	Bdkrb2	Qrfpr	Or51e2	Or51e1	Or1d2	Ptgir	Or2f2	Or5l14	Oprk1	Or10ad1b	Or6n2	Or6n1	Tshr	Or4f15	Ackr4	Ackr3	Ackr2	Or51d1	Or5k15	Npy2r	Or5k14	Or5k1	Cnr2	Cnr1
+GPS motif	InterPro_Domains_2019	Adgrv1	Pkdrej	Adgrd1	Adgrf3	Adgrf4	Adgrf1	Adgrb3	Adgrb1	Adgrf5	Adgrb2	Adgrl1	Adgrl2	Adgrl3	Adgrl4	Pkd1	Celsr1	Pkd1l2	Pkd1l3	Celsr2	Celsr3	Adgrg4	Adgrg5	Adgrg2	Adgrg3	Adgre1	Adgra2	Adgra3	Adgrg6	Adgrg7	Adgrg1
+GRAM domain	InterPro_Domains_2019	Mtmr1	Gramd1c	Mtmr2	Gramd1b	Tbc1d9b	Gramd1a	Gramd2b	Tbc1d8b	Wbp2	Gramd2a	Tbc1d9	Gramd4	Mtm1	Wbp2nl	Tbc1d8	Sbf2	Nsmaf	Sbf1
+GRIP domain	InterPro_Domains_2019	Golga4	Golga1	Gcc1	Trip11	Gcc2
+GS domain	InterPro_Domains_2019	Acvr1	Acvrl1	Acvr1c	Tgfbr1	Acvr1b	Bmpr1a	Bmpr1b
+GTP binding domain	InterPro_Domains_2019	Urgcp	Gtpbp6	Ola1	Eral1	Gnl1	Gtpbp8	Gnl3	Gtpbp3	Gnl2	Gtpbp4	Gnl3l	Ifi44l	Lsg1	Mtg1	Noa1	Mtg2	Drg1	Gtpbp10	Drg2
+GTPase effector domain	InterPro_Domains_2019	Mx2	Dnm1	Dnm2	Dnm1l	Dnm3
+Galactosyltransferase, C-terminal	InterPro_Domains_2019	B4galt3	B4galt4	B4galt1	B4galt2	B4galt7	B4galt5	B4galt6
+Galactosyltransferase, N-terminal	InterPro_Domains_2019	B4galt3	B4galt4	B4galt1	B4galt2	B4galt7	B4galt5	B4galt6
+Galectin, carbohydrate recognition domain	InterPro_Domains_2019	Grifin	Lgals9	Lgalsl	Lgals7	Lgals4	Lgals3	Lgals2	Lgals12	Lgals1	Lgals8
+Gamma tubulin complex component, C-terminal	InterPro_Domains_2019	Tubgcp2	Tubgcp3	Tubgcp6	Tubgcp4	Tubgcp5
+Gamma-adaptin ear (GAE) domain	InterPro_Domains_2019	Gga3	Gga2	Ap1g1	Ap1g2	Gga1
+Gamma-carboxyglutamic acid-rich (GLA) domain	InterPro_Domains_2019	F10	Pros1	Proz	F2	F7	Prrg4	F9	Prrg1	Mgp	Bglap2	Prrg3	Prrg2	Gas6
+Gap junction protein, cysteine-rich domain	InterPro_Domains_2019	Gje1	Gjc2	Gjb1	Gjd3	Gjd2	Gjc1	Gjb3	Gja1	Gjd4	Gjc3	Gjb2	Gja4	Gjb5	Gja3	Gjb4	Gjb6	Gja10	Gja5	Gja8
+Gasdermin, pore forming domain	InterPro_Domains_2019	Gsdme	Gsdmd	Gsdmc2	Gsdma3	Pjvk
+Gelsolin-like domain	InterPro_Domains_2019	Gsn	Sec24a	Sec24c	Svil	Sec23b	Sec24b	Sec23a	Flii	Avil	Capg	Scin	Vill	Sec24d	Vil1
+Globin	InterPro_Domains_2019	Hbb-y	Hba-a1	Ngb	Cygb	Mb	Hbq1b	Hba-x
+Glucagon/GIP/secretin/VIP	InterPro_Domains_2019	Adcyap1	Sct	Ghrh	Gcg	Gip	Vip
+Glutamine amidotransferase	InterPro_Domains_2019	Pfas	Cad	Cps1	Gmps	Ctps2	Ctps1
+Glutamine amidotransferase type 2 domain	InterPro_Domains_2019	Asnsd1	Gfpt1	Ppat	Gfpt2	Asns
+Glutaredoxin	InterPro_Domains_2019	Grxcr1	Ptges2	Glrx5	Txnrd3	Txnrd1	Sh3bgrl3	Glrx3	Glrx
+Glutathione S-transferase, C-terminal	InterPro_Domains_2019	Gstm4	Gstm5	Gstm7	Gstm6	Gsto1	Gstp1	Gstt4	Gstt2	Aimp2	Gstz1	Hpgds	Gsta3	Eef1g	Eef1e1
+Glutathione S-transferase, C-terminal-like	InterPro_Domains_2019	Gstm4	Gstm5	Gstm7	Ptges2	Gstm6	Gsto2	Gsto1	Gdap1	Gstz1	Gsta3	Eef1g	Eef1e1	Clic6	Clic5	Clic4	Gstp1	Gstcd	Gstt4	Gstt2	Hpgds	Gdap1l1	Clic3	Clic1
+Glutathione S-transferase, N-terminal	InterPro_Domains_2019	Gstm4	Gstm5	Gstm7	Ptges2	Gstm6	Gsto2	Gsto1	Gdap1	Gstz1	Gsta3	Eef1g	Clic5	Gstp1	Gstt4	Gstt2	Hpgds	Gdap1l1	Clic3	Clic1
+Glycerophosphodiester phosphodiesterase domain	InterPro_Domains_2019	Gdpd1	Gdpd2	Gde1	Gdpd3	Gdpd4	Gdpd5	Gpcpd1
+Glycine N-acyltransferase, C-terminal	InterPro_Domains_2019	Glyatl3	Glyat
+Glycine N-acyltransferase, N-terminal	InterPro_Domains_2019	Glyatl3	Glyat
+Glycolipid transfer protein domain	InterPro_Domains_2019	Gltpd2	Gltp	Cptp	Plekha8
+Glycoprotein hormone subunit beta	InterPro_Domains_2019	Fshb	Ndp	Ccn3	Gphb5	Tshb
+Glycoside hydrolase family 18, catalytic domain	InterPro_Domains_2019	Chid1	Ovgp1	Chit1	Chia1	Ctbs	Chi3l1
+Glycoside hydrolase family 38, N-terminal domain	InterPro_Domains_2019	Man2a2	Man2c1	Man2a1	Man2b2	Man2b1
+Glycoside hydrolase family 38, central domain	InterPro_Domains_2019	Man2a2	Man2c1	Man2a1	Man2b2	Man2b1
+Glycosyl hydrolase family 38, C-terminal	InterPro_Domains_2019	Man2a2	Man2c1	Man2a1	Man2b2	Man2b1
+Glycosyl hydrolase, family 13, catalytic domain	InterPro_Domains_2019	Gbe1	Slc3a1	Slc3a2
+Glycosyl transferase 64 domain	InterPro_Domains_2019	Extl1	Ext2	Extl3	Extl2	Ext1
+Glycosyl transferase, family 1	InterPro_Domains_2019	Glt1d1	Piga	Alg1	Gtdc1	Alg2	Alg11
+Glycosyltransferase 2-like	InterPro_Domains_2019	Galnt7	Galnt6	Galnt5	Galnt4	Galnt3	Galnt2	Alg5	Galnt1	Dpm1	Galntl6	Galntl5	Galnt13	Galnt12	Galnt15	Galnt14	Galnt17	Galnt16	Galnt18	Galnt11	Galnt10	B3gntl1	B4galnt2	B4galnt1	Galnt9
+Groucho/TLE, N-terminal Q-rich domain	InterPro_Domains_2019	Tle4	Tle3	Tle2	Tle1
+Growth factor receptor domain 4	InterPro_Domains_2019	Erbb4	Erbb2	Erbb3	Pcsk6	Egfr	Pcsk5
+Growth hormone/erythropoietin receptor, ligand binding	InterPro_Domains_2019	Crlf1	Ghr	Prlr	Mpl	Epor
+Guanylate kinase-like domain	InterPro_Domains_2019	Mpp2	Magi2	Magi1	Mpp3	Mpp4	Lrguk	Mpp1	Magi3	Cask	Mpp7	Tjp2	Tjp1	Dlg1	Dlg2	Guk1	Dlg3	Dlg4	Dlg5	Card14	Tjp3
+Guanylate kinase/L-type calcium channel beta subunit	InterPro_Domains_2019	Mpp2	Magi2	Magi1	Mpp3	Mpp4	Mpp1	Magi3	Cask	Mpp7	Tjp2	Cacnb2	Tjp1	Cacnb3	Dlg1	Dlg2	Cacnb4	Dlg3	Dlg4	Dlg5	Card14	Cacnb1	Tjp3	Lrguk	Guk1
+Guanylate-binding protein, C-terminal	InterPro_Domains_2019	Gbp6	Gbp2	Gbp5	Gbp7
+Guanylate-binding protein, N-terminal	InterPro_Domains_2019	Gbp6	Atl2	Atl3	Atl1	Gbp2	Gbp5	Rnf112	Gbp7
+Guanylate-binding protein/Atlastin, C-terminal	InterPro_Domains_2019	Gbp6	Atl2	Atl3	Gbp2	Gbp5	Gbp7
+HAT, C-terminal dimerisation domain	InterPro_Domains_2019	Zmym1	Zbed6	Zbed4	Thap12
+HD/PDEase domain	InterPro_Domains_2019	Hddc2	Hddc3	Pde1c	Pde1b	Pde4d	Pde1a	Pde11a	Samhd1	Pde10a	Pde4c	Pde2a	Pde3b	Pde3a	Pde4b	Pde6c	Pde4a	Pde6b	Pde5a	Pde7b	Pde6a	Pde7a	Pde8b	Pde8a	Pde9a
+HDGF-related, PWWP domain	InterPro_Domains_2019	Hdgfl1	Psip1	Hdgf	Hdgfl2	Hdgfl3
+HECT domain	InterPro_Domains_2019	Hace1	Arel1	Smurf2	Smurf1	Wwp1	Wwp2	Huwe1	Itch	Nedd4	Hecw2	Trip12	G2e3	Ubr5	Hecw1	Nedd4l	Ube3a	Ube3b	Ube3c	Herc6	Hectd1	Herc4	Herc3	Hectd2	Herc2	Hectd3	Hectd4	Herc1
+HELP	InterPro_Domains_2019	Eml5	Eml6	Eml1	Eml2	Eml3	Eml4
+HIT-like domain	InterPro_Domains_2019	Hint1	Hint2	Hint3	Fhit	Aptx
+HR1 rho-binding domain	InterPro_Domains_2019	Rtkn	Rtkn2	Rhpn2	Pkn1	Rhpn1	Pkn3	Pkn2
+HSR domain	InterPro_Domains_2019	Aire	Sp110	Sp100
+HTH CenpB-type DNA-binding domain	InterPro_Domains_2019	Tigd4	Tigd3	Jrk	Tigd5	Pogk	Jrkl	Cenpb	Pogz	Tigd2
+Haem NO binding associated	InterPro_Domains_2019	Gucy2e	Gucy1a2	Gucy2f	Gucy1a1	Gucy1b1
+Heat shock chaperonin-binding	InterPro_Domains_2019	Stip1	St13	Ubqln2	Ubqln1	Rad23b	Rad23a	Ubac1	Ubqln4	Ubqln3
+Heat shock factor (HSF)-type, DNA-binding	InterPro_Domains_2019	Hsf1	Hsf2	Hsf5	Hsf4	Hsfy2
+Heat shock protein Hsp90, N-terminal	InterPro_Domains_2019	Hsp90aa1	Hsp90ab1	Trap1	Hsp90b1
+Helicase superfamily 1/2, ATP-binding domain	InterPro_Domains_2019	Hfm1	Smarca1	Dicer1	Recql	Smarca2	Smarca4	Smarca5	Dhx40	Ddx39a	Ddx39b	Smarcal1	Rad54b	Dhx30	Dhx32	Dhx33	Dhx34	Dhx35	Rad54l	Dhx36	Dhx37	Dhx38	Ep400	Smarcad1	Ascc3	Helq	Zranb3	Ddx59	Fancm	Ddx56	Ino80	Ddx54	Ddx55	Tdrd9	Ddx52	Ddx50	Ddx51	Rad54l2	Dhx29	Snrnp200	Ddx6	Blm	Ddx5	Ddx4	Dqx1	Ddx1	Ttf2	Ddx60	Brip1	Dhx15	Dhx16	Shprh	Ddx31	Ddx19a	Ddx19b	D1Pas1	Ddx49	Ddx3y	Dhx8	Ddx47	Dhx9	Srcap	Ythdc2	Chd9	Ddx46	Chd8	Chd7	Ighmbp2	Chd6	Ddx41	Chd5	Chd4	Ddx42	Chd3	Chd2	Chd1	Hltf	Ddx18	Hells	Ddx17	Atrx	Polq	Chd1l	Ddx10	Ercc3	Ercc6	Eif4a3l2	Eif4a2	Eif4a1	Ddx27	Ercc6l	Ddx28	Ddx25	Ddx23	Ddx24	Ddx21	Ddx20	Btaf1	Recql5	Recql4	Ifih1	Wrn	Dhx57	Dhx58	Mtrex
+Helicase superfamily 1/2, ATP-binding domain, DinG/Rad3-type	InterPro_Domains_2019	Brip1	Ercc2	Ddx11	Rtel1
+Helicase, C-terminal	InterPro_Domains_2019	Hfm1	Smarca1	Dicer1	Recql	Smarca2	Smarca4	Smarca5	Dhx40	Ddx39a	Ddx39b	Smarcal1	Rad54b	Dhx30	Dhx33	Dhx34	Dhx35	Rad54l	Dhx36	Dhx37	Dhx38	Ep400	Smarcad1	Ascc3	Helq	Zranb3	Ddx59	Fancm	Ddx56	Ino80	Ddx54	Ddx55	Tdrd9	Ddx52	Ddx50	Ddx51	Supv3l1	Rad54l2	Dhx29	Snrnp200	Ddx6	Blm	Ddx5	Ddx4	Dqx1	Ddx1	Ttf2	Ddx60	Dhx15	Dhx16	Shprh	Ddx31	Ddx19a	Ddx19b	D1Pas1	Ddx49	Ddx3y	Dhx8	Ddx47	Dhx9	Srcap	Ythdc2	Chd9	Ddx46	Chd8	Chd7	Chd6	Ddx41	Chd5	Chd4	Ddx42	Chd3	Chd2	Chd1	Hltf	Ddx18	Hells	Ddx17	Atrx	Polq	Chd1l	Ddx10	Ercc3	Ercc6	Eif4a3l2	Eif4a2	Eif4a1	Ddx27	Ercc6l	Ddx28	Ddx25	Ddx23	Ddx24	Ddx21	Ddx20	Btaf1	Recql5	Recql4	Ifih1	Wrn	Dhx57	Dhx58	Mtrex
+Helicase-associated domain	InterPro_Domains_2019	Dhx8	Dhx9	Ythdc2	Dqx1	Tdrd9	Dhx40	Dhx30	Dhx32	Dhx33	Dhx34	Dhx57	Dhx35	Dhx36	Dhx15	Dhx37	Dhx38	Dhx16	Dhx29
+Helicase-like, DEXD box c2 type	InterPro_Domains_2019	Brip1	Ercc2	Ddx11	Rtel1
+Helicase/UvrB, N-terminal	InterPro_Domains_2019	Ifih1	Upf1	Fancm	Dhx58	Ercc3	Dicer1
+Hemopexin-like domain	InterPro_Domains_2019	Mmp8	Mmp1a	Mmp2	Mmp3	Prg4	Mmp9	Mmp20	Hpx	Mmp11	Vtn	Mmp21	Mmp24	Mmp13	Mmp12	Mmp15	Mmp14	Mmp25	Mmp28	Mmp17	Mmp16	Mmp27	Mmp19
+Hexokinase, C-terminal	InterPro_Domains_2019	Hkdc1	Hk1	Hk3	Gck	Hk2
+Hexokinase, N-terminal	InterPro_Domains_2019	Hkdc1	Hk1	Hk3	Gck	Hk2
+High mobility group box domain	InterPro_Domains_2019	Smarce1	Sox14	Sox15	Sox12	Sox13	Sox10	Sox11	Wdhd1	Tox4	Tox3	Tox2	Tfam	Lef1	Hmgb4	Hmgb2	Nsd2	Bbx	Hmgxb4	Hmgxb3	Cic	Pms1	Tcf7l2	Tcf7l1	Pbrm1	Ssrp1	Sox30	Ubtfl1	Tcf7	Hbp1	Tox	Kmt2d	Kmt2c	Sox21	Sox3	Sox4	Sox1	Sox2	Sox18	Sox17	Sry	Mael	Ubtf	Hmg20b	Sox9	Hmg20a	Sox7	Sox8	Sox5	Sox6
+Histidine kinase domain	InterPro_Domains_2019	Bckdk	Pdk4	Pdk1	Pdk3	Pdk2
+Histidine kinase/HSP90-like ATPase	InterPro_Domains_2019	Morc4	Mlh1	Hsp90aa1	Trap1	Mlh3	Bckdk	Top2b	Hsp90ab1	Top2a	Hsp90b1	Smchd1	Pdk4	Pdk1	Morc2b	Morc3	Pdk3	Pms2	Pdk2	Morc1	Pms1
+Histone H2A, C-terminal domain	InterPro_Domains_2019
+Histone H2A/H2B/H3	InterPro_Domains_2019	Sos2	Sos1	Cenpa
+Histone acetyltransferase domain, MYST-type	InterPro_Domains_2019	Kat5	Kat6b	Kat6a	Kat8	Kat7
+Histone deacetylase domain	InterPro_Domains_2019	Hdac5	Hdac6	Hdac3	Hdac4	Hdac11	Hdac1	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8
+Homeobox KN domain	InterPro_Domains_2019	Irx2	Tgif2	Homez	Irx3	Tgif1	Irx1	Irx6	Irx4	Irx5	Meis3	Meis2	Meis1	Tgif2lx2	Mkx	Pknox2	Pknox1
+Homeobox domain	InterPro_Domains_2019	Nkx2-9	Esx1	Isl1	Isl2	Nobox	Hoxb1	Satb1	Satb2	Rax	Hoxa9	Nkx2-2	Hoxa4	Nkx2-1	Hoxa3	Hoxa2	Hoxa1	Nkx2-6	Pknox2	Hoxa7	Nkx2-5	Pknox1	Nkx2-4	Drgx	Hoxa6	Hoxa5	Noto	Nkx2-3	Bsx	Pbx4	Pbx3	Hnf1b	Pbx2	Pbx1	Hnf1a	Tgif2lx2	Hoxb5	Hoxb4	Tshz1	Hoxb3	Nanog	Hoxb2	Hoxb9	Hoxb8	Vsx1	Hoxb7	Vsx2	Hoxb6	Hoxd3	Hoxd1	Tshz2	Arx	Tshz3	Dmbx1	Nkx3-1	Hoxc6	Alx4	Adnp2	Hesx1	Hoxc5	Hoxc4	Gsc2	Alx3	Hoxc9	Mnx1	Alx1	Hoxc8	Nkx3-2	Pou5f1	Zhx3	Pax4	Sebox	Pax7	Pax6	Zhx1	Isx	Zhx2	Pou6f1	Pax3	Phox2b	Pou6f2	Zeb1	Phox2a	Zeb2	Mkx	Hoxd4	Hmx1	Hmx3	Hoxd9	Hmx2	Hoxd8	Mixl1	Barhl2	Barhl1	Hoxc13	Meox2	Hoxc12	Hoxc11	Hoxc10	Meox1	Gsx2	Gsx1	En1	En2	Uncx	Vax1	Lbx2	Vax2	Lbx1	Pou5f2	Hoxd13	Hoxd12	Hoxd11	Hoxd10	Cux2	Cux1	Gsc	Nkx1-2	Hdx	Nkx1-1	Nkx6-3	Cdx4	Prrx2	Cdx2	Prrx1	Cdx1	Pou4f1	Pou4f2	Pou4f3	Otp	Hoxa13	Hoxa11	Hoxa10	Gbx1	Gbx2	Msx1	Pitx1	Msx2	Nkx6-2	Duxf3	Nkx6-1	Tgif2	Cers4	Cers5	Tgif1	Cers6	Pou3f1	Evx1	Evx2	Pou3f2	Pou3f3	Pou3f4	Hopx	Lhx4	Tlx3	Lhx3	Lhx2	Tlx2	Lhx1	Tlx1	Lhx8	Adnp	Lhx6	Lhx5	Cers2	Cers3	Lhx9	Homez	Duxbl1	Hoxb13	Emx1	Zfhx2	Emx2	Zfhx4	Pou2f1	Zfhx3	Pou2f2	Pou2f3	Meis3	Meis2	Meis1	Dlx1	Rhox13	Shox2	Dlx2	Dlx3	Dlx4	Onecut3	Dlx5	Dlx6	Onecut1	Onecut2	Hmbox1	Otx1	Otx2	Prop1	Irx2	Irx3	Pou1f1	Irx1	Irx6	Irx4	Irx5	Pdx1	Lmx1b	Lmx1a	Six1	Dbx2	Dbx1	Six2	Crx	Barx1	Barx2	Hlx	Six5	Six6	Six3	Six4
+Homeobox domain, metazoa	InterPro_Domains_2019	Emx1	Emx2	Nkx2-9	Nkx6-3	Cdx4	Cdx2	Cdx1	Hoxd4	Hmx1	Hmx3	Hoxd9	Hmx2	Hoxd8	Dlx1	Barhl2	Dlx2	Dlx3	Barhl1	Dlx4	Hoxb1	Dlx5	Dlx6	Meox2	Hoxc12	Hoxc11	Hoxc10	Hoxa11	Hoxa10	Meox1	Gbx1	Hoxa9	Gbx2	Nkx2-2	Hoxa4	Nkx2-1	Hoxa3	Hoxa2	Msx1	Msx2	Hoxa1	Nkx2-6	Nkx6-2	Hoxa7	Nkx2-5	Nkx6-1	Nkx2-4	Hoxa6	Hoxa5	Nkx2-3	Gsx2	Gsx1	En1	Bsx	Evx1	En2	Pdx1	Evx2	Vax2	Tlx3	Tlx2	Tlx1	Hoxb5	Hoxb4	Hoxb3	Hoxb2	Hoxb9	Hoxb8	Hoxb7	Hoxb6	Hoxd3	Hoxd1	Dbx2	Dbx1	Barx1	Hoxd12	Barx2	Hoxd11	Hoxd10	Hlx	Nkx3-1	Hoxc6	Nkx1-2	Hoxc5	Nkx1-1	Hoxc4	Hoxc9	Mnx1	Hoxc8	Nkx3-2
+Homeobox protein PKNOX/Meis, N-terminal	InterPro_Domains_2019	Meis2	Meis1	Pknox2	Pknox1	Meis3
+Homeobox protein SIX1, N-terminal SD domain	InterPro_Domains_2019	Six5	Six6	Six3	Six4	Six1	Six2
+Hotdog acyl-CoA thioesterase (ACOT)-type domain	InterPro_Domains_2019	Acot10	Acot11	Acot12	Acot7
+Hyaluronan/mRNA-binding protein	InterPro_Domains_2019	Serbp1	Habp4
+Hypoxia induced protein, domain	InterPro_Domains_2019	Higd1b	Higd1c	Higd2a	Higd1a
+IBR domain	InterPro_Domains_2019	Ankib1	Prkn	Cul9	Rnf14	Rnf31	Fbxo43	Rnf144b	Rnf144a	Rnf217	Rnf216	Rnf19b	Rnf19a	Arih1	Rbck1	Arih2
+ILEI/PANDER domain	InterPro_Domains_2019	Cemip	Fam3a	Fam3c	Fam3b	Cemip2	Fam3d	Pomgnt1
+IMD/I-BAR domain	InterPro_Domains_2019	Baiap2l1	Baiap2l2	Baiap2	Mtss1
+INTS6/SAGE1/DDX26B/CT45, C-terminal	InterPro_Domains_2019	Ct45a	Ints6	Ints6l
+IPT domain	InterPro_Domains_2019	Plxnc1	Ebf1	Ebf2	Nfatc4	Ebf3	Nfatc3	Nfatc2	Ebf4	Nfatc1	Nfkb1	Nfkb2	Rel	Plxnb3	Plxnb2	Met	Pkhd1l1	Plxnb1	Exoc2	Rela	Nfat5	Plxnd1	Mst1r	Relb	Pkhd1	Camta1	Plxna3	Camta2	Plxna2	Plxna1	Plxna4
+IRS-type PTB domain	InterPro_Domains_2019	Dok1	Dok2	Dok3	Dok4	Irs1	Dok5	Irs2	Dok6	Dok7	Frs3	Frs2	Irs4
+Immunoglobulin	InterPro_Domains_2019	Pdgfrb	Il1r2	Sema4d	Lilra5	Vcam1	Mertk	Cd4	Mfap3	Siglecf	Cd200	Ptprm	Thy1	Kir3dl2	Boc	Chl1	Ceacam15	Emb	Kdr	Iglon5	Igha	Gm1123	Ntrk3	Mcam	Tie1	Nfasc	Kit	Il1rapl2	Fgfr1	Il1rapl1	Igsf1	Csf1r	Flt1	Flt3	Sema3e	Sema3b	Amigo2	Ntm	Sema3g	Ager	Vsig10	Myom3	Cd79a	Fcgr1	Btla	Il6ra
+Immunoglobulin C1-set	InterPro_Domains_2019	Btnl2	Tapbp	Azgp1	H2-Ab1	H2-Ea	Ighe	Hfe	Gm5150	Trbc1	Igkc	Trdc	B2m	H2-Ob	Igha	Mill1	H2-Oa	H2-Eb2	Iglc3	2410137M14Rik	Mr1	H2-T24	Ighm	Cd276	Tapbpl	Cd1d1	Trgv6	Fcgrt	H2-DMb1	H2-DMa
+Immunoglobulin I-set	InterPro_Domains_2019	Cdon	Pdgfrb	Pdgfra	Kirrel2	Kirrel3	Cntn6	Kirrel1	Lrrn3	Vcam1	L1cam	Lrfn4	Lrfn3	Obscn	Lrfn5	Lrfn2	Lrfn1	Cntn2	Cntn3	Ror2	Lrrn2	Cntn4	Cntn5	Lrrn1	Alpk3	Alpk2	Obsl1	Ror1	Cntn1	Nexn	Prtg	Adgra3	Kdr	Hmcn1	Musk	Dscam	Hmcn2	Ptk7	Igsf10	Sdk1	Sdk2	Hspg2	Fgfr1	Fgfr4	Fgfr3	Fgfr2	Myom1	Myom2	Trio	Ntm	Lrit1	Islr	Myom3	Mylk	Igfbp7	Mfap3l	Lrrc4b	Lrrc4c	Lingo3	Lingo2	Mybpc2	Lingo4	Mybpc3	Siglecg	Lsamp	Nrg1	Nrg2	Igfn1	Mybpc1	Lingo1	Ptprf	Ptprd	Siglec1	Myot	Pxdn	Tmigd1	Mdga2	Siglecf	Igsf9	Ptprs	Wfikkn2	Ncam1	Lrrc4	Ptprk	Kalrn	Boc	Chl1	Emb	Ncam2	Opcml	Ntrk2	Ntrk3	Dcc	Unc5b	Unc5c	Negr1	Unc5a	Unc5d	Kazald1	Mybph	Nfasc	Palld	Igdcc3	Igdcc4	Tyro3	Dscaml1	Cd101	Robo3	Amigo1	Robo4	Flt1	Flt4	Papln	Sema3c	Ttn	Fgfrl1	Robo1	Robo2	Il1rl1	Adamtsl1	Igfbpl1	Adamtsl3	Mybphl	Lrig2	Speg	Lrig1	Nrcam	Lrig3	Neo1
+Immunoglobulin V-set domain	InterPro_Domains_2019	Cadm4	Cadm2	Cadm3	Cadm1	Ighv7-3	Cd2	Fcamr	Cd4	Cd7	Igkv5-37	Ighv8-8	Vpreb3	Igkv15-103	Vpreb1b	Mcam	Ighv15-2	Bcan	Hspg2	Bcam	Treml4	Tapbpl	F11r	Alcam	Siglec1	Siglece	Trav6d-5	Trav6d-6	Siglecf	Thy1	Ctla4	Havcr2	Timd2	Icos	Dscaml1	Trav17	Ncan	Pigr	Trbv15	Vsir	Gpa33	Btn1a1	Obscn	Pdcd1	Vtcn1	Ceacam15	Jam2	Jam3	Btn2a2	Cd8b1	Igsf10	Igsf11	Esam	Igkv18-36	Cd276	Cd274	Lrrc4c	Trbv30	Vstm2l	Vstm2b	Vstm2a	Trem1	Trem2	Cd300lb	Cd300a	Cd300lf	Cd300lg	Ceacam19	Nectin1	Cd226	Nectin4	Nectin3	Cd101	Nectin2	Flt1	Ttn	Tigit	Trdv2-2	Vstm4	Trdv5	Trav15n-1	Trav7-4	Igkv17-121	Mxra8	Cd200	Hmcn1	Ptgfrn	Slamf7	Hmcn2	Slamf6	Ly6g6f	Trav10	Igsf9b	Igkv8-28	Scn2b	Igkv2-109	Hepacam	Gm20730	Cd79b	Ermap	Scn1b	Siglec15	Btnl12	Siglecg	Trav1	Cd28	Igsf8	Ighv9-4	Igsf6	Igsf3	Igsf21	Trbv31	Mpzl1	Mpzl2	Mpzl3	Trgv7	Trgv6	Trbv29	Cd48	Trbv19	Papln	Trbv12-1	Robo1	Robo2	Icosl	Trav23	Btnl9	Mog	Crtam	Btnl2	Trdv1	Vcam1	Cd300e	Cd300c	Trbv14	Cd86	Cd83	Trbv5	Cd80	Pvr	Trav13d-2	Trav18	Mpz	Dscam	Trav12-1	Trav8d-1	Trav16n	Trav3-1	Trav2	Trav11d	Fam187a	Cd8a	Trbv13-1	Fcmr	Gm5150	Vsig10	Vcan	Scn4b	Hapln1	Hapln4	Hapln2	Trav19	Iglv3	Hapln3	Ncam2	Scn3b	Gm1123	Timd4	Trbv20	Nphs1	Trbv4	Acan	Clmp	Vsig2	Vsig1	Trbv3	Vsig4	Vsig8
+Immunoglobulin subtype	InterPro_Domains_2019	Cadm4	Cadm2	Cadm3	Cadm1	L1cam	Fcamr	Cd4	Cd7	Igkv5-37	Cntfr	Prtg	Vpreb3	Igkv15-103	Vpreb1b	Iglon5	Mcam	Bcan	Hspg2	Bcam	Treml4	Trio	Tapbpl	A1bg	Ly9	F11r	Mylk	Fcrlb	Fcrla	Alcam	Lrrc24	Mybpc2	Mybpc3	Fcrl1	Fcrl5	Gp6	Mybpc1	Siglec1	Myot	Pxdn	Cilp	Siglece	Siglecf	Wfikkn2	Wfikkn1	Lrrc4	Kir3dl2	Vsig10l	Chl1	Emb	Ctla4	Havcr2	Timd2	Il11ra2	Mybph	Dscaml1	Ncan	Pigr	Vsir	Fgfrl1	Fstl5	Fstl4	Adamtsl1	Adamtsl3	Gpa33	Lag3	Sema4c	Sema4d	Btn1a1	Sema4g	Lrfn4	Lrfn3	Obscn	Lrfn5	Lrit3	Lrit2	Lrfn2	Lrfn1	Ror2	Pdcd1	Ror1	Vtcn1	Il1rap	Ceacam15	Jam2	Ceacam20	Jam3	Btn2a2	Cd8b1	Igsf10	Igsf11	Mag	Ildr1	Il1rapl2	Il1rapl1	Esam	Igkv18-36	Myom1	Csf1r	Cd276	Myom2	Cd274	Lrit1	Myom3	Btla	Igfbp7	Lrrc4b	Lrrc4c	Lingo3	Lingo2	Lingo4	Nrg1	Nrg2	Mertk	Lingo1	Fcgr3	Vstm2l	Mfap3	Pecam1	Vstm2b	Mdga2	Vstm2a	Ildr2	Trem1	Fcgr4	Boc	Cd300lb	Cd300a	Cd300lf	Cd300lg	Ceacam18	Ntrk2	Ntrk3	Ceacam16	Unc5b	Unc5c	Tie1	Unc5a	Unc5d	Nfasc	Nectin1	Tyro3	Cd226	Nectin4	Nectin3	Cd101	Nectin2	Sema3a	Flt1	Mdga1	Sema3d	Flt4	Sema3b	Sema3c	Sema3f	Ttn	Malt1	Fcgr1	Mybphl	Vstm5	Neo1	Tigit	Vstm4	Cdon	Il1r1	Il1r2	Lrrn3	Lrrn2	Mxra8	Lrrn1	Alpk3	Alpk2	Obsl1	Cd200	Vsig10l2	Bsg	Adgra2	Adgra3	Kdr	Hmcn1	Ptgfrn	Hmcn2	Musk	Slamf6	Ly6g6f	Trav10	Ptk7	Mmp23	Igsf9b	Igkv8-28	Igsf1	Scn2b	Hepacam	Icam5	Icam1	Cd79b	Cd79a	Cd19	Ermap	Siglec15	Btnl12	Siglecg	Lsamp	Pdcd1lg2	Lilra5	Igfn1	Ptprf	Ptprd	Ncr1	Cd22	Il18r1	Igsf8	Igsf9	Ptprs	Igsf3	Ptprm	Hepacam2	Ptprk	Kalrn	Igsf21	Mpzl1	Fcer1a	Mpzl2	Mpzl3	Kazald1	Kit	Cd48	Robo3	Robo4	Amigo1	Amigo2	Papln	Amigo3	Robo1	Robo2	Cilp2	Lair1	Icosl	Pdgfrb	Btnl9	Kirrel2	Pdgfra	Kirrel3	Cntn6	Mog	Kirrel1	Crtam	Btnl2	Vcam1	Pdgfrl	Oscar	Axl	Cntn2	Cd300e	Cntn3	Cntn4	Cd300c	Cntn5	Cntn1	Cd86	Cd84	Cd83	Cd80	Nexn	Pvr	Mpz	Dscam	Cd96	Sdk1	Sdk2	Cd8a	Adgrf5	Tarm1	Fgfr1	Fgfr4	Fgfr3	Fgfr2	Fcmr	Gm5150	Ntm	Ager	Vsig10	Il18rap	Il6ra	Mfap3l	Vcan	Tmigd1	Scn4b	Hapln1	Ncam1	Hapln4	Hapln2	Iglv3	Hapln3	Madcam1	Ncam2	Scn3b	Opcml	Gm1123	Dcc	Negr1	Timd4	Lsr	Nphs1	Palld	Igdcc3	Igdcc4	Acan	Il1rl1	Il1rl2	Igfbpl1	Clmp	Vsig2	Vsig1	Lrig2	Speg	Lrig1	Vsig4	Nrcam	Lrig3	Vsig8	Nptn
+Immunoglobulin subtype 2	InterPro_Domains_2019	Cdon	Cadm4	Cadm2	Cadm3	Lrrn3	Il1r2	Cadm1	L1cam	Cd4	Lrrn2	Lrrn1	Alpk3	Alpk2	Obsl1	Cntfr	Vsig10l2	Prtg	Bsg	Iglon5	Kdr	Hmcn1	Musk	Hmcn2	Mcam	Ptk7	Hspg2	Bcam	Igsf9b	Igsf1	Hepacam	Trio	A1bg	Icam5	F11r	Islr	Mylk	Cd79a	Alcam	Il12b	Lrrc24	Mybpc2	Mybpc3	Fcrl1	Siglece	Fcrl5	Siglecg	Lsamp	Lilra5	Igfn1	Gp6	Mybpc1	Ptprf	Ptprd	Siglec1	Myot	Pxdn	Cilp	Siglecf	Cd22	Igsf9	Ptprs	Wfikkn2	Wfikkn1	Igsf3	Hepacam2	Lrrc4	Cd3g	Cd3e	Vsig10l	Kalrn	Chl1	Fcer1a	Kazald1	Mybph	Kit	Dscaml1	Robo3	Robo4	Papln	Amigo3	Fgfrl1	Fstl5	Robo1	Robo2	Fstl4	Adamtsl1	Cilp2	Adamtsl3	Gpa33	Pdgfrb	Pdgfra	Kirrel2	Kirrel3	Cntn6	Kirrel1	Sema4d	Vcam1	Pdgfrl	Lrfn4	Lrfn3	Obscn	Lrfn5	Lrit3	Lrit2	Lrfn2	Lrfn1	Cntn2	Cntn3	Ror2	Cntn4	Cntn5	Ror1	Cntn1	Ceacam15	Jam2	Dscam	Ceacam20	Jam3	Igsf10	Sdk1	Igsf11	Sdk2	Mag	Adgrf5	Il1rapl1	Fgfr1	Esam	Fgfr4	Fgfr3	Fgfr2	Csf1r	Cd276	Myom1	Myom2	Ntm	Lrit1	Ager	Vsig10	Myom3	Il6ra	Mfap3l	Lrrc4b	Lrrc4c	Lingo3	Lingo2	Lingo4	Nrg1	Nrg2	Lingo1	Fcgr3	Tmigd1	Mfap3	Pecam1	Mdga2	Ncam1	Hapln4	Boc	Ncam2	Opcml	Gm1123	Ntrk2	Ceacam18	Ceacam16	Dcc	Unc5b	Unc5c	Negr1	Unc5d	Nphs1	Nfasc	Palld	Igdcc3	Igdcc4	Nectin1	Tyro3	Cd226	Nectin4	Mdga1	Flt1	Flt4	Sema3f	Ttn	Malt1	Il1rl1	Igfbpl1	Fcgr1	Clmp	Vsig2	Vsig1	Mybphl	Lrig2	Speg	Lrig1	Vsig4	Nrcam	Lrig3	Neo1	Vsig8	Nptn
+Immunoglobulin-like domain	InterPro_Domains_2019	Cadm4	Cadm2	Cadm3	Cadm1	Ighv7-3	Tmem81	L1cam	Fcamr	Cd4	Cd7	Igkv5-37	Tek	Cntfr	Ighv8-8	Prtg	Vpreb3	Trbc1	Igkv15-103	Vpreb1b	Iglon5	H2-Eb2	Mcam	Ighv15-2	Treml2	Bcan	Hspg2	Bcam	Treml4	Trio	Tapbpl	A1bg	Ly9	F11r	Islr	Mylk	Fcrlb	Fcrla	Alcam	Lrrc24	Mybpc2	Mybpc3	Fcrl1	Fcrl5	Gp6	Cd200r3	Mybpc1	Siglec1	Myot	Pxdn	Cilp	H2-Ab1	Siglece	Trav6d-5	Trav6d-6	Siglecf	Il18bp	Wfikkn2	Wfikkn1	Lrrc4	Thy1	Vsig10l	Chl1	Tmem25	Emb	Havcr2	Igha	Timd2	Il11ra2	Mybph	Iglc3	Dscaml1	Trav17	Ncan	Pigr	Trbv15	Vsir	Fgfrl1	Fstl5	Fstl4	Adamtsl1	H2-DMb1	Fcgrt	Adamtsl3	Gpa33	H2-DMa	Lag3	Sema4c	Sema4d	Btn1a1	Sema4g	Lrfn4	Lrfn3	Obscn	Lrfn5	Lrit3	Lrit2	Lrfn2	Lrfn1	Ror2	Pdcd1	Ror1	Vtcn1	Il1rap	Ceacam15	Jam2	Ceacam20	H2-Ob	Jam3	H2-Oa	Btn2a2	Cd8b1	Igsf10	Igsf11	Mag	Il1rapl2	Il1rapl1	Esam	Igkv18-36	Myom1	Csf1r	Cd276	Myom2	Cd274	Lrit1	Myom3	Lepr	Btla	Igfbp7	Sema7a	Lrrc4b	Lrrc4c	Lingo3	Lingo2	Lingo4	Nrg1	Trbv30	Nrg2	Mertk	Lingo1	Fcgr3	Vstm2l	Mfap3	H2-Ea	Pecam1	Spaca6	Vstm2b	Mdga2	Vstm2a	Cd244a	Fcgr4	Boc	Cd300lb	Cd300a	Cd300lf	Cd300lg	Ceacam18	Ntrk2	Ntrk3	Ceacam16	Ntrk1	Unc5b	Unc5c	Unc5a	Unc5d	Nfasc	Nectin1	Tyro3	Cd226	Nectin4	Nectin3	Cd101	Nectin2	Sema3a	Flt1	Mdga1	Flt3	Sema3d	Sema3e	Flt4	Sema3b	Sema3c	Sema3f	Sema3g	Ttn	Malt1	Fcgr1	Mybphl	Neo1	Tigit	Trdv2-2	Vstm4	Cdon	Trdv5	Il1r1	Il1r2	Lrrn3	Trav15n-1	Trav7-4	Igkv17-121	Zpbp	Islr2	Azgp1	Lrrn2	Mxra8	Lrrn1	Alpk3	Alpk2	Obsl1	Cd200	Slamf1	Vsig10l2	Bsg	Adgra2	Adgra3	Slamf9	Kdr	Slamf8	Hmcn1	Ptgfrn	Slamf7	Hmcn2	Musk	Slamf6	B2m	Ly6g6f	Trav10	2410137M14Rik	Ptk7	H2-T24	Mmp23	Igsf9b	Igkv8-28	Igsf1	Scn2b	Igkv2-109	Hepacam	Gm20730	Icam5	Cd1d1	Cd79b	Cd79a	Cd19	Il12b	Ermap	Siglec15	Btnl12	Siglecg	Lsamp	Pdcd1lg2	Lilra5	Igfn1	Ptprf	Ptprd	Trav1	Ighe	Cd22	Il18r1	Igsf8	Igsf9	Ighv9-4	Igsf6	Ptprs	Ptprt	Igsf3	Ptprm	Hepacam2	Ptprk	Kalrn	Igsf21	Igsf23	Trbv31	Mpzl1	Fcer1a	Mpzl2	Mpzl3	Trgv7	Kazald1	Trgv6	Trbv29	Kit	Cd48	Cd47	Robo3	Trbv19	Ighm	Robo4	Amigo1	Amigo2	Papln	Amigo3	Trbv12-1	Robo1	Robo2	Cilp2	Lair1	Icosl	Trav23	Pdgfrb	Btnl9	Kirrel2	Pdgfra	Kirrel3	Cntn6	Mog	Kirrel1	Crtam	Btnl2	Trdv1	Vcam1	Pdgfrl	Oscar	Axl	Cntn2	Cd300e	Cntn3	Cntn4	Cd300c	Cntn5	Cntn1	Trbv14	Cd86	Cd84	Cd83	Trbv5	Hfe	Cd80	Nexn	Pvr	Trav13d-2	Trav18	Mpz	Igkc	Dscam	Mill1	Ccdc141	Trav12-1	Trav8d-1	Cd96	Trav16n	Trav3-1	Trav2	Trav11d	Mr1	Sdk1	Fam187a	Sdk2	Cd8a	Adgrf5	Tarm1	Fgfr1	Fgfr4	Fgfr3	Fgfr2	Trbv13-1	Gm5150	Ntm	Ager	Vsig10	Il18rap	Il6ra	Mfap3l	Tapbp	Vcan	Tmigd1	Scn4b	Hapln1	Ncam1	Hapln4	Hapln2	Trav19	Iglv3	Hapln3	Madcam1	Ncam2	Scn3b	Opcml	Gm1123	Dcc	Negr1	Timd4	Trbv20	Lsr	Nphs1	Zpbp2	Palld	Igdcc3	Igdcc4	Sigirr	Trbv4	Acan	Il1rl1	Il1rl2	Igfbpl1	Clmp	Vsig2	Vsig1	Lrig2	Speg	Lrig1	Trbv3	Vsig4	Nrcam	Lrig3	Vsig8	Nptn
+Importin-alpha, importin-beta-binding domain	InterPro_Domains_2019	Snupn	Tmco6	Kpna7	Kpna6	Kpna3	Kpna4	Kpna1	Kpna2
+Importin-beta, N-terminal domain	InterPro_Domains_2019	Ipo13	Ranbp17	Ipo4	Ipo7	Ipo8	Ipo11	Ipo5	Xpo1	Kpnb1	Ipo9	Tnpo1	Xpo5	Xpot	Xpo7	Xpo6	Cse1l	Tnpo2
+Inhibitor of growth protein, N-terminal histone-binding	InterPro_Domains_2019	Ing5	Ing3	Ing4	Ing1	Ing2
+Initiation factor eIF-4 gamma, MA3	InterPro_Domains_2019	Nom1	Cwc22rt7	Eif4g1	Pdcd4	Eif4g3	Eif4g2
+Inositol 1,4,5-trisphosphate/ryanodine receptor	InterPro_Domains_2019	Ryr2	Ryr3	Ryr1	Itpr2	Itpr3	Itpr1
+Inositol polyphosphate-related phosphatase	InterPro_Domains_2019	Inpp5d	Inpp5a	Inpp5b	Synj2	Synj1	Inpp5e	Inpp5k	Ocrl	Inpp5j	Inppl1
+Insulin-like	InterPro_Domains_2019	Rln3	Igf1	Rln1	Igf2	Ins1	Insl3	Insl6	Insl5
+Insulin-like growth factor-binding protein, IGFBP	InterPro_Domains_2019	Igfbp2	Igfbp1	Igfbp6	Igfbp5	Htra4	Igfbp4	Igfbp3	Htra3	Kazald1	Crim1	Htra1	Esm1	Igfbpl1	Ccn3	Igfbp7
+Integrase, C-terminal, retroviral	InterPro_Domains_2019
+Integrase, N-terminal zinc-binding domain	InterPro_Domains_2019
+Integrase, catalytic core	InterPro_Domains_2019	Gin1	Nynrin
+Integrin alpha-2	InterPro_Domains_2019	Itga1	Itga5	Itga4	Itga2b	Itga3	Itga2	Itgam	Itgal	Itga10	Itgae	Itgad	Itga11	Itga9	Itgax	Itga8	Itga7	Itga6	Itgav
+Integrin beta N-terminal	InterPro_Domains_2019	Itgb2l	Itgb1	Itgb6	Itgb5	Itgb4	Itgb3	Itgb8	Itgb7
+Integrin beta subunit, VWA domain	InterPro_Domains_2019	Itgb2l	Itgb1	Itgb6	Itgb5	Itgb4	Itgb3	Itgb8	Itgb7
+Integrin beta subunit, cytoplasmic domain	InterPro_Domains_2019	Itgb2l	Itgb1	Itgb6	Itgb5	Itgb3	Itgb7
+Integrin beta subunit, tail	InterPro_Domains_2019	Itgb2l	Itgb1	Itgb6	Itgb5	Itgb4	Itgb3	Itgb7
+Integrin beta, epidermal growth factor-like domain 1	InterPro_Domains_2019	Itgb1	Itgb6	Itgb5	Itgb4	Itgb3
+Inter-alpha-trypsin inhibitor heavy chain, C-terminal	InterPro_Domains_2019	Itih5	Itih4	Itih3	Itih2	Itih1
+Intercellular adhesion molecule, N-terminal	InterPro_Domains_2019	Icam4	Icam5	Icam1	Icam2
+Intercellular adhesion molecule/vascular cell adhesion molecule, N-terminal	InterPro_Domains_2019	Icam4	Icam5	Vcam1	Icam1	Icam2
+Interferon regulatory factor DNA-binding domain	InterPro_Domains_2019	Irf1	Irf4	Irf5	Irf2	Irf3	Irf8	Irf9	Irf6	Irf7
+Interferon regulatory factor-3	InterPro_Domains_2019	Irf4	Irf5	Irf3	Irf8	Irf9	Irf6	Irf7
+Interferon/interleukin receptor domain	InterPro_Domains_2019	Il22ra2	Ifngr2	Il10rb	Il20ra	Il20rb	F3	Csf2rb2	Ifnar1	Ifnar2
+Intermediate filament head, DNA-binding domain	InterPro_Domains_2019	Des	Vim	Nefl	Ina	Gfap	Prph
+Intermediate filament, rod domain	InterPro_Domains_2019	Krt1	Krt222	Gm5478	Krt4	Krt2	Krt14	Krt9	Krt8	Krt7	Krt12	Bfsp1	Krt10	Des	Krt19	Bfsp2	Krt18	Krt17	Krt16	Krt15	Vim	Nes	Sync	Lmnb1	Krt25	Krt24	Krt23	Krt20	Lmnb2	Lmna	Krt6a	Krt28	Krt27	Krt33a	Krt26	Prph	Krt72	Krt71	Krt36	Krt79	Krt35	Krt34	Krt78	Krt77	Gfap	Krt76	Krt32	Krt75	Iffo2	Iffo1	Krt73	Krt39	Ina	Krt82	Synm	Krt80	Gm49425	Krt84	Krt40	Nefl	Nefh
+Ion transport domain	InterPro_Domains_2019	Kcnf1	Trpv3	Trpv4	Trpv1	Trpv2	Scn10a	Trpv5	Trpv6	Scn8a	Kcng1	Kcng2	Hcn4	Kcng3	Kcng4	Nalcn	Scn7a	Kcnh1	Kcnh2	Trpc6	Kcnd1	Trpc7	Kcnd2	Kcnd3	Trpc4	Trpc5	Trpc3	Kcnu1	Kcnma1	Kcna10	Scn2a	Cacna1a	Cacna1c	Hvcn1	Cacna1b	Cacna1e	Cacna1d	Cacna1g	Cacna1f	Cacna1i	Cacna1h	Trpm2	Kcnv1	Trpm3	Kcnv2	Trpm1	Scn9a	Cacna1s	Trpm8	Trpm6	Scn1a	Trpm7	Trpm4	Trpm5	Kcnb1	Trpa1	Tpcn1	Tpcn2	Kcns1	Kcns2	Kcns3	Scn4a	Catsper2	Catsper1	Catsper4	Catsper3	Kcnc1	Kcnc2	Kcnc3	Kcnc4	Itpr2	Itpr3	Itpr1	Cnga2	Cnga3	Trpc1	Scn3a	Cnga4	Cnga1	Kcnh3	Kcnh4	Kcnh5	Kcnh6	Kcnh7	Kcnh8	Kcnq1	Kcnq2	Kcnq3	Kcnq4	Kcnq5	Hcn1	Hcn3	Hcn2	Ryr2	Ryr3	Ryr1	Kcna1	Kcna2	Kcna3	Kcna4	Kcna5	Kcna6	Kcna7	Slc9c1	Scn11a	Scn5a
+Ionotropic glutamate receptor	InterPro_Domains_2019	Gria2	Gria3	Gria1	Grid1	Grid2	Grik4	Grik5	Grik2	Grik3	Grin2d	Grik1	Grin2c	Grin1	Grin3a	Grin2b	Grin3b	Grin2a	Gria4
+Ionotropic glutamate receptor, L-glutamate and glycine-binding domain	InterPro_Domains_2019	Gria2	Gria3	Gria1	Grid1	Grid2	Grik4	Grik5	Grik2	Grik3	Grin2d	Grik1	Grin2c	Grin1	Grin3a	Grin2b	Grin3b	Grin2a	Gria4
+Iroquois-class homeodomain protein	InterPro_Domains_2019	Irx2	Irx3	Irx1	Irx6	Irx4	Irx5
+Isopropylmalate dehydrogenase-like domain	InterPro_Domains_2019	Idh1	Idh3g	Idh2	Idh3a	Idh3b
+JAB1/MPN/MOV34 metalloenzyme domain	InterPro_Domains_2019	Cops5	Prpf8	Psmd7	Cops6	Psmd14	Eif3h	Eif3f	Stambp	Brcc3	Stambpl1	Mysm1	Mpnd
+JmjC domain	InterPro_Domains_2019	Kdm4a	Jmjd4	Kdm4b	Kdm4c	Kdm2a	Kdm4d	Kdm2b	Tyw5	Jmjd8	Hspbap1	Jmjd6	Jmjd7	Riox2	Riox1	Kdm7a	Kdm5a	Kdm5b	Kdm8	Kdm5c	Kdm3a	Kdm3b	Kdm5d	Phf2	Jmjd1c	Hr	Phf8	Uty	Hif1an	Jarid2	Kdm6a	Kdm6b
+JmjN domain	InterPro_Domains_2019	Kdm5b	Kdm4a	Kdm5c	Kdm4b	Kdm5d	Kdm4c	Kdm4d	Jarid2	Kdm5a
+K Homology domain	InterPro_Domains_2019	Pnpt1	Krr1	Mex3d	Bicc1	Ankhd1	Qki	Mex3a	Fubp1	Mex3c	Hnrnpk	Mex3b	Nova1	Nova2	Fubp3	Sf1	Khdrbs1	Akap1	Khdrbs2	Tdrkh	Khdrbs3	Ankrd17	Fmr1	Pcbp1	Hdlbp	Fxr2	Fxr1	Khsrp	Pcbp4	Pcbp2	Pcbp3	Igf2bp2	Igf2bp1	Pno1	Igf2bp3
+K Homology domain, type 1	InterPro_Domains_2019	Pnpt1	Ascc1	Mex3d	Bicc1	Ankhd1	Qki	Mex3a	Fubp1	Mex3c	Hnrnpk	Mex3b	Nova1	Nova2	Fubp3	Sf1	Khdrbs1	Akap1	Khdrbs2	Tdrkh	Khdrbs3	Ankrd17	Fmr1	Pcbp1	Hdlbp	Fxr2	Fxr1	Khsrp	Pcbp4	Pcbp2	Pcbp3	Igf2bp2	Igf2bp1	Igf2bp3	Exosc3	Exosc2
+KH-like RNA-binding domain	InterPro_Domains_2019	Dppa5a	Khdc3	Khdc1c	Ooep
+KIND domain	InterPro_Domains_2019	Frmpd2	Spire2	Spire1	Kndc1	Ptpn13
+KOW	InterPro_Domains_2019	Rps4x	Gpkow	Rpl26	Rpl27	Mrpl24	Supt5
+Kazal domain	InterPro_Domains_2019	Spink5	Spink4	Spink2	Spink10	Spink8	Spink7	Spink6	Spink1	Tmeff1	Tmeff2	Slco1c1	Slco4a1	Slco2a1	Spink13	Spink14	Sparcl1	Agrn	Wfikkn2	Wfikkn1	Slco1b2	Spock3	Spock1	Spock2	Fst	Kazald1	Slco5a1	Smoc2	Slco1a8	Slco4c1	Slco3a1	Smoc1	Reck	Sparc	Cfi	Htra4	Htra3	Fstl1	Slco6c1	Htra1	Fstl3	Fstl5	Fstl4	Slco2b1	Igfbpl1	C6	Mug1	Igfbp7
+Keratin type II head	InterPro_Domains_2019	Krt72	Krt1	Krt71	Gm5478	Krt4	Krt2	Krt79	Krt8	Krt7	Krt78	Krt77	Krt76	Krt75	Krt73	Krt82	Gm49425	Krt84	Krt6a
+Kexin/furin catalytic domain	InterPro_Domains_2019	Pcsk2	Pcsk1	Furin	Pcsk7	Pcsk6	Pcsk5	Pcsk4
+Kinase associated domain 1 (KA1)	InterPro_Domains_2019	Melk	Mark1	Mark4	Mark3	Mark2
+Kinesin motor domain	InterPro_Domains_2019	Kif22	Kif24	Kif23	Kif7	Kif6	Kif27	Cenpe	Kif18a	Kif18b	Kif9	Kifc3	Kif2b	Kif26a	Kifc2	Kif26b	Kif2a	Kifc1	Kif4	Kif20a	Kif2c	Kif20b	Kif11	Kif15	Kif14	Kif12	Kif19a	Kif17	Kif5a	Kif3c	Kif1a	Kif3b	Kif5c	Kif3a	Kif13a	Kif5b	Kif13b	Kif21a	Kif1c	Kif21b	Kif1b
+Kinesin-associated	InterPro_Domains_2019	Kif1a	Kif13a	Kif13b	Kif14	Kif1c	Kif1b
+Kinesin-like	InterPro_Domains_2019	Rabgap1	Rabgap1l	Kif1a	Kif13a	Kif13b	Kif1b
+Kinesin-like KIF1-type	InterPro_Domains_2019	Kif1a	Kif13a	Kif13b	Kif1b
+Kringle	InterPro_Domains_2019	Mst1	Hgf	F12	Kremen2	Kremen1	Plau	Plat	F2	Plg	Prss12	Pik3ip1	Ror2	Gm6619	Ror1	Hgfac	Habp2
+Krueppel-associated box	InterPro_Domains_2019	Zfp287	Zfp78	Zfp1	Zfp282	Zfp160	Zscan25	Ssxb5	Zfp398	Zfy1	Zfp369	Zfp324	Zkscan14	Zfp867	Zfp266	Zkscan6	Zfp263	Zfp383	Zfp382	Zfp12	Rbak	Zkscan17	Zfp251	Zfp647	Zfp612	Zfp9	Zfp248	Zkscan16	Zfp947	Zfp59	Zfp597	Zfp112	Zfp109	Zfp473	Zfp94	Zfp61	Zfp583	Zfp582	Zfp661	Zfp354b	Zfp354a	Zfp213	Zfp334	Zfp212	Zfp454	Zfp354c	Zfp953	Zfp39	Zfp14	Zfp74	Zfp13	Zfp689	Zfp688	Zfp446	Zfp566	Zfp445	Zfp202	Zik1	BC025920	Zfp317	Zfp316	Zfp558	Zfp46	Zfp28	Krbox5	Zfp551	Zfp791	Prdm9	Zfp7	Zfp128	Zfp37	Zfp30	Zfp429	Zfp426	Zfp667	Zfp786	Zfp790	Gm14288	Zfp777	Pogk	Zfp57	Zfp65	Zkscan8	Zkscan7	Zkscan4	Zkscan5	E430018J23Rik	Zkscan2	Zfp641	Zkscan1	Zfp69	Zfp72	Zfp879	Zfp819	Zfp82	Zfp872	Zfp746	Zfp286	Zfp189	Zfp182	Zfp180	Zfp92	Zfp90	Zfp619	Zfp606	Zfp605	Zfp729b	Zfp870	Zfp169
+Krueppel-associated box-related	InterPro_Domains_2019	Zfp78	Prdm9	Ssxb5
+L27 domain	InterPro_Domains_2019	Mpp2	Mpp3	Mpp4	Patj	Cask	Lin7b	Lin7a	Mpp7	Lin7c	Dlg1	Mpdz
+L27 domain, C-terminal	InterPro_Domains_2019	Mpp2	Mpp3	Mpp4	Cask	Lin7b	Lin7a	Mpp7	Lin7c
+LCCL domain	InterPro_Domains_2019	Vit	Crispld2	Crispld1	Dcbld1	Dcbld2	Coch
+LEM domain	InterPro_Domains_2019	Tmpo	Ankle1	Ankle2	Emd	Lemd3	Lemd2	Lemd1
+LIS1 homology motif	InterPro_Domains_2019	Ofd1	Armc9	Ranbp9	Mkln1	Tbl1xr1	Smu1	Gid8	Katnal2	Pafah1b1	Relch	Ssbp2	Taf5	Ssbp3	Ssbp4	Ranbp10	Wdr26	Nolc1	Maea	Wdr47	Npat	Dcaf1	Rmnd5a	Rmnd5b	Tcof1	Tbl1x
+LNS2/PITP	InterPro_Domains_2019	Lpin1	Pitpnm2	Pitpnm1	Pitpnm3	Lpin2	Lpin3
+LRAT domain	InterPro_Domains_2019	Lrat
+LRRC37A/B like protein 1, C-terminal	InterPro_Domains_2019	Lrrc37a
+LRRC8, pannexin-like TM region	InterPro_Domains_2019	Lrrc8a	Lrrc8d	Lrrc8e	Lrrc8b	Lrrc8c
+LSM domain, eukaryotic/archaea-type	InterPro_Domains_2019	Snrpn	Lsm2	Lsm1	Lsm6	Lsm5	Lsm4	Lsm3	Lsm11	Lsm10	Lsm8	Lsm7	Snrpd3	Snrpd2	Snrpd1	Snrpf	Naa38	Snrpg	Snrpe	Snrpb
+La-type HTH domain	InterPro_Domains_2019	Larp1	Ssb	Larp1b	Larp4b	Larp4	Larp7	Larp6
+Lactate/malate dehydrogenase, C-terminal	InterPro_Domains_2019	Ldhc	Ldhb	Ldha	Uevld	Mdh2	Mdh1	Ldhal6b
+Lactate/malate dehydrogenase, N-terminal	InterPro_Domains_2019	Ldhc	Ldhb	Ldha	Uevld	Mdh2	Mdh1	Ldhal6b
+Lamin tail domain	InterPro_Domains_2019	Lmna	Lmntd1	Lmntd2	Lmnb1	Lmnb2
+Laminin EGF domain	InterPro_Domains_2019	Ntng2	Atrnl1	Ntng1	Lamb3	Lamb2	Lamb1	Ush2a	Atrn	Hspg2	Creld1	Creld2	Megf9	Megf8	Agrn	Megf6	Celsr1	Lama3	Megf11	Lama2	Lama5	Lama4	Megf10	Lamc1	Ntn5	Lama1	Lamc3	Lamc2	Celsr2	Ntn1	Celsr3	Pear1	Ntn3	Ntn4	Stab1	Stab2	Scarf1	Scarf2
+Laminin G domain	InterPro_Domains_2019	Tspear	Ush2a	Col5a1	Col5a3	Col9a1	Col20a1	Cspg4	Gas6	Agrn	Cntnap4	Col18a1	Cntnap3	Col16a1	Cntnap2	Cntnap1	Celsr1	Col14a1	Nrxn2	Col12a1	Pros1	Nrxn1	Nrxn3	Celsr2	Celsr3	Slit2	Slit1	Slit3	Col27a1	Nell2	Hspg2	Nell1	Fat1	Fat2	Fat3	Fat4	Shbg	Crb2	Col19a1	Crb1	Lama3	Col15a1	Lama2	Lama5	Col11a2	Lama4	Lama1	Thbs1	Thbs3	Thbs2	Thbs4	Egflam	Col11a1
+Laminin IV	InterPro_Domains_2019	Hspg2	Lama3	Lama2	Lama5	Lamc1	Lamc3	Lama1	Lamc2
+Laminin alpha, domain I	InterPro_Domains_2019	Lama3	Lama2	Lama5	Lama4	Lama1
+Laminin domain II	InterPro_Domains_2019	Lama3	Lama2	Lama5	Lama4	Lama1
+Laminin, N-terminal	InterPro_Domains_2019	Ntng2	Ntng1	Lama3	Lama2	Lamb3	Lama5	Lamc1	Lamb2	Lamc3	Lama1	Lamb1	Ush2a	Ntn1	Ntn3	Ntn4
+Leucine-rich repeat N-terminal domain	InterPro_Domains_2019	Lingo3	Lingo2	Lum	Lrrc24	Lingo4	Lrrn3	Kera	Gp9	Lingo1	Fshr	Lrrc38	Igfals	Lrrc4	Lrrc3	Lrrc32	Epyc	Flrt3	Flrt1	Flrt2	Lrrtm3	Slit2	Slit1	Slit3	Ntrk2	Ntrk3	Omd	Tpbg	Bgn	Omg	Gp1bb	Gp1ba	Vasn	Podn	Igsf10	Dcn	Aspn	Fmod	Lgr6	Lgr5	Lrrc3b	Lgr4	Pkd1	Lrtm2	Lrrc52	Prelp	Lrrc55	Cpn2	Chadl	Slitrk2	Chad	Lrig1	Lrrc4b	Lrrc4c
+Link domain	InterPro_Domains_2019	Hapln1	Ncan	Tnfaip6	Lyve1	Hapln4	Hapln2	Hapln3	Acan	Vcan	Bcan	Stab1	Stab2	Susd5	Cd44
+Linker histone H1/H5, domain H15	InterPro_Domains_2019	Hp1bp3	Shprh	Kat6b	Kat6a
+Lipase, N-terminal	InterPro_Domains_2019	Lipg	Pnliprp2	Pnliprp1	Lipi	Lpl	Liph	Lipc	Pla1a	Pnlip
+Lipase/vitellogenin	InterPro_Domains_2019	Lipg	Pnliprp2	Pnliprp1	Lipi	Lpl	Liph	Lipc	Pla1a	Pnlip
+Lipid-binding serum glycoprotein, C-terminal	InterPro_Domains_2019	Bpifb1	Bpifc	Bpifb3	Pltp	Bpifb2	Bpifb4	Bpifb6	Lbp	Bpi
+Lipid-binding serum glycoprotein, N-terminal	InterPro_Domains_2019	Bpifb1	Bpifc	Bpifb3	Bpifa2	Pltp	Bpifb2	Bpifa5	Bpifb4	Bpifa3	Bpifb6	Lbp	Bpi
+Lipocalin/cytosolic fatty-acid binding domain	InterPro_Domains_2019	Ambp	Fabp2	Rbp7	Fabp3	Fabp4	Fabp5	Rbp4	Fabp7	Rbp1	Fabp9	Rbp2	Lcn2	Lcn4	Pmp2	Lcn6	Lcn11	Lcn9	Orm2	Lcn8	Crabp1	Crabp2	Fabp12	C8g	Obp2b	Lcn12	Apod	Ptgds
+Lipoxygenase, C-terminal	InterPro_Domains_2019	Alox5	Alox15	Alox12b	Alox12	Alox8	Aloxe3
+Lon, substrate-binding domain	InterPro_Domains_2019	Crbn	Lonp2	Lonrf2	Lonrf3	Lonrf1	Lonp1
+Longin domain	InterPro_Domains_2019	Sec22a	Ykt6	Sec22c	Sec22b
+Ly-6 antigen/uPA receptor-like	InterPro_Domains_2019	Cd177	Pinlyp	Lynx1	Ly6l	Psca	Tex101	Lypd2	Lypd3	Lypd4	Lypd5	Plaur	Lypd8	Slurp1	Ly6e	Spaca4	Ly6d	Cd59a	Ly6h	Gpihbp1
+LysM domain	InterPro_Domains_2019	Oxr1	Ncoa7	Lysmd3	Lysmd2	Lysmd4	Lysmd1
+Lysine-specific demethylase 4, Tudor domain	InterPro_Domains_2019	Kdm4a	Kdm4b	Phf20l1	Kdm4c	Mtf2	Phf1	Phf19
+Lysophospholipase, catalytic domain	InterPro_Domains_2019	Pla2g4e	Pla2g4f	Pla2g4c	Pla2g4d	Pla2g4a	Pla2g4b
+MABP domain	InterPro_Domains_2019	Dennd4c	Dennd4b	Mvb12b	Mvb12a	Dennd4a
+MAD homology 1, Dwarfin-type	InterPro_Domains_2019	Smad3	Smad2	Nfix	Smad5	Smad4	Nfib	Nfic	Smad1	Nfia	Smad7	Smad6
+MAD homology, MH1	InterPro_Domains_2019	Smad3	Smad2	Smad5	Smad4	Smad1	Smad7	Smad6
+MAGE homology domain	InterPro_Domains_2019	Magee2	Magea13	Magee1	Nscme3l	Mageb4	Mageb5b	Mageb6b2	Mageh1	Maged1	Maged2	Mageb18	Mageb16	Magel2	Tro	Ndn	Magea14
+MAM domain	InterPro_Domains_2019	Ptpru	Nrp1	Egfl6	Nrp2	Mdga1	Ptprt	Npnt	Mamdc2	Mamdc4	Zan	Ptprm	Ptprk	Tmprss15	Mep1b	Malrd1	Mdga2	Alk
+MANSC domain	InterPro_Domains_2019	Mansc4	Spint1	Mansc1	D130043K22Rik	Lrp11	AU040320
+MATH/TRAF domain	InterPro_Domains_2019	Usp7	Traf5	Traf4	Mep1b	Traf6	Traf1	Trim37	Spopl	Traf3	Tdpoz7	Traf2
+MCM N-terminal domain	InterPro_Domains_2019	Mcm4	Mcm5	Mcm6	Mcm7	Mcm2	Mcm3
+MCM OB domain	InterPro_Domains_2019	Mcm8	Mcm9	Mcm4	Mcm5	Mcm6	Mcm7	Mcm2	Mcm3
+MCM domain	InterPro_Domains_2019	Mcmdc2	Mcm8	Mcm9	Mcm4	Mcm5	Mcm6	Mcm7	Mcm2	Mcm3
+MHC class I alpha chain, alpha1 alpha2 domains	InterPro_Domains_2019	Azgp1	Hfe	2410137M14Rik	Mr1	H2-T24
+MHC class I, alpha chain, C-terminal	InterPro_Domains_2019	2410137M14Rik	H2-T24
+MHC class I-like antigen recognition-like	InterPro_Domains_2019	2410137M14Rik	Mr1	H2-T24	Raet1d	Azgp1	Procr	Hfe	Cd1d1	Fcgrt	Mill1
+MHC class II, alpha chain, N-terminal	InterPro_Domains_2019	H2-Ea	H2-DMa	H2-Oa
+MHC class II, beta chain, N-terminal	InterPro_Domains_2019	H2-DMb1	H2-Eb2	H2-Ab1	H2-Ob
+MHCK/EF2 kinase	InterPro_Domains_2019	Eef2k	Alpk3	Alpk2	Trpm6	Trpm7	Alpk1
+MIF4G-like, type 3	InterPro_Domains_2019	Nom1	Upf2	Ctif	Cwc22rt7	Ncbp1	Eif4g1	Mif4gd	Eif4g3	Paip1	Eif4g2
+MIR motif	InterPro_Domains_2019	Ryr2	Sdf2l1	Ryr3	Ryr1	Pomt1	Pomt2	Itpr2	Itpr3	Sdf2	Itpr1
+MIT	InterPro_Domains_2019	Spast	Rps6kl1	Spart	Capn7	Vps4a	Snx15	Vps4b	Ulk3	Rps6kc1	Mitd1
+MPN domain	InterPro_Domains_2019	Abraxas1	Abraxas2	Psmd14	Brcc3	Stambpl1	Mysm1	Cops5	Nploc4	Prpf8	Psmd7	Cops6	Eif3h	Eif3f	Stambp	Mpnd	Emc8	Emc9
+MYST, zinc finger domain	InterPro_Domains_2019	Kat5	Kat6b	Kat6a	Kat8	Kat7
+Mab-21 domain	InterPro_Domains_2019	Mab21l4	Tmem102	Itpripl1	Itpripl2	Itprip	Mab21l1	Mab21l2	Mab21l3	Cgas	Mief2	Mief1	Mb21d2
+Macro domain	InterPro_Domains_2019	Oard1	Macrod2	Chd1l	Macrod1	Gdap2	Parp9	Parp14
+Macroglobulin domain	InterPro_Domains_2019	AI182371	C4b	Mug1	Cd109	A2m	C3
+Major facilitator superfamily domain	InterPro_Domains_2019	Slc16a1	Slc16a2	Spns3	Unc93a	Mfsd12	Mfsd10	Mfsd11	Slco2a1	Spns2	Spns1	Slc46a3	Slc46a1	Sv2c	Sv2b	Sv2a	Slc16a7	Slc16a8	Slc16a9	Slc16a3	Slc16a4	Slc16a5	Slc16a6	Slc15a1	Slc15a2	Slc15a3	Slc16a13	Slc16a12	Slc16a11	Slc16a10	Slc16a14	Slco5a1	Slco1a8	Slc22a5	Slc22a4	Slc22a7	Slc45a4	Slc22a6	Slc22a1	Slc22a3	Slc22a2	Slc2a1	Slc2a2	Slc2a4	Slco6c1	Slc2a5	Slc2a6	Slc2a7	Slc2a8	Slc2a9	Slco2b1	Mfsd6l	Slc19a1	Slc37a1	Slc37a2	Svop	Slco1c1	Slco4a1	Slc22a29	Slc22a8	Slc49a3	Slc49a4	Slc18b1	Slco1b2	Mfsd9	Mfsd4a	Slc22a13b	Mfsd4b4	Slc22a14	Slc22a15	Mfsd8	Slc22a16	Slc22a17	Mfsd6	Slc22a18	Flvcr2	Mfsd1	Flvcr1	Slc18a1	Slc18a2	Slc37a4	Slc18a3	Slc22a12	Slc17a1	Slc2a12	Slc2a13	Slc2a10	Mfsd14b	Slco4c1	Slco3a1	Mfsd14a	Svopl	Slc22a23	Slc43a1	Slc43a2	Slc17a6	Slc17a7	Slc17a8	Slc17a9	Slc17a2	Slc17a3	Slc17a4	Slc17a5
+Major sperm protein (MSP) domain	InterPro_Domains_2019	Vapa	Vapb	Mospd3	Mospd2	Cfap65	Mospd1
+Mammalian uncoordinated homology 13, domain 2	InterPro_Domains_2019	Unc13c	Unc13d	Unc13a	Unc13b	Baiap3
+Marvel domain	InterPro_Domains_2019	Cmtm8	Cmtm4	Cmtm5	Cmtm6	Cmtm7	Syp	Syngr4	Mall	Ocln	Sypl2	Sypl1	Mal	Prp2rt	Cmtm1	Cmtm2a	Myadm	Cmtm3	Cklf	Myadml2	Syngr1	Marveld1	Synpr	Syngr2	Syngr3	Marveld3	Marveld2	Mal2	Pllp
+Matrin/U1-C, C2H2-type zinc finger	InterPro_Domains_2019	Sf3a2	Sf3a3	Ciz1	Wbp4	Zfp638	Rbm20	Matr3	Snrpc
+Matrin/U1-C-like, C2H2-type zinc finger	InterPro_Domains_2019	Zfhx2	Trit1	Zfr2	Zfhx4	Sf3a2	Ciz1	Zfhx3	Zfr	Zfp638	Zfp318	Rbm20	Matr3	Zfp830	Snrpc	Zfp593	Tut7	Wbp4	Zmat1	Zmat2	Zmat3	Zmat4	Dnajc21	Zfp407	Zfp385c	Scaper	Zfp622	Zfp346	Zfp385b	Zfp385a
+Melanoma associated antigen, N-terminal	InterPro_Domains_2019	Mageb18	Mageb16	Magea13	Mageb4	Magea14	Mageb6b2
+Membrane attack complex component/perforin (MACPF) domain	InterPro_Domains_2019	Brinp1	Brinp3	C6	Brinp2	C7	C9	Pfpl	Prf1	C8a	C8b	Astn1	Astn2
+Metallo-beta-lactamase	InterPro_Domains_2019	Dclre1c	Haghl	Cpsf2	Cpsf3	Elac2	Ints11	Napepld	Elac1	Mblac2	Pnkd	Lactb2	Ethe1	Hagh	Mblac1	Ints9
+Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding	InterPro_Domains_2019	Lars2	Iars2	Vars2
+Methyl-CpG DNA binding	InterPro_Domains_2019	Mbd4	Mecp2	Mbd5	Mbd6	Setdb2	Setdb1	Mbd1	Mbd2	Mbd3	Baz2a	Baz2b
+Methyl-CpG binding protein 2/3, C-terminal domain	InterPro_Domains_2019	Mbd3l2	Mbd2	Mbd3	Mbd3l1
+Methyl-CpG-binding domain protein 2/3, p55-binding region	InterPro_Domains_2019	Mbd3l2	Mbd2	Mbd3	Mbd3l1
+Methyltransferase domain	InterPro_Domains_2019	Mettl24	Mettl25	Mepce	Gstcd	As3mt	Eef1akmt2
+Methyltransferase type 11	InterPro_Domains_2019	Trmt9b	Ndufaf5	Bud23	Ciapin1	Alkbh8	Eef1akmt4
+Mib-herc2	InterPro_Domains_2019	Hectd1	Herc2	Mib1	Mib2
+Mu homology domain	InterPro_Domains_2019	Sgip1	Ston2	Ston1	Arcn1	Ap5m1	Ap4m1	Ap3m2	Fcho2	Fcho1	Ap1m1	Ap3m1	Ap1m2	Ap2m1
+Multicopper oxidase, type 3	InterPro_Domains_2019	F8	Heph	Hephl1	Cp	F5
+Munc13 homology 1	InterPro_Domains_2019	Cadps2	Unc13c	Unc13d	Unc13a	Unc13b	Baiap3
+MyTH4 domain	InterPro_Domains_2019	Plekhh3	Myo15b	Myo15a	Myo10	Myo7a	Myo7b	Arhgap39	Plekhh1	Plekhh2
+Myb domain	InterPro_Domains_2019	Zzz3	Myb	Snapc4	Dmtf1	Cdc5lrt9	Terf1	Mybl1	Terf2	Mybl2
+Myb-like domain	InterPro_Domains_2019	Gon4l	Mypop	Snapc4	Dmtf1	Ep400	Ttf1
+Myb/SANT-like DNA-binding domain	InterPro_Domains_2019	Mypop	Msantd3	Naif1	Msantd4	Fsbp
+Myc-type, basic helix-loop-helix (bHLH) domain	InterPro_Domains_2019	Hes7	Mga	Mitf	Mycl	Mycs	Ptf1a	Ascl4	Epas1	Ascl5	Scx	Ahr	Ascl2	Npas1	Ascl3	Npas2	Npas3	Ascl1	Npas4	Atoh8	Atoh7	Nhlh2	Mxi1	Nhlh1	Myc	Hes2	Hes1	Hes3	Hes6	Atoh1	Hes5	Srebf1	Srebf2	Bhlha9	Helt	Bhlha15	Mxd1	Mlxipl	Tcf4	Sim2	Tcf3	Mxd3	Mxd4	Myf5	Myf6	Sim1	Max	Twist2	Bhlhe22	Twist1	Bhlhe23	Hif1a	Sohlh2	Sohlh1	Msc	Msgn1	Ncoa2	Ncoa3	Ncoa1	Figla	Tcf15	Myog	Tcf12	Tfec	Tfeb	Olig1	Myod1	Olig2	Olig3	Tfap4	Id1	Tal2	Id3	Tal1	Bhlhe40	Id2	Bhlhe41	Id4	Mesp2	Mesp1	Hif3a	Neurod2	Neurod4	Neurod6	Tfe3	Mlx	Neurod1	Arnt2	Tcfl5	Arnt	Usf3	Usf2	Heyl	Usf1	Hand1	Hand2	Ahrr	Neurog1	Neurog2	Clock	Neurog3	Tcf24	Tcf23	Tcf21	Ferd3l	Lyl1	Mnt	Hey2	Hey1	Mlxip
+Myosin head, motor domain	InterPro_Domains_2019	Myh7b	Myo16	Myo10	Myo5a	Myo5b	Myo7a	Myo7b	Myo9a	Myo19	Myo9b	Myo1e	Myh1	Myo1f	Myh3	Myo1c	Myo1d	Myo1a	Myo1b	Myo15b	Myo5c	Myo15a	Myo3a	Myo3b	Myh9	Myh6	Myh7	Myo1g	Myh8	Myo1h	Myo6	Myo18b	Myh14	Myh15	Myo18a	Myh13	Myh10	Myh11
+Myosin tail	InterPro_Domains_2019	Myh7b	Cgn	Ccdc102a	Myh1	Myh3	Myh9	Myh14	Myh15	Myo18a	Myh13	Myh10	Myh11	Myh6	Myh7	Cgnl1	Myh8
+Myosin, N-terminal, SH3-like	InterPro_Domains_2019	Myh7b	Myo5a	Myo5b	Myh1	Myh3	Myo5c	Myo6	Myh9	Myh14	Myh15	Myo18a	Myh13	Myh10	Myh11	Myh6	Myh7	Myh8
+Myotubularin-like phosphatase domain	InterPro_Domains_2019	Mtmr1	Mtmr2	Mtmr3	Mtmr11	Mtmr10	Mtmr4	Mtmr12	Mtmr9	Mtmr6	Mtmr7	Mtm1	Sbf2	Sbf1
+NACHT nucleoside triphosphatase	InterPro_Domains_2019	Nlrp14	Nlrp12	Nlrp10	Tep1	Nlrx1	Nod1	Nod2	Nlrc4	Nlrc5	Nlrc3	Nwd1	Nlrp9a	Nwd2	Nlrp5	Nlrp6	Nlrp3	Nlrp4c	Nlrp1a	Nlrp2	Ciita
+NAD(P)-binding domain	InterPro_Domains_2019	Gale	Gmds	Tgds	Uxs1	Htatip2	Blvrb
+NADP-dependent oxidoreductase domain	InterPro_Domains_2019	Akr1e1	Akr1d1	Akr1b1	Akr1a1	Kcnab1	Kcnab2	Akr7a5	Kcnab3	Akr1b7	Gclm
+NFkappaB IPT domain	InterPro_Domains_2019	Rela	Rel	Nfkb1	Nfkb2	Relb
+NIDO domain	InterPro_Domains_2019	Sned1	Nid1	Muc4	Nid2	Tecta
+NUDIX hydrolase domain	InterPro_Domains_2019	Nudt22	Nudt21	Nudt9	Dcp2	Idi1	Idi2	Nudt4	Nudt2	Nudt3	Nudt1	Nudt6	Nudt7	Nudt5	Trpm2	Nudt12	Nudt11	Nudt19	Nudt18	Nudt17	Nudt16	Nudt15	Mutyh	Nudt14	Nudt13
+Na-Ca exchanger/integrin-beta4	InterPro_Domains_2019	Adgrv1	Fras1	Itgb4	Frem1	Frem2	Slc8a1	Slc8a2	Frem3	Slc8a3
+Nascent polypeptide-associated complex NAC domain	InterPro_Domains_2019	Btf3	Naca	Btf3l4b	Nacad
+Natural killer cell receptor-like, C-type lectin-like domain	InterPro_Domains_2019	Clec2m	Clec12b	Clec2l	Clec12a	Clec9a	Klrk1	Clec1a	Clec1b	Clec7a	Clec5a	Klrd1	Klrc2	Klrb1	Cd69	Clec2d	Olr1	Klrg1	Klrg2
+Netrin domain	InterPro_Domains_2019	Wfikkn2	Wfikkn1	Ntn5	Pcolce	Ntn1	Sfrp1	Ntn3	C4b	Ntn4	C3	Sfrp4	AI182371	Sfrp5	Sfrp2	Frzb	Adamtsl5	Timp3	Timp4	Timp1	Timp2	Pcolce2
+Netrin module, non-TIMP type	InterPro_Domains_2019	Wfikkn2	Ntn5	Pcolce	Ntn1	Sfrp1	Ntn3	C4b	C3	Ntn4	Sfrp4	Sfrp5	AI182371	Frzb	Sfrp2	Adamtsl5	Pcolce2
+Neuralized homology repeat (NHR) domain	InterPro_Domains_2019	Neurl1b	Neurl3	Neurl4	Neurl1a	Neurl2
+Neurexin/syndecan/glycophorin C	InterPro_Domains_2019	Cadm4	Cntnap2	Cntnap1	Cadm2	Gypc	Cadm3	Nrxn2	Sdc3	Nrxn1	Cadm1	Sdc4	Nrxn3	Sdc1	Sdc2
+Neurotransmitter-gated ion-channel ligand-binding domain	InterPro_Domains_2019	Gabra3	Chrnb3	Gabrq	Gabra2	Chrnb2	Gabra1	Gabrp	Chrnb4	Gabra6	Gabra5	Gabra4	Gabrg1	Htr3b	Htr3a	Gabrg3	Gabrg2	Glrb	Chrna7	Chrnb1	Chrna2	Chrna1	Gabrb3	Chrna4	Gabrb2	Gabrb1	Chrna3	Chrna6	Chrna5	Chrna9	Chrnd	Glra1	Gabrr3	Glra2	Chrne	Glra3	Gabrr2	Gabrr1	Chrng	Chrna10	Gabre	Gabrd
+Neurotransmitter-gated ion-channel transmembrane domain	InterPro_Domains_2019	Gabra3	Chrnb3	Gabrq	Gabra2	Chrnb2	Gabra1	Gabrp	Chrnb4	Gabra6	Gabra5	Gabra4	Gabrg1	Htr3b	Htr3a	Gabrg3	Gabrg2	Glrb	Chrna7	Chrnb1	Chrna2	Chrna1	Gabrb3	Chrna4	Gabrb2	Gabrb1	Chrna3	Chrna6	Chrna5	Chrna9	Chrnd	Glra1	Gabrr3	Glra2	Chrne	Glra3	Gabrr2	Gabrr1	Chrng	Chrna10	Gabre	Gabrd
+Notch domain	InterPro_Domains_2019	Notch3	Notch1	Gnptab	Notch2	Pappa	Pappa2
+Nuclear RNA export factor Tap, RNA-binding domain	InterPro_Domains_2019	Nxf1	Nxf2	Nxf3
+Nuclear Testis  protein, N-terminal	InterPro_Domains_2019	Nutm2	Nutm1
+Nuclear hormone receptor, ligand-binding domain	InterPro_Domains_2019	Esrrb	Esrra	Vdr	Ppara	Nr1h3	Nr1h2	Nr1d1	Nr2f2	Nr1h4	Nr2f1	Nr0b2	Nr1d2	Esrrg	Nr0b1	Esr1	Nr2f6	Esr2	Nr5a2	Nr4a3	Nr6a1	Ar	Nr4a2	Nr5a1	Rarb	Pparg	Rara	Pgr	Ppard	Nr1i2	Thrb	Thra	Rarg	Nr1i3	Nr2e1	Hnf4g	Nr2e3	Rorb	Nr2c1	Rorc	Nr3c2	Nr2c2	Nr3c1	Rora	Nr4a1	Rxra	Rxrb	Hnf4a	Rxrg
+Nuclear transport factor 2	InterPro_Domains_2019	Nxf1	Nxf2	Nxt1	Nxf3	Nxt2	G3bp1	G3bp2	Nutf2
+Nuclear transport factor 2, eukaryote	InterPro_Domains_2019	Nxf1	Nxf2	Nxt1	Nxf3	Nxt2	G3bp1	G3bp2	Nutf2
+Nucleoside diphosphate kinase-like domain	InterPro_Domains_2019	Nme7	Nme8	Nme9	Nme3	Nme4	Nme5	Nme6	Nme1	Nme2
+OAR domain	InterPro_Domains_2019	Shox2	Prrx2	Prrx1	Arx	Rax	Pax7	Otp	Dmbx1	Alx4	Pitx1	Duxf3	Alx1	Vsx2	Drgx
+OB-fold nucleic acid binding domain, AA-tRNA synthetase-type	InterPro_Domains_2019	Nars2	Stn1	Nabp2	Rpa1	Dars2
+OBG-type guanine nucleotide-binding (G) domain	InterPro_Domains_2019	Mtg2	Drg1	Gtpbp10	Drg2	Ola1	Gtpbp4
+OTU domain	InterPro_Domains_2019	Otud5	Zranb1	Otud7b	Otud6a	Tnfaip3	Otud6b	Alg13	Otud7a	Yod1	Vcpip1	Otud1	Otub1	Otud3	Otud4	Otub2
+Occludin homology domain	InterPro_Domains_2019	Ocln	Marveld2	Ell	Ell2	Ell3	Ocel1
+Olduvai domain	InterPro_Domains_2019	Pde4dip
+Olfactomedin-like domain	InterPro_Domains_2019	Olfml2b	Olfml2a	Gldn	Olfm1	Olfm2	Olfm3	Olfm4	Olfml3	Olfml1	Adgrl1	Adgrl2	Myoc	Adgrl3
+Orange domain	InterPro_Domains_2019	Hes7	Hey2	Helt	Hey1	Bhlhe40	Bhlhe41	Hes2	Hes1	Hes6	Heyl	Hes5
+Oxidoreductase FAD/NAD(P)-binding	InterPro_Domains_2019	Cyb5r3	Cyb5r2	Mtrr	Cyb5r4	Oxnad1	Por	Nos3	Nos1	Nos2	Cyb5rl	Ndor1	Cyb5r1
+Oxoglutarate/iron-dependent dioxygenase	InterPro_Domains_2019	Egln2	Egln1	Egln3	P3h3	P3h2	Plod3	Plod2	Alkbh8	P3h1	Alkbh3	Alkbh6	P4ha1	Plod1	P4ha2	P4ha3	Ogfod1	Ogfod2	Alkbh2	Ogfod3	Alkbh1	P4htm
+P domain	InterPro_Domains_2019	Pcsk2	Pcsk1	Furin	Pcsk7	Pcsk6	Pcsk5	Pcsk4
+P-type ATPase, C-terminal	InterPro_Domains_2019	Atp8b4	Atp8b3	Atp8a2	Atp8b2	Atp8a1	Atp8b1	Atp10d	Atp10b	Atp11c	Atp10a	Atp11b	Atp11a	Atp9b	Atp9a
+P-type ATPase, N-terminal	InterPro_Domains_2019	Atp8b4	Atp8b3	Atp8a2	Atp8b2	Atp8a1	Atp8b1	Atp10d	Atp10b	Atp11c	Atp10a	Atp11b	Atp11a	Atp9b	Atp9a
+P-type trefoil domain	InterPro_Domains_2019	Mgam	Sis	Mgam2-ps	Gaa	Tff3	Tff2	Zp1	Tff1
+PA domain	InterPro_Domains_2019	Rnf13	Tfrc	Edem3	Sppl2b	Sppl2a	Naaladl1	Rnf148	Znrf4	Folh1	Rnf128	Tfr2	Pradc1	Rnf150	Naalad2	Rnf130	Rnf167	Rnf133
+PAN/Apple domain	InterPro_Domains_2019	F11	Mst1	Hgf	Plg	Klkb1
+PAP/25A-associated	InterPro_Domains_2019	Mtpap	Tut7	Tut4	Tent2	Tut1	Tent4a	Tent4b
+PAS domain	InterPro_Domains_2019	Kcnh3	Arnt2	Ncoa2	Ncoa3	Kcnh4	Kcnh5	Ncoa1	Kcnh6	Kcnh7	Kcnh8	Arnt	Pasd1	Pask	Per3	Per2	Per1	Ahrr	Sim2	Clock	Sim1	Epas1	Hif3a	Ahr	Hif1a	Npas1	Npas2	Npas3	Npas4	Pde8b	Kcnh1	Pde8a	Kcnh2
+PAS fold	InterPro_Domains_2019	Arnt2	Ncoa2	Ncoa3	Epas1	Ncoa1	Arnt	Ahr	Hif3a	Npas1	Hif1a	Npas2	Npas3	Ahrr	Sim2	Clock	Pde8a	Sim1
+PAS fold-3	InterPro_Domains_2019	Arnt2	Epas1	Ahr	Hif3a	Npas1	Hif1a	Npas3	Npas4	Per3	Per2	Per1	Sim2	Sim1
+PAS-associated, C-terminal	InterPro_Domains_2019	Kcnh3	Kcnh4	Kcnh5	Kcnh8	Kcnh1	Kcnh2
+PAZ domain	InterPro_Domains_2019	Piwil2	Piwil4	Ago4	Ago2	Ago3	Dicer1	Ago1	Piwil1
+PB1 domain	InterPro_Domains_2019	Map3k3	Map2k5	Prkci	Map3k2	Ncf2	Ncf4	Pard6g	Pard6a	Prkcz	Pard6b	Tfg	Nbr1	Noxa1	Sqstm1
+PDGF/VEGF domain	InterPro_Domains_2019	Pdgfd	Pdgfc	Vegfc	Pdgfb	Vegfd	Pdgfa	Vegfa	Pgf	Vegfb
+PDZ domain	InterPro_Domains_2019	Ahnak2	Scrib	Lmo7	Sdcbp2	Ptpn3	Grid2ip	Ptpn4	Frmpd1	Frmpd4	Stxbp4	Ahnak	Frmpd2	Synpo2	Frmpd3	Pard6g	Pard6a	Psmd9	Grip1	Prex2	Grip2	Pard6b	Prex1	Snx27	Arhgef12	Arhgef11	Pard3	Cask	Pdzk1	Sdcbp	Cnksr3	Dlg1	Cnksr2	Dlg2	Cnksr1	Dlg3	Dlg4	Dlg5	Radil	Card14	Patj	Htra4	Htra2	Htra3	Lin7b	Lin7a	Htra1	Ppp1r9b	Lin7c	Ppp1r9a	Arhgap23	Rims2	Arhgap21	Rgs3	Pdzd4	Pdzd2	Rims1	Myo18a	Pdzd9	Pdzd8	Pdzd7	Limk1	Il16	Limk2	Shroom3	Shroom4	Ptpn13	Shroom2	Pard3b	Shank1	Afdn	Gipc1	Synpo2l	Gipc2	Gipc3	Rapgef2	Magix	Tax1bp3	Rapgef6	Pdzrn3	Pdzrn4	Shank3	Shank2	Mast1	Mast4	Mast3	Intu	Mast2	Lrrc7	Pdlim2	Pdlim1	Pdlim4	Pdlim3	Sntg1	Prx	Sntg2	Pdzd11	Dvl1	Dvl2	Dvl3	Rhpn2	Rhpn1	Mpdz	Cytip	Pdlim5	Pdlim7	Magi2	Mpp2	Magi1	Mpp3	Mpp4	Whrn	Pick1	Mpp1	Magi3	Erbin	Mpp7	Tiam1	Synj2bp	Tjp2	Tjp1	Tiam2	Sntb1	Lnx2	Lnx1	Apba2	Apba1	Gopc	Rgs12	Sipa1	Apba3	Sntb2	Tjp3	Ldb3	Sipa1l3	Ush1c	Pclo	Sipa1l1	Sipa1l2	Nos1	Deptor	Snta1
+PET domain	InterPro_Domains_2019	Tes	Prickle3	Prickle4	Prickle1	Prickle2	Lmcd1
+PH-BEACH domain	InterPro_Domains_2019	Lrba	Nbeal1	Nbeal2	Wdfy4	Wdfy3	Nbea	Lyst	Nsmaf
+PHR	InterPro_Domains_2019	Btbd2	Btbd1	Mycbp2	Btbd3	Btbd6
+PIK-related kinase	InterPro_Domains_2019	Trrap	Smg1	Atm	Prkdc	Mtor	Atr
+PIK-related kinase, FAT	InterPro_Domains_2019	Trrap	Atm	Prkdc	Mtor	Atr
+PIN domain	InterPro_Domains_2019	Smg5	Dis3	Swt1	Nob1	Smg6
+PKD domain	InterPro_Domains_2019	Pkd1	Pmel	Gpnmb	Pkd1l1	Sorcs2	Sorcs1	D130043K22Rik	Lrp11	AU040320	Tmem130	Sorcs3
+PKD/Chitinase domain	InterPro_Domains_2019	Pkd1	Pmel	Gpnmb	Pkd1l1	Sorcs2	D130043K22Rik	Lrp11	AU040320
+PKD/REJ-like domain	InterPro_Domains_2019	Pkd1	Pkd1l1	Pkdrej	Pkd1l2	D130043K22Rik
+PLAC	InterPro_Domains_2019	Papln	Pcsk6	Adamts12	Adamts10	Thsd4	Adamts17	Adamtsl2	Adamtsl1	Adamts6	Adamts16	Adamts3	Adamts14	Adamts2	Adamtsl4	Adamts19	Adamts18	Adamtsl3	Adamts7
+PLAT/LH2 domain	InterPro_Domains_2019	Pnliprp2	Pkd1	Pnliprp1	Lpl	Pkd1l1	Alox15	Pkdrej	Pkd1l2	Pkd1l3	Alox12b	Alox12	Lipc	Loxhd1	Alox8	Lipg	Alox5	Dennd5b	Dennd5a	Aloxe3	Pnlip
+POU domain	InterPro_Domains_2019	Pou1f1	Pou2f1	Pou2f2	Pou3f1	Esx1	Pou2f3	Pou3f2	Pou4f1	Pou4f2	Pou3f3	Pou5f1	Pou3f4	Pou4f3	Pou6f1	Pou5f2	Pou6f2
+POU-specific domain	InterPro_Domains_2019	Pou1f1	Pou2f1	Pou2f2	Pou3f1	Pou2f3	Pou3f2	Pou4f1	Pou4f2	Pou3f3	Pou5f1	Pou3f4	Pou4f3	Pou6f1	Pou5f2	Pou6f2
+PPM-type phosphatase domain	InterPro_Domains_2019	Phlpp1	Phlpp2	Ppm1m	Ppm1n	Ppm1j	Ppm1k	Ppm1l	Pptc7	Ppm1e	Ppm1f	Ppm1g	Ppm1h	Ppm1a	Pdp2	Ppm1b	Pdp1	Pp2d1	Ppm1d	Tab1	Ilkap
+PRELI/MSF1 domain	InterPro_Domains_2019	Sec14l1	Prelid2	Prelid1	Sec14l5	Prelid3a	Prelid3b
+PSI domain	InterPro_Domains_2019	Sema4a	Sema6d	Sema4b	Sema6a	Atrnl1	Plxnc1	Sema4f	Sema4c	Sema4d	Sema4g	Plxdc2	Atrn	Plxnb3	Plxnb2	Met	Plxnb1	Megf8	Itgb2l	Sema5b	Sema3a	Itgb1	Sema5a	Itgb6	Sema3d	Plxnd1	Itgb5	Sema3e	Itgb4	Sema3b	Itgb3	Sema3c	Sema3f	Pttg1ip	Mst1r	Sema3g	Plxna3	Plxna2	Plxna1	Itgb8	Itgb7	Sema7a	Plxna4
+PTB/PI domain	InterPro_Domains_2019	Rabgap1l	Gulp1	Mapk8ip1	Mapk8ip2	Tbc1d1	Dab2	Tbc1d4	Nos1ap	Dab1	Itgb1bp1	Apba2	Ccm2	Apba1	Rgs12	Apba3	Numb	Pid1	Rabgap1	Shc3	Shc4	Shc1	Fam43a	Eps8	Tns1	Apbb1	Eps8l1	Eps8l2	Apbb3	Fam43b	Ldlrap1	Apbb2	Appl1	Anks1b	Tns4	Anks1	Numbl	Sh2d5	Tns3	Tns2	Appl2
+PTBP1, RNA recognition motif 2-like	InterPro_Domains_2019	Ptbp1	Ptbp2	Hnrnpl	Ptbp3	Hnrnpll
+PTP type protein phosphatase	InterPro_Domains_2019	Ptpn18	Ptpn1	Ptprn2	Ptpn2	Ptpn11	Ptpn12	Ptpn13	Ptpn14	Ptp4a2	Ptpre	Ptprf	Ptprc	Ptprd	Ptpra	Ptprb	Ptpn20	Ptpn9	Ptpn7	Ptpn5	Ptpn6	Ptpn3	Ptpn4	Ptpru	Ptprs	Ptprt	Ptprq	Ptprr	Ptpro	Ptpn21	Ptprm	Ptpn22	Ptprn	Ptpn23	Ptprk	Ptprj	Ptprg	Ptprh	Ptprz1
+PUA domain	InterPro_Domains_2019	Dkc1	Nsun6	Nip7	Mcts1	Eif2d
+PUB domain	InterPro_Domains_2019	Ern2	Rnasel	Ngly1	Ubxn6	Rnf31	Ern1
+PWI domain	InterPro_Domains_2019	Rbm26	Rbm27	Prpf3	Rbm25	Srrm1
+PWWP domain	InterPro_Domains_2019	Mbd5	Zmynd8	Brpf1	Hdgfl1	Brd1	Brpf3	Dnmt3a	Dnmt3c	Psip1	Zcwpw2	Nsd1	Nsd2	Zcwpw1	Msh6	Nsd3	Pwwp3b	Pwwp2a	Pwwp2b	Zmynd11	Hdgf	Hdgfl2	Hdgfl3	Glyr1
+Paired domain	InterPro_Domains_2019	Pax9	Pax8	Pax5	Pax4	Pax7	Pax6	Pax1	Pax3	Pax2
+Palmitoyltransferase, DHHC domain	InterPro_Domains_2019	Zdhhc1	Zdhhc20	Zdhhc21	Zdhhc6	Zdhhc24	Zdhhc13	Zdhhc14	Zdhhc7	Zdhhc22	Zdhhc8	Zdhhc11	Zdhhc23	Zdhhc12	Zdhhc9	Zdhhc2	Zdhhc17	Zdhhc3	Zdhhc18	Zdhhc4	Zdhhc15	Zdhhc5	Zdhhc16	Zdhhc19
+Pancreatic trypsin inhibitor Kunitz domain	InterPro_Domains_2019	App	Wfdc8	Col28a1	Wfikkn2	Wfikkn1	Tfpi2	Papln	Aplp2	Ambp	Spint4	Spint3	Tfpi	Spint2	Spint1	Col6a3	Eppin
+Papain-like cysteine endopeptidase	InterPro_Domains_2019	Ctso	Ctsk	Ctsh	Ctsw	Ctsf	Ctss
+Patatin-like phospholipase domain	InterPro_Domains_2019	Pnpla8	Pnpla5	Pnpla6	Pla2g6	Pnpla7	Pnpla1	Pnpla2	Pnpla3
+Peptidase A2A, retrovirus, catalytic	InterPro_Domains_2019	Asprv1
+Peptidase C14,  p20 domain	InterPro_Domains_2019	Cflar	Malt1	Casp14	Casp8	Casp9	Casp6	Casp12	Casp7	Casp2	Casp3	Casp1
+Peptidase C14, caspase non-catalytic subunit p10	InterPro_Domains_2019	Casp14	Casp8	Casp9	Casp6	Casp12	Casp7	Casp2	Casp3	Casp1
+Peptidase C14A, caspase catalytic domain	InterPro_Domains_2019	Cflar	Casp14	Casp8	Casp9	Casp6	Casp12	Casp7	Casp2	Casp3	Casp1
+Peptidase C19, ubiquitin carboxyl-terminal hydrolase	InterPro_Domains_2019	Usp25	Usp8	Usp7	Usp28	Usp21	Usp9x	Usp32	Usp9y	Usp5	Usp22	Usp4	Usp24	Usp3	Usp26	Cyld	Usp20	Usp36	Usp37	Usp38	Usp39	Usp33	Usp34	Usp35	Usp2	Usp1	Usp30	Usp31	Usp47	Usp48	Usp49	Usp43	Usp44	Usp45	Usp46	Usp40	Usp42	Usp14	Usp15	Usp16	Usp27x	Usp54	Usp10	Usp11	Usp12	Usp13	Usp18	Usp19	Usp50	Usp51	Usp53
+Peptidase C19, ubiquitin-specific peptidase, DUSP domain	InterPro_Domains_2019	Usp48	Usp15	Usp32	Usp33	Usp11	Usp4	Usp20
+Peptidase C1A, papain C-terminal	InterPro_Domains_2019	Ctsb	Tinagl1	Ctsz	Ctsw	Ctss	Ctso	Ctsk	Ctsh	Tinag	Ctsf	Ctsc
+Peptidase C2, calpain, catalytic domain	InterPro_Domains_2019	Adgb	Capn15	Capn9	Capn12	Capn13	Capn7	Capn10	Capn11	Capn8	Capn5	Capn6	Capn3	Capn1	Capn2
+Peptidase C2, calpain, domain III	InterPro_Domains_2019	Capn9	Capn12	Capn7	Capn10	Capn11	Capn8	Capn5	Capn6	Capn3	Capn1	Capn2
+Peptidase C2, calpain, large subunit, domain III	InterPro_Domains_2019	Capn9	Capn12	Capn13	Capn7	Capn10	Capn11	Capn8	Capn5	Capn6	Capn3	Capn1	Capn2
+Peptidase M1, membrane alanine aminopeptidase	InterPro_Domains_2019	Enpep	Rnpepl1	Lvrn	Erap1	Lnpep	Trhde	Npepps	Aopep	Anpep	Rnpep	Lta4h
+Peptidase M10, metallopeptidase	InterPro_Domains_2019	Mmp7	Mmp8	Mmp1a	Mmp2	Mmp3	Mmp9	Mmp20	Mmp11	Mmp21	Mmp24	Mmp13	Mmp12	Mmp15	Mmp14	Mmp25	Mmp28	Mmp17	Mmp16	Mmp27	Mmp19	Mmp23
+Peptidase M10A, catalytic domain	InterPro_Domains_2019	Mmp7	Mmp8	Mmp1a	Mmp2	Mmp3	Mmp9	Mmp20	Mmp11	Mmp21	Mmp24	Mmp13	Mmp12	Mmp15	Mmp14	Mmp25	Mmp28	Mmp17	Mmp16	Mmp27	Mmp19	Mmp23
+Peptidase M12A	InterPro_Domains_2019	Bmp1	Mep1b	Astl	Tll2	Tll1
+Peptidase M12B, ADAM/reprolysin	InterPro_Domains_2019	Adam12	Adamts20	Adam11	Adam33	Adam10	Adam32	Adam30	Adam2	Adam18	Adam17	Adam7	Adam15	Adam9	Adam8	Adamdec1	Adam23	Adam22	Adam21	Adam25	Adamts13	Adamts12	Adamts10	Adamts17	Adamts5	Adamts16	Adamts6	Adamts3	Adamts15	Adam29	Adam28	Adamts4	Adamts14	Adamts1	Adamts2	Adamts19	Adamts18	Adamts9	Adamts7	Adamts8
+Peptidase M12B, propeptide	InterPro_Domains_2019	Adam12	Adamts20	Adam11	Adam33	Adam10	Adam32	Adam30	Adam2	Adam18	Adam17	Adam7	Adam15	Adam9	Adam8	Adamdec1	Adam23	Adam22	Adam21	Adam25	Adamts12	Adamts10	Adamts17	Adamts5	Adamts16	Adamts6	Adamts3	Adamts15	Adam29	Adam28	Adamts4	Adamts14	Adamts1	Adamts2	Adamts19	Adamts18	Adamts9	Adamts7	Adamts8
+Peptidase M13, C-terminal domain	InterPro_Domains_2019	Kel	Ecel1	Mme	Mmel1	Ece1	Ece2	Phex
+Peptidase M13, N-terminal domain	InterPro_Domains_2019	Kel	Ecel1	Mme	Mmel1	Ece1	Ece2	Phex
+Peptidase M14, carboxypeptidase A	InterPro_Domains_2019	Cpa4	Cpa3	Agtpbp1	Cpa2	Cpa1	Cpb2	Cpb1	Aebp1	Cpz	Cpn1	Agbl5	Agbl2	Agbl1	Cpe	Agbl4	Agbl3	Cpd	Cpxm2	Cpxm1	Cpm	Cpa6	Cpa5
+Peptidase M16, C-terminal	InterPro_Domains_2019	Pitrm1	Nrdc	Ide	Uqcrc2	Uqcrc1	Pmpcb	Pmpca
+Peptidase M16, N-terminal	InterPro_Domains_2019	Pitrm1	Nrdc	Ide	Uqcrc2	Uqcrc1	Pmpcb	Pmpca
+Peptidase M20, dimerisation domain	InterPro_Domains_2019	Pm20d2	Acy1	Cndp1	Cndp2	Pm20d1
+Peptidase M24	InterPro_Domains_2019	Metap1d	Supt16	Xpnpep1	Xpnpep2	Xpnpep3	Pa2g4	Metap1	Pepd	Metap2
+Peptidase M28	InterPro_Domains_2019	Qpctl	Ncln	Cpq	Ermp1	Folh1	Tfrc	Tfr2	Naalad2	Qpct	Naaladl1	Naaladl2
+Peptidase S24/S26A/S26B/S26C	InterPro_Domains_2019	Sec11a	Immp1l	Immp2l	Sec11c
+Peptidase S54, rhomboid domain	InterPro_Domains_2019	Rhbdf2	Rhbdf1	Rhbdd3	Rhbdd2	Rhbdd1	Rhbdl3	Rhbdl2	Rhbdl1	Parl
+Peptidase S8, pro-domain	InterPro_Domains_2019	Pcsk2	Pcsk1	Furin	Pcsk7	Pcsk6	Pcsk5	Pcsk4
+Peptidase S8/S53 domain	InterPro_Domains_2019	Mbtps1	Pcsk2	Pcsk1	Furin	Pcsk9	Tpp2	Pcsk7	Pcsk6	Pcsk5	Pcsk4
+Peptidase S9, prolyl oligopeptidase, catalytic domain	InterPro_Domains_2019	Dpp10	Dpp6	Prepl	Dpp8	Dpp9	Fap	Prep	Apeh	Dpp4
+Peptidase family A1 domain	InterPro_Domains_2019	Bace2	Napsa	Pgc	Ren1	Ctse	Ctsd	Bace1
+Peptidase, metallopeptidase	InterPro_Domains_2019	Mmp7	Mmp8	Mmp1a	Mmp2	Mmp3	Mmp9	Mmp11	Mmp13	Mmp12	Mmp15	Mmp14	Bmp1	Mmp17	Mmp16	Mep1b	Mmp19	Mmp23	Astl	Tll2	Tll1	Mmp20	Mmp21	Mmp24	Mmp25	Mmp28	Mmp27
+Peptidoglycan binding-like	InterPro_Domains_2019	Mmp7	Mmp8	Mmp1a	Mmp2	Mmp3	Mmp9	Mmp20	Mmp21	Mmp13	Mmp24	Mmp12	Mmp15	Mmp25	Mmp14	Mmp17	Mmp28	Mmp27	Mmp16	Mmp19
+Peroxiredoxin, C-terminal	InterPro_Domains_2019	Prdx4	Prdx3	Prdx6	Prdx2	Prdx1
+Phosphatidic acid phosphatase type 2/haloperoxidase	InterPro_Domains_2019	Plppr1	Plppr2	Plppr3	Plppr4	Plppr5	Dolpp1	G6pc2	Sgpp2	Sgpp1	Plpp7	Plpp6	G6pc3	Plpp5	Plpp4	Plpp3	Plpp2	Plpp1
+Phosphatidylinositol 3-/4-kinase, catalytic domain	InterPro_Domains_2019	Trrap	Smg1	Prkdc	Pik3cd	Pik3c2g	Pik3c2b	Mtor	Pik3c2a	Pik3cg	Pik3cb	Pik3ca	Pi4kb	Pi4ka	Atm	Pik3c3	Atr	Pi4k2b	Pi4k2a
+Phosphatidylinositol 3-kinase Ras-binding (PI3K RBD) domain	InterPro_Domains_2019	Pik3cb	Pik3ca	Pik3cd	Pik3c2g	Pik3c2b	Pik3c2a	Pik3cg
+Phosphatidylinositol 3-kinase, C2 domain	InterPro_Domains_2019	Pik3cb	Pik3ca	Pik3cd	Pik3c2g	Pik3c3	Pik3c2b	Pik3c2a	Pik3cg
+Phosphatidylinositol-4-phosphate 5-kinase, core	InterPro_Domains_2019	Pip5kl1	Pikfyve	Pip4k2a	Pip5k1a	Pip5k1b	Pip4k2b	Pip5k1c	Pip4k2c
+Phosphatidylinositol-specific phospholipase C, X domain	InterPro_Domains_2019	Plcl1	Plch1	Plcl2	Plcxd2	Plcxd3	Plcxd1	Plcb4	Plcz1	Plce1	Plcd1	Plcg1	Plch2	Plcg2	Plcb2	Plcd4	Plcb3	Plcb1	Plcd3
+Phosphoinositide 3-kinase, accessory (PIK) domain	InterPro_Domains_2019	Pik3cb	Pik3ca	Pi4kb	Pi4ka	Pik3cd	Pik3c2g	Pik3c3	Pik3c2b	Pik3c2a	Pik3cg
+Phosphoinositide-specific phospholipase C, EF-hand-like domain	InterPro_Domains_2019	Plcl1	Plcb4	Plch1	Plcl2	Plcz1	Plce1	Plcd1	Plch2	Plcb2	Plcd4	Plcb3	Plcb1
+Phospholipase A2 domain	InterPro_Domains_2019	Pla2g2e	Pla2g2f	Pla2g2c	Pla2g1b	Pla2g2d	Pla2g10	Pla2g2a	Pla2g3	Proca1	Pla2g5	Oc90
+Phospholipase C, phosphatidylinositol-specific, Y domain	InterPro_Domains_2019	Plcl1	Plch1	Plcl2	Plcb4	Plcz1	Plce1	Plcd1	Plcg1	Plch2	Plcg2	Plcb2	Plcd4	Plcb3	Plcb1	Plcd3
+Phospholipase D/Transphosphatidylase	InterPro_Domains_2019	Pgs1	Pld6	Pld5	Pld2	Pld1	Pld4	Pld3
+Phospholipid/glycerol acyltransferase	InterPro_Domains_2019	Lpgat1	Lpcat2	Lpcat1	Agpat1	Lclat1	Agpat2	Agpat3	Agpat4	Agpat5	Gpam	Tmem68	Lpcat4	Gnpat	Gpat2	Gpat4	Gpat3
+Phosphopantetheine binding ACP domain	InterPro_Domains_2019	Aldh1l2	Aldh1l1	Aasdh	Fasn	Ndufab1
+Phosphoribosyltransferase domain	InterPro_Domains_2019	Prpsap2	Prps2	Prps1l3	Ppat	Hprt1	Uprt	Uckl1	Umps	Prps1l1	Aprt
+Phox homologous domain	InterPro_Domains_2019	Nisch	Arhgap32	Ncf1	Sgk3	Noxo1	Snx33	Snx31	Pld2	Pld1	Snx32	Snx30	Snx4	Snx5	Snx2	Snx3	Sh3pxd2b	Snx29	Sh3pxd2a	Snx1	Snx27	Pxdc1	Rps6kc1	Snx8	Snx9	Snx6	Snx7	Snx24	Snx25	Snx22	Snx20	Snx21	Snx19	Snx17	Snx18	Snx15	Snx16	Pxk	Ncf4	Snx13	Snx14	Snx11	Snx12	Pik3c2g	Pik3c2b	Snx10	Pik3c2a	Hs1bp3
+PiggyBac transposable element-derived protein	InterPro_Domains_2019	Pgbd5	Pgbd1
+Piwi domain	InterPro_Domains_2019	Piwil2	Piwil4	Ago4	Ago2	Ago3	Ago1	Piwil1
+Pleckstrin homology domain	InterPro_Domains_2019	Plekha2	Plekha3	Plekha1	Plekha6	Afap1	Plekha7	Plekha4	Plekha5	Plekha8	Tec	Spata13	Plcd1	Plcd4	Skap1	Ngef	Skap2	Plcd3	Plekhb1	Plekhb2	Prex2	Prex1	Akt3	Akt1	Akt2	Afap1l1	Afap1l2	Iqsec2	Iqsec1	Fermt1	Plekhs1	Bcr	Cnksr2	Fermt2	Cnksr1	Net1	Prkd1	Btk	Prkd3	Prkd2	Grb7	Fermt3	Plekhd1	Trio	Plek2	Itsn1	Itsn2	Raph1	Triobp	Abr	Ralgps1	Plcg1	Plcg2	Ralgps2	Exoc8	Gab2	Gab1	Gab3	Vav1	Vav2	Vav3	Anln	Apbb1ip	Veph1	Plekhm2	Plekhm3	Arhgef5	Arhgef2	Arhgef3	Plekhm1	Arhgef9	Arhgef6	Itk	Arhgef7	Sptbn4	Sptbn5	Arhgef1	Rasal1	Rasal2	Kalrn	Sntg1	Kif1a	Stap1	Plekhn1	Kif1b	Sptbn1	Sptbn2	Psd	Farp2	Mcf2	Cit	Farp1	Dab2ip	Plekho1	Plekho2	Phlpp1	Akap13	Mprip	Ophn1	Appl1	Appl2	Plcl1	Phlda1	Tbc1d2b	Plcl2	Arhgef39	Arhgap27	Arhgap26	Arhgap25	Def6	Arhgap24	Dok1	Dok2	Acap3	Obscn	Dok3	Acap2	Dok4	Dok5	Dok6	Dok7	Elmo1	Elmo2	Elmo3	Osbp2	Dgkh	Phldb2	Rock1	Phldb1	Rock2	Dgkd	Asap2	Asap3	Acap1	Fgd1	Fgd2	Fgd3	Fgd4	Dock11	Fgd5	Fgd6	Arhgap42	Dock10	Sh3bp2	Asap1	Grb14	Sh2b1	Grb10	Phlda3	Arhgef40	Phlda2	Sh2b3	Plekhj1	Sh2b2	Arhgef12	Cadps2	Swap70	Osbpl9	Arhgef11	Osbpl8	Osbpl7	Osbpl6	Arhgef16	Osbpl5	Arhgef18	Osbpl3	Arhgef19	Ipcef1	Adap2	Adap1	Arhgap12	Arhgap10	Phldb3	Dgkk	Osbpl1a	Arhgef25	Rtkn	Arhgap9	Irs1	Irs2	Arhgef26	Dock9	Rtkn2	Arhgef28	Irs4	Arhgap15	Dapp1	Osbpl10	Osbpl11	Arhgap23	Arhgap22	Arhgap21	Arhgap20	Osbp	Sbf2	Sbf1	Rasa4	Plch1	Cdc42bpg	Arap3	Arap1	Arap2	Pheta1	Cdc42bpb	Dnm1	Bmx	Cdc42bpa	Pheta2	Dnm2	Dnm3	Rasa1	Rasa2	Rasa3	Plch2	Sos2	Sos1	Plekhf1	Plekhf2	Rasgrf1	Rasgrf2	Agap3	Agap2	Pld2	Pld1	Agap1	Grk2	Grk3	Mcf2l	Plekhg4	Plekhg5	Plekhg2	Plekhg3	Plekhg6	Myo10	Tiam1	Tbc1d2	Tiam2	Sntb1	Plekhg1	Sntb2	Plekhh3	Plek	Cyth4	Cyth3	Syngap1	Psd3	Psd2	Psd4	Plekhh1	Plekhh2	Snta1	Cyth2	Cyth1
+Pleckstrin homology domain, spectrin-type	InterPro_Domains_2019	Sptbn4	Psd	Psd2	Psd4	Sptbn1	Sptbn2
+Plexin, cytoplasmic RasGAP domain	InterPro_Domains_2019	Plxnc1	Plxnd1	Plxna3	Plxna2	Plxnb3	Plxnb2	Plxna1	Plxnb1	Plxna4
+Pointed domain	InterPro_Domains_2019	Spdef	Ehf	Elf3	Elf5	Erg	Ets1	Fli1	Ets2	Etv6	Gabpa
+Poly(ADP-ribose) polymerase, catalytic domain	InterPro_Domains_2019	Parp6	Parp4	Tiparp	Parp2	Parp3	Tnks	Parp1	Zc3hav1	Tnks2	Parp16	Parp8	Parp9	Parp14	Parp11	Parp12	Parp10
+Polyadenylate-binding protein/Hyperplastic disc protein	InterPro_Domains_2019	Ubr5	Pabpc1	Pabpc4	Pabpc1l
+Polycystin cation channel, PKD1/PKD2	InterPro_Domains_2019	Pkd1	Pkd1l1	Pkdrej	Pkd2l1	Pkd1l2	Pkd2l2	Pkd1l3	Mcoln2	Mcoln3	Pkd2	Mcoln1
+Polyketide synthase, enoylreductase domain	InterPro_Domains_2019	Mecr	Adh1	Sord	Adh6b	Ptgr1	Vat1	Adh4	Cryz	Fasn	Cryzl1	Rtn4ip1	Vat1l
+Polymerase, nucleotidyl transferase domain	InterPro_Domains_2019	Oas2	Tut7	Oas3	Tut4	Papolg	Papolb	Papola	Tent4a	Oas1b	Tent4b
+Post-SET domain	InterPro_Domains_2019	Kmt2b	Setdb1	Kmt2a	Suv39h2	Kmt2d	Setd1b	Suv39h1	Kmt2c	Ash1l	Nsd1	Nsd2	Nsd3	Setd2
+Potassium channel domain	InterPro_Domains_2019	Kcnk6	Kcnk7	Kcnk10	Kcnk9	Kcnk12	Kcnk13	Kcnk15	Kcnk16	Kcnk18	Kcnt1	Kcnt2	Kcnn1	Kcnn2	Kcnn3	Kcnn4	Kcnk1	Kcnk2	Kcnk3	Kcnk4	Kcnk5
+Potassium channel tetramerisation-type BTB domain	InterPro_Domains_2019	Kcnf1	Kcnb1	Kcnrg	Kcns1	Kcns2	Kcns3	Kcng1	Kcng2	Kcng3	Kcng4	Kcnc1	Kcnc2	Kcnc3	Kcnc4	Tnfaip1	Kcnd1	Kcnd2	Kcnd3	Kctd1	Kctd2	Kctd3	Kctd4	Kctd5	Kctd6	Kctd7	Kctd8	Kctd9	Kctd10	Kctd11	Shkbp1	Kctd14	Kctd15	Kcna10	Kctd12	Kctd13	Kctd18	Kctd19	Kctd16	Kctd17	Kcna1	Kcna2	Kcna3	Kcna4	Kcna5	Kcna6	Kcna7	Kcnv1	Kcnv2	Kctd21
+Potassium channel, inwardly rectifying, transmembrane domain	InterPro_Domains_2019	Kcnj5	Kcnj6	Kcnj10	Kcnj8	Kcnj11	Kcnj9	Kcnj12	Kcnj13	Kcnj14	Kcnj15	Kcnj16	Kcnj1	Kcnj2	Kcnj3	Kcnj4
+Potassium channel, voltage dependent, KCNQ, C-terminal	InterPro_Domains_2019	Kcnq1	Kcnq2	Kcnq3	Kcnq4	Kcnq5
+Potentiating neddylation domain	InterPro_Domains_2019	Dcun1d4	Dcun1d5	Dcun1d2	Dcun1d3	Tes3-ps
+Pre-SET domain	InterPro_Domains_2019	Setdb2	Setdb1	Suv39h2	Suv39h1	Ehmt1	Ehmt2
+Prolyl 4-hydroxylase, alpha subunit	InterPro_Domains_2019	Egln2	Egln1	Egln3	P3h3	P3h2	Plod3	Plod2	P3h1	P4ha1	Plod1	P4ha2	P4ha3	Ogfod1	Ogfod2	Ogfod3	P4htm
+Proteasomal ATPase OB C-terminal domain	InterPro_Domains_2019	Psmc6	Psmc4	Psmc5	Psmc3	Psmc1
+Proteasome alpha-subunit, N-terminal domain	InterPro_Domains_2019	Psma6	Psma7	Psma4	Psma5	Psma2	Psma3	Psma1	Psma8
+Proteasome component (PCI) domain	InterPro_Domains_2019	Psmd11	Eif3a	Psmd13	Psmd12	Pcid2	Gps1	Leng8	Cops7b	Cops7a	Cops4	Mcm3ap	Eif3l	Eif3m	Psmd6	Psmd3	Cops3	Eif3k	Cops2	Eif3c	Cops8	Eif3e	Sac3d1
+Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	InterPro_Domains_2019	Unc13c	Unc13a	Unc13b	Ksr2	Ksr1	Cdc42bpg	Arhgap29	Braf	Cdc42bpb	Def8	Cdc42bpa	Gmip	Vav1	Vav2	Vav3	Arhgef2	Plekhm1	Raf1	Dgkh	Dgkg	Rock1	Dgke	Rock2	Dgkd	Dgkb	Dgka	Araf	Arhgap45	Racgap1	Prkch	Prkcg	Prkci	Prkcd	Stac	Prkce	Nsmce1	Prkcb	Prkca	Cit	Myo9a	Myo9b	Dgkz	Prkcz	Stac2	Stac3	Dgkq	Prkd1	Prkd3	Prkcq	Prkd2	Dgkk	Dgki	Arhgef28	Rasgrp3	Rasgrp2	Rasgrp4	Akap13	Rassf1	Rasgrp1	Rassf5	Chn2	Chn1	Pdzd8	Tns2
+Protein kinase domain	InterPro_Domains_2019	Cdk18	Cdk19	Pask	Tec	Cdk10	Tek	Cdk12	Cdk13	Ankk1	Cdk14	Cdk15	Cdk16	Cdk17	Prkaa2	Tesk1	Tesk2	Araf	Prkaa1	Akt3	Cdk20	Akt1	Akt2	Prkch	Plk5	Plk4	Prkcg	Srms	Dmpk	Prkci	Plk1	Prkcd	Plk3	Plk2	Prkce	Tex14	Prkcb	Prkca	Mastl	Lats2	Lats1	Prkcz	Prkd1	Prkd3	Prkcq	Prkd2	Trio	Mylk	Dstyk	Tbk1	Prkacb	Prkaca	Lyn	Csnk1a1	Rps6kl1	Ripk4	Ripk3	Cdc7	Braf	Itk	Ret	Pbk	Ripk2	Ripk1	Cdkl3	Cdkl4	Cdkl5	Csnk2a2	Csnk2a1	Tnni3k	Cit	Taok2	Taok3	Pkn1	Taok1	Pkn3	Pkn2	Cdkl1	Cdkl2	Rnasel	Ikbkb	Jak3	Jak1	Ikbke	Jak2	Map3k3	Map3k4	Map3k1	Map3k2	Vrk1	Prpf4b	Vrk2	Vrk3	Hipk2	Hipk1	Hipk4	Nrbp2	Nrbp1	Hipk3	Obscn	Melk	Pink1	Mapkapk5	Mapkapk2	Mapkapk3	Ror2	Tnik	Ror1	Frk	Rock1	Rock2	Egfr	Slk	Map3k9	Map3k7	Map3k8	Map3k5	Pskh1	Map3k6	Nek9	Map2k4	Map2k5	Map2k2	Map2k3	Nek5	Nek6	Map2k1	Nek7	Tnk2	Nek8	Dyrk1b	Dyrk1a	Map3k19	Stk24	Stk25	Stk26	Mak	Map3k10	Map3k11	Bmp2k	Map3k14	Map3k15	Map3k12	Map3k13	Brsk1	Csf1r	Brsk2	Blk	Pkmyt1	Stk10	Stk11	Stk16	Tnk1	Nek1	Abl2	Pim2	Nek2	Pim1	Nek3	Pim3	Abl1	Nek4	Ros1	Map2k6	Map2k7	Ksr2	Ksr1	Eif2ak2	Cdc42bpg	Eif2ak1	Eif2ak4	Eif2ak3	Cdc42bpb	Bmx	Mertk	Cdc42bpa	Cdk9	Cdk8	Cdk7	Cdk6	Cdk5	Cdk4	Myo3a	Myo3b	Cdk3	Cdk2	Cdk1	Aak1	Alk	Bmpr2	Lrrk1	Lrrk2	Tssk1	Prkg2	Prkg1	Ntrk2	Ntrk3	Ntrk1	Styk1	Chuk	Tie1	Lck	Snrk	Tyro3	Met	Csnk1g1	Csnk1g3	Csnk1g2	Mylk2	Mylk3	Ephb6	Flt1	Src	Flt3	Flt4	Stkld1	Ttk	Ttn	Mylk4	Stk32a	Phkg2	Phkg1	Tlk2	Ephb1	Tlk1	Fyn	Csk	Ephb3	Stk32b	Ephb2	Stk32c	Ephb4	Epha6	Acvr1	Epha5	Epha8	Epha7	Dclk3	Mapk15	Dclk2	Mapk13	Mapk14	Dclk1	Mapk11	Mapk12	Mapk10	Ulk4	Ulk3	Sik2	Ulk2	Sik3	Ulk1	Epha2	Epha1	Sik1	Epha4	Epha3	Trp53rka	Mst1r	Uhmk1	Nuak2	Chek1	Csnk1d	Chek2	Stk38l	Kdr	Musk	Yes1	Srpk3	Insr	Csnk1e	Ptk7	Ptk6	Haspin	Nuak1	Srpk1	Ptk2	Srpk2	Wnk1	Wnk2	Wnk3	Wnk4	Btk	Ttbk1	Epha10	Txk	Nlk	Ttbk2	Insrr	Strada	Stradb	Tyk2	Pdik1l	Camk4	Camk1	Sgk2	Sgk3	Stk40	Sgk1	Gucy2e	Ddr2	Gucy2c	Acvrl1	Ddr1	Gucy2f	Aatk	Kalrn	Stk33	Stk35	Stk36	Stk38	Stk39	Camkv	Map3k21	Map3k20	Stk31	Map4k2	Map4k3	Map4k1	Syk	Hck	Gak	Kit	Stk17b	Nek11	Tssk6	Nek10	Tssk4	Tssk2	Tssk3	Camkk1	Camkk2	Map4k4	Map4k5	Pdgfrb	Pdgfra	Ryk	Matk	Mok	Ern1	Ern2	Mos	Axl	Raf1	Pnck	Prag1	Nrk	Aurka	Prkx	Aurkc	Aurkb	Pak2	Pak1	Pak4	Pak3	Pak6	Pak5	Mink1	Cask	Pan3	Tbck	Fgfr1	Fgfr4	Fgfr3	Fgfr2	Pkdcc	Dyrk4	Amhr2	Pxk	Dyrk3	Dyrk2	Igf1r	Mark1	Mlkl	Mark4	Mark3	Mark2	Limk1	Limk2	Irak4	Hunk	Tgfbr1	Tgfbr2	Acvr2b	Clk4	Clk3	Acvr2a	Clk2	Clk1	Fes	Fer	Bmpr1a	Bmpr1b	Mast1	Rskr	Gsk3b	Gsk3a	Npr1	Mast4	Npr2	Nim1k	Mast3	Ilk	Mast2	Pik3r4	Stk3	Stk4	Grk2	Grk1	Grk4	Grk3	Erbb4	Grk6	Irak2	Irak3	Mknk1	Grk5	Erbb2	Mknk2	Irak1	Erbb3	Rps6kc1	Camk1d	Cdk11b	Dapk2	Dapk1	Pdpk1	Dapk3	Lmtk3	Lmtk2	Oxsr1	Sbk3	Fgr	Wee1	Sbk1	Wee2	Zap70	Sbk2	Rps6kb2	Rps6kb1	Peak1	Pomk	Trib2	Camk1g	Trib3	Trib1	Ltk	Camk2a	Camk2b	Acvr1c	Acvr1b	Rps6ka5	Rps6ka4	Mapk9	Mapk8	Rps6ka6	Rps6ka1	Rps6ka3	Rps6ka2	Ptk2b	Mapk3	Speg	Mapk1	Mapk7	Scyl1	Camk2g	Mapk6	Scyl3	Bub1	Scyl2	Mapk4
+Protein kinase, C-terminal	InterPro_Domains_2019	Prkch	Prkcg	Prkci	Prkcd	Prkce	Prkcb	Prkca	Cdc42bpa	Lats2	Prkcz	Rps6kb2	Rps6kb1	Pkn1	Pkn3	Prkcq	Pkn2	Sgk2	Sgk3	Sgk1	Rps6ka5	Rps6ka4	Rps6ka6	Rps6ka1	Rps6ka3	Stk38	Akt3	Rps6ka2	Akt1	Stk38l	Akt2
+Protein of unknown function DUF3504	InterPro_Domains_2019	Zmym2	Zmym3	Zmym4	E130308A19Rik	Qrich1
+Protein-arginine deiminase (PAD) N-terminal	InterPro_Domains_2019	Padi4	Padi3	Padi6	Padi2	Padi1
+Protein-arginine deiminase (PAD), central domain	InterPro_Domains_2019	Padi4	Padi3	Padi6	Padi2	Padi1
+Protein-arginine deiminase, C-terminal	InterPro_Domains_2019	Padi4	Padi3	Padi6	Padi2	Padi1
+Protein-tyrosine phosphatase, catalytic	InterPro_Domains_2019	Ptpn18	Dusp5	Ptpn1	Ptprn2	Ptpn2	Dusp4	Dusp1	Dusp2	Ptpn11	Ptpn12	Ptpn13	Ptpn14	Ptpre	Ptprf	Ptprc	Ptprd	Ptpra	Ptprb	Ptpn20	Ptpn9	Ptpn7	Ptpn5	Ptpn6	Cdkn3	Ptpn3	Ptpn4	Mtmr1	Ptpru	Mtmr2	Mtmr3	Ptprs	Ptprt	Ptprq	Ptprr	Ptpro	Ptpn21	Ptprm	Ptpn22	Ptprn	Ptpn23	Ptprk	Mtmr6	Ptpdc1	Ptprj	Ptprg	Mtmr7	Mtm1	Ptprh	Pald1	Dusp23	Ptp4a2	Ptp4a3	Ptp4a1	Cdc14a	Cdc14b	Tns1	Ptprz1	Tns3
+Protocadherin	InterPro_Domains_2019	Pcdh11x	Pcdh9	Pcdh7	Pcdh1
+Putative zinc-RING and/or ribbon	InterPro_Domains_2019	Rubcn	Plekhm3	Rubcnl	Plekhm1	Def8
+Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain	InterPro_Domains_2019	Gsr	Txnrd3	Txnrd2	Txnrd1	Dld
+Pyridoxal-phosphate dependent enzyme	InterPro_Domains_2019	Sds	Cbs	Srr	Thnsl2	Sdsl
+Pyrroline-5-carboxylate reductase, catalytic, N-terminal	InterPro_Domains_2019	Steap4	Noxred1	Pycr1	Pycr2	Pycr3	Steap2	Steap3
+R3H domain	InterPro_Domains_2019	R3hcc1	Nfx1	Nkrf	Ythdc2	Spag7	Ighmbp2	Parn	Arpp21	R3hdm2	R3hdm1	R3hdm4
+RAP domain	InterPro_Domains_2019	Fastkd1	Fastkd2	Fastkd3	Fastk	Fastkd5	Tbrg4
+RAWUL domain	InterPro_Domains_2019	Rnf2	Pcgf5	Ring1	Pcgf3	Pcgf1	Pcgf2	Bmi1
+RBM1CTR	InterPro_Domains_2019	Rbmyf6	Rbmxl2	Rbmxl1
+RDM domain, Ret finger protein-like	InterPro_Domains_2019	Rfpl4
+RGS domain	InterPro_Domains_2019	Arhgef11	Axin2	Snx25	Axin1	Rgs11	Rgs10	Rgs13	Rgs12	Rgs19	Rgs18	Rgs14	Rgs17	Rgs16	Rgsl1	Snx13	Snx14	Grk2	Rgs5	Grk1	Rgs6	Rgs3	Grk4	Grk3	Rgs4	Rgs1	Grk6	Grk5	Rgs2	Rgs22	Rgs21	Rgs9	Akap10	Rgs20	Rgs7	Rgs8
+RH1 domain	InterPro_Domains_2019	Spag9	Rilpl2	Rilpl1	Mapk8ip3	Rilp
+RH2 domain	InterPro_Domains_2019	Spag9	Rilpl2	Rilpl1	Mapk8ip3	Rilp
+RIH domain	InterPro_Domains_2019	Ryr2	Ryr3	Ryr1	Itpr2	Itpr3	Itpr1
+RING-type zinc-finger, LisH dimerisation motif	InterPro_Domains_2019	Trim63	Rc3h1	Rc3h2	Mid1	Mid2	Rnf224	Rnf227	Traf7	Trim36	Trim59	Trim15	Rbck1	Trim17	Trim32	Trim54	Trim55	Trim33	Rnf222	Trim56	Trim13	Trim50	Trim72	Rnf32	Trim2	Sh3rf2	Rnf114	Rmnd5a	Trim30a	Trim6	Trim3	Trim47	Trim75	Trim23	Trim45	Lonrf1	Trim46
+RNA binding activity-knot of a chromodomain	InterPro_Domains_2019	Kat5	Arid4a	Msl3	Arid4b	Kat8
+RNA helicase, DEAD-box type, Q motif	InterPro_Domains_2019	Ddx18	Ddx17	Ddx59	Ddx56	Ddx10	Ddx54	Ddx55	Ddx52	Ddx31	Ddx50	Ddx19a	Ddx19b	Ddx39a	Ddx39b	Eif4a3l2	Eif4a2	Ddx6	Eif4a1	D1Pas1	Ddx49	Ddx27	Ddx28	Ddx3y	Ddx5	Ddx4	Ddx47	Ddx25	Ddx23	Ddx24	Ddx1	Ddx46	Ddx21	Ddx41	Ddx20	Ddx42
+RNA polymerase II-binding domain	InterPro_Domains_2019	Scaf8	Pcf11	Rprd1a	Rprd2	Rprd1b	Cherp	Scaf4
+RNA recognition motif domain	InterPro_Domains_2019	Ssb	Rbfox1	Rbmyf6	Rbfox2	Rbfox3	Larp7	Hnrnpm	Cpeb2	Hnrnpl	Cpeb1	Hnrnpf	Hnrnpc	Hnrnpd	Cpeb4	Cpeb3	Sf3b6	Sf3b4	Ewsr1	Hnrnpr	Trmt2a	Uhmk1	Tial1	Rbm15b	Scaf8	Mthfsd	Pabpn1	Ppargc1a	Ppargc1b	Raly	Rnps1	Hnrnpa1	Pabpn1l	Htatsf1	Hnrnpll	Syncrip	Raver2	Raver1	Snrnp70	Cstf2	Pabpc5	A1cf	Rbm12b2	Dazl	Sltm	Pabpc1	Pabpc4	Tut1	Dazap1	Rbm8a2	Pprc1	Boll	Dnd1	Safb2	Myef2l	Scaf4	Marf1	Hnrnpa2b1	Hnrnph1	Hnrnph2	Hnrnph3	Srsf10	Srsf11	Srsf12	Rbpms2	Cpsf6	Cpsf7	Gm21293	Hnrnpab	Snrpa	Rbmxl2	Cnot4	Srsf3	Srsf4	Srsf5	Srsf6	Srsf7	Ppil4	Tardbp	Srsf9	Ppie	Srsf1	Srsf2	Nol8	Rbm4b	Rbmxl1	Tia1	Zcrb1	Nono	Rbpms	Dnajc17	Ralyl	Synj2	Pspc1	Synj1	Ncl	Msi1	Msi2	Rdm1	Rbmx2	G3bp1	Hnrnpdl	G3bp2	Nelfe	Pabpc4l	Rbm17	Rbm18	Rbm15	Fus	Ncbp2	Rbm19	Setd1b	Trnau1ap	Rexo5	Safb	Sfpq	Esrp2	Esrp1	Zfp638	Rbms1	Rbm20	Rbms2	Rbm24	Grsf1	Rbm25	Rbms3	Rbm22	Tnrc6c	Eif4b	Celf1	Celf2	Celf3	Celf4	Celf5	Celf6	Rnpc3	Elavl1	Elavl2	Elavl3	U2af1l4	Elavl4	Ptbp1	Ptbp2	Rbm10	Eif4h	Rbm14	Rbm11	Rbm39	Taf15	Rbm38	Spen	Cirbp	Enox1	Ptbp3	U2surp	Enox2	Rbm42	Slirp	Rbm43	Pabpc1l	Matr3	Rbm41	Eif3g	Rbm46	Rbm47	Eif3b	Rbm44	Rbm45	Rbm28	Rbm26	Rbm27	Poldip3	U2af2	U2af1	Cstf2t	Rbm4	Rbm5	Sart3	Rbm3	Tra2a	Puf60	Tra2b	Igf2bp2	Igf2bp1	Nifk	Snrpb2	Igf2bp3	Snrnp35	Hnrnpa3	Rbm33	Rbm6	Hnrnpa0	Rbm7	Rbm34
+RNA recognition motif domain, eukaryote	InterPro_Domains_2019	Rbm39	Rbm17	Tia1	Zcrb1	Pabpc5	Rbm19	Cirbp	Rbmxl2	Ncl	Cnot4	Pabpc1	Pabpc4	Pabpc1l	Srsf2	U2af1	Rbmxl1	Elavl3	U2af1l4	Tial1	Puf60	Pabpc4l
+RNA-binding S4 domain	InterPro_Domains_2019	Rps4x	Imp3	Rps9
+RNA-binding domain, S1	InterPro_Domains_2019	Supt6	Pnpt1	Dhx8	Pdcd11	Srbd1	Polr2g	Zcchc17	Eif2s1	Exosc1
+RUN domain	InterPro_Domains_2019	Rundc3a	Rubcn	Rundc3b	Sgsm2	Rufy2	Sgsm1	Rufy1	Fyco1	Snx29	Rusc2	Rufy4	Rusc1	Sgsm3	Rufy3	Plekhm2	Rundc1	Dennd5b	Dennd5a	Plekhm1
+RWD domain	InterPro_Domains_2019	Rwdd3	Impact	Rwdd4a	Wdr59	Rwdd2b	Rnf14	Rwdd2a	Rnf25	Dhx57	Rwdd1	Eif2ak4
+Rab-GTPase-TBC domain	InterPro_Domains_2019	Usp32	Tbc1d2b	Grtp1	Tbc1d21	Tbc1d20	Tbc1d25	Tbc1d23	Tbc1d24	Rabgap1	Tbc1d9b	Usp6nl	Tbc1d14	Tbc1d15	Tbc1d12	Tbc1d13	Evi5	Tbc1d19	Tbc1d16	Tbc1d17	Rabgap1l	Tbc1d8b	Tbc1d9	Tbc1d1	Sgsm2	Sgsm1	Tbc1d2	Tbck	Tbc1d4	Tbc1d5	Tbc1d7	Sgsm3	Tbc1d8	Tbc1d30	Tbc1d31	Evi5l	Tbc1d22a	Tbc1d22b	Tbc1d10a	Tbc1d10b	Tbc1d10c
+Rab-binding domain	InterPro_Domains_2019	Rims2	Mlph	Rph3al	Rims1	Sytl2	Sytl1	Myrip	Exph5	Sytl5	Sytl4	Rph3a	Sytl3
+Rab-binding domain FIP-RBD	InterPro_Domains_2019	Rab11fip1	Rab11fip2	Erc1	Rab11fip3	Rab11fip4	Rab11fip5
+Rad51/DMC1/RadA	InterPro_Domains_2019	Rad51c	Rad51b	Rad51	Rad51d	Dmc1	Xrcc3
+Rad60/SUMO-like domain	InterPro_Domains_2019	Sumo1	Sumo2	Nfatc2ip
+Radical SAM	InterPro_Domains_2019	Rsad1	Rsad2	Elp3	Cdk5rap1	Tyw1	Mocs1	Cdkal1	Lias
+Raf-like Ras-binding	InterPro_Domains_2019	Tiam2	Rgs14	Rgs12	Araf	Braf	Tiam1	Raf1
+Ran binding domain	InterPro_Domains_2019	Ranbp3	Ranbp2	Ranbp3l	Nup50l	Ranbp1
+Rap GTPase activating protein domain	InterPro_Domains_2019	Ralgapb	Sipa1l1	Sipa1l2	Ralgapa1	Ralgapa2	Rap1gap2	Tsc2	Sipa1l3	Sipa1	Rap1gap	Garnl3
+Ras GTPase-activating domain	InterPro_Domains_2019	Rasa4	Rasal1	Rasal2	Iqgap1	Rasal3	Iqgap2	Iqgap3	Gapvd1	Dab2ip	Rasa1	Syngap1	Rasa2	Rasa3	Nf1
+Ras guanine-nucleotide exchange factors catalytic domain	InterPro_Domains_2019	Sh2d3c	Rapgef2	Rapgef3	Rapgef1	Rapgef6	Rgl2	Sos2	Rgl3	Rapgef4	Sos1	Rapgef5	Rgl1	Bcar3	Rasgrf1	Rasgrf2	Rapgefl1	Kndc1	Rasgrp3	Rasgrp2	Rasgrp4	Rasgrp1	Rasgef1a	Rasgef1b	Rasgef1c	Plce1	Ralgps1	Ralgds	Ralgps2
+Ras-associating (RA) domain	InterPro_Domains_2019	Myo10	Rassf8	Arap3	Rassf9	Arap1	Arap2	Myo9a	Myo9b	Afdn	Apbb1ip	Snx17	Radil	Dgkq	Rapgef2	Rapgef6	Rgl2	Rin2	Rgl3	Rin3	Grb7	Rin1	Rgl1	Plekhh3	Raph1	Rasip1	Rassf1	Rassf2	Rassf3	Arhgap20	Rassf4	Rassf5	Rassf6	Rassf7	Rassf10	Snx27	Grb14	Plce1	Grb10	Ralgds
+Ras-like guanine nucleotide exchange factor, N-terminal	InterPro_Domains_2019	Rasgrf1	Rasgrf2	Kndc1	Rasgrp3	Rasgrp2	Rasgrp4	Rasgrp1	Rasgef1a	Rasgef1b	Rasgef1c	Rapgef2	Rapgef3	Rapgef1	Ralgds	Rapgef6	Rgl2	Sos2	Rgl3	Rapgef4	Sos1	Rapgef5	Rgl1
+RecF/RecN/SMC, N-terminal	InterPro_Domains_2019	Smc4	Smc1b	Smc5	Smc1a	Smc2	Smc3
+Receptor L-domain	InterPro_Domains_2019	Insr	Erbb4	Insrr	Erbb2	Erbb3	Egfr	Igf1r
+Receptor, ligand binding region	InterPro_Domains_2019	Gabbr2	Casr	Gabbr1	Grid1	Grid2	Grin2d	Grin2c	Grin1	Gucy2e	Gria2	Gria3	Gucy2f	Gria1	Npr1	Npr2	Npr3	Grik4	Grik5	Grik2	Grik3	Grik1	Grm2	Grm1	Grm4	Grm3	Gprc6a	Grm6	Grin2b	Grm5	Grin2a	Grm8	Grm7	Tas1r1	Tas1r3	Tas1r2	Gria4
+Rel homology dimerisation domain	InterPro_Domains_2019	Rela	Nfat5	Nfatc4	Nfatc3	Rel	Nfatc2	Nfatc1	Nfkb1	Nfkb2	Relb
+Rel homology domain (RHD), DNA-binding domain	InterPro_Domains_2019	Rela	Nfat5	Nfatc4	Nfatc3	Rel	Nfatc2	Nfatc1	Nfkb1	Nfkb2	Relb
+Reprolysin domain, adamalysin-type	InterPro_Domains_2019	Adamdec1	Adam12	Adam23	Adam33	Adam22	Adam11	Adam21	Adam32	Adam25	Adam30	Adam2	Adam18	Adam29	Adam28	Adam7	Adam15	Adam9	Adam8
+Ret finger protein-like, SPRY/PRY domain	InterPro_Domains_2019	Rfpl4
+Retro-transcribing virus envelope glycoprotein	InterPro_Domains_2019
+Retropepsin-like catalytic domain	InterPro_Domains_2019
+Retropepsins	InterPro_Domains_2019
+Retroviral envelope protein GP41-like	InterPro_Domains_2019
+Reverse transcriptase domain	InterPro_Domains_2019	Tert
+Reverse transcriptase thumb	InterPro_Domains_2019
+Rho GTPase-activating protein domain	InterPro_Domains_2019	Ralbp1	Stard8	Arap3	Ocrl	Arhgap29	Arap1	Arap2	Arhgap28	Arhgap27	Arhgap26	Gmip	Arhgap25	Arhgap24	Arhgap33	Arhgap32	Arhgap31	Depdc1b	Arhgap30	Pik3r2	Arhgap39	Arhgap36	Arhgap35	Arhgap45	Arhgap44	Arhgap42	Arhgap40	Sh3bp1	Racgap1	Stard13	Myo9a	Myo9b	Arhgap12	Bcr	Arhgap10	Pik3r1	Dlc1	Arhgap8	Arhgap11a	Arhgap9	Fam13a	Fam13b	Arhgap19	Arhgap18	Arhgap17	Arhgap1	Arhgap6	Arhgap15	Arhgap4	Arhgap5	Arhgap23	Abr	Arhgap22	Syde2	Arhgap21	Syde1	Arhgap20	Inpp5b	Tagap	Chn2	Ophn1	Chn1	Srgap3	Srgap2	Srgap1
+Rho GTPase-binding/formin homology 3 (GBD/FH3) domain	InterPro_Domains_2019	Diaph1	Diaph2	Diaph3	Inf2	Fmnl2	Fmnl3	Daam2	Fmnl1	Fhod1	Fhod3	Daam1
+Rhodanese-like domain	InterPro_Domains_2019	Dusp5	Dusp6	Usp8	Mocs3	Dusp4	Tstd2	Dusp1	Dusp2	Mpst	Tstd1	Cdc25a	Dusp16	Dusp9	Dusp7	Cdc25b	Dusp8	Cdc25c	Styxl1	Dusp10	Tbck	Tst	Tbc1d23	Cep41
+Ribonuclease A-domain	InterPro_Domains_2019	Rnase12	Rnase10	Eddm3b	Rnase6	Rnase13	Rnase4	Rnase2b	Rnase1	Rnase9	Ang
+Ribonuclease H domain	InterPro_Domains_2019	Rnaseh1
+Ribonuclease Zc3h12a-like, NYN domain	InterPro_Domains_2019	Zc3h12d	Zc3h12a	Zc3h12c	Zc3h12b	Nynrin	Khnyn	N4bp1
+Ribose-phosphate pyrophosphokinase, N-terminal domain	InterPro_Domains_2019	Prpsap2	Prps2	Prpsap1	Prps1l3	Prps1l1
+Ribosomal RNA methyltransferase FtsJ domain	InterPro_Domains_2019	Ftsj1	Cmtr1	Ftsj3	Mrm2	Cmtr2
+Ribosomal protein L7Ae/L30e/S12e/Gadd45	InterPro_Domains_2019	Rpl30	Gadd45b	Gadd45a	Secisbp2	Secisbp2l	Gadd45g	Snu13	Rpl7a	Nhp2	Rpp38
+Ricin B, lectin domain	InterPro_Domains_2019	Galnt7	Galnt6	Galnt5	Galnt4	Galnt3	Galnt2	Galnt1	Prpf19	Mab21l2	Galntl6	Pla2r1	Galnt13	Crybg1	Galnt12	Galnt15	Crybg3	Galnt14	Crybg2	Galnt17	Galnt16	Galnt18	Ly75	Galnt11	Galnt10	Mrc1	Mrc2	Galnt9
+Right handed beta helix domain	InterPro_Domains_2019	Pkhd1	Shcbp1l	Fbxo11	Shcbp1	Fbxo10
+RyR/IP3R Homology associated domain	InterPro_Domains_2019	Ryr2	Ryr3	Ryr1	Itpr2	Itpr3	Itpr1
+S-100	InterPro_Domains_2019	S100g	Flg	S100a3	S100a2	Tchh	Hrnr	Flg2	Rptn	Crnn	Sntn	Tchhl1	S100a5	S100a4
+S1 domain	InterPro_Domains_2019	Supt6	Pnpt1	Ttc14	Dhx8	Pdcd11	Srbd1	Polr2g	Zcchc17	Eif2s1
+S100/CaBP-9k-type, calcium binding, subdomain	InterPro_Domains_2019	S100g	S100a3	S100a2	S100a1	S100b	Hrnr	Flg2	Crnn	Sntn	S100z	S100a6	Tchhl1	S100a5	S100a4	S100a9	S100a8	Flg	Tchh	Rptn	S100a14	S100a13	S100a16	S100a10	S100a11
+SAC domain	InterPro_Domains_2019	Synj2	Synj1	Sacm1l	Inpp5f	Fig4
+SAM-dependent methyltransferase RsmB/NOP2-type	InterPro_Domains_2019	Nsun2	Nsun5	Nsun6	Nop2	Nsun3	Nsun7
+SAND domain	InterPro_Domains_2019	Gmeb1	Gmeb2	Aire	Deaf1	Sp110	Sp100
+SANT domain	InterPro_Domains_2019	Zfp541	Smarcc1	Smarcc2	Smarca1	Trerf1	Smarca5	Ncor1	Tada2a	Dnajc2	Ncor2	Dnajc1	Tada2b	Rcor3	Rcor2	Rcor1	Rere	Mysm1	Cramp1	Mta1	Mta2	Mis18bp1	Mier3	Mier2	Mier1	Mta3
+SANT/Myb domain	InterPro_Domains_2019	Zfp541	Smarcc1	Smarcc2	Mypop	Smarca1	Cdc5lrt9	Terf1	Terf2	Trerf1	Terb1	Smarca5	Ncor1	Tada2a	Dnajc2	Zzz3	Ncor2	Dnajc1	Tada2b	Zscan20	Dmtf1	Bdp1	Ezh1	Rcor3	Rcor2	Ezh2	Rcor1	Rere	Mysm1	Cramp1	Ttf1	Mta1	Mta2	Mis18bp1	Myb	Mier3	Snapc4	Mier2	Mier1	Mybl1	Mta3	Mybl2
+SAP domain	InterPro_Domains_2019	Pias4	Myocd	Xrcc6	Hnrnpu	Dek	Mrtfb	Mrtfa	Mamstr	Pias1	Pias3	Pias2	Safb	Ccar1	Hnrnpul1	Eri1	Hnrnpul2	Sarnp	Safb2	Dppa2	Sltm	Rad18	Acin1	Sf3b2
+SARAH domain	InterPro_Domains_2019	Rassf1	Rassf2	Rassf3	Rassf4	Rassf5	Rassf6	Stk3	Sav1	Stk4
+SCAN domain	InterPro_Domains_2019	Zfp287	Zscan5b	Zkscan16	Peg3	Mzf1	Zscan21	Zscan20	Zscan22	Zscan25	Zscan26	Zscan29	Zscan2	Zfp397	Zfp369	Zkscan14	Zscan10	Zscan12	Scand1	Zscan18	Zkscan6	Zfp263	Zfp213	Zkscan17	Zfp174	Zfp24	Zkscan8	Zkscan7	Zkscan4	Zfp449	Zkscan5	Zfp446	Zfp445	Zfp202	Zfp444	Zkscan2	Pgbd1	Zkscan1
+SCP2 sterol-binding domain	InterPro_Domains_2019	Hsdl2	Stoml1	Scp2	Hsd17b4	Scp2d1
+SEA domain	InterPro_Domains_2019	Tmprss11a	Tmprss6	Muc17	Tmprss7	St14	Muc3a	Tmprss11f	Tmprss11d	Tmprss15	Tmprss11e	Muc1	Hspg2	Adgrf1	Adgrf5	Muc13	Muc16	Umodl1	Impg1	Impg2	Agrn
+SEFIR domain	InterPro_Domains_2019	Il17ra	Traf3ip2	Il17re	Il17rd	Il17rc	Il17rb
+SERTA domain	InterPro_Domains_2019	Sertad4	Cdca4	Sertad2	Sertad3	Sertad1
+SET domain	InterPro_Domains_2019	Setdb2	Setdb1	Setd1b	Ash1l	Zfp78	Prdm8	Prdm5	Prdm4	Prdm9	Suv39h2	Suv39h1	Prdm6	Prdm1	Prdm16	Prdm15	Prdm14	Prdm13	Prdm2	Prdm12	Prdm11	Prdm10	Nsd1	Mecom	Nsd2	Nsd3	Smyd3	Kmt5a	Smyd2	Kmt5c	Smyd5	Smyd4	Kmt5b	Smyd1	Ezh1	Ezh2	Setd5	Kmt2e	Setd6	Setd3	Setd4	Kmt2b	Kmt2a	Setd7	Kmt2d	Kmt2c	Ehmt1	Ehmt2	Setd2
+SH2 domain	InterPro_Domains_2019	Matk	Tec	Clnk	Rin2	Rin3	Ptpn6	Frk	Rin1	Supt6	Sla	Inppl1	Crkl	Sh3bp2	Grb14	Sh2b1	Stat6	Grap2	Grb10	Sh2b3	Sh2b2	Yes1	Stat5b	Srms	Cish	Sh2d1a	Sh2d1b2	Ptk6	Pik3r1	Grap	Btk	Grb2	Grb7	Blk	Txk	Dapp1	Sla2	Tns1	Inpp5d	Abl2	Plcg1	Plcg2	Abl1	Sh2d7	Sh2d6	Tns4	Sh2d5	Tns3	Stat5a	Tns2	Lyn	Sh2d3c	Ptpn11	Tyk2	Vav1	Bmx	Vav2	Vav3	Rasa1	Fes	Fer	Lcp2	Itk	Bcar3	Shc3	Shc4	Shc1	Sh2d2a	Pik3r3	Pik3r2	Shb	She	Shd	Socs3	Socs4	Shf	Socs1	Socs2	Stap1	Blnk	Stap2	Socs7	Socs5	Socs6	Stat1	Stat2	Syk	Stat3	Stat4	Hck	Fgr	Zap70	Lck	Hsh2d	Crk	Src	Sh2d4a	Sh2d4b	Chn2	Chn1	Fyn	Csk	Jak3	Nck1	Jak1	Nck2	Jak2
+SH3 domain	InterPro_Domains_2019	Fnbp1	Myo7a	Myo7b	Pex13	Mapk8ip1	Mapk8ip2	Tec	Spata13	Skap1	Ngef	Skap2	Snx33	Fnbp1l	Cd2ap	Crkl	Baiap2l1	Baiap2l2	Ubash3a	Ubash3b	Yes1	Fyb1	Srms	Fyb2	Nebl	Stac	Mia	Stam	Ptk6	Fchsd2	Fchsd1	Pik3r1	Bin1	Grap	Nostrin	Btk	Grb2	Macf1	Trio	Itsn1	Txk	Itsn2	Ppl	Samsn1	Sla2	Eps8	Rusc2	Rusc1	Plcg1	Trp53bp2	Plcg2	Lyn	Otor	Vav1	Vav2	Vav3	Arhgef5	Gas7	Arhgef9	Arhgef6	Itk	Arhgef7	Noxo1	Nedd9	Evpl	Kalrn	Spta1	Nckipsd	Sh3pxd2b	Sh3pxd2a	Pacsin3	Map3k21	Snx9	Pacsin1	Pacsin2	Mpp2	Mpp3	Mpp4	Dbnl	Prmt2	Mpp1	Sorbs1	Sorbs3	Sorbs2	Mpp7	Hck	Tjp2	Sh3rf3	Tjp1	Snx18	Cttn	Stac2	Stac3	Sgsm3	Hcls1	Trip10	Tjp3	Zdhhc6	Mia2	Mia3	Sh3rf2	Pram1	Sh3rf1	Sptan1	Sh3glb2	Sh3glb1	Arhgef38	Arhgef37	Matk	Arhgap27	Arhgap26	Arhgap33	Obscn	Arhgap32	Abi3	Abi1	Abi2	Rimbp3	Rimbp2	Cass4	Ncf1	Stam2	Frk	Sla	Asap2	Sh3tc1	Arhgap42	Caskin1	Asap1	Sh3tc2	Nphp1	Sh3bp4	Caskin2	Grap2	Tspoap1	Map3k9	Ostf1	Sash1	Sash3	Arhgef16	Tnk2	Arhgef19	Cask	Cacnb2	Arhgap12	Cacnb3	Dlg1	Cacnb4	Dlg2	Dnmbp	Arhgap10	Dlg3	Dlg4	Dlg5	Noxa1	Map3k10	Map3k11	Amph	Cacnb1	Blk	Dock5	Arhgap9	Dock4	Ncf2	Arhgef26	Sh3kbp1	Ncf4	Arhgap4	Tnk1	Abl2	Abl1	Srgap3	Sh3gl1	Srgap2	Sh3gl3	Srgap1	Sh3gl2	Macc1	Neb	Baiap2	Shank1	Ahi1	Rasa1	Plec	Dock3	Dock2	Shank3	Dock1	Bcar1	Shank2	Pik3r2	Lasp1	Fut8	Pstpip1	Mcf2l	Dsp	Dst	Myo1e	Fgr	Myo1f	Lck	Myo15b	Sh3d21	Myo15a	Crk	Src	Ppp1r13b	Sh3yl1	Efs	Ppp1r13l	Eps8l1	Eps8l2	Eps8l3	Fyn	Csk	Sh3d19	Nck1	Nck2
+SKI/SNO/DAC domain	InterPro_Domains_2019	Skor1	Ski	Skor2	Dach1	Dach2	Skida1	Skil
+SLC12A transporter, C-terminal	InterPro_Domains_2019	Slc12a3	Slc12a4	Slc12a5	Slc12a6	Slc12a1	Slc12a2	Slc12a7	Slc12a9
+SLC26A/SulP transporter domain	InterPro_Domains_2019	Slc26a1	Slc26a3	Slc26a2	Slc26a9	Slc26a8	Slc26a11	Slc26a5	Slc26a4	Slc26a7	Slc26a6
+SLED domain	InterPro_Domains_2019	Scml2	Sfmbt1	Scmh1	Sfmbt2	Scml4
+SMAD domain, Dwarfin-type	InterPro_Domains_2019	Smad3	Smad2	Smad5	Smad4	Smad1	Smad7	Smad6
+SMCs flexible hinge	InterPro_Domains_2019	Smchd1	Smc4	Smc1b	Smc1a	Smc2	Smc3
+SNF2-related, N-terminal domain	InterPro_Domains_2019	Hells	Zranb3	Shprh	Smarca1	Atrx	Chd1l	Ino80	Smarca2	Smarca4	Smarca5	Rad54l2	Ercc6	Smarcal1	Ercc6l	Srcap	Chd9	Chd8	Chd7	Chd6	Chd5	Chd4	Chd3	Rad54b	Ttf2	Chd2	Chd1	Btaf1	Hltf	Rad54l	Ep400	Smarcad1
+SOCS box domain	InterPro_Domains_2019	Wsb1	Wsb2	Cish	Spsb4	Spsb3	Spsb2	Spsb1	Asb9	Neurl2	Asb7	Asb8	Asb5	Asb6	Asb3	Asb4	Asb1	Asb2	Asb14	Asb15	Tulp4	Asb12	Asb13	Asb18	Asb16	Asb17	Socs3	Socs4	Socs1	Rab40b	Socs2	Rab40c	Asb10	Asb11	Socs7	Socs5	Socs6
+SPARC/Testican, calcium-binding domain	InterPro_Domains_2019	Sparc	Smoc2	Spock3	Smoc1	Spock1	Spock2	Sparcl1
+SPATA31/FAM205	InterPro_Domains_2019	Spata31	Spata31d1b
+SPRY domain	InterPro_Domains_2019	Btnl9	Trim62	Btnl12	Btn1a1	Trim60	Mid1	Bspry	Mid2	Trim14	Trim58	Trim15	Trim16	Trim17	Trim10	Trim11	Ranbp10	Trim50	Mefv	Rnf39	Hnrnpu	Fbxo45	Fsd1l	Rfpl4b	Trim9	Rfpl4	Trim7	Trim30a	Trim6	Herc1	Fsd1	Fsd2	Trim43b	Trim41	Spryd3	Spryd4	Btn2a2	Spryd7	Ranbp9	Spsb4	Spsb3	Spsb2	Spsb1	Hnrnpul1	Hnrnpul2	Triml1	Trim38	Triml2	Trim39	Rnf123	Trim34b	Trim35	Trim72	Ryr2	Ryr3	Ryr1	Ddx1	Ash2l	Trim25	Trim69	Trim26	Trim27	Trim65	Trim21	Ermap	Trim75	Trim67	Rspry1	Trim68
+SPRY-associated	InterPro_Domains_2019	Btnl9	Trim62	Trim41	Btn2a2	Btnl12	Trim60	Btn1a1	Mid1	Bspry	Trim58	Trim14	Trim15	Trim16	Triml1	Trim38	Trim39	Trim17	Triml2	Trim10	Trim11	Rfpl4	Trim35	Trim50	Trim72	Mefv	Rnf39	Rfpl4b	Trim7	Trim6	Trim69	Trim25	Trim26	Trim27	Trim21	Ermap	Trim68
+SRCR domain	InterPro_Domains_2019	Msr1	Cd163	Scara5	Ssc5d	Prss12	Tmprss13	Tmprss15	Marco	Cd5	Cd6	Hhipl1	Cfi	Tmprss4	Lgals3bp	Tmprss5	Tmprss2	Loxl4	Cd5l	Tmprss3	Ssc4d	Loxl2	Loxl3	Dmbt1	Pgbd1
+SRCR-like domain	InterPro_Domains_2019	Msr1	Cd163	Scara5	Ssc5d	Prss12	Tmprss13	Tmprss15	Marco	Cd5	Cd6	Hhipl1	Cfi	Hpn	Tmprss4	Lgals3bp	Tmprss5	Tmprss2	Loxl4	Cd5l	Tmprss3	Ssc4d	Loxl2	Loxl3	Dmbt1	Corin
+START domain	InterPro_Domains_2019	Stard3	Stard4	Stard5	Stard6	Stard7	Stard13	Stard8	Stard10	Acot11	Acot12	Pctp	Dlc1	Star
+STAS domain	InterPro_Domains_2019	Slc26a1	Slc26a3	Slc26a2	Slc26a9	Slc26a8	Slc26a11	Slc26a5	Slc26a4	Slc26a7	Slc26a6
+STAT transcription factor, DNA-binding	InterPro_Domains_2019	Stat5b	Stat1	Stat2	Stat3	Stat4	Stat6	Stat5a
+STAT transcription factor, all-alpha domain	InterPro_Domains_2019	Stat5b	Stat1	Stat2	Stat3	Stat4	Stat6	Stat5a
+STAT transcription factor, protein interaction	InterPro_Domains_2019	Stat5b	Stat1	Stat2	Stat3	Stat4	Stat6	Stat5a
+SUN domain	InterPro_Domains_2019	Sun3	Sun2	Hectd1	Sun1	Spag4	Suco	Sun5
+SWAP/Surp	InterPro_Domains_2019	Sfswap	Sugp1	Cherp	Sf3a1	U2surp	Sugp2
+SWIB/MDM2 domain	InterPro_Domains_2019	Smarcd1	Smarcd2	Smarcd3	Mdm4	Mdm2
+SWIRM domain	InterPro_Domains_2019	Smarcc1	Smarcc2	Tada2a	Kdm1a	Kdm1b	Mysm1
+Saposin B type domain	InterPro_Domains_2019	Sftpb	Psapl1	Psap	Smpd1	Cnpy2	Aoah
+Saposin B type, region 2	InterPro_Domains_2019	Sftpb	Psapl1	Psap	Aoah
+Schlafen, AAA domain	InterPro_Domains_2019	Slfn9	Slfn14	Slfn4	Slfn5	Slfnl1
+Sec23/Sec24 beta-sandwich	InterPro_Domains_2019	Sec24a	Sec24c	Sec23b	Sec24b	Sec23a	Sec24d
+Sec23/Sec24, helical domain	InterPro_Domains_2019	Sec24a	Sec24c	Sec23b	Sec24b	Sec23a	Sec24d
+Sec23/Sec24, trunk domain	InterPro_Domains_2019	Sec24a	Sec24c	Sec23b	Sec24b	Sec23a	Sec24d
+Sec7 domain	InterPro_Domains_2019	Arfgef2	Arfgef3	Psd	Arfgef1	Gbf1	Iqsec3	Iqsec2	Iqsec1	Cyth4	Cyth3	Psd3	Psd2	Psd4	Fbxo8	Cyth2	Cyth1
+Sema domain	InterPro_Domains_2019	Sema4a	Sema6c	Sema6d	Sema4b	Sema6a	Sema6b	Plxnc1	Sema4f	Sema4c	Sema4d	Sema4g	Plxnb3	Plxnb2	Met	Plxnb1	Sema5b	Sema3a	Sema5a	Sema3d	Plxnd1	Sema3e	Sema3b	Sema3c	Sema3f	Mst1r	Sema3g	Plxna3	Plxna2	Plxna1	Sema7a	Plxna4
+Septin-type guanine nucleotide-binding (G) domain	InterPro_Domains_2019
+Serine aminopeptidase, S33	InterPro_Domains_2019	Abhd13	Abhd12	Abhd17c	Abhd17b	Abhd17a	Abhd12b	Mgll	Abhd15
+Serine proteases, trypsin domain	InterPro_Domains_2019	F11	F10	Cma1	F12	Cela1	Prss58	Tmprss12	Tmprss13	Prss56	Prss57	Prss54	Tmprss15	Prss55	Try4	Tpsb2	Masp1	Hp	Prss48	Prss53	Prss50	Prss51	Prss8	C1rl	Pamr1	Elane	Habp2	Cela2a	Tmprss11a	Tpsg1	St14	Hgf	Tmprss11f	Tmprss11d	Tmprss11e	Prtn3	Gm6619	Cfb	Cela3b	Cfd	Cfi	Hpn	Plau	Plat	C2	Mst1	Klk14	Klk15	Prss12	Klk10	Klk11	Klk12	Acr	Klk13	Ctrl	Klkb1	Tmprss9	Klk1b24	Tmprss6	Tmprss7	Tmprss4	Tmprss5	Klk6	Tmprss2	Klk5	Proz	Tmprss3	Klk4	Klk9	Klk8	Klk7	Ctsg	Hgfac	Ovch2	Gzmc	Gzma	Ctrb1	Prss38	Prss36	Prss37	F2	Gzmf	Prss35	Prss33	Prss41	F7	Gzmk	F9	Gzmm	Masp2	C1rb	C1s1	Prss27	Plg	Prss23	Prss21	Prss22	Corin
+Serine-threonine/tyrosine-protein kinase, catalytic domain	InterPro_Domains_2019	Epha6	Epha5	Acvr1	Pdgfrb	Pdgfra	Ryk	Epha8	Epha7	Matk	Nrbp1	Tec	Axl	Tek	Ror2	Ankk1	Epha2	Epha1	Ror1	Epha4	Raf1	Frk	Epha3	Tesk1	Tesk2	Mst1r	Araf	Egfr	Kdr	Map3k9	Musk	Map3k7	Yes1	Insr	Srms	Nek6	Nek7	Tnk2	Tex14	Ptk7	Ptk6	Ptk2	Map3k10	Fgfr1	Map3k11	Btk	Fgfr4	Fgfr3	Map3k12	Map3k13	Fgfr2	Csf1r	Blk	Epha10	Txk	Igf1r	Dstyk	Tnk1	Abl2	Mlkl	Abl1	Ros1	Lyn	Limk1	Insrr	Ksr2	Ksr1	Limk2	Irak4	Braf	Tyk2	Mertk	Bmx	Tgfbr2	Fes	Fer	Itk	Bmpr1a	Alk	Bmpr1b	Gucy2e	Ddr2	Ret	Gucy2c	Ddr1	Acvrl1	Gucy2f	Npr1	Npr2	Ilk	Aatk	Erbb4	Erbb2	Erbb3	Map3k21	Ripk2	Ripk1	Map3k20	Ntrk2	Ntrk3	Ntrk1	Styk1	Syk	Tie1	Lmtk3	Lmtk2	Tnni3k	Hck	Fgr	Zap70	Lck	Kit	Pomk	Tyro3	Met	Ephb6	Src	Flt1	Ltk	Flt3	Flt4	Acvr1c	Ptk2b	Ephb1	Fyn	Csk	Jak3	Ephb3	Ephb2	Jak1	Ephb4	Jak2
+Serine/threonine-protein kinase OSR1/WNK, CCT domain	InterPro_Domains_2019	Wnk1	Wnk2	Wnk3	Stk39	Wnk4	Oxsr1
+Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase	InterPro_Domains_2019	Ppef1	Ppp1ca	Ppp1cb	Ppp2ca	Ppp2cb	Ppp1cc	Ppp3ca	Ppp6c	Ppp3cb	Ppp5c	Ppp3cc	Ppp4c	Ppef2
+Serpin domain	InterPro_Domains_2019	Serpinb3d	Serpinb5	Serpinb2	Serpinb1b	Serpinf2	Serpind1	Serpinb8	Serpinb9c	Agt	Serpinb6e	Serpinb7	Serping1	Serpini1	Serpini2	Serpinb11	Serpina3b	Serpina12	Serpinb12	Serpina1c	Serpinb13	Serpine3	Serpinc1	Serpina10	Serpine1	Serpine2	Serpina11	Serpinb10	Serpina9	Serpina7	Serpina5	Serpina6	Serpinf1	Serpinh1
+Seven cysteines, N-terminal	InterPro_Domains_2019	Mansc4	Spint1	Mansc1	D130043K22Rik	Lrp11
+ShKT domain	InterPro_Domains_2019	Crisp2	Crisp3	Crisp4	Mfap2	Mmp23
+Sirtuin family, catalytic core domain	InterPro_Domains_2019	Sirt5	Sirt6	Sirt7	Sirt1	Sirt2	Sirt3	Sirt4
+Small GTP-binding protein domain	InterPro_Domains_2019	Rab2b	Arl11	Rab2a	Arl14	Gtpbp3	Rab30	Gtpbp4	Rab34	Rab31	Rhebl1	Rab37	Rab38	Rab35	Rab36	Guf1	Arl8a	Arl8b	Ran	Rab1a	Rab1b	Ralb	Rala	Rasl11a	Rasl11b	Dnajc27	Eftud2	Rem1	Nras	Rab23	Rab20	Rab40b	Rasd1	Rab21	Rab40c	Rasd2	Rab26	Rab24	Rab25	Rab28	Rab29	Rab4b	Rab39	Rabl2	Rab39b	Rab27a	Rab27b	Eral1	Eef2	Gem	Rheb	Rab5a	Rab5b	Ift27	Rab3c	Rab3d	Rab3a	Arl9	Rab3b	Arl6	Rasef	Arl2	Arl3	Arl1	Rab44	Rab42	Rab43	Rab4a	Eif5b	Rhoa	Rhoh	Rhof	Rhog	Rhod	Rap2a	Rab33a	Rab33b	Rhob	Rhoc	Arl4d	Rhoq	Mras	Rap2b	Arl4c	Rap2c	Rhoj	Rhov	Rhou	Arl4a	Eras	Rab7	Rab7b	Rasl12	Arf4	Arf5	Rab5c	Arf3	Sar1a	Sar1b	Rrad	Arf1	Lrrk2	Mtif2	Rhot1	Rap1a	Rap1b	Nkiras1	Nkiras2	Rras2	Rras	Rab6b	Rab6a	Efl1	Rab11a	Rab11b	Cdc42	Rab12	Rit2	Rab10	Rab15	Rit1	Rab13	Drg1	Rab14	Drg2	Rab9	Rab19	Rab9b	Rab17	Kras	Rab18	Arf6	Rerg	Gfm2	Gfm1	Diras1	Diras2	Rnd3	Rab22a	Rnd1	Rnd2	Arfrp1	Arl5c	Mtg2	Arl13b	Rac3	Rab8a	Rac1	Hras	Rac2	Arl5a	Arl5b	Rab8b	Trim23
+Sodium ion transport-associated	InterPro_Domains_2019	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Sodium/calcium exchanger membrane region	InterPro_Domains_2019	Slc24a3	Slc24a2	Slc24a5	Slc24a4	Slc24a1	Slc8b1	Slc8a1	Slc8a2	Slc8a3
+Somatomedin B domain	InterPro_Domains_2019	Endou	Sbspon	Tinagl1	Enpp1	Susd2	Enpp3	Enpp2	Prg4	Tinag	Vtn
+Somatomedin B, chordata	InterPro_Domains_2019	Endou	Enpp1	Enpp2	Prg4	Vtn
+Sortilin, C-terminal	InterPro_Domains_2019	Sort1	Sorcs2	Sorcs1	Sorl1	Sorcs3
+Sortilin, N-terminal	InterPro_Domains_2019	Sort1	Sorcs2	Sorcs1	Sorl1	Sorcs3
+Sorting nexin Vps5-like, C-terminal	InterPro_Domains_2019	Snx5	Snx2	Snx1	Snx32	Snx6
+Spen paralogue and orthologue SPOC, C-terminal	InterPro_Domains_2019	Dido1	Phf3	Rbm15	Rbm15b	Spen	Spocd1
+Sterile alpha motif domain	InterPro_Domains_2019	Epha6	Epha5	Epha8	Epha7	Sfmbt1	Sfmbt2	Samd4b	Arap3	Kazn	Arap1	Arap2	Samd4	Bfar	Ddhd2	Bicc1	Shank1	Stim1	Stim2	Anks6	Lcp2	Anks4b	Epha2	Epha1	Epha4	Shank3	Epha3	Shank2	Dgkh	Samd7	L3mbtl4	Samd8	L3mbtl3	Dgkd	Anks3	Sgms1	Tnks	Wdsub1	Inppl1	Samd9l	Lrsam1	Samd15	Caskin1	Caskin2	Ppfia2	Samd10	Ppfia1	Map3k20	Samd13	Anks1b	Samd14	Samd3	Sash1	Anks1	Samd11	Ppfia4	Ppfia3	Sash3	Samd12	Samd5	Phc1	Phc3	Phc2	Stard13	Kif24	Trp73	Cnksr3	Cnksr2	Ppfibp2	Cnksr1	Sec23ip	Dlc1	Sarm1	Ephb6	Epha10	Tnks2	Ush1g	Samsn1	Ppfibp1	Ppp1r9a	Samhd1	Scml2	Scmh1	Scml4	Asz1	Ephb1	Ephb3	Ephb2	Ephb4	Trp63
+Sterol-sensing domain	InterPro_Domains_2019	Ptch2	Ptch1	Hmgcr	Zdhhc22	Npc1	Disp1	Disp2	Disp3	Npc1l1	Ptchd3	Ptchd1	Scap	Ptchd4
+Stromalin conservative domain	InterPro_Domains_2019	Stag1	Stag2	Stag3
+Sugar phosphate transporter domain	InterPro_Domains_2019	Slc35d2	Slc35c1	Slc35e3	Slc35d1	Slc35c2	Slc35e4	Slc35e1	Slc35e2
+Sulfatase, N-terminal	InterPro_Domains_2019	Arsa	Arsb	Gns	Sulf2	Sulf1	Sgsh	Sts	Galns	Ids	Arsk	Arsi	Arsj	Arsg
+Sulfite reductase [NADPH] flavoprotein alpha-component-like, FAD-binding	InterPro_Domains_2019	Mtrr	Por	Nos3	Nos1	Nos2	Ndor1
+Sulfotransferase domain	InterPro_Domains_2019	Hs3st1	Hs3st3b1	Chst7	Wscd1	Hs3st6	Hs3st4	Hs3st5	Hs3st2	Sult2b1	Sult1b1	Chst1	Chst2	Sult6b1	Chst3	Chst4	Hs3st3a1	Sult5a1	Ndst3	Sult2a1	Ndst2	Sult1c1	Ndst1	Sult1c2	Dsel	Sult1e1	Ndst4	Sult4a1
+Sumo domain	InterPro_Domains_2019	Sumo1	Sumo2
+Sushi/SCR/CCP domain	InterPro_Domains_2019	Gabbr1	Sez6l	Vcan	Cfhr1	Pappa2	Fbln7	Masp1	Hp	C4bp	Sez6	Srpx2	Susd5	Susd4	Susd6	Pamr1	Cr1l	Il15ra	Cr2	Susd1	Susd3	Susd2	Pappa	Sele	Bcan	Selp	Il2ra	Sell	F13b	Masp2	Cd46	Cfb	Srpx	Sned1	C1rb	C1s1	Ncan	Sez6l2	C2	Acan	C6	C7	Tpo	Apoh	Svep1	Csmd3	Csmd2	Csmd1	Cd55b
+Synaptobrevin	InterPro_Domains_2019	Vamp8	Stxbp5	Stxbp5l	Vamp1	Vamp2	Ykt6	Stxbp6	Vamp5	Sec22b	Vamp3	Vamp4
+Synaptotagmin	InterPro_Domains_2019	Syt6	Syt5	Syt4	Syt3	Syt2	Doc2b	Doc2a	Syt1	Syt17	Syt9	Sytl4	Syt8	Syt7	Syt11	Syt10	Rph3a
+Synaptotagmin-like mitochondrial-lipid-binding domain	InterPro_Domains_2019	Esyt1	Esyt3	Esyt2	Tex2	Pdzd8
+Syndecan/Neurexin domain	InterPro_Domains_2019	Nrxn2	Sdc3	Nrxn1	Sdc4	Sdc1	Nrxn3	Sdc2
+Syntaxin, N-terminal domain	InterPro_Domains_2019	Stx16	Stx19	Stx7	Stx4a	Stx3	Stx2	Stx12	Stx1b	Stx1a	Stx11
+TAFH/NHR1	InterPro_Domains_2019	Taf4b	Cbfa2t3	Taf4	Runx1t1	Cbfa2t2
+TATA box binding protein associated factor (TAF)	InterPro_Domains_2019	Taf6l	Taf6
+TB domain	InterPro_Domains_2019	Fst	Ltbp3	Ltbp4	Fstl3	Ltbp1	Ltbp2	Fbn1	Fbn2
+TGF-beta, propeptide	InterPro_Domains_2019	Gdf11	Tgfb1	Lefty1	Tgfb3	Tgfb2	Bmp10	Gdf3	Inhba	Gdf2	Gdf5	Inhbb	Gdf7	Gdf6	Bmp7	Bmp6	Bmp5	Bmp4	Bmp3	Bmp2	Mstn
+TGS	InterPro_Domains_2019	Drg1	Drg2	Tars2
+THAP-type zinc finger	InterPro_Domains_2019	Thap4	Thap7	Thap1	Thap3	Thap11	Thap2	Thap12
+THIF-type NAD/FAD binding fold	InterPro_Domains_2019	Mocs3	Uba7	Uba6	Uba5	Uba3	Nae1	Uba2	Uba1	Atg7	Sae1
+TLDc domain	InterPro_Domains_2019	Oxr1	Ncoa7	Tldc2	Tbc1d24	Ifi44
+TMC domain	InterPro_Domains_2019	Tmc2	Tmc1	Tmc8	Tmc7	Tmc6	Tmc5	Tmc4	Tmc3
+TNFR/NGFR cysteine-rich region	InterPro_Domains_2019	Ngfr	Tnfrsf19	Tnfrsf22	Tnfrsf1a	Tnfrsf1b	Tnfrsf21	Ltbr	Fas	Cd27	Tnfrsf25	Cd40	Tnfrsf11a	Lama5	Tnfrsf11b	Eda2r	Tnfrsf8	Tnfrsf18	Tnfrsf9	Tnfrsf4	Tnfrsf10b
+TOG domain	InterPro_Domains_2019	Cep104	Togaram1	Ipo4	Togaram2	Clasp1	Dnaaf5	Ckap5	Clasp2	Ipo5	Gcn1
+TRAM/LAG1/CLN8 homology domain	InterPro_Domains_2019	Cers4	Cers5	Cers6	Tram2	Tram1	Cln8	Tlcd1	Tlcd2	Tram1l1	Cers2	Cers3
+TRASH domain	InterPro_Domains_2019	Zmym1	Zmym2	Zmym3	Zmym4	Zmym5	Zmym6	Rpl24	Rsl24d1
+Target SNARE coiled-coil homology domain	InterPro_Domains_2019	Stx8	Abi1	Abi2	Stx1b	Stx1a	Snap47	Snap25	Stx16	Stx17	Snap23	Stx19	Stx12	Uaca	Stx11	Stx7	Vti1b	Vti1a	Stx6	Stx5a	Stx4a	Snap29	Stx3	Stx2
+Tensin phosphatase, C2 domain	InterPro_Domains_2019	Tns1	Gak	Tpte	Dnajc6	Tns3	Tns2
+Tensin-type phosphatase domain	InterPro_Domains_2019	Tns1	Gak	Tpte	Dnajc6	Tns3	Tns2
+Tensin/EPS8 phosphotyrosine-binding domain	InterPro_Domains_2019	Tns1	Eps8l1	Eps8l2	Eps8l3	Tns4	Tns3	Eps8	Tns2
+Tesmin/TSO1-like CXC domain	InterPro_Domains_2019	Tesmin	Ezh1	Ezh2	Lin54	Msl2
+Tetratricopeptide repeat-containing domain	InterPro_Domains_2019	Dnaaf4	Fkbpl	Cfap70	Zfc3h1	Crnkl1	Lrp2bp	Tanc1	Tanc2	Ift88	Cdc16	Fkbp8	Aipl1	Fkbp5	Fkbp4	Fkbp6	Ppid	Trank1	Tonsl	Cdc23	Srp72	Pdcd11	Emc2	Cdc27	Nphp3	Trappc12	Wdtc1	Ttc36	Ttc33	St13	Ttc34	Tomm70a	Ttc32	Aip	Ttc21a	Ttc21b	Nasp	Prpf6	Appbp2	Noxa1	Ncf2	Ctr9	Tmtc4	Tmtc3	Tmtc2	Tmtc1	Ifit2	Ifit3	Cep70	Unc45b	Ttc16	Ttc13	Unc45a	Ttc14	Ttc12	Ttc9c	Ttc19	Ttc9b	Ttc17	Dnajc3	Ppp5c	Pex5l	P4ha1	P4ha2	Pex5	Dnajc7	Rapsn	Ogt	Cabin1	Gpsm2	Gtf3c3	Ttc27	Gpsm1	Ficd	Klc2	Rpap3	Klc1	Ttc28	Ttc29	Stip1	Klc4	Klc3	Zc3h7b	Uty	Naa25	Lonrf2	Lonrf3	Kdm6a	Bbs4	Lonrf1	Ranbp2	Prmt9	Sgta	Sgtb	Ttc3	Ttc7	Ttc1	Ttc7b	Tomm34	Xab2	Ttc9	Ttc8	Ttc6	Ifit1bl2	Ttc5	Ttc4	Asph	Naa15	Sugt1	Spag1	Stub1	Naa16	Anapc7	Ercc6l
+Thioesterase domain	InterPro_Domains_2019	Them4	Acot11	Acot12	Acot13	Them5	Acot7
+Thiolase, C-terminal	InterPro_Domains_2019	Hadhb	Scp2	Acat1	Acaa2	Acaa1b	Acat3
+Thiolase, N-terminal	InterPro_Domains_2019	Hadhb	Scp2	Acat1	Acaa2	Acaa1b	Acat3
+Thioredoxin domain	InterPro_Domains_2019	Pdia4	Pdia3	Pdia2	Txnl1	Glrx3	Dnajc16	Pdia6	Pdia5	Erp44	Tmx4	Sco2	Tmx3	Nme8	Tmx2	Tmx1	Dnajc10	Nme9	P4hb	Nhlrc2	Txn2	Nxn	Txndc11	Txn1	Txndc12	Txndc15	Txndc16	Prdx4	Prdx3	Prdx6	Prdx5	Prdx2	Prdx1	Txndc5	Qsox1	Qsox2	Txndc2	Pdilt	Nxnl1	Txndc9	Txndc8
+Thioredoxin-like fold	InterPro_Domains_2019	Nxn	Faxc	Nhlrc2	Nxnl1	Nxnl2
+Threonyl/alanyl tRNA synthetase, SAD	InterPro_Domains_2019	Aars2	Aarsd1	Tars2
+Thrombospondin, C-terminal	InterPro_Domains_2019	Comp	Thbs1	Thbs3	Thbs2	Thbs4
+Thyroglobulin type-1	InterPro_Domains_2019	Igfbp2	Igfbp1	Cd74	Nid1	Igfbp6	Igfbp5	Igfbp4	Igfbp3	Tacstd2	Nid2	Tg	Epcam	Smoc2	Spock3	Smoc1	Spock1	Spock2
+Tim10-like	InterPro_Domains_2019	Timm9	Timm8b	Timm8a1	Timm13	Timm10
+Toll/interleukin-1 receptor homology (TIR) domain	InterPro_Domains_2019	Il1r1	Tirap	Il1rap	Tlr2	Il1rl1	Il1rl2	Tlr1	Myd88	Il18rap	Sarm1	Il1rapl2	Il1rapl1	Tlr9	Tlr8	Tlr7	Tlr6	Tlr5	Tlr4	Tlr3	Il18r1	Sigirr
+Transcription elongation factor S-II, central domain	InterPro_Domains_2019	Dido1	Phf3	Spocd1	Tceanc	Tcea3	Tcea2	Tceanc2	Tcea1
+Transcription elongation factor, TFIIS/CRSP70, N-terminal, sub-type	InterPro_Domains_2019	Med26	Eloa	Tcea3	Tcea2	Tceanc2	Ppp1r10	Tcea1
+Transcription factor AP-2, C-terminal	InterPro_Domains_2019	Tfap2b	Tfap2c	Tfap2d	Tfap2e	Tfap2a
+Transcription factor CBF/NF-Y/archaeal histone domain	InterPro_Domains_2019	Chrac1	Dr1	Nfyb	Nfyc	Pole3	Pole4	Drap1
+Transcription factor IIS, N-terminal	InterPro_Domains_2019	Iws1	Med26	Eloa	Tcea3	Tceanc	Tcea2	Tceanc2	Ppp1r10	Tcea1
+Transcription factor, GTP-binding domain	InterPro_Domains_2019	Tufm	Eif5b	Eefsec	Gfm2	Gfm1	Eif2s3x	Efl1	Hbs1l	Mtif2	Eef2	Gtpbp2	Gspt2	Eftud2	Gspt1	Eef1a2	Gtpbp1	Guf1
+Transcription factor, MADS-box	InterPro_Domains_2019	Mef2b	Mef2a	Mef2d	Mef2c	Srf
+Transferrin receptor-like, dimerisation domain	InterPro_Domains_2019	Folh1	Tfrc	Naalad2	Naaladl1
+Transforming growth factor-beta, C-terminal	InterPro_Domains_2019	Gdf11	Tgfb1	Lefty1	Tgfb3	Tgfb2	Gdf15	Pspn	Cers1	Gdf3	Inhba	Gdf2	Inhbc	Gdf5	Inhbb	Gdf7	Inhbe	Gdf6	Gdf9	Bmp7	Bmp6	Gdf10	Bmp5	Bmp4	Bmp3	Bmp2	Artn	Gdnf	Mstn	Nodal	Inha	Bmp10	Bmp15	Nrtn	Amh
+Transglutaminase, C-terminal	InterPro_Domains_2019	Tgm2	Tgm1	Epb42	F13a1	Tgm7	Tgm6	Tgm5	Tgm4	Tgm3
+Transglutaminase, N-terminal	InterPro_Domains_2019	Tgm2	Tgm1	Epb42	F13a1	Tgm7	Tgm6	Tgm5	Tgm4	Tgm3
+Transglutaminase-like	InterPro_Domains_2019	Tgm2	Tgm1	Epb42	Ngly1	F13a1	Tgm7	Tgm6	Ky	Tgm5	Tgm4	Tgm3
+Transient receptor ion channel domain	InterPro_Domains_2019	Trpc6	Trpc7	Trpc4	Trpc5	Trpc3	Trpc1
+Transketolase, C-terminal domain	InterPro_Domains_2019	Bckdhb	Tktl2	Tktl1	Pdhb	Tkt
+Transketolase-like, pyrimidine-binding domain	InterPro_Domains_2019	Bckdhb	Dhtkd1	Tktl2	Tktl1	Ogdhl	Pdhb	Tkt	Ogdh
+Translation elongation factor EFTu-like, domain 2	InterPro_Domains_2019	Tufm	Eif5b	Gfm2	Gfm1	Eif2s3x	Hbs1l	Eef2	Gspt2	Eftud2	Gspt1	Eef1a2	Guf1
+Translation elongation factor EFTu/EF1A, C-terminal	InterPro_Domains_2019	Tufm	Eef1a2	Hbs1l	Gspt2	Gspt1
+Transmembrane protein TMEM132, C-terminal	InterPro_Domains_2019	Tmem132e	Tmem132d	Tmem132a	Tmem132c	Tmem132b
+Transmembrane protein TMEM132, N-terminal	InterPro_Domains_2019	Tmem132e	Tmem132d	Tmem132a	Tmem132c	Tmem132b
+Transmembrane protein family 132, middle domain	InterPro_Domains_2019	Tmem132e	Tmem132d	Tmem132a	Tmem132c	Tmem132b
+Tripartite DENN domain	InterPro_Domains_2019	Dennd1c	Dennd2d	Dennd2a	Dennd4c	Dennd4b	Dennd1b	Dennd2c	Dennd1a	Madd	Dennd3	Dennd6a	Dennd4a	Dennd5b	Dennd5a	Dennd6b	Sbf2	Avl9	Sbf1
+Trypsin Inhibitor-like, cysteine rich domain	InterPro_Domains_2019	Muc5b	Vwf	Muc19	Zan	Muc5ac	Otogl	Bmper	Otog	Tecta	Muc6
+Tubby, C-terminal	InterPro_Domains_2019	Tub	Tulp4	Tulp3	Tulp2	Tulp1
+Tubulin/FtsZ, 2-layer sandwich domain	InterPro_Domains_2019	Tubal3	Tubb5	Tubb1	Tube1	Tubg2	Tuba1a	Tubb2a	Tuba3b	Tubg1	Tubb4b	Tubb4a	Tuba4a	Tuba8	Tuba1c	Tubb2b	Tubb6	Tuba1b	Tubb3
+Tubulin/FtsZ, GTPase domain	InterPro_Domains_2019	Tubal3	Tubb5	Tubb1	Tubd1	Tube1	Tubg2	Tuba1a	Tubb2a	Tuba3b	Tubg1	Tubb4b	Tubb4a	Tuba4a	Tuba8	Tuba1c	Tubb2b	Tubb6	Tuba1b	Tubb3
+Tudor domain	InterPro_Domains_2019	Kdm4a	Snd1	Kdm4b	Kdm4c	Setdb1	Tdrd9	Alg13	Tdrd7	Tdrd6	Tdrd5	Tdrd3	Phf20l1	Tdrd1	Mtf2	Tdrd12	Phf19	Akap1	Tdrkh	Phf20	Phf1	Rnf17	Arid4a	Arid4b	Smn1	Lbr	Smndc1	Stk31
+Tumour necrosis factor domain	InterPro_Domains_2019	Eda	Tnfsf15	Cd70	Tnfsf13	Tnfsf14	Tnf	Fasl	Tnfsf13b	Tnfsf4	Ltb	Tnfsf11	Tnfsf12	Lta	Tnfsf9	Tnfsf8	Tnfsf10	Cd40lg
+Type I cytokine receptor, cytokine-binding domain	InterPro_Domains_2019	Il31ra	Il5ra	Il6st	Il2rg	Il6ra	Csf2ra	Csf2rb2	Il13ra1	Il13ra2
+Tyrosine specific protein phosphatases domain	InterPro_Domains_2019	Ptpn18	Dusp5	Ptpn1	Ptprn2	Ptpn2	Epm2a	Dusp6	Dusp4	Dusp1	Dusp2	Ptpn11	Ptpn12	Ptpn13	Ptpn14	Dusp9	Dusp7	Dusp8	Ptpre	Ptprf	Ptprc	Ptprd	Ptpra	Ptprb	Ptpn20	Ptpn9	Ptpn7	Ptpn5	Ptpn6	Cdkn3	Ptpn3	Ptpn4	Mtmr1	Ptpru	Mtmr2	Ptprs	Ptprt	Mtmr4	Ptprq	Ptprr	Ptpro	Ptpn21	Ptprm	Ptprn	Ptpn22	Ptpn23	Dusp18	Ptprk	Dusp19	Dusp16	Ptpdc1	Ptprj	Dusp14	Ptprg	Mtmr7	Mtm1	Dusp15	Ptprh	Dusp12	Dusp10	Dusp11	Rngtt	Ssh3	Dusp28	Ssh1	Dusp26	Ssh2	Dusp23	Ptp4a2	Ptp4a3	Dusp21	Dusp22	Ptp4a1	Cdc14a	Cdc14b	Ptprz1	Ptpmt1	Styx-ps
+Tyrosine-protein kinase ephrin type A/B receptor-like	InterPro_Domains_2019	Epha6	Epha5	Epha8	Epha7	Tnfrsf21	Tg	Epha2	Epha1	Epha4	Epha3	Ephb6	Epha10	Tnfrsf11b	Pcsk5	Scube3	Scube1	Scube2	Ephb1	Svep1	Tnfrsf4	Ephb3	Ephb2	Ephb4
+Tyrosine-protein kinase, catalytic domain	InterPro_Domains_2019	Epha6	Pdgfrb	Lyn	Epha5	Pdgfra	Epha8	Epha7	Insrr	Matk	Tyk2	Mertk	Bmx	Tec	Fes	Fer	Axl	Tek	Epha2	Epha1	Epha4	Itk	Frk	Alk	Epha3	Ddr2	Ddr1	Ret	Mst1r	Egfr	Erbb4	Erbb2	Kdr	Musk	Yes1	Ntrk2	Ntrk3	Insr	Srms	Ntrk1	Syk	Tnk2	Tie1	Ptk6	Hck	Ptk2	Fgr	Zap70	Lck	Kit	Fgfr1	Btk	Tyro3	Met	Fgfr4	Fgfr3	Fgfr2	Csf1r	Blk	Src	Flt1	Ltk	Flt3	Flt4	Txk	Igf1r	Abl2	Tnk1	Ptk2b	Ephb1	Fyn	Csk	Abl1	Ros1	Jak3	Ephb3	Ephb2	Jak1	Ephb4	Jak2
+U box domain	InterPro_Domains_2019	Ppil2	Ubox5	Prpf19	Rbbp6	Wdsub1	Ube4a	Ube4b	Stub1	Trim21
+U2A'/phosphoprotein 32 family A, C-terminal	InterPro_Domains_2019	Anp32b	Anp32a	Cep72	Snrpa1	Cfap410
+UBX domain	InterPro_Domains_2019	Ubxn1	Faf1	Ubxn2b	Ubxn2a	Faf2	Aspscr1	Nsfl1c	Ubxn11	Ubxn10	Ubxn8	Ubxn4	Ubxn7	Ubxn6
+UDP-glycosyltransferase family, conserved site	InterPro_Domains_2019	Ugt1a10	Ugt2a1	Ugt1a1	Ugt8a	Ugt1a6a	Ugt1a2	Ugt3a1	Ugt2a3
+UMA domain	InterPro_Domains_2019	Umad1	Ubap1	Mvb12b	Mvb12a	Ubap1l
+UPA domain	InterPro_Domains_2019	Unc5b	Unc5c	Unc5cl	Unc5a	Unc5d
+UbiB domain	InterPro_Domains_2019	Adck2	Adck1	Coq8a	Adck5	Coq8b
+Ubiquitin domain	InterPro_Domains_2019	Ubl4b	Ubl4a	Tmub2	Tmub1	Rad23b	Rad23a	Ublcp1	Ubqlnl	Fau	Rbck1	Snrnp25	Ankrd60	Prkn	Tbcel	Zfand4	Nedd8	Ddi1	Ankub1	Rps27a	Usp48	Tbce	Tbcb	Isg15	Uba52	Sf3a1	Usp14	Midn	Uhrf2	Uhrf1	Ubfd1	Herpud1	Oasl1	Herpud2	Ubl7	Ikbkb	Ubl5	Bag6	Ubc	Ubl3	Ubb	Sumo1	Sumo2	Bag1	Iqub	Ubd	Ubqln2	Nfatc2ip	Ubqln1	Elob	Ubtd2	Sacs	Ubtd1	Ubqln4	Ubqln3
+Ubiquitin specific protease domain	InterPro_Domains_2019	Usp25	Usp8	Usp7	Usp28	Usp21	Usp9x	Usp32	Usp9y	Usp5	Usp22	Usp4	Usp24	Usp3	Usp26	Cyld	Usp20	Usp36	Usp37	Uspl1	Usp38	Usp39	Usp33	Usp34	Usp35	Usp2	Usp1	Usp30	Usp31	Usp47	Usp48	Usp49	Usp43	Usp44	Usp45	Usp46	Pan2	Usp40	Usp42	Usp14	Usp15	Usp16	Usp27x	Usp54	Usp10	Usp11	Usp12	Usp13	Usp18	Usp19	Usp50	Usp51	Usp53
+Ubiquitin system component CUE	InterPro_Domains_2019	Ascc2	Tollip	Amfr	Aup1	Smarcad1	Tab3	Tab2	Cuedc1	Cuedc2	N4bp2
+Ubiquitin-associated domain	InterPro_Domains_2019	Usp5	Rhbdd3	Vps13d	Usp24	Rad23b	Huwe1	Rad23a	Ubac1	Ubac2	Tdrd3	Lats2	Lats1	Snrk	Nbr1	Ubap1	Ubap2	Sik2	Sik3	Ube2k	Sqstm1	Sik1	Tnrc6c	Ubxn1	Brsk1	Ddi2	Usp13	Cblb	Cbl	Rnf31	Ubl7	Nub1	Dhx57	Ubqln2	Mark1	Ubqln1	Ubap2l	Ubash3a	Ubash3b	Mark4	Mark3	Ubqln4	Mark2	Ubqln3
+Ubiquitin-conjugating enzyme E2	InterPro_Domains_2019	Ube2h	Ube2i	Ube2c	Aktip	Ube2f	Ube2e2	Ube2e3	Ube2g2	Ube2a	Ube2b	Ube2e1	Ube2g1	Ube2ql1	Ube2w	Cdc34	Ube2z	Ube2srt	Ube2t	Ube2u	Ube2r2	Ube2o	Birc6	Ube2v1	Ube2v2	Ube2k	Ube2m	Ube2n	Ube2d1	Ube2d2a	Ube2l6	Ube2j1	Ube2l3	Ube2j2	Ube2q2	Ube2q1
+Ulp1 protease family, C-terminal catalytic domain	InterPro_Domains_2019	Senp7	Senp8	Senp5	Senp6	Senp3	Senp1	Semp2l2b
+Uncharacterised domain, cysteine-rich	InterPro_Domains_2019	Muc5b	Vwf	Muc19	Zan	Muc5ac	Otogl	Kcp	Bmper	Otog	Tecta	Muc6
+V-ATPase proteolipid subunit C-like domain	InterPro_Domains_2019	Atp6v0c	Atp6v0b	Atp5mc3	Atp5mc2
+VHS domain	InterPro_Domains_2019	Gga3	Tom1l2	Gga2	Hgs	Tom1l1	Tom1	Stam	Stam2	Gga1
+VIT domain	InterPro_Domains_2019	Itih5	Parp4	Itih4	Itih3	Vwa5b1	Itih2	Itih1	Vwa5b2	AW551984
+VPS10	InterPro_Domains_2019	Sort1	Sorcs2	Sorcs1	Sorl1	Sorcs3
+VPS9 domain	InterPro_Domains_2019	Als2cl	Vps9d1	Rinl	Ankrd27	Rabgef1	Als2	Rin2	Rin3	Gapvd1	Rin1
+VWA N-terminal	InterPro_Domains_2019	Cacna2d2	Cachd1	Cacna2d1	Cacna2d4	Cacna2d3
+VWFC domain	InterPro_Domains_2019	Dgcr2	Jag1	Muc5b	Jag2	Vwf	Muc19	Vwc2	Muc5ac	Crim1	Otogl	Col2a1	Col1a1	Nell2	Fras1	Nell1	Col3a1	Col5a2	Pxdn	Kcp	Ecm2	Zan	Chrd	Vwce	Thbs1	Chrdl1	Chrdl2	Thbs2	Bmper	Otog	Ccn3	Muc6	Tecta	Vwc2l
+Vacuolar protein sorting-associated protein 13, N-terminal domain	InterPro_Domains_2019	Vps13d	Vps13b	Atg2b	Atg2a	Vps13c	Vps13a
+Vicinal oxygen chelate (VOC) domain	InterPro_Domains_2019	Mcee	Glod4	Glod5	Glo1	Hpd	Hpdl
+Villin headpiece	InterPro_Domains_2019	Ablim1	Svil	Dmtn	Ablim2	Ablim3	Avil	Vill	Vil1
+Voltage-dependent L-type calcium channel, IQ-associated domain	InterPro_Domains_2019	Cacna1a	Cacna1s	Cacna1c	Cacna1b	Cacna1e	Cacna1d	Cacna1f
+Voltage-dependent calcium channel, alpha-1 subunit, IQ domain	InterPro_Domains_2019	Cacna1a	Cacna1s	Cacna1c	Cacna1b	Cacna1e	Cacna1d	Cacna1f
+Voltage-gated Na+ ion channel, cytoplasmic domain	InterPro_Domains_2019	Scn9a	Scn8a	Scn5a	Scn3a	Scn1a	Scn2a
+Vps4 oligomerisation, C-terminal	InterPro_Domains_2019	Spast	Vcp	Vps4a	Fignl1	Katnal1	Vps4b	Fign
+W2 domain	InterPro_Domains_2019	Eif2b5	Eif5	Eif4g1	Bzw2	Eif4g3	Bzw1	Eif4g2
+WAP-type 'four-disulfide core' domain	InterPro_Domains_2019	Wfdc12	Wfdc8	Wfikkn2	Wfikkn1	Wfdc1	Wfdc2	Wfdc5	Wfdc3	Slpi	Eppin	Umodl1	Wfdc10
+WASH1, WAHD domain	InterPro_Domains_2019	Washc1
+WD40-repeat-containing domain	InterPro_Domains_2019	Wsb1	Wsb2	Wdr75	Nbeal1	Daw1	Nbeal2	Ift80	Eml1	Eml2	Eml3	Wdhd1	Wdr77	Cdc20	Eml4	Eml5	Eml6	Wdr82	Wdr83	Tep1	Wdr81	Coro7	Coro6	Preb	Stxbp5	Wdsub1	Wdr64	Wdr62	Dcaf6	Dcaf5	Dcaf8	Dcaf7	Nwd1	Dcaf4	Nwd2	Fzr1	Herc1	Wdr72	Wdr70	Tbl1x	Btrc	Wdr59	Cfap52	Wdr53	Wdr54	Wdr55	Tbl3	Smu1	Tbl2	Grwd1	Strn	Wdr5b	Cfap57	Pwp1	Wdr48	Wdr49	Mapkbp1	Wdr43	Wdr41	Wdr46	Wdr47	Pwp2	Rrp9	Ciao1	Wdr44	Aaas	Mlst8	Kif21a	Cstf1	Kif21b	Sec31a	Sec31b	Wdr37	Sec13	Wdr38	Eipr1	Wdr31	Ift122	Wdr35	Wdr36	Wdr33	Cdc20b	Prpf19	Pafah1b1	Arpc1a	Wdr26	Wdr27	Strap	Dcaf12l1	Arpc1b	Pak1ip1	Wdr20rt	Wdr24	Med16	Wdr25	Taf5l	Vps8	Scap	Dph7	Zfp106	Dync1i2	Dync1i1	Wdr17	Wdr18	Utp4	Ift140	Wdr19	Elp2	Stxbp5l	Thoc3	Wdr13	Thoc6	Nle1	Wdr12	Ddb2	Nedd1	Lyst	Spag16	Rptor	Tbc1d31	Rack1	Fbxw5	Tle4	Fbxw4	Fbxw7	Tle3	Coro2a	Tle2	Fbxw11	Fbxw9	Tle1	Fbxw8	Fbxw10	Coro2b	Tle7	Fbxw2	Tle6	Tbl1xr1	Bop1	Atg16l2	Dmwd	Atg16l1	Wdfy2	Wdfy1	Wdfy4	Phip	Wdfy3	Brwd3	Nsmaf	Plaa	Katnb1	Strn3	Hira	Strn4	Rbbp5	Rbbp4	Rbbp7	Rae1	Wdtc1	Utp15	Utp18	Nbea	Dmxl1	Gnb1	Traf7	Prpf4	Dmxl2	Gnb3	Gnb2	Gemin5	Gnb5	Gnb4	Copa	Copb2	Dcaf8l	Coro1a	Coro1b	Coro1c	Edc4	Cop1	Chaf1b	Apaf1	Lrwd1	Ahi1	Wrap53	Pex7	Gtf3c2	Seh1l	Pik3r4	Ppwd1	Plrg1	Dennd3	Nup43	Dnai1	Cfap44	Dnai2	Eed	Cdc40	Snrnp40	Ercc8	Gnb1l	Eif3i	Dtl	Taf5	Nup37	Wdr1	Wdr3	Wdr4	Wdr5	Wdr86	Tulp4	Ambra1	Wdr88	Wdr89	Wdr90	Wdr91	Poc1b	Wdr6	Wdr7	Dcaf10	Dcaf11	Aamp	Dcaf12	Bub3	Dcaf13	Poc1a
+WH1/EVH1 domain	InterPro_Domains_2019	Spred3	Spred2	Spred1	Homer2	Homer3	Homer1	Was	Wasl	Evl	Vasp	Enah
+WH2 domain	InterPro_Domains_2019	Pxk	Whamm	Wipf1	Wipf2	Wipf3	Lmod2	Was	Lmod1	Wasl	Cobl	Espn	Mtss1	Inf2	Jmy	Cobll1	Spire2	Wasf1	Wasf2	Wasf3
+WHEP-TRS domain	InterPro_Domains_2019
+WHIM2 domain	InterPro_Domains_2019	Bptf	Baz2a	Baz2b	Baz1a	Baz1b
+WW domain	InterPro_Domains_2019	Fnbp4	Smurf2	Pcif1	Smurf1	Plekha7	Prpf40b	Plekha5	Prpf40a	Arhgap27	Gas7	Utrn	Yap1	Frmpd4	Stxbp4	Wbp4	Cep164	Hecw1	Iqgap1	Arhgap39	Iqgap2	Pqbp1	Sav1	Drp2	Apbb1	Apbb3	Dgcr8	Apbb2	Cmtr1	Galnt9	Magi2	Wwox	Wwtr1	Magi1	Magi3	Wwp1	Wwp2	Itch	Arhgap12	Nedd4	Tcerg1l	Hecw2	Wac	Pin1	Tcerg1	Arhgap9	Wwc1	Wwc2	Nedd4l	Bag3	Dmd	Setd2
+WWE domain	InterPro_Domains_2019	Parp11	Parp12	Rnf146	Tiparp	Dtx1	Zc3hav1	Trip12	Dtx2	Ddhd2	Huwe1	Dtx4	Parp14
+WxxW domain	InterPro_Domains_2019	Cemip	Muc5b	Cilp2	Cilp	Muc5ac
+XPG N-terminal	InterPro_Domains_2019	Fen1	Gen1	Exo1	Bivm	Aste1
+YTH domain	InterPro_Domains_2019	Ythdf1	Ythdf2	Ythdf3	Ythdc1	Ythdc2
+Yip1 domain	InterPro_Domains_2019	Yipf1	Yipf2	Yipf4	Yipf5	Yipf6	Yipf7
+Yippee domain	InterPro_Domains_2019	Ypel2	Ypel1	Ypel5	Ypel4	Ypel3
+Yippee/Mis18/Cereblon	InterPro_Domains_2019	Mis18a	Crbn	Ypel2	Ypel1	Oip5	Ypel5	Ypel4	Ypel3
+ZU5 domain	InterPro_Domains_2019	Dthd1	Unc5b	Unc5c	Unc5cl	Unc5a	Macc1	Ank3	Unc5d	Ank1	Ank2	Tjp1	Sh3bp4	Pidd1
+Zinc finger C2H2-type	InterPro_Domains_2019	Zfp287	Zfp282	Zfp281	Zfp277	Atf2	Zfp276	Zfp369	Zfp266	Zkscan6	Klf11	Klf12	Klf13	Zbtb7a	Klf14	Zfp263	Zfp260	Klf10	Zfp12	Klf15	Klf16	Klf17	Zfp352	Zfat	Dzip1	Atf7	Zfy1	Zkscan17	Zbtb8b	Zbtb8a	Zfp251	Zfp647	Zfp78	Zfp422	Zfp612	Zfp24	Zfp9	Zfp248	Zbtb7c	Zbtb7b	Zfp488	Zkscan16	Zfp637	Zfp947	Zfp105	Rbsn	Zfp239	Gtf2h2	Zfp236	Zfp109	Zfp474	Zfp473	Zfp518a	Zfp518b	Zfp94	Ctcf	Zfp553	Mynn	Mecom	Zfp469	Zfp61	Zfp467	Zfp462	Zfp219	Zfp217	Gzf1	Zfp697	Zfp213	Zfp212	Zfp454	Zfp953	Zfp451	Zfp692	Zfp691	Eea1	Plagl2	Plagl1	Zfp207	Zfp449	Zfp13	Zfp689	Zfp688	Zfp446	Zfp687	Zfp445	Zfp202	Zfp444	Zfp65	Zbtb18	Brpf1	Zbtb14	Zbtb17	Zbtb16	Zbtb11	Zbtb10	Zbtb12	Foxp3	Wt1	Zfp438	Zfp46	Krbox5	Zfp672	Zbtb26	Zbtb25	Zbtb22	Zbtb21	Zbtb24	Zbtb20	Yy1	Zfp429	Zfp428	Zfp668	Zfp426	Zfp667	Zfp160	Zfp423	Zfp664	Zfp790	Vezf1	Zfp414	Zfp655	Zfp654	Zfp653	Zfp410	Zfp652	Zfp512b	Maz	Glis1	Glis2	Glis3	Zkscan8	Zkscan7	Zfp408	Zfp407	Zfp648	Zkscan4	Zfp646	Zkscan5	Zfp644	Zkscan2	Zfp641	Zfp113	Zkscan1	Ctcfl	Peg3	Sp1	Sp3	Sp2	Zfp639	Sp5	Sp4	Zfp638	Sp7	Zfp879	Sp6	Sp9	Sp8	Adamts17	Zfp629	Zfp628	Zfp872	E4f1	Zfp623	Zfp865	Zfp622	Zbtb37	Zbtb39	Zbtb38	Zbtb33	Zbtb32	Zbtb34	Zfp618	Zfp853	Zfp619	Zbtb48	Zbtb47	Zbtb49	Zbtb44	Zbtb43	Zbtb46	Zbtb45	Zbtb40	Zbtb42	Zbtb41	Zfp609	Zfp608	Zfp606	Zfp605	Zfp729b	Zfp870	Trim23	Ciz1	Zfp2	Zfp1	Zfp3	Zfp711	Zfp324	Zfp867	Zfp704	Zfp703	Egr1	Egr2	Egr3	Zfr2	Egr4	Zup1	Zbtb2	Zbtb1	Ikzf1	Ikzf2	Ikzf3	Zbtb6	Ikzf4	Zbtb5	Ikzf5	Zbtb4	Zbtb3	Hivep2	Hivep1	Hivep3	Zhx3	Atmin	Zhx1	Zhx2	Zbtb9	Zfp59	Zfr	Zfx	Zfp14	Osr2	Osr1	Zfp523	BC025920	Aptx	Gfi1b	Mzf1	Prdm8	Prdm5	Prdm4	Prdm6	Prdm1	Prdm2	Arhgef18	Creb5	Zfp385c	Champ1	Zfp385b	Zfp385a	Arid2	Zfhx2	Zfhx4	Zfhx3	Bcl6b	Rbm10	Zfp804b	Zfp804a	Zic5	Rest	Zfp296	Zfp292	Zic3	Zic4	Zic1	Zic2	Zscan21	Zscan20	Zscan22	Zscan25	Zscan26	Zscan29	Zfp398	Zfp397	Zfp395	Zkscan14	Gpatch8	Zscan10	Zscan12	Zscan18	Zfp148	Zfp146	Zfp143	Zfp384	Zfp142	Zfp383	Zfp382	Snai2	Snai3	Snai1	Zfp131	Zfp280b	Zfp280c	Zxdc	Zfp280d	Adnp2	Zfp367	Zfp366	Zscan5b	Zfp560	Zfp362	Zeb1	Zeb2	Mtf1	Zfp358	Zfp598	Zfp597	Zfp112	Phf20	Zfp593	Zfp592	Prdm16	Prdm15	Prdm14	Prdm13	Aebp2	Prdm12	Prdm10	Zfp106	Zfp346	Zfp11	Zfp341	Zfp583	Zfp582	Zfp580	Zfp579	Zfp335	Zfp334	Zfp575	Zfp574	Zfp39	Gli2	Gli1	Gli3	Zfp329	Zfp74	Zfp566	Zik1	Zfp322a	Hic2	Hinfp	Hic1	Zfp319	Zfp317	Zfp316	Zfp558	Zfp28	Zfp551	Zfp791	Zfp37	Zfp30	Zfp787	Zfp786	Kcmf1	Zfp784	Zfp541	Gtf3a	Scrt2	Scrt1	Zfp42	Zfp41	Gm14288	Adnp	Zfp536	Zfp777	Zfp532	Zfp771	Zfp770	Zfp62	Rlf	Zfp57	Sall1	Sall2	Sall3	Sall4	Zfp768	Zfp526	Zfp524	E430018J23Rik	Zfp521	Zfp69	Zfp64	Zfp72	Bcl6	Zfp516	Zfp513	Zfp512	Zfp511	Zfp819	Nufip1	Bnc2	Bnc1	Zfp82	Dusp12	Zfp507	Zfp746	Rreb1	Zfp503	Zfp740	Klf1	Zfp92	Klf5	Klf4	Klf3	Zfp91	Klf2	Zfp90	Klf9	Klf8	Klf7	Klf6	Insm1	Insm2	Plag1	Repin1	Yod1	Otop3	Zfp839	Zfp831	Zfp827	Zfp821	Jazf1	Trmt1l	Bcl11b	Bcl11a	Ovol2	Ovol1	Trerf1	Ovol3	Zfpm1	Tshz1	Zfpm2	Rbak	Tshz2	Gfi1	Tshz3	Dzip1l	Dpf2	Dpf3	Zfp800	Fezf2	Fezf1	Patz1	Cpxcr1	Prmt3	Sorbs2	Zfp661	Zfp354b	Zfp354a	Zfp354c	Fiz1	Zscan2	Zfp7	Zfp128	Dnajc21	Zmat1	Pogz	Zmat3	Zmat4	Ankzf1	Trps1	Zfp286	Zfp189	Zfp182	Zfp180	Zfp174	Wiz	Rbm5	Zfp169
+Zinc finger, A20-type	InterPro_Domains_2019	Zfand5	Rabgef1	Zfand6	Otud7b	Tnfaip3	Zfand3	Otud7a
+Zinc finger, AN1-type	InterPro_Domains_2019	Zfand5	Zfand4	Zfand2a	Zfand2b	Zfand6	Zfand1	Ighmbp2	Zfand3
+Zinc finger, BED-type	InterPro_Domains_2019	Zfp266	Zbed3	Zfp426	Zbed6	Zbed4
+Zinc finger, C3HC4 RING-type	InterPro_Domains_2019	Trim40	Rnf170	Irf2bp1	Pex2	Traf2	Traf5	Traf4	Rnf207	Mkrn2	Mkrn3	Lnx1	Dtx1	Dtx2	Brca1	Dtx4	Sh3rf1	Rnf213	Trim65	Trim67	Rnf112	Rag1
+Zinc finger, C5HC2-type	InterPro_Domains_2019	Kdm5b	Kdm5c	Kdm5d	Jarid2	Kdm5a
+Zinc finger, CCCH-type	InterPro_Domains_2019	Tiparp	Cpsf4	Rc3h1	Rc3h2	Trmt1	Zc3h11a	Cnot4	Dus3l	Rbm22	Zc3h6	Zc3h4	Zc3h3	Zfp36l1	Zc3hav1	Zc3h8	U2af1l4	Zfp36l2	Zfp36	Zc3h7b	Zc3h7a	Zc3h10	Zgpat	Toe1	Mbnl1	Mbnl2	Mbnl3	Zc3h13	Helz	Pan3	Parp12	Cpsf4l	Mkrn2	Mkrn3	Rbm26	Rbm27	Prr3	Leng9	U2af1	Unk	Zc3h12d	Dhx57	Zc3h12c	Zmat5	Zc3h12b	Zc3h18	Ppp1r10	Trmt44	Zc3h14	Rnf113a2	Zc3h15	Unkl
+Zinc finger, CCHC-type	InterPro_Domains_2019	Zcchc24	Zcrb1	Cpsf4	Cnbp	Srek1ip1	Pnma3	Lin28a	Lin28b	Srsf7	Sf1	Zcchc3	Zcchc2	Zcchc14	Zcchc9	Zcchc13	Zcchc8	Zcchc7	Tut7	Tut4	Rbm4b	Zcchc17	Rtl3	Rtl4	Rbm4	Rbbp6	Peg10
+Zinc finger, CW-type	InterPro_Domains_2019	Zcwpw2	Morc4	Kdm1b	Zcwpw1	Morc2b	Morc3	Morc1
+Zinc finger, CXXC-type	InterPro_Domains_2019	Kdm2a	Kdm2b	Kmt2b	Kmt2a	Mbd1	Fbxl19	Cxxc1	Tet1	Cxxc4	Cxxc5	Dnmt1
+Zinc finger, FCS-type	InterPro_Domains_2019	L3mbtl2	Phc1	Phc3	Phc2	Mbtd1
+Zinc finger, FYVE-related	InterPro_Domains_2019	Rph3al	Ankfy1	Zfyve21	Rbsn	Zfyve26	Rufy2	Rufy1	Zfyve19	Hgs	Pikfyve	Rufy4	Wdfy2	Wdfy1	Wdfy3	Mtmr3	Plekhf1	Mtmr4	Plekhf2	Zfyve9	Zfyve1	Fgd1	Fgd2	Fgd3	Eea1	Fgd4	Fgd5	Rims2	Fyco1	Zfyve27	Fgd6	Zfyve28	Rims1	Rph3a
+Zinc finger, GATA-type	InterPro_Domains_2019	Rere	Gatad2a	Trps1	Gata6	Zglp1	Gata5	Gata4	Gata3	Gata2	Gata1	Gatad2b	Gatad1	Mta1	Mta2	Mta3
+Zinc finger, GRF-type	InterPro_Domains_2019	Neil3	Eri2	Top3a	Apex2	Ttf2	Zcchc4
+Zinc finger, HIT-type	InterPro_Domains_2019	Znhit1	Znhit3	Znhit2	Ddx59	Znhit6	Ino80b
+Zinc finger, LIM-type	InterPro_Domains_2019	Lmo2	Lmo1	Lims1	Limk1	Lmo4	Limk2	Lmo3	Mical3	Lmo7	Isl1	Isl2	Trip6	Zyx	Ajuba	Lims2	Tes	Fblim1	Limd2	Limd1	Scel	Pdlim2	Ablim1	Pdlim1	Ablim2	Pdlim4	Lasp1	Csrp3	Pdlim3	Ablim3	Csrp2	Csrp1	Micall1	Nrap	Micall2	Lpxn	Lmcd1	Pdlim5	Pdlim7	Limch1	Zfp185	Wtip	Lima1	Lhx4	Lmx1b	Lmx1a	Lhx3	Lhx2	Lhx1	Lhx8	Lhx6	Lhx5	Lhx9	Pxn	Tgfb1i1	Fhl4	Fhl2	Fhl3	Prickle3	Prickle4	Crip3	Fhl5	Lpp	Prickle1	Prickle2	Ldb3	Crip1	Crip2	Mical2	Mical1
+Zinc finger, MIZ-type	InterPro_Domains_2019	Pias4	Zmiz1	Zmiz2	Nsmce2	Pias1	Pias3	Pias2
+Zinc finger, MYM-type	InterPro_Domains_2019	Zmym1	Zmym2	Zmym3	Zmym4	Zmym5	Zmym6
+Zinc finger, MYND-type	InterPro_Domains_2019	Egln1	Zmynd8	Zmynd19	Cbfa2t3	Mss51	Usp19	Cbfa2t2	Tdrd1	Deaf1	Smyd3	Smyd2	Zmynd10	Zmynd11	Smyd4	Pdcd2	Zmynd12	Runx1t1	Smyd1	Ankmy2	Ankmy1	Zmynd15
+Zinc finger, PHD-finger	InterPro_Domains_2019	Brpf1	Brpf3	Sp110	Phf10	Phf13	Phf12	Nfx1	Mtf2	Kat6b	Kat6a	Phf14	Zmynd11	Phf19	Kdm5a	Kdm5b	Ints12	Kdm5c	Kdm5d	Phf23	Chd5	Chd4	Chd3	Phrf1	Mllt6	Pygo1	Nsd1	Nsd2	Nsd3	Sp100	Bptf	Kdm2a	Kdm2b	Brd1	Fbxl19	Baz1a	Baz1b	Pygo2	Mllt10	Trim33	Kdm7a	Taf3	Dido1	Kmt2e	Phf3	Zmynd8	Aire	Kmt2b	Uhrf2	Kmt2a	Kmt2d	Phf2	Uhrf1	Phf1	Kmt2c	Jade2	Baz2a	Jade1	Cxxc1	Phf21a	Baz2b	Jade3	Phf8	Ing1	Rsf1	Ing2	Phf21b	Ing5	Ing3	Ing4	Dpf1	Dpf2	Dpf3	Trim28	Trim66	Trim24
+Zinc finger, PHD-type	InterPro_Domains_2019	Kdm4a	Tcf19	Kdm4b	Brpf1	Kdm4c	Shprh	Phf11d	Brpf3	Sp110	Phf10	Phf13	Phf12	Ash1l	Mtf2	Kat6b	Kat6a	Phf14	G2e3	Zmynd11	Phf19	Kdm5a	Kdm5b	Ints12	Kdm5c	Kdm5d	Phf20	Phf23	Chd5	Chd4	Chd3	Phrf1	Mllt6	Pygo1	Rai1	Nsd1	Nsd2	Nsd3	Sp100	Bptf	Kdm2a	Kdm2b	Brd1	Fbxl19	Baz1a	Baz1b	Pygo2	Mllt10	Trim33	Kdm7a	Taf3	Dido1	Kmt2e	Phf3	Zmynd8	Phf6	Kmt2b	Aire	Uhrf2	Kmt2a	Kmt2d	Uhrf1	Phf2	Kmt2c	Phf1	Jade2	Baz2a	Jade1	Cxxc1	Phf21a	Baz2b	Zfp957	Jade3	Ing1	Phf8	Ing2	Rsf1	Phf7	Phf21b	Ing5	Ing3	Ing4	Dpf1	Dpf2	Dpf3	Trim28	Trim66	Trim24
+Zinc finger, RING-CH-type	InterPro_Domains_2019	Rnf24	Ltn1	Rnf139	Rnf145	Rnf167
+Zinc finger, RING-type	InterPro_Domains_2019	Scaf11	Pcgf5	Pcgf6	Pcgf3	Rc3h1	Rc3h2	Pex10	Amfr	Mex3d	Chfr	Pml	Rnf224	Mex3a	Rnf103	Rufy1	Rnf223	Mex3c	Mex3b	Rnf225	Neurl3	Rnf227	Neurl1a	Nhlrc1	Trim15	Rbck1	Trim17	Trim10	Rnf220	Trim11	Rnf222	Trim13	Rnf2	Mycbp2	Cblc	Rnf7	Rnf8	Cblb	Rnf5	Rnf6	Rnf4	Rnf114	Rfpl4b	Neurl1b	Rfpl4	Rnf115	Vps11	Rnf112	Rffl	Rnf111	Siah1a	Siah2	Baz1b	Topors	Rnf144b	Rnf144a	Rnf208	Rnf207	Rad18	Dzip3	Anapc11	Rnf213	Rnf212	Rnf215	Rnf214	Bard1	Ankib1	Brap	Shprh	Ring1	Rnf146	Rnf149	Rnf148	Nfx1	Rapsn	Rnf141	Pdzrn3	Pdzrn4	Zfp598	Rnf145	Trim2	Brca1	Bmi1	Lrsam1	Trim9	Rnf157	Trim7	Trim8	Trim30a	Hltf	Trim6	Vps8	Trim3	Rnf150	Rnf152	Rnf151	Ttc3	Syvn1	Traip	Mib1	Mib2	Rnf125	Sh3rf3	Rnf126	Rnf128	Rfwd3	Xiap	Triml1	Rlim	Rnf121	Rnf123	Rnf122	Zswim2	Dcst1	Phf7	Sh3rf2	Sh3rf1	Rnf138rt1	Rnf139	Pcgf1	Pcgf2	Arih1	Rnf130	Arih2	Rspry1	Rnf133	Rnf43	Mylip	Rnf44	Map3k1	Mul1	Mid1	Mid2	Cgrrf1	Rnf40	Rbx1	Rnf41	Ubox5	Cnot4	Rnf183	Rnf182	Rnf185	Rnf186	Rnf32	Rnf34	Rnf38	Rnf39	Rchy1	Phrf1	Rnft1	Rnft2	Rbbp6	Nsd2	Rnf19b	Rnf19a	Rnf170	Nfxl1	Traf3	Traf2	Ccnb1ip1	Rnf169	Rnf168	Traf5	Traf4	Traf7	Traf6	Mkrn2	Mkrn3	Mdm4	Birc7	Mnat1	Birc2	Rnf167	Birc3	Mdm2	Rnf166	Trim72	Cul9	Kmt2d	Trim71	Kmt2c	Rnf180	Ltn1	Cop1	Trim69	Trim65	Trim67	Rag1	Trim68	Trim61	Trim62	Trim63	Dtx3l	Trim60	Pex2	Bfar	Pja1	Pja2	Msl2	Trim58	Trim59	Trim54	Trim55	Trim56	Trim50	Trim52	Dtx1	Dtx2	Dtx3	Dtx4	Trim47	Trim43b	Lonrf2	Lonrf3	Trim45	Lonrf1	Trim46	Trim40	Trim41	Rnf24	Trim42	Rnf25	Rnf26	Nsmce1	Rnf20	Vps41	Lnx2	Trim36	Trim37	Lnx1	Trim38	Trim39	Trim32	Trim33	Cbll1	Trim34b	Trim35	Rnf10	Rnf11	Trim31	Rnf13	Mgrn1	Rnf14	Uhrf2	Uhrf1	Rnf17	Cbl	Znrf1	Znrf2	Znrf3	Znrf4	Trim25	Trim26	Trim27	Trim28	Trim21	Rnf113a2	Trim75	Trim23	Unkl	Trim24
+Zinc finger, Rad18-type putative	InterPro_Domains_2019	Polk	Rad18	Sprtn	Wrnip1	Fan1
+Zinc finger, RanBP2-type	InterPro_Domains_2019	Ranbp2	Fus	Taf15	Zranb2	Zranb3	Zranb1	Nup153	Nploc4	Capn15	Rybp	Neil3	Tex13c1	Mdm4	Tab3	Rbck1	Tab2	Mdm2	Ewsr1	Rnf31	Rbm5	Sharpin	Rbm10	Yaf2
+Zinc finger, SWIM-type	InterPro_Domains_2019	Zswim1	Zswim2	Map3k1	Zswim7	Zswim8	Zswim5	Zswim6	Zswim3	Zswim4
+Zinc finger, Sec23/Sec24-type	InterPro_Domains_2019	Sec24a	Sec24c	Sec23b	Sec24b	Sec23a	Sec24d
+Zinc finger, TFIIS-type	InterPro_Domains_2019	Tcea3	Tcea2	Tcea1	Polr2i	Polr3k
+Zinc finger, TRAF-type	InterPro_Domains_2019	Fbxo40	Fbxo30	Traf5	Traf4	Traf7	Traf6	Traf3	Rnf151	Xaf1	Traf2	Pdzrn3
+Zinc finger, UBP-type	InterPro_Domains_2019	Brap	Hdac6	Usp16	Usp49	Usp39	Usp33	Usp44	Usp5	Usp22	Usp45	Usp13	Usp3	Usp51	Usp20
+Zinc finger, UBR-type	InterPro_Domains_2019	Ubr7	Ubr5	Ubr4	Ubr3	Ubr2	Fbxo11	Ubr1
+Zinc finger, ZZ-type	InterPro_Domains_2019	Zswim2	Crebbp	Dtna	Mib1	Dytn	Mib2	Drp2	Zzef1	Zzz3	Tada2b	Herc2	Ep300	Nbr1	Dmd	Sqstm1	Utrn	Kcmf1
+Zinc finger, double-stranded RNA binding	InterPro_Domains_2019	Trit1	Nufip1	Zfp593	Ciz1	Zfp804b	Zfp804a	Prdm10	Gpatch8	Zmat2	Zmat3	Zmat4	Dnajc21	Zfp638	Zfp622
+Zinc finger, nuclear hormone receptor-type	InterPro_Domains_2019	Esrrb	Esrra	Vdr	Ppara	Nr1h3	Nr1h2	Nr1d1	Nr2f2	Nr1h4	Nr2f1	Nr1d2	Esrrg	Esr1	Nr2f6	Esr2	Nr5a2	Nr4a3	Nr6a1	Ar	Nr4a2	Nr5a1	Rarb	Pparg	Rara	Pgr	Ppard	Nr1i2	Thrb	Thra	Rarg	Nr1i3	Nr2e1	Hnf4g	Nr2e3	Rorb	Nr2c1	Rorc	Nr3c2	Nr2c2	Nr3c1	Rora	Nr4a1	Rxra	Rxrb	Hnf4a	Rxrg
+Zinc-binding domain	InterPro_Domains_2019	Zcchc24	Rtp3	Rtp4	Rtp1	Rtp2	Zar1l	Zar1
+Zona pellucida domain	InterPro_Domains_2019	Gp2	Umod	Cuzd1	Zp3	Tgfbr3	Tgfbr3l	Dmbt1	Zp2	Zpld1	Zp1	Eng	Umodl1	Oit3	Tecta	Tectb
+bMERB domain	InterPro_Domains_2019	Ehbp1	Ehbp1l1	Micall1	Micall2	Mical1	Mical3
+cAMP-dependent protein kinase regulatory subunit, dimerization-anchoring domain	InterPro_Domains_2019	Cabyr	Prkar1b	Prkar2b	Prkar1a	Prkar2a	Riiad1	Spa17
+cDENN domain	InterPro_Domains_2019	Dennd1c	Dennd2d	Dennd2a	Dennd4c	Dennd4b	Dennd2c	Dennd1b	Dennd1a	Madd	Dennd3	Dennd5b	Dennd4a	Dennd5a	Sbf2	Sbf1
+dDENN domain	InterPro_Domains_2019	Dennd1c	Dennd2d	Dennd2a	Dennd4c	Dennd4b	Dennd2c	Dennd1b	Dennd1a	Madd	Dennd3	Dennd5b	Dennd4a	Dennd5a	Sbf2	Sbf1
+p21 activated kinase binding domain	InterPro_Domains_2019	Pak2	Pak1	Pak4	Pak3	Pak6	Pak5
+uDENN domain	InterPro_Domains_2019	Dennd1c	Dennd2d	Dennd2a	Dennd4c	Dennd4b	Dennd2c	Dennd1b	Dennd1a	Madd	Dennd5b	Dennd4a	Dennd5a	Sbf2	Sbf1
+von Willebrand factor, type A	InterPro_Domains_2019	Itga1	Col28a1	Cacna2d2	Cachd1	Itga2	Cacna2d1	Cacna2d4	Cacna2d3	Vwa5b1	Vwa5b2	AW551984	Itga10	Itgae	Itgad	Itga11	Vwa1	Vwa2	Col20a1	Gtf2h2	Vwa8	Itih5	Cpne9	Vit	Ints14	Itih4	Itih3	Cpne6	Col14a1	Cpne5	Col12a1	Cpne8	Cpne7	Itih2	Itih1	Antxr2	Antxr1	Psmd4	Cpne2	Cpne4	Cpne3	Mdn1	Parp4	Xrcc5	Vwf	Vwa3a	Vwa3b	Col6a1	Col6a3	Col6a2	Antxrl	Col6a5	Ints6	Matn2	Matn1	Col6a6	Ints6l	Matn4	Matn3	Cfb	Itgb5	Itgam	Itgal	C2	Coch	Clca2	Itgax	Clca1	Svep1	Clca4b
+von Willebrand factor, type D domain	InterPro_Domains_2019	Muc5b	Vwf	Muc19	Susd2	Zan	Muc5ac	Otogl	Kcp	Bmper	Otog	Muc4	Tecta	Muc6

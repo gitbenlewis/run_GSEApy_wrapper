@@ -1,0 +1,1395 @@
+11 Beta Hydroxysteroid Dehydrogenase Inhibitor	MAGMA_Drugs_and_Diseases	Gjb1	Gjd3	Gjd2	Gjb3	Gjb2	Gjd4	Gjb5	Gjb4	Gjb6	Gje1	Gjc2	Panx2	Gjc1	Panx3	Gja1	Gjc3	Panx1	Gja4	Gja3	Gja10	Gja5	Gja8	Hsd11b1
+17 Hydroxyprogesterone Caproate	MAGMA_Drugs_and_Diseases	Ar	Nr1i2	Nr1h4	Pgr	Esr1	Esr2	Nr3c1
+5 Fluorouracil	MAGMA_Drugs_and_Diseases	Wnt5b	Dkk1	Rbx1	Cdc25c	Apc	Fas	Abcg1	Bax	Abcg3	Trp53	Tymp	Ccnk	Galnt14	Pon1	Aurka	Cblb	Egfr	Tyms	Foxo1	Myb	Ccnd1	E2f1	Perp	Cyp1b1	Insr	Smad4	Xrcc3	Igfbp3	Xrcc4	Mthfr	Xrcc1	2410137M14Rik	Sele	Cyp2a12	Dlg5	Aldh3a1	Birc5	Gnas	Fgfr4	Irs1	Cyp19a1	Rgs5	Alcam	Fpgs	Tmem167	Il6ra	Slc19a1	Abcc4	Il11	Abcc5	Abcc2	Hspa5	Bdnf	Braf	Ppp2r5d	Gnl3	Pard3b	Vegfa	Nt5c1a	Ptprc	Pik3ca	Dpyd	Atm	Umps	Abcb1a	Dtymk	Megf11	Shmt1	Top2a	Hmmr	Cyp3a13	Pik3r2	Klc1	Slco1b2	Slc22a16	Erbb2	Cbr3	Nqo1	Cbr1	Nos3	Ercc1	Il2ra	Met	Kras	Cyp2e1	Lgr5	Cdkn1a	Dpys	Gstp1	Itgal	Exo1	Chn2	Nos1	Rev3l	Tshb
+5 Hydroxytryptophan	MAGMA_Drugs_and_Diseases	Slc36a2	Slc36a1	Rgs4	Aldh1a1	Mapt	Ehmt2
+ALK Tyrosine Kinase Receptor Inhibitor	MAGMA_Drugs_and_Diseases	Ret	Smad4	Fgfr1	Met	Alk	Eml4
+ATC Code A01A	MAGMA_Drugs_and_Diseases	Hsp90aa1	Gaa	Pde4d	Fgf1	Npc1	Egfr	Il3	Ar	Pkm	Tbk1	Pde4c	Rab9	Pde4b	S100a13	Pde4a	Ikbke	Nfe2l2
+ATC Code A02B	MAGMA_Drugs_and_Diseases	Gjb1	Gjd3	Gjd2	Gjb3	Gjb2	Gjd4	Gjb5	Gjb4	Gjb6	Gje1	Gjc2	Panx2	Gjc1	Panx3	Gja1	Gjc3	Panx1	Gja4	Gja3	Gja10	Gja5	Gja8	Hsd11b1
+ATC Code A03A	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Cyp2d10	Cyp1a2	Ehmt2	Drd1	Cyp3a13
+ATC Code A03B	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+ATC Code A05A	MAGMA_Drugs_and_Diseases	Ces1d	Cox8a	Cox5a	Cox7c	Cox7b	Fech	Pla2g1b	Adh1	Gpbar1	Esrrg	Cox6a2	Cox7a1	Cox5b-ps	Cox6c	Cox6b1	Fabp6	Cox4i1
+ATC Code A07A	MAGMA_Drugs_and_Diseases	Kdm4a	Idh1	Abcb1a	Vdr	Hsp90aa1	Nr1i2	Cyp3a13	Trpm2	Cyp2d10	Trpv5	Cyp1a2
+ATC Code A07D	MAGMA_Drugs_and_Diseases	Abcb1a	Oprd1	Cacna1a	Oprk1	Oprm1	Cyp3a13	Mtor	Tshr	Ar	Pomc	Cyp2d10	Tek	Trp53	Calm1
+ATC Code A08A	MAGMA_Drugs_and_Diseases	Lipf	Dagla	Abhd12	Daglb	Fasn	Cnr1	Lpl	Serpine1	Abhd6	Pnlip
+ATC Code A10B	MAGMA_Drugs_and_Diseases	Mgam	Sis	Lpl	Gaa	Mga	Slc2a4
+ATC Code A11H	MAGMA_Drugs_and_Diseases	Tgfb1	Irs1	Bdnf	Lpl	Plg	Grm1	Tec	Nras	Nt5e	Cd5	Cckbr	Ntf3	Cdipt	Ccn2	Trp53
+ATC Code A14A	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	G6pdx	Gabra6	Gabra5	Gabra4	Grin2d	Grin2c	Grin1	Il2	Grin3a	Grin3b	Th	Pik3cb	Pik3ca	Bax	Tardbp	Abcg3	Gabrb3	Gabrb2	Gabrb1	Nr1i2	Nr1i3	Cyp3a13	Sult2a1	Hsd17b1	Ccn2	Sigmar1	Ppara	Gabrg1	Esr1	Gfap	Esr2	Gabrg3	Gabrg2	Ar	Gal	Sult2b1	Birc5	Irs1	Slc2a4	Grin2b	Grin2a	Mapk3	Nos1	Gabre	Gabrd
+ATC Code B01A	MAGMA_Drugs_and_Diseases	Abcb1a	Vkorc1	Cyp4f14	Ggcx	Calu	Apoe
+ATC Code B02B	MAGMA_Drugs_and_Diseases	Slco1b2	Slco2b1	Serpinc1	Slc22a1	Mpl	F5
+ATC Code B05B	MAGMA_Drugs_and_Diseases	Ctsb	Car2	Wrn	Arg1	Thpo	Aqp9	Ctnnb1	Rps6ka3	Hnf4a	Hspa4	Hspb1
+ATC Code B05C	MAGMA_Drugs_and_Diseases	Gypa	Cxcr4	Slc2a4	Rln1	Pik3cg
+ATC Code C01A	MAGMA_Drugs_and_Diseases	Ar	Fxyd2	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Atp1a1	Atp1b2	Atp1b1
+ATC Code C01B	MAGMA_Drugs_and_Diseases	Kcne1	Abcb1a	Gmnn	Calca	Cacna2d2	Cbx1	Adrb1	Cyp3a13	Kcna7	Mtor	Adra1a	Cacna1h	Sqle	Tg	Nos1ap	Cyp2d10	Cyp1a2	Scn5a	Sftpa1	Cyp2j13	Kcnh2
+ATC Code C01C	MAGMA_Drugs_and_Diseases	Vdr	Plk1	Thrb	Alox15	Ehmt2	Tnf	Cyp3a13	Hif1a	Hsd17b10	Aldh1a1	Mapt	Cyp1a2	Pde3b	Pde3a	Pde4b	Usp1	Poli
+ATC Code C01D	MAGMA_Drugs_and_Diseases	Atad5	Thpo	Cyp3a13	Slc29a1	Nfe2l2
+ATC Code C01E	MAGMA_Drugs_and_Diseases	Catsper2	Catsper1	Catsper4	Catsper3	Ptger1	Ptger2	Ptgir	Ptger4	Cyp3a13	Tbxa2r	Cyp2d10	Cyp1a2	Ptgdr
+ATC Code C02A	MAGMA_Drugs_and_Diseases	Aoc3	Slc22a1	Prl3d2	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Cyp2d10	Gnb3
+ATC Code C02B	MAGMA_Drugs_and_Diseases	Chrna2	Chrna1	Chrna4	Chrna3	Chrnb4	Chrna6	Cyp2d10	Chrna7	Cyp1a2	Cyp3a13
+ATC Code C02C	MAGMA_Drugs_and_Diseases	Adra1d	Slc6a2	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+ATC Code C02D	MAGMA_Drugs_and_Diseases	Slc12a3	Snap25	Kcnj11	Kcnj8	Calca	Lpl	Ehmt2	Cck	Cyp7b1	Atp1a1	Nt5e	Car2	Car1	Cyp2d10	Kcnma1	Cyp1a2	Nos2
+ATC Code C03B	MAGMA_Drugs_and_Diseases	Slc12a3	Car12	Ace	Car2	Car1	Car4	Mmp3	Nppa	Slc12a1	Car7	Agt	Car14
+ATC Code C03C	MAGMA_Drugs_and_Diseases	Slc12a3	Slc12a4	Ace	Slc12a5	Gpr35	Slc12a1	Slc12a2	Hsd17b10	Add1	Gnb3	Mapk1	Nfe2l2	Cftr
+ATC Code C03D	MAGMA_Drugs_and_Diseases	Kcnj5	Trpc7	Aoc1l1	Cyp4a30b	Scnn1a	Ehmt2	Pkd2l1	Plau	Trpv2	Pkd2	Hsd17b10	Slc9a1	Scnn1g	Slc9a5	Scnn1b	Asic3	Asic1	Asic2
+ATC Code C05B	MAGMA_Drugs_and_Diseases	Fabp4	Ffar1	F12	Ffar4	Pld2
+ATC Code C05C	MAGMA_Drugs_and_Diseases	Kdm4a	Polb	Polk	Ahr	Polh
+ATC Code C08C	MAGMA_Drugs_and_Diseases	Ace	Cacna2d1	Cacna1c	Cacna1b	Cacna1d	Cyp3a13	Agt	Cacna1f	Cacnb2	Nppa	Cacna1s	Cacng1
+ATC Code C08D	MAGMA_Drugs_and_Diseases	Abcb1a	Cacna2d1	Cacna1c	Kcna5	Cyp3a13	Htr3a	Cyp2d10	Cacna1s	Cyp1a2	Cacng1	Plcd3
+ATC Code C08E	MAGMA_Drugs_and_Diseases	Idh1	Abcb1a	Kcnq1	Tnnc1	Cacna1a	Cyp2d10	Kcnq4	Scn5a	Ehmt2	Atp1a1	Calm1
+ATC Code C09A	MAGMA_Drugs_and_Diseases	Ace	Mthfr	Adrb2	Mtr	Prcp	Agt
+ATC Code C09C	MAGMA_Drugs_and_Diseases	Dot1l	Sult1c1	Ace	Agtr1b	Gpr83	Kcnk3	Plekhj1	Sh2b3
+ATC Code C10A	MAGMA_Drugs_and_Diseases	Abcg8	Mylip	Abcc2	Ace	Apoa5	Kif6	Cxcl10	Coq2	Mapk10	Fas	Soat1	Agtr1b	Abcg3	Abcb1a	Nr1i2	Pon1	Mttp	Ahr	Tnf	Cyp3a13	Cyp7a1	Tfpi	Dpp4	Slco1b2	Cyp2d10	Scap	Bdkrb2	Ldlr	Fdps	Abca1	Ugt1a1	Htr3b	Por	Il2ra	Cd40lg	Ppard	H2-Eb2	Ryr2	Hmgcr	Plat	Fgf2	Hspd1	Itgam	Lipc	Pik3cg	Tgm2	Slco2b1	Htr7	Bglap2	Lepr	Apoe	Nos1	Ugt1a2	Scarb1	Apob
+ATC Code D01A	MAGMA_Drugs_and_Diseases	Kdm4a	Hsp90aa1	Jun	Avpr2	Cbx1	Tshr	Ar	Cyp1a2	Cdk1	Ppard	Rapgef4	Trp53	Gmnn	Nr1i2	Glp1r	Nr1i3	Adrb2	Baz2b	Cyp3a13	Hif1a	Trpm2	Atxn2	Cxcr2	Thpo	Cyp2d10	Cfl1	Mapk1	Trpm8	Kcnn4	Cyth2	Trpm4	Kcnh2	Npsr1
+ATC Code D01B	MAGMA_Drugs_and_Diseases	Ar	Nr1i2	Krt12	Cyp3a13	Hsd17b10
+ATC Code D02A	MAGMA_Drugs_and_Diseases	Ctsb	Car2	Wrn	Arg1	Thpo	Aqp9	Ctnnb1	Rps6ka3	Hnf4a	Hspa4	Hspb1
+ATC Code D03A	MAGMA_Drugs_and_Diseases	Prkcd	Cyp2d10	Polk	Pparg	Prkcb	Cyp3a13	Prkca	Akr1b7	Hsd11b1
+ATC Code D05A	MAGMA_Drugs_and_Diseases	Ar	Tg	Vdr	Cyp24a1	Gdf15	Gmnn	Myc	Plau	Il2	Phex
+ATC Code D05B	MAGMA_Drugs_and_Diseases	Kdm4a	Vdr	Gmnn	Plk1	Rarg	Stat3	Il1b	Rxra	Kat2a	Rxrb	Mapt	Rbp1	Rarb	Usp1	Rara	Rxrg	Rapgef4
+ATC Code D06B	MAGMA_Drugs_and_Diseases	Pnp2	Slc15a1	Il10	Dntt	Recql	Abl1
+ATC Code D07A	MAGMA_Drugs_and_Diseases	Ar	Idh1	Anxa1	Gmnn	Hif1a	Nr3c1	Npsr1
+ATC Code D07X	MAGMA_Drugs_and_Diseases	Ar	Anxa1	Pla2g1b	Hif1a	Nr3c1	Nfe2l2
+ATC Code D09A	MAGMA_Drugs_and_Diseases	Gypa	Cxcr4	Slc2a4	Rln1	Pik3cg
+ATC Code D10A	MAGMA_Drugs_and_Diseases	Rxra	Rxrb	Rarg	Rarb	Usp1	Rara	Rxrg
+ATC Code D10B	MAGMA_Drugs_and_Diseases	Rarres1	Smad2	Fus	Vdr	Il10	Hspa8	Nr0b1	Pml	Gprc5a	Mycs	Kat2a	Aldh1a1	Aldh1a2	Birc5	Rarb	Bcl2	Rara	Bcor	Nfe2l2	Ppard	Cdkn1b	Flt3	Rarg	Nr2e1	Ehmt2	Rorb	Rorc	Cyp3a13	Hif1a	Nr2c2	Rxra	Rxrb	P2ry2	Usp1	Rxrg
+ATC Code G02A	MAGMA_Drugs_and_Diseases	Ptgfr	Ptgdr2	Ptger1	Tbxa2r	Ptger2	Ptger3	Ptger4	Ptgdr
+ATC Code G03C	MAGMA_Drugs_and_Diseases	Ar	Rorc	Esr1	Esr2	Npsr1
+ATC Code G04B	MAGMA_Drugs_and_Diseases	Catsper2	Catsper1	Catsper4	Catsper3	Ptger1	Ptger2	Ptgir	Ptger4	Cyp3a13	Tbxa2r	Cyp2d10	Cyp1a2	Ptgdr
+ATC Code G04C	MAGMA_Drugs_and_Diseases	Gaa	Ehmt2	Adra1d	Adra1b	Adra1a	Hsd17b10	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+ATC Code H02A	MAGMA_Drugs_and_Diseases	Kcna1	Pla2g2a	Hexb	Ppy	Nr3c1
+ATC Code H03A	MAGMA_Drugs_and_Diseases	F9	Thbd	Thrb	Thra	Serpine1	Pparg	Ahr	Nfe2l2	Tshb
+ATC Code H03B	MAGMA_Drugs_and_Diseases	Tpo	Cyp1a2	2410137M14Rik	H2-Eb2
+ATC Code J01B	MAGMA_Drugs_and_Diseases	Aldh1a1	Cyp3a13	Cd55b
+ATC Code J01C	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+ATC Code J01D	MAGMA_Drugs_and_Diseases	Slc15a1	Abcc2	Slc15a2	Slc22a6	Nr1i2	Anpep	Slc22a8
+ATC Code J01E	MAGMA_Drugs_and_Diseases	G6pdx	Cyp2d10	Cyp3a13	Cyp2e1
+ATC Code J01F	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Nos1	Xdh	Cyp3a13	Abcc1	Tfpi
+ATC Code J01M	MAGMA_Drugs_and_Diseases	G6pdx	Cyp2d10	Top2a	Cyp1a2	Bax	Cyp3a13	Cyp2e1	Hsd17b10
+ATC Code J02A	MAGMA_Drugs_and_Diseases	Hsp90aa1	Cyp51	Alb	Cyp2d10	Cyp1a2	Cyp3a13	Tardbp
+ATC Code J04A	MAGMA_Drugs_and_Diseases	Abcb1a	Nr1i2	Gstp1	Tnf	Cyp3a13	Bach1	Xpo1	Cyp1a2	Mafk	Nos2	Cyp2e1
+ATC Code J04B	MAGMA_Drugs_and_Diseases	Cyb5r3	G6pdx	Cyp2d10	Cyp1a2	2410137M14Rik	Cyp3a13	Gnrh1	Dhfr	H2-Eb2
+ATC Code J05A	MAGMA_Drugs_and_Diseases	Pnp2	Slc15a1	Il10	Dntt	Recql	Abl1
+ATC Code L01A	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+ATC Code L01B	MAGMA_Drugs_and_Diseases	Il11	Smad3	Idh1	Trit1	Mgmt	Atad5	Dnmt3a	Lif	Tet2	Ar	Asxl1	Tg	Aldh1a1	Cd247	Dnmt1	Cda	Nfe2l2	Trp53	Flt3	Gmnn	Tagln	Htt	Gstp1	Afp	Plau	Rorc	Gata2	Nr3c1	Tyms	Thpo	Myc	Abl1	Ggt1
+ATC Code L01C	MAGMA_Drugs_and_Diseases	Nr1i2	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Map4	Mapt	Map2	Tubb3	Bcl2
+ATC Code L01D	MAGMA_Drugs_and_Diseases	Top2b	Csf2	Top2a	Smn1	Top1
+ATC Code L01X	MAGMA_Drugs_and_Diseases	Top2b	Atad5	Top2a	Cbx1	Ehmt2	Cyp3a13	Mtor	Hsd17b10	Atxn2	Cyp2d10	Cyp1a2	Drd1	Kcnh2
+ATC Code L02A	MAGMA_Drugs_and_Diseases	Esrra	Lif	Recql	Cp	Esr1	Esr2	Ar	Ptprc	Kcnma1	Cyp1a2	Pparg	Gapdhrt	Oxtr	Nr1i2	Mug1	Serpinc1	Pros1	Ehmt2	Plau	Slc2a4	Cyp3a13	Rorc	Nr3c1	Cyp2d10	Gper1	Nos2	Ccn2	Kcnh2
+ATC Code L02B	MAGMA_Drugs_and_Diseases	Tg	Cyp11a1	Tff3	Cyp1b1	Ggt1	Cyp19a1	Gnrh1
+ATC Code L03A	MAGMA_Drugs_and_Diseases	Lmna	Hrh2	Car1	Hrh1	Hrh4	Hrh3	Car5a	Car7	Ehmt2	Usp1	Slc29a4
+ATC Code L04A	MAGMA_Drugs_and_Diseases	Abcc4	Idh1	Gstm6	Atad5	Impdh1	Cyp1a2	Itpa	Hprt1	Nfe2l2	Trp53	H2-Eb2	Fto	Pth	Tpmt	Cyp3a13	Tyms	Ddrgk1	Cyp2d10	Ppat	Aox1	Nudt15	Tshb
+ATC Code M03A	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrna7
+ATC Code M03B	MAGMA_Drugs_and_Diseases	Gabbr2	Gabbr1	Bdnf	Fos	Gcg	Nfkb1	Kctd8	Kctd12	Nos1	Tac1	Kctd16	Nfe2l2	Tshb
+ATC Code M03C	MAGMA_Drugs_and_Diseases	Ryr2	Ryr3	Ryr1	Mapt	Cyp2d10	Cyp1a2	Cyp3a13
+ATC Code M04A	MAGMA_Drugs_and_Diseases	Ntng1	Ugt1a1	Pou5f1	Grem2	Tbl1xr1	Cyp1a2	Trib2	Abcg3	Ugt1a10	Myt1l	Tshz2	Cyp3a13	Pkd2	Cyp2d10	Aox1	Ugt1a6a	Ugt1a2	Xdh
+ATC Code M05B	MAGMA_Drugs_and_Diseases	Fdps	Il11	Mvk	Ptpre	Atp6v1a	Ptprc	Ptprs	Vdr	Plau	Cyp19a1	Ptpn4
+ATC Code N01A	MAGMA_Drugs_and_Diseases	Cyp2d10	Htr2a	Drd2	Drd3	Drd4	Adra1a	Kcnh2
+ATC Code N02A	MAGMA_Drugs_and_Diseases	Oprd1	Cyp2d10	Cyp1a2	Oprk1	Oprm1	Cyp3a13
+ATC Code N02B	MAGMA_Drugs_and_Diseases	Tgfb1	Ace	Col26a1	Hspa5	Itga2	Nrg1	Tsc1	Prkab1	Agt	Gp6	Prkab2	Tapbp	Il1b	Il4	Nfkbia	Pik3ca	Fas	Cyp1a2	H2-Ab1	Fsip1	Trp53	Tlr3	Col18a1	Prkaa2	B4galt2	Tnfrsf11a	Itga2b	Zbtb22	Cyp3a13	Pear1	Prkaa1	Tbxa2r	Cyp2d10	P2ry1	Adora1	Me3	Asic3	Fcer1g	Mcl1	Chia1	Ntrk1	Slc30a9	F2r	Nos3	Cyp4f14	Ptgir	Hgf	Pla2g4a	Slc6a12	Gp1ba	Nat1	Gfap	Nfkb1	Nfkb2	Tbxas1	Ddit3	Pparg	Cep68	H2-Eb2	Pth	Irs2	Ptger2	Thra	F13a1	Ptger3	Itgb3	Prkag2	Prkag3	Afp	Hmgcr	Prkag1	Fgf2	Hnmt	Ptgs1	Ptgs2	Ednra	Ikbkb	Rps6ka3	Hmox1	Ugt1a6a	Plcg1	Gc
+ATC Code N03A	MAGMA_Drugs_and_Diseases	Ralbp1	Abcc2	Gabra1	Ephx1	Hspa1l	Fzd8	Mthfr	2410137M14Rik	Prrc2a	Pou5f1	Tnfrsf1b	Ar	Cyp2a12	Scn10a	Scn8a	Cyp1a2	H2-Ab1	Hspa1b	Cyp1a1	Lta	Scn4a	Scn2a	H2-Eb2	Nr1i2	Nr1i3	Prl3d2	Tnf	Cyp3a13	Nr3c1	Bag6	Scn11a	Scn9a	Bglap2	Cyp2d10	Scn7a	Hnf4a	Scn5a	Scn3a	Scn1a	Ggt1
+ATC Code N04B	MAGMA_Drugs_and_Diseases	Grin3a	Grin2b	Grin2a	Slc22a1	Drd2	Grin2d	Grin2c
+ATC Code N05A	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Drd1	Htr2a	Drd2	Htr1a	Adra1b	Adra1a
+ATC Code N05B	MAGMA_Drugs_and_Diseases	Aldh1a1	Prl3d2	Ehmt2	Drd2	Htr1a	Cyp3a13	Nfe2l2
+ATC Code N05C	MAGMA_Drugs_and_Diseases	Gabra1	Cyp2d10	Cyp1a2	Ehmt2	Gabrg3
+ATC Code N06A	MAGMA_Drugs_and_Diseases	Abcb1a	Mtnr1b	Mtnr1a	Htr2c	Htr2a	Htr2b
+ATC Code N06B	MAGMA_Drugs_and_Diseases	Grin3a	Grin2b	Grin2a	Grin3b	Cyp2d10	Grin2d	Slc6a2	Grin2c	Slc6a3	Grin1	Slc6a4	Tshr
+ATC Code N06D	MAGMA_Drugs_and_Diseases	Ass1	G6pdx	Ackr1	Cyp2d10	Mrgprb1	Cyp1a2	Ehmt2	Tlr9	Cyp3a13	Tlr7
+ATC Code N07A	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+ATC Code N07B	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Grin2d	Grin2c	Gabrg3	Grin1	Gabrg2	Grin3a	Grin2b	Grin2a	Grin3b	Grm5	Gabre	Gabrd
+ATC Code N07X	MAGMA_Drugs_and_Diseases	Kcnk10	Trpc5	Cyp3a13	Npc1	Slc7a11	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Cyp1a2	Kcnn1	Rab9	Scn5a	Kcnn3	Scn3a	Kcnn4	Scn4a	Kcnk2	Scn1a	Scn2a	Tardbp	Kcnk4	Kcnh2
+ATC Code P01B	MAGMA_Drugs_and_Diseases	G6pdx	Cyp1a1	Cyp1b1	Hnmt
+ATC Code P02B	MAGMA_Drugs_and_Diseases	Idh1	Hsp90aa1	Gmnn	Mapt	Glp1r	Dnmt1	Npsr1
+ATC Code P02C	MAGMA_Drugs_and_Diseases	Gmnn	Atad5	Tubb5	Cyp1a2	Tuba1a	Tubb4b	Hspb1	Cyp2j13
+ATC Code P02D	MAGMA_Drugs_and_Diseases	Fzd1	Idh1	Stat3	Npc1	Mtor	Tshr	Pkm	Apc	Mapt	Cyp1a2	Rab9	Gnas	Nfe2l2	Trp53	Gmnn	Npy4r	Ehmt2	Ahr	Cyp3a13	Hif1a	Kcnt1	Rxra	Atxn2	Thpo	Cyp2d10	Smn1
+ATC Code P03A	MAGMA_Drugs_and_Diseases	Kdm4a	Vdr	Hsp90aa1	Plk1	Atad5	Cbx1	Mthfr	Runx1	Gfap	Mtor	Nfkb1	Ar	Aldh3a2	Aldh1a1	Aldh3a1	Cyp1a2	Agtr1b	Ankk1	Mphosph8	Nfe2l2	Ppard	Abcb1a	Gmnn	Cbfb	Hpgd	Dbh	Ehmt2	Adrb2	Cyp3a13	Slc6a3	Hsd17b10	Rgs4	Aldh2	Thpo	Tspo	Drd2	Ggt1
+ATC Code R01B	MAGMA_Drugs_and_Diseases	Ache	Adrb2	Drd2	Slc6a2	Slc18a2	Adra1a
+ATC Code R02A	MAGMA_Drugs_and_Diseases	Fen1	Idh1	Vdr	Blm	Plk1	Htt	Brca1	Hif1a	Wrn	Racgap1	Apex1	Polk	Rapgef3	Nfe2l2	Poli	Rapgef4	Polh
+ATC Code R03B	MAGMA_Drugs_and_Diseases	Crhr1	Edn1	Nr1i2	Cyp2d10	Cyp1a2	Glcci1	Cyp3a13	Pgr	Nr3c2	Nr3c1
+ATC Code R03D	MAGMA_Drugs_and_Diseases	Adora2b	Hdac2	Adora2a	Pde4d	Pde3b	Pde4c	Adora3	Pde3a	Pde4b	Pde4a	Adora1	Pde5a
+ATC Code R05C	MAGMA_Drugs_and_Diseases	Ntrk1	Chuk	Vwf	Gss	Grin2d	Grin1	Grin3a	Tollip	Sftpa1	Aco1	H2ax	Rela	Acy1	Slc2a4	Slc7a11	Slc6a3	Igf1r	Nr4a1	Ikbkb	Grin2b	Grin2a	Cxcr2	E2f1	Ldlr
+ATC Code S01A	MAGMA_Drugs_and_Diseases	Pnp2	Slc15a1	Il10	Dntt	Recql	Abl1
+ATC Code S01C	MAGMA_Drugs_and_Diseases	Anxa1	Vdr	Chka	Hspa8	Tsc22d3	Lif	Nrg1	Vcam1	Bmp7	Tgfbr3	Nr5a1	Tg	Krt19	Cdk6	Crispld2	Dok5	Cdk4	Soat1	Cdk2	Cyp1a2	Agtr1b	Dpep1	Rara	Thrsp	Nfe2l2	Cd86	Rb1	Rela	Ret	Abcb1a	Nr1i2	Mug1	Serpine1	Pth1r	Cyp3a13	Gls	Ubr1	Tyms	Cyp2d10	Ctla4	S100a10	Tead1	Sds	Smad3	Igfbp1	Ntrk1	Ugt1a1	Nr0b1	Cartpt	Ar	Tjp1	F9	Birc5	Sag	Sftpa1	Cdh17	Folr1	Fabp1	Notch1	Irs2	Ctnnb1	Gstp1	Chat	Pygl	Slc2a4	Actc1	Gata3	Nr3c2	Nr3c1	Nppc	Htr7	Hyal2	Rps19	Sis	Tdo2	Nos2	Junb	Ggt1	Ccl17	Apob
+ATC Code S01E	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+ATC Code S01F	MAGMA_Drugs_and_Diseases	Ache	Adrb2	Drd2	Slc6a2	Slc18a2	Adra1a
+ATC Code S01H	MAGMA_Drugs_and_Diseases	Gmnn	Scn10a	Cyp1a2	Scn5a	Myo9b	Calm1
+ATC Code S01X	MAGMA_Drugs_and_Diseases	Ntrk1	Chuk	Vwf	Gss	Grin2d	Grin1	Grin3a	Tollip	Sftpa1	Aco1	H2ax	Rela	Acy1	Slc2a4	Slc7a11	Slc6a3	Igf1r	Nr4a1	Ikbkb	Grin2b	Grin2a	Cxcr2	E2f1	Ldlr
+ATC Code S02A	MAGMA_Drugs_and_Diseases	Aldh1a1	Cyp3a13	Cd55b
+ATC Code S02B	MAGMA_Drugs_and_Diseases	Anxa1	Vdr	Chka	Hspa8	Tsc22d3	Lif	Nrg1	Vcam1	Bmp7	Tgfbr3	Nr5a1	Tg	Krt19	Cdk6	Crispld2	Dok5	Cdk4	Soat1	Cdk2	Cyp1a2	Agtr1b	Dpep1	Rara	Thrsp	Nfe2l2	Cd86	Rb1	Rela	Ret	Abcb1a	Nr1i2	Mug1	Serpine1	Pth1r	Cyp3a13	Gls	Ubr1	Tyms	Cyp2d10	Ctla4	S100a10	Tead1	Sds	Smad3	Igfbp1	Ntrk1	Ugt1a1	Nr0b1	Cartpt	Ar	Tjp1	F9	Birc5	Sag	Sftpa1	Cdh17	Folr1	Fabp1	Notch1	Irs2	Ctnnb1	Gstp1	Chat	Pygl	Slc2a4	Actc1	Gata3	Nr3c2	Nr3c1	Nppc	Htr7	Hyal2	Rps19	Sis	Tdo2	Nos2	Junb	Ggt1	Ccl17	Apob
+ATC Code S02D	MAGMA_Drugs_and_Diseases	G6pdx	Bdnf	Slc1a1	Mpo	Cyp3a13	Egfr	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+ATC Code S03A	MAGMA_Drugs_and_Diseases	Aldh1a1	Cyp3a13	Cd55b
+ATC Code S03B	MAGMA_Drugs_and_Diseases	Anxa1	Vdr	Chka	Hspa8	Tsc22d3	Lif	Nrg1	Vcam1	Bmp7	Tgfbr3	Nr5a1	Tg	Krt19	Cdk6	Crispld2	Dok5	Cdk4	Soat1	Cdk2	Cyp1a2	Agtr1b	Dpep1	Rara	Thrsp	Nfe2l2	Cd86	Rb1	Rela	Ret	Abcb1a	Nr1i2	Mug1	Serpine1	Pth1r	Cyp3a13	Gls	Ubr1	Tyms	Cyp2d10	Ctla4	S100a10	Tead1	Sds	Smad3	Igfbp1	Ntrk1	Ugt1a1	Nr0b1	Cartpt	Ar	Tjp1	F9	Birc5	Sag	Sftpa1	Cdh17	Folr1	Fabp1	Notch1	Irs2	Ctnnb1	Gstp1	Chat	Pygl	Slc2a4	Actc1	Gata3	Nr3c2	Nr3c1	Nppc	Htr7	Hyal2	Rps19	Sis	Tdo2	Nos2	Junb	Ggt1	Ccl17	Apob
+ATC Code V03A	MAGMA_Drugs_and_Diseases	Ntrk1	Chuk	Vwf	Gss	Grin2d	Grin1	Grin3a	Tollip	Sftpa1	Aco1	H2ax	Rela	Acy1	Slc2a4	Slc7a11	Slc6a3	Igf1r	Nr4a1	Ikbkb	Grin2b	Grin2a	Cxcr2	E2f1	Ldlr
+ATP Channel Activator	MAGMA_Drugs_and_Diseases	Kcnj11	Abcc8	Abcc9	Calca	Cyp3a13
+Abamectin	MAGMA_Drugs_and_Diseases	Ar	Gabbr2	Rxra	Gabbr1	Ppard
+Abdominal Distension	MAGMA_Drugs_and_Diseases	Ace	Oxtr	Dusp1	Avpr2	Bdnf	Serpine1	Camk2b	Avpr1a	Tacr1	Avpr1b	Cyp3a13	Hspb1	Mapk14	Thbs4	Nppc	E2f1	Prkd1
+Abemaciclib	MAGMA_Drugs_and_Diseases	Esr1	Esr2	Smarca4	Nras	Ccnd3	Ccnd2	Cdk6	Ccnd1	Cdk4	Erbb2	Kras	Pgr	Trp53
+Abiraterone	MAGMA_Drugs_and_Diseases	Ar	Cyp17a1	Tspyl1	Dse
+Abl Kinase Inhibitor	MAGMA_Drugs_and_Diseases	Lyn	Camk1d	Map2k2	Src	Map3k2	Map2k1	Tnk2	Txk	Egfr	Hck	Stk4	Stk10	Bcr	Stk24	Cdk2	Sik2	Abl1	Fyn	Sik3	Camk2g	Sik1	Frk	Map4k5
+Abstinence From Alcohol	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Grin2d	Grin2c	Gabrg3	Grin1	Gabrg2	Grin3a	Grin2b	Grin2a	Grin3b	Grm5	Gabre	Gabrd
+Acalabrutinib	MAGMA_Drugs_and_Diseases	Blk	Lyn	Src	Txk	Bmx	Egfr	Tec	Lck	Erbb4	Erbb2	Btk	Fyn	Jak3	Itk
+Acamprosate	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Grin2d	Grin2c	Gabrg3	Grin1	Gabrg2	Grin3a	Grin2b	Grin2a	Grin3b	Grm5	Gabre	Gabrd
+Acarbose	MAGMA_Drugs_and_Diseases	Mgam	Sis	Lpl	Gaa	Mga	Slc2a4
+Aceclidine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Acenocoumarol	MAGMA_Drugs_and_Diseases	Abcb1a	Vkorc1	Cyp4f14	Ggcx	Calu	Apoe
+Acepromazine	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Drd1	Htr2a	Drd2	Htr1a	Adra1b	Adra1a
+Acetaminophen Overdose	MAGMA_Drugs_and_Diseases	Ntrk1	Chuk	Vwf	Gss	Grin2d	Grin1	Grin3a	Tollip	Sftpa1	Aco1	H2ax	Rela	Acy1	Slc2a4	Slc7a11	Slc6a3	Igf1r	Nr4a1	Ikbkb	Grin2b	Grin2a	Cxcr2	E2f1	Ldlr
+Acetazolamide	MAGMA_Drugs_and_Diseases	Car12	Mmp2	2410137M14Rik	Aqp4	Aqp1	Mmp12	Car2	Car1	Car4	Car3	Car7	Nos1	Car14
+Acetylcholine	MAGMA_Drugs_and_Diseases	Ache	Chrm3	Chrna2	Chrm4	Ace	Chrm1	Chrm2	Chrm5
+Acetylcholine Receptor Agonist	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Acetylcholine Receptor Antagonist	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Acetylcysteine	MAGMA_Drugs_and_Diseases	Ntrk1	Chuk	Vwf	Gss	Grin2d	Grin1	Grin3a	Tollip	Sftpa1	Aco1	H2ax	Rela	Acy1	Slc2a4	Slc7a11	Slc6a3	Igf1r	Nr4a1	Ikbkb	Grin2b	Grin2a	Cxcr2	E2f1	Ldlr
+Acitretin	MAGMA_Drugs_and_Diseases	Kdm4a	Vdr	Gmnn	Plk1	Rarg	Stat3	Il1b	Rxra	Kat2a	Rxrb	Mapt	Rbp1	Rarb	Usp1	Rara	Rxrg	Rapgef4
+Aclarubicin	MAGMA_Drugs_and_Diseases	Top2b	Csf2	Top2a	Smn1	Top1
+Aclidinium	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Acne Vulgaris AV	MAGMA_Drugs_and_Diseases	Rxra	Rxrb	Rarg	Rarb	Usp1	Rara	Rxrg
+Acquired Immunodeficiency Syndrome AIDS	MAGMA_Drugs_and_Diseases	Abcc4	Abcc5	Il10	Nme1	Nme2	Cxcl10	Cyp2a12	Por	Cyp1a2	Cyp2e1	Slc28a3	Abcc1	Slc22a8	Abcg3	Abcb1a	Slc22a7	Slc28a1	Dtymk	Slc22a6	Flt3	Prl3d2	Cyp3a13	Tert	Cyp2d10	Tk1
+Acriflavine	MAGMA_Drugs_and_Diseases	Fen1	Idh1	Vdr	Blm	Plk1	Htt	Brca1	Hif1a	Wrn	Racgap1	Apex1	Polk	Rapgef3	Nfe2l2	Poli	Rapgef4	Polh
+Acromegaly	MAGMA_Drugs_and_Diseases	Vdr	Fos	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Il2	Ar	Gdnf	Lep	Cyp1a2	Sag	Nfe2l2	Abcb1a	Htr2c	Ehmt2	Htr2a	Adra1d	Htr2b	Adra1b	Htr6	Adra1a	Htr7	Myc	Npy	Drd1	Drd2	Drd3	Drd4	Drd5
+Acute Abdominal Visceral Spasm	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Acute Coronary Syndrome ACS	MAGMA_Drugs_and_Diseases	Ces1d	N6amt1	Abcb1a	B4galt2	P2ry12	Nos3	Cyp4f14	Itga2	Itgb3	Cyp3a13	Pear1	Ptgs1	Cyp2d10	Cyp1a2
+Acute Glomerulonephritis AGN	MAGMA_Drugs_and_Diseases	Slc12a3	Car12	Ace	Car2	Car1	Car4	Mmp3	Nppa	Slc12a1	Car7	Agt	Car14
+Acute Intermittent Porphyria AIP	MAGMA_Drugs_and_Diseases	Epm2a	Idh1	Trpc5	Bdnf	Hspa4	Cck	Htr1a	Adra2c	Adra2b	Adra2a	Cyp1a2	Cyp2e1	Abcg3	Trp53	Calm1	Chrm3	Abcb1a	Chrm1	Orm2	Nr1i2	Htr2c	Htr2a	Adra1d	Cyp3a13	Htr2b	Adra1b	Htr6	Nts	Adra1a	Htr7	Hrh1	Hrh4	Thpo	Cyp2d10	Smpd1	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Acute Lymphoblastic Leukemia ALL	MAGMA_Drugs_and_Diseases	Top2b	Atad5	Top2a	Cbx1	Ehmt2	Cyp3a13	Mtor	Hsd17b10	Atxn2	Cyp2d10	Cyp1a2	Drd1	Kcnh2
+Acute Myeloid Leukemia AML	MAGMA_Drugs_and_Diseases	Top2b	Csf2	Top2a	Smn1	Top1
+Acyclovir	MAGMA_Drugs_and_Diseases	Pnp2	Slc15a1	Il10	Dntt	Recql	Abl1
+Adapalene	MAGMA_Drugs_and_Diseases	Rxra	Rxrb	Rarg	Rarb	Usp1	Rara	Rxrg
+Adenosine	MAGMA_Drugs_and_Diseases	Slc5a7	Slc28a1	Adora2b	Adora2a	Adora3	Adora1	Slc28a3	Slc28a2	Pi4k2b	Trpm4	Pi4k2a
+Adenosine Deaminase Inhibitor	MAGMA_Drugs_and_Diseases	Tgfb1	Yes1	Rrm2	Diablo	Cdkn1a	Rrm1	Dck	Pnp2	Pola1	Nt5c1a	Pole	Il2ra	Pole2	Rrm2b	Pole3	Xiap	Pole4	Ada	Nfe2l2	Trp53	Bcl2l2
+Adenosine Receptor Agonist	MAGMA_Drugs_and_Diseases	Slc5a7	Slc28a1	Adora2b	Adora2a	Adora3	Adora1	Slc28a3	Slc28a2	Pi4k2b	Trpm4	Pi4k2a
+Adenosine Receptor Antagonist	MAGMA_Drugs_and_Diseases	Adora2b	Hdac2	Adora2a	Pde4d	Pde3b	Pde4c	Adora3	Pde3a	Pde4b	Pde4a	Adora1	Pde5a
+Adenosine Reuptake Inhibitor	MAGMA_Drugs_and_Diseases	Atad5	Thpo	Cyp3a13	Slc29a1	Nfe2l2
+Adrenal Cortical Carcinoma	MAGMA_Drugs_and_Diseases	Cyp11a1	Atm	Rorc	Esr1	Nfe2l2	Kcnh2
+Adrenergic Inhibitor	MAGMA_Drugs_and_Diseases	Gabrq	Gria3	Abcb1a	Gabrp	Tph2	Gabra6	Bdnf	Htr1b	Htr2a	Cyp3a13	Slc6a2	Comt	Slc6a4	Cyp2d10	Fkbp5
+Adrenergic Neuron Blocker	MAGMA_Drugs_and_Diseases	Adra1d	Slc6a2	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Adrenergic Receptor Agonist	MAGMA_Drugs_and_Diseases	Dusp1	Glp1r	Adrb2	Clock	Crhr2
+Afatinib	MAGMA_Drugs_and_Diseases	Nras	Erbb4	Erbb2	Erbb3	Nrg1	Met	Braf	Kras	Egfr	Eml4
+African Trypanosomiasis	MAGMA_Drugs_and_Diseases	P2ry13	Vdr	Ntrk1	St14	Pla2g2a	Cbx1	Sirt5	Recql	F2	Sirt1	Sirt3	Ccna2	Folh1	Pik3cb	P2rx3	Pik3ca	Spint1	Apex1	Fshr	Ifng	Tdp1	Hpse	Ddit3	Mphosph8	Pin1	Ryr2	Fen1	Ryr1	Kmt2a	Ehmt2	Gls	Hsd17b10	Mc2r	P2ry6	P2ry2	P2ry1	Polk	Usp2	Usp1
+Aggressive Systemic Mastocytosis ASM	MAGMA_Drugs_and_Diseases	Abcb1a	Slc47a1	Slc22a2	Cyp3a13	Fcgr4	Hrh2	Cyp2d10	Cyp1a2	Polk	Nos1	Slc29a4
+Agomelatine	MAGMA_Drugs_and_Diseases	Abcb1a	Mtnr1b	Mtnr1a	Htr2c	Htr2a	Htr2b
+Albendazole	MAGMA_Drugs_and_Diseases	Gmnn	Atad5	Tubb5	Cyp1a2	Tuba1a	Tubb4b	Hspb1	Cyp2j13
+Albuterol	MAGMA_Drugs_and_Diseases	Dusp1	Glp1r	Adrb2	Clock	Crhr2
+Alcohol Dehydrogenase Inhibitor	MAGMA_Drugs_and_Diseases	Cat	Adh1	Akr1a1	Ehmt2
+Alcuronium	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrna7
+Aldehyde Dehydrogenase Inhibitor	MAGMA_Drugs_and_Diseases	Kdm4a	Vdr	Hsp90aa1	Plk1	Atad5	Cbx1	Mthfr	Runx1	Gfap	Mtor	Nfkb1	Ar	Aldh3a2	Aldh1a1	Aldh3a1	Cyp1a2	Agtr1b	Ankk1	Mphosph8	Nfe2l2	Ppard	Abcb1a	Gmnn	Cbfb	Hpgd	Dbh	Ehmt2	Adrb2	Cyp3a13	Slc6a3	Hsd17b10	Rgs4	Aldh2	Thpo	Tspo	Drd2	Ggt1
+Alectinib	MAGMA_Drugs_and_Diseases	Ret	Smad4	Fgfr1	Met	Alk	Eml4
+Alendronate	MAGMA_Drugs_and_Diseases	Fdps	Il11	Mvk	Ptpre	Atp6v1a	Ptprc	Ptprs	Vdr	Plau	Cyp19a1	Ptpn4
+Alfuzosin	MAGMA_Drugs_and_Diseases	Gaa	Ehmt2	Adra1d	Adra1b	Adra1a	Hsd17b10	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Allergic Rhinitis	MAGMA_Drugs_and_Diseases	Hsp90aa1	Gaa	Pde4d	Fgf1	Npc1	Egfr	Il3	Ar	Pkm	Tbk1	Pde4c	Rab9	Pde4b	S100a13	Pde4a	Ikbke	Nfe2l2
+Allopurinol	MAGMA_Drugs_and_Diseases	Ntng1	Ugt1a1	Pou5f1	Grem2	Tbl1xr1	Cyp1a2	Trib2	Abcg3	Ugt1a10	Myt1l	Tshz2	Cyp3a13	Pkd2	Cyp2d10	Aox1	Ugt1a6a	Ugt1a2	Xdh
+Alpelisib	MAGMA_Drugs_and_Diseases	Map2k1	Braf	Esr1	Esr2	Mtor	Pik3cb	Pik3r1	Pik3ca	Cdk4	Fgfr1	Pi4ka	Kras	Pik3c3	Fgfr3	Trp53	Fgfr2	Sgk1	Rb1	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Pik3c2a	Pik3cg	Pik3r6	Nras	Erbb2	Akt1	Hras
+Alprostadil	MAGMA_Drugs_and_Diseases	Catsper2	Catsper1	Catsper4	Catsper3	Ptger1	Ptger2	Ptgir	Ptger4	Cyp3a13	Tbxa2r	Cyp2d10	Cyp1a2	Ptgdr
+Amantadine	MAGMA_Drugs_and_Diseases	Grin3a	Grin2b	Grin2a	Slc22a1	Drd2	Grin2d	Grin2c
+Amblyopia	MAGMA_Drugs_and_Diseases	Ar	Chrm3	Cxcl10	Chrm4	Chrm1	Chrm2	F2r	Chrm5	Cyp3a13	Cyp19a1	Adra2a	Guca2a
+Amcinonide	MAGMA_Drugs_and_Diseases	Ar	Idh1	Anxa1	Gmnn	Hif1a	Nr3c1	Npsr1
+Amebiasis	MAGMA_Drugs_and_Diseases	Ass1	G6pdx	Ackr1	Cyp2d10	Mrgprb1	Cyp1a2	Ehmt2	Tlr9	Cyp3a13	Tlr7
+Amifostine	MAGMA_Drugs_and_Diseases	Tgfb1	Smad2	Gsr	Enpp1	Myc	Alpi
+Amiloride	MAGMA_Drugs_and_Diseases	Kcnj5	Trpc7	Aoc1l1	Cyp4a30b	Scnn1a	Ehmt2	Pkd2l1	Plau	Trpv2	Pkd2	Hsd17b10	Slc9a1	Scnn1g	Slc9a5	Scnn1b	Asic3	Asic1	Asic2
+Aminoglutethimide	MAGMA_Drugs_and_Diseases	Tg	Cyp11a1	Tff3	Cyp1b1	Ggt1	Cyp19a1	Gnrh1
+Aminophylline	MAGMA_Drugs_and_Diseases	Adora2b	Hdac2	Adora2a	Pde4d	Pde3b	Pde4c	Adora3	Pde3a	Pde4b	Pde4a	Adora1	Pde5a
+Aminosalicylate	MAGMA_Drugs_and_Diseases	Pla2g2e	Chuk	Alox5	Ptgs1	Ptgs2
+Amiodarone	MAGMA_Drugs_and_Diseases	Kcne1	Abcb1a	Gmnn	Calca	Cacna2d2	Cbx1	Adrb1	Cyp3a13	Kcna7	Mtor	Adra1a	Cacna1h	Sqle	Tg	Nos1ap	Cyp2d10	Cyp1a2	Scn5a	Sftpa1	Cyp2j13	Kcnh2
+Amisulpride	MAGMA_Drugs_and_Diseases	Abcb1a	Rabep1	Mc4r	Htr2c	Sh2b1	Drd2	Htr1a	Anks1b	Drd3
+Amitriptyline	MAGMA_Drugs_and_Diseases	Ntrk2	Sigmar1	Kcnd2	Ntrk1	Kcnd3	Htr1b	Oprk1	Oprm1	Htr1a	Adra2a	Kcnq2	Ifng	Kcnq3	Cyp1a2	Ada	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Oprd1	Pla2g1b	Kcna1	Chrm5	Htr2c	Prl3d2	Adrb1	Adrb2	Htr2a	Adra1d	Adrb3	Cyp3a13	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Hrh4	Cyp2d10	Drd1
+Amlexanox	MAGMA_Drugs_and_Diseases	Hsp90aa1	Gaa	Pde4d	Fgf1	Npc1	Egfr	Il3	Ar	Pkm	Tbk1	Pde4c	Rab9	Pde4b	S100a13	Pde4a	Ikbke	Nfe2l2
+Amlodipine	MAGMA_Drugs_and_Diseases	Ace	Cacna2d1	Cacna1c	Cacna1b	Cacna1d	Cyp3a13	Agt	Cacna1f	Cacnb2	Nppa	Cacna1s	Cacng1
+Amodiaquine	MAGMA_Drugs_and_Diseases	G6pdx	Cyp1a1	Cyp1b1	Hnmt
+Amoxapine	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Vdr	Gabra6	Gabra5	Gabra4	Htr1b	Htr1a	Trp53	Chrm3	Chrm4	Gabrb3	Chrm1	Gabrb2	Chrm2	Gabrb1	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Adra1b	Adra1a	Hrh1	Hrh4	Thpo	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2	Gabrg1	Nat1	Adra2c	Htr3a	Adra2b	Gabrg3	Adra2a	Gabrg2	Htt	Slc6a2	Htr6	Slc6a3	Slc6a4	Htr7	Gabre	Gabrd
+Amoxicillin	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+Amrinone	MAGMA_Drugs_and_Diseases	Vdr	Plk1	Thrb	Alox15	Ehmt2	Tnf	Cyp3a13	Hif1a	Hsd17b10	Aldh1a1	Mapt	Cyp1a2	Pde3b	Pde3a	Pde4b	Usp1	Poli
+Amsacrine	MAGMA_Drugs_and_Diseases	Top2b	Atad5	Top2a	Cbx1	Ehmt2	Cyp3a13	Mtor	Hsd17b10	Atxn2	Cyp2d10	Cyp1a2	Drd1	Kcnh2
+Amyotrophic Lateral Sclerosis ALS	MAGMA_Drugs_and_Diseases	Kcnk10	Trpc5	Cyp3a13	Npc1	Slc7a11	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Cyp1a2	Kcnn1	Rab9	Scn5a	Kcnn3	Scn3a	Kcnn4	Scn4a	Kcnk2	Scn1a	Scn2a	Tardbp	Kcnk4	Kcnh2
+Anaphylactic Shock	MAGMA_Drugs_and_Diseases	Cast	Vdr	G6pdx	Tpm3-rs7	Recql	Adra2c	Mtor	Adra2b	Adra2a	Mapk10	Mapt	Pik3cb	Apex1	Pah	Ghrl	Nfe2l2	Fen1	Adrb1	Adrb2	Slc2a4	Tnf	Adra1d	Adrb3	Tnfrsf11b	Hif1a	Adra1b	Adra1a	Hsd17b10	Hyal2	Polk	Drd1
+Anastrozole	MAGMA_Drugs_and_Diseases	Abcb1a	Kmt2c	Tubb1	Igf2	Tnfrsf11b	Esr1	Esr2	Cyp19a1	Erbb2	Tnfsf11	Cyp1b1	Ugt1a2	Pgr	Map4k4
+Androgen Biosynthesis Inhibitor	MAGMA_Drugs_and_Diseases	Ar	Cyp17a1	Tspyl1	Dse
+Androgen Receptor Antagonist	MAGMA_Drugs_and_Diseases	Ar	Cdh1	Kmt2d	Fst	Cflar	Bax	Klk1b24
+Androgenetic Alopecia	MAGMA_Drugs_and_Diseases	Akr1d1	Srd5a2	Cflar	Cyp3a13	Ar	Tgm2	Cyp2d10	Cyp1a2	Fgfr1	Srd5a1	Nfe2l2
+Anemia	MAGMA_Drugs_and_Diseases	Il11	Smad3	Idh1	Trit1	Mgmt	Atad5	Dnmt3a	Lif	Tet2	Ar	Asxl1	Tg	Aldh1a1	Cd247	Dnmt1	Cda	Nfe2l2	Trp53	Flt3	Gmnn	Tagln	Htt	Gstp1	Afp	Plau	Rorc	Gata2	Nr3c1	Tyms	Thpo	Myc	Abl1	Ggt1
+Anesthetic	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk18	Atp5f1d	Gabrg3	Gabrg2	Glrb	Kcnma1	Kcnk2	Kcnk3	Gabrb3	Gabrb2	Gabrb1	Gria1	Kcnk9	Ryr1	Kcna1	Atp2c1	Glra1	Cacna1s	Gabre	Gabrd
+Angioedema	MAGMA_Drugs_and_Diseases	Cyp3a13	Plg	Cp	Esr1	Ar	Sts	Cyp2d10	Cyp1a2	Gnrhr	Pgr	Mbl2	Cyp2j13
+Angiogenesis Inhibitor	MAGMA_Drugs_and_Diseases	Arsa	Pkm	Sts	Hpgds	Hrh1	Atad5	Hpgd	Ugt1a1	Rab9	Npc1	Trp53
+Angiotensin Converting Enzyme Inhibitor	MAGMA_Drugs_and_Diseases	Ace	Mthfr	Adrb2	Mtr	Prcp	Agt
+Anisindione	MAGMA_Drugs_and_Diseases	Ggcx	Smn1	F2	Gc	Trp53
+Anterior Uveitis	MAGMA_Drugs_and_Diseases	Esrra	Anxa1	Nr3c1	Nfe2l2	Serpina6
+Anthrax	MAGMA_Drugs_and_Diseases	Abcb1a	Il6	Gsr	Top2a	Rce1
+Antiarrhythmic	MAGMA_Drugs_and_Diseases	Abcb1a	Cop1	Cyp2d10	Scn5a	Adrb1	Kcna5	Adrb2	Drd1	Cyp3a13	Mtor	Kcnh2
+Antibacterial Agent	MAGMA_Drugs_and_Diseases	Ar	Smad3	Rxra	Hsp90aa1	Hpgd	Dnmt1	Nfe2l2
+Anticancer Agent	MAGMA_Drugs_and_Diseases	Abcb1a	Crbn	Ctnnb1	Vegfc	Ikzf1	Tnf	Fgf2	Rbx1	Vegfa	Vegfb	Cul4a	Ddb1	Tnfsf11	Kras
+Anticoagulent	MAGMA_Drugs_and_Diseases	C1rb	Try4	Aldh1a1	Tmprss2	Tff2	Tnf	Asic3	Tpsb2	Trpm7	Asic1	Asic2
+Antimalarial Agent	MAGMA_Drugs_and_Diseases	Cyp2a12	Cyp3a13	Atp1a1
+Antineoplastic Agent	MAGMA_Drugs_and_Diseases	Cyp11a1	Atm	Rorc	Esr1	Nfe2l2	Kcnh2
+Antithyroid Agent	MAGMA_Drugs_and_Diseases	Tpo	Cyp1a2	2410137M14Rik	H2-Eb2
+Antiviral	MAGMA_Drugs_and_Diseases	Vdr	Angpt2	Mmp1a	Vwf	2410137M14Rik	Il18	Il6	Aldh1a1	Impdh1	Krt18	Impdh2	Bcl2	Itpa	Slc28a2	Slc29a1	Vip	Trp53	Fto	Adk	Rorc	Egfr	Oasl1	Slc6a4	Nt5c2	Cst10	Cyp27b1	Ifnl2	Cyp2r1	Enpp1	Ldlr	Mill1	Scarb1
+Aphthous Ulcers	MAGMA_Drugs_and_Diseases	Hsp90aa1	Gaa	Pde4d	Fgf1	Npc1	Egfr	Il3	Ar	Pkm	Tbk1	Pde4c	Rab9	Pde4b	S100a13	Pde4a	Ikbke	Nfe2l2
+Apoptosis Stimulant	MAGMA_Drugs_and_Diseases	Ikbkb	Jun	Ccnd1	Txnrd1	Akt1	Mapk3	Mapk1
+Apremilast	MAGMA_Drugs_and_Diseases	Cdk6	Cdk4	Pde4d	Pde4c	Pde4b	Pde4a
+Aripiprazole	MAGMA_Drugs_and_Diseases	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Rabep1	Ankk1	Chrm3	Chrm4	Faah	Abcb1a	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1b	Htr6	Adra1a	Htr7	Hrh1	Cnr1	Cyp2d10	Mc4r	Sh2b1	Drd1	Drd2	Drd3	Drd4	Drd5
+Aromatase Inhibitor	MAGMA_Drugs_and_Diseases	Abcb1a	Kmt2c	Tubb1	Igf2	Tnfrsf11b	Esr1	Esr2	Cyp19a1	Erbb2	Tnfsf11	Cyp1b1	Ugt1a2	Pgr	Map4k4
+Aromatic L Amino Acid Decarboxylase Inhibitor	MAGMA_Drugs_and_Diseases	Kdm4a	Ddc	Aldh1a1	Mapt	Hpgd	Mthfr	Ehmt2	Hsd17b10
+Arsenic Trioxide	MAGMA_Drugs_and_Diseases	Ikbkb	Jun	Ccnd1	Txnrd1	Akt1	Mapk3	Mapk1
+Artemether	MAGMA_Drugs_and_Diseases	Cyp2a12	Cyp3a13	Atp1a1
+Artemisinin	MAGMA_Drugs_and_Diseases	Cyp2a12	Aldh1a1	Nr1i2	Atp2a1	Cyp3a13	Tardbp
+Ascariasis	MAGMA_Drugs_and_Diseases	Gmnn	Tubb5	Cyp1a2	Tuba1a	Tubb4b
+Asenapine	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Htr5a	Hrh2	Htr7	Hrh1	Drd1	Drd2	Drd3	Drd4
+Aspergillosis	MAGMA_Drugs_and_Diseases	Rela	Abcb1a	Cyp2d10	Cyp3a13	Abcg3	Ptgs1
+Aspirin	MAGMA_Drugs_and_Diseases	Tgfb1	Ace	Col26a1	Hspa5	Itga2	Nrg1	Tsc1	Prkab1	Agt	Gp6	Prkab2	Tapbp	Il1b	Il4	Nfkbia	Pik3ca	Fas	Cyp1a2	H2-Ab1	Fsip1	Trp53	Tlr3	Col18a1	Prkaa2	B4galt2	Tnfrsf11a	Itga2b	Zbtb22	Cyp3a13	Pear1	Prkaa1	Tbxa2r	Cyp2d10	P2ry1	Adora1	Me3	Asic3	Fcer1g	Mcl1	Chia1	Ntrk1	Slc30a9	F2r	Nos3	Cyp4f14	Ptgir	Hgf	Pla2g4a	Slc6a12	Gp1ba	Nat1	Gfap	Nfkb1	Nfkb2	Tbxas1	Ddit3	Pparg	Cep68	H2-Eb2	Pth	Irs2	Ptger2	Thra	F13a1	Ptger3	Itgb3	Prkag2	Prkag3	Afp	Hmgcr	Prkag1	Fgf2	Hnmt	Ptgs1	Ptgs2	Ednra	Ikbkb	Rps6ka3	Hmox1	Ugt1a6a	Plcg1	Gc
+Asthma	MAGMA_Drugs_and_Diseases	Dusp1	Glp1r	Adrb2	Clock	Crhr2
+Astrocytoma	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+Atomoxetine	MAGMA_Drugs_and_Diseases	Grin3a	Grin2b	Grin2a	Grin3b	Cyp2d10	Grin2d	Slc6a2	Grin2c	Slc6a3	Grin1	Slc6a4	Tshr
+Atorvastatin	MAGMA_Drugs_and_Diseases	Abcg8	Mylip	Abcc2	Ace	Apoa5	Kif6	Cxcl10	Coq2	Mapk10	Fas	Soat1	Agtr1b	Abcg3	Abcb1a	Nr1i2	Pon1	Mttp	Ahr	Tnf	Cyp3a13	Cyp7a1	Tfpi	Dpp4	Slco1b2	Cyp2d10	Scap	Bdkrb2	Ldlr	Fdps	Abca1	Ugt1a1	Htr3b	Por	Il2ra	Cd40lg	Ppard	H2-Eb2	Ryr2	Hmgcr	Plat	Fgf2	Hspd1	Itgam	Lipc	Pik3cg	Tgm2	Slco2b1	Htr7	Bglap2	Lepr	Apoe	Nos1	Ugt1a2	Scarb1	Apob
+Atropine	MAGMA_Drugs_and_Diseases	Ar	Chrm3	Cxcl10	Chrm4	Chrm1	Chrm2	F2r	Chrm5	Cyp3a13	Cyp19a1	Adra2a	Guca2a
+Attention Deficit Hyperactivity Disorder ADHD	MAGMA_Drugs_and_Diseases	Grin3a	Grin2b	Grin2a	Grin3b	Cyp2d10	Grin2d	Slc6a2	Grin2c	Slc6a3	Grin1	Slc6a4	Tshr
+Avatrombopag	MAGMA_Drugs_and_Diseases	Serpinc1	Pros1	Mpl	F2	F5
+Axitinib	MAGMA_Drugs_and_Diseases	Yes1	Pdgfrb	Plk4	Flt1	Pdgfra	Csf1	Flt4	Ugt1a1	Pdgfb	Cyp3a13	Hif1a	Kit	Vhl	Kdr	Abl1
+Azacitidine	MAGMA_Drugs_and_Diseases	Il11	Smad3	Idh1	Trit1	Mgmt	Atad5	Dnmt3a	Lif	Tet2	Ar	Asxl1	Tg	Aldh1a1	Cd247	Dnmt1	Cda	Nfe2l2	Trp53	Flt3	Gmnn	Tagln	Htt	Gstp1	Afp	Plau	Rorc	Gata2	Nr3c1	Tyms	Thpo	Myc	Abl1	Ggt1
+Azathioprine	MAGMA_Drugs_and_Diseases	Abcc4	Idh1	Gstm6	Atad5	Impdh1	Cyp1a2	Itpa	Hprt1	Nfe2l2	Trp53	H2-Eb2	Fto	Pth	Tpmt	Cyp3a13	Tyms	Ddrgk1	Cyp2d10	Ppat	Aox1	Nudt15	Tshb
+Azithromycin	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Nos1	Xdh	Cyp3a13	Abcc1	Tfpi
+BCL Inhibitor	MAGMA_Drugs_and_Diseases	Idh1	Flt3	Idh2	Braf	Pik3ca	Bcl2l1	Bcl2	Abl1	Kras	Mcl1	Trp53	Bcl2l2
+Backache	MAGMA_Drugs_and_Diseases	Alb	Cyp2d10	Cbx1	Cyp1a2	Cyp3a13	Plat	Ptgs1	Ptgs2
+Baclofen	MAGMA_Drugs_and_Diseases	Gabbr2	Gabbr1	Bdnf	Fos	Gcg	Nfkb1	Kctd8	Kctd12	Nos1	Tac1	Kctd16	Nfe2l2	Tshb
+Bacterial 30S Ribosomal Subunit Inhibitor	MAGMA_Drugs_and_Diseases	Cyp3a13	Kcnma1	Cyp1a2	Kcnn4
+Bacterial 50S Ribosomal Subunit Inhibitor	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Nos1	Xdh	Cyp3a13	Abcc1	Tfpi
+Bacterial Antifolate	MAGMA_Drugs_and_Diseases	Cyb5r3	G6pdx	Cyp2d10	Cyp1a2	2410137M14Rik	Cyp3a13	Gnrh1	Dhfr	H2-Eb2
+Bacterial DNA Gyrase Inhibitor	MAGMA_Drugs_and_Diseases	G6pdx	Cyp2d10	Top2a	Cyp1a2	Bax	Cyp3a13	Cyp2e1	Hsd17b10
+Baricitinib	MAGMA_Drugs_and_Diseases	Gak	Ptk2b	Aak1	Bmp2k	Jak3	Tyk2	Jak1	Jak2
+Bcr Abl Kinase Inhibitor	MAGMA_Drugs_and_Diseases	Lyn	Camk1d	Map2k2	Src	Map3k2	Map2k1	Tnk2	Txk	Egfr	Hck	Stk4	Stk10	Bcr	Stk24	Cdk2	Sik2	Abl1	Fyn	Sik3	Camk2g	Sik1	Frk	Map4k5
+Beclomethasone	MAGMA_Drugs_and_Diseases	Ar	Anxa1	Cyp2d10	Cyp1a2	Cyp3a13	Hif1a	Nr3c1	Nfe2l2	Il2	Serpina6
+Belinostat	MAGMA_Drugs_and_Diseases	Hdac5	Hdac6	Fbxw7	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Kmt2a	Ugt1a1	Hdac9	Hdac7	Hdac8
+Benazepril	MAGMA_Drugs_and_Diseases	Ace	Mthfr	Adrb2	Mtr	Prcp	Agt
+Benign Prostatic Hyperplasia BPH	MAGMA_Drugs_and_Diseases	Gaa	Ehmt2	Adra1d	Adra1b	Adra1a	Hsd17b10	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Benserazide	MAGMA_Drugs_and_Diseases	Vdr	Ddc	Rgs4	Cbx1	Ehmt2
+Benzbromarone	MAGMA_Drugs_and_Diseases	Abcc2	Vdr	Gmnn	Plk1	Hpgd	Hif1a	Hsd17b10	Polb	Ncor2	Cyp1a2	Pparg	Usp1	Abcc1	Rapgef4
+Benzodiazepine Receptor Agonist	MAGMA_Drugs_and_Diseases	Ar	Gabbr2	Rxra	Gabbr1	Ppard
+Benzodiazepine Receptor Antagonist	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Tspo	Gabre	Gabrd	Nfe2l2
+Bepridil	MAGMA_Drugs_and_Diseases	Idh1	Abcb1a	Kcnq1	Tnnc1	Cacna1a	Cyp2d10	Kcnq4	Scn5a	Ehmt2	Atp1a1	Calm1
+Betamethasone	MAGMA_Drugs_and_Diseases	Ache	Ar	Anxa1	Ptger4	Prl3d2	Hmox2	Igf2	Nr3c1	Nfe2l2
+Bethanechol	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Bexarotene	MAGMA_Drugs_and_Diseases	Rxra	Blm	Kat2a	Mapk8	Rxrb	Nr1i2	Nr1h3	Pparg	Usp1	Rxrg
+Bicalutamide	MAGMA_Drugs_and_Diseases	Ar	Cdh1	Kmt2d	Fst	Cflar	Bax	Klk1b24
+Bile Acid	MAGMA_Drugs_and_Diseases	Ces1d	Cox8a	Cox5a	Cox7c	Cox7b	Fech	Pla2g1b	Adh1	Gpbar1	Esrrg	Cox6a2	Cox7a1	Cox5b-ps	Cox6c	Cox6b1	Fabp6	Cox4i1
+Bile Acid Synthesis Disorders	MAGMA_Drugs_and_Diseases	Ces1d	Cox8a	Cox5a	Cox7c	Cox7b	Fech	Pla2g1b	Adh1	Gpbar1	Esrrg	Cox6a2	Cox7a1	Cox5b-ps	Cox6c	Cox6b1	Fabp6	Cox4i1
+Bile Stimulation	MAGMA_Drugs_and_Diseases	Kdm4a	Idh1	Vdr	Atxn2	Gmnn	Ehmt2	Nod2	Abcg3
+Binimetinib	MAGMA_Drugs_and_Diseases	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Ugt1a1	Braf	Nras	Apc	Gna11	Atm	Nf1	Hras	Kras	Map2k6	Map2k7
+Biperiden	MAGMA_Drugs_and_Diseases	Chrm3	Chrna2	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5
+Bipolar Disorder	MAGMA_Drugs_and_Diseases	Abcb1a	Rabep1	Mc4r	Htr2c	Sh2b1	Drd2	Htr1a	Anks1b	Drd3
+Bladder Cancer	MAGMA_Drugs_and_Diseases	Map3k1	Rars1	Ube2i	G6pdx	Recql	Slc31a1	Acyp2	Lig3	Rev1	Smarca4	Cdc25c	Mycs	Fas	Bax	Mphosph8	Trp53	Raf1	Rb1	Galnt14	Lrp2	Adh1	Hpgd	Aqp9	Galnt18	Aurka	Comt	Egfr	Tyms	Nras	Chek1	E2f1	Myc	Akt1	Acss2	Slc16a5	Idh1	Smad4	Ephx1	Xrcc5	Gadd45a	Mthfr	Xrcc1	Fanca	Fancc	Esr1	Trp73	H2ac25	Gclc	Nat1	Fgfr1	Gnas	Birc7	Cdh17	Dnmt1	Gclm	Fgfr3	Mdm2	Tpmt	Slc22a2	Plau	Xpc	Htr4	Tgm2	Stk11	Rgs4	Anpep	Slc19a1	Abcc4	Abcc2	Abcc3	Hspa8	Cbx1	Lif	Nrg1	Hspa4	Dcbld1	Otos	Vegfa	Il6	Kat2a	Mapt	Pik3ca	Ifng	Nf2	Atm	Bcl2	Top1	Abcc1	Atr	Nfe2l2	Alk	Abcb1a	Nr1i2	Alox15	Prl3d2	Brca1	Brca2	Cyp3a13	Mllt3	Mtr	Krt20	Dram1	Erbb2	Mutyh	Gabpa	Nqo1	Ntrk2	Eif3a	Dffb	Mdh2	Mgmt	Stat1	Rrm1	Csnk2a1	Ercc1	Rad52	Aldh1a1	Ercc4	Ercc2	Xiap	Apex1	Ddit3	Ercc6	Fxn	Polr1g	Kras	Cyp2e1	Cmpk1	Src	Grp	Gstp1	Hexb	Ehmt2	Hsd17b10	Ppp1r13l	Cxcr4	Atp7b	Rev3l
+Bloating	MAGMA_Drugs_and_Diseases	Slc36a1	Casr	Kyat1	Slc22a2	Gpr139	Ehmt2	Baz2b	Ido1	Wars2
+Boceprevir	MAGMA_Drugs_and_Diseases	Ctsa	Abcb1a	Vdr	Cma1	Cyp3a13	Ctss	Ifnl2	Ctsk	Ctsf	Slc28a2
+Bone Resorption Inhibitor	MAGMA_Drugs_and_Diseases	Fdps	Il11	Mvk	Ptpre	Atp6v1a	Ptprc	Ptprs	Vdr	Plau	Cyp19a1	Ptpn4
+Bortezomib	MAGMA_Drugs_and_Diseases	Ctsb	Bdnf	F12	Hspa4	Psmb9	Psmc6	Psmc4	Pik3ca	Psmc5	Psmc2	Psmc3	Bax	Bcl2	Psmc1	Nfe2l2	Trp53	Psmd11	Psmd10	Rb1	Rela	Try4	Psmd13	Psmd12	Psmd14	Hspb2	Klk4	Psmb11	Psmb10	Psmd9	Psmc3ip	Psmd7	Psmd5	Ccnd1	Psmd6	Psmd3	E2f1	Psmd4	Psmd1	Psmd2	Capn1	Ctla4	Adrm1b	F2	Nfkb1	Nfkb2	Ar	Psma6	Psma7	Psma4	Psma5	Sem1	Psma2	Psma3	Psme4	Xiap	Psma1	Psme2b	Ddit3	Psme3	Kras	Psme1	Fgfr3	Bcl2l2	Notch1	Flt3	Plat	Plg	Gata2	Psma8	Psmb7	Psmb8	Psmb5	Psmb6	Psmb3	Psmb4	Psmb1	Psmb2	Pmaip1	Psmf1
+Bosutinib	MAGMA_Drugs_and_Diseases	Lyn	Camk1d	Map2k2	Src	Map3k2	Map2k1	Tnk2	Txk	Egfr	Hck	Stk4	Stk10	Bcr	Stk24	Cdk2	Sik2	Abl1	Fyn	Sik3	Camk2g	Sik1	Frk	Map4k5
+Bradykinin Receptor Antagonist	MAGMA_Drugs_and_Diseases	Sigmar1	Cyp3a13	Hif1a
+Brainstem Glioma	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+Breast Cancer	MAGMA_Drugs_and_Diseases	Wnt5b	Dkk1	Rbx1	Cdc25c	Apc	Fas	Abcg1	Bax	Abcg3	Trp53	Tymp	Ccnk	Galnt14	Pon1	Aurka	Cblb	Egfr	Tyms	Foxo1	Myb	Ccnd1	E2f1	Perp	Cyp1b1	Insr	Smad4	Xrcc3	Igfbp3	Xrcc4	Mthfr	Xrcc1	2410137M14Rik	Sele	Cyp2a12	Dlg5	Aldh3a1	Birc5	Gnas	Fgfr4	Irs1	Cyp19a1	Rgs5	Alcam	Fpgs	Tmem167	Il6ra	Slc19a1	Abcc4	Il11	Abcc5	Abcc2	Hspa5	Bdnf	Braf	Ppp2r5d	Gnl3	Pard3b	Vegfa	Nt5c1a	Ptprc	Pik3ca	Dpyd	Atm	Umps	Abcb1a	Dtymk	Megf11	Shmt1	Top2a	Hmmr	Cyp3a13	Pik3r2	Klc1	Slco1b2	Slc22a16	Erbb2	Cbr3	Nqo1	Cbr1	Nos3	Ercc1	Il2ra	Met	Kras	Cyp2e1	Lgr5	Cdkn1a	Dpys	Gstp1	Itgal	Exo1	Chn2	Nos1	Rev3l	Tshb
+Breast Cancer Resistance Protein Inhibitor	MAGMA_Drugs_and_Diseases	Kdm4a	Idh1	Vdr	Atxn2	Gmnn	Ehmt2	Nod2	Abcg3
+Bremelanotide	MAGMA_Drugs_and_Diseases	Mc3r	Mc2r	Mc1r	Mc5r	Mc4r	Nr3c2
+Brexpiprazole	MAGMA_Drugs_and_Diseases	Htr7	Cyp2d10	Htr2a	Drd2	Htr1a
+Brigatinib	MAGMA_Drugs_and_Diseases	Insr	Ros1	Egfr	Igf1r	Alk
+Brimonidine	MAGMA_Drugs_and_Diseases	Vdr	Rgs4	Aldh1a1	Hpgd	Ehmt2	Adra2c	Adra2b	Adra2a
+Brinzolamide	MAGMA_Drugs_and_Diseases	Car12	Car2	Car1	Car4	Car5a	Car7	Car14
+Bromocriptine	MAGMA_Drugs_and_Diseases	Vdr	Fos	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Il2	Ar	Gdnf	Lep	Cyp1a2	Sag	Nfe2l2	Abcb1a	Htr2c	Ehmt2	Htr2a	Adra1d	Htr2b	Adra1b	Htr6	Adra1a	Htr7	Myc	Npy	Drd1	Drd2	Drd3	Drd4	Drd5
+Bronchitis	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Brutons Tyrosine Kinase BTK Inhibitor	MAGMA_Drugs_and_Diseases	Blk	Lyn	Src	Txk	Bmx	Egfr	Tec	Lck	Erbb4	Erbb2	Btk	Fyn	Jak3	Itk
+Budesonide	MAGMA_Drugs_and_Diseases	Crhr1	Edn1	Nr1i2	Cyp2d10	Cyp1a2	Glcci1	Cyp3a13	Pgr	Nr3c2	Nr3c1
+Bulimia Nervosa	MAGMA_Drugs_and_Diseases	Ace	Bdnf	Htr1b	Htr1a	Igf2	Ano1	Ar	Ppp1r1b	Reep5	Cyp1a2	Fkbp5	Slc29a4	Srp19	Crhr1	Abcb1a	Gsk3b	Tph1	Serpine1	Htr2a	Cyp3a13	Htr2b	Slc6a4	Htr4	Aanat	Atxn2	Cyp2d10	Drd1	Nos2	Kcnh2
+Bumetanide	MAGMA_Drugs_and_Diseases	Slc12a3	Slc12a4	Ace	Slc12a5	Gpr35	Slc12a1	Slc12a2	Hsd17b10	Add1	Gnb3	Mapk1	Nfe2l2	Cftr
+Bupivacaine	MAGMA_Drugs_and_Diseases	Fgf6	Bche	Kcna1	Scn10a	Hspa8	Scn5a	Kcna5	Lif	Myod1	Nrg1	Tnf	Scn4a
+Bupropion	MAGMA_Drugs_and_Diseases	Ace	Epb41	Sacm1l	Dbh	Prl3d2	Htr2a	Slc6a2	Comt	Slc6a3	Slc6a4	Cyp2a12	Galr1	Drd1	Ankk1	Drd2	Fkbp5	Slc18a2
+Burkitts Lymphoma	MAGMA_Drugs_and_Diseases	Cyp2a12	Cyp2d10	Cyp3a13	Cyp2c55
+Bursitis	MAGMA_Drugs_and_Diseases	Ace	Ppara	Bdnf	Pla2g2a	Fst	Trpv1	Ptgr2	Th	Kcnq1	Birc5	Cyp1a2	Agtr1b	Ddit3	Pparg	Sag	Abcc1	Nfe2l2	Ptges	Itgb2l	Cd86	Kcne1	Ptgdr2	Slc46a1	Glo1	Adm	Afp	Slc2a4	Cyp3a13	Eno2	Fgf2	Tyms	Ptgs1	Ptgs2	Fcgr4	Cyp2d10	Myc	Stat6	Ggt1
+Buspirone	MAGMA_Drugs_and_Diseases	Aldh1a1	Prl3d2	Ehmt2	Drd2	Htr1a	Cyp3a13	Nfe2l2
+Butalbital	MAGMA_Drugs_and_Diseases	Gabra3	Gria2	Gabra2	Gabrb3	Gabrq	Chrna4	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Chrna7	Gabra4	Gabrg1	Grik2	Gabrg3	Gabrg2	Gabre	Gabrd
+CDK Inhibitor	MAGMA_Drugs_and_Diseases	Esr1	Esr2	Smarca4	Nras	Ccnd3	Ccnd2	Cdk6	Ccnd1	Cdk4	Erbb2	Kras	Pgr	Trp53
+Cabazitaxel	MAGMA_Drugs_and_Diseases	Tub	Tubb5	Tubb1	Cyp3a13	Igf2	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+Cabergoline	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Htr7	Drd1	Drd2	Drd3	Drd4	Drd5
+Cabozantinib	MAGMA_Drugs_and_Diseases	Yes1	Ret	Flt3	Hgf	Cflar	Egfr	Kit	Gna11	Pik3ca	Tek	Kdr	Hras	Met	Abl1	Kras	Ros1
+Caffeine	MAGMA_Drugs_and_Diseases	Vdr	Adora2b	Pik3cb	Pik3ca	Adora2a	Cyp1a2	Pde3b	Atm	Pde3a	Pde7b	Top1	Pde7a	Itpr2	Itpr3	Cyp3a13	Pde11a	Itpr1	Shh	Cyp2d10	Pde4c	Adora3	Pde4b	Trpc1	Pde4a	Adora1	Pde8b	Pde8a	Pde4d	Gfap	Myo9b	Ar	Pde10a	Cyp2a12	Il2ra	Pde5a	Pde9a	Ryr2	Ryr3	Ryr1	Ptger1	Ogg1	Pde1c	Pde1b	Camk2b	Pde1a	Lpar2	Pik3cd	Prkdc	Fgf2	Grm1	Pde2a	Nos1	Pde6c	Pde6b	Pde6a
+Calcineurin Inhibitor	MAGMA_Drugs_and_Diseases	Ppp3ca	Slco1b2	Ppia	Ppp3r2	Abcb11	Slc10a1	Caml	Fpr1	Ppif
+Calcitriol	MAGMA_Drugs_and_Diseases	Ar	Tg	Vdr	Cyp24a1	Gdf15	Gmnn	Myc	Plau	Il2	Phex
+Calcium Channel Blocker	MAGMA_Drugs_and_Diseases	Ace	Cacna2d1	Cacna1c	Cacna1b	Cacna1d	Cyp3a13	Agt	Cacna1f	Cacnb2	Nppa	Cacna1s	Cacng1
+Candesartan	MAGMA_Drugs_and_Diseases	Dot1l	Sult1c1	Ace	Agtr1b	Gpr83	Kcnk3	Plekhj1	Sh2b3
+Capecitabine	MAGMA_Drugs_and_Diseases	Mthfr	Braf	2410137M14Rik	Sele	Vegfa	Ercc1	Dlg5	Mgat4a	Pik3ca	Dpyd	Cyp1a1	Met	Kras	Umps	Abcg3	Cda	Trp53	Ces1d	Tymp	Abcb1a	Slc22a7	Adcy2	Areg	Tyms	Cyp19a1	Ptgs2	Exo1	Cdh1	Erbb2	Rev3l
+Capillary Stabilizing Agent	MAGMA_Drugs_and_Diseases	Kdm4a	Polb	Polk	Ahr	Polh
+Capsaicin	MAGMA_Drugs_and_Diseases	Pcna	Abcb1a	Bdnf	Lif	Trpv1	Cyp3a13	Gfap	Epor	Nt5e	Aldh1a1	Ntf3	Cyp1a2	Scg5	Rnaseh2a	Nfe2l2	Cftr
+Captopril	MAGMA_Drugs_and_Diseases	Ace	Mmp2	Serpine1	Ehmt2	Mmp9	Myo9b	Cyp19a1	Dpp4	Pik3cg	Ace2	Mmp12	Sst	Agtr1b	Lta4h	Nos2	Gnrh1
+Carbachol	MAGMA_Drugs_and_Diseases	Chrm3	Chrna2	Chrm4	Chrm1	Chrm2	Chrm5	P2ry2
+Carbamazepine	MAGMA_Drugs_and_Diseases	Ralbp1	Abcc2	Gabra1	Ephx1	Hspa1l	Fzd8	Mthfr	2410137M14Rik	Prrc2a	Pou5f1	Tnfrsf1b	Ar	Cyp2a12	Scn10a	Scn8a	Cyp1a2	H2-Ab1	Hspa1b	Cyp1a1	Lta	Scn4a	Scn2a	H2-Eb2	Nr1i2	Nr1i3	Prl3d2	Tnf	Cyp3a13	Nr3c1	Bag6	Scn11a	Scn9a	Bglap2	Cyp2d10	Scn7a	Hnf4a	Scn5a	Scn3a	Scn1a	Ggt1
+Carbenoxolone	MAGMA_Drugs_and_Diseases	Gjb1	Gjd3	Gjd2	Gjb3	Gjb2	Gjd4	Gjb5	Gjb4	Gjb6	Gje1	Gjc2	Panx2	Gjc1	Panx3	Gja1	Gjc3	Panx1	Gja4	Gja3	Gja10	Gja5	Gja8	Hsd11b1
+Carbidopa	MAGMA_Drugs_and_Diseases	Kdm4a	Ddc	Aldh1a1	Mapt	Hpgd	Mthfr	Ehmt2	Hsd17b10
+Carbimazole	MAGMA_Drugs_and_Diseases	Tpo	Cyp1a2	2410137M14Rik	H2-Eb2
+Carbonic Anhydrase Activator	MAGMA_Drugs_and_Diseases	Cast	Vdr	G6pdx	Tpm3-rs7	Recql	Adra2c	Mtor	Adra2b	Adra2a	Mapk10	Mapt	Pik3cb	Apex1	Pah	Ghrl	Nfe2l2	Fen1	Adrb1	Adrb2	Slc2a4	Tnf	Adra1d	Adrb3	Tnfrsf11b	Hif1a	Adra1b	Adra1a	Hsd17b10	Hyal2	Polk	Drd1
+Carbonic Anhydrase Inhibitor	MAGMA_Drugs_and_Diseases	Car12	Mmp2	2410137M14Rik	Aqp4	Aqp1	Mmp12	Car2	Car1	Car4	Car3	Car7	Nos1	Car14
+Carboxamide Antiepileptic	MAGMA_Drugs_and_Diseases	Ralbp1	Abcc2	Gabra1	Ephx1	Hspa1l	Fzd8	Mthfr	2410137M14Rik	Prrc2a	Pou5f1	Tnfrsf1b	Ar	Cyp2a12	Scn10a	Scn8a	Cyp1a2	H2-Ab1	Hspa1b	Cyp1a1	Lta	Scn4a	Scn2a	H2-Eb2	Nr1i2	Nr1i3	Prl3d2	Tnf	Cyp3a13	Nr3c1	Bag6	Scn11a	Scn9a	Bglap2	Cyp2d10	Scn7a	Hnf4a	Scn5a	Scn3a	Scn1a	Ggt1
+Carcinoid Tumors	MAGMA_Drugs_and_Diseases	Igfbp1	Tg	Pik3cb	Lpar2	Nf2	Mpo	Sstr1	Klk1b24	Sstr2	Sstr3	Sstr5	Pik3cg
+Cardiac Arrest	MAGMA_Drugs_and_Diseases	Cast	Vdr	G6pdx	Tpm3-rs7	Recql	Adra2c	Mtor	Adra2b	Adra2a	Mapk10	Mapt	Pik3cb	Apex1	Pah	Ghrl	Nfe2l2	Fen1	Adrb1	Adrb2	Slc2a4	Tnf	Adra1d	Adrb3	Tnfrsf11b	Hif1a	Adra1b	Adra1a	Hsd17b10	Hyal2	Polk	Drd1
+Cardiomyopathy	MAGMA_Drugs_and_Diseases	Top2b	Abcb1a	Mapk8	Dpys	Top2a	Cp
+Carfilzomib	MAGMA_Drugs_and_Diseases	Psmb9	Psmc6	Psmc4	Psmc5	Psmc2	Psmc3	Psmc1	Nfe2l2	Psmd11	Psmd10	Psmd13	Psmd12	Psmd14	Psmb11	Psmb10	Psmd9	Psmc3ip	Psmd7	Psmd5	Psmd6	Psmd3	Psmd4	Psmd1	Psmd2	Adrm1b	Ar	Psma6	Psma7	Psma4	Psma5	Sem1	Psma2	Psma3	Psme4	Psma1	Psme2b	Psme3	Psme1	Psma8	Psmb7	Psmb8	Psmb5	Psmb6	Psmb3	Psmb4	Psmb1	Psmb2	Psmf1
+Carmustine	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+Carnitine Palmitoyltransferase Inhibitor	MAGMA_Drugs_and_Diseases	Cpt1b	Cpt1a	Cpt2	Cyp2d10	Cyp1a2	Cyp3a13
+Carvedilol	MAGMA_Drugs_and_Diseases	Ryr2	Abcb1a	Gsr	Ugt1a1	Adrb1	Adrb2	Baz2b	Adrb3	Adra1b	Adra1a	Gja1	Cyp2d10	Lep	Cyp1a2	Bax	Drd1	Nos1	Xdh
+Cathepsin Inhibitor	MAGMA_Drugs_and_Diseases	Kdm4a	Smad3	Idh1	Vdr	Hsp90aa1	Gmnn	Htt	Baz2b	Nr2e3	Ar	Casp6	Metap2	Nfe2l2	Ppard
+Caudal Epidural Block	MAGMA_Drugs_and_Diseases	Fgf6	Bche	Kcna1	Scn10a	Hspa8	Scn5a	Kcna5	Lif	Myod1	Nrg1	Tnf	Scn4a
+Cefadroxil	MAGMA_Drugs_and_Diseases	Slc15a1	Abcc2	Slc15a2	Slc22a6	Nr1i2	Anpep	Slc22a8
+Cefdinir	MAGMA_Drugs_and_Diseases	Kdm4a	Ctdsp1	Sumo1	Mpo	Acp1
+Cefradine	MAGMA_Drugs_and_Diseases	Abcc4	Abcc2	Abcc3	Nr1i2	Cyp3a13
+Celecoxib	MAGMA_Drugs_and_Diseases	Car12	Edn1	Cacna2d2	Cacna2d1	Cacna2d4	Cacna2d3	Hspa4	Mmp9	Vegfa	Apc	Pik3ca	Nfe2l2	Bcar1	Col18a1	Alox12	Cyp3a13	Casp9	Casp3	Car9	Pdpk1	Stat3	Igfbp3	Ar	Cacnb2	Cacnb3	Cacnb4	Kcnq1	Kcnq2	Kcnq3	Kcnq4	Ddit3	Kcnq5	Pparg	Ghrl	Ptges	Cacnb1	Cdkn1b	Cdkn1a	Il23r	Cacna1a	Ctnnb1	Ptger4	Cacna1c	Atp2a3	Cacna1b	Atp2a2	Cacna1e	Plau	Atp2a1	Cacna1d	Rorc	Cacna1g	Cacna1f	Cacna1i	Ptgs1	Cacna1h	Ptgs2	Bglap2	Cacna1s	Abl1	Pdk1
+Celiac Disease	MAGMA_Drugs_and_Diseases	Ctsb	Car12	Cyp3a13	Plg	Car2	F9	Car1	Cyp2a12	Car4	Bglap2	Car6	Cyp2d10	Cyp1a2	Car9	Nfe2l2	Car14
+Cerebral Vasospasm	MAGMA_Drugs_and_Diseases	Prkcg	Prkcd	Dapk3	Clk4	Cdk8	Cdk7	Cdk5	Rps6kb1	Pkia	Prkd3	Kras	Prkcq	Prkd2	Sgk2	Rock1	Rock2	Lrrk2	Cblb	Cyp3a13	Prkx	Cbl	Gata2	Aurkb	Akt3	Cyp2d10	Rps6ka3	Chek2	Akt1	Prkacb	Map4k4	Prkaca
+Cerebrovascular Insufficiency	MAGMA_Drugs_and_Diseases	Adrb1	Htr2a	Htr1a	Adra2c	Htr3a	Htr6	Adra1a	Htr4	Htr5a	Ar	Htr7	Mapt	Drd1	Drd2	Drd3	Drd4	Drd5
+Ceritinib	MAGMA_Drugs_and_Diseases	Insr	Abcb1a	Src	Flt3	Map2k1	Tssk1	Cyp3a13	Ros1	Igf1r	Alk	Eml4
+Cervical Cancer	MAGMA_Drugs_and_Diseases	Rb1	Abcb1a	Atrx	Bdnf	Tyms	Ddo	Pik3ca	Top1mt	Akt1	Muc16	Top1	Abcg3	Trp53	Alk
+Cetirizine	MAGMA_Drugs_and_Diseases	Hrh1	Csf2	Il2ra	Tek
+Cevimeline	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Cyp2d10
+Chelating Agent	MAGMA_Drugs_and_Diseases	Ar	Abcc2	Cyp27b1	Vdr	Cyp24a1	Cyp1a2	Cyp1a1	Cyp3a13	Gc	Ugt1a2	Abcg3
+Chest Congestion	MAGMA_Drugs_and_Diseases	Ache	Chrm3	Chrna2	Chrm4	Ace	Chrm1	Chrm2	Chrm5
+Chicken Pox	MAGMA_Drugs_and_Diseases	Pnp2	Slc15a1	Il10	Dntt	Recql	Abl1
+Chlamydia	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	G6pdx	Nr1i2	Plk1	Cyp3a13	Il17a	Il1b	Cyp2d10	Cyp1a2	F2rl1	Bax	Bcl2	Xdh	Abcc1	Kcnh2
+Chloramphenicol	MAGMA_Drugs_and_Diseases	Aldh1a1	Cyp3a13	Cd55b
+Chloride Channel Blocker	MAGMA_Drugs_and_Diseases	Abcc2	Vdr	Gmnn	Plk1	Hpgd	Hif1a	Hsd17b10	Polb	Ncor2	Cyp1a2	Pparg	Usp1	Abcc1	Rapgef4
+Chloroprocaine	MAGMA_Drugs_and_Diseases	Cyb5r3	Grin3a	G6pdx	Scn10a	Chrna10	Atp1a1	Htr3a	Slc6a3
+Chloroquine	MAGMA_Drugs_and_Diseases	Ass1	G6pdx	Ackr1	Cyp2d10	Mrgprb1	Cyp1a2	Ehmt2	Tlr9	Cyp3a13	Tlr7
+Chlorothiazide	MAGMA_Drugs_and_Diseases	Slc12a3	Car2	Car1	Car4	Hmgcs2	Kcnma1
+Chlorotrianisene	MAGMA_Drugs_and_Diseases	Ar	Rorc	Esr1	Esr2	Npsr1
+Chloroxine	MAGMA_Drugs_and_Diseases	Ar	Kdm4a	Hsp90aa1	Gmnn	Atad5	Htt	Oprk1	Ehmt2	Trp53
+Chlorpromazine	MAGMA_Drugs_and_Diseases	Epm2a	Idh1	Trpc5	Bdnf	Hspa4	Cck	Htr1a	Adra2c	Adra2b	Adra2a	Cyp1a2	Cyp2e1	Abcg3	Trp53	Calm1	Chrm3	Abcb1a	Chrm1	Orm2	Nr1i2	Htr2c	Htr2a	Adra1d	Cyp3a13	Htr2b	Adra1b	Htr6	Nts	Adra1a	Htr7	Hrh1	Hrh4	Thpo	Cyp2d10	Smpd1	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Chlorpropamide	MAGMA_Drugs_and_Diseases	Kcnj10	G6pdx	Kcnj11	Abcc8	Cyp2d10	Cyp1a2	Cyp3a13	Kcnj1	Nfkb1
+Chlorprothixene	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Htr2c	Drd1	Htr2a	Drd2	Htr2b	Drd3
+Chlorthalidone	MAGMA_Drugs_and_Diseases	Slc12a3	Car12	Ace	Car2	Car1	Car4	Mmp3	Nppa	Slc12a1	Car7	Agt	Car14
+Chlorzoxazone	MAGMA_Drugs_and_Diseases	Cyp3a13	Kcnma1	Cyp1a2	Kcnn4
+Cholera	MAGMA_Drugs_and_Diseases	Aldh1a1	Cyp3a13	Cd55b
+Cholic Acid	MAGMA_Drugs_and_Diseases	Ces1d	Cox8a	Cox5a	Cox7c	Cox7b	Fech	Pla2g1b	Adh1	Gpbar1	Esrrg	Cox6a2	Cox7a1	Cox5b-ps	Cox6c	Cox6b1	Fabp6	Cox4i1
+Cholinergic Receptor Agonist	MAGMA_Drugs_and_Diseases	Chrm3	Chrna2	Chrm4	Chrm1	Chrm2	Chrm5	P2ry2
+Chronic Eosinophilic Leukemia CEL	MAGMA_Drugs_and_Diseases	Abcc4	Lyn	Pdgfrb	Abcc2	Pdgfra	Ugt2a1	Runx1	Braf	Clk4	Etv6	Mapk10	Cyp1a2	Nf2	Nf1	Ulk3	Abcg3	Alk	Frk	Ddr2	Abcb4	Ddr1	Ret	Abcb1a	Cyp3a13	Egfr	Bcl2l11	Irak1	Myc	Nqo1	Prkch	Smad3	Yes1	Nqo2	Ntrk1	Smad4	Eya2	Bcr	Lck	Kit	Slco1a8	Xiap	Birc5	Chst1	Taok1	Met	Kras	Cd40lg	Csf1r	Slc22a5	Slc22a4	Flt3	Slc22a1	Ctnnb1	Pdgfb	Ikzf1	Slc2a4	Rcsd1	Abl2	Abl1	Sfn	Cyp2f2	Slc19a1	Jak2
+Chronic Lymphocytic Leukemia CLL	MAGMA_Drugs_and_Diseases	Cyp2a12	Cyp2d10	Cyp3a13	Cyp2c55
+Chronic Myeloid Leukemia CML	MAGMA_Drugs_and_Diseases	Lyn	Camk1d	Map2k2	Src	Map3k2	Map2k1	Tnk2	Txk	Egfr	Hck	Stk4	Stk10	Bcr	Stk24	Cdk2	Sik2	Abl1	Fyn	Sik3	Camk2g	Sik1	Frk	Map4k5
+Chronic Myelomonocytic Leukemia CMMoL	MAGMA_Drugs_and_Diseases	Il11	Smad3	Idh1	Trit1	Mgmt	Atad5	Dnmt3a	Lif	Tet2	Ar	Asxl1	Tg	Aldh1a1	Cd247	Dnmt1	Cda	Nfe2l2	Trp53	Flt3	Gmnn	Tagln	Htt	Gstp1	Afp	Plau	Rorc	Gata2	Nr3c1	Tyms	Thpo	Myc	Abl1	Ggt1
+Chronic Obstructive Pulmonary Disease COPD	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Chronic Renal Failure	MAGMA_Drugs_and_Diseases	Slc12a3	Car12	Ace	Car2	Car1	Car4	Mmp3	Nppa	Slc12a1	Car7	Agt	Car14
+Chronic Stable Angina	MAGMA_Drugs_and_Diseases	Ace	Cacna2d1	Cacna1c	Cacna1b	Cacna1d	Cyp3a13	Agt	Cacna1f	Cacnb2	Nppa	Cacna1s	Cacng1
+Chronic Venous Insufficiency CVI	MAGMA_Drugs_and_Diseases	Kdm4a	Polb	Polk	Ahr	Polh
+Cilostazol	MAGMA_Drugs_and_Diseases	Csf2	Cyp3a13	Vegfa	Tshr	Thbd	Aldh1a1	Cyp2d10	Cyp1a2	Pde3b	Pde3a
+Cimetidine	MAGMA_Drugs_and_Diseases	Abcb1a	Slc47a1	Slc22a2	Cyp3a13	Fcgr4	Hrh2	Cyp2d10	Cyp1a2	Polk	Nos1	Slc29a4
+Cinchocaine	MAGMA_Drugs_and_Diseases	Gmnn	Scn10a	Cyp1a2	Scn5a	Myo9b	Calm1
+Ciprofloxacin	MAGMA_Drugs_and_Diseases	G6pdx	Cyp2d10	Top2a	Cyp1a2	Bax	Cyp3a13	Cyp2e1	Hsd17b10
+Cisplatin	MAGMA_Drugs_and_Diseases	Map3k1	Rars1	Ube2i	G6pdx	Recql	Slc31a1	Acyp2	Lig3	Rev1	Smarca4	Cdc25c	Mycs	Fas	Bax	Mphosph8	Trp53	Raf1	Rb1	Galnt14	Lrp2	Adh1	Hpgd	Aqp9	Galnt18	Aurka	Comt	Egfr	Tyms	Nras	Chek1	E2f1	Myc	Akt1	Acss2	Slc16a5	Idh1	Smad4	Ephx1	Xrcc5	Gadd45a	Mthfr	Xrcc1	Fanca	Fancc	Esr1	Trp73	H2ac25	Gclc	Nat1	Fgfr1	Gnas	Birc7	Cdh17	Dnmt1	Gclm	Fgfr3	Mdm2	Tpmt	Slc22a2	Plau	Xpc	Htr4	Tgm2	Stk11	Rgs4	Anpep	Slc19a1	Abcc4	Abcc2	Abcc3	Hspa8	Cbx1	Lif	Nrg1	Hspa4	Dcbld1	Otos	Vegfa	Il6	Kat2a	Mapt	Pik3ca	Ifng	Nf2	Atm	Bcl2	Top1	Abcc1	Atr	Nfe2l2	Alk	Abcb1a	Nr1i2	Alox15	Prl3d2	Brca1	Brca2	Cyp3a13	Mllt3	Mtr	Krt20	Dram1	Erbb2	Mutyh	Gabpa	Nqo1	Ntrk2	Eif3a	Dffb	Mdh2	Mgmt	Stat1	Rrm1	Csnk2a1	Ercc1	Rad52	Aldh1a1	Ercc4	Ercc2	Xiap	Apex1	Ddit3	Ercc6	Fxn	Polr1g	Kras	Cyp2e1	Cmpk1	Src	Grp	Gstp1	Hexb	Ehmt2	Hsd17b10	Ppp1r13l	Cxcr4	Atp7b	Rev3l
+Citalopram	MAGMA_Drugs_and_Diseases	Il11	Col26a1	Bdnf	Htr1b	Dtnbp1	Creb1	Reep5	Fkbp5	Srp19	Gria3	Abcb1a	Chrm1	Gldc	Gsk3b	Tph2	Tph1	Papln	Serpine1	Cacna1c	Nedd4l	Ehmt2	Htr2a	Cyp3a13	Slc6a2	Rora	Slc6a3	Adra1a	Crhr2	Slc6a4	Mettl21a	Hrh1	Erich3	Grk5	Cyp2d10	Rfk	Tspan5
+Cladribine	MAGMA_Drugs_and_Diseases	Tgfb1	Yes1	Rrm2	Diablo	Cdkn1a	Rrm1	Dck	Pnp2	Pola1	Nt5c1a	Pole	Il2ra	Pole2	Rrm2b	Pole3	Xiap	Pole4	Ada	Nfe2l2	Trp53	Bcl2l2
+Clarithromycin	MAGMA_Drugs_and_Diseases	Abcb1a	Il10	Cyp3a13	Itgam	Cyp2d10	Cyp1a2	F2rl1	Nos1	Xdh
+Claudication	MAGMA_Drugs_and_Diseases	Csf2	Cyp3a13	Vegfa	Tshr	Thbd	Aldh1a1	Cyp2d10	Cyp1a2	Pde3b	Pde3a
+Clemastine	MAGMA_Drugs_and_Diseases	P2rx7	Hrh1	Thpo	Cyp2d10	Cyp1a2	Cyp3a13	Trp53
+Cleviprex	MAGMA_Drugs_and_Diseases	Cacna1c	Cacna1s	Cacna1b	Cacng1	Cacna1d	Cacna1f
+Clofarabine	MAGMA_Drugs_and_Diseases	Ar	Pola1	Pole	Rrm2	Flt3	Pold1	Rrm1	Rrm2b	Apbb1
+Clofibrate	MAGMA_Drugs_and_Diseases	Jun	Ppara	Cyp4f14	Lpl	Slc2a4	Cyp3a13	Slco1b2	Scd2	Cyp2d10	Cfl1	Cyp1a2	Cdk1	Trp53	Fabp1
+Clomethiazole	MAGMA_Drugs_and_Diseases	Gabra1	Cyp2d10	Cyp1a2	Ehmt2	Gabrg3
+Clomipramine	MAGMA_Drugs_and_Diseases	Abcb1a	Gstp1	Htr1b	Htr2c	Htr2a	Cyp3a13	Htr2b	Slc6a2	Slc6a3	Slc6a4	Cyp2d10	Cyp1a2	Scn5a	Drd1	Fkbp5	Ppard	Trp53
+Clonidine	MAGMA_Drugs_and_Diseases	Aoc3	Slc22a1	Prl3d2	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Cyp2d10	Gnb3
+Clopidogrel	MAGMA_Drugs_and_Diseases	Ces1d	N6amt1	Abcb1a	B4galt2	P2ry12	Nos3	Cyp4f14	Itga2	Itgb3	Cyp3a13	Pear1	Ptgs1	Cyp2d10	Cyp1a2
+Cloprostenol	MAGMA_Drugs_and_Diseases	Ptgfr	Ptger1	Tbxa2r	Ptger3	Ptgdr
+Clorotepine	MAGMA_Drugs_and_Diseases	Atxn2	Hrh1	Cbx1	Htr2c	Drd1	Adra1d	Drd2	Adra1b	Htr6	Adra1a
+Clotrimazole	MAGMA_Drugs_and_Diseases	Kdm4a	Hsp90aa1	Jun	Avpr2	Cbx1	Tshr	Ar	Cyp1a2	Cdk1	Ppard	Rapgef4	Trp53	Gmnn	Nr1i2	Glp1r	Nr1i3	Adrb2	Baz2b	Cyp3a13	Hif1a	Trpm2	Atxn2	Cxcr2	Thpo	Cyp2d10	Cfl1	Mapk1	Trpm8	Kcnn4	Cyth2	Trpm4	Kcnh2	Npsr1
+Clozapine	MAGMA_Drugs_and_Diseases	Epm2a	Gstm6	Htr1f	Cbx1	Htr1b	Dtnbp1	Gcg	Htr1a	Htr5a	Il2	Rabep1	Caly	Lep	Cyp1a2	Ankk1	Fkbp5	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Itih3	Chrm5	Slc1a1	Glp1r	Htr2c	Prl3d2	Htr2a	Adra1d	Cyp3a13	Htr2b	Adra1b	Comt	Adra1a	Nt5e	Hrh1	Hrh4	Cyp2d10	Sh2b1	Drd1	Drd2	Drd3	Drd4	Drd5	Ntrk2	Jund	H2-Eb2	Ugt1a1	2410137M14Rik	Mthfr	Adra2c	Htr3a	Adra2b	Adra2a	Tbc1d1	Cckbr	Fasn	Gdnf	Faah	Src	Htr6	Slc6a3	Slc6a4	C3	Pik3cg	Grin2b	Htr7	Cnr1	Mc4r	Kcnj3	Poli
+Cobicistat	MAGMA_Drugs_and_Diseases	Cyp3a13	Ch25h
+Cobimetinib	MAGMA_Drugs_and_Diseases	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Araf	Braf	Nras	Pik3ca	Nf1	Kras	Map2k6	Map2k7	Raf1
+Colchicine	MAGMA_Drugs_and_Diseases	Tub	Jun	Bdnf	Tubb5	Nrg1	Il18	Tubb2a	Tuba4a	Scd2	Tubb2b	Pax8	Cyp1a2	Rara	Nfe2l2	Abcb1a	Tubb1	Cyp3a13	Tuba3b	Tubb6	Cyp2d10	Map2	Ntf3	Tubb3	Brd4	Crebbp	Atad5	Gfap	Tubb4b	Tubb4a	Ar	Itgb2l	Gmnn	Sri	Slc2a4	Rorc	Tuba1a	Pik3cg	Glra1	Glra2	Tuba1c	Tuba1b	Anpep
+Colitis	MAGMA_Drugs_and_Diseases	Crebbp	Pde4d	Cbx1	Ehmt2	Plau	Adra1d	Cyp3a13	Pde10a	Thpo	Cyp2d10	Pde4b	Xdh	Pde5a	Nfe2l2
+Collagenase Inhibitor	MAGMA_Drugs_and_Diseases	Smad3	Col1a1	Wt1	Eprs1	Mmp2	Tnf	Il2	Ptp4a1
+Colorectal Cancer	MAGMA_Drugs_and_Diseases	Wnt5b	Dkk1	Rbx1	Cdc25c	Apc	Fas	Abcg1	Bax	Abcg3	Trp53	Tymp	Ccnk	Galnt14	Pon1	Aurka	Cblb	Egfr	Tyms	Foxo1	Myb	Ccnd1	E2f1	Perp	Cyp1b1	Insr	Smad4	Xrcc3	Igfbp3	Xrcc4	Mthfr	Xrcc1	2410137M14Rik	Sele	Cyp2a12	Dlg5	Aldh3a1	Birc5	Gnas	Fgfr4	Irs1	Cyp19a1	Rgs5	Alcam	Fpgs	Tmem167	Il6ra	Slc19a1	Abcc4	Il11	Abcc5	Abcc2	Hspa5	Bdnf	Braf	Ppp2r5d	Gnl3	Pard3b	Vegfa	Nt5c1a	Ptprc	Pik3ca	Dpyd	Atm	Umps	Abcb1a	Dtymk	Megf11	Shmt1	Top2a	Hmmr	Cyp3a13	Pik3r2	Klc1	Slco1b2	Slc22a16	Erbb2	Cbr3	Nqo1	Cbr1	Nos3	Ercc1	Il2ra	Met	Kras	Cyp2e1	Lgr5	Cdkn1a	Dpys	Gstp1	Itgal	Exo1	Chn2	Nos1	Rev3l	Tshb
+Congenital Adrenal Hyperplasia	MAGMA_Drugs_and_Diseases	Anxa1	Gstm6	Vwf	Bmp7	Ar	Cxcl12	Ptprc	Tg	Dok5	Ifng	Cyp1a2	Itgb2l	Abcb1a	Calca	Tpmt	Gstp1	Cyp3a13	Gata3	Nr3c1	Tyms	Hsd17b10	Mc2r	Cyp2d10	Drosha	Apoe	Ctla4	Mbp	Hsd11b1
+Congenital Heart Defects	MAGMA_Drugs_and_Diseases	Catsper2	Catsper1	Catsper4	Catsper3	Ptger1	Ptger2	Ptgir	Ptger4	Cyp3a13	Tbxa2r	Cyp2d10	Cyp1a2	Ptgdr
+Congestive Heart Failure	MAGMA_Drugs_and_Diseases	Kcnj5	Trpc7	Aoc1l1	Cyp4a30b	Scnn1a	Ehmt2	Pkd2l1	Plau	Trpv2	Pkd2	Hsd17b10	Slc9a1	Scnn1g	Slc9a5	Scnn1b	Asic3	Asic1	Asic2
+Conjunctivitis	MAGMA_Drugs_and_Diseases	Hsp90aa1	Gaa	Pde4d	Fgf1	Npc1	Egfr	Il3	Ar	Pkm	Tbk1	Pde4c	Rab9	Pde4b	S100a13	Pde4a	Ikbke	Nfe2l2
+Constitutive Androstane Receptor CAR Agonist	MAGMA_Drugs_and_Diseases	Hrh1	Hpn	Cyp2d10	Nr1i3	Cyp1a2
+Contact Dermatitis	MAGMA_Drugs_and_Diseases	Ar	Anxa1	Pla2g1b	Nr3c1	Nfe2l2
+Copanlisib	MAGMA_Drugs_and_Diseases	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Mtor	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Erbb2	Kras	Pik3c3
+Coronary Artery Disease CAD	MAGMA_Drugs_and_Diseases	Ace	Cacna2d1	Cacna1c	Cacna1b	Cacna1d	Cyp3a13	Agt	Cacna1f	Cacnb2	Nppa	Cacna1s	Cacng1
+Coronary Heart Disease	MAGMA_Drugs_and_Diseases	Atad5	Thpo	Cyp3a13	Slc29a1	Nfe2l2
+Cortisone	MAGMA_Drugs_and_Diseases	Kcna1	Pla2g2a	Hexb	Ppy	Nr3c1
+Cough Suppressant	MAGMA_Drugs_and_Diseases	Sigmar1	Chrnb2	Chrnb4	Oprk1	Cybb	Oprm1	Cyba	Grin2c	Pgrmc1	Grin3a	Ercc6	Ncf1	Chrna2	Abcb1a	Chrna4	Chrna3	Oprd1	Ncf2	Ncf4	Chrna7	Cyp3a13	Slc6a2	Slc6a4	Cyp2d10	Rac1	Rac2
+Coumarin	MAGMA_Drugs_and_Diseases	Ctsb	Car12	Cyp3a13	Plg	Car2	F9	Car1	Cyp2a12	Car4	Bglap2	Car6	Cyp2d10	Cyp1a2	Car9	Nfe2l2	Car14
+Cridanimod	MAGMA_Drugs_and_Diseases	Ar	Jun	Gmnn	Pgr	Hspb1
+Crisaborole	MAGMA_Drugs_and_Diseases	Pde1a	Pde4d	Pde4c	Pde4b	Pde4a	Pde7a
+Crizotinib	MAGMA_Drugs_and_Diseases	Abcb1a	Src	Ntrk1	Smad4	Ptpn12	Braf	Areg	Egfr	Etv6	Eml4	Erbb2	Fgfr1	Met	Abl1	Kras	Ros1	Trp53	Alk
+Crohns Disease	MAGMA_Drugs_and_Diseases	Crhr1	Edn1	Nr1i2	Cyp2d10	Cyp1a2	Glcci1	Cyp3a13	Pgr	Nr3c2	Nr3c1
+Cushings Syndrome	MAGMA_Drugs_and_Diseases	Tg	Cyp11a1	Tff3	Cyp1b1	Ggt1	Cyp19a1	Gnrh1
+Cutaneous Candidiasis	MAGMA_Drugs_and_Diseases	Trpm2	Nr1i2	Npy2r	Trpv5	Npy1r
+Cutaneous Mast Cell Tumors	MAGMA_Drugs_and_Diseases	Pdgfrb	Flt1	Pdgfra	Flt3	Kdr
+Cutaneous T Cell Lymphoma CTCL	MAGMA_Drugs_and_Diseases	Rxra	Blm	Kat2a	Mapk8	Rxrb	Nr1i2	Nr1h3	Pparg	Usp1	Rxrg
+Cyclitis	MAGMA_Drugs_and_Diseases	Anxa1	Tspyl1	G6pdx	Ar	Tg	Alpi	Bax	Nfe2l2	Pnpla3	Rb1	Abcb1a	Notch1	Tat	Lcat	Cyp3a13	Plg	Nr3c2	Nr3c1	Serpina6	Fcgr4	Dse	Bglap2	Cd34
+Cyclobenzaprine	MAGMA_Drugs_and_Diseases	Cyp2d10	Drd1	Htr2a	Cyp3a13	Adra2c
+Cyclophosphamide	MAGMA_Drugs_and_Diseases	Cyp2a12	Cyp2d10	Cyp3a13	Cyp2c55
+Cycloplegia	MAGMA_Drugs_and_Diseases	Ar	Chrm3	Cxcl10	Chrm4	Chrm1	Chrm2	F2r	Chrm5	Cyp3a13	Cyp19a1	Adra2a	Guca2a
+Cyclosporin A	MAGMA_Drugs_and_Diseases	Ppp3ca	Slco1b2	Ppia	Ppp3r2	Abcb11	Slc10a1	Caml	Fpr1	Ppif
+Cyclothiazide	MAGMA_Drugs_and_Diseases	Gria2	Slc12a3	Gria3	Car2	Gria1	Fxyd2	Recql	Gria4
+Cyclovalone	MAGMA_Drugs_and_Diseases	Kdm4a	Idh1	Vdr	Atxn2	Gmnn	Ehmt2	Nod2	Abcg3
+Cyproheptadine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm1	Chrm2	Htr2c	Htr2a	Adra1d	Adra1b	Htr6	Adra1a	Htr7	Hrh1	Cyp2d10	Drd1
+Cystic Hydatid Disease	MAGMA_Drugs_and_Diseases	Gmnn	Atad5	Tubb5	Cyp1a2	Tuba1a	Tubb4b	Hspb1	Cyp2j13
+Cytarabine	MAGMA_Drugs_and_Diseases	Abcc4	Ncoa3	Rrm2	P2ry12	Rrm1	Runx1	Dck	Hspa4	Bmp7	Pola1	Sult2b1	Wt1	Nt5c3	Dok5	Kit	Rrm2b	Cyp1a2	Cyp2e1	Cda	Trp53	Abcb1a	Flt3	Kmt2a	Gstp1	Ehmt2	Ikzf1	Cyp3a13	Gata3	Tyms	Gata1	Med12l	Nt5c2	Slco1b2	Polb	Pole	Pold1	Cyp2d10	Drosha	Slc22a12
+Cytisine	MAGMA_Drugs_and_Diseases	Chrna2	Chrnb2	Chrna4	Chrna3	Chrnb4	Chrna6	Chrna7
+Cytokine Production Inhibitor	MAGMA_Drugs_and_Diseases	Fen1	Rgs4	Pla2g1b	Atad5	Polk	Ehmt2	Usp1	Drd1	Mtor	Poli
+DNA Alkylating Agent	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+DNA Inhibitor	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+DNA Methyltransferase Inhibitor	MAGMA_Drugs_and_Diseases	Il11	Smad3	Idh1	Trit1	Mgmt	Atad5	Dnmt3a	Lif	Tet2	Ar	Asxl1	Tg	Aldh1a1	Cd247	Dnmt1	Cda	Nfe2l2	Trp53	Flt3	Gmnn	Tagln	Htt	Gstp1	Afp	Plau	Rorc	Gata2	Nr3c1	Tyms	Thpo	Myc	Abl1	Ggt1
+DNA Polymerase Inhibitor	MAGMA_Drugs_and_Diseases	Pnp2	Slc15a1	Il10	Dntt	Recql	Abl1
+DNA Replication Inhibitor	MAGMA_Drugs_and_Diseases	Fzd1	Idh1	Stat3	Npc1	Mtor	Tshr	Pkm	Apc	Mapt	Cyp1a2	Rab9	Gnas	Nfe2l2	Trp53	Gmnn	Npy4r	Ehmt2	Ahr	Cyp3a13	Hif1a	Kcnt1	Rxra	Atxn2	Thpo	Cyp2d10	Smn1
+DNA Synthesis Inhibitor	MAGMA_Drugs_and_Diseases	Cyp2a12	Aldh1a1	Nr1i2	Atp2a1	Cyp3a13	Tardbp
+DOPA Decarboxylase Inhibitor	MAGMA_Drugs_and_Diseases	Vdr	Ddc	Rgs4	Cbx1	Ehmt2
+Dabigatran	MAGMA_Drugs_and_Diseases	Ces1d	Nqo2	Abcb1a	Adk	Hyou1	Hnrnpc	F2	Cyp3a13	Hnmt
+Dabrafenib	MAGMA_Drugs_and_Diseases	Map2k2	G6pdx	Limk1	Map2k1	Mitf	Braf	Egfr	Atxn1l	Nras	Stag2	Pik3ca	Akt1	Nek11	Nf1	Hras	Rac1	Kras	Sik1	Ezh2	Trp53	H2-Eb2	Raf1
+Dacarbazine	MAGMA_Drugs_and_Diseases	Gstm6	Mgmt	Adk	Plau	Cyp3a13	Pgd	Pola2	Cyp2d10	Cyp1a2	Bax	Cyp1a1
+Dactinomycin	MAGMA_Drugs_and_Diseases	Vdr	Thrb	Htt	Alox15	Ehmt2	Recql	Cyp3a13	Rorc	Esr1	Nr3c1	Ar	Rxra	Polr2a	Cyp2d10	Apex1	Cyp1a2	Ppard
+Dalfampridine	MAGMA_Drugs_and_Diseases	Kcnf1	Kcnh3	Kcnj5	Kcnh4	Kcnd1	Kcnh5	Kcnd2	Kcnh6	Kcnb1	Kcnd3	Kcnh7	Kcnh8	Kcnj13	Kcns1	Kcns2	Kcnq1	Kcns3	Kcnq2	Kcnq3	Erg	Kcnq4	Kcna10	Kcnq5	Kcng1	Kcng2	Kcng3	Kcng4	Kcnc1	Kcnc2	Calca	Kcna1	Kcnc3	Kcna2	Kcnc4	Kcna3	Slc22a2	Kcna4	Kcna5	Kcna6	Kcna7	Kcnv1	Kcnv2	Cyp2d10	Kcnh1	Kcnh2
+Danazol	MAGMA_Drugs_and_Diseases	Cyp3a13	Plg	Cp	Esr1	Ar	Sts	Cyp2d10	Cyp1a2	Gnrhr	Pgr	Mbl2	Cyp2j13
+Dandruff	MAGMA_Drugs_and_Diseases	Ar	Kdm4a	Hsp90aa1	Gmnn	Atad5	Htt	Oprk1	Ehmt2	Trp53
+Dantrolene	MAGMA_Drugs_and_Diseases	Ryr2	Ryr3	Ryr1	Mapt	Cyp2d10	Cyp1a2	Cyp3a13
+Dapoxetine	MAGMA_Drugs_and_Diseases	Cyp2d10	Htr1b	Htr2c	Htr1a	Slc6a4
+Dapsone	MAGMA_Drugs_and_Diseases	Cyb5r3	G6pdx	Cyp2d10	Cyp1a2	2410137M14Rik	Cyp3a13	Gnrh1	Dhfr	H2-Eb2
+Darifenacin	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10
+Dasatinib	MAGMA_Drugs_and_Diseases	Acvr1	Lyn	Pdgfrb	Pdgfra	Limk1	Irak4	Braf	Cdc42bpa	Mapk14	Tec	Fes	Apc	Axl	Pik3ca	Abi1	Nf1	Sik2	Sik3	Epha2	Sik1	Abcg3	Trp53	Frk	Ddr2	Csf3r	Egfr	Aurkb	Crkl	Slk	Erbb4	Erbb2	Kdr	Map3k20	Smad3	Stat5b	Yes1	Idh1	Plk4	Map2k2	Srms	Map2k1	Syk	Idh2	Tnk2	Mink1	Arid1a	Ptk6	Hck	Ar	Bcr	Fgr	Lck	Kit	Fgfr1	Map3k10	Btk	Taok1	Met	Kras	Pkn2	Fgfr3	Ppard	Csf1r	Blk	Src	Dyrk3	Gmnn	Cbl	Abl2	Hras	Abl1	Fyn	Jak2	Map4k5
+Daunorubicin	MAGMA_Drugs_and_Diseases	G6pdx	Dnmt3a	Runx1	Recql	Rpsa	Bmp7	Wt1	Dok5	Mapt	Fas	Cyp1a1	Slc28a3	Top1	Abcc1	Abcg3	Trp53	App	Top2b	Abcb1a	Top2a	Tyms	Slco1b2	Drosha	Usp1	Cbr3	Cbr1	Nos3	Dck	Fmo3	Ar	Apex1	Pnpla3	Hdac5	Hdac6	Nrp2	Hdac3	Blm	Hdac4	Setd4	Flt3	Hdac1	Hdac11	Thrb	Cbfb	Hdac10	Hdac2	Kmt2a	Rarg	Htt	Gstp1	Ehmt2	Ikzf1	Gata3	Hdac9	Gata1	Hdac7	Hdac8	Polk	Ugt1a6a	Atp7b
+Debrisoquin	MAGMA_Drugs_and_Diseases	Adra1d	Slc6a2	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Decitabine	MAGMA_Drugs_and_Diseases	Asxl1	Idh1	Gmnn	Il2ra	Dnmt3a	Gstp1	Tet2	Kras	Dnmt1	Egfr	Trp53
+Deep Vein Thrombosis DVT	MAGMA_Drugs_and_Diseases	Abcb1a	Vkorc1	Cyp4f14	Ggcx	Calu	Apoe
+Deferasirox	MAGMA_Drugs_and_Diseases	Ar	Abcc2	Cyp27b1	Vdr	Cyp24a1	Cyp1a2	Cyp1a1	Cyp3a13	Gc	Ugt1a2	Abcg3
+Deferiprone	MAGMA_Drugs_and_Diseases	Kdm4a	Ugt1a6a	Ehmt2	Baz2b
+Dehydroepiandrosterone	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	G6pdx	Gabra6	Gabra5	Gabra4	Grin2d	Grin2c	Grin1	Il2	Grin3a	Grin3b	Th	Pik3cb	Pik3ca	Bax	Tardbp	Abcg3	Gabrb3	Gabrb2	Gabrb1	Nr1i2	Nr1i3	Cyp3a13	Sult2a1	Hsd17b1	Ccn2	Sigmar1	Ppara	Gabrg1	Esr1	Gfap	Esr2	Gabrg3	Gabrg2	Ar	Gal	Sult2b1	Birc5	Irs1	Slc2a4	Grin2b	Grin2a	Mapk3	Nos1	Gabre	Gabrd
+Dehydrogenase Inhibitor	MAGMA_Drugs_and_Diseases	Abcc4	Idh1	Gstm6	Atad5	Impdh1	Cyp1a2	Itpa	Hprt1	Nfe2l2	Trp53	H2-Eb2	Fto	Pth	Tpmt	Cyp3a13	Tyms	Ddrgk1	Cyp2d10	Ppat	Aox1	Nudt15	Tshb
+Delavirdine	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	Abcc3	Cyp3a13	Abcc1	Abcg3
+Depression	MAGMA_Drugs_and_Diseases	Abcb1a	Mtnr1b	Mtnr1a	Htr2c	Htr2a	Htr2b
+Dequalinium	MAGMA_Drugs_and_Diseases	Fen1	Rgs4	Cyp2d10	Cnga2	Kcnn1	Kcnn2	Kcnn3	Cyp3a13	Hif1a	Mtor	Hsd17b10	Cnga1
+Dermatitis	MAGMA_Drugs_and_Diseases	Pde1a	Pde4d	Pde4c	Pde4b	Pde4a	Pde7a
+Dermatitis Herpetiformis DH	MAGMA_Drugs_and_Diseases	Cyb5r3	G6pdx	Cyp2d10	Cyp1a2	2410137M14Rik	Cyp3a13	Gnrh1	Dhfr	H2-Eb2
+Dermatofibrosarcoma Protuberans DFSP	MAGMA_Drugs_and_Diseases	Abcc4	Lyn	Pdgfrb	Abcc2	Pdgfra	Ugt2a1	Runx1	Braf	Clk4	Etv6	Mapk10	Cyp1a2	Nf2	Nf1	Ulk3	Abcg3	Alk	Frk	Ddr2	Abcb4	Ddr1	Ret	Abcb1a	Cyp3a13	Egfr	Bcl2l11	Irak1	Myc	Nqo1	Prkch	Smad3	Yes1	Nqo2	Ntrk1	Smad4	Eya2	Bcr	Lck	Kit	Slco1a8	Xiap	Birc5	Chst1	Taok1	Met	Kras	Cd40lg	Csf1r	Slc22a5	Slc22a4	Flt3	Slc22a1	Ctnnb1	Pdgfb	Ikzf1	Slc2a4	Rcsd1	Abl2	Abl1	Sfn	Cyp2f2	Slc19a1	Jak2
+Dermatomyositis	MAGMA_Drugs_and_Diseases	Anxa1	Gstm6	Vwf	Bmp7	Ar	Cxcl12	Ptprc	Tg	Dok5	Ifng	Cyp1a2	Itgb2l	Abcb1a	Calca	Tpmt	Gstp1	Cyp3a13	Gata3	Nr3c1	Tyms	Hsd17b10	Mc2r	Cyp2d10	Drosha	Apoe	Ctla4	Mbp	Hsd11b1
+Dermatosis	MAGMA_Drugs_and_Diseases	Hrh1	Cyp2d10	Cyp1a2	Cyp3a13	Kcnh2
+Desipramine	MAGMA_Drugs_and_Diseases	Arsa	Bdnf	Htr1a	Adra2c	Adra2b	Adra2a	Mc1r	Cyp1a2	Slc29a4	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Chrm5	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Cyp3a13	Slc6a2	Adra1b	Adra1a	Slc6a4	Hrh1	Thpo	Cyp2d10	Smpd1	Drd2
+Deslanoside	MAGMA_Drugs_and_Diseases	Ar	Fxyd2	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Atp1a1	Atp1b2	Atp1b1
+Desoximetasone	MAGMA_Drugs_and_Diseases	Ar	Anxa1	Pla2g1b	Hif1a	Nr3c1	Nfe2l2
+Desvenlafaxine	MAGMA_Drugs_and_Diseases	Cyp2d10	Htt	Nat1	Slc6a2	Slc6a3	Slc6a4
+Dexamethasone	MAGMA_Drugs_and_Diseases	Anxa1	Vdr	Chka	Hspa8	Tsc22d3	Lif	Nrg1	Vcam1	Bmp7	Tgfbr3	Nr5a1	Tg	Krt19	Cdk6	Crispld2	Dok5	Cdk4	Soat1	Cdk2	Cyp1a2	Agtr1b	Dpep1	Rara	Thrsp	Nfe2l2	Cd86	Rb1	Rela	Ret	Abcb1a	Nr1i2	Mug1	Serpine1	Pth1r	Cyp3a13	Gls	Ubr1	Tyms	Cyp2d10	Ctla4	S100a10	Tead1	Sds	Smad3	Igfbp1	Ntrk1	Ugt1a1	Nr0b1	Cartpt	Ar	Tjp1	F9	Birc5	Sag	Sftpa1	Cdh17	Folr1	Fabp1	Notch1	Irs2	Ctnnb1	Gstp1	Chat	Pygl	Slc2a4	Actc1	Gata3	Nr3c2	Nr3c1	Nppc	Htr7	Hyal2	Rps19	Sis	Tdo2	Nos2	Junb	Ggt1	Ccl17	Apob
+Dexmedetomidine	MAGMA_Drugs_and_Diseases	Cyp1a2	Prkcb	Cyp3a13	Adra2c	Adra2b	Adra2a
+Dexrazoxane	MAGMA_Drugs_and_Diseases	Top2b	Abcb1a	Mapk8	Dpys	Top2a	Cp
+Dextromethorphan	MAGMA_Drugs_and_Diseases	Sigmar1	Chrnb2	Chrnb4	Oprk1	Cybb	Oprm1	Cyba	Grin2c	Pgrmc1	Grin3a	Ercc6	Ncf1	Chrna2	Abcb1a	Chrna4	Chrna3	Oprd1	Ncf2	Ncf4	Chrna7	Cyp3a13	Slc6a2	Slc6a4	Cyp2d10	Rac1	Rac2
+Diabetes Mellitus	MAGMA_Drugs_and_Diseases	Mgam	Sis	Lpl	Gaa	Mga	Slc2a4
+Diabetic Nephropathy	MAGMA_Drugs_and_Diseases	Ace	Mmp2	Serpine1	Ehmt2	Mmp9	Myo9b	Cyp19a1	Dpp4	Pik3cg	Ace2	Mmp12	Sst	Agtr1b	Lta4h	Nos2	Gnrh1
+Diacerein	MAGMA_Drugs_and_Diseases	Il1b	Il1rn	Hsp90aa1	Eya2	Hsp90ab1	Casp3	Ehmt2	Casp1	Nfe2l2
+Diarrhea	MAGMA_Drugs_and_Diseases	Ikbkb	Jun	Ccnd1	Txnrd1	Akt1	Mapk3	Mapk1
+Diazoxide	MAGMA_Drugs_and_Diseases	Slc12a3	Snap25	Kcnj11	Kcnj8	Calca	Lpl	Ehmt2	Cck	Cyp7b1	Atp1a1	Nt5e	Car2	Car1	Cyp2d10	Kcnma1	Cyp1a2	Nos2
+Diclofenac	MAGMA_Drugs_and_Diseases	Gdf15	Pla2g2a	Pla2g4a	Alb	Kcnq2	Kcnq3	Cyp1a2	Ddit3	Pparg	Scn4a	Ugt1a10	Tnfrsf11a	Prl3d2	Mpo	Cyp3a13	Ptgs1	Ptgs2	Trpm3	Anpep	Cyp2d10	Alox5	Ugt1a6a	Plcg1	Asic3	Ggt1	Asic1	Ccl17	Cyp2j13
+Diclofenamide	MAGMA_Drugs_and_Diseases	Car12	Car2	Car1	Car4	Car7
+Dicoumarol	MAGMA_Drugs_and_Diseases	Cryz	Nqo1	Vkorc1	Aldh1a1	Gstm6	Cdkn1a	Nfe2l2
+Dicycloverine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Cyp2d10	Cyp1a2	Ehmt2	Drd1	Cyp3a13
+Didanosine	MAGMA_Drugs_and_Diseases	Bdnf	Tnf	Cyp3a13	Nt5c2	Tnfrsf1b	Ar	Pnp2	Il2ra	Cyp2d10	Cyp1a2	Xdh
+Dienestrol	MAGMA_Drugs_and_Diseases	Gmnn	Alox15	Adrb2	Cyp3a13	Esr1	Alox8	Nfe2l2
+Diflunisal	MAGMA_Drugs_and_Diseases	Hsd17b10	Nfe2l2	Ptgs1	Dhfr	Ptgs2
+Digitoxin	MAGMA_Drugs_and_Diseases	Smad3	Top2b	Idh1	Gmnn	Atad5	Stat3	Top2a	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Atp1a1	Atp1b2	Atp1b1	Nr3c1	Ar	Fxyd2	Nfe2l2
+Digoxin	MAGMA_Drugs_and_Diseases	Idh1	Nos3	Atad5	Stat3	Atp1b3	Atp1b2	Atp1b1	Ar	Pax8	Slco4c1	Fxyd2	Cyp1a2	Vip	Nfe2l2	Abcb1a	Gmnn	Adrb1	Atp1a4	Adrb2	Atp1a3	Tnf	Atp1a2	Cyp3a13	Rorc	Atp1a1	Nr3c1	Cst10	Rgs4	Cyp2d10	Ccn2	Tac1	Tshb
+Dihydroergocristine	MAGMA_Drugs_and_Diseases	Adrb1	Htr2a	Htr1a	Adra2c	Htr3a	Htr6	Adra1a	Htr4	Htr5a	Ar	Htr7	Mapt	Drd1	Drd2	Drd3	Drd4	Drd5
+Dihydroergotamine	MAGMA_Drugs_and_Diseases	Htr7	Htr1f	Mapt	Htr1b	Drd1	Drd2	Htr2b	Adra2a
+Dihydroorotate Dehydrogenase Inhibitor	MAGMA_Drugs_and_Diseases	Mmp1a	Atad5	Htt	Ahr	Cyp3a13	Esr1	Dhodh	Cyp1a2	Ptk2b	Rab9	Smn1	Nfe2l2
+Dihydropteroate Synthetase Inhibitor	MAGMA_Drugs_and_Diseases	Cyp2d10	Dhps	Cyp1a2	Cyp3a13	Nfkb1	Hsd17b10
+Dilazep	MAGMA_Drugs_and_Diseases	Atad5	Thpo	Cyp3a13	Slc29a1	Nfe2l2
+Diltiazem	MAGMA_Drugs_and_Diseases	Abcb1a	Cacna2d1	Cacna1c	Kcna5	Cyp3a13	Htr3a	Cyp2d10	Cacna1s	Cyp1a2	Cacng1	Plcd3
+Dinoprost	MAGMA_Drugs_and_Diseases	Ptgfr	Ptgdr2	Ptger1	Tbxa2r	Ptger2	Ptger3	Ptger4	Ptgdr
+Diosmin	MAGMA_Drugs_and_Diseases	Kdm4a	Polb	Polk	Ahr	Polh
+Diphenhydramine	MAGMA_Drugs_and_Diseases	Hrh1	Cyp2d10	Cyp1a2	Cyp3a13	Hnmt
+Diphenidol	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Cyp2d10
+Diphtheria	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	G6pdx	Nr1i2	Plk1	Cyp3a13	Il17a	Il1b	Cyp2d10	Cyp1a2	F2rl1	Bax	Bcl2	Xdh	Abcc1	Kcnh2
+Dipyridamole	MAGMA_Drugs_and_Diseases	Hsp90aa1	Pde6h	Pde6g	Kat2a	Pde3b	Atm	Pde3a	Rapgef3	Pde7b	Abcc1	Ada	Pde7a	Rapgef4	Abcb1a	Brca1	Cyp3a13	Cyp2d10	Pde4c	Pde4b	Usp1	Drd1	Pde4a	Pde8b	Pde8a	Plk1	Atad5	Pde4d	Alox8	Tshr	Pde10a	Pde5a	Slc29a1	Slc29a4	Pde9a	Tsg101	Gmnn	Hsp90ab1	Thrb	Pde1c	Pde1b	Pde1a	Ehmt2	Slc2a4	Hsd17b10	Pde2a	Pde6d	Pde6c	Pde6b	Pde6a
+Disopyramide	MAGMA_Drugs_and_Diseases	Chrm3	Chrm1	Chrm2	Kcnd2	Kcnd3	Cyp2d10	Scn5a	Kcnh2
+Disulfiram	MAGMA_Drugs_and_Diseases	Kdm4a	Vdr	Hsp90aa1	Plk1	Atad5	Cbx1	Mthfr	Runx1	Gfap	Mtor	Nfkb1	Ar	Aldh3a2	Aldh1a1	Aldh3a1	Cyp1a2	Agtr1b	Ankk1	Mphosph8	Nfe2l2	Ppard	Abcb1a	Gmnn	Cbfb	Hpgd	Dbh	Ehmt2	Adrb2	Cyp3a13	Slc6a3	Hsd17b10	Rgs4	Aldh2	Thpo	Tspo	Drd2	Ggt1
+Diuretic	MAGMA_Drugs_and_Diseases	Slc12a3	Car2	Car1	Car4	Hmgcs2	Kcnma1
+Dizziness	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Cyp3a13	Drd2	Htr1a	Htr2b	Drd3	Adra2c	Drd4	Adra1a	Adra2a
+Docetaxel	MAGMA_Drugs_and_Diseases	Nr1i2	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Map4	Mapt	Map2	Tubb3	Bcl2
+Dolasetron	MAGMA_Drugs_and_Diseases	Nos1ap	Kcnq1	Htr3b	Cyp3a13	Htr3a
+Dolutegravir	MAGMA_Drugs_and_Diseases	Pou2f2	Nr1i2	Ugt1a1	Cyp3a13	Abcg3
+Domperidone	MAGMA_Drugs_and_Diseases	Abcb1a	Atad5	Cyp2d10	Drd2	Drd3	Kcnh2
+Donepezil	MAGMA_Drugs_and_Diseases	Ache	Bche	Bdnf	Cyp2d10	Chrna7	Chat	Cyp3a13
+Dopamine	MAGMA_Drugs_and_Diseases	Recql	Htr1a	Adra2c	Adra2b	Adra2a	Apex1	Mphosph8	Nfe2l2	Trp53	Fen1	Dbh	Adrb1	Ehmt2	Adra1d	Hif1a	Slc6a2	Adra1b	Slc6a3	Adra1a	Hsd17b10	Slc6a4	Htr7	Drd1	Drd2	Drd3	Drd4	Drd5
+Dopamine Precursor	MAGMA_Drugs_and_Diseases	Kdm4a	Il15	Bdnf	Homer1	Cbx1	Mthfr	Recql	Trpv1	Gpr143	Dlg4	Apex1	Agtr1b	Bax	Mphosph8	Ada	Fen1	Blm	Slc22a1	Maob	Dbh	Ehmt2	Comt	Slc6a3	Hsd17b10	Nr4a1	Wrn	Polk	Drd1	Mapk1	Drd2	Drd3	Drd4	Drd5	Poli	Polh
+Dopamine Receptor Agonist	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra2c	Adra2b	Adra2a	Htr5a	Caly	Drd1	Drd2	Drd3	Drd4	Drd5
+Dopamine Receptor Antagonist	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Drd1	Htr2a	Drd2	Htr1a	Adra1b	Adra1a
+Dopamine Receptor Partial Agonist	MAGMA_Drugs_and_Diseases	Htr7	Cyp2d10	Htr2a	Drd2	Htr1a
+Dopamine Reuptake Inhibitor	MAGMA_Drugs_and_Diseases	Ace	Epb41	Sacm1l	Dbh	Prl3d2	Htr2a	Slc6a2	Comt	Slc6a3	Slc6a4	Cyp2a12	Galr1	Drd1	Ankk1	Drd2	Fkbp5	Slc18a2
+Dorzolamide	MAGMA_Drugs_and_Diseases	Car12	Car2	Car1	Car4	Car7	Cyp3a13	Car14
+Dosulepin	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Slc6a2	Slc6a4
+Doxazosin	MAGMA_Drugs_and_Diseases	Atad5	Adra1d	Adra1b	Mtor	Adra1a
+Doxepin	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Cyp3a13	Htr2b	Slc6a2	Slc6a4	Hrh2	Hrh1	Cyp2d10	Cyp1a2	Kcnh2
+Doxofylline	MAGMA_Drugs_and_Diseases	Pde4d	Pde4c	Pde4b	Pde4a	Adora1
+Doxorubicin	MAGMA_Drugs_and_Diseases	Abcc4	Il11	Tgfb1	Edn1	Abcc2	Abcc3	G6pdx	Gstm6	Bdnf	Runx1	Akr1a1	Myod1	Braf	Sdhb	Rpsa	Bmp7	Lrp1b	Mapk14	Zeb1	Dok5	Pik3cb	Sp3	Pik3ca	Cyp1a2	Atm	Bax	Bcl2	Cyp1a1	Slc28a3	Top1	Abcc1	Abcg3	Nfe2l2	Trp53	Alk	Top2b	Abcb1a	Nr1i2	Top2a	Brca1	Cyp3a13	Slco1b2	Fcgr4	Nt5e	Slc22a16	Myb	Cyp2d10	Erbb2	Akt1	Cyp1b1	Cbr3	Nqo1	Ntrk2	Nqo2	Cbr1	Nos3	Atrx	Gadd45a	Xrcc1	Cyba	Taf1	Ercc1	Ppm1d	Aldh1a1	Aldh3a1	Apex1	Birc5	Ezh2	H2ax	Cdkn1b	Src	Setd4	Kmt2a	Rarg	Ncf4	Gstp1	Afp	Gata3	Cyp19a1	Pik3cg	Tgm2	Polk	Ugt1a6a	Nos1	Nos2	Rac2
+Dronedarone	MAGMA_Drugs_and_Diseases	Calca	Cacna1c	Adrb1	Kcna5	Adra1d	Cacna1d	Cyp3a13	Adra1b	Adra2c	Cacna1f	Adra1a	Adra2b	Adra2a	Ar	Cacnb2	Cacnb3	Cacnb4	Cyp2d10	Cacna1s	Kcnk2	Scn1a	Cacnb1	Kcnh2
+Droperidol	MAGMA_Drugs_and_Diseases	Cyp2d10	Htr2a	Drd2	Drd3	Drd4	Adra1a	Kcnh2
+Drowsiness	MAGMA_Drugs_and_Diseases	Ache	Chrm3	Chrna2	Chrm4	Ace	Chrm1	Chrm2	Chrm5
+Droxidopa	MAGMA_Drugs_and_Diseases	Pah	Adrb1	Adrb2	Adra1d	Adrb3	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Duloxetine	MAGMA_Drugs_and_Diseases	Kmt2e	Invs	Gmnn	Ncam1	Tex10	Nrxn1	Htr2c	Htr2a	Atp10a	Mief2	Slc6a2	Htr6	Slc6a3	Slc6a4	Ano2	Skic3	Cyp2d10	Treml4	Drd3
+Duodenal Ulcer Disease	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+Dyclonine	MAGMA_Drugs_and_Diseases	Vdr	Aldh1a1	Gmnn	Scn10a	Cyp2d10	Cyp1a2	Scn5a	Ehmt2
+Dyphylline	MAGMA_Drugs_and_Diseases	Pde4d	Pde4c	Pde3a	Pde4b	Pde4a	Pde7b	Pde7a
+Dyschromia	MAGMA_Drugs_and_Diseases	Nqo1	Cd40	Hpgd	Gstp1	Top2a	Ehmt2	Rorc	Hif1a	Nfkb1	Tyr	Cyp19a1	Hsd17b10	Il1b	Thpo	Bcl2	Nfe2l2
+Dysthymic Disorder	MAGMA_Drugs_and_Diseases	Trpm3	Abcb1a	Atxn2	Cyp2d10	Cyp1a2	Drd1	Cyp3a13	Slc6a2	Mtor	Trp53	Tshr
+EGFR Inhibitor	MAGMA_Drugs_and_Diseases	Nras	Erbb4	Erbb2	Erbb3	Nrg1	Met	Braf	Kras	Egfr	Eml4
+Ear Infections	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+Econazole	MAGMA_Drugs_and_Diseases	Trpm2	Nr1i2	Npy2r	Trpv5	Npy1r
+Eczema	MAGMA_Drugs_and_Diseases	Kcna1	Pla2g2a	Hexb	Ppy	Nr3c1
+Edaravone	MAGMA_Drugs_and_Diseases	Vdr	Aldh1a1	Cyp1a2	Bcl2	Cyp3a13
+Efavirenz	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	Abcc3	Il10	Nr1i2	Ugt1a1	Nr1i3	Htr2a	Cyp3a13	Ar	Nat1	Cyp2d10	Hnf4a	Cyp1a2	Abcc1	Abcg3	Nfe2l2	H2-Eb2	Npsr1
+Eletriptan	MAGMA_Drugs_and_Diseases	Htr7	Htr1f	Cyp2d10	Htr1b	Htr1a	Htr2b
+Eltrombopag	MAGMA_Drugs_and_Diseases	Slco1b2	Slco2b1	Serpinc1	Slc22a1	Mpl	F5
+Emphysema	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Enalapril	MAGMA_Drugs_and_Diseases	Ces1d	Dsp	Ace	Gsr	Nos3	Adrb2	Hspa4	Cyp3a13	Nr3c2	Agt	Vegfa	Dpp4	Slco1b2	Mapk8	Apex1	Bdkrb2	Nos1	Pde5a	Ccn2	Trp53
+Encorafenib	MAGMA_Drugs_and_Diseases	Map2k1	Araf	Braf	Kras	Egfr	Trp53	Raf1
+Endocrine Adenoma	MAGMA_Drugs_and_Diseases	Abcb1a	Slc47a1	Slc22a2	Cyp3a13	Fcgr4	Hrh2	Cyp2d10	Cyp1a2	Polk	Nos1	Slc29a4
+Endometriosis	MAGMA_Drugs_and_Diseases	Ptgfr	Ptger1	Tbxa2r	Ptger3	Ptgdr
+Enflurane	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk18	Atp5f1d	Gabrg3	Gabrg2	Glrb	Kcnma1	Kcnk2	Kcnk3	Gabrb3	Gabrb2	Gabrb1	Gria1	Kcnk9	Ryr1	Kcna1	Atp2c1	Glra1	Cacna1s	Gabre	Gabrd
+Enilconazole	MAGMA_Drugs_and_Diseases	Ar	Ppara	Nr1i2	Ptger2	Cyp1a2	Cyp3a13	Tardbp	Cyp19a1	Cyp2j13
+Enoxolone	MAGMA_Drugs_and_Diseases	Prkcd	Cyp2d10	Polk	Pparg	Prkcb	Cyp3a13	Prkca	Akr1b7	Hsd11b1
+Enteritis	MAGMA_Drugs_and_Diseases	Anxa1	Vdr	Chka	Hspa8	Tsc22d3	Lif	Nrg1	Vcam1	Bmp7	Tgfbr3	Nr5a1	Tg	Krt19	Cdk6	Crispld2	Dok5	Cdk4	Soat1	Cdk2	Cyp1a2	Agtr1b	Dpep1	Rara	Thrsp	Nfe2l2	Cd86	Rb1	Rela	Ret	Abcb1a	Nr1i2	Mug1	Serpine1	Pth1r	Cyp3a13	Gls	Ubr1	Tyms	Cyp2d10	Ctla4	S100a10	Tead1	Sds	Smad3	Igfbp1	Ntrk1	Ugt1a1	Nr0b1	Cartpt	Ar	Tjp1	F9	Birc5	Sag	Sftpa1	Cdh17	Folr1	Fabp1	Notch1	Irs2	Ctnnb1	Gstp1	Chat	Pygl	Slc2a4	Actc1	Gata3	Nr3c2	Nr3c1	Nppc	Htr7	Hyal2	Rps19	Sis	Tdo2	Nos2	Junb	Ggt1	Ccl17	Apob
+Entrectinib	MAGMA_Drugs_and_Diseases	Lyn	Hipk2	Clk4	Etv6	Eml4	Clk2	Cdk7	Fer	Axl	Alk	Frk	Ret	Lrrk2	Aurka	Mst1r	Prkaa1	Stk3	Aurkb	Slk	Grk5	Kdr	Map4k2	Ntrk2	Ntrk3	Plk4	Prkcg	Camk1d	Ntrk1	Syk	Dapk3	Tnk2	Ptk2	Lck	Kit	Fgfr1	Btk	Taok1	Met	Pkn2	Prkcq	Fgfr3	Csf1r	Blk	Flt1	Src	Ltk	Flt3	Flt4	Igf1r	Tbk1	Rps6ka3	Abl1	Fyn	Jak3	Ros1	Map4k4	Jak2	Map4k5
+Ependymoma	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+Ephedrine	MAGMA_Drugs_and_Diseases	Ache	Adrb2	Drd2	Slc6a2	Slc18a2	Adra1a
+Ephedrine Racemic	MAGMA_Drugs_and_Diseases	Atf2	Atf3	Atf1	Jun	Fos	Adrb1	Adrb2	Tnf	Nfatc1	Slc6a2	Slc6a3	Adra1a	Slc6a4	Adra2a	Il2	Jdp2	Atf6	Atf7	Atf4	Atf5
+Ephrin Inhibitor	MAGMA_Drugs_and_Diseases	Acvr1	Lyn	Pdgfrb	Pdgfra	Limk1	Irak4	Braf	Cdc42bpa	Mapk14	Tec	Fes	Apc	Axl	Pik3ca	Abi1	Nf1	Sik2	Sik3	Epha2	Sik1	Abcg3	Trp53	Frk	Ddr2	Csf3r	Egfr	Aurkb	Crkl	Slk	Erbb4	Erbb2	Kdr	Map3k20	Smad3	Stat5b	Yes1	Idh1	Plk4	Map2k2	Srms	Map2k1	Syk	Idh2	Tnk2	Mink1	Arid1a	Ptk6	Hck	Ar	Bcr	Fgr	Lck	Kit	Fgfr1	Map3k10	Btk	Taok1	Met	Kras	Pkn2	Fgfr3	Ppard	Csf1r	Blk	Src	Dyrk3	Gmnn	Cbl	Abl2	Hras	Abl1	Fyn	Jak2	Map4k5
+Epicondylitis	MAGMA_Drugs_and_Diseases	Anxa1	Gstm6	Vwf	Bmp7	Ar	Cxcl12	Ptprc	Tg	Dok5	Ifng	Cyp1a2	Itgb2l	Abcb1a	Calca	Tpmt	Gstp1	Cyp3a13	Gata3	Nr3c1	Tyms	Hsd17b10	Mc2r	Cyp2d10	Drosha	Apoe	Ctla4	Mbp	Hsd11b1
+Epilepsy	MAGMA_Drugs_and_Diseases	Car12	Car2	Car1	Car4	Car7
+Epinephrine	MAGMA_Drugs_and_Diseases	Cast	Vdr	G6pdx	Tpm3-rs7	Recql	Adra2c	Mtor	Adra2b	Adra2a	Mapk10	Mapt	Pik3cb	Apex1	Pah	Ghrl	Nfe2l2	Fen1	Adrb1	Adrb2	Slc2a4	Tnf	Adra1d	Adrb3	Tnfrsf11b	Hif1a	Adra1b	Adra1a	Hsd17b10	Hyal2	Polk	Drd1
+Epirubicin	MAGMA_Drugs_and_Diseases	Cbr3	Insr	Nos3	Ppp2r5d	Gnl3	Foxp3	Rbx1	Birc5	Bcl2	Mdm4	Trp53	Top2b	Abcb1a	Ccnk	Irs1	Pon1	Serpine1	Gstp1	Top2a	Hmmr	Pik3r2	Chd1	Cyp19a1	Foxo1	Slco1b2	Erbb2	Perp	Cyp1b1	Nos1
+Epoprostenol	MAGMA_Drugs_and_Diseases	Ptgis	P2ry12	Ptger1	Ptgir	Ptger4
+Eptifibatide	MAGMA_Drugs_and_Diseases	Fgb	Fgg	Itga2b	Itgb3
+Erectile Dysfunction	MAGMA_Drugs_and_Diseases	Ass1	Gprc6a	Nos3	Arg2	Asl	Nos2	Slc7a1	Azin2	Slc7a3	Slc7a4
+Ergonovine	MAGMA_Drugs_and_Diseases	Ar	Drd2	Adra1a	Hsd17b10
+Ergotamine	MAGMA_Drugs_and_Diseases	Htr1f	Htr1b	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Slc6a2	Adra1b	Htr6	Adra1a	Adra2b	Adra2a	Htr5a	Drd1	Drd2	Drd5
+Erlotinib	MAGMA_Drugs_and_Diseases	Lyn	Map3k1	Nrg1	Braf	Clk4	Hipk4	Apc	Pik3ca	Cyp1a2	Nf2	Nf1	Abcg3	Trp53	Alk	Frk	Ddr2	Ret	Abcb1a	Nr1i2	Cyp3a13	Egfr	Aurkb	Slk	Erbb4	Cdh1	Cyp2d10	Erbb2	Mknk2	Erbb3	Kdr	Yes1	Syk	Ugt1a1	Mink1	Ar	Birc5	Met	Kras	Pkn2	Prkd2	Fgfr4	Errfi1	Blk	Flt1	Ltk	Flt4	Cbl	Igf1r	Slco2b1	Mapk1	Abl1	Jak2
+Erythrasma	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	G6pdx	Nr1i2	Plk1	Cyp3a13	Il17a	Il1b	Cyp2d10	Cyp1a2	F2rl1	Bax	Bcl2	Xdh	Abcc1	Kcnh2
+Erythromycin	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	G6pdx	Nr1i2	Plk1	Cyp3a13	Il17a	Il1b	Cyp2d10	Cyp1a2	F2rl1	Bax	Bcl2	Xdh	Abcc1	Kcnh2
+Erythromycin Estolate	MAGMA_Drugs_and_Diseases	Abcb1a	Slc47a1	Cyp51	Alb	Cyp3a13	Kcnh2
+Erythromycin Ethylsuccinate	MAGMA_Drugs_and_Diseases	Abcb1a	Slc47a1	Cyp51	Alb	Cyp3a13	Kcnh2
+Escitalopram	MAGMA_Drugs_and_Diseases	Il11	Gldc	Tph1	Bdnf	Htr1b	Htr2c	Htr2a	Slc6a4	Bmp5	Erich3	Grk5	Cyp2d10	Rfk	Cyp1a2	Tspan5	Fkbp5
+Eslicarbazepine Acetate	MAGMA_Drugs_and_Diseases	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Esomeprazole	MAGMA_Drugs_and_Diseases	Atp4a	Cyp2a12	Cyp2d10	Cyp1a2	Cyp3a13	Cyp2e1
+Esophageal Candidiasis	MAGMA_Drugs_and_Diseases	Hsp90aa1	Cyp51	Alb	Cyp2d10	Cyp1a2	Cyp3a13	Tardbp
+Esophageal Varices	MAGMA_Drugs_and_Diseases	Fabp4	Ffar1	F12	Ffar4	Pld2
+Estradiol	MAGMA_Drugs_and_Diseases	Esrra	Lif	Recql	Cp	Esr1	Esr2	Ar	Ptprc	Kcnma1	Cyp1a2	Pparg	Gapdhrt	Oxtr	Nr1i2	Mug1	Serpinc1	Pros1	Ehmt2	Plau	Slc2a4	Cyp3a13	Rorc	Nr3c1	Cyp2d10	Gper1	Nos2	Ccn2	Kcnh2
+Estramustine	MAGMA_Drugs_and_Diseases	Vdr	Blm	Hexb	Klk1b24	Esr1	Esr2	Ar	Map1a	Kat2a	Map2	Tdp1	Polk	Bax	Bcl2	Usp1
+Estrogenic Hormone	MAGMA_Drugs_and_Diseases	Ar	Rorc	Esr1	Esr2	Npsr1
+Estrone	MAGMA_Drugs_and_Diseases	Ar	Sts	Myc	Ugt1a2	Esr1	Esr2	Tardbp	Pik3cg
+Ethanolamine Oleate	MAGMA_Drugs_and_Diseases	Fabp4	Ffar1	F12	Ffar4	Pld2
+Ethosuximide	MAGMA_Drugs_and_Diseases	Cyp3a13	Cacna1g	Scn1a	Cacna1i	Cacna1h
+Ethotoin	MAGMA_Drugs_and_Diseases	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Ethoxzolamide	MAGMA_Drugs_and_Diseases	Car13	Car12	Aqp4	Car2	Car1	Car4	Car3	Car5b	Car5a	Car6	Car7	Car9	Car14
+Etomidate	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Adra2b	Gabrg3	Gabrg2	Gabre	Gabrd
+Etoposide	MAGMA_Drugs_and_Diseases	Tgfb1	Dync2h1	Ncoa3	Actr2	Ncoa1	Gdf15	Mycs	Cyp1a2	Atm	Bax	Bcl2	Abcc1	Trp53	Top2b	Ugt1a10	Abcb1a	Glp1r	Top2a	Brca2	Cyp3a13	Klk1b24	Egfr	Tyms	Slco1b2	Chek1	Cyp2d10	E2f1	Slit1	Eif4e	Ugt1a1	Igf2	Ercc1	Ercc2	Fgfr1	Ddit3	Pgp	Gmnn	Pla2g1b	Gstp1	Afp	Pla2g6	Itgal	Tnfsf13b	Mapk3	Papola	Mapk1	Muc16
+Etravirine	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc3	Cyp3a13	Abcg3
+Everolimus	MAGMA_Drugs_and_Diseases	Pbrm1	Tsc2	Braf	Tsc1	Esr1	Esr2	Mtor	Ar	Fkbp1a	Pik3r1	Pik3ca	Nf2	Atm	Nf1	Kras	Fgfr4	Bap1	Kdm5c	Rb1	Ret	Abcb1a	Notch1	Ctnnb1	Mpl	Brca1	Brca2	Cyp3a13	Egfr	Flcn	Nras	Rptor	Stk11	Gna11	Akt3	Erbb2	Akt1	Vhl	Akt2	Hras
+Ewings Sarcoma	MAGMA_Drugs_and_Diseases	Vdr	Thrb	Htt	Alox15	Ehmt2	Recql	Cyp3a13	Rorc	Esr1	Nr3c1	Ar	Rxra	Polr2a	Cyp2d10	Apex1	Cyp1a2	Ppard
+Exemestane	MAGMA_Drugs_and_Diseases	Kmt2c	Tubb1	Esr1	Esr2	Cyp19a1	Ar	Bglap2	Erbb2	Cyp1b1	Pgr	Map4k4	Nfe2l2
+Exercise Induced Bronchoconstriction EIB	MAGMA_Drugs_and_Diseases	Car10	Galnt17	Abcc9	Cyp3a13	Mllt3	Slco2b1	Cysltr1	Cyp2d10	Alox5	Cyp1a2	Lta4h	Ugt1a2	Abcc1
+FABI Inhibitor	MAGMA_Drugs_and_Diseases	Abcb1a	Nr1i2	Gstp1	Tnf	Cyp3a13	Bach1	Xpo1	Cyp1a2	Mafk	Nos2	Cyp2e1
+FGFR Inhibitor	MAGMA_Drugs_and_Diseases	Yes1	Nras	Pdgfrb	Ret	Flt1	Pdgfra	Kit	Flt4	Fgfr1	Kdr	Braf	Fgfr2
+FLT3 Inhibitor	MAGMA_Drugs_and_Diseases	Brd4	Flt3	Jak3	Tyk2	Jak1	Jak2
+Fadrozole	MAGMA_Drugs_and_Diseases	Cyp1b1	Cyp7b1	Gfap	Cyp19a1
+Fasudil	MAGMA_Drugs_and_Diseases	Prkcg	Prkcd	Dapk3	Clk4	Cdk8	Cdk7	Cdk5	Rps6kb1	Pkia	Prkd3	Kras	Prkcq	Prkd2	Sgk2	Rock1	Rock2	Lrrk2	Cblb	Cyp3a13	Prkx	Cbl	Gata2	Aurkb	Akt3	Cyp2d10	Rps6ka3	Chek2	Akt1	Prkacb	Map4k4	Prkaca
+Fatigue	MAGMA_Drugs_and_Diseases	Ache	Chrm3	Chrna2	Chrm4	Ace	Chrm1	Chrm2	Chrm5
+Fatty Acid Synthase Inhibitor	MAGMA_Drugs_and_Diseases	Fasn	Cyp2d10	Cyp1a2	Mpo	Tnf	Cyp3a13
+Febuxostat	MAGMA_Drugs_and_Diseases	Ar	Ugt1a10	Ugt1a1	Aox1	Ugt1a6a	Ugt1a2	Xdh
+Fedratinib	MAGMA_Drugs_and_Diseases	Brd4	Flt3	Jak3	Tyk2	Jak1	Jak2
+Felbamate	MAGMA_Drugs_and_Diseases	Grin3a	Grin2b	Grin2a	Grin3b	Cyp2d10	Cyp1a2	Cyp3a13	Grin2d	Grin2c	Grin1
+Felodipine	MAGMA_Drugs_and_Diseases	Abcb1a	Gmnn	Cacna2d1	Cacna1c	Cacna1d	Cyp3a13	Nr3c2	Cacna1f	Myo9b	Cacnb2	Mapt	Lep	Cacna1s	Cftr
+Fenbendazole	MAGMA_Drugs_and_Diseases	Idh1	Gmnn	Glp1r	Tubb5	Cyp1a2
+Fenofibrate	MAGMA_Drugs_and_Diseases	Adipoq	Abca1	Jun	Ppara	Apoa5	2410137M14Rik	Vegfa	Ar	Il6	Apoa1	Cyp1a2	Cdk1	Cd40lg	Trp53	Fabp1	Crp	Abcb1a	Lpl	Cyp3a13	Tfpi	Slco1b2	Mmp25	Cfl1	Apoe	Scarb1	Apob	Kcnh2
+Fenoldopam	MAGMA_Drugs_and_Diseases	Cbx1	Ehmt2	Recql	Drd1	Adra2c	Drd4	Adra2b	Drd5	Adra2a
+Fescue Toxicosis	MAGMA_Drugs_and_Diseases	Abcb1a	Atad5	Cyp2d10	Drd2	Drd3	Kcnh2
+Fesoterodine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10	Cyp3a13
+Fever	MAGMA_Drugs_and_Diseases	Tgfb1	Ace	Col26a1	Hspa5	Itga2	Nrg1	Tsc1	Prkab1	Agt	Gp6	Prkab2	Tapbp	Il1b	Il4	Nfkbia	Pik3ca	Fas	Cyp1a2	H2-Ab1	Fsip1	Trp53	Tlr3	Col18a1	Prkaa2	B4galt2	Tnfrsf11a	Itga2b	Zbtb22	Cyp3a13	Pear1	Prkaa1	Tbxa2r	Cyp2d10	P2ry1	Adora1	Me3	Asic3	Fcer1g	Mcl1	Chia1	Ntrk1	Slc30a9	F2r	Nos3	Cyp4f14	Ptgir	Hgf	Pla2g4a	Slc6a12	Gp1ba	Nat1	Gfap	Nfkb1	Nfkb2	Tbxas1	Ddit3	Pparg	Cep68	H2-Eb2	Pth	Irs2	Ptger2	Thra	F13a1	Ptger3	Itgb3	Prkag2	Prkag3	Afp	Hmgcr	Prkag1	Fgf2	Hnmt	Ptgs1	Ptgs2	Ednra	Ikbkb	Rps6ka3	Hmox1	Ugt1a6a	Plcg1	Gc
+Fibromyalgia	MAGMA_Drugs_and_Diseases	Htr1a	Slc6a2	Mdga2	Slc6a4	Adra2a
+Finasteride	MAGMA_Drugs_and_Diseases	Akr1d1	Srd5a2	Cflar	Cyp3a13	Ar	Tgm2	Cyp2d10	Cyp1a2	Fgfr1	Srd5a1	Nfe2l2
+Flecainide	MAGMA_Drugs_and_Diseases	Cop1	Kcnj11	Scn11a	Cyp1a2	Scn5a	Kcna5	Kcna7
+Flibanserin	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Htr2a	Cyp3a13	Htr1a	Drd4
+Floxuridine	MAGMA_Drugs_and_Diseases	Abcc5	Idh1	Cyp3a13	Eno2	Tyms	Pik3ca	Cyp2d10	Erbb2	Fas	Cyp1a2	Bcl2	Dnmt1
+Fluconazole	MAGMA_Drugs_and_Diseases	Hsp90aa1	Cyp51	Alb	Cyp2d10	Cyp1a2	Cyp3a13	Tardbp
+Fludarabine	MAGMA_Drugs_and_Diseases	Smad3	Rrm2	Cd40	Rrm1	Dck	Ikzf1	Mpo	Pik3cg	Pola1	Slco1b2	Sult2b1	Cxcl12	Xiap	Atm	Bax	Cyp2e1	Ada	Slc29a1	Nfe2l2	Slc22a12
+Fludarabine Phosphate	MAGMA_Drugs_and_Diseases	Pola1	Pole	Rrm2	Pold1	Rrm1	Rrm2b
+Flumazenil	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Tspo	Gabre	Gabrd	Nfe2l2
+Flunarizine	MAGMA_Drugs_and_Diseases	Hrh1	Gmnn	Atad5	Cacna1a	Ehmt2	Cacna1g	Cacna1i	Cacna1h	Calm1
+Flunisolide	MAGMA_Drugs_and_Diseases	Ar	Cyp2d10	Cyp1a2	Pla2g4a	Glcci1	Cyp3a13	Nr3c1	T
+Fluocinonide	MAGMA_Drugs_and_Diseases	Ar	Smo	Pla2g4a	Nr3c1	Serpina6
+Fluoxetine	MAGMA_Drugs_and_Diseases	Ace	Bdnf	Htr1b	Htr1a	Igf2	Ano1	Ar	Ppp1r1b	Reep5	Cyp1a2	Fkbp5	Slc29a4	Srp19	Crhr1	Abcb1a	Gsk3b	Tph1	Serpine1	Htr2a	Cyp3a13	Htr2b	Slc6a4	Htr4	Aanat	Atxn2	Cyp2d10	Drd1	Nos2	Kcnh2
+Flupentixol	MAGMA_Drugs_and_Diseases	Chrm1	Atxn2	Cbx1	Usp1	Drd1	Htr2a	Drd2	Drd3	Adra1a	Drd5
+Fluphenazine	MAGMA_Drugs_and_Diseases	Abcb1a	Cbx1	Htr1b	Ehmt2	Htr2a	Htr6	Htr7	Hrh1	Cyp2d10	Cyp1a2	Usp1	Drd1	Drd2	Drd5	Trp53	Calm1
+Flupirtine	MAGMA_Drugs_and_Diseases	Kcnj5	Kcnj6	Vdr	Eya2	Kcnj9	Cbx1	Ehmt2	Cyp3a13	Hif1a	Hsd17b10	Adra2a	Rgs4	Kcnq1	Cyp2d10	Kcnq2	H2-Ab1	Kcnj3	H2-Eb2
+Fluspirilene	MAGMA_Drugs_and_Diseases	Kdm4a	Smad3	Idh1	Xbp1	Gmnn	Atad5	Htt	Cbx1	Ehmt2	Htr2a	Htr1a	Ar	Hrh1	Thpo	Cyp2d10	Cacng1	Drd2	Mphosph8	Ppard	Kcnh2	Npsr1
+Flutamide	MAGMA_Drugs_and_Diseases	G6pdx	Nr1i2	Cdkn1a	Aqp9	Ehmt2	Ahr	Mpo	Pbp2	Cyp3a13	Klk1b24	Rorc	Ar	Th	Il2ra	Birc5	Cyp1a2	Vip	Nfe2l2
+Fluvastatin	MAGMA_Drugs_and_Diseases	Srebf1	Slc15a1	Abcb1a	Ace	Nr1i2	Ugt1a1	Hmgcr	Cyp3a13	Lipc	Slco2b1	Cyp2d10	Slco1b2	Apoe	Ugt1a2	Abcg3	H2-Eb2
+Fluvoxamine	MAGMA_Drugs_and_Diseases	Sigmar1	Abcb1a	Htr2a	Cyp3a13	Htr1a	Fgf2	Comt	Slc6a4	Cyp2d10	Cyp1a2	Mdga2
+Follicular Lymphoma	MAGMA_Drugs_and_Diseases	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Mtor	Pik3c2a	Pik3cg	Pik3r6	Pik3cb	Pik3r1	Pik3ca	Erbb2	Kras	Pik3c3
+Fomepizole	MAGMA_Drugs_and_Diseases	Cat	Adh1	Akr1a1	Ehmt2
+Fulvestrant	MAGMA_Drugs_and_Diseases	Esrra	Ephx2	Esr1	Esr2	Tfpi	Cdk6	Pik3ca	Ccne1	Erbb2	Gper1	Cyp1a2	Pgr	Fgfr2
+Fungal Infection	MAGMA_Drugs_and_Diseases	Fen1	Idh1	Vdr	Blm	Plk1	Htt	Brca1	Hif1a	Wrn	Racgap1	Apex1	Polk	Rapgef3	Nfe2l2	Poli	Rapgef4	Polh
+Fungal Lanosterol Demethylase Inhibitor	MAGMA_Drugs_and_Diseases	Cyp17a1	Idh1	Gmnn	Ehmt2	Baz2b	Ppard
+Furosemide	MAGMA_Drugs_and_Diseases	Abcc4	Slc12a3	Ace	Gpr35	Grp	Slc12a1	Slc12a2	Add1	Car2	Tbxa2r	Apoa1	Gnb3	Tac1
+GABA Receptor Antagonist	MAGMA_Drugs_and_Diseases	Gabra3	Gria2	Gabra2	Gabrb3	Gabrq	Chrna4	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Chrna7	Gabra4	Gabrg1	Grik2	Gabrg3	Gabrg2	Gabre	Gabrd
+GABA Receptor Modulator	MAGMA_Drugs_and_Diseases	Gabra1	Cyp2d10	Cyp1a2	Ehmt2	Gabrg3
+Gabapentin	MAGMA_Drugs_and_Diseases	Cacna2d2	Cacna2d1	Cacna2d4	Cacna2d3	Grin2d	Grin2c	Grin1	Cacnb2	Grin3a	Cacnb3	Cacnb4	Grin3b	Kcnq3	Kcnq5	Cacnb1	Abcb1a	Cacna1a	Cacna1c	Cacna1b	Cacna1e	Cacna1d	Eno2	Cacna1g	Cacna1f	Cacna1i	Cacna1h	Cacng7	Cacng8	Grin2b	Grin2a	Cacna1s	Cacng1	Nos1	Adora1	Cacng2	Cacng3	Cacng4	Cacng5	Cacng6
+Galantamine	MAGMA_Drugs_and_Diseases	Ache	Chrna2	Chrnb3	Chrna1	Chrnb2	Bche	Chrna4	Chrna3	Chrnb4	Chrna6	Chrna5	Chrna7	Chat	Chrna9	Chrnd	Chrne	Cyp2d10	Chrng	Chrna10	Chrnb1
+Gap Junction Modulator	MAGMA_Drugs_and_Diseases	Prkcd	Cyp2d10	Polk	Pparg	Prkcb	Cyp3a13	Prkca	Akr1b7	Hsd11b1
+Gastric Adenocarcinoma	MAGMA_Drugs_and_Diseases	Wnt5b	Dkk1	Rbx1	Cdc25c	Apc	Fas	Abcg1	Bax	Abcg3	Trp53	Tymp	Ccnk	Galnt14	Pon1	Aurka	Cblb	Egfr	Tyms	Foxo1	Myb	Ccnd1	E2f1	Perp	Cyp1b1	Insr	Smad4	Xrcc3	Igfbp3	Xrcc4	Mthfr	Xrcc1	2410137M14Rik	Sele	Cyp2a12	Dlg5	Aldh3a1	Birc5	Gnas	Fgfr4	Irs1	Cyp19a1	Rgs5	Alcam	Fpgs	Tmem167	Il6ra	Slc19a1	Abcc4	Il11	Abcc5	Abcc2	Hspa5	Bdnf	Braf	Ppp2r5d	Gnl3	Pard3b	Vegfa	Nt5c1a	Ptprc	Pik3ca	Dpyd	Atm	Umps	Abcb1a	Dtymk	Megf11	Shmt1	Top2a	Hmmr	Cyp3a13	Pik3r2	Klc1	Slco1b2	Slc22a16	Erbb2	Cbr3	Nqo1	Cbr1	Nos3	Ercc1	Il2ra	Met	Kras	Cyp2e1	Lgr5	Cdkn1a	Dpys	Gstp1	Itgal	Exo1	Chn2	Nos1	Rev3l	Tshb
+Gastroesophageal Reflux Disease GERD	MAGMA_Drugs_and_Diseases	Abcb1a	Slc47a1	Slc22a2	Cyp3a13	Fcgr4	Hrh2	Cyp2d10	Cyp1a2	Polk	Nos1	Slc29a4
+Gastrointestinal Parasites	MAGMA_Drugs_and_Diseases	Ar	Gabbr2	Rxra	Gabbr1	Ppard
+Gastrointestinal Roundworms	MAGMA_Drugs_and_Diseases	Idh1	Gmnn	Glp1r	Tubb5	Cyp1a2
+Gastrointestinal Stromal Tumors GIST	MAGMA_Drugs_and_Diseases	Abcc4	Lyn	Pdgfrb	Abcc2	Pdgfra	Ugt2a1	Runx1	Braf	Clk4	Etv6	Mapk10	Cyp1a2	Nf2	Nf1	Ulk3	Abcg3	Alk	Frk	Ddr2	Abcb4	Ddr1	Ret	Abcb1a	Cyp3a13	Egfr	Bcl2l11	Irak1	Myc	Nqo1	Prkch	Smad3	Yes1	Nqo2	Ntrk1	Smad4	Eya2	Bcr	Lck	Kit	Slco1a8	Xiap	Birc5	Chst1	Taok1	Met	Kras	Cd40lg	Csf1r	Slc22a5	Slc22a4	Flt3	Slc22a1	Ctnnb1	Pdgfb	Ikzf1	Slc2a4	Rcsd1	Abl2	Abl1	Sfn	Cyp2f2	Slc19a1	Jak2
+Gefitinib	MAGMA_Drugs_and_Diseases	Lyn	Map3k1	Pdgfra	Limk1	Emp1	Irak4	Braf	Sirt2	Hipk4	Mapk14	Nfkbib	Nfkbia	Mapk10	Axl	Mapt	Pik3ca	Sik2	Abcg3	Frk	Rela	Abcb1a	Cyp3a13	Egfr	Crkl	Slk	Nras	Erbb4	Csnk1d	Cyp2d10	Erbb2	Mknk2	Chek2	Erbb3	Irak1	Pbk	Yes1	Nr1h2	Tnk2	Mink1	Igf2	Hck	Lck	Smo	Fgfr1	Met	Prkd3	Kras	Prkd2	Tab2	Fgfr2	Brsk1	Blk	Gmnn	Flt4	Ikbkb	Mapk9	Mapk8	Phkg2	Pim1	Pim3	Camk2g	Ikbke	Map4k4	Map4k5
+Gemcitabine	MAGMA_Drugs_and_Diseases	Cdsn	Mucl3	Cdc5lrt9	Nrg1	Alg10b	Nt5c1a	Pik3ca	Rrm2b	Msh5	Fkbp5	Slc28a3	Slc28a2	Abcg3	Cda	Trp53	Raf1	Xylt2	Brca1	Tnf	Brca2	Tent4a	Egfr	Ppcdc	Tyms	Serpina5	Nt5c2	Nras	Chek1	Casp7	Erbb2	Nt5c	Akt1	Kdr	Acss2	Idh1	Rrm2	Smad4	Dapk1	Rrm1	Atrx	2410137M14Rik	Xrcc1	Cip2a	Dck	Fancc	Igf2	Prrc2a	Esr2	Atat1	Dctd	Ercc1	Wee1	Nt5c3	Ercc2	Polr1g	Kras	Slc29a2	Slc29a1	Fgfr3	Cmpk1	Slc29a3	Ppp1r18	Slc28a1	Src	Serpinc1	Dock8	Fhl2	Cbl	Ets2	Tgm2	Polr2a	Ppp1r13l	Hras	Sh2d5
+Gemfibrozil	MAGMA_Drugs_and_Diseases	Slco1b2	Slco2b1	Ace	Il6	Jun	Ppara	Bdnf	Lpl	Lep	Ldlr
+General Anaesthetic	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Adra2b	Gabrg3	Gabrg2	Gabre	Gabrd
+Generalized Anxiety Disorder GAD	MAGMA_Drugs_and_Diseases	Aldh1a1	Prl3d2	Ehmt2	Drd2	Htr1a	Cyp3a13	Nfe2l2
+Genitial Herpes	MAGMA_Drugs_and_Diseases	Pnp2	Slc15a1	Il10	Dntt	Recql	Abl1
+Genitourinary Tract Infections	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+Gestational Choriocarcinoma	MAGMA_Drugs_and_Diseases	Tpm3-rs7	Foxp3	Dok5	Folh1	Cyp1a2	Bax	Klrd1	Mphosph8	Tardbp	Abcg3	Trp53	S100a8	Slamf1	Ugt1a10	Rb1	Slc46a1	Nalcn	Gls	Tyms	Sult2a1	Ccnd1	Cyp2d10	Alox5	E2f1	Drosha	Slc16a7	Idh1	Hgf	Arid5b	2410137M14Rik	H2-T24	Dhfr	Slco1a8	Specc1l	Birc5	Itpa	Fgfr4	Il1rn	Mtrr	Notch1	Ikzf1	Gata3	Fpgs	Slc19a1	Abcc4	Ncoa3	Abcc2	Vdr	Abcc3	Gstm6	Ggh	Ampd1	Atp5f1e	Bmp7	Il2	Adora2a	Slc22a29	Abcc1	Ada	Slc22a8	Nfe2l2	Tlr4	Shmt1	Tat	Ptprm	Tnfaip3	Hspb2	Cyp3a13	Slco1b2	Atic	Fcgr4	Pacsin2	Ntrk1	Nos3	Ugt1a1	Sod2	Apex1	Pparg	Folr1	Cdkn1b	Flt3	Kcna1	Pygl	Ehmt2	Afp	Nr3c1	Hsd17b10	Polb	Ugt1a6a	Ugt1a2	Poli	Polh
+Gestational Trophoblastic Disease GTD	MAGMA_Drugs_and_Diseases	Vdr	Thrb	Htt	Alox15	Ehmt2	Recql	Cyp3a13	Rorc	Esr1	Nr3c1	Ar	Rxra	Polr2a	Cyp2d10	Apex1	Cyp1a2	Ppard
+Giardiasis	MAGMA_Drugs_and_Diseases	Ar	Kdm4a	Hsp90aa1	Gmnn	Atad5	Htt	Oprk1	Ehmt2	Trp53
+Glaucoma	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Glimepiride	MAGMA_Drugs_and_Diseases	G6pdx	Kcnj11	Abcc8	Irs1	Abcc9	Tnf	Kcnj1
+Glioblastoma	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+Glipizide	MAGMA_Drugs_and_Diseases	Kcnj10	G6pdx	Kcnj11	Abcc8	Pparg	Slc2a4	Kcnj1
+Gliquidone	MAGMA_Drugs_and_Diseases	Kcnj10	Kcnj11	Kcnj8	Abcc8	Cyp3a13	Hsd17b10
+Glucocorticoid Receptor Antagonist	MAGMA_Drugs_and_Diseases	Tg	Cyp11a1	Tff3	Cyp1b1	Ggt1	Cyp19a1	Gnrh1
+Glucosidase Inhibitor	MAGMA_Drugs_and_Diseases	Mgam	Sis	Lpl	Gaa	Mga	Slc2a4
+Glutamate Inhibitor	MAGMA_Drugs_and_Diseases	Kcnk10	Trpc5	Cyp3a13	Npc1	Slc7a11	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Cyp1a2	Kcnn1	Rab9	Scn5a	Kcnn3	Scn3a	Kcnn4	Scn4a	Kcnk2	Scn1a	Scn2a	Tardbp	Kcnk4	Kcnh2
+Glutamate Receptor Antagonist	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrb3	Gabrq	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Gabra4	Gabrg1	Grin2d	Grin2c	Gabrg3	Grin1	Gabrg2	Grin3a	Grin2b	Grin2a	Grin3b	Grm5	Gabre	Gabrd
+Glutamate Receptor Modulator	MAGMA_Drugs_and_Diseases	Gria2	Slc12a3	Gria3	Car2	Gria1	Fxyd2	Recql	Gria4
+Glyburide	MAGMA_Drugs_and_Diseases	Kcnj5	Abcc5	Abca1	Cpt1a	G6pdx	Kcnj11	Kcnj8	Abcc8	Nr1i2	Abcc9	Slc2a4	Cyp3a13	Aqp1	Il2	Slco2b1	Abcb11	Cyp2d10	Scnn1b	Pparg	Kcnj1	Cftr
+Glycopyrrolate	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Goiter	MAGMA_Drugs_and_Diseases	Bdnf	Dio1	Prl3d2	Mpo	Tnf	Prkab1	Myo9b	Gja1	Tpo	Il2ra	Cyp2d10	Lep	Cyp1a2	Trp53	H2-Eb2
+Gonorrhea	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+Gout	MAGMA_Drugs_and_Diseases	Ntng1	Ugt1a1	Pou5f1	Grem2	Tbl1xr1	Cyp1a2	Trib2	Abcg3	Ugt1a10	Myt1l	Tshz2	Cyp3a13	Pkd2	Cyp2d10	Aox1	Ugt1a6a	Ugt1a2	Xdh
+Gram Positive Bacterial Infections	MAGMA_Drugs_and_Diseases	Kdm4a	Smad3	Idh1	Vdr	Hsp90aa1	Plk1	Gzmc	Hspa8	Npy1r	Sdhd	Esr1	Alox8	Tshr	Ar	Galk1	Glud1	Kat2a	Mapt	Fasn	Pax8	Rapgef3	Nfe2l2	Ppard	Rapgef4	Trp53	Vcp	Gmnn	Thrb	Hpgd	Htt	Napepld	Alox15	Baz2b	Cyp3a13	Rorc	Hsd17b10	Polb	Sumo1	Usp2	Usp1	Mcl1	Polh
+Granisetron	MAGMA_Drugs_and_Diseases	Abcb1a	Htr3b	Cyp3a13	Htr3a	Ercc1	Nos1ap	Cyp2d10	Cyp1a1	Trp53
+Graves Disease	MAGMA_Drugs_and_Diseases	Bdnf	Dio1	Prl3d2	Mpo	Tnf	Prkab1	Myo9b	Gja1	Tpo	Il2ra	Cyp2d10	Lep	Cyp1a2	Trp53	H2-Eb2
+Griseofulvin	MAGMA_Drugs_and_Diseases	Ar	Nr1i2	Krt12	Cyp3a13	Hsd17b10
+Growth Factor Receptor Activator	MAGMA_Drugs_and_Diseases	Slc36a1	Htr1f	Htr1b	Htr2c	Ehmt2	Htr2a	Htr3b	Htr1a	Htr2b	Htr3a	Htr6	Htr4	Htr5a	Tshr	Htr7	Kat2a	Cyp1a2	Drd1	Drd5
+Guanfacine	MAGMA_Drugs_and_Diseases	Cyp2d10	Ehmt2	Cyp3a13	Adra2c	Adra2b	Adra2a
+HCV Inhibitor	MAGMA_Drugs_and_Diseases	Ctsa	Abcb1a	Vdr	Cma1	Cyp3a13	Ctss	Ifnl2	Ctsk	Ctsf	Slc28a2
+HDAC Inhibitor	MAGMA_Drugs_and_Diseases	Hdac5	Hdac6	Fbxw7	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Kmt2a	Ugt1a1	Hdac9	Hdac7	Hdac8
+HIV Integrase Inhibitor	MAGMA_Drugs_and_Diseases	Pou2f2	Nr1i2	Ugt1a1	Cyp3a13	Abcg3
+HIV Protease Inhibitor	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	Abcc3	Il10	Nr1i2	Ugt1a1	Nr1i3	Htr2a	Cyp3a13	Ar	Nat1	Cyp2d10	Hnf4a	Cyp1a2	Abcc1	Abcg3	Nfe2l2	H2-Eb2	Npsr1
+HMGCR Inhibitor	MAGMA_Drugs_and_Diseases	Abcg8	Mylip	Abcc2	Ace	Apoa5	Kif6	Cxcl10	Coq2	Mapk10	Fas	Soat1	Agtr1b	Abcg3	Abcb1a	Nr1i2	Pon1	Mttp	Ahr	Tnf	Cyp3a13	Cyp7a1	Tfpi	Dpp4	Slco1b2	Cyp2d10	Scap	Bdkrb2	Ldlr	Fdps	Abca1	Ugt1a1	Htr3b	Por	Il2ra	Cd40lg	Ppard	H2-Eb2	Ryr2	Hmgcr	Plat	Fgf2	Hspd1	Itgam	Lipc	Pik3cg	Tgm2	Slco2b1	Htr7	Bglap2	Lepr	Apoe	Nos1	Ugt1a2	Scarb1	Apob
+Hairy Cell Leukemia	MAGMA_Drugs_and_Diseases	Tgfb1	Yes1	Rrm2	Diablo	Cdkn1a	Rrm1	Dck	Pnp2	Pola1	Nt5c1a	Pole	Il2ra	Pole2	Rrm2b	Pole3	Xiap	Pole4	Ada	Nfe2l2	Trp53	Bcl2l2
+Halofuginone	MAGMA_Drugs_and_Diseases	Smad3	Col1a1	Wt1	Eprs1	Mmp2	Tnf	Il2	Ptp4a1
+Haloperidol	MAGMA_Drugs_and_Diseases	Epm2a	Tor1a	Bdnf	Homer1	Eif2ak4	Plekha6	Dtnbp1	Hspa4	Htr1a	Grin1	Mapk14	Ankk1	Trp53	Abcb1a	Maob	Abcb5	Slc1a1	Grik4	Htr2c	Htr2a	Cyp3a13	Htr2b	Comt	Dpp6	Nt5e	Hrh1	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Nkx6-1	Tac1	Drd5	Kcnh1	Ldlr	Kcnh2	Sigmar1	Arid5b	Htr3a	Mtor	Ar	Hspg2	Dlg4	Faah	Il1rn	Gria1	Ryr1	Gmnn	Rtkn2	Cacna1c	Slc2a4	Nts	Slc6a3	Nr4a1	Slc6a4	Slc6a5	Akap13	Grin2b	Htr7	Grin2a	Anpep	Rgs2	Zic4	Cnr1	Mc4r	Npy	Camk2g
+Halothane	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Kcnk12	Gabra5	Kcnk13	Gabra4	Gabrg1	Kcnk15	Kcnk18	Atp5f1d	Gabrg3	Gabrg2	Cyp2a12	Glrb	Kcnk2	Kcnk3	Kcnk5	Gabrb3	Gabrb2	Gabrb1	Kcnk9	Ryr1	Hsd17b10	Glra1	Cacna1s	Gabre	Gabrd
+Head And Neck Squamous Cell Carcinoma HNSCC	MAGMA_Drugs_and_Diseases	Nr1i2	Tubb5	Tubb1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Map4	Mapt	Map2	Tubb3	Bcl2
+Headache	MAGMA_Drugs_and_Diseases	Ache	Chrm3	Chrna2	Chrm4	Ace	Chrm1	Chrm2	Chrm5
+Heart Attack	MAGMA_Drugs_and_Diseases	Abcg8	Mylip	Abcc2	Ace	Apoa5	Kif6	Cxcl10	Coq2	Mapk10	Fas	Soat1	Agtr1b	Abcg3	Abcb1a	Nr1i2	Pon1	Mttp	Ahr	Tnf	Cyp3a13	Cyp7a1	Tfpi	Dpp4	Slco1b2	Cyp2d10	Scap	Bdkrb2	Ldlr	Fdps	Abca1	Ugt1a1	Htr3b	Por	Il2ra	Cd40lg	Ppard	H2-Eb2	Ryr2	Hmgcr	Plat	Fgf2	Hspd1	Itgam	Lipc	Pik3cg	Tgm2	Slco2b1	Htr7	Bglap2	Lepr	Apoe	Nos1	Ugt1a2	Scarb1	Apob
+Heavy Leg Syndrome	MAGMA_Drugs_and_Diseases	Kdm4a	Polb	Polk	Ahr	Polh
+Hemorrhagic Cystitis	MAGMA_Drugs_and_Diseases	Mgmt	Nr1i2	Gstp1	Hspa4	Cyp3a13	Cyp2c55	Ptgs1	Cyp2a12	Il6	Dnmt1	Trp53
+Hemorrhoids	MAGMA_Drugs_and_Diseases	Ntrk1	Vwf	Adrb2	Hspa4	Adra1d	Fgf2	Itgam	Adra1b	Adra1a	Pik3cg	Bax	Drd1	Nos1	Drd2
+Hemozoin Biocrystallization Inhibitor	MAGMA_Drugs_and_Diseases	Abcb1a	Cop1	G6pdx	Thrb	Cyp2d10	Cyp3a13	Kcnn4	Gp9	Slc29a4	Il2
+Hepatic Cirrhosis	MAGMA_Drugs_and_Diseases	Slc12a3	Car12	Ace	Car2	Car1	Car4	Mmp3	Nppa	Slc12a1	Car7	Agt	Car14
+Hepatic Encephalopathy HE	MAGMA_Drugs_and_Diseases	Gypa	Cxcr4	Slc2a4	Rln1	Pik3cg
+Hepatic Injury	MAGMA_Drugs_and_Diseases	Ntrk1	Chuk	Vwf	Gss	Grin2d	Grin1	Grin3a	Tollip	Sftpa1	Aco1	H2ax	Rela	Acy1	Slc2a4	Slc7a11	Slc6a3	Igf1r	Nr4a1	Ikbkb	Grin2b	Grin2a	Cxcr2	E2f1	Ldlr
+Hepatocellular Carcinoma HCC	MAGMA_Drugs_and_Diseases	Cdk19	Lyn	Pdgfrb	Abcc2	Pdgfra	Limk1	Braf	Hipk2	Hipk4	Mapk13	Vegfa	Mapk14	Mapk11	Mapk12	Cdk8	Mapk10	Axl	Pik3ca	Nf1	Epha2	Ptpn6	Raf1	Ddr2	Ret	Abcb1a	Galnt14	Aurka	Tnf	Araf	Cyp3a13	Egfr	Aurkb	Slco1b2	Slk	Nras	Erbb2	Mknk2	Irak1	Akt1	Kdr	Map3k20	Ntrk2	Yes1	Ntrk3	Plk4	Slc15a2	Ntrk1	Nos3	Mink1	Arid1a	Srpk1	Kit	Rps6kb1	Fgfr1	Taok1	Met	Kras	Fgfr3	Csf1r	Blk	Flt1	Dyrk3	Flt3	Gmnn	Slc22a1	Flt4	Camk2b	Hif1a	Fgf3	Mapk9	Mapk8	Hmox1	Mapk3	Vhl	Mapk1	Abl1	Mapk7	Mapk6	Ugt1a10	Map4k5	Mapk4
+Hexachlorophene	MAGMA_Drugs_and_Diseases	Kdm4a	Smad3	Idh1	Vdr	Hsp90aa1	Plk1	Gzmc	Hspa8	Npy1r	Sdhd	Esr1	Alox8	Tshr	Ar	Galk1	Glud1	Kat2a	Mapt	Fasn	Pax8	Rapgef3	Nfe2l2	Ppard	Rapgef4	Trp53	Vcp	Gmnn	Thrb	Hpgd	Htt	Napepld	Alox15	Baz2b	Cyp3a13	Rorc	Hsd17b10	Polb	Sumo1	Usp2	Usp1	Mcl1	Polh
+Hexylresorcinol	MAGMA_Drugs_and_Diseases	Ar	Usp1	Cyp3a13	Tyr	Nfe2l2
+Histamine	MAGMA_Drugs_and_Diseases	Lmna	Hrh2	Car1	Hrh1	Hrh4	Hrh3	Car5a	Car7	Ehmt2	Usp1	Slc29a4
+Histamine Receptor Agonist	MAGMA_Drugs_and_Diseases	G6pdx	Cyp1a1	Cyp1b1	Hnmt
+Histamine Receptor Modulator	MAGMA_Drugs_and_Diseases	Hsp90aa1	Gaa	Pde4d	Fgf1	Npc1	Egfr	Il3	Ar	Pkm	Tbk1	Pde4c	Rab9	Pde4b	S100a13	Pde4a	Ikbke	Nfe2l2
+Hodgkins Lymphoma	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+Homoharringtonine	MAGMA_Drugs_and_Diseases	Bcr	Rpl3	Tert	Birc5	Abl1
+Hookworm	MAGMA_Drugs_and_Diseases	Gmnn	Tubb5	Cyp1a2	Tuba1a	Tubb4b
+Human Immunodeficiency Virus HIV 1	MAGMA_Drugs_and_Diseases	Cyp3a13	Ch25h
+Hydantoin Antiepileptic	MAGMA_Drugs_and_Diseases	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Hydatidiform Mole	MAGMA_Drugs_and_Diseases	Tpm3-rs7	Foxp3	Dok5	Folh1	Cyp1a2	Bax	Klrd1	Mphosph8	Tardbp	Abcg3	Trp53	S100a8	Slamf1	Ugt1a10	Rb1	Slc46a1	Nalcn	Gls	Tyms	Sult2a1	Ccnd1	Cyp2d10	Alox5	E2f1	Drosha	Slc16a7	Idh1	Hgf	Arid5b	2410137M14Rik	H2-T24	Dhfr	Slco1a8	Specc1l	Birc5	Itpa	Fgfr4	Il1rn	Mtrr	Notch1	Ikzf1	Gata3	Fpgs	Slc19a1	Abcc4	Ncoa3	Abcc2	Vdr	Abcc3	Gstm6	Ggh	Ampd1	Atp5f1e	Bmp7	Il2	Adora2a	Slc22a29	Abcc1	Ada	Slc22a8	Nfe2l2	Tlr4	Shmt1	Tat	Ptprm	Tnfaip3	Hspb2	Cyp3a13	Slco1b2	Atic	Fcgr4	Pacsin2	Ntrk1	Nos3	Ugt1a1	Sod2	Apex1	Pparg	Folr1	Cdkn1b	Flt3	Kcna1	Pygl	Ehmt2	Afp	Nr3c1	Hsd17b10	Polb	Ugt1a6a	Ugt1a2	Poli	Polh
+Hydrochlorothiazide	MAGMA_Drugs_and_Diseases	Slc12a3	Car12	Ace	Tcf7l2	Hmgcs2	Tet2	Fbxl17	Prkca	Vasp	Diaph3	Ankfn1	Wnk1	Yeats4	Kcnma1	Aldh1a2	Slc25a31	Nucb2	Pde3a	Dot1l	Lrrc15	Serpine1	Nedd4l	Prkag2	Txndc11	Adrb1	Ado	Gpr83	Ptgs1	Add1	Car2	Car1	Car4	Nelfcd	Plce1	Slit1	Car9	Csk	Kcnj1	Uggt2	Csmd1	Ilkap
+Hydrocortisone	MAGMA_Drugs_and_Diseases	Tgfb1	Smad2	Anxa1	Jag1	Vdr	Mmp1a	Tsc22d3	Arnt	Defa5	Agt	Nfkb1	Ar	Gal	Il1b	Nr5a1	F9	Pcx	Ptprc	Sftpa1	Ada	Nfe2l2	Abcb1a	Notch1	Nr1i2	Plau	Cyp3a13	Hif1a	Itgam	Nr3c2	Nr3c1	Tyms	Hsd17b10	Hsd11b2	Nppc	Erbb2	Has3	Nos2	Ccl17	Apob
+Hydroflumethiazide	MAGMA_Drugs_and_Diseases	Slc12a3	Car12	Car2	Car1	Car4	Kcnma1	Slc12a1	Car9	Atp1a1
+Hydroquinone	MAGMA_Drugs_and_Diseases	Nqo1	Cd40	Hpgd	Gstp1	Top2a	Ehmt2	Rorc	Hif1a	Nfkb1	Tyr	Cyp19a1	Hsd17b10	Il1b	Thpo	Bcl2	Nfe2l2
+Hydroxy Radical Formation Stimulant	MAGMA_Drugs_and_Diseases	Ctsb	Car2	Wrn	Arg1	Thpo	Aqp9	Ctnnb1	Rps6ka3	Hnf4a	Hspa4	Hspb1
+Hydroxychloroquine	MAGMA_Drugs_and_Diseases	App	Il1a	G6pdx	Cyp2d10	Tlr9	Tnf	Tlr7	Tyms	Ptgs2	Tlr3
+Hydroxyurea	MAGMA_Drugs_and_Diseases	Pth	Rrm2	Blm	Dusp1	Rrm1	Dntt	Cyp3a13	Cp	Rrm2b	Hras	Abl1	Eif4e	Dnmt1	Map3k5
+Hydroxyzine	MAGMA_Drugs_and_Diseases	Hrh1	Cyp2d10	Cyp1a2	Cyp3a13	Kcnh2
+Hyoscyamine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Hyperaldosteronism	MAGMA_Drugs_and_Diseases	Adipoq	Ace	Nos3	Cacna2d2	Cyp4a30b	Cacna2d1	Cacna2d3	Cyp7b1	Ar	Cacnb2	Cacnb3	Cacnb4	Cyp1a2	Cyp1a1	Pparg	Pgr	Cacnb1	Shbg	Abcb1a	Nr1i2	Thrb	Cacna1a	Cacna1c	Adrb1	Cacna1b	Adrb2	Tnf	Cacna1d	Cacna1g	Nr3c2	Cacna1f	Nr3c1	Cacna1i	Cacna1h	Add1	Cacna1s	Cacng1	Cyp1b1	Ccn2
+Hypereosinophilic Syndrome HES	MAGMA_Drugs_and_Diseases	Abcc4	Lyn	Pdgfrb	Abcc2	Pdgfra	Ugt2a1	Runx1	Braf	Clk4	Etv6	Mapk10	Cyp1a2	Nf2	Nf1	Ulk3	Abcg3	Alk	Frk	Ddr2	Abcb4	Ddr1	Ret	Abcb1a	Cyp3a13	Egfr	Bcl2l11	Irak1	Myc	Nqo1	Prkch	Smad3	Yes1	Nqo2	Ntrk1	Smad4	Eya2	Bcr	Lck	Kit	Slco1a8	Xiap	Birc5	Chst1	Taok1	Met	Kras	Cd40lg	Csf1r	Slc22a5	Slc22a4	Flt3	Slc22a1	Ctnnb1	Pdgfb	Ikzf1	Slc2a4	Rcsd1	Abl2	Abl1	Sfn	Cyp2f2	Slc19a1	Jak2
+Hyperglycemia	MAGMA_Drugs_and_Diseases	Kcnj10	G6pdx	Kcnj11	Abcc8	Pparg	Slc2a4	Kcnj1
+Hyperprolactinemia	MAGMA_Drugs_and_Diseases	Vdr	Fos	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Il2	Ar	Gdnf	Lep	Cyp1a2	Sag	Nfe2l2	Abcb1a	Htr2c	Ehmt2	Htr2a	Adra1d	Htr2b	Adra1b	Htr6	Adra1a	Htr7	Myc	Npy	Drd1	Drd2	Drd3	Drd4	Drd5
+Hyperthyroidism	MAGMA_Drugs_and_Diseases	Tpo	Cyp1a2	2410137M14Rik	H2-Eb2
+Hypertriglyceridemia	MAGMA_Drugs_and_Diseases	Adipoq	Abca1	Jun	Ppara	Apoa5	2410137M14Rik	Vegfa	Ar	Il6	Apoa1	Cyp1a2	Cdk1	Cd40lg	Trp53	Fabp1	Crp	Abcb1a	Lpl	Cyp3a13	Tfpi	Slco1b2	Mmp25	Cfl1	Apoe	Scarb1	Apob	Kcnh2
+Hyperuricemia	MAGMA_Drugs_and_Diseases	Ar	Ugt1a10	Ugt1a1	Aox1	Ugt1a6a	Ugt1a2	Xdh
+Hypoactive Sexual Desire Disorder	MAGMA_Drugs_and_Diseases	Mc3r	Mc2r	Mc1r	Mc5r	Mc4r	Nr3c2
+Hypocalcemia	MAGMA_Drugs_and_Diseases	Ar	Tg	Vdr	Cyp24a1	Gdf15	Gmnn	Myc	Plau	Il2	Phex
+Hypoglycemia	MAGMA_Drugs_and_Diseases	Slc12a3	Snap25	Kcnj11	Kcnj8	Calca	Lpl	Ehmt2	Cck	Cyp7b1	Atp1a1	Nt5e	Car2	Car1	Cyp2d10	Kcnma1	Cyp1a2	Nos2
+Hypokalemia	MAGMA_Drugs_and_Diseases	Adipoq	Ace	Nos3	Cacna2d2	Cyp4a30b	Cacna2d1	Cacna2d3	Cyp7b1	Ar	Cacnb2	Cacnb3	Cacnb4	Cyp1a2	Cyp1a1	Pparg	Pgr	Cacnb1	Shbg	Abcb1a	Nr1i2	Thrb	Cacna1a	Cacna1c	Adrb1	Cacna1b	Adrb2	Tnf	Cacna1d	Cacna1g	Nr3c2	Cacna1f	Nr3c1	Cacna1i	Cacna1h	Add1	Cacna1s	Cacng1	Cyp1b1	Ccn2
+Hypoparathyroidism	MAGMA_Drugs_and_Diseases	Ar	Tg	Vdr	Cyp24a1	Gdf15	Gmnn	Myc	Plau	Il2	Phex
+Hypothyroidism	MAGMA_Drugs_and_Diseases	Thrb	Thra	Cyp2d10	Cyp1a2	Htr1b	Cyp3a13
+Hypoxia Inducible Factor Inhibitor	MAGMA_Drugs_and_Diseases	Fen1	Idh1	Vdr	Blm	Plk1	Htt	Brca1	Hif1a	Wrn	Racgap1	Apex1	Polk	Rapgef3	Nfe2l2	Poli	Rapgef4	Polh
+Ibrutinib	MAGMA_Drugs_and_Diseases	Smad3	Yes1	Blk	Lyn	Src	Txk	Bmx	Egfr	Hck	Tec	Myd88	Lck	Erbb4	Cyp2d10	Erbb2	Myc	Atm	Btk	Fyn	Plcg2	Jak3	Itk	Trp53
+Ibudilast	MAGMA_Drugs_and_Diseases	Il1b	Il6	Cyp2d10	Pde4d	Cyp1a2	Pde4c	Pde3a	Pde4b	Pde4a	Cyp3a13	Pde5a
+Ibutilide	MAGMA_Drugs_and_Diseases	Calca	Cacna2d1	Cacna1c	Cacnb1	Kcnh2
+Ichthyosis Vulgaris	MAGMA_Drugs_and_Diseases	Ctsb	Car2	Wrn	Arg1	Thpo	Aqp9	Ctnnb1	Rps6ka3	Hnf4a	Hspa4	Hspb1
+Icosapent	MAGMA_Drugs_and_Diseases	Vdr	Acsl3	Ffar1	Pparg	Trpv1	Acsl4	Gls	Slc8a1	Ppard	Ptgs1	Fads1	Ptgs2
+Idarubicin	MAGMA_Drugs_and_Diseases	Atad5	Dnmt3a	Cbx1	Recql	Dck	Cyba	Mtor	Etv6	Sult2b1	Nt5c3	Mapt	Apex1	Cyp2e1	Mphosph8	Top2b	Fen1	Abcb1a	Blm	Csf2	Flt3	Thrb	Htt	Ncf4	Top2a	Ehmt2	Slco1b2	Polb	Atxn2	Polk	Usp1	Drd1	Rac2	Poli	Kcnh2	Polh	Slc22a12
+Idelalisib	MAGMA_Drugs_and_Diseases	Pik3cb	Pik3ca	Pik3cd	Braf	Pik3cg
+Idiopathic Pulmonary Fibrosis IPF	MAGMA_Drugs_and_Diseases	Yes1	Blk	Lyn	Pdgfrb	Ret	Flt1	Pdgfra	Src	Flt3	Flt4	Cflar	Hck	Fgr	Lck	Akt1	Fgfr1	Kdr	Fyn	Fgfr4	Fgfr3	Fgfr2	Frk
+Ifosfamide	MAGMA_Drugs_and_Diseases	Mgmt	Nr1i2	Gstp1	Hspa4	Cyp3a13	Cyp2c55	Ptgs1	Cyp2a12	Il6	Dnmt1	Trp53
+Iloperidone	MAGMA_Drugs_and_Diseases	Cerkl	Nubpl	Celf4	Htr2a	Htr1a	Nrg3	Adra2c	Htr6	Adra1a	Htr7	Hrh1	Cyp2d10	Drd1	Drd2	Drd3	Drd4
+Iloprost	MAGMA_Drugs_and_Diseases	Ptgfr	Ppara	Ptger1	Tbxa2r	Ptger2	Ptgir	Ptger3	Ptger4	Ptgdr
+Imatinib	MAGMA_Drugs_and_Diseases	Abcc4	Lyn	Pdgfrb	Abcc2	Pdgfra	Ugt2a1	Runx1	Braf	Clk4	Etv6	Mapk10	Cyp1a2	Nf2	Nf1	Ulk3	Abcg3	Alk	Frk	Ddr2	Abcb4	Ddr1	Ret	Abcb1a	Cyp3a13	Egfr	Bcl2l11	Irak1	Myc	Nqo1	Prkch	Smad3	Yes1	Nqo2	Ntrk1	Smad4	Eya2	Bcr	Lck	Kit	Slco1a8	Xiap	Birc5	Chst1	Taok1	Met	Kras	Cd40lg	Csf1r	Slc22a5	Slc22a4	Flt3	Slc22a1	Ctnnb1	Pdgfb	Ikzf1	Slc2a4	Rcsd1	Abl2	Abl1	Sfn	Cyp2f2	Slc19a1	Jak2
+Imidazoline Receptor Ligand	MAGMA_Drugs_and_Diseases	Kdm4a	Hsp90aa1	Jun	Avpr2	Cbx1	Tshr	Ar	Cyp1a2	Cdk1	Ppard	Rapgef4	Trp53	Gmnn	Nr1i2	Glp1r	Nr1i3	Adrb2	Baz2b	Cyp3a13	Hif1a	Trpm2	Atxn2	Cxcr2	Thpo	Cyp2d10	Cfl1	Mapk1	Trpm8	Kcnn4	Cyth2	Trpm4	Kcnh2	Npsr1
+Imipramine	MAGMA_Drugs_and_Diseases	Kcnd2	Kcnd3	Bdnf	Htr1a	Cyp1a2	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Ehmt2	Htr2a	Adra1d	Cyp3a13	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Mc2r	Htr7	Hrh1	Cyp2d10	Drd1	Drd2	Drd5	Kcnh1	Kcnh2
+Immunostimulant	MAGMA_Drugs_and_Diseases	Fabp4	Ffar1	F12	Ffar4	Pld2
+Indapamide	MAGMA_Drugs_and_Diseases	Slc12a3	Kcne1	Car2	Kcnq1	Apex1	Htr3a
+Indigestion	MAGMA_Drugs_and_Diseases	Ache	Chrm3	Chrna2	Chrm4	Ace	Chrm1	Chrm2	Chrm5
+Indinavir	MAGMA_Drugs_and_Diseases	Abcb1a	Csf2	Ugt1a1	Cyp2d10	Cyp1a2	Slc2a4	Cyp3a13	Tfap2a
+Indomethacin	MAGMA_Drugs_and_Diseases	Ace	Ppara	Bdnf	Pla2g2a	Fst	Trpv1	Ptgr2	Th	Kcnq1	Birc5	Cyp1a2	Agtr1b	Ddit3	Pparg	Sag	Abcc1	Nfe2l2	Ptges	Itgb2l	Cd86	Kcne1	Ptgdr2	Slc46a1	Glo1	Adm	Afp	Slc2a4	Cyp3a13	Eno2	Fgf2	Tyms	Ptgs1	Ptgs2	Fcgr4	Cyp2d10	Myc	Stat6	Ggt1
+Indoramin	MAGMA_Drugs_and_Diseases	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b
+Inflammatory Bowel Disease	MAGMA_Drugs_and_Diseases	Pla2g2e	Chuk	Alox5	Ptgs1	Ptgs2
+Influenza A Virus Infection	MAGMA_Drugs_and_Diseases	Grin3a	Grin2b	Grin2a	Slc22a1	Drd2	Grin2d	Grin2c
+Ingenol Mebutate	MAGMA_Drugs_and_Diseases	Prkcg	Prkcd	Prkce	Prkcb	Prkca
+Inhaled Anaesthetic	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk16	Kcnk18	Gabrg3	Gabrg2	Glrb	Kcnk2	Kcnk3	Gabrb3	Gabrb2	Gabrb1	Gria1	Kcnk9	Ryr1	Kcna1	Atp2c1	Glra1	Cacna1s	Gabre	Gabrd
+Inositol	MAGMA_Drugs_and_Diseases	Tgfb1	Irs1	Bdnf	Lpl	Plg	Grm1	Tec	Nras	Nt5e	Cd5	Cckbr	Ntf3	Cdipt	Ccn2	Trp53
+Insomnia	MAGMA_Drugs_and_Diseases	Slc36a2	Slc36a1	Rgs4	Aldh1a1	Mapt	Ehmt2
+Insulin Secretagogue	MAGMA_Drugs_and_Diseases	G6pdx	Kcnj11	Abcc8	Irs1	Abcc9	Tnf	Kcnj1
+Insulin Sensitizer	MAGMA_Drugs_and_Diseases	Tgfb1	Irs1	Bdnf	Lpl	Plg	Grm1	Tec	Nras	Nt5e	Cd5	Cckbr	Ntf3	Cdipt	Ccn2	Trp53
+Interleukin Inhibitor	MAGMA_Drugs_and_Diseases	Il1b	Il1rn	Hsp90aa1	Eya2	Hsp90ab1	Casp3	Ehmt2	Casp1	Nfe2l2
+Ipratropium	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10	Cyp1a2	Cyp3a13
+Irbesartan	MAGMA_Drugs_and_Diseases	Edn1	Ace	Jun	Slc10a1	Cyp1a2	Agtr1b	Apoe	Slc2a4	Cyp3a13	Agt	Apob
+Irinotecan	MAGMA_Drugs_and_Diseases	Abcc4	Tgfb1	Abcc5	Abcc2	Bche	Ube2i	Vdr	Braf	Dkk1	Dcbld1	Runx3	Tgfbr2	Vegfa	Mapk10	Pik3ca	Dpyd	Abcg1	Atm	Top1	Abcg3	Trp53	Ces1d	Abcb1a	Nr1i2	Shmt1	Brca1	Brca2	Areg	Egfr	Klc1	Tyms	Erbb2	E2f1	Top1mt	Akt1	Smad4	Ugt1a1	Atrx	Xrcc3	Mthfr	Isg15	Rad50	Kcnq5	Kras	Pin1	Ces2f	Sema3c	Rgs5	Slc19a1	Ugt1a10
+Iritis	MAGMA_Drugs_and_Diseases	Anxa1	Tspyl1	G6pdx	Ar	Tg	Alpi	Bax	Nfe2l2	Pnpla3	Rb1	Abcb1a	Notch1	Tat	Lcat	Cyp3a13	Plg	Nr3c2	Nr3c1	Serpina6	Fcgr4	Dse	Bglap2	Cd34
+Iron Overload	MAGMA_Drugs_and_Diseases	Ar	Abcc2	Cyp27b1	Vdr	Cyp24a1	Cyp1a2	Cyp1a1	Cyp3a13	Gc	Ugt1a2	Abcg3
+Irritability	MAGMA_Drugs_and_Diseases	Epm2a	Htr1f	Eif2ak4	Htr1b	Htr1a	Rabep1	Ppa2	Lep	Cyp1a1	Ankk1	Ugt1a10	Abcb1a	Nr1i2	Tnfrsf11a	Htr2c	Adrb2	Htr2a	Tnf	Adra1d	Cyp3a13	Adra1b	Comt	Adra1a	Hrh1	Hrh4	Hrh3	Cyp2d10	Ntf3	Msantd1	Akt1	Sh2b1	Cyp1b1	Drd1	Drd2	Drd3	Drd4	Kcnh2	Grid2	Ugt1a1	Adra2c	Adra2b	Adra2a	Tjp1	Fasn	Ghrl	Cyp2e1	Faah	Htt	Htr6	Nts	Slc6a4	Grm3	Grin2b	Htr7	Rgs4	Grm7	Cnr1	Mc4r	Ugt1a6a	Ugt1a2
+Isoconazole	MAGMA_Drugs_and_Diseases	Cyp17a1	Idh1	Gmnn	Ehmt2	Baz2b	Ppard
+Isoflurane	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk16	Kcnk18	Gabrg3	Gabrg2	Glrb	Kcnk2	Kcnk3	Gabrb3	Gabrb2	Gabrb1	Gria1	Kcnk9	Ryr1	Kcna1	Atp2c1	Glra1	Cacna1s	Gabre	Gabrd
+Isoniazid	MAGMA_Drugs_and_Diseases	Abcb1a	Nr1i2	Gstp1	Tnf	Cyp3a13	Bach1	Xpo1	Cyp1a2	Mafk	Nos2	Cyp2e1
+Isotretinoin	MAGMA_Drugs_and_Diseases	Ar	Tg	Vdr	Thrb	Car3	Rarg	Lpl	Rarb	Bcl2	Rara	Cyp3a13
+Isradipine	MAGMA_Drugs_and_Diseases	Nr1i2	Cacna2d1	Cacna1c	Cacna1s	Cacna1d	Cyp3a13	Cacna1f
+Itching	MAGMA_Drugs_and_Diseases	Tgfb1	Smad2	Anxa1	Jag1	Vdr	Mmp1a	Tsc22d3	Arnt	Defa5	Agt	Nfkb1	Ar	Gal	Il1b	Nr5a1	F9	Pcx	Ptprc	Sftpa1	Ada	Nfe2l2	Abcb1a	Notch1	Nr1i2	Plau	Cyp3a13	Hif1a	Itgam	Nr3c2	Nr3c1	Tyms	Hsd17b10	Hsd11b2	Nppc	Erbb2	Has3	Nos2	Ccl17	Apob
+Ixabepilone	MAGMA_Drugs_and_Diseases	Tub	Tubb5	Tubb1	Cyp3a13	Esr1	Tuba1a	Tubb2a	Esr2	Tubb4b	Tuba4a	Tuba1c	Tuba1b	Tuba3b	Tubb2b	Tubb6	Erbb2	Tubb3	Kras	Pgr
+JAK Inhibitor	MAGMA_Drugs_and_Diseases	Gak	Ptk2b	Aak1	Bmp2k	Jak3	Tyk2	Jak1	Jak2
+Joint Inflammation	MAGMA_Drugs_and_Diseases	Kcna1	Pla2g2a	Hexb	Ppy	Nr3c1
+KATP Activator	MAGMA_Drugs_and_Diseases	Kcnj10	Kcnj11	Kcnj8	Abcc9	Calca	Cyp3a13	Ptgs1	Sult5a1	Cyp2d10	Cyp1a2	Kcnj1
+KIT Inhibitor	MAGMA_Drugs_and_Diseases	Acvr1	Lyn	Pdgfrb	Pdgfra	Limk1	Irak4	Braf	Cdc42bpa	Mapk14	Tec	Fes	Apc	Axl	Pik3ca	Abi1	Nf1	Sik2	Sik3	Epha2	Sik1	Abcg3	Trp53	Frk	Ddr2	Csf3r	Egfr	Aurkb	Crkl	Slk	Erbb4	Erbb2	Kdr	Map3k20	Smad3	Stat5b	Yes1	Idh1	Plk4	Map2k2	Srms	Map2k1	Syk	Idh2	Tnk2	Mink1	Arid1a	Ptk6	Hck	Ar	Bcr	Fgr	Lck	Kit	Fgfr1	Map3k10	Btk	Taok1	Met	Kras	Pkn2	Fgfr3	Ppard	Csf1r	Blk	Src	Dyrk3	Gmnn	Cbl	Abl2	Hras	Abl1	Fyn	Jak2	Map4k5
+Kainate Receptor Antagonist	MAGMA_Drugs_and_Diseases	Gabra3	Car12	Gabra2	Gabrq	Insr	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Scn10a	Scn8a	Scn4a	Scn2a	Gria2	Gabrb3	Gria3	Gabrb2	Gabrb1	Gria1	Nr1i2	Grik4	Grik5	Grik2	Grik3	Aqp4	Grik1	Car2	Car1	Car4	Scn11a	Scn9a	Scn7a	Scn5a	Car7	Scn3a	Scn1a	Gabre	Gabrd	Gria4
+Kaposi Sarcoma	MAGMA_Drugs_and_Diseases	Jun	Gstm6	Mmp2	Tubb5	Tube1	Tubb2a	Tubb4b	Tubg1	Tubb4a	Tuba4a	Pthlh	Tubb2b	Nf1	Abcb4	Abcb1a	Csf2	Gmnn	Nr1i2	Cdkn1a	Trh	Tubb1	Tubd1	Cyp3a13	Klk1b24	Tuba1a	Tuba3b	Tuba1c	Tuba1b	Tubb6	Tbxa2r	Tubb3	Cga
+Ketanserin	MAGMA_Drugs_and_Diseases	Hpgd	Htr1b	Htr2c	Ehmt2	Hspa4	Htr2a	Adra1d	Htr1a	Htr2b	Adra1b	Adra1a	Htr5a	Htr7	Drd1	Slc18a1	Slc18a2	Drd5
+Ketoconazole	MAGMA_Drugs_and_Diseases	Kdm4a	Abcb1a	Vdr	Hsp90aa1	Cyp4f14	Cyp3a13	Cbx1	Ehmt2	Nr1h4	Baz2b	Cyp2d10	Cyp1a2	Kcna10	Mphosph8	Abcg3	Nfe2l2	Snca
+Ketoprofen	MAGMA_Drugs_and_Diseases	Slc5a8	Cyp2d10	Pmp22	Ptgs1	Ptgs2
+Kidney Stones	MAGMA_Drugs_and_Diseases	Ntng1	Ugt1a1	Pou5f1	Grem2	Tbl1xr1	Cyp1a2	Trib2	Abcg3	Ugt1a10	Myt1l	Tshz2	Cyp3a13	Pkd2	Cyp2d10	Aox1	Ugt1a6a	Ugt1a2	Xdh
+Kir6 Channel KATP Activator	MAGMA_Drugs_and_Diseases	Kcnj10	Kcnj11	Kcnj8	Abcc9	Calca	Cyp3a13	Ptgs1	Sult5a1	Cyp2d10	Cyp1a2	Kcnj1
+L Arginine	MAGMA_Drugs_and_Diseases	Ass1	Gprc6a	Nos3	Arg2	Asl	Nos2	Slc7a1	Azin2	Slc7a3	Slc7a4
+L Citrulline	MAGMA_Drugs_and_Diseases	Nos3	Ass1	Gprc6a	Ddah2	Ddah1	Padi4	Padi3	Nos1	Padi6	Nos2	Otc	Padi2	Padi1
+L Methionine	MAGMA_Drugs_and_Diseases	Cbs	Mtrr	Aldh1l1	Bhmt1b	Cps1	Bhmt2	Mtr	Gnmt	Metap2	Psph
+Labetalol	MAGMA_Drugs_and_Diseases	Lpl	Adrb1	Adrb2	Adra1d	Cyp3a13	Adra1b	Adra1a	Gja1	Cyp2d10	Cyp1a2	Hpse
+Labor Induction	MAGMA_Drugs_and_Diseases	Ptgfr	Ptgdr2	Ptger1	Tbxa2r	Ptger2	Ptger3	Ptger4	Ptgdr
+Lamotrigine	MAGMA_Drugs_and_Diseases	2410137M14Rik	Scn10a	Scn8a	Cyp1a2	H2-Ab1	Ppt1	Scn4a	Scn2a	Abcg3	H2-Eb2	Abcb1a	Slc22a1	Cyp3a13	Aqp4	Scn11a	Scn9a	Cyp2d10	Scn7a	Hnf4a	Scn5a	Scn3a	Ugt1a2	Scn1a
+Lanosterol Demethylase Inhibitor	MAGMA_Drugs_and_Diseases	Trpm2	Nr1i2	Npy2r	Trpv5	Npy1r
+Lansoprazole	MAGMA_Drugs_and_Diseases	Vdr	Gsr	Plk1	Npc1	Atp4b	Il1b	Phospho1	Atp4a	Mapt	Cyp1a2	Rab9	Cyp1a1	Nfe2l2	Abcb1a	Nr1i2	Alox15	Ehmt2	Baz2b	Cyp3a13	Rgs4	Cyp2d10
+Lapatinib	MAGMA_Drugs_and_Diseases	Yes1	Nrg1	Braf	Esr1	Esr2	Abcb11	Pik3ca	Birc5	Nf2	Met	Kras	Pgr	Fgfr2	H2-Eb2	Ret	Cdkn1b	Src	Cyp3a13	Egfr	Aurkb	Eef2k	Erbb4	Ccnd1	Cdh1	Erbb2	Erbb3
+Laropiprant	MAGMA_Drugs_and_Diseases	Ptgfr	Ptgdr2	Ptger1	Tbxa2r	Ptger2	Ptgir	Ptger3	Hmgcr	Ptgdr
+Leflunomide	MAGMA_Drugs_and_Diseases	Mmp1a	Atad5	Htt	Ahr	Cyp3a13	Esr1	Dhodh	Cyp1a2	Ptk2b	Rab9	Smn1	Nfe2l2
+Left Ventricular Systolic Dysfunction LVSD	MAGMA_Drugs_and_Diseases	Ces1d	Dsp	Ace	Gsr	Nos3	Adrb2	Hspa4	Cyp3a13	Nr3c2	Agt	Vegfa	Dpp4	Slco1b2	Mapk8	Apex1	Bdkrb2	Nos1	Pde5a	Ccn2	Trp53
+Leishmaniasis	MAGMA_Drugs_and_Diseases	Abcb1a	Csf2	Pla2g1b	Pik3ca	Tnf
+Lenalidomide	MAGMA_Drugs_and_Diseases	Abcb1a	Crbn	Ctnnb1	Vegfc	Ikzf1	Tnf	Fgf2	Rbx1	Vegfa	Vegfb	Cul4a	Ddb1	Tnfsf11	Kras
+Lenvatinib	MAGMA_Drugs_and_Diseases	Yes1	Nras	Pdgfrb	Ret	Flt1	Pdgfra	Kit	Flt4	Fgfr1	Kdr	Braf	Fgfr2
+Leprosy	MAGMA_Drugs_and_Diseases	Cyb5r3	G6pdx	Cyp2d10	Cyp1a2	2410137M14Rik	Cyp3a13	Gnrh1	Dhfr	H2-Eb2
+Letrozole	MAGMA_Drugs_and_Diseases	Mmp2	Ctnnb1	Kmt2c	Cyp3a13	Tnfrsf11b	Esr1	Esr2	Cyp19a1	Cyp2a12	Pik3ca	Erbb2	Tnfsf11	Cyp1b1	Pgr
+Leukotriene Receptor Antagonist	MAGMA_Drugs_and_Diseases	Il1b	Il6	Cyp2d10	Pde4d	Cyp1a2	Pde4c	Pde3a	Pde4b	Pde4a	Cyp3a13	Pde5a
+Leuprolide	MAGMA_Drugs_and_Diseases	Ar	Cyp2d10	Cyp1a2	Gnrhr	Cyp3a13	Gnrh1
+Levetiracetam	MAGMA_Drugs_and_Diseases	Abcb1a	Car1	Sv2a	Cacna1b	2410137M14Rik	Scn1a	Htr3a
+Levodopa	MAGMA_Drugs_and_Diseases	Kdm4a	Il15	Bdnf	Homer1	Cbx1	Mthfr	Recql	Trpv1	Gpr143	Dlg4	Apex1	Agtr1b	Bax	Mphosph8	Ada	Fen1	Blm	Slc22a1	Maob	Dbh	Ehmt2	Comt	Slc6a3	Hsd17b10	Nr4a1	Wrn	Polk	Drd1	Mapk1	Drd2	Drd3	Drd4	Drd5	Poli	Polh
+Levofloxacin	MAGMA_Drugs_and_Diseases	Abcb1a	Il6	Gsr	Top2a	Rce1
+Levomepromazine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a	Hrh1	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Drd5
+Levonordefrin	MAGMA_Drugs_and_Diseases	Alox15	Ehmt2	Recql	Adra1d	Hif1a	Slc6a2	Adra1b	Adra2c	Adra1a	Adra2b	Hsd17b10	Adra2a	Apex1	Polk
+Levosulpiride	MAGMA_Drugs_and_Diseases	Car12	Car1	Cyp2d10	Cyp1a2	Car7	Cyp3a13	Drd2	Drd3	Kcnh2
+Levothyroxine	MAGMA_Drugs_and_Diseases	F9	Thbd	Thrb	Thra	Serpine1	Pparg	Ahr	Nfe2l2	Tshb
+Lidocaine	MAGMA_Drugs_and_Diseases	G6pdx	Bdnf	Slc1a1	Mpo	Cyp3a13	Egfr	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Lidoflazine	MAGMA_Drugs_and_Diseases	Cyp2d10	Scn3a	Scn1a	Slc29a1	Kcnh2
+Linezolid	MAGMA_Drugs_and_Diseases	Il6	Maob	Cyp2d10	Maoa	Cyp1a2	Cyp3a13
+Liothyronine	MAGMA_Drugs_and_Diseases	Thrb	Thra	Cyp2d10	Cyp1a2	Htr1b	Cyp3a13
+Lipase Inhibitor	MAGMA_Drugs_and_Diseases	Lipf	Dagla	Abhd12	Daglb	Fasn	Cnr1	Lpl	Serpine1	Abhd6	Pnlip
+Lipoprotein Lipase Activator	MAGMA_Drugs_and_Diseases	Slco1b2	Slco2b1	Ace	Il6	Jun	Ppara	Bdnf	Lpl	Lep	Ldlr
+Lisinopril	MAGMA_Drugs_and_Diseases	Ace2	Ace	Mmp3	Bdkrb2	Agt	Vip	Shbg
+Listeria	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	G6pdx	Nr1i2	Plk1	Cyp3a13	Il17a	Il1b	Cyp2d10	Cyp1a2	F2rl1	Bax	Bcl2	Xdh	Abcc1	Kcnh2
+Lisuride	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra2c	Htr6	Adra1a	Adra2b	Adra2a	Drd1	Drd2	Drd3	Drd4	Drd5
+Local Anesthetic	MAGMA_Drugs_and_Diseases	G6pdx	Cyp3a13	Atp1a1	Htr3a	Slc6a3	Tyr	Ar	Cyb5r3	Grin3a	Scn10a	Chrna10	Usp1	Nfe2l2
+Lofepramine	MAGMA_Drugs_and_Diseases	Vdr	Gmnn	Htr1a	Slc6a2	Slc6a4
+Loperamide	MAGMA_Drugs_and_Diseases	Abcb1a	Oprd1	Cacna1a	Oprk1	Oprm1	Cyp3a13	Mtor	Tshr	Ar	Pomc	Cyp2d10	Tek	Trp53	Calm1
+Loratadine	MAGMA_Drugs_and_Diseases	Gmnn	Slc6a15	Kcna5	Mpo	Cyp3a13	Hif1a	Tshr	Ar	Hrh1	Cyp2d10	Mapk1	Tac1	Ccl17	Npsr1
+Lorlatinib	MAGMA_Drugs_and_Diseases	Rb1	Fes	Ros1	Trp53	Alk	Eml4
+Lornoxicam	MAGMA_Drugs_and_Diseases	Gcg	Poli	Ptgs1	Ptgs2
+Losartan	MAGMA_Drugs_and_Diseases	Abcb1a	Camk1d	Nphs1	Ugt1a1	Stk39	Agtr1b	Cyp3a13
+Lovastatin	MAGMA_Drugs_and_Diseases	Idh1	Abcc2	Vdr	Cyp4f14	Ugt1a1	Apoa5	Pik3cb	Lep	Soat1	Cdk2	Cyp1a2	Abcb1a	Nr1i2	Pxn	Hdac2	Lpl	Prl3d2	Ehmt2	Hmgcr	Thbs1	Cyp3a13	Rorc	Itgal	Tfpi	Lipa	Pik3cg	Slco1b2	Nt5e	Slco2b1	Cyp2d10	Akt1	Smn1	Ugt1a2	Cd14	Fdft1	Ldlr	Apob
+Loxapine	MAGMA_Drugs_and_Diseases	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Htr5a	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Adrb1	Htr2a	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Hrh2	Htr7	Kcnt1	Hrh1	Hrh4	Drd1	Drd2	Drd3	Drd4	Drd5
+Lumbar Epidural Block	MAGMA_Drugs_and_Diseases	Fgf6	Bche	Kcna1	Scn10a	Hspa8	Scn5a	Kcna5	Lif	Myod1	Nrg1	Tnf	Scn4a
+Lupus	MAGMA_Drugs_and_Diseases	Anxa1	Vdr	Chka	Hspa8	Tsc22d3	Lif	Nrg1	Vcam1	Bmp7	Tgfbr3	Nr5a1	Tg	Krt19	Cdk6	Crispld2	Dok5	Cdk4	Soat1	Cdk2	Cyp1a2	Agtr1b	Dpep1	Rara	Thrsp	Nfe2l2	Cd86	Rb1	Rela	Ret	Abcb1a	Nr1i2	Mug1	Serpine1	Pth1r	Cyp3a13	Gls	Ubr1	Tyms	Cyp2d10	Ctla4	S100a10	Tead1	Sds	Smad3	Igfbp1	Ntrk1	Ugt1a1	Nr0b1	Cartpt	Ar	Tjp1	F9	Birc5	Sag	Sftpa1	Cdh17	Folr1	Fabp1	Notch1	Irs2	Ctnnb1	Gstp1	Chat	Pygl	Slc2a4	Actc1	Gata3	Nr3c2	Nr3c1	Nppc	Htr7	Hyal2	Rps19	Sis	Tdo2	Nos2	Junb	Ggt1	Ccl17	Apob
+Lurasidone	MAGMA_Drugs_and_Diseases	Htr7	Htr2a	Drd2	Htr1a	Adra2c	Adra2a
+Lymphangioleiomyomatosis	MAGMA_Drugs_and_Diseases	Fbxw7	Il10	Il15	Mmp1a	Tsc1	Eml4	Il7	Wt1	Apc	Mapk10	Rbl2	Pik3ca	Bax	Nf1	Fkbp4	Abcg3	Nfe2l2	Trp53	Rb1	Abcb1a	Nr1i2	Cyp3a13	Egfr	Prkaa1	Erbb2	Akt1	Ctla4	Eif4e	Mcl1	Igfbp1	Tcf7l2	Oprk1	Mtor	Dcn	Ar	Il17a	Fkbp1a	Por	Rheb	Rps6kb1	Fgfr1	Ddit3	Kras	Pgr	Ddc	Plau	Fgf2	Itgal	Flcn	Tgm2	Stk11	Pim1	Hras	Nos1	Ugt1a10	Jak2
+MEK Inhibitor	MAGMA_Drugs_and_Diseases	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Ugt1a1	Braf	Nras	Apc	Gna11	Atm	Nf1	Hras	Kras	Map2k6	Map2k7
+Mafenide	MAGMA_Drugs_and_Diseases	Car12	Car2	G6pdx	Car4	Car6	Car9	Car14
+Malaria	MAGMA_Drugs_and_Diseases	G6pdx	Cyp1a1	Cyp1b1	Hnmt
+Malathion	MAGMA_Drugs_and_Diseases	Ache	Vdr	Cyp3a13	Hsd17b10	Nfe2l2
+Malignant Hyperthermia MH	MAGMA_Drugs_and_Diseases	Ryr2	Ryr3	Ryr1	Mapt	Cyp2d10	Cyp1a2	Cyp3a13
+Mantle Cell Lymphoma MCL	MAGMA_Drugs_and_Diseases	Blk	Lyn	Src	Txk	Bmx	Egfr	Tec	Lck	Erbb4	Erbb2	Btk	Fyn	Jak3	Itk
+Maprotiline	MAGMA_Drugs_and_Diseases	Trpm3	Abcb1a	Atxn2	Cyp2d10	Cyp1a2	Drd1	Cyp3a13	Slc6a2	Mtor	Trp53	Tshr
+Masitinib	MAGMA_Drugs_and_Diseases	Csf1r	Yes1	Lyn	Pdgfrb	Pdgfra	Src	Hck	Ptk2	Kit	Fgfr1	Ptk2b	Abl1	Fgfr3	Fgfr2
+Mastocytoma	MAGMA_Drugs_and_Diseases	Csf1r	Yes1	Lyn	Pdgfrb	Pdgfra	Src	Hck	Ptk2	Kit	Fgfr1	Ptk2b	Abl1	Fgfr3	Fgfr2
+Mebendazole	MAGMA_Drugs_and_Diseases	Gmnn	Tubb5	Cyp1a2	Tuba1a	Tubb4b
+Mecamylamine	MAGMA_Drugs_and_Diseases	Chrna2	Chrna1	Chrna4	Chrna3	Chrnb4	Chrna6	Cyp2d10	Chrna7	Cyp1a2	Cyp3a13
+Meclizine	MAGMA_Drugs_and_Diseases	Hrh1	Hpn	Cyp2d10	Nr1i3	Cyp1a2
+Meclofenamic Acid	MAGMA_Drugs_and_Diseases	Cnr1	Kcnq2	Alox5	Kcnq3	Ptgs1	Ptgs2
+Medetomidine	MAGMA_Drugs_and_Diseases	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Medroxyprogesterone	MAGMA_Drugs_and_Diseases	Vdr	Mmp1a	Cyp3a13	Rorc	Esr1	Ar	Aldh1a1	Erg	Bax	Cyp1b1	Pgr	Nfe2l2	Npsr1
+Medullary Thyroid Cancer MTC	MAGMA_Drugs_and_Diseases	Yes1	Ret	Flt3	Hgf	Cflar	Egfr	Kit	Gna11	Pik3ca	Tek	Kdr	Hras	Met	Abl1	Kras	Ros1
+Medulloblastoma	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+Melanin Inhibitor	MAGMA_Drugs_and_Diseases	Nqo1	Cd40	Hpgd	Gstp1	Top2a	Ehmt2	Rorc	Hif1a	Nfkb1	Tyr	Cyp19a1	Hsd17b10	Il1b	Thpo	Bcl2	Nfe2l2
+Melanocortin Receptor Agonist	MAGMA_Drugs_and_Diseases	Mc3r	Mc2r	Mc1r	Mc5r	Mc4r	Nr3c2
+Melanoma	MAGMA_Drugs_and_Diseases	Map2k4	Map2k5	Map2k2	Map2k3	Map2k1	Ugt1a1	Braf	Nras	Apc	Gna11	Atm	Nf1	Hras	Kras	Map2k6	Map2k7
+Melatonin	MAGMA_Drugs_and_Diseases	Tgfb1	Nqo2	Cyp3a13	Esr1	Gfap	Il1b	Mtnr1b	Mtnr1a	Per1	Ghrh	Ifng	Cyp1a2	Bax	Rara	Calr	Gclm	Calm1	Maob	Asmt	Prl3d2	Mpo	Rorb	Htr2b	Epx	Rora	Pik3cg	Aanat	Bglap2	Map2	Alox5	Myc	Tmsb10b
+Melatonin Receptor Agonist	MAGMA_Drugs_and_Diseases	Abcb1a	Mtnr1b	Mtnr1a	Htr2c	Htr2a	Htr2b
+Melevodopa	MAGMA_Drugs_and_Diseases	Arsa	Ddc	Drd1	Drd2	Drd3	Drd4	Drd5	Hsd17b10
+Meloxicam	MAGMA_Drugs_and_Diseases	Ar	Cyp3a13	Ptgs1	Ptgs2
+Membrane Integrity Inhibitor	MAGMA_Drugs_and_Diseases	Abcb1a	Csf2	Pla2g1b	Pik3ca	Tnf
+Membrane Permeability Inhibitor	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk18	Atp5f1d	Gabrg3	Gabrg2	Glrb	Kcnma1	Kcnk2	Kcnk3	Gabrb3	Gabrb2	Gabrb1	Gria1	Kcnk9	Ryr1	Kcna1	Atp2c1	Glra1	Cacna1s	Gabre	Gabrd
+Menadione	MAGMA_Drugs_and_Diseases	Nqo1	Nqo2	Vdr	Vkorc1	F10	F2	Ar	F7	F9	Aldh1a1	Mapt	Ggcx	Cyp1a2	Nfe2l2	Ppard	Trp53	Vkorc1l1	Blm	Maob	Maoa	Pros1	Ehmt2	Proz	Atxn2	Bglap2	Cyp2d10	Aox1
+Meningitis	MAGMA_Drugs_and_Diseases	Aldh1a1	Cyp3a13	Cd55b
+Menstrual Pain	MAGMA_Drugs_and_Diseases	Hrh1	Cyp2d10	Cyp1a2	Cyp3a13	Kcnh2
+Mepacrine	MAGMA_Drugs_and_Diseases	Fen1	Rgs4	Pla2g1b	Atad5	Polk	Ehmt2	Usp1	Drd1	Mtor	Poli
+Mephentermine	MAGMA_Drugs_and_Diseases	Adrb1	Adrb2	Adra1d	Adrb3	Drd2	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Mephenytoin	MAGMA_Drugs_and_Diseases	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Cyp3a13	Scn4a	Scn1a	Scn2a
+Mepyramine	MAGMA_Drugs_and_Diseases	Hrh1	Cyp2d10	Cyp1a2	Cyp3a13	Kcnh2
+Mesalazine	MAGMA_Drugs_and_Diseases	Vdr	Il10	Chuk	Hpgd	Ehmt2	Recql	Mpo	Cyp3a13	Nat1	Gls	Hsd17b10	Ptgs1	Ptgs2	Ikbkb	Alox5	Apex1	Polk	Pparg	Usp1	Casp1
+Mesoridazine	MAGMA_Drugs_and_Diseases	Htr2c	Ehmt2	Drd1	Htr2a	Drd2	Htr1a	Drd3	Cyp2j13
+Mesothelioma	MAGMA_Drugs_and_Diseases	Abcc2	Slc46a1	Ggh	Mthfr	Egfr	Tyms	Dhfr	Atic	Gart	Kras	Slc19a1	Alk
+Mestranol	MAGMA_Drugs_and_Diseases	Ar	Cyp2d10	Cyp1a2	Esr1	Agt	Ggt1	Tshb
+Metaraminol	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Cyp3a13	Drd2	Adra1a
+Metergoline	MAGMA_Drugs_and_Diseases	Gmnn	Htr1f	Cbx1	Htr1b	Htr2c	Ehmt2	Baz2b	Htr2a	Htr1a	Htr2b	Htr6	Htr5a	Htr7	Thpo	Hpse	Drd1	Kcnh2
+Metformin	MAGMA_Drugs_and_Diseases	Idh1	Kcnj11	Ppara	Hnf1b	Nbea	Fmo5	Prkab1	Mtor	Prkab2	Sp1	Capn10	Pik3ca	Atm	Prpf31	Kras	Slc29a4	Prkaa2	Slc47a1	Amhr2	Nr1i2	Slc22a1	Slc22a3	Slc22a2	Prkag2	Slc2a2	Prkag3	Prkag1	Prkaa1	Acacb	Nras	Stk11	Erbb2	Hras	Cpa6	Slc19a3
+Metharbital	MAGMA_Drugs_and_Diseases	Gabra3	Gria2	Gabra2	Gabrb3	Gabrq	Chrna4	Gabra1	Gabrb2	Gabrp	Gabrb1	Gabra6	Gabra5	Chrna7	Gabra4	Gabrg1	Grik2	Gabrg3	Gabrg2	Gabre	Gabrd
+Methazolamide	MAGMA_Drugs_and_Diseases	Car12	Insr	Car2	Car1	Car4	2410137M14Rik	Car7	Ehmt2	Car14
+Methimazole	MAGMA_Drugs_and_Diseases	Jun	Csf2	Crmp1	Ehmt2	Tnf	Cyp7b1	2410137M14Rik	Gfap	Fcgr4	Tpo	Il2ra	Bglap2	Dpysl3	Lep	Ctla4	Trp53	H2-Eb2
+Methocarbamol	MAGMA_Drugs_and_Diseases	Car1	Cyp2d10	Cyp1a2	Cyp3a13
+Methotrexate	MAGMA_Drugs_and_Diseases	Tpm3-rs7	Foxp3	Dok5	Folh1	Cyp1a2	Bax	Klrd1	Mphosph8	Tardbp	Abcg3	Trp53	S100a8	Slamf1	Ugt1a10	Rb1	Slc46a1	Nalcn	Gls	Tyms	Sult2a1	Ccnd1	Cyp2d10	Alox5	E2f1	Drosha	Slc16a7	Idh1	Hgf	Arid5b	2410137M14Rik	H2-T24	Dhfr	Slco1a8	Specc1l	Birc5	Itpa	Fgfr4	Il1rn	Mtrr	Notch1	Ikzf1	Gata3	Fpgs	Slc19a1	Abcc4	Ncoa3	Abcc2	Vdr	Abcc3	Gstm6	Ggh	Ampd1	Atp5f1e	Bmp7	Il2	Adora2a	Slc22a29	Abcc1	Ada	Slc22a8	Nfe2l2	Tlr4	Shmt1	Tat	Ptprm	Tnfaip3	Hspb2	Cyp3a13	Slco1b2	Atic	Fcgr4	Pacsin2	Ntrk1	Nos3	Ugt1a1	Sod2	Apex1	Pparg	Folr1	Cdkn1b	Flt3	Kcna1	Pygl	Ehmt2	Afp	Nr3c1	Hsd17b10	Polb	Ugt1a6a	Ugt1a2	Poli	Polh
+Methoxsalen	MAGMA_Drugs_and_Diseases	Fen1	Cyp2a12	Cyp2d10	Cyp1a2	Cyp1a1	Cyp3a13	Esr1	Tac1	Mapk14
+Methoxyflurane	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Atp5f1d	Gabrg3	Gabrg2	Glrb	Gabrb3	Gabrb2	Gabrb1	Gria1	Ryr1	Kcna1	Cyp3a13	Atp2c1	Glra1	Cacna1s	Gabre	Gabrd
+Methyldopa	MAGMA_Drugs_and_Diseases	Kdm4a	Cbx1	Recql	Adra2c	Adra2b	Adra2a	Aldh1a1	Apex1	Cyp1a2	Mphosph8	Fen1	Blm	Ddc	Gmnn	Ehmt2	Baz2b	Cyp3a13	Comt	Hsd17b10	Polb	Rgs4	Casp6	Cyp2d10	Polk	Drd2	Poli
+Methylergometrine	MAGMA_Drugs_and_Diseases	Vdr	Rgs4	Aldh1a1	Htr1f	Htr2c	Ehmt2	Recql	Drd1	Htr2a	Htr2b
+Methylprednisolone	MAGMA_Drugs_and_Diseases	Itgb2l	Abcb1a	Anxa1	Trpc5	Bdnf	Cd80	Nr3c1	Ar	Cxcl10	Il5	Il2ra	Ifng	Myc	Bcl2	Nfe2l2	Trp53
+Methysergide	MAGMA_Drugs_and_Diseases	Vdr	Htr1f	Htr1b	Htr2c	Ehmt2	Recql	Htr2a	Htr1a	Htr2b	Htr6	Htr5a	Htr7	Rgs4	Aldh1a1	Drd1
+Metirosine	MAGMA_Drugs_and_Diseases	Th	Ifna4	Bdnf	Cyp2d10	Cyp1a2	Ucp1	Cyp3a13	Slc6a3	Il2
+Metixene	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Metoclopramide	MAGMA_Drugs_and_Diseases	Chrm1	G6pdx	Htr3b	Htr3a	Htr4	Il2	Cyb5r3	Cyb5r2	Cyb5r4	Cyp2d10	Cyp1a2	Drd2	Cyb5r1
+Metoprolol	MAGMA_Drugs_and_Diseases	Lrrc15	Ace	Grk4	Cyp2d10	Slc25a31	Adrb1	Slc4a1	Adrb2
+Metronidazole	MAGMA_Drugs_and_Diseases	Il6	Aldh1a1	Tspo	Cyp3a13
+Mexiletine	MAGMA_Drugs_and_Diseases	Cyp2d10	Scn5a	Plau	Scn4a	Tac1
+Mianserin	MAGMA_Drugs_and_Diseases	Hspa5	Htr2c	Htr2a	Adra1d	Cyp3a13	Htr2b	Adra1b	Htr3a	Htr6	Adra1a	Adra2a	Htr4	Hrh2	Htr7	Hrh1	Cyp2d10	Drd1
+Miconazole	MAGMA_Drugs_and_Diseases	Kdm4a	Idh1	Abcb1a	Vdr	Hsp90aa1	Nr1i2	Cyp3a13	Trpm2	Cyp2d10	Trpv5	Cyp1a2
+Microtubule Inhibitor	MAGMA_Drugs_and_Diseases	Tub	Tubb5	Tubb1	Cyp3a13	Igf2	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Tuba1c	Tuba1b	Tubb2b	Tubb6	Tubb3
+Microtubule Stabilizing Agent	MAGMA_Drugs_and_Diseases	Tub	Tubb5	Tubb1	Cyp3a13	Esr1	Tuba1a	Tubb2a	Esr2	Tubb4b	Tuba4a	Tuba1c	Tuba1b	Tuba3b	Tubb2b	Tubb6	Erbb2	Tubb3	Kras	Pgr
+Midostaurin	MAGMA_Drugs_and_Diseases	Prkch	Yes1	Ntrk3	Pdgfrb	Prkcg	Pdgfra	Prkci	Prkcd	Prkce	Hspa4	Prkcb	Prkca	Etv6	Prkcz	Kit	Pik3cb	Pik3ca	Fgfr1	Prkd1	Prkd3	Kras	Prkcq	Flt3	Kdr	Stk32b
+Mifepristone	MAGMA_Drugs_and_Diseases	Kdm4a	Abcb1a	Nr1i2	Bdnf	Cbx1	Ehmt2	Lif	Baz2b	Cyp3a13	Klk1b24	Mtor	Nr3c1	Ar	Sis	Gnas	Drd1	Pgr	Mphosph8	Nfe2l2	Npsr1
+Miglitol	MAGMA_Drugs_and_Diseases	Mgam	Ganab	Gaa	Mga	Ganc
+Milnacipran	MAGMA_Drugs_and_Diseases	Htr1a	Slc6a2	Mdga2	Slc6a4	Adra2a
+Milrinone	MAGMA_Drugs_and_Diseases	Pde2a	Pde3b	Pde3a	Pde4a	Pde5a
+Miltefosine	MAGMA_Drugs_and_Diseases	Abcb1a	Csf2	Pla2g1b	Pik3ca	Tnf
+Minoxidil	MAGMA_Drugs_and_Diseases	Kcnj10	Kcnj11	Kcnj8	Abcc9	Calca	Cyp3a13	Ptgs1	Sult5a1	Cyp2d10	Cyp1a2	Kcnj1
+Mirtazapine	MAGMA_Drugs_and_Diseases	Tph2	Htr2c	Htr2a	Slc2a4	Htr1a	Cyp3a13	Adra2c	Htr3a	Adra2b	Adra2a	Gal	Rabep1	Cyp2d10	Lep	Sh2b1	Fkbp5
+Misoprostol	MAGMA_Drugs_and_Diseases	Ptger2	Ptgir	Ptger3	Ptger4	Npsr1
+Mitochondrial DNA Polymerase Inhibitor	MAGMA_Drugs_and_Diseases	Nqo1	Nqo2	Vdr	Vkorc1	F10	F2	Ar	F7	F9	Aldh1a1	Mapt	Ggcx	Cyp1a2	Nfe2l2	Ppard	Trp53	Vkorc1l1	Blm	Maob	Maoa	Pros1	Ehmt2	Proz	Atxn2	Bglap2	Cyp2d10	Aox1
+Mitotane	MAGMA_Drugs_and_Diseases	Cyp11a1	Atm	Rorc	Esr1	Nfe2l2	Kcnh2
+Mitoxantrone	MAGMA_Drugs_and_Diseases	Arsa	Kdm4a	Smad3	Yes1	Mbnl1	Atad5	Cbx1	Recql	Nfkb1	Rpsa	Rad52	Bax	Bcl2	Mphosph8	Dnmt1	Abcg3	Trp53	Top2b	Fen1	Abcb1a	Blm	Galnt14	Htt	Top2a	Ehmt2	Brca1	Cyp3a13	Slco1b2	Atxn2	Rgs4	Wrn	Racgap1	Thpo	Nsd2	Polk	Pim1	Ugt1a2	Mapk1	Poli	Polh
+Molindone	MAGMA_Drugs_and_Diseases	Hrh1	Ehmt2	Drd1	Htr2a	Drd2
+Montelukast	MAGMA_Drugs_and_Diseases	Car10	Galnt17	Abcc9	Cyp3a13	Mllt3	Slco2b1	Cysltr1	Cyp2d10	Alox5	Cyp1a2	Lta4h	Ugt1a2	Abcc1
+Mouth Inflammation	MAGMA_Drugs_and_Diseases	Gjb1	Gjd3	Gjd2	Gjb3	Gjb2	Gjd4	Gjb5	Gjb4	Gjb6	Gje1	Gjc2	Panx2	Gjc1	Panx3	Gja1	Gjc3	Panx1	Gja4	Gja3	Gja10	Gja5	Gja8	Hsd11b1
+Mucolytic Agent	MAGMA_Drugs_and_Diseases	Ntrk1	Chuk	Vwf	Gss	Grin2d	Grin1	Grin3a	Tollip	Sftpa1	Aco1	H2ax	Rela	Acy1	Slc2a4	Slc7a11	Slc6a3	Igf1r	Nr4a1	Ikbkb	Grin2b	Grin2a	Cxcr2	E2f1	Ldlr
+Mucus Protecting Agent	MAGMA_Drugs_and_Diseases	Cbr1	Vdr	Blm	Kat2a	Gmnn	Hpgd	Usp1	Nfe2l2
+Multiple Myeloma	MAGMA_Drugs_and_Diseases	Ctsb	Bdnf	F12	Hspa4	Psmb9	Psmc6	Psmc4	Pik3ca	Psmc5	Psmc2	Psmc3	Bax	Bcl2	Psmc1	Nfe2l2	Trp53	Psmd11	Psmd10	Rb1	Rela	Try4	Psmd13	Psmd12	Psmd14	Hspb2	Klk4	Psmb11	Psmb10	Psmd9	Psmc3ip	Psmd7	Psmd5	Ccnd1	Psmd6	Psmd3	E2f1	Psmd4	Psmd1	Psmd2	Capn1	Ctla4	Adrm1b	F2	Nfkb1	Nfkb2	Ar	Psma6	Psma7	Psma4	Psma5	Sem1	Psma2	Psma3	Psme4	Xiap	Psma1	Psme2b	Ddit3	Psme3	Kras	Psme1	Fgfr3	Bcl2l2	Notch1	Flt3	Plat	Plg	Gata2	Psma8	Psmb7	Psmb8	Psmb5	Psmb6	Psmb3	Psmb4	Psmb1	Psmb2	Pmaip1	Psmf1
+Multiple Sclerosis	MAGMA_Drugs_and_Diseases	Gabbr2	Gabbr1	Bdnf	Fos	Gcg	Nfkb1	Kctd8	Kctd12	Nos1	Tac1	Kctd16	Nfe2l2	Tshb
+Muscle Pain	MAGMA_Drugs_and_Diseases	Tgfb1	Ace	Col26a1	Hspa5	Itga2	Nrg1	Tsc1	Prkab1	Agt	Gp6	Prkab2	Tapbp	Il1b	Il4	Nfkbia	Pik3ca	Fas	Cyp1a2	H2-Ab1	Fsip1	Trp53	Tlr3	Col18a1	Prkaa2	B4galt2	Tnfrsf11a	Itga2b	Zbtb22	Cyp3a13	Pear1	Prkaa1	Tbxa2r	Cyp2d10	P2ry1	Adora1	Me3	Asic3	Fcer1g	Mcl1	Chia1	Ntrk1	Slc30a9	F2r	Nos3	Cyp4f14	Ptgir	Hgf	Pla2g4a	Slc6a12	Gp1ba	Nat1	Gfap	Nfkb1	Nfkb2	Tbxas1	Ddit3	Pparg	Cep68	H2-Eb2	Pth	Irs2	Ptger2	Thra	F13a1	Ptger3	Itgb3	Prkag2	Prkag3	Afp	Hmgcr	Prkag1	Fgf2	Hnmt	Ptgs1	Ptgs2	Ednra	Ikbkb	Rps6ka3	Hmox1	Ugt1a6a	Plcg1	Gc
+Muscle Relaxant	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrna7
+Mycosis	MAGMA_Drugs_and_Diseases	Itgb2l	Abcb1a	Anxa1	Trpc5	Bdnf	Cd80	Nr3c1	Ar	Cxcl10	Il5	Il2ra	Ifng	Myc	Bcl2	Nfe2l2	Trp53
+Mydriasis	MAGMA_Drugs_and_Diseases	Ar	Chrm3	Cxcl10	Chrm4	Chrm1	Chrm2	F2r	Chrm5	Cyp3a13	Cyp19a1	Adra2a	Guca2a
+Myelodysplastic Diseases MDS	MAGMA_Drugs_and_Diseases	Il11	Smad3	Idh1	Trit1	Mgmt	Atad5	Dnmt3a	Lif	Tet2	Ar	Asxl1	Tg	Aldh1a1	Cd247	Dnmt1	Cda	Nfe2l2	Trp53	Flt3	Gmnn	Tagln	Htt	Gstp1	Afp	Plau	Rorc	Gata2	Nr3c1	Tyms	Thpo	Myc	Abl1	Ggt1
+Myelofibrosis	MAGMA_Drugs_and_Diseases	Brd4	Flt3	Jak3	Tyk2	Jak1	Jak2
+Myeloma	MAGMA_Drugs_and_Diseases	F2r	Xrcc5	Crbn	Slc10a2	Vwf	Abcc6	Hgf	Cyp4b1	2410137M14Rik	Nfkb1	Rbx1	Cul4a	Ddb1	Ercc1	Nat1	Scgb3a1	Cyp1a2	Chst3	Ppard	Fgfr2	Itgb2l	Ctnnb1	Rpl13	Spg7	Tnf	Fgf2	Ptgs2	Fcgr4	Ctla4	Il6ra	Atp7a
+Myocardial Perfusion Imaging MPI	MAGMA_Drugs_and_Diseases	Adora2b	Adora2a	Ampd1	Adora3	Adora1
+Myxedema Coma	MAGMA_Drugs_and_Diseases	F9	Thbd	Thrb	Thra	Serpine1	Pparg	Ahr	Nfe2l2	Tshb
+NAD Precursor	MAGMA_Drugs_and_Diseases	Hcar2	Hcar1	Nnmt	Dgat2	Cyp2d10	Qprt	Cyp1a2	Cyp3a13
+NADPH Inhibitor	MAGMA_Drugs_and_Diseases	Cryz	Nqo1	Vkorc1	Aldh1a1	Gstm6	Cdkn1a	Nfe2l2
+Na K ATPase Inhibitor	MAGMA_Drugs_and_Diseases	Ar	Fxyd2	Atp1a4	Atp1a3	Atp1a2	Atp1b3	Atp1a1	Atp1b2	Atp1b1
+Nabumetone	MAGMA_Drugs_and_Diseases	Cyp1a2	Smn1	Ptgs1	Rapgef4	Cyp2j13	Ptgs2
+Nadolol	MAGMA_Drugs_and_Diseases	Lpl	Slco1a8	Adrb1	Adrb2	Adrb3
+Nafamostat	MAGMA_Drugs_and_Diseases	C1rb	Try4	Aldh1a1	Tmprss2	Tff2	Tnf	Asic3	Tpsb2	Trpm7	Asic1	Asic2
+Naftopidil	MAGMA_Drugs_and_Diseases	Cbx1	Ehmt2	Mapk1	Adra1a	Cacna1h
+Nalbuphine	MAGMA_Drugs_and_Diseases	Oprd1	Cyp2d10	Cyp1a2	Oprk1	Oprm1	Cyp3a13
+Naloxone	MAGMA_Drugs_and_Diseases	Oprd1	Grp	Bdnf	Oprk1	Prl3d2	Oprm1	Esr1	Adcyap1r1	Creb1	Anpep	Ntf3	Crh	Rara	Tlr4
+Naltrexone	MAGMA_Drugs_and_Diseases	Sigmar1	Oprd1	Dbh	Oprk1	Bax	Oprm1	Gcg	Tac1
+Naproxen	MAGMA_Drugs_and_Diseases	Alb	Cyp2d10	Cbx1	Cyp1a2	Cyp3a13	Plat	Ptgs1	Ptgs2
+Naratriptan	MAGMA_Drugs_and_Diseases	Htr1f	Htr1b	Htr1a
+Narcolepsy	MAGMA_Drugs_and_Diseases	Ache	Adrb2	Drd2	Slc6a2	Slc18a2	Adra1a
+Nateglinide	MAGMA_Drugs_and_Diseases	Slco1b2	Kcnj10	Kcnj11	Abcc8	Calca	Cyp2d10	Cyp1a2	Pparg	Cyp3a13	Kcnj1
+Nedocromil	MAGMA_Drugs_and_Diseases	Hsp90aa1	Cysltr1	Fpr1	Glcci1	Ptgdr
+Nelfinavir	MAGMA_Drugs_and_Diseases	Abcb1a	Il6	Cyp2d10	Akt1	Cyp1a2	Cyp3a13	Tlr4	Tfap2a
+Neomycin	MAGMA_Drugs_and_Diseases	Gypa	Cxcr4	Slc2a4	Rln1	Pik3cg
+Nephrotic Syndrome	MAGMA_Drugs_and_Diseases	Slc12a3	Car12	Ace	Car2	Car1	Car4	Mmp3	Nppa	Slc12a1	Car7	Agt	Car14
+Neratinib	MAGMA_Drugs_and_Diseases	Yes1	Herc2	Pik3ca	Erbb2	Kdr	Braf	Kras	Pgr	Esr1	Egfr	Esr2
+Neuroblastoma	MAGMA_Drugs_and_Diseases	Cyp2a12	Cyp2d10	Cyp3a13	Cyp2c55
+Neuroendocrine Tumors Of Pancreatic Origin PNET	MAGMA_Drugs_and_Diseases	Pbrm1	Tsc2	Braf	Tsc1	Esr1	Esr2	Mtor	Ar	Fkbp1a	Pik3r1	Pik3ca	Nf2	Atm	Nf1	Kras	Fgfr4	Bap1	Kdm5c	Rb1	Ret	Abcb1a	Notch1	Ctnnb1	Mpl	Brca1	Brca2	Cyp3a13	Egfr	Flcn	Nras	Rptor	Stk11	Gna11	Akt3	Erbb2	Akt1	Vhl	Akt2	Hras
+Neurotransmitter	MAGMA_Drugs_and_Diseases	Slc36a2	Slc36a1	Rgs4	Aldh1a1	Mapt	Ehmt2
+Nevirapine	MAGMA_Drugs_and_Diseases	Adipoq	Tcf19	Abcb1a	Abcc2	Abcc3	Nr1i2	Traf3ip2	Cyp3a13	Abcc10	Cyp2a12	Cyp2d10	Cyp1a2	H2-Ab1	Abcc1	Abcg3	Apob	Cchcr1
+Niacin	MAGMA_Drugs_and_Diseases	Hcar2	Hcar1	Nnmt	Dgat2	Cyp2d10	Qprt	Cyp1a2	Cyp3a13
+Nicardipine	MAGMA_Drugs_and_Diseases	Abcb1a	Nr1i2	Atad5	Bdnf	Cacna1c	Cbx1	Prl3d2	Ehmt2	Cyp3a13	Mtor	Ar	Il1b	Atxn2	Adora3	Drd1
+Niclosamide	MAGMA_Drugs_and_Diseases	Fzd1	Idh1	Stat3	Npc1	Mtor	Tshr	Pkm	Apc	Mapt	Cyp1a2	Rab9	Gnas	Nfe2l2	Trp53	Gmnn	Npy4r	Ehmt2	Ahr	Cyp3a13	Hif1a	Kcnt1	Rxra	Atxn2	Thpo	Cyp2d10	Smn1
+Nicorandil	MAGMA_Drugs_and_Diseases	G6pdx	Kcnj11	Abcc9
+Nicotinamide	MAGMA_Drugs_and_Diseases	Bst1	Ldha	Parp1	Sirt5	Sirt1	Sirt3
+Nicotine	MAGMA_Drugs_and_Diseases	Chrnb3	Tgfb1	Chrnb2	Chrnb4	Bdnf	Trpa1	Nrg1	Oprm1	Cp	Grin3a	Cdk4	Bax	Ankk1	Adgrl3	Chrna2	Abcb1a	Chrna4	Epb41	Chrm2	Chrna3	Chrna6	Chrna5	Chrna7	Chrna9	Cyp3a13	Comt	Hint1	Cyp2d10	Ntf3	E2f1	Drd1	Drd2	Elane	Fmo1	Fmo3	Htr3b	Creb1	Por	Tbxas1	Ddit3	Ddc	Cdkn1a	Chat	Afp	Slc6a3	Cyp19a1	Nr4a1	Cyp2a12	Galr1	Chrna10	Vhl	Ugt1a2	Ugt1a10
+Nicotinism	MAGMA_Drugs_and_Diseases	Chrna2	Chrnb2	Chrna4	Chrna3	Chrnb4	Chrna6	Chrna7
+Nifedipine	MAGMA_Drugs_and_Diseases	Slc14a2	Vdr	Cacna2d1	Cbx1	Hspa4	Mapt	Soat1	Cyp1a2	Mphosph8	Nfe2l2	Calm1	Abcb1a	Nr1i2	Hpgd	Cyp3a13	Adra1a	Atxn2	Ccnd1	Cyp2d10	Drd1	Elane	Atad5	Gfap	Myo9b	Nfkb1	Ar	Cacnb2	Aldh1a1	Glrb	Apba1	Gmnn	Grp	Kcna1	Camk2b	Cacna1c	Cacna1b	Ehmt2	Kcna5	Baz2b	Cacna1d	Rorc	Hif1a	Cacna1f	Nr3c1	Nts	Hsd17b10	Cacna1h	Glra1	Trpm3	Glra3	Rgs4	Cacna1s	Mapk1
+Niflumic Acid	MAGMA_Drugs_and_Diseases	Ano1	Pla2g1b	Kcnq1	Pla2g4a	Clcnkb	Ugt1a10	Ptgs1	Clcn1	Ptgs2
+Nilotinib	MAGMA_Drugs_and_Diseases	Ddr2	Ddr1	Lyn	Pdgfrb	Pdgfra	Flt3	Ugt1a1	Bcr	Kit	Nf1	Abl1	Kras	Abcg3
+Nilutamide	MAGMA_Drugs_and_Diseases	Ar	Cyp2d10	Cyp1a2	Cyp3a13	Klk1b24	Nfe2l2
+Nimesulide	MAGMA_Drugs_and_Diseases	Pla2g2e	G6pdx	Ehmt2	Hspa4	Mpo	Ptgs1	Ptgs2	Cyp2d10	Apex1	Tdp1	Cyp1a2	Nos1	Ltf
+Nimodipine	MAGMA_Drugs_and_Diseases	Abcb1a	Atad5	Serpine1	Cacna1c	Fos	Nr1h4	Cacna1d	Cyp3a13	Gfap	Nr3c2	Cacna1f	Ntf3	Cacna1s	Cacng1	Nos2	Cftr
+Nintedanib	MAGMA_Drugs_and_Diseases	Yes1	Blk	Lyn	Pdgfrb	Ret	Flt1	Pdgfra	Src	Flt3	Flt4	Cflar	Hck	Fgr	Lck	Akt1	Fgfr1	Kdr	Fyn	Fgfr4	Fgfr3	Fgfr2	Frk
+Niraparib	MAGMA_Drugs_and_Diseases	Idh1	Parp2	Parp1	Atm	Brca1	Brca2	Atr
+Nisoldipine	MAGMA_Drugs_and_Diseases	Vdr	Gmnn	Cacna1a	Cacna1c	Ehmt2	Cacna1d	Cyp3a13	Cacna1f	Ar	Cyp2d10	Cacna1s	Cyp1a2	Nfe2l2
+Nitrendipine	MAGMA_Drugs_and_Diseases	Abcb1a	Cacna2d1	Agtr1b	Cacng1	Cacna1d	Kcnn4	Cacna1f	Kcnh2
+Nitric Oxide Donor	MAGMA_Drugs_and_Diseases	G6pdx	Kcnj11	Abcc9
+Nitric Oxide Precursor	MAGMA_Drugs_and_Diseases	Ass1	Gprc6a	Nos3	Arg2	Asl	Nos2	Slc7a1	Azin2	Slc7a3	Slc7a4
+Nitric Oxide Scavenger	MAGMA_Drugs_and_Diseases	Polb	Rela	Gaa	Polk	Cyp1a1	Afp	Tnf	Nfkb1	Nfkb2
+Nitric Oxide Synthase Inhibitor	MAGMA_Drugs_and_Diseases	Tgfb1	Nqo2	Cyp3a13	Esr1	Gfap	Il1b	Mtnr1b	Mtnr1a	Per1	Ghrh	Ifng	Cyp1a2	Bax	Rara	Calr	Gclm	Calm1	Maob	Asmt	Prl3d2	Mpo	Rorb	Htr2b	Epx	Rora	Pik3cg	Aanat	Bglap2	Map2	Alox5	Myc	Tmsb10b
+Nitroxoline	MAGMA_Drugs_and_Diseases	Kdm4a	Smad3	Idh1	Vdr	Hsp90aa1	Gmnn	Htt	Baz2b	Nr2e3	Ar	Casp6	Metap2	Nfe2l2	Ppard
+Non Hodgkin Lymphoma NHL	MAGMA_Drugs_and_Diseases	G6pdx	Aldh1a1	Gsr	Mgmt	Cyp2d10	E2f1	Cyp1a2	Plau	Cyp3a13
+Non Nucleoside Reverse Transcriptase Inhibitor	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	Abcc3	Cyp3a13	Abcc1	Abcg3
+Non Small Cell Lung Cancer NSCLC	MAGMA_Drugs_and_Diseases	Nras	Erbb4	Erbb2	Erbb3	Nrg1	Met	Braf	Kras	Egfr	Eml4
+Nonivamide	MAGMA_Drugs_and_Diseases	Ar	Alox15	Cyp1a2	Trpv1	Cyp3a13
+Nootropic Agent	MAGMA_Drugs_and_Diseases	Vdr	Aldh1a1	Cyp1a2	Bcl2	Cyp3a13
+Norepinephrine	MAGMA_Drugs_and_Diseases	Kdm4a	Mbnl1	Vdr	Recql	Adra2c	Adra2b	Adra2a	Mapt	Apex1	Pah	Tdp1	Fen1	Blm	Adrb1	Ehmt2	Adrb2	Adra1d	Adrb3	Adra1b	Comt	Adra1a	Polk	Drd1	Slc18a1	Slc18a2	Poli	Polh
+Norepinephrine Inhibitor	MAGMA_Drugs_and_Diseases	Ntrk2	Sigmar1	Kcnd2	Ntrk1	Kcnd3	Htr1b	Oprk1	Oprm1	Htr1a	Adra2a	Kcnq2	Ifng	Kcnq3	Cyp1a2	Ada	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Oprd1	Pla2g1b	Kcna1	Chrm5	Htr2c	Prl3d2	Adrb1	Adrb2	Htr2a	Adra1d	Adrb3	Cyp3a13	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Hrh4	Cyp2d10	Drd1
+Norepinephrine Precursor	MAGMA_Drugs_and_Diseases	Pah	Adrb1	Adrb2	Adra1d	Adrb3	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Norepinephrine Reputake Inhibitor	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Vdr	Gabra6	Gabra5	Gabra4	Htr1b	Htr1a	Trp53	Chrm3	Chrm4	Gabrb3	Chrm1	Gabrb2	Chrm2	Gabrb1	Chrm5	Htr2c	Htr2a	Adra1d	Htr2b	Adra1b	Adra1a	Hrh1	Hrh4	Thpo	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2	Gabrg1	Nat1	Adra2c	Htr3a	Adra2b	Gabrg3	Adra2a	Gabrg2	Htt	Slc6a2	Htr6	Slc6a3	Slc6a4	Htr7	Gabre	Gabrd
+Norepinephrine Reuptake Inhibitor	MAGMA_Drugs_and_Diseases	Ntrk2	Sigmar1	Kcnd2	Ntrk1	Kcnd3	Htr1b	Oprk1	Oprm1	Htr1a	Adra2a	Kcnq2	Ifng	Kcnq3	Cyp1a2	Ada	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Oprd1	Pla2g1b	Kcna1	Chrm5	Htr2c	Prl3d2	Adrb1	Adrb2	Htr2a	Adra1d	Adrb3	Cyp3a13	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Hrh4	Cyp2d10	Drd1
+Norepinephrine Transporter Inhibitor	MAGMA_Drugs_and_Diseases	Grin3a	Grin2b	Grin2a	Grin3b	Cyp2d10	Grin2d	Slc6a2	Grin2c	Slc6a3	Grin1	Slc6a4	Tshr
+Norethindrone	MAGMA_Drugs_and_Diseases	Ar	Mug1	Prl3d2	Pgr	Plg	Nts	Nfe2l2
+Norgestimate	MAGMA_Drugs_and_Diseases	Ar	Trpc6	Trpc3	Pgr	Esr1
+Norgestrel	MAGMA_Drugs_and_Diseases	Ar	Hspa5	Srd5a1	Pgr	Esr1	Nfe2l2	Shbg
+Nortriptyline	MAGMA_Drugs_and_Diseases	Sigmar1	Kcnj10	Bdnf	Slc39a14	Htr1a	Adra2c	Pgrmc1	Adra2b	Adra2a	Ust	Gnb3	Trp53	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Chrm5	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Adrb3	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Atxn2	Hrh1	Cyp2d10	Drd1	Drd2
+Noscapine	MAGMA_Drugs_and_Diseases	Sigmar1	Cyp3a13	Hif1a
+Nucleoside Reverse Transcriptase Inhibitor	MAGMA_Drugs_and_Diseases	Bdnf	Tnf	Cyp3a13	Nt5c2	Tnfrsf1b	Ar	Pnp2	Il2ra	Cyp2d10	Cyp1a2	Xdh
+Obesity	MAGMA_Drugs_and_Diseases	Ache	Adrb2	Drd2	Slc6a2	Slc18a2	Adra1a
+Obsessive Compulsive Disorder OCD	MAGMA_Drugs_and_Diseases	Abcb1a	Gstp1	Htr1b	Htr2c	Htr2a	Cyp3a13	Htr2b	Slc6a2	Slc6a3	Slc6a4	Cyp2d10	Cyp1a2	Scn5a	Drd1	Fkbp5	Ppard	Trp53
+Octreotide	MAGMA_Drugs_and_Diseases	Igfbp1	Tg	Pik3cb	Lpar2	Nf2	Mpo	Sstr1	Klk1b24	Sstr2	Sstr3	Sstr5	Pik3cg
+Olanzapine	MAGMA_Drugs_and_Diseases	Gabra3	Epm2a	Gabra2	Gabrq	Gabra1	Gabrp	Gstm5	Htr1f	Gabra6	Bdnf	Cyp3a13	Gabra5	Gabra4	Eif2ak4	Htr1b	Gcg	Htr1a	Htr5a	Il1a	Rabep1	Lep	Cyp1a1	Spopl	Ankk1	Chrm3	Chrm4	Gabrb3	Abcb1a	Chrm1	Gabrb2	Gipr	Chrm2	Gabrb1	Chrm5	Glp1r	Htr2c	Adrb1	Adrb2	Ahr	Htr2a	Adrb3	Atp1a2	Htr2b	Adra1b	Comt	Adra1a	Hrh2	Hrh1	Hrh4	Sv2c	Sh2b1	Drd1	Drd2	Drd3	Drd4	Drd5	Ugt1a1	Gaa	Fmo1	Gabrg1	Mthfr	Fmo3	Gfer	Adra2c	Htr3a	Adra2b	Gabrg3	Adra2a	Gabrg2	Tbc1d1	Cckbr	Gnb3	Pparg	Faah	Pmch	Tpmt	Chat	Htr6	Slc6a4	Htr7	Rgs4	Cnr1	Mc4r	Gabre	Gabrd
+Olaparib	MAGMA_Drugs_and_Diseases	Idh1	Parp2	Parp3	Idh2	Parp1	Fanca	Esr1	Palb2	Esr2	Stag2	Pik3ca	Atm	Cdk12	Met	Kras	Pgr	Atr	Trp53	Bap1	Hdac2	Brca1	Cblc	Brca2	Chek1	Erbb2	Chek2	Myc	Vhl	Bard1
+Olopatadine	MAGMA_Drugs_and_Diseases	Hrh1	S100a2	S100a1	S100a13	S100b
+Omeprazole	MAGMA_Drugs_and_Diseases	Kdm4a	Vdr	G6pdx	Plk1	Cbx1	Atp4b	Il1b	Atp4a	Mapt	Cyp1a2	Vip	Nfe2l2	Abcb1a	Csf2	Nr1i2	Hpgd	Gstp1	Hdc	Hexb	Ehmt2	Ahr	Baz2b	Tnf	Cyp3a13	Clcn2	Hspb1	Cyp2d10	Tac1	Mcl1
+Onchocerciasis	MAGMA_Drugs_and_Diseases	P2ry13	Vdr	Ntrk1	St14	Pla2g2a	Cbx1	Sirt5	Recql	F2	Sirt1	Sirt3	Ccna2	Folh1	Pik3cb	P2rx3	Pik3ca	Spint1	Apex1	Fshr	Ifng	Tdp1	Hpse	Ddit3	Mphosph8	Pin1	Ryr2	Fen1	Ryr1	Kmt2a	Ehmt2	Gls	Hsd17b10	Mc2r	P2ry6	P2ry2	P2ry1	Polk	Usp2	Usp1
+Ondansetron	MAGMA_Drugs_and_Diseases	Abcb1a	Gsr	Cyp2d10	Ppy	Htr2a	Htr3b	Cyp3a13	Htr3a	Slc6a4
+Orlistat	MAGMA_Drugs_and_Diseases	Lipf	Dagla	Abhd12	Daglb	Fasn	Cnr1	Lpl	Serpine1	Abhd6	Pnlip
+Oropharyngeal Candidiasis	MAGMA_Drugs_and_Diseases	Kdm4a	Hsp90aa1	Jun	Avpr2	Cbx1	Tshr	Ar	Cyp1a2	Cdk1	Ppard	Rapgef4	Trp53	Gmnn	Nr1i2	Glp1r	Nr1i3	Adrb2	Baz2b	Cyp3a13	Hif1a	Trpm2	Atxn2	Cxcr2	Thpo	Cyp2d10	Cfl1	Mapk1	Trpm8	Kcnn4	Cyth2	Trpm4	Kcnh2	Npsr1
+Osimertinib	MAGMA_Drugs_and_Diseases	Nras	Erbb2	Met	Kras	Egfr
+Osteoporosis	MAGMA_Drugs_and_Diseases	Fdps	Il11	Mvk	Ptpre	Atp6v1a	Ptprc	Ptprs	Vdr	Plau	Cyp19a1	Ptpn4
+Other Antibiotic	MAGMA_Drugs_and_Diseases	Kdm4a	Smad3	Fen1	Idh1	Vdr	Hsp90aa1	Gmnn	Plk1	Hpgd	Htt	Alox15	Nr1h4	Alox8	Hsd17b10	Ar	Rxra	Atxn2	Aldh1a1	Casp6	Oxct1	Ntsr1	Tlr9	Mapk1	Trp53
+Otitis	MAGMA_Drugs_and_Diseases	Kdm4a	Ctdsp1	Sumo1	Mpo	Acp1
+Ovarian Cancer	MAGMA_Drugs_and_Diseases	Map3k1	Rars1	Ube2i	G6pdx	Recql	Slc31a1	Acyp2	Lig3	Rev1	Smarca4	Cdc25c	Mycs	Fas	Bax	Mphosph8	Trp53	Raf1	Rb1	Galnt14	Lrp2	Adh1	Hpgd	Aqp9	Galnt18	Aurka	Comt	Egfr	Tyms	Nras	Chek1	E2f1	Myc	Akt1	Acss2	Slc16a5	Idh1	Smad4	Ephx1	Xrcc5	Gadd45a	Mthfr	Xrcc1	Fanca	Fancc	Esr1	Trp73	H2ac25	Gclc	Nat1	Fgfr1	Gnas	Birc7	Cdh17	Dnmt1	Gclm	Fgfr3	Mdm2	Tpmt	Slc22a2	Plau	Xpc	Htr4	Tgm2	Stk11	Rgs4	Anpep	Slc19a1	Abcc4	Abcc2	Abcc3	Hspa8	Cbx1	Lif	Nrg1	Hspa4	Dcbld1	Otos	Vegfa	Il6	Kat2a	Mapt	Pik3ca	Ifng	Nf2	Atm	Bcl2	Top1	Abcc1	Atr	Nfe2l2	Alk	Abcb1a	Nr1i2	Alox15	Prl3d2	Brca1	Brca2	Cyp3a13	Mllt3	Mtr	Krt20	Dram1	Erbb2	Mutyh	Gabpa	Nqo1	Ntrk2	Eif3a	Dffb	Mdh2	Mgmt	Stat1	Rrm1	Csnk2a1	Ercc1	Rad52	Aldh1a1	Ercc4	Ercc2	Xiap	Apex1	Ddit3	Ercc6	Fxn	Polr1g	Kras	Cyp2e1	Cmpk1	Src	Grp	Gstp1	Hexb	Ehmt2	Hsd17b10	Ppp1r13l	Cxcr4	Atp7b	Rev3l
+Oxatomide	MAGMA_Drugs_and_Diseases	Hrh1	Cyp2d10	Cyp3a13	Hif1a	Cacna1h	Kcnh2
+Oxcarbazepine	MAGMA_Drugs_and_Diseases	Ugt1a10	Abcb1a	Abcc2	Vdr	2410137M14Rik	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a	H2-Eb2
+Oxybenzone	MAGMA_Drugs_and_Diseases	Lipe	Aldh1a1	Hpgd	Htt	Cyp1a2
+Oxybutynin	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10	Cyp3a13
+Oxymetazoline	MAGMA_Drugs_and_Diseases	G6pdx	Cyp2d10	Htr1b	Htr2c	Adra1d	Cyp3a13	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Oxyquinoline	MAGMA_Drugs_and_Diseases	Ar	Smad3	Baz2b	Rorc	Metap2	Nfe2l2
+Oxytocin	MAGMA_Drugs_and_Diseases	Nr5a1	Mapk8	Oxtr	Avpr2	Bax	Avpr1a	Avpr1b	Gcg	Oxt
+PARP Inhibitor	MAGMA_Drugs_and_Diseases	Idh1	Parp2	Parp1	Atm	Brca1	Brca2	Atr
+PDGFR Tyrosine Kinase Receptor Inhibitor	MAGMA_Drugs_and_Diseases	Yes1	Pdgfrb	Plk4	Flt1	Pdgfra	Csf1	Flt4	Ugt1a1	Pdgfb	Cyp3a13	Hif1a	Kit	Vhl	Kdr	Abl1
+PF 06463922	MAGMA_Drugs_and_Diseases	Rb1	Fes	Ros1	Trp53	Alk	Eml4
+PI3K Inhibitor	MAGMA_Drugs_and_Diseases	Map2k1	Braf	Esr1	Esr2	Mtor	Pik3cb	Pik3r1	Pik3ca	Cdk4	Fgfr1	Pi4ka	Kras	Pik3c3	Fgfr3	Trp53	Fgfr2	Sgk1	Rb1	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Pik3c2a	Pik3cg	Pik3r6	Nras	Erbb2	Akt1	Hras
+PKC Inhibitor	MAGMA_Drugs_and_Diseases	Fen1	Rgs4	Cyp2d10	Cnga2	Kcnn1	Kcnn2	Kcnn3	Cyp3a13	Hif1a	Mtor	Hsd17b10	Cnga1
+Paclitaxel	MAGMA_Drugs_and_Diseases	Epha5	Map3k1	Pdgfra	Tle3	Sox10	Tuba4a	Pdcd4	Abcg3	Trp53	Raf1	Aurka	Tubb1	Tuba3b	Egfr	Fgd4	Tubb6	Myb	Tubb3	E2f1	Akt1	Cyp1b1	Dscam	Acss2	Nfe2	Smad4	Ar	Nat1	Fasn	Birc5	Pgp	Mad1l1	Notch1	Gmnn	Eif4ebp1	Cyp19a1	Fntb	Stmn1	Abcc2	Abcc3	Gstm6	Mmp2	Bdnf	Tubb5	Lif	Nrg1	Oprm1	Tubb2a	Abcc10	Tubb2b	Mapt	Pik3ca	Cdk2	Atm	Bcl2	Abcc1	Tlr4	Abcb1a	Nr1i2	Top2a	Brca1	Brca2	Cyp3a13	Slco1b2	Map4	Trim30a	Casp7	Erbb2	Map2	Casp3	Rrm1	Syk	Fos	Tubb4b	Tubb4a	Sod2	Ercc1	Il2ra	Ercc2	Ddit3	Met	Kras	Slc29a1	Src	Cdkn1a	Gstp1	Tuba1a	Pik3cg	Ednrb	Tuba1c	Tuba1b	Jak2
+Palbociclib	MAGMA_Drugs_and_Diseases	Map4k2	Cdkn2b	Dapk3	Dyrk1b	Braf	Dyrk1a	Esr1	Esr2	Clk4	Smarca4	Clk2	Cdk9	Cdk6	Cdk5	Pik3ca	Ccne1	Cdk4	Taok1	Met	Prkd3	Kras	Pgr	Alk	Rb1	Ret	Smarcb1	Flt3	Rock2	Lrrk2	Mst1r	Prkx	Prkaa1	Nras	Mapk9	Ccnd3	Mapk8	Ccnd2	Chek1	Ccnd1	Erbb2	Rps6ka3	Nek2	Pak4	Map4k4	Map4k5
+Paliperidone	MAGMA_Drugs_and_Diseases	Rabep1	Erbb4	Cyp2d10	Mc4r	Sh2b1	Ehmt2	Drd1	Htr2a	Drd2
+Pamidronate	MAGMA_Drugs_and_Diseases	Fdps	Cd86	Casr
+Pancreatic Cancer	MAGMA_Drugs_and_Diseases	Wnt5b	Dkk1	Rbx1	Cdc25c	Apc	Fas	Abcg1	Bax	Abcg3	Trp53	Tymp	Ccnk	Galnt14	Pon1	Aurka	Cblb	Egfr	Tyms	Foxo1	Myb	Ccnd1	E2f1	Perp	Cyp1b1	Insr	Smad4	Xrcc3	Igfbp3	Xrcc4	Mthfr	Xrcc1	2410137M14Rik	Sele	Cyp2a12	Dlg5	Aldh3a1	Birc5	Gnas	Fgfr4	Irs1	Cyp19a1	Rgs5	Alcam	Fpgs	Tmem167	Il6ra	Slc19a1	Abcc4	Il11	Abcc5	Abcc2	Hspa5	Bdnf	Braf	Ppp2r5d	Gnl3	Pard3b	Vegfa	Nt5c1a	Ptprc	Pik3ca	Dpyd	Atm	Umps	Abcb1a	Dtymk	Megf11	Shmt1	Top2a	Hmmr	Cyp3a13	Pik3r2	Klc1	Slco1b2	Slc22a16	Erbb2	Cbr3	Nqo1	Cbr1	Nos3	Ercc1	Il2ra	Met	Kras	Cyp2e1	Lgr5	Cdkn1a	Dpys	Gstp1	Itgal	Exo1	Chn2	Nos1	Rev3l	Tshb
+Pancuronium	MAGMA_Drugs_and_Diseases	Chrm3	Chrna2	Chrna1	Chrna4	Chrm2
+Panic Disorders	MAGMA_Drugs_and_Diseases	Ace	Bdnf	Htr1b	Htr1a	Igf2	Ano1	Ar	Ppp1r1b	Reep5	Cyp1a2	Fkbp5	Slc29a4	Srp19	Crhr1	Abcb1a	Gsk3b	Tph1	Serpine1	Htr2a	Cyp3a13	Htr2b	Slc6a4	Htr4	Aanat	Atxn2	Cyp2d10	Drd1	Nos2	Kcnh2
+Panobinostat	MAGMA_Drugs_and_Diseases	Hdac5	Bap1	Hdac6	Hdac3	Smarcb1	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Kmt2a	Braf	Hdac9	Hdac7	Hdac8	Mycs	Kras
+Pantoprazole	MAGMA_Drugs_and_Diseases	Abcb1a	Atp4a	Vdr	Mapt	Gcg	Cyp3a13
+Papaverine	MAGMA_Drugs_and_Diseases	Crebbp	Pde4d	Cbx1	Ehmt2	Plau	Adra1d	Cyp3a13	Pde10a	Thpo	Cyp2d10	Pde4b	Xdh	Pde5a	Nfe2l2
+Paracetamol	MAGMA_Drugs_and_Diseases	Nqo1	Brd2	Hspa8	Pla2g4a	Oprm1	Trpv1	Cyp7b1	Il2	Cyp2a12	Cdk2	Cyp1a2	H2-Ab1	Cyp2e1	Faah	Tnfrsf11a	Cdkn1a	Cyp3a13	Ptgs1	Htr4	Ptgs2	Sult2a1	Sult5a1	Ccnd1	Sult1e1	Cyp2d10	Ugt1a6a	Plcg1	Ugt1a2	Ugt1a10	Mark2
+Parenchymal Neurocysticercosis	MAGMA_Drugs_and_Diseases	Gmnn	Atad5	Tubb5	Cyp1a2	Tuba1a	Tubb4b	Hspb1	Cyp2j13
+Parkinsons Disease	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra2c	Adra2b	Adra2a	Htr5a	Caly	Drd1	Drd2	Drd3	Drd4	Drd5
+Paroxetine	MAGMA_Drugs_and_Diseases	Bdnf	Htr1b	Htr3b	Htr1a	Mtor	Ar	P2rx4	Gdnf	Reep5	Cyp1a2	Fkbp5	Mdga2	Chrm3	Srp19	Chrm4	Abcb1a	Chrm1	Chrm2	Tph1	Chrm5	Adm	Ehmt2	Htr2a	Cyp3a13	Slc6a2	Comt	Slc6a4	Atxn2	Cyp2d10	Drd3
+Pazopanib	MAGMA_Drugs_and_Diseases	Yes1	Pdgfrb	Pdgfra	Limk1	Ugt1a1	Tnk2	2410137M14Rik	Mtor	Ptk2	Ar	Lck	Cdk7	Kit	Fgfr1	Nf1	Taok1	Met	Kras	Abcg3	Fgfr3	Itk	Ppard	Trp53	Alk	Fgfr2	Csf1r	Ret	Flt1	Ltk	Flt4	Hdac2	Aurka	Cyp3a13	Fgf1	Igf1r	Aurkb	Mapk9	Mapk8	Kdr	Nek2	Abl1	Fyn	Map4k4	Sh2b3
+Peficitinib	MAGMA_Drugs_and_Diseases	Ptk2b	Jak3	Tyk2	Jak1	Jak2
+Pelvic Inflammatory Disease	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Nos1	Xdh	Cyp3a13	Abcc1	Tfpi
+Pemetrexed	MAGMA_Drugs_and_Diseases	Abcc2	Slc46a1	Ggh	Mthfr	Egfr	Tyms	Dhfr	Atic	Gart	Kras	Slc19a1	Alk
+Penicillin Binding Protein Inhibitor	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+Pentoxifylline	MAGMA_Drugs_and_Diseases	Pde6h	Vwf	Pde6g	Pde4d	Gfap	Adra2b	Il1b	Pde10a	Adora2b	Adora2a	Pde3b	Bcl2	Pde3a	Pde5a	Pde7b	Pde7a	Pde9a	Itgb2l	Pcna	Pde1c	Pde1b	Pde1a	Tnf	Nt5e	Pde2a	Pde4c	Pde4b	Pde6d	Pde4a	Pde6c	Adora1	Pde6b	Pde6a	Pde8b	Pde8a
+Peptic Ulcer Disease PUD	MAGMA_Drugs_and_Diseases	Gjb1	Gjd3	Gjd2	Gjb3	Gjb2	Gjd4	Gjb5	Gjb4	Gjb6	Gje1	Gjc2	Panx2	Gjc1	Panx3	Gja1	Gjc3	Panx1	Gja4	Gja3	Gja10	Gja5	Gja8	Hsd11b1
+Percutaneous Coronary Intervention PCI	MAGMA_Drugs_and_Diseases	Fgb	Fgg	Itga2b	Itgb3
+Perhexiline	MAGMA_Drugs_and_Diseases	Cpt1b	Cpt1a	Cpt2	Cyp2d10	Cyp1a2	Cyp3a13
+Peripheral Nerve Block	MAGMA_Drugs_and_Diseases	Fgf6	Bche	Kcna1	Scn10a	Hspa8	Scn5a	Kcna5	Lif	Myod1	Nrg1	Tnf	Scn4a
+Peripheral Neuropathy	MAGMA_Drugs_and_Diseases	Kmt2e	Invs	Gmnn	Ncam1	Tex10	Nrxn1	Htr2c	Htr2a	Atp10a	Mief2	Slc6a2	Htr6	Slc6a3	Slc6a4	Ano2	Skic3	Cyp2d10	Treml4	Drd3
+Peripheral T Cell Lymphoma PTCL	MAGMA_Drugs_and_Diseases	Hdac5	Hdac6	Fbxw7	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Kmt2a	Ugt1a1	Hdac9	Hdac7	Hdac8
+Peroxisomal Disorders	MAGMA_Drugs_and_Diseases	Ces1d	Cox8a	Cox5a	Cox7c	Cox7b	Fech	Pla2g1b	Adh1	Gpbar1	Esrrg	Cox6a2	Cox7a1	Cox5b-ps	Cox6c	Cox6b1	Fabp6	Cox4i1
+Perphenazine	MAGMA_Drugs_and_Diseases	Gmnn	Cbx1	Htr2c	Htr2a	Htr6	Mtor	Htr7	Atxn2	Hrh1	Rad52	Rgs4	Thpo	Cyp2d10	Cyp1a2	Drd1	Drd2	Mphosph8	Trp53	Calm1	Kcnh2	Ube2n
+Pharyngitis	MAGMA_Drugs_and_Diseases	Slc15a1	Abcc2	Slc15a2	Slc22a6	Nr1i2	Anpep	Slc22a8
+Phenacemide	MAGMA_Drugs_and_Diseases	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Phenelzine	MAGMA_Drugs_and_Diseases	Aoc3	Maob	Gad2	Maoa	Gpt2	Ehmt2	Cyp3a13	Gpt	Slc6a2	Abat	Slc6a3	Slc6a4	Cyp2d10	Cyp1a2	Rab9
+Phenoxybenzamine	MAGMA_Drugs_and_Diseases	Aldh1a1	Cyp2d10	Cbx1	Adra1d	Cyp3a13	Drd2	Adra1b	Adra2c	Adra1a	Adra2b	Nfe2l2	Adra2a
+Phenprocoumon	MAGMA_Drugs_and_Diseases	Ppara	Vkorc1	Ephx1	Cyp4f14	Stx4a
+Phentolamine	MAGMA_Drugs_and_Diseases	Kcnj11	Slc2a4	Adra1d	Adra1b	Adra2c	Tyms	Adra1a	Adra2b	Adra2a	Alpi	Cyp2d10	Drd2
+Phenylbutyrate	MAGMA_Drugs_and_Diseases	Hdac5	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Xrcc5	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8	Bcl2	Smn1
+Phenylephrine	MAGMA_Drugs_and_Diseases	Ntrk1	Vwf	Adrb2	Hspa4	Adra1d	Fgf2	Itgam	Adra1b	Adra1a	Pik3cg	Bax	Drd1	Nos1	Drd2
+Phenytoin	MAGMA_Drugs_and_Diseases	Gabra1	Ephx1	Mthfr	2410137M14Rik	Pou5f1	Vegfa	Tg	Cyp2a12	Nat1	Scn10a	Scn8a	Cyp1a2	Cyp1a1	Scn4a	Scn2a	Nfe2l2	Nr1i2	Slc2a1	Trh	Cyp3a13	Aqp4	Cyp19a1	Scn11a	Scn9a	Cyp2d10	Ntf3	Scn7a	Scn5a	Ugt1a6a	Scn3a	Scn1a	Ggt1	Ugt1a10
+Pheochromocytoma	MAGMA_Drugs_and_Diseases	Aldh1a1	Cyp2d10	Cbx1	Adra1d	Cyp3a13	Drd2	Adra1b	Adra2c	Adra1a	Adra2b	Nfe2l2	Adra2a
+Phosphatase Inhibitor	MAGMA_Drugs_and_Diseases	Nqo1	Nqo2	Vdr	Vkorc1	F10	F2	Ar	F7	F9	Aldh1a1	Mapt	Ggcx	Cyp1a2	Nfe2l2	Ppard	Trp53	Vkorc1l1	Blm	Maob	Maoa	Pros1	Ehmt2	Proz	Atxn2	Bglap2	Cyp2d10	Aox1
+Phosphodiesterase Inhibitor	MAGMA_Drugs_and_Diseases	Vdr	Plk1	Thrb	Alox15	Ehmt2	Tnf	Cyp3a13	Hif1a	Hsd17b10	Aldh1a1	Mapt	Cyp1a2	Pde3b	Pde3a	Pde4b	Usp1	Poli
+Phospholipase Activator	MAGMA_Drugs_and_Diseases	Ar	Anxa1	Pla2g1b	Nr3c1	Nfe2l2
+Pilocarpine	MAGMA_Drugs_and_Diseases	Chrm3	Ntrk2	Chrm4	Chrm1	Chrm2	Ntrk1	Bdnf	Chrm5	Chat	Fos	Prl3d2	Cyp2a12	Ntf3	Abcc1
+Pimozide	MAGMA_Drugs_and_Diseases	Kdm4a	Idh1	Xbp1	Atad5	Cbx1	Htr1a	Mtor	Ar	Kcna10	Mphosph8	Ppard	Trp53	Calm1	Htr2a	Cyp3a13	Hif1a	Cacna1i	Rxra	Atxn2	Hrh1	Thpo	Cyp2d10	Drd1	Mapk1	Drd2	Drd3	Drd4	Drd5	Kcnh2	Npsr1
+Pinacidil	MAGMA_Drugs_and_Diseases	Kcnj11	Abcc8	Abcc9	Calca	Cyp3a13
+Pindolol	MAGMA_Drugs_and_Diseases	Adrb1	Adrb2	Gla	Htr2a	Htr1a	Htr2b
+Pinworm	MAGMA_Drugs_and_Diseases	Gmnn	Tubb5	Cyp1a2	Tuba1a	Tubb4b
+Pioglitazone	MAGMA_Drugs_and_Diseases	Adipoq	Tgfb1	Yes1	G6pdx	Nr1i2	Slc2a1	Hspa4	Thbs1	Cyp3a13	Gfap	Trpm3	Ptprd	Pparg	Ghrl
+Pipamperone	MAGMA_Drugs_and_Diseases	Hrh1	Htr1b	Htr2a	Drd2	Htr1a
+Pirarubicin	MAGMA_Drugs_and_Diseases	Fen1	Kmt2a	Htt	Top2a	Polk	Usp1	Gls	Abcc1
+Pirenzepine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10	Ehmt2	Drd1
+Piretanide	MAGMA_Drugs_and_Diseases	Ar	Slc12a1	Slc12a2	Ehmt2	Hif1a	Hsd17b10
+Pirfenidone	MAGMA_Drugs_and_Diseases	Mapk11	Tgfb1	Mapk12	Furin	Cyp1a2	Tnf	Hsd17b10	Mapk13	Mapk14
+Piribedil	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Cyp3a13	Drd2	Htr1a	Htr2b	Drd3	Adra2c	Drd4	Adra1a	Adra2a
+Piroxicam	MAGMA_Drugs_and_Diseases	Kdm4a	Cyp2d10	Pla2g2a	Cyp1a2	Baz2b	Cyp3a13	Ggt1	Ptgs1	Ptgs2
+Plague	MAGMA_Drugs_and_Diseases	Abcb1a	Il6	Gsr	Top2a	Rce1
+Platelet Aggregation Inhibitor	MAGMA_Drugs_and_Diseases	Fgb	Fgg	Itga2b	Itgb3
+Plerixafor	MAGMA_Drugs_and_Diseases	Ccr2	Kmt2a	Cxcr4	Ackr3	Ccr4	Men1
+Pneumonia	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Nos1	Xdh	Cyp3a13	Abcc1	Tfpi
+Podophyllotoxin	MAGMA_Drugs_and_Diseases	Top2b	Gmnn	Top2a	Tubb5	Tubb1	Cyp3a13	Nr0b1	Tuba1a	Tuba3b	Tubb2a	Tubb4b	Igf1r	Tubb4a	Tuba4a	Ar	Tuba1c	Tuba1b	Tubb2b	Tubb6	Pax8	Tubb3
+Poison Antidote	MAGMA_Drugs_and_Diseases	Cat	Adh1	Akr1a1	Ehmt2
+Polar Auxin Transport Inhibitor	MAGMA_Drugs_and_Diseases	Gsr	Avpr2	Recql	Cdc25c	Galk1	Mapt	Pik3cb	Pik3ca	Cyp1a2	Bax	Cyp1a1	Pik3c3	Mphosph8	Top1	Rela	Pon1	Hpgd	Top2a	Alox15	Pik3r5	Pik3r4	Pik3r3	Cyp3a13	Pik3r2	Hspb1	Pik3r6	Hsf1	E2f1	Drd1	Hibch	Cd34	Gabpa	Prkch	Yes1	Prkcg	Prkci	Gpr35	Prkcd	Atad5	Prkce	Prkcb	F2	Prkca	Nfkb1	Alox8	Hck	Nfkb2	Prkcz	Aldh1a1	Pik3r1	Stk17b	Apex1	Pkn1	Prkd1	Pkn3	Prkd3	Pkn2	Prkcq	Prkd2	Fen1	Blm	Ehmt2	Pik3cd	Pik3c2g	Hif1a	Pik3c2b	Pik3c2a	Cyp19a1	Hsd17b10	Pik3cg	Polb	Mapk3	Polk	Pim1	Xdh	Abl1	Mbp	Poli	Apob	Polh
+Polycystic Ovary Syndrom PCOS	MAGMA_Drugs_and_Diseases	Tgfb1	Irs1	Bdnf	Lpl	Plg	Grm1	Tec	Nras	Nt5e	Cd5	Cckbr	Ntf3	Cdipt	Ccn2	Trp53
+Polycythemia Vera	MAGMA_Drugs_and_Diseases	Csf3r	Vhl	Mpl	Cyp3a13	Plaur	Jak3	Tyk2	Crlf2	Jak1	Sh2b3	Il7r	Jak2
+Ponatinib	MAGMA_Drugs_and_Diseases	Yes1	Cdk19	Lyn	Pdgfrb	Pdgfra	Ripk3	Braf	Bcr	Cdk8	Lck	Kit	Pik3ca	Abi1	Fgfr1	Tek	Met	Kras	Fgfr4	Fgfr3	Fgfr2	Ret	Src	Flt3	Egfr	Erbb2	Abl2	Kdr	Ripk2	Abl1	Ripk1
+Postpartum Hemorrhage PPH	MAGMA_Drugs_and_Diseases	Ar	Drd2	Adra1a	Hsd17b10
+Potassium Channel Activator	MAGMA_Drugs_and_Diseases	Slc12a3	Snap25	Kcnj11	Kcnj8	Calca	Lpl	Ehmt2	Cck	Cyp7b1	Atp1a1	Nt5e	Car2	Car1	Cyp2d10	Kcnma1	Cyp1a2	Nos2
+Potassium Channel Blocker	MAGMA_Drugs_and_Diseases	Kcne1	Abcb1a	Gmnn	Calca	Cacna2d2	Cbx1	Adrb1	Cyp3a13	Kcna7	Mtor	Adra1a	Cacna1h	Sqle	Tg	Nos1ap	Cyp2d10	Cyp1a2	Scn5a	Sftpa1	Cyp2j13	Kcnh2
+Pramipexole	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra2c	Adra2b	Adra2a	Drd1	Drd2	Drd3	Drd4	Drd5
+Pranlukast	MAGMA_Drugs_and_Diseases	Il5	Cysltr1	Tnf	Rnase2b	Nfkb1
+Prasugrel	MAGMA_Drugs_and_Diseases	Ntrk1	P2ry12	Cyp3a13	Pear1
+Pravastatin	MAGMA_Drugs_and_Diseases	Rhoa	Abcc2	Ace	Abca1	Mmp2	Mmp3	Mthfr	Htr3b	Kif6	Il2	Il1b	Abcb11	Bax	Slc22a8	Abcg3	Tlr4	H2-Eb2	Abcb1a	Slc22a6	Lpl	Mttp	Hmgcr	Cyp3a13	Lipc	Slco1b2	Slco2b1	Htr7	Adamts1	Npc1l1	Apoe	Nos1	Ldlr	Apob
+Prazosin	MAGMA_Drugs_and_Diseases	Kcnh6	Kcnh7	Adra1d	Cyp3a13	Adra1b	Adra2c	Adra1a	Adra2b	Hsd17b10	Adra2a	Ar	Mapk8	Nos1	Abcg3	Kcnh2
+Prednicarbate	MAGMA_Drugs_and_Diseases	Ar	Anxa1	Pla2g1b	Nr3c1	Nfe2l2
+Prednisolone	MAGMA_Drugs_and_Diseases	Anxa1	Tspyl1	G6pdx	Ar	Tg	Alpi	Bax	Nfe2l2	Pnpla3	Rb1	Abcb1a	Notch1	Tat	Lcat	Cyp3a13	Plg	Nr3c2	Nr3c1	Serpina6	Fcgr4	Dse	Bglap2	Cd34
+Prednisone	MAGMA_Drugs_and_Diseases	Anxa1	Gstm6	Vwf	Bmp7	Ar	Cxcl12	Ptprc	Tg	Dok5	Ifng	Cyp1a2	Itgb2l	Abcb1a	Calca	Tpmt	Gstp1	Cyp3a13	Gata3	Nr3c1	Tyms	Hsd17b10	Mc2r	Cyp2d10	Drosha	Apoe	Ctla4	Mbp	Hsd11b1
+Premature Ejaculation PE	MAGMA_Drugs_and_Diseases	Cyp2d10	Htr1b	Htr2c	Htr1a	Slc6a4
+Premenstrual Syndrome	MAGMA_Drugs_and_Diseases	Srp19	Idh1	Abcb1a	Ace	Jun	P3h3	2410137M14Rik	Cyp3a13	Htr1a	Comt	Slc6a3	Slc6a4	Atxn2	Reep5	Gnb3	Cfl1	Cdk1	Drd1	Trp53
+Preservative	MAGMA_Drugs_and_Diseases	Kdm4a	Smad3	Fen1	Idh1	Vdr	Hsp90aa1	Gmnn	Plk1	Hpgd	Htt	Alox15	Nr1h4	Alox8	Hsd17b10	Ar	Rxra	Atxn2	Aldh1a1	Casp6	Oxct1	Ntsr1	Tlr9	Mapk1	Trp53
+Prilocaine	MAGMA_Drugs_and_Diseases	G6pdx	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Primary Dysmenorrhea PD	MAGMA_Drugs_and_Diseases	Car12	Edn1	Cacna2d2	Cacna2d1	Cacna2d4	Cacna2d3	Hspa4	Mmp9	Vegfa	Apc	Pik3ca	Nfe2l2	Bcar1	Col18a1	Alox12	Cyp3a13	Casp9	Casp3	Car9	Pdpk1	Stat3	Igfbp3	Ar	Cacnb2	Cacnb3	Cacnb4	Kcnq1	Kcnq2	Kcnq3	Kcnq4	Ddit3	Kcnq5	Pparg	Ghrl	Ptges	Cacnb1	Cdkn1b	Cdkn1a	Il23r	Cacna1a	Ctnnb1	Ptger4	Cacna1c	Atp2a3	Cacna1b	Atp2a2	Cacna1e	Plau	Atp2a1	Cacna1d	Rorc	Cacna1g	Cacna1f	Cacna1i	Ptgs1	Cacna1h	Ptgs2	Bglap2	Cacna1s	Abl1	Pdk1
+Primary Peritoneal Cancer PPC	MAGMA_Drugs_and_Diseases	Idh1	Parp2	Parp1	Atm	Brca1	Brca2	Atr
+Primidone	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Ar	Scn10a	Scn8a	Scn4a	Scn2a	Gria2	Gabrb3	Chrna4	Gabrb2	Gabrb1	Chrna7	Grik2	Trpm3	Scn11a	Scn9a	Scn7a	Scn5a	Scn3a	Scn1a	Gabre	Gabrd
+Probenecid	MAGMA_Drugs_and_Diseases	Ar	Abcb1a	G6pdx	Panx1	Slc22a6	Slco1c1	Abcc1	Slc22a8
+Procaine	MAGMA_Drugs_and_Diseases	Chrna2	Ryr2	Ryr1	Maob	Maoa	Htr3a	Slc6a3	Grin3a	Kcnmb1	Scn10a	Kcnma1	Kcnmb2	Kcnmb3	Kcnmb4	Kcnn1	Kcnn2	Kcnn3	Kcnn4
+Prochlorperazine	MAGMA_Drugs_and_Diseases	Kdm4a	Idh1	Gmnn	Cbx1	Ehmt2	Baz2b	Htr2a	Cyp3a13	Il2	Atxn2	Hrh1	Cyp2d10	Cyp1a2	Drd1	Ankk1	Drd2	Drd3	Mphosph8	Drd4	Mcl1	Rapgef4	Trp53
+Progesterone	MAGMA_Drugs_and_Diseases	Tpm3-rs7	Nrg1	Cp	Prkab1	Nme2	Pax2	Pik3cb	Cdk4	Fas	Cyp1a2	Cd28	Pmp22	Tardbp	Nfe2l2	Trp53	Catsper2	Tymp	Atf3	Catsper1	Abcb1a	Catsper4	Catsper3	Csf2	Nr1i2	Mug1	Rock2	Pros1	Tat	Cyp3a13	Klk1b24	Sts	Fcgr4	Rxra	Ccnd1	Cyp2d10	Ctsc	Cr2	Trpc5	Oprk1	Cartpt	Esr1	Gfap	Ar	Aldh1a1	Il2ra	Tdp1	Pgr	Rnaseh2a	Cd44	Csf1r	Cdkn1b	Oxtr	Pla2g1b	Serpinc1	Slc2a1	Slc2a4	Rorc	Nr3c2	Nr3c1	Pik3cg	Cyp17a1	Nppc	Tgm2	Ephb1	Mapk1	Abl1	Atp7a
+Progesterone Receptor Agonist	MAGMA_Drugs_and_Diseases	Ar	Nr1i2	Nr1h4	Pgr	Esr1	Esr2	Nr3c1
+Proguanil	MAGMA_Drugs_and_Diseases	Pdf	Slc22a1	Cyp3a13	Dhfr
+Prolactin Inhibitor	MAGMA_Drugs_and_Diseases	Adrb1	Htr2a	Htr1a	Adra2c	Htr3a	Htr6	Adra1a	Htr4	Htr5a	Ar	Htr7	Mapt	Drd1	Drd2	Drd3	Drd4	Drd5
+Promazine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Hif1a	Adra1b	Adra1a	Hrh1	Cyp2d10	Cyp1a2	Drd1	Drd2	Drd3	Drd4
+Promethazine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htt	Cbx1	Prl3d2	Ehmt2	Atxn2	Hrh1	Cyp2d10	Cyp1a2	Cyp1a1	Drd1
+Propafenone	MAGMA_Drugs_and_Diseases	Abcb1a	Cop1	Cyp2d10	Scn5a	Adrb1	Kcna5	Adrb2	Drd1	Cyp3a13	Mtor	Kcnh2
+Propantheline	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Cyp2d10	Cyp1a2
+Propofol	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Trpv1	Gabrg3	Gabrg2	Scn4a	Scn2a	App	Faah	Gabrb3	Abcb1a	Gabrb2	Gabrb1	Adrb2	Eno2	Nos1	Nos2	Gabre	Ugt1a10	Gabrd	Kcnh2
+Propranolol	MAGMA_Drugs_and_Diseases	Abcb1a	G6pdx	Bdnf	Adrb1	Ehmt2	Hspb2	Adrb2	Adrb3	Cyp3a13	Gfap	Adcyap1	Bglap2	Cyp2d10	Cyp1a2	Ccn2
+Propylthiouracil	MAGMA_Drugs_and_Diseases	Bdnf	Dio1	Prl3d2	Mpo	Tnf	Prkab1	Myo9b	Gja1	Tpo	Il2ra	Cyp2d10	Lep	Cyp1a2	Trp53	H2-Eb2
+Prostacyclin Analog	MAGMA_Drugs_and_Diseases	Ptgfr	Ptgdr2	Ptger1	Tbxa2r	Ptger2	Ptger3	Ptger4	Ptgdr
+Prostaglandin Receptor Agonist	MAGMA_Drugs_and_Diseases	Ptgfr	Ptger1	Tbxa2r	Ptger3	Ptgdr
+Prostanoid Receptor Agonist	MAGMA_Drugs_and_Diseases	Catsper2	Catsper1	Catsper4	Catsper3	Ptger1	Ptger2	Ptgir	Ptger4	Cyp3a13	Tbxa2r	Cyp2d10	Cyp1a2	Ptgdr
+Prostate Cancer	MAGMA_Drugs_and_Diseases	Ar	Cyp17a1	Tspyl1	Dse
+Proteasome Inhibitor	MAGMA_Drugs_and_Diseases	Ctsb	Bdnf	F12	Hspa4	Psmb9	Psmc6	Psmc4	Pik3ca	Psmc5	Psmc2	Psmc3	Bax	Bcl2	Psmc1	Nfe2l2	Trp53	Psmd11	Psmd10	Rb1	Rela	Try4	Psmd13	Psmd12	Psmd14	Hspb2	Klk4	Psmb11	Psmb10	Psmd9	Psmc3ip	Psmd7	Psmd5	Ccnd1	Psmd6	Psmd3	E2f1	Psmd4	Psmd1	Psmd2	Capn1	Ctla4	Adrm1b	F2	Nfkb1	Nfkb2	Ar	Psma6	Psma7	Psma4	Psma5	Sem1	Psma2	Psma3	Psme4	Xiap	Psma1	Psme2b	Ddit3	Psme3	Kras	Psme1	Fgfr3	Bcl2l2	Notch1	Flt3	Plat	Plg	Gata2	Psma8	Psmb7	Psmb8	Psmb5	Psmb6	Psmb3	Psmb4	Psmb1	Psmb2	Pmaip1	Psmf1
+Protein Synthesis Inhibitor	MAGMA_Drugs_and_Diseases	Abcb1a	Slc47a1	Cyp51	Alb	Cyp3a13	Kcnh2
+Protein Synthesis Stimulant	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	G6pdx	Gabra6	Gabra5	Gabra4	Grin2d	Grin2c	Grin1	Il2	Grin3a	Grin3b	Th	Pik3cb	Pik3ca	Bax	Tardbp	Abcg3	Gabrb3	Gabrb2	Gabrb1	Nr1i2	Nr1i3	Cyp3a13	Sult2a1	Hsd17b1	Ccn2	Sigmar1	Ppara	Gabrg1	Esr1	Gfap	Esr2	Gabrg3	Gabrg2	Ar	Gal	Sult2b1	Birc5	Irs1	Slc2a4	Grin2b	Grin2a	Mapk3	Nos1	Gabre	Gabrd
+Protein Tyrosine Kinase Inhibitor	MAGMA_Drugs_and_Diseases	Pdgfrb	Flt1	Pdgfra	Flt3	Kdr
+Proto Oncogene Tyrosine Protein Kinase Inhibitor	MAGMA_Drugs_and_Diseases	Lyn	Hipk2	Clk4	Etv6	Eml4	Clk2	Cdk7	Fer	Axl	Alk	Frk	Ret	Lrrk2	Aurka	Mst1r	Prkaa1	Stk3	Aurkb	Slk	Grk5	Kdr	Map4k2	Ntrk2	Ntrk3	Plk4	Prkcg	Camk1d	Ntrk1	Syk	Dapk3	Tnk2	Ptk2	Lck	Kit	Fgfr1	Btk	Taok1	Met	Pkn2	Prkcq	Fgfr3	Csf1r	Blk	Flt1	Src	Ltk	Flt3	Flt4	Igf1r	Tbk1	Rps6ka3	Abl1	Fyn	Jak3	Ros1	Map4k4	Jak2	Map4k5
+Protriptyline	MAGMA_Drugs_and_Diseases	Thpo	Cyp2d10	Drd1	Slc6a2	Nfkb1	Hsd17b10	Slc6a4
+Psoriasis	MAGMA_Drugs_and_Diseases	Kdm4a	Vdr	Gmnn	Plk1	Rarg	Stat3	Il1b	Rxra	Kat2a	Rxrb	Mapt	Rbp1	Rarb	Usp1	Rara	Rxrg	Rapgef4
+Psoriatic Arthritis	MAGMA_Drugs_and_Diseases	Cdk6	Cdk4	Pde4d	Pde4c	Pde4b	Pde4a
+Punctate Keratitis	MAGMA_Drugs_and_Diseases	Anxa1	Tspyl1	G6pdx	Ar	Tg	Alpi	Bax	Nfe2l2	Pnpla3	Rb1	Abcb1a	Notch1	Tat	Lcat	Cyp3a13	Plg	Nr3c2	Nr3c1	Serpina6	Fcgr4	Dse	Bglap2	Cd34
+Purinergic Receptor Antagonist	MAGMA_Drugs_and_Diseases	Ces1d	N6amt1	Abcb1a	B4galt2	P2ry12	Nos3	Cyp4f14	Itga2	Itgb3	Cyp3a13	Pear1	Ptgs1	Cyp2d10	Cyp1a2
+Pyelonephritis	MAGMA_Drugs_and_Diseases	Abcb1a	Il6	Gsr	Top2a	Rce1
+Pyrazinamide	MAGMA_Drugs_and_Diseases	Fasn	Cyp2d10	Cyp1a2	Mpo	Tnf	Cyp3a13
+Pyridoxine	MAGMA_Drugs_and_Diseases	Ddc	Ntrk1	Pdxk	Hp	Tnf
+Pyrimethamine	MAGMA_Drugs_and_Diseases	Ar	Idh1	Slc47a1	Hexa	Stat3	Gstp1	Acp1	Ikbkg	Folr1	Dhfr	Il2
+Quercetin	MAGMA_Drugs_and_Diseases	Gsr	Avpr2	Recql	Cdc25c	Galk1	Mapt	Pik3cb	Pik3ca	Cyp1a2	Bax	Cyp1a1	Pik3c3	Mphosph8	Top1	Rela	Pon1	Hpgd	Top2a	Alox15	Pik3r5	Pik3r4	Pik3r3	Cyp3a13	Pik3r2	Hspb1	Pik3r6	Hsf1	E2f1	Drd1	Hibch	Cd34	Gabpa	Prkch	Yes1	Prkcg	Prkci	Gpr35	Prkcd	Atad5	Prkce	Prkcb	F2	Prkca	Nfkb1	Alox8	Hck	Nfkb2	Prkcz	Aldh1a1	Pik3r1	Stk17b	Apex1	Pkn1	Prkd1	Pkn3	Prkd3	Pkn2	Prkcq	Prkd2	Fen1	Blm	Ehmt2	Pik3cd	Pik3c2g	Hif1a	Pik3c2b	Pik3c2a	Cyp19a1	Hsd17b10	Pik3cg	Polb	Mapk3	Polk	Pim1	Xdh	Abl1	Mbp	Poli	Apob	Polh
+Quetiapine	MAGMA_Drugs_and_Diseases	Epm2a	Htr1f	Pde4d	Eif2ak4	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Rabep1	Cyp1a2	Chrm3	Chrm4	Faah	Chrm1	Chrm2	Chrm5	Htr2c	Htr2a	Adra1d	Cyp3a13	Htr2b	Slc6a2	Adra1b	Comt	Htr6	Adra1a	Slc6a4	Grin2b	Htr7	Hrh1	Rgs4	Cnr1	Cyp2d10	Mc4r	Sh2b1	Drd1	Drd2	Drd3	Drd4	Drd5
+Quinestrol	MAGMA_Drugs_and_Diseases	Idh1	Atxn2	Gmnn	Esr1	Esr2
+Quinidine	MAGMA_Drugs_and_Diseases	Kcnk6	Kcne1	Abcb1a	Kcnh5	Kcna5	Kcnk16	Cyp3a13	Kcna7	Kcnu1	Kcnt1	Cyp2d10	Cyp1a2	Scn5a	Kcnk1	Kcnh1	Slc29a4	Kcnh2	Kcnk5
+Quinine	MAGMA_Drugs_and_Diseases	Abcb1a	Cop1	G6pdx	Thrb	Cyp2d10	Cyp3a13	Kcnn4	Gp9	Slc29a4	Il2
+R Apomorphine	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra2c	Adra2b	Adra2a	Htr5a	Caly	Drd1	Drd2	Drd3	Drd4	Drd5
+RAF Inhibitor	MAGMA_Drugs_and_Diseases	Map2k2	G6pdx	Limk1	Map2k1	Mitf	Braf	Egfr	Atxn1l	Nras	Stag2	Pik3ca	Akt1	Nek11	Nf1	Hras	Rac1	Kras	Sik1	Ezh2	Trp53	H2-Eb2	Raf1
+RET Tyrosine Kinase Inhibitor	MAGMA_Drugs_and_Diseases	Yes1	Ret	Flt3	Hgf	Cflar	Egfr	Kit	Gna11	Pik3ca	Tek	Kdr	Hras	Met	Abl1	Kras	Ros1
+RNA Polymerase Inhibitor	MAGMA_Drugs_and_Diseases	Vdr	Thrb	Htt	Alox15	Ehmt2	Recql	Cyp3a13	Rorc	Esr1	Nr3c1	Ar	Rxra	Polr2a	Cyp2d10	Apex1	Cyp1a2	Ppard
+RNA Synthesis Inhibitor	MAGMA_Drugs_and_Diseases	G6pdx	Dnmt3a	Runx1	Recql	Rpsa	Bmp7	Wt1	Dok5	Mapt	Fas	Cyp1a1	Slc28a3	Top1	Abcc1	Abcg3	Trp53	App	Top2b	Abcb1a	Top2a	Tyms	Slco1b2	Drosha	Usp1	Cbr3	Cbr1	Nos3	Dck	Fmo3	Ar	Apex1	Pnpla3	Hdac5	Hdac6	Nrp2	Hdac3	Blm	Hdac4	Setd4	Flt3	Hdac1	Hdac11	Thrb	Cbfb	Hdac10	Hdac2	Kmt2a	Rarg	Htt	Gstp1	Ehmt2	Ikzf1	Gata3	Hdac9	Gata1	Hdac7	Hdac8	Polk	Ugt1a6a	Atp7b
+Rabeprazole	MAGMA_Drugs_and_Diseases	Atp4b	Il1b	Atp4a	Vdr	Il10	Aldh1a1	Mapt	Hexb	Ehmt2	Tnf	Alox8
+Raloxifene	MAGMA_Drugs_and_Diseases	Vdr	Ugt1a1	Cbx1	Esr1	Esr2	Il1b	Aldh1a1	Mapt	Pik3ca	Cyp1a2	Ghrl	Il6st	Gnrh1	Trp53	Cyp3a13	Plat	Hsd17b10	Igf1r	Pik3cg	Ptgs2	Atxn2	Tert	Thpo	Cyp2d10	Gper1	Il6ra	Zfp423	Ugt1a10	Tshb
+Raltitrexed	MAGMA_Drugs_and_Diseases	Cdkn1b	Fpgs	Alb	Cdk2	Bcl2	Slc19a1	Tyms	Dhfr
+Ramatroban	MAGMA_Drugs_and_Diseases	Mbnl1	Ptgdr2	Tbxa2r	Kmt2a	Men1
+Ranitidine	MAGMA_Drugs_and_Diseases	Abcb1a	Pth	Pla2g1b	Calca	Grp	Ehmt2	Hspa4	Cyp3a13	F8	Hrh2	Cyp2d10	Cyp1a2
+Ranolazine	MAGMA_Drugs_and_Diseases	Abcb1a	Scn9a	Scn10a	Cyp2d10	Scn5a	Cyp3a13	Plg	Scn4a
+Reducing Agent	MAGMA_Drugs_and_Diseases	Tgfb1	Smad2	Gsr	Enpp1	Myc	Alpi
+Refactory Angina	MAGMA_Drugs_and_Diseases	Fgb	Fgg	Itga2b	Itgb3
+Refetoff Syndrome	MAGMA_Drugs_and_Diseases	Thrb	Thra	Hif1a	Nfe2l2
+Regadenoson	MAGMA_Drugs_and_Diseases	Adora2b	Adora2a	Ampd1	Adora3	Adora1
+Regorafenib	MAGMA_Drugs_and_Diseases	Yes1	Pdgfrb	Fbxw7	Pdgfra	Ntrk1	Braf	Vegfa	Mapk11	Apc	Kit	Pik3ca	Fgfr1	Tek	Kras	Epha2	Fgfr2	Frk	Raf1	Ddr2	Ret	Flt1	Flt4	Araf	Egfr	Nras	Vhl	Kdr	Abl1
+Renal Angiomyolipoma	MAGMA_Drugs_and_Diseases	Pbrm1	Tsc2	Braf	Tsc1	Esr1	Esr2	Mtor	Ar	Fkbp1a	Pik3r1	Pik3ca	Nf2	Atm	Nf1	Kras	Fgfr4	Bap1	Kdm5c	Rb1	Ret	Abcb1a	Notch1	Ctnnb1	Mpl	Brca1	Brca2	Cyp3a13	Egfr	Flcn	Nras	Rptor	Stk11	Gna11	Akt3	Erbb2	Akt1	Vhl	Akt2	Hras
+Renal Cell Carcinoma RCC	MAGMA_Drugs_and_Diseases	Yes1	Pdgfrb	Plk4	Flt1	Pdgfra	Csf1	Flt4	Ugt1a1	Pdgfb	Cyp3a13	Hif1a	Kit	Vhl	Kdr	Abl1
+Renal Homotransplantation	MAGMA_Drugs_and_Diseases	Abcc4	Idh1	Gstm6	Atad5	Impdh1	Cyp1a2	Itpa	Hprt1	Nfe2l2	Trp53	H2-Eb2	Fto	Pth	Tpmt	Cyp3a13	Tyms	Ddrgk1	Cyp2d10	Ppat	Aox1	Nudt15	Tshb
+Renal Toxicity	MAGMA_Drugs_and_Diseases	Tgfb1	Smad2	Gsr	Enpp1	Myc	Alpi
+Repaglinide	MAGMA_Drugs_and_Diseases	Slc30a8	Tcf7l2	Kcnj11	Abcc8	Nr1i2	Abcc9	Pax4	Cyp3a13	Ar	Nos1ap	Kcnq1	Igf2bp2	Pparg	Kcnj1	Neurod1
+Reserpine	MAGMA_Drugs_and_Diseases	Kdm4a	Atad5	Hgf	Cbx1	Trpv1	Ar	Mapt	Ltf	Mphosph8	Gnrh1	Abcb1a	Gmnn	Nr1i2	Lpl	Ehmt2	Baz2b	Cyp3a13	Tyms	Ptgs2	Nt5e	Thpo	Slc18a1	Slc18a2	Tac1	Kcnh2
+Resorcinol	MAGMA_Drugs_and_Diseases	Car12	Car2	Car1	Cyp3a13	Ptgs1	Car14
+Respiratory Tract Infections	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+Restless Leg Syndrome	MAGMA_Drugs_and_Diseases	Cacna2d2	Cacna2d1	Cacna2d4	Cacna2d3	Grin2d	Grin2c	Grin1	Cacnb2	Grin3a	Cacnb3	Cacnb4	Grin3b	Kcnq3	Kcnq5	Cacnb1	Abcb1a	Cacna1a	Cacna1c	Cacna1b	Cacna1e	Cacna1d	Eno2	Cacna1g	Cacna1f	Cacna1i	Cacna1h	Cacng7	Cacng8	Grin2b	Grin2a	Cacna1s	Cacng1	Nos1	Adora1	Cacng2	Cacng3	Cacng4	Cacng5	Cacng6
+Retinoblastoma	MAGMA_Drugs_and_Diseases	Cyp2a12	Cyp2d10	Cyp3a13	Cyp2c55
+Retinoid Receptor Agonist	MAGMA_Drugs_and_Diseases	Kdm4a	Vdr	Gmnn	Plk1	Rarg	Stat3	Il1b	Rxra	Kat2a	Rxrb	Mapt	Rbp1	Rarb	Usp1	Rara	Rxrg	Rapgef4
+Retinoid Receptor Ligand	MAGMA_Drugs_and_Diseases	Esr1	Dhrs3	Dhrs4	Ar	Tg	Aldh1a1	Rbp3	Aldh1a3	Rbp1	Aldh1a2	Rdh5	Bax	Rara	Nfe2l2	Retsat	Rdh8	Plau	Nr2c2	Rlbp1	Rxra	Rxrb	Rdh13	Rdh12	Rdh11	Rho	Lrat	Rdh14	Rxrg	Ldlr	Kcnh2
+Retinol	MAGMA_Drugs_and_Diseases	Esr1	Dhrs3	Dhrs4	Ar	Tg	Aldh1a1	Rbp3	Aldh1a3	Rbp1	Aldh1a2	Rdh5	Bax	Rara	Nfe2l2	Retsat	Rdh8	Plau	Nr2c2	Rlbp1	Rxra	Rxrb	Rdh13	Rdh12	Rdh11	Rho	Lrat	Rdh14	Rxrg	Ldlr	Kcnh2
+Reverse Sedative	MAGMA_Drugs_and_Diseases	Hrh2	Hrh1	Drd2	Adra2c	Adra1a	Adra2b	Adra2a
+Rhabdomyosarcoma	MAGMA_Drugs_and_Diseases	Vdr	Thrb	Htt	Alox15	Ehmt2	Recql	Cyp3a13	Rorc	Esr1	Nr3c1	Ar	Rxra	Polr2a	Cyp2d10	Apex1	Cyp1a2	Ppard
+Rho Associated Kinase Inhibitor	MAGMA_Drugs_and_Diseases	Prkcg	Prkcd	Dapk3	Clk4	Cdk8	Cdk7	Cdk5	Rps6kb1	Pkia	Prkd3	Kras	Prkcq	Prkd2	Sgk2	Rock1	Rock2	Lrrk2	Cblb	Cyp3a13	Prkx	Cbl	Gata2	Aurkb	Akt3	Cyp2d10	Rps6ka3	Chek2	Akt1	Prkacb	Map4k4	Prkaca
+Ribavirin	MAGMA_Drugs_and_Diseases	Vdr	Angpt2	Mmp1a	Vwf	2410137M14Rik	Il18	Il6	Aldh1a1	Impdh1	Krt18	Impdh2	Bcl2	Itpa	Slc28a2	Slc29a1	Vip	Trp53	Fto	Adk	Rorc	Egfr	Oasl1	Slc6a4	Nt5c2	Cst10	Cyp27b1	Ifnl2	Cyp2r1	Enpp1	Ldlr	Mill1	Scarb1
+Ribociclib	MAGMA_Drugs_and_Diseases	Rb1	Notch1	Braf	Esr1	Esr2	Smarca4	Nras	Ccnd3	Ccnd2	Cdk6	Ccnd1	Pik3ca	Cdk4	Erbb2	Pgr
+Ribonucleotide Reductase Inhibitor	MAGMA_Drugs_and_Diseases	Tgfb1	Yes1	Rrm2	Diablo	Cdkn1a	Rrm1	Dck	Pnp2	Pola1	Nt5c1a	Pole	Il2ra	Pole2	Rrm2b	Pole3	Xiap	Pole4	Ada	Nfe2l2	Trp53	Bcl2l2
+Rifampin	MAGMA_Drugs_and_Diseases	Abcb1a	Ripor2	Nr1i2	Gstp1	Tnf	Cyp3a13	Ar	Slco1b2	Cux2	Agbl4	Cyp2d10	Slco1a8	Cyp1a2	Cyp1b1	Nos2
+Rifapentine	MAGMA_Drugs_and_Diseases	Ar	Nr1i2	Cyp3a13
+Riluzole	MAGMA_Drugs_and_Diseases	Kcnk10	Trpc5	Cyp3a13	Npc1	Slc7a11	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Cyp1a2	Kcnn1	Rab9	Scn5a	Kcnn3	Scn3a	Kcnn4	Scn4a	Kcnk2	Scn1a	Scn2a	Tardbp	Kcnk4	Kcnh2
+Rimexolone	MAGMA_Drugs_and_Diseases	Esrra	Anxa1	Nr3c1	Nfe2l2	Serpina6
+Ringworm	MAGMA_Drugs_and_Diseases	Ar	Nr1i2	Krt12	Cyp3a13	Hsd17b10
+Risperidone	MAGMA_Drugs_and_Diseases	Epm2a	Htr1f	Eif2ak4	Htr1b	Htr1a	Rabep1	Ppa2	Lep	Cyp1a1	Ankk1	Ugt1a10	Abcb1a	Nr1i2	Tnfrsf11a	Htr2c	Adrb2	Htr2a	Tnf	Adra1d	Cyp3a13	Adra1b	Comt	Adra1a	Hrh1	Hrh4	Hrh3	Cyp2d10	Ntf3	Msantd1	Akt1	Sh2b1	Cyp1b1	Drd1	Drd2	Drd3	Drd4	Kcnh2	Grid2	Ugt1a1	Adra2c	Adra2b	Adra2a	Tjp1	Fasn	Ghrl	Cyp2e1	Faah	Htt	Htr6	Nts	Slc6a4	Grm3	Grin2b	Htr7	Rgs4	Grm7	Cnr1	Mc4r	Ugt1a6a	Ugt1a2
+Ritonavir	MAGMA_Drugs_and_Diseases	Abcc2	Vdr	Ugt1a1	Cxcl10	Kat2a	Apoc3	Cyp1a2	Cyp2e1	Abcc1	Tlr4	Abcb1a	Nr1i2	Cyp3a13	Ifnl2	Cyp2d10	Apoe	Ugt1a2	Npsr1	Ugt1a10
+Rizatriptan	MAGMA_Drugs_and_Diseases	Htr1f	Htr1b	Htr1a
+Rocuronium	MAGMA_Drugs_and_Diseases	Chrna2	Slco1b2	Abcb1a	Chrm2	Slco1a8	Htr3a
+Romidepsin	MAGMA_Drugs_and_Diseases	Hdac5	Hdac6	Hdac3	Cdkn2d	Hdac4	Hdac1	Hdac11	Cdkn1a	Hdac10	Hdac2	Kmt2a	Hdac9	Hdac7	Hdac8	Ctag2l1	Erbb2	Birc5	Kras	Mcl1
+Ropinirole	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra2c	Adra2b	Adra2a	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Drd5
+Ropivacaine	MAGMA_Drugs_and_Diseases	Cyb5r3	G6pdx	Scn10a	Scn5a	Cyp3a13
+Rosuvastatin	MAGMA_Drugs_and_Diseases	Crp	Abcc2	Fmo3	Hmgcr	Cyp3a13	Kif6	Slco1b2	Slco2b1	Abcb11	Coq2	Abcg3	H2-Eb2
+Rotigotine	MAGMA_Drugs_and_Diseases	Drd1	Drd2	Htr1a	Drd3	Drd4	Adra2b	Drd5
+Roxithromycin	MAGMA_Drugs_and_Diseases	Cd86	Ccl11	Cd80	F2rl1	Xdh	Cyp3a13	Amot	Il2
+Rufinamide	MAGMA_Drugs_and_Diseases	Grm5	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Cbx1	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Rutin	MAGMA_Drugs_and_Diseases	Polb	Rela	Gaa	Polk	Cyp1a1	Afp	Tnf	Nfkb1	Nfkb2
+Ruxolitinib	MAGMA_Drugs_and_Diseases	Csf3r	Vhl	Mpl	Cyp3a13	Plaur	Jak3	Tyk2	Crlf2	Jak1	Sh2b3	Il7r	Jak2
+SN 38	MAGMA_Drugs_and_Diseases	Abcc2	Bche	Ugt1a1	Top1	Abcc1	Abcg3	Ces2f	Ces1d	Hdac5	Ugt1a10	Hdac6	Abcb1a	Hdac3	Hdac4	Hdac1	Hdac11	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8	Slco1b2	Ugt1a6a	Ugt1a2
+SRC Inhibitor	MAGMA_Drugs_and_Diseases	Lyn	Camk1d	Map2k2	Src	Map3k2	Map2k1	Tnk2	Txk	Egfr	Hck	Stk4	Stk10	Bcr	Stk24	Cdk2	Sik2	Abl1	Fyn	Sik3	Camk2g	Sik1	Frk	Map4k5
+STAT Inhibitor	MAGMA_Drugs_and_Diseases	Fzd1	Idh1	Stat3	Npc1	Mtor	Tshr	Pkm	Apc	Mapt	Cyp1a2	Rab9	Gnas	Nfe2l2	Trp53	Gmnn	Npy4r	Ehmt2	Ahr	Cyp3a13	Hif1a	Kcnt1	Rxra	Atxn2	Thpo	Cyp2d10	Smn1
+Safinamide	MAGMA_Drugs_and_Diseases	Maob	Cacna2d2	Cacna2d1	Cacna1b	Cacnb3	Cacnb4	Scn11a	Scn9a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Saquinavir	MAGMA_Drugs_and_Diseases	Idh1	Abcb1a	Atxn2	Il6	Nr1i2	Cyp3a13	Cyp7b1	Tlr4
+Schizophrenia	MAGMA_Drugs_and_Diseases	Abcb1a	Rabep1	Mc4r	Htr2c	Sh2b1	Drd2	Htr1a	Anks1b	Drd3
+Sciata	MAGMA_Drugs_and_Diseases	Gcg	Poli	Ptgs1	Ptgs2
+Scleroderma	MAGMA_Drugs_and_Diseases	Smad3	Col1a1	Wt1	Eprs1	Mmp2	Tnf	Il2	Ptp4a1
+Scopolamine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Sis	Chrm5
+Seasonal Affective Disorder	MAGMA_Drugs_and_Diseases	Gmnn	Htr1f	Cbx1	Htr1b	Htr2c	Ehmt2	Baz2b	Htr2a	Htr1a	Htr2b	Htr6	Htr5a	Htr7	Thpo	Hpse	Drd1	Kcnh2
+Sedative	MAGMA_Drugs_and_Diseases	Cyp2d10	Cyp1a2	Drd1	Htr2a	Drd2	Htr1a	Adra1b	Adra1a
+Seizures	MAGMA_Drugs_and_Diseases	Ralbp1	Abcc2	Gabra1	Ephx1	Hspa1l	Fzd8	Mthfr	2410137M14Rik	Prrc2a	Pou5f1	Tnfrsf1b	Ar	Cyp2a12	Scn10a	Scn8a	Cyp1a2	H2-Ab1	Hspa1b	Cyp1a1	Lta	Scn4a	Scn2a	H2-Eb2	Nr1i2	Nr1i3	Prl3d2	Tnf	Cyp3a13	Nr3c1	Bag6	Scn11a	Scn9a	Bglap2	Cyp2d10	Scn7a	Hnf4a	Scn5a	Scn3a	Scn1a	Ggt1
+Selective Serotonin Reuptake Inhibitor SSRI	MAGMA_Drugs_and_Diseases	Il11	Col26a1	Bdnf	Htr1b	Dtnbp1	Creb1	Reep5	Fkbp5	Srp19	Gria3	Abcb1a	Chrm1	Gldc	Gsk3b	Tph2	Tph1	Papln	Serpine1	Cacna1c	Nedd4l	Ehmt2	Htr2a	Cyp3a13	Slc6a2	Rora	Slc6a3	Adra1a	Crhr2	Slc6a4	Mettl21a	Hrh1	Erich3	Grk5	Cyp2d10	Rfk	Tspan5
+Selegiline	MAGMA_Drugs_and_Diseases	Slc22a1	Maob	Cyp2d10	Maoa	Tacr1	Cyp3a13
+Serotonin	MAGMA_Drugs_and_Diseases	Slc36a1	Htr1f	Htr1b	Htr2c	Ehmt2	Htr2a	Htr3b	Htr1a	Htr2b	Htr3a	Htr6	Htr4	Htr5a	Tshr	Htr7	Kat2a	Cyp1a2	Drd1	Drd5
+Serotonin Norepinephrine Reuptake Inhibitor SNRI	MAGMA_Drugs_and_Diseases	Ntrk2	Sigmar1	Kcnd2	Ntrk1	Kcnd3	Htr1b	Oprk1	Oprm1	Htr1a	Adra2a	Kcnq2	Ifng	Kcnq3	Cyp1a2	Ada	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Oprd1	Pla2g1b	Kcna1	Chrm5	Htr2c	Prl3d2	Adrb1	Adrb2	Htr2a	Adra1d	Adrb3	Cyp3a13	Slc6a2	Adra1b	Htr6	Adra1a	Slc6a4	Hrh2	Htr7	Hrh1	Hrh4	Cyp2d10	Drd1
+Serotonin Receptor Antagonist	MAGMA_Drugs_and_Diseases	Abcb1a	Mtnr1b	Mtnr1a	Htr2c	Htr2a	Htr2b
+Serotonin Receptor Partial Agonist	MAGMA_Drugs_and_Diseases	Slc36a1	Casr	Kyat1	Slc22a2	Gpr139	Ehmt2	Baz2b	Ido1	Wars2
+Serotonin Reuptake Inhibitor	MAGMA_Drugs_and_Diseases	Kcnd2	Kcnd3	Bdnf	Htr1a	Cyp1a2	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Htr2c	Ehmt2	Htr2a	Adra1d	Cyp3a13	Slc6a2	Adra1b	Htr6	Slc6a3	Adra1a	Slc6a4	Mc2r	Htr7	Hrh1	Cyp2d10	Drd1	Drd2	Drd5	Kcnh1	Kcnh2
+Serotonin Transporter SERT Inhibitor	MAGMA_Drugs_and_Diseases	Abcb1a	Gstp1	Htr1b	Htr2c	Htr2a	Cyp3a13	Htr2b	Slc6a2	Slc6a3	Slc6a4	Cyp2d10	Cyp1a2	Scn5a	Drd1	Fkbp5	Ppard	Trp53
+Sertraline	MAGMA_Drugs_and_Diseases	Srp19	Idh1	Abcb1a	Ace	Jun	P3h3	2410137M14Rik	Cyp3a13	Htr1a	Comt	Slc6a3	Slc6a4	Atxn2	Reep5	Gnb3	Cfl1	Cdk1	Drd1	Trp53
+Sevoflurane	MAGMA_Drugs_and_Diseases	Gabra3	Gabra2	Gabrq	Gabra1	Gabrp	Kcnk10	Gabra6	Gabra5	Gabra4	Gabrg1	Kcnk18	Atp5f1d	Gabrg3	Gabrg2	Glrb	Kcnk2	Kcnk3	Gabrb3	Abcb1a	Gabrb2	Gabrb1	Gria1	Kcnk9	Ryr1	Kcna1	Adrb2	Cyp3a13	Atp2c1	Glra1	Cacna1s	Gabre	Gabrd
+Shingles	MAGMA_Drugs_and_Diseases	Pnp2	Slc15a1	Il10	Dntt	Recql	Abl1
+Sigma Receptor Agonist	MAGMA_Drugs_and_Diseases	Sigmar1	Chrnb2	Chrnb4	Oprk1	Cybb	Oprm1	Cyba	Grin2c	Pgrmc1	Grin3a	Ercc6	Ncf1	Chrna2	Abcb1a	Chrna4	Chrna3	Oprd1	Ncf2	Ncf4	Chrna7	Cyp3a13	Slc6a2	Slc6a4	Cyp2d10	Rac1	Rac2
+Sildenafil	MAGMA_Drugs_and_Diseases	Abcc5	Ace	Nos3	Pde6h	Pde6g	Cyp3a13	Vegfa	Slco1b2	Slco2b1	Gnb3	Pde6c	Pde5a
+Silibinin	MAGMA_Drugs_and_Diseases	Abcb1a	Hsp90aa1	Gmnn	Hsp90ab1	Ehmt2	Cyp3a13	F2	Hsd17b10	Slco1b2	Slco2b1	Aldh1a1	Alox5
+Simeprevir	MAGMA_Drugs_and_Diseases	Slco1b2	Abcb1a	Ifnl2	Cyp1a2	Cyp3a13
+Simvastatin	MAGMA_Drugs_and_Diseases	Ccr2	Rhoa	Abcc2	Mmp2	Bdnf	Tpm3-rs7	Lif	Apoa5	Kif6	Cyp1a2	Tardbp	Abcg3	Nfe2l2	Abcb1a	Nr1i2	Pon1	Cyp3a13	Pltp	Cyp2d10	Slco1b2	Scap	Idh1	Icmt	Abca1	Ppara	Plk1	Ugt1a1	Cel	Htr3b	Cyba	F3	Ar	Il17a	Gatm	H2-Eb2	Itgb2l	Ryr2	Hmgcr	Nr2e3	Thbs1	Lipc	Pik3cg	Slco2b1	Htr7	Thbd	Lepr	Apoe	Ugt1a2	Ugt1a10
+Sinusitis	MAGMA_Drugs_and_Diseases	Kdm4a	Ctdsp1	Sumo1	Mpo	Acp1
+Siponimod	MAGMA_Drugs_and_Diseases	S1pr1	S1pr4	S1pr3	S1pr5
+Sirolimus	MAGMA_Drugs_and_Diseases	Fbxw7	Il10	Il15	Mmp1a	Tsc1	Eml4	Il7	Wt1	Apc	Mapk10	Rbl2	Pik3ca	Bax	Nf1	Fkbp4	Abcg3	Nfe2l2	Trp53	Rb1	Abcb1a	Nr1i2	Cyp3a13	Egfr	Prkaa1	Erbb2	Akt1	Ctla4	Eif4e	Mcl1	Igfbp1	Tcf7l2	Oprk1	Mtor	Dcn	Ar	Il17a	Fkbp1a	Por	Rheb	Rps6kb1	Fgfr1	Ddit3	Kras	Pgr	Ddc	Plau	Fgf2	Itgal	Flcn	Tgm2	Stk11	Pim1	Hras	Nos1	Ugt1a10	Jak2
+Sjogrens Syndrome	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Cyp2d10
+Skin Infections	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+Sleep Cycle Support	MAGMA_Drugs_and_Diseases	Tgfb1	Nqo2	Cyp3a13	Esr1	Gfap	Il1b	Mtnr1b	Mtnr1a	Per1	Ghrh	Ifng	Cyp1a2	Bax	Rara	Calr	Gclm	Calm1	Maob	Asmt	Prl3d2	Mpo	Rorb	Htr2b	Epx	Rora	Pik3cg	Aanat	Bglap2	Map2	Alox5	Myc	Tmsb10b
+Sleeplessness	MAGMA_Drugs_and_Diseases	Slc36a1	Htr1f	Htr1b	Htr2c	Ehmt2	Htr2a	Htr3b	Htr1a	Htr2b	Htr3a	Htr6	Htr4	Htr5a	Tshr	Htr7	Kat2a	Cyp1a2	Drd1	Drd5
+Small Lymphocytic Lymphoma SLL	MAGMA_Drugs_and_Diseases	Cyp2a12	Cyp2d10	Cyp3a13	Cyp2c55
+Smoothened Receptor Antagonist	MAGMA_Drugs_and_Diseases	Mycs	Smo	Sufu	Ptch1	Egfr
+Social Anxiety Disorder	MAGMA_Drugs_and_Diseases	Bdnf	Htr1b	Htr3b	Htr1a	Mtor	Ar	P2rx4	Gdnf	Reep5	Cyp1a2	Fkbp5	Mdga2	Chrm3	Srp19	Chrm4	Abcb1a	Chrm1	Chrm2	Tph1	Chrm5	Adm	Ehmt2	Htr2a	Cyp3a13	Slc6a2	Comt	Slc6a4	Atxn2	Cyp2d10	Drd3
+Sofalcone	MAGMA_Drugs_and_Diseases	Cbr1	Vdr	Blm	Kat2a	Gmnn	Hpgd	Usp1	Nfe2l2
+Soft Tissue Sarcoma STS	MAGMA_Drugs_and_Diseases	Yes1	Pdgfrb	Pdgfra	Limk1	Ugt1a1	Tnk2	2410137M14Rik	Mtor	Ptk2	Ar	Lck	Cdk7	Kit	Fgfr1	Nf1	Taok1	Met	Kras	Abcg3	Fgfr3	Itk	Ppard	Trp53	Alk	Fgfr2	Csf1r	Ret	Flt1	Ltk	Flt4	Hdac2	Aurka	Cyp3a13	Fgf1	Igf1r	Aurkb	Mapk9	Mapk8	Kdr	Nek2	Abl1	Fyn	Map4k4	Sh2b3
+Solifenacin Succinate	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Solute Carrier Family Member Inhibitor	MAGMA_Drugs_and_Diseases	Slc12a3	Slc12a4	Ace	Slc12a5	Gpr35	Slc12a1	Slc12a2	Hsd17b10	Add1	Gnb3	Mapk1	Nfe2l2	Cftr
+Somatostatin	MAGMA_Drugs_and_Diseases	Oprd1	Oprm1	Sstr1	Sstr2	Sstr3	Sstr4	Sstr5
+Somatostatin Receptor Agonist	MAGMA_Drugs_and_Diseases	Igfbp1	Tg	Pik3cb	Lpar2	Nf2	Mpo	Sstr1	Klk1b24	Sstr2	Sstr3	Sstr5	Pik3cg
+Sonidegib	MAGMA_Drugs_and_Diseases	Mycs	Smo	Sufu	Ptch1	Egfr
+Sorafenib	MAGMA_Drugs_and_Diseases	Cdk19	Lyn	Pdgfrb	Abcc2	Pdgfra	Limk1	Braf	Hipk2	Hipk4	Mapk13	Vegfa	Mapk14	Mapk11	Mapk12	Cdk8	Mapk10	Axl	Pik3ca	Nf1	Epha2	Ptpn6	Raf1	Ddr2	Ret	Abcb1a	Galnt14	Aurka	Tnf	Araf	Cyp3a13	Egfr	Aurkb	Slco1b2	Slk	Nras	Erbb2	Mknk2	Irak1	Akt1	Kdr	Map3k20	Ntrk2	Yes1	Ntrk3	Plk4	Slc15a2	Ntrk1	Nos3	Mink1	Arid1a	Srpk1	Kit	Rps6kb1	Fgfr1	Taok1	Met	Kras	Fgfr3	Csf1r	Blk	Flt1	Dyrk3	Flt3	Gmnn	Slc22a1	Flt4	Camk2b	Hif1a	Fgf3	Mapk9	Mapk8	Hmox1	Mapk3	Vhl	Mapk1	Abl1	Mapk7	Mapk6	Ugt1a10	Map4k5	Mapk4
+Sotalol	MAGMA_Drugs_and_Diseases	Ar	Kcne1	Cyp2d10	Cyp1a2	Adrb1	Adrb2	Cyp3a13	Kcnh2
+Sphingosine 1 Phosphate Receptor Modulator	MAGMA_Drugs_and_Diseases	S1pr1	S1pr4	S1pr3	S1pr5
+Spiperone	MAGMA_Drugs_and_Diseases	Htr2c	Htr2a	Adra1d	Htr1a	Htr2b	Hif1a	Adra1b	Htr6	Adra1a	Ar	Htr7	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Drd5	Nfe2l2
+Spironolactone	MAGMA_Drugs_and_Diseases	Adipoq	Ace	Nos3	Cacna2d2	Cyp4a30b	Cacna2d1	Cacna2d3	Cyp7b1	Ar	Cacnb2	Cacnb3	Cacnb4	Cyp1a2	Cyp1a1	Pparg	Pgr	Cacnb1	Shbg	Abcb1a	Nr1i2	Thrb	Cacna1a	Cacna1c	Adrb1	Cacna1b	Adrb2	Tnf	Cacna1d	Cacna1g	Nr3c2	Cacna1f	Nr3c1	Cacna1i	Cacna1h	Add1	Cacna1s	Cacng1	Cyp1b1	Ccn2
+Spontaneous Preterm Birth	MAGMA_Drugs_and_Diseases	Ar	Nr1i2	Nr1h4	Pgr	Esr1	Esr2	Nr3c1
+Statis Dermatitis	MAGMA_Drugs_and_Diseases	Kdm4a	Polb	Polk	Ahr	Polh
+Sterol Demethylase Inhibitor	MAGMA_Drugs_and_Diseases	Trpm2	Nr1i2	Npy2r	Trpv5	Npy1r
+Structural Glycoprotein Antagonist	MAGMA_Drugs_and_Diseases	Fgb	Fgg	Itga2b	Itgb3
+Subependymal Giant Cell Astrocytoma SEGA	MAGMA_Drugs_and_Diseases	Pbrm1	Tsc2	Braf	Tsc1	Esr1	Esr2	Mtor	Ar	Fkbp1a	Pik3r1	Pik3ca	Nf2	Atm	Nf1	Kras	Fgfr4	Bap1	Kdm5c	Rb1	Ret	Abcb1a	Notch1	Ctnnb1	Mpl	Brca1	Brca2	Cyp3a13	Egfr	Flcn	Nras	Rptor	Stk11	Gna11	Akt3	Erbb2	Akt1	Vhl	Akt2	Hras
+Succinimide Antiepileptic	MAGMA_Drugs_and_Diseases	Cyp3a13	Cacna1g	Scn1a	Cacna1i	Cacna1h
+Sulfanilamide	MAGMA_Drugs_and_Diseases	G6pdx	Cyp2d10	Cyp3a13	Cyp2e1
+Sulfaphenazole	MAGMA_Drugs_and_Diseases	Cyp2d10	Dhps	Cyp1a2	Cyp3a13	Nfkb1	Hsd17b10
+Sulfasalazine	MAGMA_Drugs_and_Diseases	G6pdx	Chuk	Mthfr	2410137M14Rik	Nfkb2	Dhfr	Mapt	Tbxas1	Cyp1a2	Pparg	Abcg3	Tymp	Cd83	Pla2g1b	Hpgd	Slc46a1	Acat1	Cyp3a13	Hif1a	Slc7a11	Tyms	Ptgs1	Ptgs2	Ikbkb	Nt5e	Cyp2d10	Alox5
+Sulfinpyrazone	MAGMA_Drugs_and_Diseases	Abcc2	Vdr	Aldh1a1	Nr1i2	Hpgd	Ehmt2	Fpr1	Cyp3a13	Abcc1	Ugt1a10	Slc22a12
+Sulfonylurea	MAGMA_Drugs_and_Diseases	Kcnj10	G6pdx	Kcnj11	Abcc8	Pparg	Slc2a4	Kcnj1
+Sulindac	MAGMA_Drugs_and_Diseases	Akr1b1	Ehmt2	Fmo3	Cyp3a13	Ptgs1	Ptgs2	Rxra	Apc	Pik3ca	Cyp2d10	Myc	Birc5	Cyp1a2	Tac1
+Sumatriptan	MAGMA_Drugs_and_Diseases	Htr1f	Bdnf	Dbh	Htr1b	Htr2a	Oprm1	Gcg	Htr1a	Htr2b	Aqp4	Comt	Htr6	Htr5a	Htr7	Gnb3	Drd2
+Sunitinib	MAGMA_Drugs_and_Diseases	Yes1	Pdgfrb	Pdgfra	Nos3	Pbrm1	Il13	Vegfc	Ptpn12	Vegfa	Por	Kit	Ptprb	Fgfr1	Kras	Abcg3	Fgfr2	Csf1r	Bap1	Kdm5c	Ret	Abcb1a	Flt1	Flt3	Nr1i2	Flt4	Nr1i3	Pdgfc	Pdgfb	Ewsr1	Pdgfa	Cyp3a13	Mki67	Hif1a	Egfr	Erbb2	Slco1b2	Pdgfd	Hmox1	Vhl	Kdr	Car9
+Sunscreen Lotion	MAGMA_Drugs_and_Diseases	Lipe	Aldh1a1	Hpgd	Htt	Cyp1a2
+Suramin	MAGMA_Drugs_and_Diseases	P2ry13	Vdr	Ntrk1	St14	Pla2g2a	Cbx1	Sirt5	Recql	F2	Sirt1	Sirt3	Ccna2	Folh1	Pik3cb	P2rx3	Pik3ca	Spint1	Apex1	Fshr	Ifng	Tdp1	Hpse	Ddit3	Mphosph8	Pin1	Ryr2	Fen1	Ryr1	Kmt2a	Ehmt2	Gls	Hsd17b10	Mc2r	P2ry6	P2ry2	P2ry1	Polk	Usp2	Usp1
+Syphilis	MAGMA_Drugs_and_Diseases	Abcb1a	Abcc2	G6pdx	Nr1i2	Plk1	Cyp3a13	Il17a	Il1b	Cyp2d10	Cyp1a2	F2rl1	Bax	Bcl2	Xdh	Abcc1	Kcnh2
+TGF Beta Receptor Inhibitor	MAGMA_Drugs_and_Diseases	Mapk11	Tgfb1	Mapk12	Furin	Cyp1a2	Tnf	Hsd17b10	Mapk13	Mapk14
+TP53 Activator	MAGMA_Drugs_and_Diseases	Fen1	Rgs4	Pla2g1b	Atad5	Polk	Ehmt2	Usp1	Drd1	Mtor	Poli
+TRPV Agonist	MAGMA_Drugs_and_Diseases	Pcna	Abcb1a	Bdnf	Lif	Trpv1	Cyp3a13	Gfap	Epor	Nt5e	Aldh1a1	Ntf3	Cyp1a2	Scg5	Rnaseh2a	Nfe2l2	Cftr
+Tacrine	MAGMA_Drugs_and_Diseases	Ache	Bche	Cyp2d10	Alox15	Cyp1a2	Cyp3a13
+Tacrolimus	MAGMA_Drugs_and_Diseases	Abcc2	Tcf7l2	Il10	Kcnj11	Ppara	Fmo3	Il18	Foxp3	Il3	Ar	Fkbp1a	Por	Capn10	Kcnq1	Zscan25	Abcg3	Tlr4	Nr1i2	Crtc2	Nod2	Cyp3a13	Gpt	Ppp3ca	Cyp2d10	Sumo2	Ctla4	Ugt1a2	Spp1	Ccl17	Ugt1a10	Cyp2j13	Hsd11b1
+Talazoparib	MAGMA_Drugs_and_Diseases	Idh1	Parp2	Erbb2	Parp1	Psmd4	Atm	Brca1	Brca2	Egfr
+Tamoxifen	MAGMA_Drugs_and_Diseases	Kdm4a	Tgfb1	Edn1	Ncoa3	Abcc2	Vdr	Ncoa1	Cbx1	Myod1	Nrg1	Pik3ca	Pip	Cyp1a2	Nf1	Tff3	Trp53	Col18a1	Abcb1a	Nr1i2	Aurka	Hspb2	Brca1	Cyp3a13	Klk1b24	Pld2	Pld1	Tyms	Atxn2	Ccnd1	Cyp2d10	Erbb2	Lrmda	Rras2	Gper1	E2f7	Zfp423	Idh1	Prkcg	Ntrk1	Prkci	Prkcd	Prkce	Fmo1	Fmo3	Prkcb	F2	Prkca	Esr1	Esr2	F5	Dhfr	Ccna2	Prkcz	Pgr	Prkcq	Gapdhrt	Gmnn	Hexb	Ehmt2	Baz2b	Cyp19a1	Tgm2	Ebp	Bglap2	Muc16	Ggt1
+Tamsulosin	MAGMA_Drugs_and_Diseases	Cyp2d10	Adra1d	Cyp3a13	Adra1b	Adra1a
+Tapeworm	MAGMA_Drugs_and_Diseases	Fzd1	Idh1	Stat3	Npc1	Mtor	Tshr	Pkm	Apc	Mapt	Cyp1a2	Rab9	Gnas	Nfe2l2	Trp53	Gmnn	Npy4r	Ehmt2	Ahr	Cyp3a13	Hif1a	Kcnt1	Rxra	Atxn2	Thpo	Cyp2d10	Smn1
+Tazarotene	MAGMA_Drugs_and_Diseases	Trp73	Rxrb	Rarg	Rarb	Bcl2	Rara	Nfe2l2	Pml
+Telaprevir	MAGMA_Drugs_and_Diseases	Ctsa	Ifnl2	Cyp24a1	Cela1	Cyp3a13	Pgr
+Telithromycin	MAGMA_Drugs_and_Diseases	Ar	Cyp2d10	Cyp1a2	Cyp3a13	Kcnh2
+Telmisartan	MAGMA_Drugs_and_Diseases	Gnb3	Agtr1b	Ehmt2	Pparg	Usp1	Hsd17b10	Nfe2l2	Npsr1
+Temozolomide	MAGMA_Drugs_and_Diseases	H2ax	Idh1	Abcb1a	Notch1	Hdac4	Csf2	Mgmt	Atrx	Prl3d2	Brca1	Brca2	Egfr	Stag2	Msh6	Myc	Atm	Atr	Trp53
+Temsirolimus	MAGMA_Drugs_and_Diseases	Abcb1a	Fbxw7	Nr1i2	Ctnnb1	Braf	Egfr	Mtor	Fkbp1a	Pik3ca	Erbb2	Akt1	Nf2	Vhl	Kras
+Tendinitis	MAGMA_Drugs_and_Diseases	Ace	Ppara	Bdnf	Pla2g2a	Fst	Trpv1	Ptgr2	Th	Kcnq1	Birc5	Cyp1a2	Agtr1b	Ddit3	Pparg	Sag	Abcc1	Nfe2l2	Ptges	Itgb2l	Cd86	Kcne1	Ptgdr2	Slc46a1	Glo1	Adm	Afp	Slc2a4	Cyp3a13	Eno2	Fgf2	Tyms	Ptgs1	Ptgs2	Fcgr4	Cyp2d10	Myc	Stat6	Ggt1
+Teniposide	MAGMA_Drugs_and_Diseases	Top2b	Nup50l	Abcb1a	H2ac25	Fas	Top2a	Bcl2	Abcc1
+Tenoxicam	MAGMA_Drugs_and_Diseases	Kdm4a	Baz2b	Ptgs1	Ptgs2
+Terazosin	MAGMA_Drugs_and_Diseases	Cyp2d10	Htt	Cyp1a2	Adra1d	Cyp3a13	Adra1b	Adra1a
+Terguride	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Htr2a	Htr1a	Htr2b	Adra2c	Adra1a	Adra2b	Adra2a	Drd2	Drd3	Drd4
+Testicular Carcinoma	MAGMA_Drugs_and_Diseases	Map3k1	Rars1	Ube2i	G6pdx	Recql	Slc31a1	Acyp2	Lig3	Rev1	Smarca4	Cdc25c	Mycs	Fas	Bax	Mphosph8	Trp53	Raf1	Rb1	Galnt14	Lrp2	Adh1	Hpgd	Aqp9	Galnt18	Aurka	Comt	Egfr	Tyms	Nras	Chek1	E2f1	Myc	Akt1	Acss2	Slc16a5	Idh1	Smad4	Ephx1	Xrcc5	Gadd45a	Mthfr	Xrcc1	Fanca	Fancc	Esr1	Trp73	H2ac25	Gclc	Nat1	Fgfr1	Gnas	Birc7	Cdh17	Dnmt1	Gclm	Fgfr3	Mdm2	Tpmt	Slc22a2	Plau	Xpc	Htr4	Tgm2	Stk11	Rgs4	Anpep	Slc19a1	Abcc4	Abcc2	Abcc3	Hspa8	Cbx1	Lif	Nrg1	Hspa4	Dcbld1	Otos	Vegfa	Il6	Kat2a	Mapt	Pik3ca	Ifng	Nf2	Atm	Bcl2	Top1	Abcc1	Atr	Nfe2l2	Alk	Abcb1a	Nr1i2	Alox15	Prl3d2	Brca1	Brca2	Cyp3a13	Mllt3	Mtr	Krt20	Dram1	Erbb2	Mutyh	Gabpa	Nqo1	Ntrk2	Eif3a	Dffb	Mdh2	Mgmt	Stat1	Rrm1	Csnk2a1	Ercc1	Rad52	Aldh1a1	Ercc4	Ercc2	Xiap	Apex1	Ddit3	Ercc6	Fxn	Polr1g	Kras	Cyp2e1	Cmpk1	Src	Grp	Gstp1	Hexb	Ehmt2	Hsd17b10	Ppp1r13l	Cxcr4	Atp7b	Rev3l
+Tetanus	MAGMA_Drugs_and_Diseases	Epm2a	Idh1	Trpc5	Bdnf	Hspa4	Cck	Htr1a	Adra2c	Adra2b	Adra2a	Cyp1a2	Cyp2e1	Abcg3	Trp53	Calm1	Chrm3	Abcb1a	Chrm1	Orm2	Nr1i2	Htr2c	Htr2a	Adra1d	Cyp3a13	Htr2b	Adra1b	Htr6	Nts	Adra1a	Htr7	Hrh1	Hrh4	Thpo	Cyp2d10	Smpd1	Drd1	Drd2	Drd3	Drd4	Drd5	Kcnh2
+Tetracaine	MAGMA_Drugs_and_Diseases	G6pdx	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4a	Scn1a	Scn2a
+Thalassemia	MAGMA_Drugs_and_Diseases	Ar	Abcc2	Cyp27b1	Vdr	Cyp24a1	Cyp1a2	Cyp1a1	Cyp3a13	Gc	Ugt1a2	Abcg3
+Thalidomide	MAGMA_Drugs_and_Diseases	F2r	Xrcc5	Crbn	Slc10a2	Vwf	Abcc6	Hgf	Cyp4b1	2410137M14Rik	Nfkb1	Rbx1	Cul4a	Ddb1	Ercc1	Nat1	Scgb3a1	Cyp1a2	Chst3	Ppard	Fgfr2	Itgb2l	Ctnnb1	Rpl13	Spg7	Tnf	Fgf2	Ptgs2	Fcgr4	Ctla4	Il6ra	Atp7a
+Thiazide Diuretic	MAGMA_Drugs_and_Diseases	Slc12a3	Car12	Ace	Tcf7l2	Hmgcs2	Tet2	Fbxl17	Prkca	Vasp	Diaph3	Ankfn1	Wnk1	Yeats4	Kcnma1	Aldh1a2	Slc25a31	Nucb2	Pde3a	Dot1l	Lrrc15	Serpine1	Nedd4l	Prkag2	Txndc11	Adrb1	Ado	Gpr83	Ptgs1	Add1	Car2	Car1	Car4	Nelfcd	Plce1	Slit1	Car9	Csk	Kcnj1	Uggt2	Csmd1	Ilkap
+Thiethylperazine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Hrh1	Chrm5	Htr2c	Drd1	Htr2a	Drd2	Drd4
+Thiocolchicoside	MAGMA_Drugs_and_Diseases	Glra1	Gabra1	Gabrb2	Glrb	Gabrg2
+Thioguanine	MAGMA_Drugs_and_Diseases	Abcc4	Kdm4a	Idh1	Mgmt	Ggh	Tpm3-rs7	Nat1	Bmp7	Ar	Dok5	Impdh1	Impdh2	Pax8	Nfe2l2	Ache	Gda	Hpgd	Tpmt	Prps1l3	Ehmt2	Gata3	Nt5c2	Myc	Nudt15
+Thiomersal	MAGMA_Drugs_and_Diseases	Kdm4a	Smad3	Fen1	Idh1	Vdr	Hsp90aa1	Gmnn	Plk1	Hpgd	Htt	Alox15	Nr1h4	Alox8	Hsd17b10	Ar	Rxra	Atxn2	Aldh1a1	Casp6	Oxct1	Ntsr1	Tlr9	Mapk1	Trp53
+Thiopental	MAGMA_Drugs_and_Diseases	Gabra3	Gria2	Faah	Gabra2	Chrna4	Gabra1	Gabra6	Gabra5	Chrna7	Gabra4	Grik2
+Thioproperazine	MAGMA_Drugs_and_Diseases	Drd1	Htr2a	Drd2	Htr1a	Adra1b	Adra1a
+Thiotepa	MAGMA_Drugs_and_Diseases	Ar	Vdr	Aldh1a1	Gmnn	Hpgd	Gstp1	Ehmt2	Cyp3a13
+Thiothixene	MAGMA_Drugs_and_Diseases	Idh1	Atxn2	Hrh1	Drd1	Htr2a	Drd2
+Throat Infections	MAGMA_Drugs_and_Diseases	Slc15a1	Slc15a2	H2-Eb2	Il10	Slc22a6	Nr1i2	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Ea	Polk	Polh
+Thrombocytopenia	MAGMA_Drugs_and_Diseases	Serpinc1	Pros1	Mpl	F2	F5
+Thrombopoietin Receptor Agonist	MAGMA_Drugs_and_Diseases	Serpinc1	Pros1	Mpl	F2	F5
+Thymidylate Synthase Inhibitor	MAGMA_Drugs_and_Diseases	Wnt5b	Dkk1	Rbx1	Cdc25c	Apc	Fas	Abcg1	Bax	Abcg3	Trp53	Tymp	Ccnk	Galnt14	Pon1	Aurka	Cblb	Egfr	Tyms	Foxo1	Myb	Ccnd1	E2f1	Perp	Cyp1b1	Insr	Smad4	Xrcc3	Igfbp3	Xrcc4	Mthfr	Xrcc1	2410137M14Rik	Sele	Cyp2a12	Dlg5	Aldh3a1	Birc5	Gnas	Fgfr4	Irs1	Cyp19a1	Rgs5	Alcam	Fpgs	Tmem167	Il6ra	Slc19a1	Abcc4	Il11	Abcc5	Abcc2	Hspa5	Bdnf	Braf	Ppp2r5d	Gnl3	Pard3b	Vegfa	Nt5c1a	Ptprc	Pik3ca	Dpyd	Atm	Umps	Abcb1a	Dtymk	Megf11	Shmt1	Top2a	Hmmr	Cyp3a13	Pik3r2	Klc1	Slco1b2	Slc22a16	Erbb2	Cbr3	Nqo1	Cbr1	Nos3	Ercc1	Il2ra	Met	Kras	Cyp2e1	Lgr5	Cdkn1a	Dpys	Gstp1	Itgal	Exo1	Chn2	Nos1	Rev3l	Tshb
+Thyroid Cancer	MAGMA_Drugs_and_Diseases	Yes1	Nras	Pdgfrb	Ret	Flt1	Pdgfra	Kit	Flt4	Fgfr1	Kdr	Braf	Fgfr2
+Thyroid Hormone Stimulant	MAGMA_Drugs_and_Diseases	F9	Thbd	Thrb	Thra	Serpine1	Pparg	Ahr	Nfe2l2	Tshb
+Thyroid Peroxidase Inhibitor	MAGMA_Drugs_and_Diseases	Bdnf	Dio1	Prl3d2	Mpo	Tnf	Prkab1	Myo9b	Gja1	Tpo	Il2ra	Cyp2d10	Lep	Cyp1a2	Trp53	H2-Eb2
+Thyroiditis	MAGMA_Drugs_and_Diseases	Itgb2l	Abcb1a	Anxa1	Trpc5	Bdnf	Cd80	Nr3c1	Ar	Cxcl10	Il5	Il2ra	Ifng	Myc	Bcl2	Nfe2l2	Trp53
+Ticagrelor	MAGMA_Drugs_and_Diseases	Slco1b2	P2ry12	Cyp3a13	Pear1	Slc29a1
+Ticlopidine	MAGMA_Drugs_and_Diseases	P2ry12	Ptafr	2410137M14Rik	Cyp3a13	Cyp2d10	Cyp1a2	H2-Ab1	H2-Eb2
+Tinea Corporis	MAGMA_Drugs_and_Diseases	Trpm2	Nr1i2	Npy2r	Trpv5	Npy1r
+Tinea Cruris	MAGMA_Drugs_and_Diseases	Trpm2	Nr1i2	Npy2r	Trpv5	Npy1r
+Tinea Versicolor	MAGMA_Drugs_and_Diseases	Trpm2	Nr1i2	Npy2r	Trpv5	Npy1r
+Tiotropium	MAGMA_Drugs_and_Diseases	Chrm3	Chrm1	Chrm2	Cyp2d10	Adrb2
+Tiratricol	MAGMA_Drugs_and_Diseases	Thrb	Thra	Hif1a	Nfe2l2
+Tirofiban	MAGMA_Drugs_and_Diseases	Fgb	Fgg	Itga2b	Itgb3
+Tivozanib	MAGMA_Drugs_and_Diseases	Yes1	Pdgfrb	Flt1	Pdgfra	Kit	Flt4	Erbb2	Kdr	Braf
+Tizanidine	MAGMA_Drugs_and_Diseases	Ar	Nisch	Adra2c	Adra2b	Adra2a
+Toceranib	MAGMA_Drugs_and_Diseases	Pdgfrb	Flt1	Pdgfra	Flt3	Kdr
+Tofacitinib	MAGMA_Drugs_and_Diseases	Stat5b	Yes1	Pkn1	Jak3	Tyk2	Ptpn6	Jak1	Jak2	Stat5a
+Tolazamide	MAGMA_Drugs_and_Diseases	Kdm4a	Kcnj10	G6pdx	Kcnj11	Abcc8	Ehmt2	Kcnj1
+Tolazoline	MAGMA_Drugs_and_Diseases	Hrh2	Hrh1	Drd2	Adra2c	Adra1a	Adra2b	Adra2a
+Tolbutamide	MAGMA_Drugs_and_Diseases	G6pdx	Kcnj11	Kcnj8	Abcc8	Abcc9	Kcnj1
+Tolterodine	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10	Cyp1a2	Cyp3a13
+Tonsillitis	MAGMA_Drugs_and_Diseases	Slc15a1	Abcc2	Slc15a2	Slc22a6	Nr1i2	Anpep	Slc22a8
+Toothache	MAGMA_Drugs_and_Diseases	Tgfb1	Ace	Col26a1	Hspa5	Itga2	Nrg1	Tsc1	Prkab1	Agt	Gp6	Prkab2	Tapbp	Il1b	Il4	Nfkbia	Pik3ca	Fas	Cyp1a2	H2-Ab1	Fsip1	Trp53	Tlr3	Col18a1	Prkaa2	B4galt2	Tnfrsf11a	Itga2b	Zbtb22	Cyp3a13	Pear1	Prkaa1	Tbxa2r	Cyp2d10	P2ry1	Adora1	Me3	Asic3	Fcer1g	Mcl1	Chia1	Ntrk1	Slc30a9	F2r	Nos3	Cyp4f14	Ptgir	Hgf	Pla2g4a	Slc6a12	Gp1ba	Nat1	Gfap	Nfkb1	Nfkb2	Tbxas1	Ddit3	Pparg	Cep68	H2-Eb2	Pth	Irs2	Ptger2	Thra	F13a1	Ptger3	Itgb3	Prkag2	Prkag3	Afp	Hmgcr	Prkag1	Fgf2	Hnmt	Ptgs1	Ptgs2	Ednra	Ikbkb	Rps6ka3	Hmox1	Ugt1a6a	Plcg1	Gc
+Topiramate	MAGMA_Drugs_and_Diseases	Gabra3	Car12	Gabra2	Gabrq	Insr	Gabra1	Gabrp	Gabra6	Gabra5	Gabra4	Gabrg1	Gabrg3	Gabrg2	Scn10a	Scn8a	Scn4a	Scn2a	Gria2	Gabrb3	Gria3	Gabrb2	Gabrb1	Gria1	Nr1i2	Grik4	Grik5	Grik2	Grik3	Aqp4	Grik1	Car2	Car1	Car4	Scn11a	Scn9a	Scn7a	Scn5a	Car7	Scn3a	Scn1a	Gabre	Gabrd	Gria4
+Topoisomerase Inhibitor	MAGMA_Drugs_and_Diseases	Top2b	Csf2	Top2a	Smn1	Top1
+Topotecan	MAGMA_Drugs_and_Diseases	Rb1	Abcb1a	Atrx	Bdnf	Tyms	Ddo	Pik3ca	Top1mt	Akt1	Muc16	Top1	Abcg3	Trp53	Alk
+Torasemide	MAGMA_Drugs_and_Diseases	Slc12a3	Add1	Ace	Cyp2d10	Gnb3	Slc12a1	Cyp1a2	Cyp3a13
+Toremifene	MAGMA_Drugs_and_Diseases	Tgfb1	Cd80	Cyp1b1	Cyp3a13	Pgr	Esr1	Esr2
+Tourettes Disorder	MAGMA_Drugs_and_Diseases	Epm2a	Tor1a	Bdnf	Homer1	Eif2ak4	Plekha6	Dtnbp1	Hspa4	Htr1a	Grin1	Mapk14	Ankk1	Trp53	Abcb1a	Maob	Abcb5	Slc1a1	Grik4	Htr2c	Htr2a	Cyp3a13	Htr2b	Comt	Dpp6	Nt5e	Hrh1	Cyp2d10	Drd1	Drd2	Drd3	Drd4	Nkx6-1	Tac1	Drd5	Kcnh1	Ldlr	Kcnh2	Sigmar1	Arid5b	Htr3a	Mtor	Ar	Hspg2	Dlg4	Faah	Il1rn	Gria1	Ryr1	Gmnn	Rtkn2	Cacna1c	Slc2a4	Nts	Slc6a3	Nr4a1	Slc6a4	Slc6a5	Akap13	Grin2b	Htr7	Grin2a	Anpep	Rgs2	Zic4	Cnr1	Mc4r	Npy	Camk2g
+Trametinib	MAGMA_Drugs_and_Diseases	Map2k4	Prkch	Dusp6	Map2k5	Map2k2	G6pdx	Map2k3	Map2k1	Etv1	Braf	Etv4	Etv5	Rasa1	Stag2	Kit	Pik3ca	Fgfr1	Atm	Nf1	Met	Kras	Fgfr3	Trp53	Fgfr2	Raf1	Rb1	Src	Ctnnb1	Araf	Egfr	Atxn1l	Nras	Stk11	Gna11	Erbb3	Vhl	Hras	Abl1	Cic	Map2k6	Map2k7
+Tranilast	MAGMA_Drugs_and_Diseases	Arsa	Pkm	Sts	Hpgds	Hrh1	Atad5	Hpgd	Ugt1a1	Rab9	Npc1	Trp53
+Transfusional Hemosiderosis	MAGMA_Drugs_and_Diseases	Ar	Abcc2	Cyp27b1	Vdr	Cyp24a1	Cyp1a2	Cyp1a1	Cyp3a13	Gc	Ugt1a2	Abcg3
+Trazodone	MAGMA_Drugs_and_Diseases	Htr2c	Htr2a	Htr1a	Htr2b	Cyp3a13	Slc6a2	Adra1b	Adra1a	Hsd17b10	Slc6a4	Adra2a	Hrh1	Kat2a	Drd1
+Tremors	MAGMA_Drugs_and_Diseases	Recql	Htr1a	Adra2c	Adra2b	Adra2a	Apex1	Mphosph8	Nfe2l2	Trp53	Fen1	Dbh	Adrb1	Ehmt2	Adra1d	Hif1a	Slc6a2	Adra1b	Slc6a3	Adra1a	Hsd17b10	Slc6a4	Htr7	Drd1	Drd2	Drd3	Drd4	Drd5
+Treprostinil	MAGMA_Drugs_and_Diseases	P2ry12	Ptger1	Ptger2	Ptgir	Ptger3	Ptger4	Pparg	Ppard	Ptgdr
+Tretinoin	MAGMA_Drugs_and_Diseases	Rarres1	Smad2	Fus	Vdr	Il10	Hspa8	Nr0b1	Pml	Gprc5a	Mycs	Kat2a	Aldh1a1	Aldh1a2	Birc5	Rarb	Bcl2	Rara	Bcor	Nfe2l2	Ppard	Cdkn1b	Flt3	Rarg	Nr2e1	Ehmt2	Rorb	Rorc	Cyp3a13	Hif1a	Nr2c2	Rxra	Rxrb	P2ry2	Usp1	Rxrg
+Triamcinolone	MAGMA_Drugs_and_Diseases	Tgfb1	Crhr1	Anxa1	Bche	G6pdx	Mmp1a	Lpl	Slc2a1	Cyp3a13	Fgf2	Nfkb1	Nr3c1	Serpina6	Ar	Cyp2d10	Cyp1a2	Apoe	Glcci1	Nfe2l2
+Triamterene	MAGMA_Drugs_and_Diseases	Idh1	Thrb	Gaa	Scnn1a	Esr1	Hif1a	Hsd17b10	Hspb1	Ar	Scnn1g	Th	Scnn1b	Cyp1a2	Nfe2l2	Ppard	Trp53	Jak2
+Trichlormethiazide	MAGMA_Drugs_and_Diseases	Slc12a3	Car2	Car1	Car4	Kcnma1	Slc12a1	Ptgs1	Ptgs2
+Triclabendazole	MAGMA_Drugs_and_Diseases	Idh1	Hsp90aa1	Gmnn	Mapt	Glp1r	Dnmt1	Npsr1
+Triclosan	MAGMA_Drugs_and_Diseases	Ar	Smad3	Rxra	Hsp90aa1	Hpgd	Dnmt1	Nfe2l2
+Tricyclic Antidepressant	MAGMA_Drugs_and_Diseases	Arsa	Bdnf	Htr1a	Adra2c	Adra2b	Adra2a	Mc1r	Cyp1a2	Slc29a4	Chrm3	Chrm4	Abcb1a	Chrm1	Chrm2	Chrm5	Htr2c	Adrb1	Adrb2	Htr2a	Adra1d	Cyp3a13	Slc6a2	Adra1b	Adra1a	Slc6a4	Hrh1	Thpo	Cyp2d10	Smpd1	Drd2
+Trifluoperazine	MAGMA_Drugs_and_Diseases	Epm2a	Tnnc1	Cbx1	Rad52	Caly	Cyp1a2	S100a4	Trp53	Calm1	Csf2	Camk2b	Glp1r	Htr2c	Ehmt2	Htr2a	Cyp3a13	Adra1a	Lipa	Atxn2	Hrh1	Rgs4	Thpo	Cyp2d10	Akt1	Usp1	Drd1	Mapk1	Drd2	Drd4	Apob
+Triflupromazine	MAGMA_Drugs_and_Diseases	Chrm1	Chrm2	Cyp2d10	Cyp1a2	Drd1	Drd2	Htr2b	Trp53
+Triflusal	MAGMA_Drugs_and_Diseases	Pde10a	Nos2	Nfkb1	Hsd17b10	Ptgs1
+Trimethoprim	MAGMA_Drugs_and_Diseases	G6pdx	Gstm6	Cyp2d10	Cbx1	Cyp1a2	Mpo	Cyp3a13	Tyms	Dhfr
+Trimipramine	MAGMA_Drugs_and_Diseases	Cyp2d10	Cbx1	Drd1	Slc6a2	Slc6a3	Slc6a4
+Tropisetron	MAGMA_Drugs_and_Diseases	Glra1	Glra2	Jun	Slc22a1	Glrb	Cyp2d10	Cyp3a13	Htr3a	Htr4	Il2
+True Histiocytic Lymphoma THL	MAGMA_Drugs_and_Diseases	Cyp2a12	Cyp2d10	Cyp3a13	Cyp2c55
+Tryptophan	MAGMA_Drugs_and_Diseases	Slc36a1	Casr	Kyat1	Slc22a2	Gpr139	Ehmt2	Baz2b	Ido1	Wars2
+Tuberculosis	MAGMA_Drugs_and_Diseases	Abcb1a	Nr1i2	Gstp1	Tnf	Cyp3a13	Bach1	Xpo1	Cyp1a2	Mafk	Nos2	Cyp2e1
+Tuberous Sclerosis Complex TSC	MAGMA_Drugs_and_Diseases	Pbrm1	Tsc2	Braf	Tsc1	Esr1	Esr2	Mtor	Ar	Fkbp1a	Pik3r1	Pik3ca	Nf2	Atm	Nf1	Kras	Fgfr4	Bap1	Kdm5c	Rb1	Ret	Abcb1a	Notch1	Ctnnb1	Mpl	Brca1	Brca2	Cyp3a13	Egfr	Flcn	Nras	Rptor	Stk11	Gna11	Akt3	Erbb2	Akt1	Vhl	Akt2	Hras
+Tubocurarine	MAGMA_Drugs_and_Diseases	Ache	Chrna2	Kcnn1	Kcnn2	Htr3b	Kcnn3	Htr3a
+Tubulin Polymerization Inhibitor	MAGMA_Drugs_and_Diseases	Gmnn	Atad5	Tubb5	Cyp1a2	Tuba1a	Tubb4b	Hspb1	Cyp2j13
+Tumor Necrosis Factor Production Inhibitor	MAGMA_Drugs_and_Diseases	F2r	Xrcc5	Crbn	Slc10a2	Vwf	Abcc6	Hgf	Cyp4b1	2410137M14Rik	Nfkb1	Rbx1	Cul4a	Ddb1	Ercc1	Nat1	Scgb3a1	Cyp1a2	Chst3	Ppard	Fgfr2	Itgb2l	Ctnnb1	Rpl13	Spg7	Tnf	Fgf2	Ptgs2	Fcgr4	Ctla4	Il6ra	Atp7a
+Tyrosine Hydroxylase Inhibitor	MAGMA_Drugs_and_Diseases	Th	Ifna4	Bdnf	Cyp2d10	Cyp1a2	Ucp1	Cyp3a13	Slc6a3	Il2
+Tyrosine Kinase Inhibitor	MAGMA_Drugs_and_Diseases	Acvr1	Lyn	Pdgfrb	Pdgfra	Limk1	Irak4	Braf	Cdc42bpa	Mapk14	Tec	Fes	Apc	Axl	Pik3ca	Abi1	Nf1	Sik2	Sik3	Epha2	Sik1	Abcg3	Trp53	Frk	Ddr2	Csf3r	Egfr	Aurkb	Crkl	Slk	Erbb4	Erbb2	Kdr	Map3k20	Smad3	Stat5b	Yes1	Idh1	Plk4	Map2k2	Srms	Map2k1	Syk	Idh2	Tnk2	Mink1	Arid1a	Ptk6	Hck	Ar	Bcr	Fgr	Lck	Kit	Fgfr1	Map3k10	Btk	Taok1	Met	Kras	Pkn2	Fgfr3	Ppard	Csf1r	Blk	Src	Dyrk3	Gmnn	Cbl	Abl2	Hras	Abl1	Fyn	Jak2	Map4k5
+Ulcerative Colitis	MAGMA_Drugs_and_Diseases	Pla2g2e	Chuk	Alox5	Ptgs1	Ptgs2
+Umeclidinium	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10
+Urapidil	MAGMA_Drugs_and_Diseases	Ehmt2	Htr1a	Tshr
+Urea	MAGMA_Drugs_and_Diseases	Ctsb	Car2	Wrn	Arg1	Thpo	Aqp9	Ctnnb1	Rps6ka3	Hnf4a	Hspa4	Hspb1
+Urea Cycle Disorders	MAGMA_Drugs_and_Diseases	Hdac5	Hdac6	Hdac3	Hdac4	Hdac1	Hdac11	Xrcc5	Hdac10	Hdac2	Hdac9	Hdac7	Hdac8	Bcl2	Smn1
+Uricosuric Blocker	MAGMA_Drugs_and_Diseases	Ar	Abcb1a	G6pdx	Panx1	Slc22a6	Slco1c1	Abcc1	Slc22a8
+Urinary Frequency	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Urinary Incontinence	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Cyp2d10
+Urinary Retention	MAGMA_Drugs_and_Diseases	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5
+Urinary Tract Infections	MAGMA_Drugs_and_Diseases	Slc15a1	Abcc2	Slc15a2	Slc22a6	Nr1i2	Anpep	Slc22a8
+Urticaria	MAGMA_Drugs_and_Diseases	P2rx7	Hrh1	Thpo	Cyp2d10	Cyp1a2	Cyp3a13	Trp53
+VEGFR Inhibitor	MAGMA_Drugs_and_Diseases	Yes1	Pdgfrb	Plk4	Flt1	Pdgfra	Csf1	Flt4	Ugt1a1	Pdgfb	Cyp3a13	Hif1a	Kit	Vhl	Kdr	Abl1
+Valproic Acid	MAGMA_Drugs_and_Diseases	Hdac1	Hdac2	Acadsb	Hdac9	Abat	Aldh5a1	Scn11a	Scn9a	Scn10a	Scn7a	Scn8a	Scn5a	Scn3a	Scn4b	Scn4a	Scn1a	Scn2b	Scn2a	Scn3b	Ogdh	Scn1b
+Vandetanib	MAGMA_Drugs_and_Diseases	Epha6	Acvr1	Epha5	Pdgfrb	Epha8	Pdgfra	Epha7	Vegfa	Mapk14	Apc	Axl	Tek	Atm	Epha2	Epha1	Epha4	Alk	Epha3	Ret	Rock2	Lrrk2	Egfr	Aurkb	Erbb4	Erbb2	Erbb3	Kdr	Yes1	Idh1	Map2k2	Map2k1	Ptk6	Mtor	Lck	Fgfr1	Btk	Tyro3	Kras	Ephb6	Flt1	Src	Ltk	Gmnn	Epha10	Flt4	Htt	Ephb1	Abl1	Fyn	Ephb3	Ephb2	Map4k4	Ephb4	Map4k5
+Varenicline	MAGMA_Drugs_and_Diseases	Chrnb2	Chrna4	Hykk	Chrna3	Chrnb4	Cyp2a12	Chrna6	Chrna7
+Varicose Veins	MAGMA_Drugs_and_Diseases	Nqo1	Nqo2	Vdr	Vkorc1	F10	F2	Ar	F7	F9	Aldh1a1	Mapt	Ggcx	Cyp1a2	Nfe2l2	Ppard	Trp53	Vkorc1l1	Blm	Maob	Maoa	Pros1	Ehmt2	Proz	Atxn2	Bglap2	Cyp2d10	Aox1
+Vascular Spasm	MAGMA_Drugs_and_Diseases	Crebbp	Pde4d	Cbx1	Ehmt2	Plau	Adra1d	Cyp3a13	Pde10a	Thpo	Cyp2d10	Pde4b	Xdh	Pde5a	Nfe2l2
+Vasodilator	MAGMA_Drugs_and_Diseases	Alox15	Ehmt2	Recql	Adra1d	Hif1a	Slc6a2	Adra1b	Adra2c	Adra1a	Adra2b	Hsd17b10	Adra2a	Apex1	Polk
+Vasopressin	MAGMA_Drugs_and_Diseases	Ace	Oxtr	Dusp1	Avpr2	Bdnf	Serpine1	Camk2b	Avpr1a	Tacr1	Avpr1b	Cyp3a13	Hspb1	Mapk14	Thbs4	Nppc	E2f1	Prkd1
+Vasospastic Angina	MAGMA_Drugs_and_Diseases	Ace	Cacna2d1	Cacna1c	Cacna1b	Cacna1d	Cyp3a13	Agt	Cacna1f	Cacnb2	Nppa	Cacna1s	Cacng1
+Vemurafenib	MAGMA_Drugs_and_Diseases	Yes1	Map2k2	Map2k1	Mitf	Braf	Sox10	Stag2	Stag3	Pik3ca	Cyp1a2	Nf1	Met	Kras	Trp53	Raf1	Csf1r	Abcb1a	Cyp3a13	Pik3r2	Egfr	Atxn1l	Nras	Prex2	Akt3	Akt1	Hras	Rac1	Cic
+Venetoclax	MAGMA_Drugs_and_Diseases	Idh1	Flt3	Idh2	Braf	Pik3ca	Bcl2l1	Bcl2	Abl1	Kras	Mcl1	Trp53	Bcl2l2
+Venlafaxine	MAGMA_Drugs_and_Diseases	Gabrq	Gria3	Abcb1a	Gabrp	Tph2	Gabra6	Bdnf	Htr1b	Htr2a	Cyp3a13	Slc6a2	Comt	Slc6a4	Cyp2d10	Fkbp5
+Verapamil	MAGMA_Drugs_and_Diseases	Kcnj5	Tgfb1	Kcnip1	Kcnj11	Nr1h3	Hspa4	Tpcn1	Tpcn2	Cacnb2	Cacnb3	Il1b	Cacnb4	Ptprd	Nos1ap	Il2ra	Bax	Kcna10	Abcc1	Slc29a4	Cacnb1	Abcb1a	Cacna1a	Gstp1	Cacna1c	Kcna4	Cacna1b	Nalcn	Plau	Slc2a4	Cacna1d	Cyp3a13	Kcna7	Cacna1g	Cacna1f	Tyms	Cacna1i	Slc6a4	Grk4	Kcnmb1	Myc	Cacna1s	Scn5a	Cacng1	Plekhh2	Ldlr	Kcnh2
+Vesicular Monoamine Transporter Inhibitor	MAGMA_Drugs_and_Diseases	Kdm4a	Atad5	Hgf	Cbx1	Trpv1	Ar	Mapt	Ltf	Mphosph8	Gnrh1	Abcb1a	Gmnn	Nr1i2	Lpl	Ehmt2	Baz2b	Cyp3a13	Tyms	Ptgs2	Nt5e	Thpo	Slc18a1	Slc18a2	Tac1	Kcnh2
+Vesnarinone	MAGMA_Drugs_and_Diseases	Nt5e	Fas	Pde3a	Thbs1	Cyp3a13	Trp53	Kcnh2
+Vilazodone	MAGMA_Drugs_and_Diseases	Hrh1	Cyp3a13	Drd2	Htr1a	Drd3	Slc6a4	Htr4
+Vinblastine	MAGMA_Drugs_and_Diseases	Jun	Gstm6	Mmp2	Tubb5	Tube1	Tubb2a	Tubb4b	Tubg1	Tubb4a	Tuba4a	Pthlh	Tubb2b	Nf1	Abcb4	Abcb1a	Csf2	Gmnn	Nr1i2	Cdkn1a	Trh	Tubb1	Tubd1	Cyp3a13	Klk1b24	Tuba1a	Tuba3b	Tuba1c	Tuba1b	Tubb6	Tbxa2r	Tubb3	Cga
+Vinburnine	MAGMA_Drugs_and_Diseases	Ar	Chrm3	Chrm4	Chrm1	Chrm2	Gmnn
+Vincristine	MAGMA_Drugs_and_Diseases	Ralbp1	Abcc2	Abcc3	Bdnf	Tubb5	Nrg1	Cp	Tubb2a	Bmp7	Tuba4a	Cxcl12	Mycs	Abcc10	Tubb2b	Dok5	Pik3ca	Bcl2	Abcc1	Abcb4	Abcb1a	Nr1i2	Odc1	Top2a	Tubb1	Cyp3a13	Tuba3b	Tyms	Tubb6	Ntf3	Tubb3	Drosha	Smad3	Vwf	Atrx	Tubb4b	Tubb4a	Ar	Bcr	Pnpla3	Cdkn1b	Gmnn	Actg1	Sri	Afp	Capg	Fgf2	Gata3	Tuba1a	Pik3cg	Tuba1c	Tuba1b	Cep72	Abl1
+Vinorelbine	MAGMA_Drugs_and_Diseases	Tub	Rrm1	Tubb5	Xrcc1	Tubb2a	Tubb4b	Smarca4	Tubb4a	Tuba4a	Apc	Tubb2b	Bax	Tubb1	Brca1	Brca2	Tuba1a	Tuba3b	Tuba1c	Tuba1b	Tubb6	Casp7	Erbb2	Tubb3
+Vinpocetine	MAGMA_Drugs_and_Diseases	Pde1c	Pde1a	Ehmt2	Drd1	Kcnh2
+Virus Herpes Simplex HSV	MAGMA_Drugs_and_Diseases	Cacna2d2	Cacna2d1	Cacna2d4	Cacna2d3	Grin2d	Grin2c	Grin1	Cacnb2	Grin3a	Cacnb3	Cacnb4	Grin3b	Kcnq3	Kcnq5	Cacnb1	Abcb1a	Cacna1a	Cacna1c	Cacna1b	Cacna1e	Cacna1d	Eno2	Cacna1g	Cacna1f	Cacna1i	Cacna1h	Cacng7	Cacng8	Grin2b	Grin2a	Cacna1s	Cacng1	Nos1	Adora1	Cacng2	Cacng3	Cacng4	Cacng5	Cacng6
+Vitamin B	MAGMA_Drugs_and_Diseases	Hcar2	Hcar1	Nnmt	Dgat2	Cyp2d10	Qprt	Cyp1a2	Cyp3a13
+Vitamin B6 Deficiency	MAGMA_Drugs_and_Diseases	Ddc	Ntrk1	Pdxk	Hp	Tnf
+Vitamin K Antagonist	MAGMA_Drugs_and_Diseases	Abcb1a	Vkorc1	Cyp4f14	Ggcx	Calu	Apoe
+Voltage Gated Calcium Channel Ligand	MAGMA_Drugs_and_Diseases	Cbs	Mtrr	Aldh1l1	Bhmt1b	Cps1	Bhmt2	Mtr	Gnmt	Metap2	Psph
+Voriconazole	MAGMA_Drugs_and_Diseases	Rela	Abcb1a	Cyp2d10	Cyp3a13	Abcg3	Ptgs1
+Vorinostat	MAGMA_Drugs_and_Diseases	Ace	Fbxw7	Tubb5	Braf	Nr0b1	Tubb2a	Tubb4b	Tubb4a	Tuba4a	Myd88	Tubb2b	Pax8	Birc5	Ezh2	Nfe2l2	Trp53	Cftr	Hdac5	Bap1	Hdac6	Rb1	Hdac3	Smarcb1	Hdac4	Gmnn	Hdac1	Hdac11	Hdac10	Hdac2	Tubb1	Chd4	Hdac9	Tuba1a	Tuba3b	Hdac7	Hdac8	Tuba1c	Tuba1b	Tubb6	Gna11	Tubb3	Myc
+Vortioxetine	MAGMA_Drugs_and_Diseases	Htr7	Cyp2d10	Htr1b	Htr2c	Htr2a	Htr1a	Htr3a	Htr6	Slc6a4	Htr5a
+Vulvovaginal Candidiasis	MAGMA_Drugs_and_Diseases	Kdm4a	Hsp90aa1	Jun	Avpr2	Cbx1	Tshr	Ar	Cyp1a2	Cdk1	Ppard	Rapgef4	Trp53	Gmnn	Nr1i2	Glp1r	Nr1i3	Adrb2	Baz2b	Cyp3a13	Hif1a	Trpm2	Atxn2	Cxcr2	Thpo	Cyp2d10	Cfl1	Mapk1	Trpm8	Kcnn4	Cyth2	Trpm4	Kcnh2	Npsr1
+Waldenstroms Macroglobulinemia WM	MAGMA_Drugs_and_Diseases	Smad3	Yes1	Blk	Lyn	Src	Txk	Bmx	Egfr	Hck	Tec	Myd88	Lck	Erbb4	Cyp2d10	Erbb2	Myc	Atm	Btk	Fyn	Plcg2	Jak3	Itk	Trp53
+Warfarin	MAGMA_Drugs_and_Diseases	Nqo1	Vdr	Vkorc1	Ugt1a1	Vwf	Dnmt3a	Mthfr	Ddhd1	Cyp4a30b	Alb	Asph	Nedd4	Cyp1a2	Cyp1a1	Gas6	Stx1b	Trp53	Vkorc1l1	Abcb1a	Nr1i3	Pros1	Cyp3a13	Gata4	Prss53	Thbd	Fpgs	Bglap2	Hnf4a	Apoe	Stx4a	Apob
+Weight Loss Aid	MAGMA_Drugs_and_Diseases	Lipf	Dagla	Abhd12	Daglb	Fasn	Cnr1	Lpl	Serpine1	Abhd6	Pnlip
+Whipworm	MAGMA_Drugs_and_Diseases	Gmnn	Tubb5	Cyp1a2	Tuba1a	Tubb4b
+Wilms Tumor	MAGMA_Drugs_and_Diseases	Vdr	Thrb	Htt	Alox15	Ehmt2	Recql	Cyp3a13	Rorc	Esr1	Nr3c1	Ar	Rxra	Polr2a	Cyp2d10	Apex1	Cyp1a2	Ppard
+Wolff Parkinson White Syndrome WPW	MAGMA_Drugs_and_Diseases	Slc5a7	Slc28a1	Adora2b	Adora2a	Adora3	Adora1	Slc28a3	Slc28a2	Pi4k2b	Trpm4	Pi4k2a
+Xanthine Oxidase Inhibitor	MAGMA_Drugs_and_Diseases	Ntng1	Ugt1a1	Pou5f1	Grem2	Tbl1xr1	Cyp1a2	Trib2	Abcg3	Ugt1a10	Myt1l	Tshz2	Cyp3a13	Pkd2	Cyp2d10	Aox1	Ugt1a6a	Ugt1a2	Xdh
+Xerosis Cutis	MAGMA_Drugs_and_Diseases	Ctsb	Car2	Wrn	Arg1	Thpo	Aqp9	Ctnnb1	Rps6ka3	Hnf4a	Hspa4	Hspb1
+Xylometazoline	MAGMA_Drugs_and_Diseases	Cyp2d10	Adra1d	Adra1b	Adra2c	Adra1a	Adra2b	Adra2a
+Yeast Infection	MAGMA_Drugs_and_Diseases	Kdm4a	Idh1	Abcb1a	Vdr	Hsp90aa1	Nr1i2	Cyp3a13	Trpm2	Cyp2d10	Trpv5	Cyp1a2
+Yohimbine	MAGMA_Drugs_and_Diseases	Kcnj10	Kcnj11	Kcnj8	Htr1f	Kcnj12	Kcnj14	Kcnj15	Htr1b	Htr1a	Adra2c	Adra2b	Adra2a	Htr5a	Htr2c	Ehmt2	Htr2a	Htr2b	Htr7	Cyp2d10	Drd1	Drd2	Drd3	Kcnj1
+Zafirlukast	MAGMA_Drugs_and_Diseases	Vdr	Gmnn	Ephx2	Baz2b	Ar	Polb	Kat2a	Cysltr1	Cyp2d10	Cyp1a2	Pparg	Usp1	Mapk1	Nfe2l2
+Zellweger Syndrome	MAGMA_Drugs_and_Diseases	Ces1d	Cox8a	Cox5a	Cox7c	Cox7b	Fech	Pla2g1b	Adh1	Gpbar1	Esrrg	Cox6a2	Cox7a1	Cox5b-ps	Cox6c	Cox6b1	Fabp6	Cox4i1
+Zidovudine	MAGMA_Drugs_and_Diseases	Abcc4	Abcc5	Il10	Nme1	Nme2	Cxcl10	Cyp2a12	Por	Cyp1a2	Cyp2e1	Slc28a3	Abcc1	Slc22a8	Abcg3	Abcb1a	Slc22a7	Slc28a1	Dtymk	Slc22a6	Flt3	Prl3d2	Cyp3a13	Tert	Cyp2d10	Tk1
+Zileuton	MAGMA_Drugs_and_Diseases	Mmp12	Mmp2	Cyp2d10	Alox5	Prorp	Cyp3a13
+Ziprasidone	MAGMA_Drugs_and_Diseases	Eif2ak4	Htr1b	Htr1a	Adra2c	Htr3a	Adra2b	Adra2a	Ar	Chrm3	Chrm4	Chrm1	Chrm2	Chrm5	Chrna7	Htr2c	Adrb1	Ehmt2	Htr2a	Cyp3a13	Adra1b	Htr6	Adra1a	Slc6a4	Htr7	Hrh1	Rgs4	Mc4r	Drd1	Drd2	Drd3	Drd4	Drd5
+Zollinger Ellison Syndrome	MAGMA_Drugs_and_Diseases	Abcb1a	Slc47a1	Slc22a2	Cyp3a13	Fcgr4	Hrh2	Cyp2d10	Cyp1a2	Polk	Nos1	Slc29a4
+Zolmitriptan	MAGMA_Drugs_and_Diseases	Htr1f	Htr1b	Htr1a	Htr4
+Zonisamide	MAGMA_Drugs_and_Diseases	Car13	Car12	Car11	Car10	2410137M14Rik	Scn10a	Scn8a	Scn4b	Scn4a	Scn2b	Scn2a	Maob	Maoa	Cyp3a13	Cacna1g	Aqp4	Cacna1i	Cacna1h	Car2	Car1	Car4	Scn11a	Scn9a	Car3	Car5b	Car5a	Car6	Scn7a	Car8	Scn5a	Car7	Scn3a	Car9	Scn1a	Scn3b	Car14	Scn1b
+Zotepine	MAGMA_Drugs_and_Diseases	Htr1b	Htr2c	Htr2a	Htr1a	Slc6a2	Htr6	Adra2b	Slc6a4	Htr7	Hrh1	Drd2	Drd3	Drd4
+Zuclopenthixol	MAGMA_Drugs_and_Diseases	Hrh1	Cyp2d10	Cyp1a2	Drd1	Htr2a	Drd2	Adra1a	Drd5	Adra2a
+mTOR Inhibitor	MAGMA_Drugs_and_Diseases	Pbrm1	Tsc2	Braf	Tsc1	Esr1	Esr2	Mtor	Ar	Fkbp1a	Pik3r1	Pik3ca	Nf2	Atm	Nf1	Kras	Fgfr4	Bap1	Kdm5c	Rb1	Ret	Abcb1a	Notch1	Ctnnb1	Mpl	Brca1	Brca2	Cyp3a13	Egfr	Flcn	Nras	Rptor	Stk11	Gna11	Akt3	Erbb2	Akt1	Vhl	Akt2	Hras

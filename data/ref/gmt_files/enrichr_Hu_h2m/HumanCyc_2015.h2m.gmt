@@ -1,0 +1,125 @@
+&gamma;-glutamyl cycle	HumanCyc_2015	Ggct	Ggt5	Gclc	Gss	Gclm	Cndp2	Oplah
+&gamma;-linolenate biosynthesis	HumanCyc_2015	Slc27a2	Acsl3	Acsm4	Acsm3	Acsl1	Acsm1	Acsl6	Acsl5	Acsl4	Acsm5	Acsbg2	Acsbg1	Fads2
+1D-myo-inositol hexakisphosphate biosynthesis II (mammalian)	HumanCyc_2015	Ippk	Ipmk	Itpk1	Ocrl	Inppl1	Itpkc	Inpp5d	Inpp5a	Inpp5b	Synj2	Synj1	Itpka	Itpkb	Inpp5k	Inpp5j
+2'-deoxy-&alpha;-D-ribose 1-phosphate degradation	HumanCyc_2015	Dera	Aldh1b1	Aldh3a1	Aldh3b3	Aldh3b1	Pgm2
+2-oxobutanoate degradation	HumanCyc_2015	Bckdhb	Bckdha	Mcee	Dbt	Pccb	Pcca	Dld
+3-phosphoinositide biosynthesis	HumanCyc_2015	Sacm1l	Fig4	Pik3cb	Pik3r1	Pik3ca	Pikfyve	Pi4kb	Pi4ka	Pik3c3	Pi4k2b	Pi4k2a	Pik3r5	Pik3r4	Pik3cd	Pik3r3	Pik3c2g	Pik3r2	Pik3c2b	Pik3c2a	Pik3cg	Pik3r6	Pip5kl1	Pip5k1a	Pip4k2b	Pip5k1b	Pip5k1c	Cdipt
+3-phosphoinositide degradation	HumanCyc_2015	Tpte	Mtmr3	Mtmr14	Sacm1l	Ocrl	Inppl1	Inpp4b	Inpp5d	Inpp4a	Inpp5b	Synj2	Synj1	Inpp5e	Inpp5f	Inpp5k	Inpp5j	Pmpca
+4-hydroxy-2-nonenal detoxification	HumanCyc_2015	Gsta3	Gstp1
+BMP Signalling Pathway	HumanCyc_2015	Ski	Bmp2	Smad4	Ube2d1	Acvr2a	Bmpr1b
+C20 prostanoid biosynthesis	HumanCyc_2015	Hpgds	Ptgis	Ptges2	Ptges3	Tbxas1	Ptges	Ptgs1	Ptgds	Ptgs2
+CDP-diacylglycerol biosynthesis	HumanCyc_2015	Cds2	Cds1	Gk	Abhd5	Mboat7	Mboat2	Agpat1	Agpat2	Gk2	Lclat1	Agpat3	Agpat4	Agpat5	Mboat1	Gk5	Gpam	Lpcat4	Lpcat3	Gpat2
+CMP phosphorylation	HumanCyc_2015	Nme7	Cmpk2	Nme3	Nme4	Nme5	Nme6	Nme1	Cmpk1
+D-galactose degradation V (Leloir pathway)	HumanCyc_2015	Galk1	Galt	Gale	Galm	Pgm2	Pgm1
+D-myo-inositol (1,3,4)-trisphosphate biosynthesis	HumanCyc_2015	Ipmk	Ocrl	Inppl1	Itpkc	Minpp1	Inpp5d	Inpp5a	Inpp5b	Synj2	Synj1	Itpka	Itpkb	Inpp5k	Inpp5j
+D-myo-inositol (1,4,5)-trisphosphate biosynthesis	HumanCyc_2015	Plch1	Plcb4	Pi4kb	Pi4ka	Plcd1	Plch2	Plcb2	Plcd4	Plcb3	Pi4k2b	Pi4k2a	Plcb1	Plcd3	Pip5kl1	Plcz1	Pip4k2a	Pip5k1a	Plce1	Pip4k2b	Pip5k1b	Pip4k2c	Pip5k1c	Plcg1	Cdipt	Plcg2
+D-myo-inositol (1,4,5)-trisphosphate degradation	HumanCyc_2015	Inpp1	Ocrl	Inppl1	Inpp5a	Impa1	Inpp5b	Impa2	Synj2	Synj1	Inpp5f	Inpp5k	Inpp5j
+D-myo-inositol-5-phosphate metabolism	HumanCyc_2015	Mtmr3	Plch1	Mtmr14	Plcb4	Plcz1	Pip4k2a	Plce1	Plcd1	Pip4k2c	Plcg1	Plch2	Plcg2	Plcb2	Plcd4	Plcb3	Plcb1	Plcd3
+GABA shunt	HumanCyc_2015	Aldh5a1	Glud1	Gad2	Gad1	Glul	Abat
+GDP-glucose biosynthesis II	HumanCyc_2015	Hk1	Hk3	Pgm2	Gck	Hk2	Pgm1
+GDP-mannose biosynthesis	HumanCyc_2015	Mpi	Pmm2	Pmm1	Gmppa	Gmppb	Gpi1
+L-kynurenine degradation	HumanCyc_2015	Dhtkd1	Aadat	Got2	Haao	Acmsd	Kmo	Tdo2	Afmid	Kynu	Ido1	Ido2
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	HumanCyc_2015	Nmnat2	Nmnat1	Qprt	Nmnat3	Nadsyn1
+NAD de novo biosynthesis	HumanCyc_2015	Nmnat2	Nmnat1	Tdo2	Afmid	Qprt	Haao	Kynu	Nmnat3	Kmo	Ido1	Ido2	Nadsyn1
+UDP-N-acetyl-D-galactosamine biosynthesis II	HumanCyc_2015	Gnpda1	Gale	Gnpda2	Hkdc1	Gnpnat1	Pgm3	Uap1	Gpi1	Gck
+UDP-N-acetyl-D-glucosamine biosynthesis II	HumanCyc_2015	Gfpt1	Gfpt2	Gnpnat1	Pgm3	Uap1
+UTP and CTP de novo biosynthesis	HumanCyc_2015	Nme7	Cmpk2	Nme3	Nme4	Ctps2	Nme5	Ctps1	Nme6	Nme1	Cmpk1
+adenosine deoxyribonucleotides de novo biosynthesis	HumanCyc_2015	Rrm2	Nme7	Rrm1	Rrm2b	Nme3	Nme4	Nme5	Nme6	Nme1
+adenosine nucleotides degradation	HumanCyc_2015	Pnp2	Nt5c1a	Nt5e	Nt5c3	Xdh	Ada	Nt5c2
+adenosine ribonucleotides de novo biosynthesis	HumanCyc_2015	Adsl	Ak1	Ak2	Ak3	Ak5	Ak7	Ak8
+allopregnanolone biosynthesis	HumanCyc_2015	Srd5a2	Srd5a1
+androgen biosynthesis	HumanCyc_2015	Cyp17a1	Srd5a2	Hsd3b1	Hsd17b3	Srd5a1
+bile acid biosynthesis, neutral pathway	HumanCyc_2015	Hsd3b7	Slc27a2	Akr1d1	Hsd17b4	Cyp7a1	Cyp8b1	Baat	Cyp27a1	Por	Amacr	Acox2	Cyp2r1	Scp2	Acaa2	Slc27a5
+ceramide de novo biosynthesis	HumanCyc_2015	Sptlc1	Sptlc2	Kdsr	Sptlc3	Sptssa	Degs2
+cholesterol biosynthesis I	HumanCyc_2015	Cyp51	Lss	Dhcr24	Hsd17b7	Msmo1	Tm7sf2	Sqle	Ebp	Nsdhl	Sc5d	Lbr	Dhcr7	Fdft1
+cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	HumanCyc_2015	Cyp51	Lss	Dhcr24	Hsd17b7	Msmo1	Tm7sf2	Sqle	Ebp	Nsdhl	Sc5d	Lbr	Dhcr7	Fdft1
+cholesterol biosynthesis III (via desmosterol)	HumanCyc_2015	Cyp51	Lss	Dhcr24	Hsd17b7	Msmo1	Tm7sf2	Sqle	Ebp	Nsdhl	Sc5d	Lbr	Dhcr7	Fdft1
+chondroitin sulfate degradation (metazoa)	HumanCyc_2015	Arsb	Galns	Hyal5	Hexa	Hyal1	Hexb	Hyal4
+citrulline-nitric oxide cycle	HumanCyc_2015	Ass1	Nos3	Asl	Nos1	Nos2
+coenzyme A biosynthesis	HumanCyc_2015	Pank3	Pank1	Pank2	Ppcs	Ppcdc	Coasy
+cysteine biosynthesis	HumanCyc_2015	Ahcyl	Mat1a	Mat2b	Mat2a	Cth
+dermatan sulfate degradation (metazoa)	HumanCyc_2015	Hyal5	Hexa	Hyal1	Idua	Ids	Hexb
+dolichyl-diphosphooligosaccharide biosynthesis	HumanCyc_2015	Dpagt1	Dpm3	Alg8	Alg5	Alg6	Alg3	Alg1	Alg13	Dpm1
+eicosapentaenoate biosynthesis	HumanCyc_2015	Acsl3	Acsm4	Acsm3	Acsl1	Acsm1	Acsl6	Acsl5	Acsl4	Acsm5	Acot2	Fads2	Fads1
+ethanol degradation II	HumanCyc_2015	Aldh3a2	Acss3	Aldh2	Adh1	Acss2	Acss1
+ethanol degradation IV	HumanCyc_2015	Aldh3a2	Acss3	Cat	Aldh2	Acss2	Acss1
+fatty acid &alpha;-oxidation	HumanCyc_2015	Aldh3a2	Slc27a2	Phyh	Acsl1	Hacl1
+fatty acid &beta;-oxidation	HumanCyc_2015	Slc27a2	Acsl3	Eci1	Acsl1	Acsl6	Acsl5	Acsl4	Echs1	Hsd17b10	Hadhb	Acadl	Scp2	Acsbg2	Acsbg1	Acaa2	Hadh
+fatty acid &beta;-oxidation (peroxisome)	HumanCyc_2015	Slc27a2	Acsl3	Acsl1	Hsd17b4	Acsl6	Ehhadh	Acsl5	Acsl4	Acox2	Acox1	Scp2	Acsbg2	Acsbg1	Acaa1b	Hadh
+fatty acid activation	HumanCyc_2015	Slc27a2	Acsl3	Acsl1	Acsl6	Acsbg2	Acsl5	Acsbg1	Acsl4
+folate polyglutamylation	HumanCyc_2015	Fpgs	Shmt2	Mthfd1	Mthfd1l	Shmt1
+folate transformations	HumanCyc_2015	Aldh1l2	Aldh1l1	Mthfd2	Mthfd2l	Shmt2	Mthfd1	Mthfd1l	Shmt1	Mthfr	Mtr
+fructose 2,6-bisphosphate synthesis/dephosphorylation	HumanCyc_2015	Pfkfb3	Pfkfb2	Pfkfb4	Pfkfb1
+gluconeogenesis	HumanCyc_2015	Mdh2	Tpi1	Pgam1	Pgam2	Eno1	Eno2	Bpgm	Eno3	G6pc2	G6pc3	Pcx	Pgk2	Gapdhs	Pgk1	Aldoc	Mdh1	Aldob	Fbp1	Aldoa	Fbp2	Pck1	Gapdhrt	Gpi1
+glutathione redox reactions I	HumanCyc_2015	Gpx1	Gpx3	Gpx2	Gsr	Gpx4	Gpx7
+glutathione-mediated detoxification	HumanCyc_2015	Gstm4	Gstk1	Gstm5	Gstm7	Gstm6	Gsto2	Ggh	Gstp1	Mgst2	Mgst3	Mgst1	Gstz1	Gsta3	Anpep
+glycine betaine degradation	HumanCyc_2015	Bhmt1b	Dmgdh	Shmt2	Sardh	Shmt1
+glycogenolysis	HumanCyc_2015	G6pc3	Agl	Pygb	Pygl	Pygm	G6pc2	Pgm2	Pgm1
+glycolysis	HumanCyc_2015	Tpi1	Pgam1	Pklr	Pgam2	Eno1	Eno2	Bpgm	Eno3	Hk1	Hk3	Gck	Hk2	Pkm	Pfkm	Pfkl	Pgk2	Gapdhs	Pgk1	Aldoc	Aldob	Aldoa	Gapdhrt	Gpi1	Pfkp
+guanosine deoxyribonucleotides de novo biosynthesis	HumanCyc_2015	Rrm2	Nme7	Rrm1	Rrm2b	Nme3	Nme4	Nme5	Nme6	Nme1
+guanosine nucleotides de novo biosynthesis	HumanCyc_2015	Rrm2	Rrm1	Nme3	Gmps	Nme4	Nme5	Nme6	Nme1	Guk1	Impdh1	Nme7	Impdh2	Rrm2b
+guanosine ribonucleotides de novo biosynthesis	HumanCyc_2015	Guk1	Impdh1	Nme7	Impdh2	Nme3	Gmps	Nme4	Nme5	Nme6	Nme1
+heme biosynthesis	HumanCyc_2015	Alad	Alas2	Fech	Alas1	Hmbs	Urod	Uros	Cpox	Ppox
+histidine degradation	HumanCyc_2015	Hal	Amdhd1	Mthfd1	Uroc1	Ftcd
+inositol pyrophosphates biosynthesis	HumanCyc_2015	Ippk	Ppip5k1	Ppip5k2	Ipmk	Ip6k2	Ip6k1	Ip6k3
+ketogenesis	HumanCyc_2015	Hmgcl	Bdh2	Hmgcs2	Bdh1	Acat1
+leukotriene biosynthesis	HumanCyc_2015	Ggt5	Alox5	Dpep2	Dpep1	Lta4h
+lysine degradation II (pipecolate pathway)	HumanCyc_2015	Dhtkd1	Aldh7a1	Aadat	Pipox	Pycr1	Crym
+mevalonate pathway	HumanCyc_2015	Idi1	Mvk	Idi2	Hmgcs2	Pmvk	Hmgcs1	Acat1	Hmgcr	Mvd	Acat3
+mitochondrial L-carnitine shuttle	HumanCyc_2015	Cpt1b	Cpt1a	Cpt2	Cpt1c	Crat
+mucin core 1 and core 2 O-glycosylation	HumanCyc_2015	Galnt7	Galnt6	Galnt5	Galnt3	C1galt1	Galnt2	Galnt1	Galntl6	B3gnt3	Galnt13	Galnt12	Galnt15	Galnt14	Galnt16	Gcnt1	Galnt18	Galnt11	Galnt10	Gcnt3	Gcnt4	Gcnt7	St3gal1	St3gal2	Galnt9	St3gal4
+noradrenaline and adrenaline degradation	HumanCyc_2015	Adh4	Aldh3a2	Pnmt	Rnls	Aldh2	Maob	Adh1	Maoa	Comt	Adh6b
+oleate biosynthesis	HumanCyc_2015	Fads6	Scd2	Acot2	Fads2	Acot4	Fads1
+oxidative ethanol degradation III	HumanCyc_2015	Aldh3a2	Acss3	Aldh2	Acss2	Cyp2e1	Acss1
+pentose phosphate pathway	HumanCyc_2015	Tktl2	Tktl1	G6pdx	Taldo1	Pgd	Dera	Rbks	Pfkm	Pfkl	Rpia	Aldoc	Aldob	Fbp1	Aldoa	Fbp2	Tkt	Gpi1	Pfkp	H6pd	Prps2	Prps1l3	Rpe	Pgls	Pgm3	Prps1l1	Pgm1
+phosphatidylcholine biosynthesis	HumanCyc_2015	Pcyt1a	Pcyt1b	Chkb	Chka	Chpt1	Cept1
+phosphatidylethanolamine biosynthesis II	HumanCyc_2015	Chkb	Pcyt2	Etnk2	Etnk1	Cept1
+phospholipases	HumanCyc_2015	Pla2g12a	Pla2g2e	Pla2g2f	Pla2g4e	Pnpla8	Pla2g2d	Pla2g4f	Plch1	Pla2g2a	Pla2g4c	Pla2g4d	Pla2g4a	Plcb4	Pla2g10	Plcd1	Plch2	Plcb2	Plcd4	Plcb3	Plcb1	Plcd3	Pla2g1b	Pla2g3	Pld6	Pla2g5	Pla2g6	Pld2	Pld1	Oc90	Pld4	Plb1	Pld3	Plcz1	Plce1	Plcg1	Plcg2
+protein citrullination	HumanCyc_2015	Padi4	Padi3	Padi6	Padi2	Padi1
+purine deoxyribonucleosides salvage	HumanCyc_2015	Dguok	Guk1	Nme7	Nme3	Nme4	Ak5	Dck	Nme5	Nme6	Nme1
+purine nucleotides de novo biosynthesis	HumanCyc_2015	Paics	Rrm2	Adsl	Rrm1	Nme3	Nme4	Nme5	Nme6	Nme1	Impdh1	Nme7	Impdh2	Rrm2b	Gart	Pfas	Ak1	Ak2	Ak3	Gmps	Ak5	Ak7	Ak8	Atic	Guk1	Ppat
+purine nucleotides degradation	HumanCyc_2015	Pnp2	Nt5c1a	Nt5e	Gda	Nt5c3	Impdh1	Impdh2	Xdh	Ada	Nt5c2
+putrescine degradation III	HumanCyc_2015	Aldh3a2	Aldh1b1	Aldh2	Maob	Aldh3a1	Aldh3b3	Maoa	Aldh3b1	Sat1	Sat2
+pyridoxal 5'-phosphate salvage	HumanCyc_2015	Phospho2	Pdxk	Pnpo	Alpi	Pdxp
+pyrimidine deoxyribonucleosides salvage	HumanCyc_2015	Tk1	Dck	Tk2	Tyms	Cda
+pyrimidine deoxyribonucleotide phosphorylation	HumanCyc_2015	Dtymk	Nme7	Cmpk2	Nme3	Nme4	Nme5	Nme6	Nme1	Cmpk1
+pyrimidine deoxyribonucleotides biosynthesis from CTP	HumanCyc_2015	Rrm2	Dtymk	Rrm1	Nme3	Nme4	Nme5	Ntpcr	Nme6	Tyms	Nme1	Dctd	Nme7	Rrm2b
+pyrimidine deoxyribonucleotides de novo biosynthesis	HumanCyc_2015	Rrm2	Dtymk	Rrm1	Nme3	Nme4	Nme5	Ntpcr	Nme6	Tyms	Nme1	Nme7	Rrm2b
+pyrimidine ribonucleosides degradation	HumanCyc_2015	Dpys	Dpyd	Upp2	Upp1	Cda	Upb1
+retinoate biosynthesis I	HumanCyc_2015	Aldh1a1	Rbp4	Aldh1a3	Rbp1	Aldh1a2	Rdh16f2	Sdr16c5
+retinol biosynthesis	HumanCyc_2015	Ces1d	Rdh8	Ces5a	Lipc	Ces4a	Dhrs3	Dhrs4	Dhrs9	Rbp4	Rdh12	Rbp1	Rdh11	Rbp2	Rdh10	Lrat	Ces2f	Pnlip
+selenocysteine biosynthesis	HumanCyc_2015	Sars2	Sephs1	Pstk	Sephs2	Sepsecs
+serine and glycine biosynthesis	HumanCyc_2015	Srr	Psat1	Shmt2	Shmt1	Phgdh	Vps29	Psph
+serotonin and melatonin biosynthesis	HumanCyc_2015	Aanat	Tph2	Ddc	Tph1	Asmt
+serotonin degradation	HumanCyc_2015	Sult5a1	Aldh3a2	Aldh2	Adh1	Maoa	Adh6b
+spermine and spermidine degradation I	HumanCyc_2015	Aoc3	Smox	Paox	Sat1	Sat2
+sphingomyelin metabolism/ceramide salvage	HumanCyc_2015	Smpd4	Smpd3	Samd8	Sgms2	Sgms1	Smpd2	Smpd1	Enpp7
+sphingosine and sphingosine-1-phosphate metabolism	HumanCyc_2015	Acer2	Acer1	Asah2	Sphk2	Sphk1	Asah1	Sgpp2	Ptgr1	Sgpp1
+stearate biosynthesis	HumanCyc_2015	Elovl1	Slc27a2	Acsl3	Elovl6	Acsl1	Acsl5	Acsl4	Acot2	Acsbg2	Acsbg1	Acot7	Acot4
+sucrose degradation	HumanCyc_2015	Tpi1	Sis	Aldoc	Galm	Aldob	Khk	Aldoa
+superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism	HumanCyc_2015	Inpp1	Ipmk	Ocrl	Inppl1	Itpkc	Minpp1	Inpp5d	Inpp5a	Impa1	Inpp5b	Impa2	Synj2	Synj1	Itpka	Inpp5f	Itpkb	Inpp5k	Inpp5j
+superpathway of cholesterol biosynthesis	HumanCyc_2015	Fdps	Cyp51	Hmgcs2	Hmgcs1	Ggps1	Lss	Dhcr24	Sqle	Mvd	Dhcr7	Idi1	Mvk	Idi2	Acat1	Hmgcr	Hsd17b7	Msmo1	Tm7sf2	Acat3	Ebp	Nsdhl	Pmvk	Sc5d	Lbr	Fdft1
+superpathway of choline degradation to L-serine	HumanCyc_2015	Aldh7a1	Bhmt1b	Dmgdh	Shmt2	Chdh	Sardh	Shmt1
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	HumanCyc_2015	Fdps	Idi1	Mvk	Idi2	Hmgcs2	Pmvk	Hmgcs1	Ggps1	Acat1	Hmgcr	Mvd	Acat3
+superpathway of inositol phosphate compounds	HumanCyc_2015	Plch1	Ipmk	Itpk1	Ocrl	Itpkc	Pik3cb	Pik3ca	Pikfyve	Itpka	Itpkb	Pi4kb	Pi4ka	Plcd1	Plch2	Pik3c3	Plcd4	Pi4k2b	Pi4k2a	Plcd3	Mtmr3	Ippk	Pik3r5	Pik3r4	Pik3r3	Inppl1	Pik3r2	Pik3r6	Pip5kl1	Plcz1	Pip4k2a	Plce1	Pip4k2b	Pip4k2c	Ip6k2	Ip6k1	Ip6k3	Sacm1l	Fig4	Minpp1	Plcb4	Pik3r1	Synj2	Synj1	Plcb2	Plcb3	Plcb1	Mtmr14	Pik3cd	Pik3c2g	Pik3c2b	Pik3c2a	Pik3cg	Inpp5d	Inpp5a	Inpp5b	Ppip5k1	Ppip5k2	Inpp5k	Pip5k1a	Pip5k1b	Pip5k1c	Plcg1	Cdipt	Inpp5j	Plcg2
+superpathway of methionine degradation	HumanCyc_2015	Bckdhb	Bckdha	Ahcyl	Got1	Suox	Mcee	Dbt	Mat1a	Mat2b	Pccb	Mat2a	Pcca	Cth	Dld	Cdo1
+superpathway of purine nucleotide salvage	HumanCyc_2015	Rrm2	Adsl	Rrm1	Nme3	Nme4	Nme5	Nme6	Aprt	Nme1	Impdh1	Nme7	Impdh2	Rrm2b	Hprt1	Ada	Ak1	Adk	Ak2	Ak3	Gmps	Ak5	Ak7	Ak8	Pnp2	Guk1
+superpathway of pyrimidine deoxyribonucleoside salvage	HumanCyc_2015	Dtymk	Nme3	Nme4	Dck	Nme5	Nme6	Tyms	Nme1	Nme7	Cmpk2	Tk1	Tk2	Cda	Cmpk1
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	HumanCyc_2015	Rrm2	Dtymk	Cad	Rrm1	Nme3	Nme4	Ctps2	Nme5	Ntpcr	Ctps1	Nme6	Tyms	Nme1	Nme7	Rrm2b	Cmpk2	Umps	Cmpk1
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	HumanCyc_2015	Cad	Nme7	Cmpk2	Nme3	Nme4	Ctps2	Nme5	Ctps1	Nme6	Umps	Nme1	Cmpk1
+tRNA charging	HumanCyc_2015	Hars2	Rars2	Mars2	Dars2	Wars2	Sars2	Lars2	Pars2	Cars2	Farsb	Farsa	Tars2	Aars2	Fars2	Yars2	Nars2	Iars2	Ears2	Vars2
+tRNA splicing	HumanCyc_2015	Tsen34	Tsen15	Trpt1	Tsen2	Tsen54
+terminal O-glycans residues modification	HumanCyc_2015	B4galt3	B4galt1	Fut9	St6gal2	B4galt2	St6gal1	St8sia2	Gcnt2	Gcnt3	St3gal3
+tetrapyrrole biosynthesis	HumanCyc_2015	Alad	Alas2	Alas1	Hmbs	Uros
+the visual cycle I (vertebrates)	HumanCyc_2015	Rdh8	Dhrs3	Rpe65	Dhrs4	Rlbp1	Dhrs9	Rbp3	Rbp4	Rdh12	Rbp1	Rdh11	Rbp2	Rdh10	Rdh5	Lrat
+threonine degradation	HumanCyc_2015	Bckdhb	Sds	Bckdha	Dbt	Dld	Sdsl
+thyroid hormone metabolism II (via conjugation and/or degradation)	HumanCyc_2015	Sult5a1	Dio1	Dio2	Ugt1a10
+triacylglycerol biosynthesis	HumanCyc_2015	Dgat2	Dgat1	Mboat7	Mboat2	Mboat1	Gpam	Lpcat4	Lpcat3	Abhd5	Mogat1	Agpat1	Agpat2	Lclat1	Agpat3	Agpat4	Agpat5	Gpat2
+triacylglycerol degradation	HumanCyc_2015	Pnliprp2	Abhd6	Lipc	Lipg	Lipf	Lipe	Abhd12	Mgll	Pnpla2	Pnlip	Pnpla3
+tryptophan degradation	HumanCyc_2015	Dhtkd1	Tdo2	Afmid	Haao	Kynu	Acmsd	Kmo	Ido1	Ido2
+tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	HumanCyc_2015	Tdo2	Afmid	Haao	Kynu	Kmo	Ido1	Ido2
+tyrosine degradation	HumanCyc_2015	Gstz1	Hgd	Tat	Hpd	Fah
+ubiquinol-10 biosynthesis	HumanCyc_2015	Coq5	Coq3	Coq2	Pdss2	Pdss1	Coq7	Coq6
+urate biosynthesis/inosine 5'-phosphate degradation	HumanCyc_2015	Pnp2	Nt5e	Impdh1	Impdh2	Xdh	Nt5c2
+urea cycle	HumanCyc_2015	Ass1	Arg1	Cps1	Asl	Otc
+zymosterol biosynthesis	HumanCyc_2015	Nsdhl	Cyp51	Lbr	Hsd17b7	Msmo1	Tm7sf2

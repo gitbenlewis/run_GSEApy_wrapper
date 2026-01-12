@@ -1,0 +1,1658 @@
+(E.F.G) complex (human)	CORUM	Snrpf	Snrpe
+(ER)-localized multiprotein complex, Ig heavy chains associated (mouse)	CORUM	Pdia4	Sdf2l1	Hspa5	Dnajb11	P4hb	Hyou1	Cabp1	Ppib	Hsp90b1	Uggt1
+12S U11 snRNP (human)	CORUM	Toe1	Abcb5	Pdcd7	Prkrip1	Ybx1	Snrpd3	Snrpd2	Snrpf	Snrnp48	Snrnp25	Snrpe	Snrpb
+17S U2 snRNP (human)	CORUM	Rbm17	Sf3a2	Sf3a3	Trap1	Cherp	Phf5a	Dnajc8	Snrpf	Snrpa1	Snrpe	Sf3a1	Snrpb	Sf3b5	Sf3b3	Sf3b4	Ddx46	U2af2	U2af1	Snrpd3	Puf60	Snrpd2	Dhx15	Hmg20b	Snrpb2	Sf3b1	Sf3b2	Smndc1
+18S U11/U12 snRNP (human)	CORUM	Sf3b5	Sf3b3	Sf3b4	Zcrb1	Abcb5	Pdcd7	Ybx1	Rnpc3	Prpf8	Snrpd3	Snrpd2	Zmat5	Dhx15	Snrpf	Snrnp48	Sf3b1	Snrnp25	Sf3b2	Snrpe	Snrpb
+20S methylosome and RG-containing Sm protein complex (human)	CORUM	Snrpd3	Snrpd2	Clns1a	Prmt5	Snrpb
+20S methylosome-SmD complex (human)	CORUM	Snrpd3	Clns1a	Prmt5
+20S methyltransferase core complex (human)	CORUM	Clns1a	Prmt5
+20S proteasome (human)	CORUM	Psma6	Psmb7	Psma7	Psma4	Psmb5	Psma5	Psmb6	Psma2	Psmb3	Psma3	Psmb4	Psmb1	Psma1	Psmb2
+26S proteasome (human)	CORUM	Psmd13	Psmb7	Psma6	Psma7	Psma4	Psmc6	Psmb5	Psmb6	Psma5	Psma2	Psmb3	Psmc5	Psma3	Psmb4	Psmc2	Psmb1	Psmd4	Psma1	Psmb2	Psmc3
+28S ribosomal subunit, mitochondrial (human)	CORUM	Mrps27	Mrps28	Mrps25	Mrps26	Mrps23	Mrps24	Mrps18c	Mrps21	Mrps18b	Mrps22	Mrps18a	Mrps2	Mrps7	Mrps6	Mrps5	Mrps9	Dap3	Mrps16	Mrps17	Mrps14	Mrps36	Mrps15	Mrps12	Mrps34	Mrps35	Mrps10	Mrps11	Mrps33	Mrps30	Mrps31
+2AR-mGluR2 complex (human)	CORUM	Gria2	Adra2a
+39S ribosomal subunit, mitochondrial (human)	CORUM	Mrpl28	Mrpl48	Mrpl27	Mrpl49	Mrpl24	Mrpl46	Mrpl47	Mrpl22	Mrpl44	Mrpl23	Mrpl45	Mrpl53	Mrpl32	Mrpl54	Mrpl10	Mrpl51	Mrpl30	Mrpl52	Mrpl50	Mrpl19	Mrpl17	Mrpl39	Mrpl18	Mrpl37	Mrpl15	Mrpl38	Mrpl16	Mrpl35	Mrpl13	Mrpl1	Mrpl36	Mrpl14	Mrpl55	Mrpl33	Mrpl11	Mrpl34	Mrpl12	Mrpl20	Mrpl42	Mrpl21	Mrpl4	Mrpl43	Mrpl3	Mrpl40	Mrpl2	Mrpl41	Mrpl9	Lactb
+40S ribosomal subunit, cytoplasmic (human)	CORUM	Rps8	Rps9	Rps6	Rps7	Rps3a1	Fau	Rps20	Rps23	Rps16	Rps15	Rps17	Ubb	Rps5	Rps15a	Rps14
+53BP1-containing complex (human)	CORUM	Xrcc5	Xrcc6	Rpa2	Trp53bp1	Rpa1
+55S ribosome, mitochondrial (human)	CORUM	Mrpl28	Mrps18c	Mrps18b	Mrps18a	Mrps2	Mrpl27	Mrpl24	Mrps7	Mrpl22	Mrps6	Mrpl23	Mrps5	Mrpl32	Mrpl30	Mrps9	Dap3	Mrps16	Mrps17	Mrps14	Mrps15	Mrps12	Mrps10	Mrpl39	Mrps11	Mrpl37	Mrpl38	Mrpl35	Mrpl36	Mrpl33	Mrpl34	Mrpl42	Mrpl43	Mrpl40	Mrpl41	Lactb	Mrps27	Mrps28	Mrps25	Mrps26	Mrps23	Mrps24	Mrps21	Mrps22	Mrpl48	Mrpl49	Mrpl46	Mrpl47	Mrpl44	Mrpl45	Mrpl53	Mrpl54	Mrpl10	Mrpl51	Mrpl52	Mrpl50	Mrps36	Mrps34	Mrpl19	Mrps35	Mrpl17	Mrpl18	Mrps33	Mrps30	Mrpl15	Mrps31	Mrpl16	Mrpl13	Mrpl1	Mrpl14	Mrpl55	Mrpl11	Mrpl12	Mrpl20	Mrpl21	Mrpl4	Mrpl3	Mrpl2	Mrpl9
+5S-DNA-TFIIIA-TFIIIC2 subcomplex (human)	CORUM	Gtf3c2	Gtf3c3	Gtf3c4	Gtf3c5	Gtf3a	Gtf3c1
+5S-DNA-TFIIIA-TFIIIC2-TFIIIB subcomplex (human)	CORUM	Tbp	Gtf3c2	Gtf3c3	Gtf3c4	Gtf3c5	Brf1	Gtf3a	Bdp1	Gtf3c1
+60S APC containing complex (human)	CORUM	Tuba1c	Tuba1b	Apc	Iqgap1	Tuba1a	Tubg2	Tubg1
+60S ribosomal subunit, cytoplasmic (human)	CORUM	Rpl28	Rpl27	Uba52	Rpl30	Rpl11	Rplp2	Rpl35	Rpl34	Rplp1	Rpl8	Rpl36	Rpl14	Rpl38	Rpl19	Rpl18
+6S methyltransferase and RG-containing Sm proteins complex (human)	CORUM	Snrpd3	Snrpd2	Clns1a	Snrpf	Snrpe	Snrpb
+6S methyltransferase complex (human)	CORUM	Snrpd3	Clns1a
+6S-nuclear aryl hydrocarbon (Ah) receptor ligand-activated complex (mouse)	CORUM	Arnt	Ahr
+9-1-1 complex (human)	CORUM	Hus1	Rad1	Rad9a
+9S-cytosolic aryl hydrocarbon (Ah) receptor non-ligand activated complex (mouse)	CORUM	Hsp90ab1	Aip	Ahr
+ABIN2-NFKB1-MAP3K8 complex (human)	CORUM	Tnip2	Nfkb1	Map3k8
+ACT homodimer complex (human)	CORUM	Fhl5
+ACT-CREB complex (human)	CORUM	Creb1	Fhl5
+ADAR1-CDK2 complex (human)	CORUM	Cdk2	Adar
+ADRB2 homodimer complex (human)	CORUM	Adrb2
+AGO2-FXR1-TNF(alpha)ARE-RNP complex (human)	CORUM	Fxr1
+AGPS-GNPAT complex (human)	CORUM	Agps	Gnpat
+AIF-CYPA-DNA complex (human)	CORUM	Aifm1
+AKAP250-PKA-PDE4D complex (human)	CORUM	Akap12	Pde4d	Prkacb	Prkaca
+ALL-1 supercomplex (human)	CORUM	Tbp	Smarcc1	Smarcc2	Cpsf2	Taf12	Mbd3	Smarca2	Sap30	Smarca5	Taf1	Taf9	Taf6	Ran	Smarcb1	Kdm1a	Hdac1	Hdac2	Wdr5	Chd3	Eftud2	Mta2	Rbbp5	Sin3a	Rbbp4	Sap18b	Sympk	Rbbp7
+AMY-1-S-AKAP84-RII-beta complex (human)	CORUM	Akap1	Mycbp	Prkar2b
+ANCO1-HDAC3  complex (human)	CORUM	Hdac3
+AP1 adaptor complex (human)	CORUM	Ap1g1	Ap1g2	Ap1s1	Ap1s3	Ap1b1	Ap1m1	Ap1m2
+AP1G1-PACS1-FURIN complex (human)	CORUM	Ap1g1	Furin	Pacs1
+AP3 adapter complex (human)	CORUM	Ap3m2	Ap3s1	Ap3d1	Ap3b2	Ap3b1	Ap3s2	Ap3m1
+AP3-BLOC1 complex (human)	CORUM	Snapin	Dtnbp1	Ap3d1	Ap3b2	Ap3b1	Ap3m2	Bloc1s1	Bloc1s2	Bloc1s3	Ap3s1	Ap3s2	Ap3m1
+AP4 adaptor complex (human)	CORUM	Ap4m1	Ap4e1	Ap4b1	Ap4s1
+APC-Axin-1-beta-catenin complex (human)	CORUM	Apc	Ctnnb1	Axin1
+APLG1-Rababtin5 complex (human)	CORUM	Ap1g1	Rabep1	Rabep2
+APP-FE65-LRP complex (human)	CORUM	App	Lrp1	Apbb1
+APP-TIMM23 complex (human)	CORUM	App	Timm23
+APP-TOMM40 complex (human)	CORUM	App	Tomm40
+AR coactivator complex (human)	CORUM	Clns1a	Prmt5	Wdr77
+AR-AKT-APPL complex (human)	CORUM	Ar	Akt1	Appl1
+ARC complex (human)	CORUM	Med1	Acad8	Med4	Ccnc	Med17	Med6	Med7	Med8	Med24	Med13	Med23	Med12	Med26	Med15	Cdk8	Med25	Med14	Med21
+ARC-L complex (human)	CORUM	Med1	Ccnc	Med17	Med6	Med7	Med24	Med13	Med23	Med12	Med15	Cdk8	Med25	Med14	Med21
+ARC92-Mediator complex (human)	CORUM	Med1	Med17	Med16	Med6	Med7	Med13	Med23	Med12	Med26	Med15	Cdk8	Med25	Med14
+ARD1-NATH complex (human)	CORUM	Naa15	Trim23
+ARF-Mule complex (human)	CORUM	Huwe1
+ARNT-HIF1A complex (human)	CORUM	Arnt	Hif1a
+ASCOM complex (human)	CORUM	Ncoa6	Rbbp5	Ash2l	Tubb5	Tuba4a
+ASF1-histone containing complex (human)	CORUM	Chaf1b	Chek2	Asf1a	Nasp	Asf1b
+ASF1-interacting protein complex (human)	CORUM	Chaf1a	Chaf1b	Asf1a	Hira	Asf1b
+ASPP1-SAM68 complex (human)	CORUM	Khdrbs1	Ppp1r13b
+ATM homodimer complex (human)	CORUM	Atm
+ATM-NBS1 complex (human)	CORUM	Nbn	Atm
+ATR-ATRIP complex (human)	CORUM	Atrip	Atr
+ATR-HDAC2 complex (human)	CORUM	Hdac2	Atr
+ATR-HDAC2-CHD4 complex (human)	CORUM	Hdac2	Chd4	Atr
+ATRX-DAXX complex (human)	CORUM	Daxx	Atrx
+AXIN-APC-betaCatenin-GSK3B complex (human)	CORUM	Gsk3b	Apc	Ctnnb1	Axin1
+AXIN-MEKK4-CCD1 complex (human)	CORUM	Map3k4	Axin1	Dixdc1
+Abcg5-Abcg1 complex (mouse)	CORUM	Abcg1	Abcg5
+Abcg5-Abcg2 complex (mouse)	CORUM	Abcg5	Abcg3
+Abcg5-Abcg4 complex (mouse)	CORUM	Abcg5
+Abcg5-Abcg8 complex (mouse)	CORUM	Abcg8	Abcg5
+Abcg8-Abcg4 complex (mouse)	CORUM	Abcg8
+Acinar cell-specific C complex (mouse)	CORUM	Meis2	Pdx1	Pbx1
+ActRIIA-ActRIB-Smad3-Arip1 complex (mouse)	CORUM	Smad3	Magi2	Acvr1b	Acvr2a
+Actin-ribonucleoprotein complex (POLR2A, GTF2F1, HNRNPU) (human)	CORUM	Polr2a	Hnrnpu	Gtf2f1
+Affixin-actinin(alpha) complex (human)	CORUM	Actn1	Parvb
+Agap11-AP3 complex (mouse)	CORUM	Ap3m2	Ap3b1	Ap3s2	Agap1	Ap3m1
+Amyloid beta protein oligomer (human)	CORUM	App
+Anaphase-promoting complex (human)	CORUM	Cdc23	Cdc16	Cdc27	Anapc4	Anapc5	Anapc7	Anapc10	Anapc2
+Anaphase-promoting complex (mouse)	CORUM	Cdc23	Cdc16	Ccdc27	Anapc4	Anapc7	Anapc10	Anapc1	Anapc2
+Angiomotin isoform p80-Angiostatin complex (mouse)	CORUM	Plg	Amot
+Anti-HDAC2 complex (human)	CORUM	Gtf2i	Kdm1a	Hdac1	Hdac2	Phf21a	Chd4	Chd3	Zmym2	Mta1	Mta2	Zmym3	Sin3b	Sin3a	Rbbp4	Rbbp7	Hmg20b	Rcor1
+Anti-Sm protein complex (human)	CORUM	Clns1a	Prmt5	Gemin4	Smn1	Ddx20	Snrpb
+Apg16L-Apg12-Apg5 complex (mouse)	CORUM	Atg16l1	Atg5	Atg12
+Apoptosis- and splicing-associated protein complex (ASAP-S), SAP18-RNPS1-Acinus-S (human)	CORUM	Sap18b	Rnps1	Acin1
+Apoptosome (human)	CORUM	Apaf1	Gm10053
+Apoptosome-procaspase 9 complex (human)	CORUM	Casp9	Apaf1	Gm10053
+Arp2/3 protein complex (human)	CORUM	Actr3	Actr2	Ttll3	Arpc2	Arpc5
+Artemis-DNA-PK complex (human)	CORUM	Dclre1c
+Ask1-Traf6 complex, LPS induced (mouse)	CORUM	Traf6
+Axin-Dvl-Gsk complex (mouse)	CORUM	Gsk3b	Dvl1	Axin1
+Axin-Dvl-Gsk-Frat1 complex (mouse)	CORUM	Frat1	Gsk3b	Dvl1	Axin1
+Axin-Mekk4 complex (mouse)	CORUM	Map3k4	Axin1
+Axin-PP2A A-PP2A C-GSK3-beta-beta-catenin complex (human)	CORUM	Gsk3b	Ctnnb1	Axin1	Ppp2r5a
+Axin-SMAD3 complex (human)	CORUM	Smad3	Axin1
+Axin2-Ctnnb1-Apc complex (mouse)	CORUM	Apc	Ctnnb1	Axin2
+B-Ksr1-MEK-MAPK-14-3-3 complex (mouse)	CORUM	Ywhag	Map2k2	Ywhae	Ywhab	Map2k1	Ksr1	Mapk1	Ywhah
+B23-NPM3 complex (mouse)	CORUM	Npm3
+BAD-BCL2xL complex (mouse)	CORUM	Bad	Bcl2l1
+BAF complex (human)	CORUM	Smarcd1	Smarcc1	Smarcc2	Smarcb1	Actl6a	Smarce1	Actl6b	Actg1	Arid1a	Arid1b	Smarca2	Smarca4	Actb
+BAR-BCL2-CASP8 complex (human)	CORUM	Casp8	Bcl2	Bfar
+BARD1-BRCA1-CSTF complex (human)	CORUM	Cstf3	Cstf2	Cstf1	Brca1	Bard1
+BARD1-BRCA1-CSTF64 complex (human)	CORUM	Cstf2	Brca1	Bard1
+BASC complex (BRCA1-associated genome surveillance complex) (human)	CORUM	Rfc4	Mlh1	Blm	Rfc2	Rfc1	Msh6	Nbn	Atm	Brca1	Msh2	Rad50
+BAX-BAK-IRE1alpha complex (mouse)	CORUM	Bax	Bak1	Ern1
+BCDX2 complex (human)	CORUM	Rad51c	Xrcc2
+BCL10 oligomer complex (human)	CORUM
+BCL10-MALT1 complex (human)	CORUM	Malt1
+BCL6-HDAC4 complex (human)	CORUM	Hdac4	Bcl6
+BCL6-HDAC5 complex (human)	CORUM	Hdac5	Bcl6
+BCL6-HDAC7 complex (human)	CORUM	Bcl6	Hdac7
+BCOR complex (human)	CORUM	Rnf2	Rybp	Kdm2b	Ring1	Hspa8	Pcgf1	Bcor	Skp1
+BCR-ABL (p185 fusion protein)-GRB2 complex (human)	CORUM	Grb2
+BCR-ABL (p210 fusion protein)-GRB2-SOS1 complex (human)	CORUM	Grb2	Sos1
+BHC complex (human)	CORUM	Kdm1a	Hdac1	Hdac2	Phf21a	Hmg20b	Rcor1
+BIRC5-AURKB-INCENP-EVI5 complex (human)	CORUM	Incenp	Birc5	Evi5	Aurkb
+BKCA-beta2AR complex (human)	CORUM	Kcnma1	Adrb2
+BKCA-beta2AR-AKAP79 signaling complex (human)	CORUM	Kcnma1	Adrb2	Akap5
+BLM complex II (human)	CORUM	Blm	Rmi1	Top3a	Rpa2	Rpa3	Rpa1
+BLM complex III (human)	CORUM	Blm	Mlh1	Rmi1	Top3a
+BLM-RAD51L3-XRCC2 complex (human)	CORUM	Blm	Xrcc2
+BLM-TOP3A complex (human)	CORUM	Blm	Top3a
+BLM-TRF2 complex (human)	CORUM	Blm	Tbpl1	Terf2
+BLOC-1 (biogenesis of lysosome-related organelles complex 1) (human)	CORUM	Snapin	Bloc1s1	Bloc1s2	Bloc1s3	Dtnbp1
+BLOC-2 (biogenesis of lysosome-related organelles complex 2) (human)	CORUM	Hps3	Hps5	Hps6
+BLOC-3 (biogenesis of lysosome-related organelles complex 3) (human)	CORUM	Hps1	Hps4
+BLOC1-BLOC2 complex (human)	CORUM	Snapin	Bloc1s1	Bloc1s2	Bloc1s3	Hps3	Hps5	Dtnbp1	Hps6
+BMI1-HPH1-HPH2 complex (human)	CORUM	Phc1	Phc2	Bmi1
+BMP2-BRIA complex (human)	CORUM	Bmp4	Bmp2	Bmpr1a
+BP-SMAD complex (human)	CORUM	Mxi1	Klf10	Ercc3	Gjb6	Psmc3	Tgfbi	Bach1
+BRAF-CNK1 complex, not RAS stimulated (human)	CORUM	Cnksr1	Braf
+BRAF-MAP2K1-MAP2K2-YWHAE complex (human)	CORUM	Map2k2	Ywhae	Map2k1	Braf
+BRAF-RAF1-14-3-3 complex (human)	CORUM	Ywhag	Ywhae	Ywhab	Ywhaq	Sfn	Braf	Ywhaz	Ywhah	Raf1
+BRAF53-BRCA2 complex (human)	CORUM	Kdm1a	Hdac1	Hdac2	Phf21a	Hmg20b	Brca2	Rcor1
+BRAFT complex (human)	CORUM	Fancl	Mlh1	Blm	Rmi1	Top3a	Rpa2	Rpa3	Fanca	Rpa1	Fancc	Fancf	Fance	Fancg
+BRCA1 A complex (human)	CORUM	Uimc1	Brca1	Bard1
+BRCA1 B complex (human)	CORUM	Brca1	Bach1	Bard1
+BRCA1 C complex (human)	CORUM	Uimc1	Brca1	Rbbp8	Bard1
+BRCA1-BACH1 complex (human)	CORUM	Brip1	Brca1
+BRCA1-BARD1-BACH1-DNA damage complex I (human)	CORUM	Mlh1	Msh6	Topbp1	Brca1	Bach1	Bard1
+BRCA1-BARD1-BACH1-DNA damage complex II (human)	CORUM	Topbp1	Nbn	Brca1	Rbbp8	Bach1	Rad50	Bard1
+BRCA1-BARD1-BRCA2-DNA damage complex III (human)	CORUM	Brca1	Brca2	Bard1
+BRCA1-BARD1-POLR2A complex (human)	CORUM	Polr2a	Brca1	Bard1
+BRCA1-BARD1-UbcH5c complex (human)	CORUM	Brca1	Bard1
+BRCA1-BARD1-UbcH7c complex (human)	CORUM	Brca1	Ube2l3	Bard1
+BRCA1-CTIP-ZBRK1 repressor complex (human)	CORUM	Brca1	Rbbp8
+BRCA1-CtIP-CtBP complex (human)	CORUM	Ctbp1	Brca1	Rbbp8
+BRCA1-HDAC1-HDAC2 complex (human)	CORUM	Hdac1	Hdac2	Brca1
+BRCA1-IRIS-pre-replication complex (human)	CORUM	Gmnn	Brca1	Cdc6
+BRCA1-LMO4-CTIP complex (human)	CORUM	Lmo4	Brca1	Rbbp8
+BRCA1-RAD50-MRE11-NBS1 complex (human)	CORUM	Nbn	Brca1	Rad50
+BRCA1-RAD51 complex (human)	CORUM	Rad51	Brca1
+BRCA1-RNA polymerase II complex (human)	CORUM	Tbp	Gtf2h1	Gtf2h3	Gtf2f1	Gtf2f2	Gtf2h4	Ercc2	Med21	Ercc3	Gtf2b	Brca1	Gtf2e1	Gtf2e2	Polr2a	Polr2b	Polr2c	Polr2d	Polr2e	Polr2f	Polr2g	Polr2h	Polr2i	Polr2j	Polr2k	Polr2l
+BRCA1-SMAD3 complex (human)	CORUM	Smad3	Brca1
+BRCA1-VCP complex (human)	CORUM	Vcp	Brca1
+BRCA1-cABL complex (human)	CORUM	Brca1	Abl1
+BRCA1-core RNA polymerase II complex (human)	CORUM	Brca1	Polr2a	Polr2b	Polr2c	Polr2d	Polr2e	Polr2f	Polr2g	Polr2h	Polr2i	Polr2j	Polr2k	Polr2l
+BRCC complex (human)	CORUM	Rad51	Brca1	Brcc3	Brca2
+BRD4 complex (human)	CORUM	Med24	Med1	Brd4	Med12	Cdk9	Med14	Ccnt1	Med17
+BRD4-P-TEFb complex (human)	CORUM	Brd4	Cdk9	Ccnt1
+BRD4-RFC complex (human)	CORUM	Brd4	Rfc4	Rfc5	Rfc2	Rfc3	Rfc1
+BRG1-SIN3A complex (human)	CORUM	Smarcd1	Smarcd2	Smarcc1	Smarcc2	Smarcb1	Smarcd3	Hdac2	Actl6a	Prmt5	Smarce1	Arid1a	Smarca4	Sin3a	Rbbp4
+BRM-SIN3A complex (human)	CORUM	Smarcd1	Smarcd2	Smarcc1	Smarcc2	Smarcb1	Smarcd3	Hdac1	Hdac2	Actl6a	Prmt5	Smarce1	Arid1a	Smarca2	Sin3a	Rbbp4
+BRM-SIN3A-HDAC complex (human)	CORUM	Smarcd1	Smarcd2	Smarcc1	Smarcc2	Smarcb1	Hdac2	Prmt5	Actl6a	Sin3a	Smarce1	Arid1a	Smarca2
+BRMS1-RBP1 complex (human)	CORUM	Brms1	Arid4b
+BRMS1-SIN3-HDAC complex (human)	CORUM	Brms1	Hdac1	Hdac2	Sin3b	Sin3a	Rbbp4	Rbbp7	Sap30
+Bad-Gk-Wave1-Pkaca-Ppp1cc complex (mouse)	CORUM	Bad	Wasf1	Prkaca	Gck
+Bcl-xL-p53-PUMA complex, DNA damage induced (mouse)	CORUM	Bbc3	Bcl2l1
+Beta-dystroglycan-caveolin-3 complex (human)	CORUM	Cav3	Dag1
+Binary COG subcomplex (human)	CORUM	Cog7	Cog5
+Bipartite complex (TFC4, CTNNB1) (human)	CORUM	Tcf7l2	Ctnnb1
+Bmi1-Mel18-Mph1-M33 polycomb repressor complex (mouse)	CORUM	Phc1	Cbx2	Pcgf2	Bmi1
+Brain-derived dystrobrevin-syntrophin complex (mouse)	CORUM	Sntb1	Dtna	Sntg1	Sntg2	Dmd	Snta1
+C complex spliceosome (human)	CORUM	Ppil1	Ppil3	Cdc5lrt9	Cwc15	Crnkl1	Srrm1	Hnrnpm	Hnrnpk	Prpf19	Frg1	Wdr83	Syf2	Hnrnpf	Hnrnpc	Snrpf	Slu7	Snrpe	Rbm22	Ppie	Snrpb	Zcchc8	Sf3b3	Dhx8	Rbm8a2	Hnrnpu	Ddx41	Cwc27	Hnrnpr	Ppwd1	Pnn	Eftud2	Magoh	Snrpd3	Plrg1	Dhx35	Snrpd2	Cwc22rt7	Gpatch1	Dhx38	Sf3b1	Sf3b2	Raly	Aqr	Sf3a2	Sf3a3	Lsm2	Tfip11	Cdc40	Lsm3	Xab2	Prpf8	Snw1	Snrnp40	Hnrnpa2b1	Hnrnph1	Snrpa1	Sf3a1	Eif4a3l2	Ddx5	Isy1	Ddx23	U2af1	Sart1	Syncrip	Snrpb2	Hnrnpa3
+C-CFTR-NHERF(PDZ1 domain)-ezrin complex (human)	CORUM	Cftr
+C/EBPalpha-HNF6 complex (human)	CORUM	Cebpa	Onecut1
+CAK complex (Cdk-activating kinase complex) (human)	CORUM	Cdk7	Ccnh	Mnat1
+CAK-ERCC2 complex (human)	CORUM	Cdk7	Ercc2	Ccnh	Mnat1
+CALM1-FKBP38-BCL2 complex (human)	CORUM	Fkbp8	Bcl2	Calm1
+CAND1-CUL1-RBX1 complex (human)	CORUM	Cand1	Cul1	Rbx1
+CAND1-CUL2-RBX1 complex (human)	CORUM	Cand1	Cul2	Rbx1
+CAND1-CUL3-RBX1 complex (human)	CORUM	Cand1	Cul3	Rbx1
+CAND1-CUL4A-RBX1 complex (human)	CORUM	Cul4a	Cand1	Rbx1
+CAND1-CUL4B-RBX1 complex (human)	CORUM	Cul4b	Cand1	Rbx1
+CAP(C)-CAP(E) complex (human)	CORUM	Smc4	Smc2
+CARMA1-BCL10-MALT1 complex (human)	CORUM	Card11	Malt1
+CAS-SRC-FAK complex (human)	CORUM	Src	Ptk2	Bcar1
+CASK-LIN7C-APBA1 complex (human)	CORUM	Cask	Apba1	Lin7c
+CAV1-VDAC1-ESR1 complex (human)	CORUM	Cav1	Vdac1	Esr1
+CBC complex (cap binding complex) (human)	CORUM	Ncbp2	Ncbp1
+CBF-DNA complex (human)	CORUM	Nfyb	Nfyc	Nfya
+CBF1-HDAC1-SMRT complex (human)	CORUM	Ncor2	Hdac1	Rbpj
+CBP-RARA-RXRA-DNA complex, ligand stimulated (human)	CORUM	Crebbp	Rxra	Rara
+CCNB1-CDC2 complex (human)	CORUM	Ccnb1	Cdk1
+CCNB2-CDC2 complex (human)	CORUM	Ccnb2	Cdk1
+CCND1-CDK4 complex (human)	CORUM	Ccnd1	Cdk4
+CCND1-CDK6 complex (human)	CORUM	Cdk6	Ccnd1
+CCND2-CDK4 complex (human)	CORUM	Ccnd2	Cdk4
+CCND2-CDK6 complex (human)	CORUM	Ccnd2	Cdk6
+CCND3-CDK4 complex (human)	CORUM	Ccnd3	Cdk4
+CCND3-CDK6 complex (human)	CORUM	Ccnd3	Cdk6
+CCT complex (chaperonin containing TCP1 complex) (mouse)	CORUM	Cct4	Cct3	Cct6a	Cct2	Tcp1	Cct8	Cct7	Cct5
+CD147-gamma-secretase complex (APH-1a, PS-1, PEN-2, NCT variant) (human)	CORUM	Psenen	Aph1a	Bsg	Psen1	Ncstn
+CD19-Vav-PI 3-kinase (p85 subunit) complex (human)	CORUM	Pik3r1	Cd19	Vav1
+CD20-LCK-LYN-FYN-p75/80 complex, (Raji human B cell line) (human)	CORUM	Lyn	Lck	Fyn	Ms4a1
+CD28-transactivation complex (human)	CORUM	Ncl	Cd28
+CD8A-LCK complex (human)	CORUM	Lck	Cd8a
+CD98-LAT2-ITGB1 complex (human)	CORUM	Slc7a5	Itgb1	Slc7a8	Slc3a2
+CDC2-CCNA2 complex (human)	CORUM	Ccna2	Cdk1
+CDC2-CCNA2-CDK2 complex (human)	CORUM	Ccna2	Cdk2	Cdk1
+CDC2-CCNB1-CCNF complex (human)	CORUM	Ccnb1	Ccnf	Cdk1
+CDC2-CCNB1-PTCH1 complex (human)	CORUM	Ccnb1	Cdk1	Ptch1
+CDC2-PCNA-CCNB1-GADD45A complex (human)	CORUM	Pcna	Ccnb1	Gadd45a	Cdk1
+CDC2-PCNA-CCNB1-GADD45B complex (human)	CORUM	Pcna	Ccnb1	Gadd45b	Cdk1
+CDC2-PCNA-CCNB1-GADD45G complex (human)	CORUM	Pcna	Ccnb1	Gadd45g	Cdk1
+CDC5L complex (human)	CORUM	Hspa8	Cdc5lrt9	Cwc15	Ilf2	Ppp1ca	Srrm1	Snrpa	Ppm1d	Prpf19	Sfpq	Snrpa1	Tcf4	Sfi1	Dync1h1	Sf3b4	Top2a	Plrg1	Snrpd3	Snrpd2	Sf3b1	Sf3b2	Bcas2
+CDC5L core complex (human)	CORUM	Prpf19	Plrg1	Hspa8	Cdc5lrt9	Bcas2
+CDC7-DBF7 complex (human)	CORUM	Dbf4	Cdc7
+CDH1-CKS1B complex (human)	CORUM	Cdh1	Cks1b
+CDH1-SKP2 complex (human)	CORUM	Cdh1	Skp2
+CDH23-harmonin transmembrane complex (mouse)	CORUM	Cdh23	Ush1c
+CDK2-CCNA2 complex (human)	CORUM	Ccna2	Cdk2
+CDK2-CCNE1 complex (human)	CORUM	Ccne1	Cdk2
+CDK8-CyclinC-Mediator complex (human)	CORUM	Cdk8	Ccnc
+CEBPE-E2F1-RB1 complex (human)	CORUM	Rb1	Cebpe	E2f1
+CEN complex (human)	CORUM	Cbx8	Zc3h13	Wtap	Supt16	Hspa5	Ring1	Hspa8	Ssrp1	Kif23	Shcbp1	Wdr11	Smarca5	Cul4a	Ddb1	Nup93	Cenph	Cenpi	Cenpk	Cenpl	Cenpm	Cenpo	Rnf2	Srrt	Cenpa	Rsf1	Cenpb	Bmi1	Fbl	Racgap1	Cobll1	Dhx38
+CENP-A NAC-CAD complex (human)	CORUM	Cort	Cenph	Cenpk	Cenpl	Cenpm	Cenpn	Cenpo	Cenpp	Cenpq	Itgb3bp	Cenpt
+CENP-A nucleosome associated complex (human)	CORUM	Cenph	Cenpm	Cenpn	Cenpt
+CERF complex (CECR2-containing remodeling factor complex) (human)	CORUM	Cecr2	Smarca1
+CF IIAm complex (Cleavage factor IIAm complex) (human)	CORUM	Cpsf6	Cpsf7	Cpsf3	U2af2	U2af1	Gtf2h4	Ptbp1	Tjp1	Caprin1	Nudt21	Pcf11	Sfpq	Clp1	Ercc3	Dhx16
+CFTR-NHERF-beta(2)AR signaling complex (human)	CORUM	Adrb2	Cftr
+CHL2-BMP2 complex (human)	CORUM	Bmp2	Chrdl2
+CHL2-BMP2-TSG complex (human)	CORUM	Twsg1	Bmp2	Chrdl2
+CHUK-IQGAP2-AKAP8L-RELA-TNIP2 complex (human)	CORUM	Rela	Tnip2	Chuk	Akap8l	Iqgap2
+CHUK-NFKB2-REL-IKBKG-SPAG9-NFKB1-NFKBIE-COPB2-TNIP1-NFKBIA-RELA-TNIP2 complex (human)	CORUM	Nfkbia	Rela	Spag9	Tnip2	Chuk	Copb2	Rel	Tnip1	Ikbkg	Nfkbie	Nfkb1	Nfkb2
+CIN85 homotetramer complex (human)	CORUM	Sh3kbp1
+CIN85-BLNK complex (human)	CORUM	Sh3kbp1	Blnk
+CIN85-SH3GL3-CBL complex (human)	CORUM	Sh3kbp1	Cbl	Sh3gl3
+CNK1 homodimer complex (human)	CORUM	Cnksr1
+CNK1-SRC-RAF1 complex (human)	CORUM	Cnksr1	Src	Raf1
+CNTF-CNTFR-gp130-LIFR complex (human)	CORUM	Cntfr	Lifr	Il6st
+COG1-COG8 subcomplex (human)	CORUM	Pdf	Cog1
+COG1-COG8-COG2-COG3-COG4 subcomplex (human)	CORUM	Pdf	Cog4	Cog3	Cog2	Cog1
+COG1-COG8-COG5-COG6-COG7 subcomplex (human)	CORUM	Pdf	Cog7	Cog6	Cog5	Cog1
+COG2-COG3-COG4 subcomplex (human)	CORUM	Cog4	Cog3	Cog2
+COG5-COG6-COG7 subcomplex (human)	CORUM	Cog7	Cog6	Cog5
+COP9 signalosome complex (human)	CORUM	Cops5	Cops4	Cops6	Cops3	Gps1	Cops2	Cops7b	Cops7a	Cops8
+CRB1-MPP5-INADL complex (human)	CORUM	Crb1
+CREBBP-SMAD2 hexameric complex (human)	CORUM	Smad2	Crebbp
+CREBBP-SMAD2-SMAD4 pentameric complex (human)	CORUM	Smad2	Crebbp	Smad4
+CREBBP-SMAD3 hexameric complex (human)	CORUM	Smad3	Crebbp
+CREBBP-SMAD3-SMAD4 pentameric complex (human)	CORUM	Smad3	Crebbp	Smad4
+CRK-BCAR1-DOCK1 complex (human)	CORUM	Crk	Dock1	Bcar1
+CRKII-C3G complex (human)	CORUM	Crk	Rapgef1
+CRLR-RAMP1 complex (human)	CORUM	Calcrl	Ramp1
+CRLR-RAMP2 complex (human)	CORUM	Calcrl	Ramp2
+CRLR-RAMP3 complex (human)	CORUM	Ramp3	Calcrl
+CRM1-RAN-PHAX-CBC complex (cap binding complex) (human)	CORUM	Xpo1	Ncbp2	Ncbp1	Phax	Ran
+CRM1-Survivin mitotic complex (human)	CORUM	Xpo1	Birc5
+CRM1-Survivin-AuroraB mitotic complex (human)	CORUM	Xpo1	Birc5	Aurkb
+CRMP-MICAL-PlexinA1 complex, induced by SEMA3A (human)	CORUM	Mical1	Crmp1	Plxna1
+CRSP complex (human)	CORUM	Med24	Med1	Med23	Med26	Med15	Med25	Med14	Med21	Med17	Med6	Med7
+CRSP-Mediator 2 complex (human)	CORUM	Med24	Med23	Med15	Med4	Med14	Med17	Med16	Med6	Med7	Med18
+CS-MAP3K7IP1-MAP3K7IP2 complex (human)	CORUM	Tab2	Tab1	Csl
+CSA complex (human)	CORUM	Gps1	Cops7b	Cops7a	Rbx1	Cops5	Cops4	Cul4a	Ddb1	Cops6	Cops3	Cops2	Ercc8	Cops8
+CSA-POLIIa complex (human)	CORUM	Gps1	Cops7b	Cops7a	Rbx1	Cops5	Cops4	Cul4a	Ddb1	Cops6	Polr2a	Cops3	Cops2	Ercc8	Cops8
+CSK-GAP-A.p62 complex (mouse)	CORUM	Khdrbs1	Csk
+CTCF-nucleophosmin complex (human)	CORUM	Ctcf
+CTF18-CTF8-DCC1-RFC3 complex (human)	CORUM	Chtf8	Rfc3	Dscc1	Chtf18
+CTF18-cohesion-RFC-POLH complex (human)	CORUM	Rfc4	Chtf8	Rfc5	Rfc2	Rfc3	Dscc1	Chtf18	Polh
+CTFC-TAF1 complex (human)	CORUM	Ctcf
+CTGF/Hcs24-actin complex (human)	CORUM	Actb	Actg1
+CTLH complex (human)	CORUM	Mkln1	Rmnd5a	Armc8	Maea	Ranbp9
+Calreticulin oligomer complex (human)	CORUM	Calr
+Car-Jam3 complex (mouse)	CORUM	Gm1123	Jam3
+Car-Lnx2 complex (mouse)	CORUM	Gm1123	Lnx2
+Casein kinase II (beta-dimer, alpha'-dimer) (human)	CORUM	Csnk2a2	Csnk2b
+Casein kinase II (beta-dimer, alpha-dimer) (human)	CORUM	Csnk2b
+Casein kinase II complex (human)	CORUM	Csnk2a2	Csnk2b
+Casein kinase II-HMG1 complex (human)	CORUM	Csnk2a2	Csnk2b
+Cask-Dlg1 complex (mouse)	CORUM	Dlg1	Cask
+Caspase-2-TRAF2-RIP1 complex (mouse)	CORUM	Ralbp1	Casp2	Traf2
+Catenin (alpha) - catenin (beta) complex (human)	CORUM	Ctnnb1	Ctnna1
+Catulin (alpha) - catenin (beta) complex (human)	CORUM	Ctnnb1	Ctnnal1
+Caveolar macromolecular signaling complex (mouse)	CORUM	Cav3	Prkar2b	Cacna1c	Gnas	Ppp2r1a	Adrb2	Adcy8
+Cbl-SLP-76-Grb2 complex, Fc receptor gamma-R1 stimulated (human)	CORUM	Lcp2	Grb2	Cbl
+Ccd1-Axin complex (mouse)	CORUM	Axin1	Dixdc1
+Ccd1-Dvl2-Rac complex (mouse)	CORUM	Dvl2	Dixdc1	Rac1
+Ccd1-Mekk4 complex (mouse)	CORUM	Map3k4	Dixdc1
+Cd247 homodimer complex (mouse)	CORUM	Cd247
+Cd2ap-Fyn complex (mouse)	CORUM	Cd2ap	Fyn
+Cd2ap-Synpo complex (mouse)	CORUM	Cd2ap	Synpo
+Cd3d-Cd3g-Cd3e-Cd247 complex (mouse)	CORUM	Cd3g	Cd247	Cd3e	Cd3d
+Cd3e homodimer complex (mouse)	CORUM	Cd3e
+Cd3e-Nck1-Mink1 complex (mouse)	CORUM	Mink1	Cd3e	Nck1
+Cd3g-Cd3e complex (mouse)	CORUM	Cd3g	Cd3e
+Cd3g-Cd3e-Cd247-Canx complex (mouse)	CORUM	Canx	Cd3g	Cd247	Cd3e
+Cd74-Cd44 receptor complex (mouse)	CORUM	Cd74	Cd44
+Cdh23-Myo1c complex (mouse)	CORUM	Myo1c	Cdh23
+Cdk5-Cdk5r1 complex (mouse)	CORUM	Cdk5	Cdk5r1
+Cdk5-Cdk5r1-Pctk1 complex (mouse)	CORUM	Cdk5	Cdk5r1	Cdk16
+Cdk5-c-Abl-Cables complex (mouse)	CORUM	Cdk5	Cables1	Abl1
+Cebpa-Smarca2 complex (mouse)	CORUM	Cebpa	Smarca2
+Cell cycle kinase complex CDC2 (human)	CORUM	Pcna	Ccnb2	Ccnb1	Ccnd1	Cdkn1a	Cdk1
+Cell cycle kinase complex CDK2 (human)	CORUM	Pcna	Ccnd1	Cdkn1a	Cdk2
+Cell cycle kinase complex CDK4 (human)	CORUM	Pcna	Ccnd1	Cdkn1a	Cdk4
+Cell cycle kinase complex CDK5 (human)	CORUM	Pcna	Ccnd3	Ccnd1	Cdk5	Cdkn1a
+Cell division cycle complex (CDC27, CDC16, ANAPC7) (human)	CORUM	Cdc27	Cdc16	Anapc7
+Cell-cell junction complex (ARHGAP10-CTNNA1) (human)	CORUM	Arhgap10	Ctnna1
+Cell-cell junction complex (CDH1-CTNNB1) (human)	CORUM	Cdh1	Ctnnb1
+Channel complex TRPM6-TRPM7 (human)	CORUM	Trpm6	Trpm7
+Chromatin assembly complex (CAF-1 complex) (human)	CORUM	Chaf1a	Chaf1b	Rbbp4
+Chromatin remodeling complex (TACC2, TACC3, PCAF) (human)	CORUM	Kat2b	Tacc2	Tacc3
+Chromosomal passenger complex CPC (INCENP, BIRC5, AURKB) (human)	CORUM	Incenp	Birc5	Aurkb
+Chromosomal passenger complex CPC (INCENP, CDCA8, BIRC5, AURKB) (human)	CORUM	Incenp	Birc5	Cdca8	Aurkb
+Class C VPS/HOPS complex (human)	CORUM	Vps11	Rab5a	Vps16	Vps18	Eea1	Vps39
+Class C Vps complex (VPS11, VPS18, STX7) (human)	CORUM	Stx7	Vps11	Vps18
+Class C Vps complex (VPS11, VPS18, VPS16) (human)	CORUM	Vps11	Vps16	Vps18
+Cleavage and polyadenylation factor (CPSF) (human)	CORUM	Cpsf2	Cpsf1	Cpsf4	Cpsf3
+Cleavage stimulation factor (human)	CORUM	Cstf3	Cstf2	Cstf1
+ClpP complex, heptameric (human)	CORUM	Clpp
+ClpX complex, hexameric (human)	CORUM	Clpx
+ClpXP complex (human)	CORUM	Clpp	Clpx
+CoREST-HDAC complex (human)	CORUM	Kdm1a	Hdac1	Hdac2	Phf21a	Zfp217	Hmg20b	Rcor1
+CoREST-HDAC2 complex (human)	CORUM	Hdac2	Rcor1
+Cofilin-actin-CAP1 complex (human)	CORUM	Actb	Cap1	Cfl1
+Cohesin complex, incomplete (Smc1b, Crest/Ss18I1) (mouse)	CORUM	Ss18l1	Smc1b
+Cohesin complex, incomplete (Smc1b, Sycp1, Crest/Ss18I1) (mouse)	CORUM	Ss18l1	Smc1b
+Cohesin complex, incomplete (Smc3, Sycp1, Crest/Ss18I1) (mouse)	CORUM	Ss18l1
+Cohesin complex, incomplete (Smc4, Crest/Ss18I1) (mouse)	CORUM	Ss18l1	Smc4
+Cohesin complex, incomplete (Stag3, Scp1, Ss181) (mouse)	CORUM	Ss18l1	Stag3
+Cohesin complex, incomplete (Stag3, Sycp3) (mouse)	CORUM	Stag3	Gm28961
+Cohesin complex, incomplete (Sycp1, Crest/Ss18I1, Rec8) (mouse)	CORUM	Rec8	Ss18l1
+Cohesin complex, incomplete (Sycp2, Crest/Ss18I1) (mouse)	CORUM	Ss18l1	Sycp2
+Cohesin-SA1 complex (human)	CORUM	Stag1	Rad21	Smc1a	Smc3
+Cohesin-SA2 complex (human)	CORUM	Rad21	Stag2	Smc1a	Smc3
+Complexin complex (STX3, CPLX1, CPLX3) (human)	CORUM	Cplx1	Cplx3	Stx3
+Condensin I complex (human)	CORUM	Ncapg	Ncapd2	Ncaph	Smc4	Smc2
+Condensin I-PARP-1-XRCC1 complex (human)	CORUM	Parp1	Xrcc1	Ncapg	Ncapd2	Ncaph	Smc4	Smc2
+Condensin II (human)	CORUM	Ncaph2	Ncapg2	Ncapd3	Smc4	Smc2
+Conserved oligomeric Golgi (COG) complex (human)	CORUM	Pdf	Cog7	Cog6	Cog5	Cog4	Cog3	Cog2	Cog1
+Crb1-Mupp1-Pals1-Mpp4 complex (mouse)	CORUM	Crb1	Mpp4	Mpdz
+CtBP complex (human)	CORUM	Kdm1a	Hdac1	Hdac2	Ctbp2	Cbx4	Ctbp1	Ehmt1	Ehmt2	Cdyl	Zeb1	Zeb2	Zfp516	Zfp217	Lcor	Rreb1	Rcor3	Rcor1
+Cyclin D1-associated protein complex (mouse)	CORUM	Ccnd1	Cdkn1a	Cdk4	Hspa1b
+CyclinB1-Cdc2 complex (mouse)	CORUM	Cdk1
+CyclinD3-CDK4-CDK6 complex (human)	CORUM	Ccnd3	Cdk6	Cdk4
+CyclinD3-CDK4-CDK6-p21 complex (human)	CORUM	Ccnd3	Cdk6	Cdkn1a	Cdk4
+Cytochrome bc1-complex (EC 1.10.2.2), mitochondrial (mouse)	CORUM	Uqcrb	Uqcrq	Uqcrc2	Uqcr10	Uqcrfs1	Uqcrc1	Uqcr11	Cyc1
+Cytochrome c oxidase (EC 1.9.3.1), mitochondrial (mouse)	CORUM	Cox5a	Cox7b	Cox5b-ps	Cox7a2	Cox6c	Cox6b1	Cox6a1	Cox4i1
+Cytosolic multicomponent signaling complex, anti-CD40 stimulated, (Ikbkg, Map3k1, Traf2, Ube2n) (mouse)	CORUM	Map3k1	Traf2	Ikbkg
+DA complex (human)	CORUM	Tbp	Gtf2a1	Gtf2a2	Taf13	Taf12	Taf10	Taf1	Taf9	Taf7	Taf6	Taf5	Taf4	Taf3	Taf2
+DAB complex (human)	CORUM	Tbp	Gtf2a1	Gtf2a2	Taf13	Gtf2b	Taf12	Taf10	Taf1	Taf9	Taf7	Taf6	Taf5	Taf4	Taf3	Taf2
+DAXX-AXIN complex (human)	CORUM	Daxx	Axin1
+DAXX-Axin-p53-HIPK2 complex (human)	CORUM	Daxx	Axin1	Hipk2	Trp53
+DCS complex (Ptbp1, Ptbp2, Hnrph1, Hnrpf) (mouse)	CORUM	Ptbp1	Ptbp2	Hnrnph1
+DDB complex (human)	CORUM	Ddb2	Ddb1
+DDB2 complex (human)	CORUM	Gps1	Cops7b	Cops7a	Rbx1	Cops5	Ddb2	Cops4	Cul4a	Ddb1	Cops6	Cops3	Cops2	Cops8
+DDEF1-CTTN-PXN complex (human)	CORUM	Pxn	Cttn	Asap1
+DGCR8 multiprotein complex (human)	CORUM	Fus	Ddx17	Ddx5	Hnrnph1	Dhx9	Hspa5	Ncl	Hnrnpu	Dgcr8	Hnrnpr	Ilf3
+DGCR8-ILF3 complex (human)	CORUM	Dgcr8	Ilf3
+DGCR8-NCL complex (human)	CORUM	Ncl	Dgcr8
+DHX9-ADAR-vigilin-DNA-PK-Ku antigen complex (human)	CORUM	Dhx9	Xrcc5	Xrcc6	Hdlbp	Adar
+DIPA-MCRS1 complex (human)	CORUM	Mcrs1	Ccdc85b
+DJ-1-SNCA complex, high molecular weight complex (human)	CORUM	Park7	Snca
+DLP1-hFIS1 complex (human)	CORUM	Fis1	Dnm1l
+DMAP1-associated complex (human)	CORUM	Ruvbl1	Vps72	Trrap	Srcap	Actl6a	Ruvbl2	Epc1	Ep400	Dmap1	Brd8
+DNA double-strand break end-joining complex (human)	CORUM	Xrcc5	Xrcc6	Xrcc4	Nbn	Lig4	Rad50
+DNA ligase III-XRCC1 complex (human)	CORUM	Xrcc1	Lig3
+DNA ligase III-XRCC1-PNK-DNA-pol III multiprotein complex (human)	CORUM	Polb	Pnkp	Xrcc1	Lig3
+DNA ligase IV-XRCC1 complex (human)	CORUM	Xrcc1	Lig4
+DNA ligase IV-XRCC4 complex (LX complex) (human)	CORUM	Xrcc4	Lig4
+DNA ligase IV-XRCC4-AHNK complex (human)	CORUM	Ahnak	Xrcc4	Lig4
+DNA ligase IV-XRCC4-PNK complex (human)	CORUM	Xrcc4	Pnkp	Lig4
+DNA ligase IV-XRCC4-XLF complex (human)	CORUM	Xrcc4	Lig4	Nhej1
+DNA ligase IV-Xrcc4-DNA-protein kinase complex (mouse)	CORUM	Xrcc4	Lig4	Prkdc
+DNA ligase IV-condensin complex (human)	CORUM	Lig4	Smc4	Smc2
+DNA polymerase alpha (mouse)	CORUM	Pola1	Pola2
+DNA polymerase alpha-primase complex (human)	CORUM	Pola1	Pola2	Prim2	Prim1
+DNA polymerase alpha-primase complex (mouse)	CORUM	Pola1	Pola2	Prim2	Prim1
+DNA polymerase delta complex (mouse)	CORUM	Pold4	Pold1	Pold2
+DNA repair complex NEIL1-PNK-Pol(beta)-LigIII(alpha)-XRCC1 (human)	CORUM	Polb	Pdxk	Xrcc1	Lig3	Neil1
+DNA repair complex NEIL2-PNK-Pol(beta)-LigIII(alpha)-XRCC1 (human)	CORUM	Polb	Pdxk	Xrcc1	Lig3	Neil2
+DNA synthesome complex (17 subunits) (human)	CORUM	Pcna	Top2b	Prim2	Rfc1	Top2a	Prim1	Rpa1	Pola1	Pold4	Pola2	Pole	Pold1	Pole2	Pold2	Pole3	Pole4	Top1
+DNA synthesome complex (mouse)	CORUM	Top2b	Lig1	Prim2	Prim1	Top2a	Pola1	Pold4	Pola2	Pold1	Pold2	Top1
+DNA-PK-Ku antigen complex (human)	CORUM	Xrcc5	Xrcc6
+DNA-PK-Ku-eIF2-NF90-NF45 complex (human)	CORUM	Xrcc5	Xrcc6	Ilf2	Eif2s2	Ilf3	Eif2s1
+DNMT1-G9a complex (human)	CORUM	Ehmt2	Dnmt1
+DNMT1-G9a-PCNA complex (human)	CORUM	Pcna	Ehmt2	Dnmt1
+DNMT3B complex (human)	CORUM	Hdac1	Sin3a	Dnmt3c	Smc4	Smc2	Smarca5
+DRIP complex (human)	CORUM	Med1	Vdr	Med4	Med17	Med16	Med6	Med7	Med24	Med13	Med23	Med12	Med26	Rxrb	Med14
+DRIP78-PHLP complex (human)	CORUM	Pdcl	Dnajc14
+DSIF complex (DRB sensitivity-inducing factor complex) (human)	CORUM	Supt4a	Supt5
+DSS1 complex (human)	CORUM	Ints2	Ints10	Ints4	Leng8	Brca2	Ints6	Ints5	Ints8	Ints7	Ints9	Sac3d1
+Daxx-Axin complex (mouse)	CORUM	Daxx	Axin1
+Daxx-Axin-p53 complex (human)	CORUM	Daxx	Axin1	Trp53
+Death induced signaling complex DISC (FAS, FADD, CASP8, CFLAR), membrane-associated, CD95L induced (human)	CORUM	Casp8	Fas	Cflar	Fadd
+Death induced signaling complex II (FADD, CASP8, CFLAR), cytosolic, CD95L induced (human)	CORUM	Casp8	Cflar	Fadd
+Death-inducing signaling complex DISC (type I cells associated), stimulated (human)	CORUM	Casp8	Fas	Fadd
+Decapping complex (human)	CORUM	Ddx6	Dcp1a	Edc3	Dcp2	Edc4
+Delta1 homodimer complex (human)	CORUM	Dll1
+Dolichol-phosphate mannose (DPM) synthase (human)	CORUM	Dpm2	Dpm3	Dpm1
+Drosha complex (mouse)	CORUM	Hnrnpm	Ddx17	Ddx5	Hnrnph1	Dhx15	Dgcr8
+Dysbindin-pallidin-muted-beta-dystrobrevin complex (mouse)	CORUM	Dtnbp1
+Dysferlin-affixin complex (human)	CORUM	Dysf	Parvb
+Dystrophin-sarcoglycan-syntrophin complex, skeletal muscle (mouse)	CORUM	Sntb1	Sgcg	Sgcd	Sgcb	Sntg1	Sntg2	Sgca	Dmd	Snta1
+E-box sequence-binding complex (human)	CORUM	Lmo2	Bex2	Ldb1	Nhlh2
+E2F-6 complex (human)	CORUM	L3mbtl2	Rnf2	Max	Gjb3	Tfdp1	Pcgf6	Ring1	Mga	Ehmt1	Ehmt2	Yaf2	E2f6
+E2F1-p107-cyclinA complex (human)	CORUM	Ccna2	Rbl1	E2f1
+E2F4-p107-cyclinE complex (human)	CORUM	Rbl1	Ccne1	E2f4
+E2F4-p130 complex (human)	CORUM	Rbl2	E2f4
+EB1-APC-mDia1 complex (mouse)	CORUM	Apc
+EB1-APC-mDia2 complex (mouse)	CORUM	Apc
+EBAFa complex (human)	CORUM	Smarcd1	Smarcc1	Smarcd2	Smarcc2	Smarcb1	Actl6a	Smarce1	Mllt1	Arid1a	Smarca4
+EBAFb complex (human)	CORUM	Smarcd1	Smarcc1	Smarcd2	Smarcc2	Smarcb1	Actl6a	Smarce1	Mllt1	Arid1b	Smarca4
+EDG1-HTR1D complex (human)	CORUM	S1pr1
+EED-EZH polycomb complex (human)	CORUM	Eed	Ezh2
+EED-EZH-YY1 polycomb complex (human)	CORUM	Yy1	Eed	Ezh2
+EED-EZH2 complex (human)	CORUM	Suz12	Eed	Rbbp4	Aebp2	Ezh2
+EGFR-CBL-GRB2 complex (human)	CORUM	Grb2	Egfr	Cbl
+EGFR-containing signaling complex (human)	CORUM	Erbb2	Pik3c2b	Pik3c2a	Egfr
+EGR-EP300 complex (human)	CORUM	Egr1	Ep300
+EIF3 complex (EIF3A, EIF3B, EIF3G, EIF3I, EIF3C) (human)	CORUM	Eif3a	Eif3i	Eif3g	Eif3b	Eif3c
+EIF3 complex (EIF3A, EIF3B, EIF3G, EIF3I, EIF3J) (human)	CORUM	Eif3a	Eif3j1	Eif3i	Eif3g	Eif3b
+EIF3 complex (EIF3B, EIF3G, EIF3I) (human)	CORUM	Eif3i	Eif3g	Eif3b
+EIF3 complex (EIF3B, EIF3J, EIF3I) (human)	CORUM	Eif3j1	Eif3i	Eif3b
+EIF3 core complex (EIF3A, EIF3B, EIF3G, EIF3I) (human)	CORUM	Eif3a	Eif3i	Eif3g	Eif3b
+ELK1-SRF-ELK3 complex (human)	CORUM	Srf	Elk1	Elk3
+ELMO1-DOCK1 complex (human)	CORUM	Elmo1	Dock1
+ELMO1-DOCK1-CRKII complex (human)	CORUM	Elmo1	Crk	Dock1
+ELMO1-DOCK1-RAC1 complex (human)	CORUM	Elmo1	Rac1	Dock1
+ELMO1-DOCK2 complex (human)	CORUM	Elmo1	Dock2
+EPO-EPOR complex (human)	CORUM	Epo	Epor
+EPOR receptor complex (human)	CORUM	Epor
+ER-alpha-GRIP1-c-Jun complex (human)	CORUM	Grip1	Jun	Esr1
+ER-alpha-c-Jun complex (human)	CORUM	Jun	Esr1
+ERAP1-ERAP2 complex (human)	CORUM	Erap1
+ERBB2-MEMO-SHC complex (human)	CORUM	Shc1	Erbb2	Memo1
+ERCC1-ERCC4-MSH2 complex (human)	CORUM	Ercc1	Ercc4	Msh2
+ERG-JUN-FOS DNA-protein complex (human)	CORUM	Jun	Erg	Fos
+ERdj3-BiP complex (mouse)	CORUM	Hspa5	Dnajb11
+ESCRT-I complex (human)	CORUM	Tsg101	Vps37c	Vps28
+ESCRT-II complex (human)	CORUM	Vps36	Snf8	Vps25
+ESCRT-III complex (human)	CORUM	Chmp1b	Chmp2b	Chmp1a	Chmp4c	Chmp2a	Chmp4b	Chmp5	Chmp6
+ESPL1-CDC2 complex (human)	CORUM	Espl1	Cdk1
+ESR1-CDK7-CCNH-MNAT1-MTA1-HDAC2 complex (human)	CORUM	Mta1	Cdk7	Hdac2	Ccnh	Esr1	Mnat1
+ESR1-RELA-BCL3-NCOA3 complex (human)	CORUM	Ncoa3	Rela	Bcl3	Esr1
+ETS2-ERG complex (human)	CORUM	Erg	Ets2
+ETS2-ETS1 complex (human)	CORUM	Ets1	Ets2
+ETS2-FOS-JUN complex (human)	CORUM	Jun	Fos	Ets2
+ETS2-SMARCA4-INI1 complex (human)	CORUM	Smarcb1	Ets2	Smarca4
+EXO1-MLH1-PCNA complex (human)	CORUM	Pcna	Mlh1	Exo1
+EXO1-MLH1-PMS2 complex (human)	CORUM	Mlh1	Exo1	Pms2
+Ecsit complex (ECSIT, MT-CO2, GAPDH, TRAF6, NDUFAF1) (human)	CORUM	Ecsit	Traf6	Ndufaf1
+Ecsit complex (ECSIT, MT-CO2, NDUFA1, MT-ND1, TRAF6, NDUFAF1) (human)	CORUM	Ecsit	Traf6	Ndufa1	Ndufaf1
+Ecsit complex (ECSIT, NDUFS3, NDUFAF1) (human)	CORUM	Ecsit	Ndufs3	Ndufaf1
+Ecsit complex (ECSIT, NDUFS3, TOM20) (human)	CORUM	Ecsit	Ndufs3
+Ecsit complex (Ecsit2-Smad1) (mouse)	CORUM	Ecsit	Smad1
+Ecsit complex (Ecsit2-Smad4) (mouse)	CORUM	Smad4	Ecsit
+Ecsit complex (Smad1-Smad4-Ecsit2) (mouse)	CORUM	Smad4	Ecsit	Smad1
+Ectodermin-SMAD4 complex (human)	CORUM	Smad4	Trim33
+Egasyn-glucuronidase complex (mouse)	CORUM	Gusb
+Egfr-Grb2-mSos1 complex, EGF stimulated (mouse)	CORUM	Grb2	Egfr	Sos1
+Elongator holo complex (human)	CORUM	Elp2	Elp3	Elp4
+Emerin architectural complex (human)	CORUM	Lmna	Actb	Lmnb1	Nmi	Emd	Sptan1
+Emerin complex 1 (human)	CORUM	Cnn3	Myo1e	Actb	Sike1	Myh9	Emd	Lmo7	Sptan1
+Emerin complex 24 (human)	CORUM	Rb1	Lmnb1	Hnrnpu	Nmi	Lmna	Sap130	Rbl2	C1qbp	Mcm4	Emd	Mcm6	Banf2	Mcm2
+Emerin complex 25 (human)	CORUM	Ssb	Zranb2	Ywhae	Ywhab	Lmnb1	Lsm2	Bccip	Sap130	Actb	Hnrnpk	Cdc37	G3bp1	Banf1	Emd	Naa38
+Emerin complex 32 (human)	CORUM	Smarcc1	Hdac3	Smarcc2	Smarcb1	Med4	Hdac1	Nmi	Lmnb1	Dpy30	Chd4	Actb	Rbl1	Tbl1xr1	Rbl2	Sap18b	Emd	Banf2	Trim28	Tbl1x	Sptan1	Rcor1
+Emerin complex 52 (human)	CORUM	Ywhae	Api5	Thra	Hnrnpu	Nmi	Lmnb1	Iqgap1	Lemd3	Ilf3	Actb	Hnrnpk	Rbl2	Ywhaq	C1qbp	Ckb	Pdcd4	Emd	Naa38	Hdgf
+Emerin regulatory complex (human)	CORUM	Actb	Hdac3	Rbl1	Hdac1	Banf1	Emd	Lmo7
+Emerin-actin-NMI complex (human)	CORUM	Actb	Nmi	Emd
+Emerin-actin-NMI-(alphaII)spectrin complex (human)	CORUM	Actb	Nmi	Emd	Sptan1
+Epo-R-IP(3)R type II-TRPC2 complex (mouse)	CORUM	Itpr2	Epor
+Epo-R-PLC-gamma 1-IP(3)R type II-TRPC2 signaling complex (mouse)	CORUM	Itpr2	Plcg1	Epor
+Epo-R-PLC-gamma-TRPC2 complex (mouse)	CORUM	Plcg1	Epor
+Eps15-stonin2 complex (human)	CORUM	Ston2	Eps15
+Er-alpha-p53-hdm2 complex (human)	CORUM	Esr1	Trp53	Mdm2
+Ets2-Ini1-Smarce1-Smarca4 complex (mouse)	CORUM	Smarcb1	Ets2	Smarca4
+Exon junction complex (F4A3-MLN51-UPF3B-MAGOH-Y14-PYM) (human)	CORUM	Magoh	Eif4a3l2	Rbm8a2	Casc3	Upf3b
+Exon junction complex (human)	CORUM	Magoh	Eif4a3l2	Rbm8a2	Rnps1	Upf3b	Srrm1
+Exon junction complex (mRNA splicing-dependent) (human)	CORUM	Prpf8	Srrm1
+Exosome (human)	CORUM	Exosc8	Exosc7	Exosc10	Exosc6	Exosc5	Dis3	Exosc9	Exosc4	Exosc3	Exosc2	Exosc1
+Eya1/3-Dach1/2-Six1 complex (mouse)	CORUM	Dach1	Dach2	Eya1	Eya3	Six1
+F1F0-ATP synthase (EC 3.6.3.14), mitochondrial (human)	CORUM
+FA complex (Fanconi anemia complex) (human)	CORUM	Fancl	Blm	Rmi1	Top3a	Fancb	Fanca	Rpa1	Fancc	Fancf	Fance	Fancg
+FA complex (Fanconi anemia complex), cytoplasmic (human)	CORUM	Fanca	Fancc	Fancf	Fancg
+FACT complex (human)	CORUM	Supt16	Ssrp1
+FACT complex, UV-activated (human)	CORUM	Supt16	Csnk2a2	Csnk2b	Ssrp1
+FACT-NEK9 complex (human)	CORUM	Nek9	Supt16	Ssrp1
+FARP2-NRP1-PlexinA1 complex (human)	CORUM	Nrp1	Farp2	Plxna1
+FARP2-NRP1-PlexinA2 complex (human)	CORUM	Nrp1	Farp2	Plxna2
+FARP2-NRP1-PlexinA3 complex (human)	CORUM	Nrp1	Farp2	Plxna3
+FARP2-NRP1-PlexinA4 complex (human)	CORUM	Nrp1	Farp2	Plxna4
+FAS-FADD-CASP10 complex (human)	CORUM	Fas	Fadd
+FAS-FADD-CASP8-CASP10 complex (human)	CORUM	Casp8	Fas	Fadd
+FCP1-associated protein complex (human)	CORUM	Polr2b	Ctdp1	Prmt5	Stk38	Gtf2f1	Erh	Wdr77
+FE65-TSHZ3-HDAC1 complex (human)	CORUM	Hdac1	Tshz3	Apbb1
+FEN1-9-1-1 complex (human)	CORUM	Fen1	Hus1	Rad1	Rad9a
+FGFR2-c-Cbl-Lyn-Fyn complex (human)	CORUM	Lyn	Fyn	Cbl	Fgfr2
+FHL2 homodimer complex (human)	CORUM	Fhl2
+FHL2-ACT complex (human)	CORUM	Fhl2	Fhl5
+FHL2-CREB complex (human)	CORUM	Creb1	Fhl2
+FHL2-FHL3 complex (human)	CORUM	Fhl2	Fhl3
+FHL2-p53-HIPK2 complex (human)	CORUM	Fhl2	Hipk2	Trp53
+FHL3 homodimer complex (human)	CORUM	Fhl3
+FHL3-CREB complex (human)	CORUM	Creb1	Fhl3
+FHL4/STX11-ACT complex (human)	CORUM	Fhl5	Stx11
+FIB-associated protein complex (human)	CORUM	Prmt5	C1qbp	Tubb1	Prmt1	Tuba1a	Fbl
+FIF-FGR2 complex (human)	CORUM	Api5	Fgf2
+FKBP12-FK506 complex (mouse)	CORUM	Fkbp1a	Mtor
+FN1-TGM2 complex (human)	CORUM	Tgm2	Fn1
+FOXO1-FHL2-SIRT1 complex (human)	CORUM	Fhl2	Sirt1	Foxo1
+FOXO3-PCAF complex, oxidative stress stimulated (human)	CORUM	Kat2b	Foxo3
+FOXO3-SIRT1 complex, oxidative stress stimulated (human)	CORUM	Sirt1	Foxo3
+FOXO3-TP53 complex, oxidative stress stimulated (human)	CORUM	Foxo3	Trp53
+FYB-CARMA1-BCL-10-MALT1 complex (human)	CORUM	Card11	Malt1
+Farnesyltransferase (human)	CORUM	Fntb	Fnta
+Fertilin complex (Adam1a, Adam2) (mouse)	CORUM	Adam2
+Fertilin complex (Adam1b, Adam2) (mouse)	CORUM	Adam2
+Fgf2-Ck2 complex (mouse)	CORUM	Csnk2b	Fgf2
+Fgf2-Rsk2 complex (mouse)	CORUM	Rps6ka3	Fgf2
+Fgr-Pyk2-p190RhoGap complex (mouse)	CORUM	Fgr	Ptk2b
+Fmrp-Lgl complex (mouse)	CORUM	Fmr1	Llgl1
+Foxo4-Srf-Myocd complex (mouse)	CORUM	Myocd	Srf	Foxo4
+Frs2-Shp2 complex, FGF stimulated (mouse)	CORUM	Ptpn11	Frs2
+G protein complex (Btk, Gng2, Gnb1) (mouse)	CORUM	Gng2	Gnb1	Btk
+G protein complex (Hdac4, Gnb1, Gng2) (mouse)	CORUM	Gng2	Hdac4	Gnb1
+G protein complex (Hdac5, Gnb1, Gng2) (mouse)	CORUM	Gng2	Hdac5	Gnb1
+GAA1-GPI8-PIGT-PIG-PIGS complex (human)	CORUM	Pigt	Pigs	Pigu	Pigk	Gpaa1
+GABAA receptor  (human)	CORUM	Gabrb2	Gabra1	Gabrg2
+GABBR2-HTR1A complex (human)	CORUM	Gabbr2	Htr1a
+GABP(gamma)1-E2F1-DP1 complex (human)	CORUM	Tfdp1	E2f1	Gabpb2
+GAIT complex (human)	CORUM	Syncrip
+GALNS-lysosomal hydrolase 1.27 MDa complex (human)	CORUM	Ctsa	Galns	Glb1	Neu1
+GCN5-TRRAP histone acetyltransferase complex (human)	CORUM	Taf5l	Kat2a	Trrap	Tada3	Msh6	Taf9	Taf10	Brca1	Msh2	Supt3
+GINS complex (human)	CORUM	Gins2	Gins3	Gins1	Gins4
+GNA14-p115RhoGEF complex (human)	CORUM	Gna14	Arhgef1
+GNAQ-GEFT-RHOA complex (human)	CORUM	Rhoa
+GPI-GnT activity complex (human)	CORUM	Pigc	Piga	Pigq	Pigh
+GPR56-CD81-Galphaq/11-Gbeta complex (human)	CORUM	Gnb1	Gna11	Cd81	Gnb3	Gnb2	Gnb4
+GR-hnRNP U complex (human)	CORUM	Hnrnpu	Nr3c1
+GRASP-GRP1 complex (human)	CORUM	Cyth3
+GRB2-SHP-2 complex, PDGF stimulated (human)	CORUM	Ptpn11	Grb2
+GTP-Rho-Rhpn1-Ropn1 complex (mouse)	CORUM	Rhoa	Rhpn1	Ropn1
+Gamma-BAR-AP1 complex (human)	CORUM	Ap1g1	Ap1g2	Ap1s1	Ap1s3	Ap1b1	Ap1ar	Ap1m1	Ap1m2
+Gamma-secretase complex (APH1A, PSEN1, PSENEN, NCSTN variant) (human)	CORUM	Psenen	Aph1a	Psen1	Ncstn
+Gamma-secretase complex (APH1A, PSEN1, PSENEN, NCSTN) (human)	CORUM	Psenen	Aph1a	Psen1	Ncstn
+Gamma-secretase complex (APH1A, PSEN2, PSENEN, NCSTN) (human)	CORUM	Aph1a	Psenen	Psen2	Ncstn
+Gamma-secretase complex (APH1B, PSEN1, PSENEN, NCSTN) (human)	CORUM	Aph1c	Psenen	Psen1	Ncstn
+Gamma-secretase complex (APH1B, PSEN2, PSENEN, NCSTN) (human)	CORUM	Aph1c	Psenen	Psen2	Ncstn
+Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn) (mouse)	CORUM	Psenen	Aph1a	Psen1	Ncstn
+Gamma-secretase-Delta1 complex (human)	CORUM	Aph1a	Psenen	Psen1	Dll1	Ncstn
+GammaH2AFX-NDHII-Ku70-DNA complex (human)	CORUM	Dhx9	Xrcc6
+Gata1-Fog1 complex (mouse)	CORUM	Zfpm1	Gata1
+Gata1-Fog1-MeCP1 complex (mouse)	CORUM	Hdac2	Mbd2	Mbd3	Chd4	Gata1	Gatad2b	Zfpm1	Mta1	Mta2	Rbbp4	Rbbp7	Mta3
+Gata1-Gfi1b complex (mouse)	CORUM	Gfi1b	Gata1
+Gata1-Ldb1-Tal1 complex (mouse)	CORUM	Ldb1	Tal1	Gata1
+Gata1-Snf2h complex (mouse)	CORUM	Gata1
+Gata1-Tal1-Tcf3-Lmo2 complex (mouse)	CORUM	Lmo2	Tal1	Tcf3	Gata1
+Gata2-Tal1-Tcf3-Lmo2 complex (mouse)	CORUM	Lmo2	Tal1	Tcf3	Gata2
+GluR6a-GluR6b-KA2 complex (mouse)	CORUM	Grik5	Grik2
+Grancalcin-sorcin complex (human)	CORUM	Gca	Sri
+Grb2-Lab-Blnk complex, BCR stimulated (mouse)	CORUM	Lat2	Blnk	Grb2
+Grb2-Shp2 complex, FGF stimulated (mouse)	CORUM	Ptpn11	Grb2
+Grb2-mSos1 complex (mouse)	CORUM	Grb2	Sos1
+Grin2a-Lrp8 complex (mouse)	CORUM	Lrp8
+Grin2b-Lrp8 complex (mouse)	CORUM	Grin2b	Lrp8
+Guanylyl cyclase, soluble (GUCY1A2, GUCY1B3) (human)	CORUM	Gucy1a2
+Guanylyl cyclase, soluble (GUCY1A3, GUCY1B3) (human)	CORUM
+H2AX complex I (human)	CORUM	Dhx30	Hspa5	Parp1	Calr
+H2AX complex II (human)	CORUM	Ptcd3	Hspa5	Calr
+H2AX complex, isolated from cells without IR exposure (human)	CORUM	Ssb	Supt16	Hspa5	Ssrp1	Hnrnpr	Eif3l	Calr	Calm1
+HBO1 complex (human)	CORUM	Ing5	Ing4	Meaf6
+HCF-1 complex (human)	CORUM	Hsp90aa1	Hdac1	Hsp90ab1	Hdac2	Hspa5	Hspa8	Wdr5	Hspa4	Sap30	Hcfc1	Sp1	Ash2l	Sin3b	Sin3a	Rbbp4	Suds3	Ogt	Rbbp7
+HDAC1-associated core complex cI (human)	CORUM	Kdm1a	Hdac1	Rcor1
+HDAC1-associated core complex cII (human)	CORUM	Mta2	Hdac1	Mbd2	Rbbp4	Mbd3	Gatad2a	Rbbp7	Chd3	Rcor1	Gatad2b
+HDAC1-associated protein complex (human)	CORUM	Kdm1a	Mta2	Hdac1	Mbd2	Rbbp4	Mbd3	Rbbp7	Chd3	Rcor1
+HDAC2-asscociated core complex (human)	CORUM	Mta2	Hdac2	Rbbp4	Mbd3	Gatad2a	Rbbp7	Chd3	Gatad2b
+HDAC4-ERK1 complex (human)	CORUM	Hdac4	Mapk3
+HDAC4-ERK2 complex (human)	CORUM	Hdac4	Mapk1
+HERP1/HEY2-NCOR-SIN3A complex (human)	CORUM	Ncor2	Hdac1	Sin3a
+HES1 promoter corepressor complex (human)	CORUM	Crebbp	Supt6	Polr2a	Cdk7	Ep300	Rbpj
+HES1 promoter-Notch enhancer complex (human)	CORUM	Med1	Supt6	Notch1	Supt16	Ccnt1	Maml1	Rbpj	Cdk9	Cdk8	Polr2a	Cdk7	Ep300	Inpp5k
+HESX1-TLE1 complex (human)	CORUM	Tle1	Hesx1
+HGF-Met complex (human)	CORUM	Hgf	Met
+HIF1A-OS9-EGLN1 complex (human)	CORUM	Egln1	Os9	Hif1a
+HIF1A-OS9-EGLN3 complex (human)	CORUM	Egln3	Os9	Hif1a
+HMGB1-HMGB2-HSC70-ERP60-GAPDH complex (human)	CORUM	Pdia3	Hspa8	Hmgb2
+HNF4A-SUB1 complex (human)	CORUM	Hnf4a	Sub1
+HPFH(-198) complex (mouse)	CORUM	Gtf2f1	Gtf2h4	Dnmt1
+HSF1-HSF2 complex (human)	CORUM	Hsf1	Hsf2
+HSP70-BAG5-PARK2 complex (human)	CORUM	Bag5	Hspa4	Hspa1b
+HSP90-CDC37-LRRK2 complex (human)	CORUM	Hsp90ab1	Cdc37	Lrrk2
+HSP90-CIP1-FKBPL complex (human)	CORUM	Hsp90aa1	Fkbpl	Cdkn1a
+HSP90-FKBP38-CAM-Ca(2+) complex (human)	CORUM	Hsp90aa1	Hsp90ab1	Fkbp8	Calm1
+HTR1A homodimer complex (human)	CORUM	Htr1a
+HTR1A-EDG1 complex (human)	CORUM	S1pr1	Htr1a
+HTR1A-EDG3 complex (human)	CORUM	S1pr3	Htr1a
+HTR1A-GPR26 complex (human)	CORUM	Gpr26	Htr1a
+HTR1A-HTR1B complex (human)	CORUM	Htr1b	Htr1a
+HTR1A-HTR1D complex (human)	CORUM	Htr1a
+HTR1B homodimer complex (human)	CORUM	Htr1b
+HTR1D  homodimer complex (human)	CORUM
+HTR1D-HTR1B complex (human)	CORUM	Htr1b
+HUIC complex (human)	CORUM	Brca1	Bard1
+Heterodimer complex (CDK9, IL6ST) (human)	CORUM	Cdk9	Il6st
+Heterodimer complex (Cdk9, Il6st) (mouse)	CORUM	Cdk9	Il6st
+Hip1R-cortactin complex (human)	CORUM	Cttn	Hip1r
+Histone H3.1 complex (human)	CORUM	Chaf1a	Chaf1b	Hat1	Rbbp4	Ipo4	Asf1a	Nasp	Asf1b
+Histone H3.3 complex (human)	CORUM	Hat1	Rbbp4	Ipo4	Asf1a	Nasp	Hira	Asf1b
+Homodimeric complex LTBR (human)	CORUM	Ltbr
+Homotetrameric complex NIAP (human)	CORUM
+Hop2-Mnd1 complex (mouse)	CORUM	Psmc3ip
+Hsp110-Hsc70-Hsp25 complex (mouse)	CORUM	Hsph1	Hspa8	Hspb1
+Htt-Dctn1-Hap1 complex (mouse)	CORUM	Htt	Hap1	Dctn1
+HuCHRAC complex (human)	CORUM	Chrac1	Pole3	Baz1a	Smarca5
+I(kappa)B(alpha)-NF(kappa)Bp50-NF(kappa)Bp65 complex (human)	CORUM	Rela	Nfkbia	Nfkb1
+I-kappa-B kinase (IKK) complex (human)	CORUM	Ikbkb	Chuk	Ikbkg
+IFNB1-IFNAR1-IFNAR2- complex (human)	CORUM	Ifnb1	Ifnar1	Ifnar2
+IFP35-NMI complex (human)	CORUM	Ifi35	Nmi
+IGF1-IGFBP3-ALS complex (human)	CORUM	Igfals	Igfbp3	Igf1
+IKB(alpha)-RELA-cREL complex (human)	CORUM	Rela	Nfkbia	Rel
+IKB(beta)-RELA-cREL complex (human)	CORUM	Nfkbib	Rela	Rel
+IKB(epsilon)-RELA-cREL complex (human)	CORUM	Rela	Rel	Nfkbie
+IKBKB-CDC37-KIAA1967-HSP90AB1-HSP90AA1 complex (human)	CORUM	Ikbkb	Hsp90aa1	Hsp90ab1	Cdc37
+IKBKG homotrimer complex (human)	CORUM	Ikbkg
+IKBKG-CHUK complex (human)	CORUM	Chuk	Ikbkg
+IKBKG-IKBKB  complex (human)	CORUM	Ikbkb	Ikbkg
+IKK-alpha--ER-alpha-AIB1 complex (human)	CORUM	Ncoa3	Chuk	Esr1
+IL-12 subunit p40 homodimer complex (human)	CORUM	Il12b
+ILF3-XPO5 complex (human)	CORUM	Xpo5	Ilf3
+ILK-PARVB-ARHGEF6 complex (human)	CORUM	Ilk	Parvb	Arhgef6
+IMP3-IMP4-MPP10 complex (human)	CORUM	Imp3	Imp4	Mphosph10
+ING1-p300-PCNA complex (human)	CORUM	Pcna	Ep300	Ing1
+ING2 complex (human)	CORUM	Sap130	Brms1	Hdac1	Hdac2	Sin3a	Rbbp4	Brms1l	Arid4a	Suds3	Rbbp7	Ing2	Sap30
+ING4 complex (ING4, MYST2, C1orf149, PHF15) (human)	CORUM	Ing4	Meaf6
+ING4 complex (ING4, MYST2, C1orf149, PHF16) (human)	CORUM	Ing4	Meaf6
+ING4 complex (ING4, MYST2, C1orf149, PHF17) (human)	CORUM	Ing4	Meaf6
+ING5 complex (human)	CORUM	Ing5	Brpf1	Brd1	Brpf3	Meaf6
+INO80 chromatin remodeling complex (human)	CORUM	Ino80d	Ino80c	Ino80e	Actr8	Mcrs1	Actl6a	Actr5	Ino80	Ruvbl1	Ruvbl2	Tcf3	Nfrkb	Ino80b
+IRF3-CBP complex (human)	CORUM	Cited1	Cited2	Cited4	Irf3
+ITAGV-ITGB3-F11R complex (human)	CORUM	Itgb3	Itgav	F11r
+ITCH-FAM/USP9x complex (human)	CORUM	Usp9x	Itch
+ITGA1-ITGB1-COL6A3 complex (human)	CORUM	Itga1	Itgb1	Col6a3
+ITGA1-ITGB1-PTPN2 complex (human)	CORUM	Itga1	Itgb1	Ptpn2
+ITGA10-ITGB1 complex (human)	CORUM	Itgb1	Itga10
+ITGA11-ITGB1 complex (human)	CORUM	Itgb1	Itga11
+ITGA11-ITGB1-COL1A1 complex (human)	CORUM	Itgb1	Col1a1	Itga11
+ITGA2-ITGB1 complex (human)	CORUM	Itgb1	Itga2
+ITGA2-ITGB1-CD47 complex (human)	CORUM	Itgb1	Itga2	Cd47
+ITGA2-ITGB1-CHAD complex (human)	CORUM	Itgb1	Itga2	Chad
+ITGA2-ITGB1-COL6A3 complex (human)	CORUM	Itgb1	Col6a3	Itga2
+ITGA2B-ITGB3 complex (human)	CORUM	Itga2b	Itgb3
+ITGA2B-ITGB3-CIB1 complex (human)	CORUM	Itga2b	Itgb3	Cib1
+ITGA2B-ITGB3-F11R complex (human)	CORUM	Itga2b	Itgb3	F11r
+ITGA2B-ITGB3-FN1-TGM2 complex (human)	CORUM	Tgm2	Itga2b	Itgb3	Fn1
+ITGA2B-ITGB3-ICAM4 complex (human)	CORUM	Itga2b	Itgb3	Icam4
+ITGA2b-ITGB3-CD47-FAK complex (human)	CORUM	Itga2b	Itgb3	Cd47	Ptk2
+ITGA2b-ITGB3-CD47-SRC complex (human)	CORUM	Src	Itga2b	Itgb3	Cd47
+ITGA2b-ITGB3-CD9 complex (human)	CORUM	Itga2b	Cd9	Itgb3
+ITGA2b-ITGB3-CD9-GP1b-CD47 complex (human)	CORUM	Itga2b	Cd9	Itgb3	Gp1bb	Gp1ba	Cd47
+ITGA2b-ITGB3-TLN1 complex (human)	CORUM	Itga2b	Itgb3	Tln1
+ITGA3-ITGB1 complex (human)	CORUM	Itgb1	Itga3
+ITGA3-ITGB1-BSG complex (human)	CORUM	Itgb1	Bsg	Itga3
+ITGA3-ITGB1-CD151 complex (human)	CORUM	Itgb1	Cd151	Itga3
+ITGA3-ITGB1-CD63 complex (human)	CORUM	Itgb1	Cd63	Itga3
+ITGA3-ITGB1-THBS1 complex (human)	CORUM	Itgb1	Itga3	Thbs1
+ITGA4-ITGB1 complex (human)	CORUM	Itgb1	Itga4
+ITGA4-ITGB1-CD47 complex (human)	CORUM	Itgb1	Itga4	Cd47
+ITGA4-ITGB1-CD53 complex (human)	CORUM	Itgb1	Cd53	Itga4
+ITGA4-ITGB1-CD81 complex (human)	CORUM	Itgb1	Itga4	Cd81
+ITGA4-ITGB1-EMILIN1 complex (human)	CORUM	Itgb1	Itga4	Emilin1
+ITGA4-ITGB1-JAM2 complex (human)	CORUM	Itgb1	Itga4	Jam2
+ITGA4-ITGB1-THBS1 complex (human)	CORUM	Itgb1	Itga4	Thbs1
+ITGA4-ITGB1-THBS2 complex (human)	CORUM	Itgb1	Itga4	Thbs2
+ITGA4-ITGB1-VCAM1 complex (human)	CORUM	Itgb1	Itga4	Vcam1
+ITGA4-PXN-GIT1 complex (human)	CORUM	Pxn	Itga4	Git1
+ITGA5-ITGB1-ADAM15 complex (human)	CORUM	Itgb1	Itga5	Adam15
+ITGA5-ITGB1-CAL4A3 complex (human)	CORUM	Col18a1	Itgb1	Itga5
+ITGA5-ITGB1-FN-1-NOV complex (human)	CORUM	Itgb1	Itga5	Fn1
+ITGA5-ITGB1-FN1-TGM2 complex (human)	CORUM	Tgm2	Itgb1	Itga5	Fn1
+ITGA5-ITGB1-SPP1 complex (human)	CORUM	Itgb1	Itga5	Spp1
+ITGA5-ITGB3-COL6A3 complex (human)	CORUM	Itga5	Col6a3	Itgb3
+ITGA5-ITGB4 complex (human)	CORUM	Itgb1	Itga5
+ITGA6-ITGB1 complex (human)	CORUM	Itgb1	Itga6
+ITGA6-ITGB1-CD151 complex (human)	CORUM	Itgb1	Cd151	Itga6
+ITGA6-ITGB1-CYR61 complex (human)	CORUM	Itgb1	Itga6
+ITGA6-ITGB4 complex (human)	CORUM	Itgb4	Itga6
+ITGA6-ITGB4-CD151 complex (human)	CORUM	Cd151	Itgb4	Itga6
+ITGA6-ITGB4-CD9 complex (human)	CORUM	Cd9	Itgb4	Itga6
+ITGA6-ITGB4-FYN complex (human)	CORUM	Itgb4	Fyn	Itga6
+ITGA6-ITGB4-LAMA5 complex (human)	CORUM	Itgb4	Lama5	Itga6
+ITGA6-ITGB4-Laminin10/12 complex (human)	CORUM	Itgb4	Lama5	Lamc1	Lamb2	Lamb1	Itga6
+ITGA6-ITGB4-SHC1-GRB2 complex (human)	CORUM	Shc1	Itgb4	Grb2	Itga6
+ITGA7-ITGB1-CD151 complex (human)	CORUM	Itgb1	Cd151	Itga7
+ITGA9-ITGB1-ADAM12 complex (human)	CORUM	Itgb1	Itga9	Adam12
+ITGA9-ITGB1-ADAM15 complex (human)	CORUM	Itgb1	Adam15	Itga9
+ITGA9-ITGB1-ADAM8 complex (human)	CORUM	Itgb1	Itga9	Adam8
+ITGA9-ITGB1-ADAM9 complex (human)	CORUM	Itgb1	Itga9	Adam9
+ITGA9-ITGB1-FIGF complex (human)	CORUM	Itgb1	Itga9
+ITGA9-ITGB1-SPP1 complex (human)	CORUM	Itgb1	Itga9	Spp1
+ITGA9-ITGB1-TNC complex (human)	CORUM	Itgb1	Itga9	Tnc
+ITGA9-ITGB1-VCAM1 complex (human)	CORUM	Itgb1	Itga9	Vcam1
+ITGA9-ITGB1-VEGFA complex (human)	CORUM	Itgb1	Itga9	Vegfa
+ITGA9-ITGB1-VEGFC complex (human)	CORUM	Itgb1	Itga9	Vegfc
+ITGAM-ITGB2-CD11 complex (human)	CORUM	Itgb2l	Cd63	Itgam
+ITGAV-ITGB1 complex (human)	CORUM	Itgb1	Itgav
+ITGAV-ITGB1-SPP1 complex (human)	CORUM	Itgb1	Spp1	Itgav
+ITGAV-ITGB3 complex (human)	CORUM	Itgb3	Itgav
+ITGAV-ITGB3-ADAM15 complex (human)	CORUM	Adam15	Itgb3	Itgav
+ITGAV-ITGB3-ADAM23 complex (human)	CORUM	Itgb3	Adam23	Itgav
+ITGAV-ITGB3-CD47-FCER2 complex (human)	CORUM	Itgb3	Itgav	Cd47	Fcer2a
+ITGAV-ITGB3-COL4A3 complex (human)	CORUM	Col4a3	Itgb3	Itgav
+ITGAV-ITGB3-EGFR complex (human)	CORUM	Itgb3	Itgav	Egfr
+ITGAV-ITGB3-LAMA4 complex (human)	CORUM	Itgb3	Lama4	Itgav
+ITGAV-ITGB3-NOV complex (human)	CORUM	Itgb3	Itgav
+ITGAV-ITGB3-PPAP2b complex (human)	CORUM	Itgb3	Itgav
+ITGAV-ITGB3-PXN-PTK2b complex (human)	CORUM	Pxn	Itgb3	Ptk2b	Itgav
+ITGAV-ITGB3-SLC3A2 complex (human)	CORUM	Itgb3	Slc3a2	Itgav
+ITGAV-ITGB3-SPP1 complex (human)	CORUM	Itgb3	Spp1	Itgav
+ITGAV-ITGB3-THBS1 complex (human)	CORUM	Itgb3	Thbs1	Itgav
+ITGAV-ITGB5 complex (human)	CORUM	Itgb5	Itgav
+ITGAV-ITGB5-ADAM9 complex (human)	CORUM	Itgb5	Adam9	Itgav
+ITGAV-ITGB5-CYR61 complex (human)	CORUM	Itgb5	Itgav
+ITGAV-ITGB5-ICAM4 complex (human)	CORUM	Itgb5	Icam4	Itgav
+ITGAV-ITGB5-PLAUR complex (human)	CORUM	Itgb5	Plaur	Itgav
+ITGAV-ITGB5-SPP1 complex (human)	CORUM	Itgb5	Spp1	Itgav
+ITGAV-ITGB6 complex (human)	CORUM	Itgb6	Itgav
+ITGAV-ITGB6-SPP1 complex (human)	CORUM	Itgb6	Spp1	Itgav
+ITGAV-ITGB6-TGFB3 complex (human)	CORUM	Tgfb3	Itgb6	Itgav
+ITGAV-ITGB8-MMP14-TGFB1 complex (human)	CORUM	Tgfb1	Mmp14	Itgb8	Itgav
+ITGAV-P2RY2-GNA12 complex (human)	CORUM	Gna12	P2ry2	Itgav
+ITGB1-ITGA9 complex (human)	CORUM	Itgb1	Itga9
+ITGB1-NRP1 complex (human)	CORUM	Nrp1	Itgb1
+ITGB3-ITGAV-CD47 complex (human)	CORUM	Itgb3	Itgav	Cd47
+ITGB3-ITGAV-VTN complex (human)	CORUM	Itgb3	Itgav	Vtn
+ITGB5-ITGAV-VTN complex (human)	CORUM	Itgb5	Itgav	Vtn
+ITGB6-FYN-FN1 complex (human)	CORUM	Itgb6	Fn1	Fyn
+ITK-SLP-76 complex, anti-TCR stimulated (human)	CORUM	Lcp2	Itk
+Ikaros complex (mouse)	CORUM	Smarcd1	Smarcd2	Smarcd3	Hdac2	Rbbp4	Ikzf1	Chd4	Ikzf2	Ikzf3	Smarca4
+Ikaros-NuRD complex (mouse)	CORUM	Hdac2	Ikzf1	Chd4	Ikzf2	Ikzf3
+Il3rb1-Shc-Ship complex, IL-3 stimulated (mouse)	CORUM	Inpp5d	Csf2rb2
+Integrator complex (human)	CORUM	Ints12	Ints2	Ints1	Ints10	Ints4	Ints3	Ints6	Ints5	Ints8	Ints7	Ints9
+Integrator-RNAPII complex (human)	CORUM	Ints12	Ints2	Ints1	Ints10	Ints4	Ints3	Polr2a	Polr2b	Ints6	Ints5	Ints8	Ints7	Ints9
+Interferon-stimulated gene factor 3 transcription complex ISGF3 (human)	CORUM	Stat1	Stat2	Irf9
+Isl1-Jak1-Stat3 complex (mouse)	CORUM	Stat3	Isl1	Jak1
+Isocitrate dehydrogenase, cytoplasmic (human)	CORUM	Idh1
+Itga-Itgb1-Ppap2b complex (mouse)	CORUM	Itgb1	Itga5
+Itga4-Itgb1-Adam2 complex (mouse)	CORUM	Itgb1	Adam2	Itga4
+Itga9-Itgb1-Thbs1 complex (mouse)	CORUM	Itgb1	Itga9
+Itgav-Itgb3-Gsn complex (mouse)	CORUM	Gsn	Itgb3	Itgav
+Itgax-Itgb2-Icam4 complex (mouse)	CORUM	Itgb2l	Itgax	Icam4
+JBP1-pICln complex (human)	CORUM	Clns1a	Prmt5	Snrpb
+JUND-FOSB-SMAD3-SMAD4 complex (human)	CORUM	Smad3	Jund	Smad4	Fosb
+KCNQ1 macromolecular complex (human)	CORUM	Ppp1cc	Kcnq1	Prkar2b	Prkar2a	Akap9	Prkacb	Ppp1ca	Ppp1cb	Prkaca
+KIN17-PCNA-RPA70 complex (human)	CORUM	Pcna	Rpa1	Kin
+KLC1-nKHC-uKHC kinesin complex (mouse)	CORUM	Kif5a	Kif5b
+KLC2-nKHC-uKHC kinesin complex (mouse)	CORUM	Kif5a	Kif5b	Klc2
+KSR1 homooligomer complex (human)	CORUM	Ksr1
+KSR1-BRAF-MEK complex (human)	CORUM	Map2k2	Ksr1	Map2k1	Braf
+KSR1-RAF1-MEK complex (human)	CORUM	Map2k2	Ksr1	Map2k1	Raf1
+Kaiso-NCOR complex (human)	CORUM	Kdm4a	Hdac3	Tbl1xr1	Ncor1	Coro2a	Kif11	Gps2	Zbtb33	Trim33
+Keap1-Nrf2-Cul3 complex (mouse)	CORUM	Keap1	Cul3	Nfe2l2
+Kif13a-AP1 complex (mouse)	CORUM	Ap1g1	Ap1g2	Kif13a	Ap1b1	Ap1m1
+Kif17-Lin10 complex (mouse)	CORUM	Kif17
+Kif17-Lin10-Lin2-Lin7-NR2B complex (mouse)	CORUM	Grin2b	Lin7b	Cask	Lin7a	Kif17
+Kif3-cadherin-catenin complex (mouse)	CORUM	Ctnnd1	Kif3b	Ctnnb1	Kifap3
+Kinase maturation complex 1 (human)	CORUM	Map3k3	Pdrg1	Map2k5	Ywhag	Hsp90aa1	Ywhae	Hsp90ab1	Ywhab	Hspa4	Ywhaz	Cdc37	Traf7	Ywhaq	Pfdn2	Ywhah	Mark2
+Kinase maturation complex 2 (human)	CORUM	Hsp90aa1	Hsp90ab1	Tbk1	Cdc37	Tbkbp1	Traf2	Tank	Azi2
+Kinase-scaffold-phosphatase complex, PKA-AKAP79-CaN (human)	CORUM	Ppp3ca	Prkar2a	Akap5
+Kir4.1-dystrophin complex, cortical astrocytes (mouse)	CORUM	Kcnj10	Dmd
+Kir6.2-Sur1 complex (mouse)	CORUM	Kcnj11	Abcc8
+Klf5-Pias1 complex (mouse)	CORUM	Klf5	Pias1
+Ksr1 complex (Ksr1, Mek, 14-3-3), unstimulated (mouse)	CORUM	Ywhag	Map2k2	Ywhae	Ywhab	Map2k1	Ksr1	Ywhah
+Ksr1 complex (Ksr1, Mek, 14-3-3, Mapk), EGF stimulated (mouse)	CORUM	Ywhag	Map2k2	Ywhae	Ywhab	Map2k1	Ksr1	Mapk1	Ywhah
+Ksr1-CK2 complex (mouse)	CORUM	Ksr1	Csnk2a1	Csnk2b
+Ksr1-CK2-MEK-14-3-3 complex, PDGF treated (mouse)	CORUM	Ywhag	Map2k2	Ywhae	Ywhab	Map2k1	Ksr1	Csnk2a1	Csnk2b	Ywhah
+Ksr1-Mek-Braf complex, EGF induced (mouse)	CORUM	Map2k2	Ksr1	Map2k1	Braf
+Ksr1-Mek-Braf-Erk complex, EGF induced (mouse)	CORUM	Map2k2	Map2k1	Ksr1	Mapk3	Mapk1	Braf
+Ksr1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated (mouse)	CORUM	Ksr1	Ppp2r1a	Ppp2ca
+Ksr1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated (mouse)	CORUM	Ksr1	Ppp2r2b	Ppp2r1a	Ppp2ca
+Ku antigen complex (human)	CORUM	Xrcc5	Xrcc6
+Ku antigen-NARG1 complex (human)	CORUM	Xrcc5	Xrcc6	Naa15
+Ku antigen-YY1-alphaMyHC promoter complex (human)	CORUM	Yy1	Xrcc5	Xrcc6
+Ku-ORC complex (human)	CORUM	Xrcc5	Xrcc6
+Ku70/Ku86/Werner complex (human)	CORUM	Xrcc5	Xrcc6
+Kv4.2-DPP10 channel complex (human)	CORUM	Dpp10	Kcnd2
+LARC complex (LCR-associated remodeling complex) (human)	CORUM	Smarcc1	Smarcd2	Smarcb1	Smarcc2	Hdac1	Hdac2	Actl6a	Mbd2	Smarce1	Mbd3	Chd4	Arid1a	Smarca4	Gatad2b	Actb	Mta2	Dpf2	Rbbp4	Hnrnpc
+LAT-GRB2 complex, Fyn-mLck(KA) or Syk kinase activated (human)	CORUM	Grb2	Lat
+LAT-PLC-gamma-1-p85-GRB2-CBL-VAV-SLP-76 signaling complex, C305 activated (human)	CORUM	Pik3r1	Plcg1	Grb2	Lcp2	Vav1	Cbl	Lat
+LAT-PLC-gamma-1-p85-GRB2-SOS signaling complex, C305 activated (human)	CORUM	Pik3r1	Plcg1	Grb2	Lat	Sos1
+LAT2-ITGB1 complex (human)	CORUM	Itgb1	Slc7a8
+LATS1-HTRA2-BIRC4 complex (human)	CORUM	Lats1	Xiap	Htra2
+LCK-SLP76-PLC-gamma-1-LAT complex, pervanadate-activated (human)	CORUM	Lck	Plcg1	Lcp2	Lat
+LIFR-LIF-gp130 complex (human)	CORUM	Lif	Lifr	Il6st
+LIG1-9-1-1 complex (human)	CORUM	Lig1	Hus1	Rad1	Rad9a
+LIN2-LIN7 complex (human)	CORUM	Cask	Lin7a
+LIN2-LIN7-SAP97-MINT1 complex (human)	CORUM	Dlg1	Cask	Lin7a	Apba1
+LIN9-BMYB complex (human)	CORUM	Lin9	Mybl2
+LINC complex, S-phase (human)	CORUM	Rbl1	Lin9	Lin37	Rbbp4	Lin52	Mybl2	Lin54
+LINC complex, quiescent cells (human)	CORUM	Rbl2	Lin9	Lin37	Rbbp4	E2f4	Lin52	Lin54
+LINC core complex (human)	CORUM	Lin9	Lin37	Rbbp4	Lin52	Lin54
+LINGO-1-Nogo-66-p75 signaling complex (human)	CORUM	Ngfr	Rtn4r	Lingo1
+LLGL1-PAR-6B-PRKCI complex (human)	CORUM	Prkci	Pard6b	Llgl1
+LLGL2-PAR-6B-PRKCI complex (human)	CORUM	Prkci	Pard6b	Llgl2
+LMO4-BRCA1-CTIP-LDB1 complex (human)	CORUM	Ldb1	Lmo4	Brca1	Rbbp8
+LMO4-CREB complex (human)	CORUM	Creb1	Lmo4
+LMO4-gp130 complex (human)	CORUM	Socs3	Lmo4	Ptpn11	Il6st	Jak1
+LRP-1-Alpha-2-M-annexin VI complex (human)	CORUM	Lrp1	Anxa6	A2m
+LSD1 complex (human)	CORUM	Kdm1a	Hdac1	Ctbp1	Phf21a	Phf21b	Zmym2	Zfp217	Hmg20b	Rreb1	Hmg20a	Rcor3	Hspa1b	Rcor1
+LSD1-CoREST complex (human)	CORUM	Kdm1a	Rcor1
+LSm1-7 complex (human)	CORUM	Lsm7	Lsm2	Lsm1	Lsm6	Lsm5	Lsm4	Lsm3
+LSm2-8 complex (human)	CORUM	Lsm7	Lsm2	Naa38	Lsm6	Lsm5	Lsm4	Lsm3
+Lab-Grb2 complex, BCR stimulated (mouse)	CORUM	Lat2	Grb2
+Large Drosha complex (human)	CORUM	D1Pas1	Fus	Taf15	Ddx17	Ddx5	Ddx1	Hnrnpu	Ewsr1	Ilf2	Ilf3	Srpk1	Hnrnpm	Hnrnpul1	Hnrnph1	Dhx15	Dgcr8	Raly	Tardbp
+Ldb1-Lmo2-Gata-1-Tal1-E47 complex (mouse)	CORUM	Lmo2	Ldb1	Tal1	Tcf3	Gata1
+Lef1-Tle1 complex (mouse)	CORUM	Lef1	Tle1
+Lef1-Tle1-Ctnnb1 complex (mouse)	CORUM	Lef1	Tle1	Ctnnb1
+Limd1-p62-Traf6-Prkcz complex (mouse)	CORUM	Prkcz	Traf6	Sqstm1	Limd1
+Lymphotoxin beta receptor complex (human)	CORUM	Ltbr	Ltb	Lta
+MAD-MAX complex (human)	CORUM	Max	Mxd1
+MAD1-mSin3A-HDAC2 complex (human)	CORUM	Mxd1	Hdac2	Sin3a
+MAD2-CDC20 complex (human)	CORUM	Mad2l1	Cdc20
+MAF1 complex (human)	CORUM	Rb1	Mrfap1
+MAF2 complex (human)	CORUM
+MALT1 oligomer complex (human)	CORUM	Malt1
+MAML2-RBP-Jkappa-Notch3 complex (mouse)	CORUM	Notch3	Maml2	Rbpj
+MAML3-RBP-Jkappa-Notch3 complex (mouse)	CORUM	Notch3	Maml3	Rbpj
+MAP2K1-BRAF-RAF1-YWHAE-KSR1 complex (human)	CORUM	Ywhae	Ksr1	Map2k1	Braf	Raf1
+MBD1-MCAF complex (human)	CORUM	Atf7ip	Mbd1
+MBD1-MCAF1-SETDB1 complex (human)	CORUM	Atf7ip	Mbd1	Setdb1
+MBD1-Suv39h1-HP1 complex (human)	CORUM	Cbx5	Mbd1	Suv39h1
+MCL1-BAK1 complex (human)	CORUM	Mcl1
+MCM complex (human)	CORUM	Mcm4	Mcm5	Mcm6	Mcm7	Mcm2	Mcm3
+MCM8-ORC2-CDC6 complex (human)	CORUM	Mcm8	Cdc6
+MDC1-H2AFX-TP53BP1 complex (human)	CORUM	Mdc1	Trp53bp1
+MDC1-MRE11-RAD50-NBS1 complex (human)	CORUM	Mdc1	Nbn	Rad50
+MDC1-MRN-ATM-FANCD2 complex (human)	CORUM	Mdc1	Fancd2	Nbn	Atm	Rad50
+MDC1-p53BP1-SMC1 complex (human)	CORUM	Mdc1	Trp53bp1	Smc1a
+MED18-MED20-MED29 mediator subcomplex (human)	CORUM	Med20	Med18	Med29
+MGC1-DNA-PKcs-Ku complex (human)	CORUM	Mdc1	Xrcc5	Xrcc6
+MIRO2-Milton complex (human)	CORUM	Rhot2	Trak1
+MKK4-ARRB2-ASK1 complex (human)	CORUM	Map2k4	Arrb2	Map3k5
+MKK4-ARRB2-JNK3 complex (human)	CORUM	Map2k4	Mapk10	Arrb2
+MKP3-CK2alpha complex (mouse)	CORUM	Dusp6	Csnk2a1
+MLL-HCF complex (human)	CORUM	Rbbp5	Ash2l	Wdr5	Serpind1	Hcfc1	Men1
+MLL1-WDR5 complex (human)	CORUM	Mgam	Tex10	Mcrs1	Hspa4	Senp3	Hcfc1	Taf1	Las1l	Taf9	Prpf31	Taf7	Taf6	Taf4	Rnf2	Ino80c	Phf20	Wdr5	Chd8	Pelp1	Ruvbl1	Rbbp5	Ash2l	E2f6
+MMP-2-claudin-1 complex (human)	CORUM	Mmp2	Cldn1
+MMP-9-TIMP-1-LRP complex (human)	CORUM	Lrp1	Timp1	Mmp9
+MNK1-eIF4F complex (human)	CORUM	Mknk1	Eif4g1	Eif4g2
+MPP4-MPP5-CRB1 complex (human)	CORUM	Crb1	Mpp4
+MR-UBC9-SRC1 complex (human)	CORUM	Ppp3ca	Ncoa1	Nr3c2
+MRIP-MBS-RHOA complex (human)	CORUM	Rhoa	Ppp1r12a	Mprip
+MRIT complex (human)	CORUM	Casp8	Bcl2l1	Cflar
+MRN complex (MRE11-RAD50-NBN complex) (human)	CORUM	Nbn	Rad50
+MRN-TRRAP complex (MRE11A-RAD50-NBN-TRRAP complex) (human)	CORUM	Trrap	Nbn	Rad50
+MSH2-MSH3 complex (human)	CORUM	Msh3	Msh2
+MSH2-MSH6 complex (human)	CORUM	Msh6	Msh2
+MSH2-MSH6-PMS1-MLH1 complex (human)	CORUM	Mlh1	Msh6	Msh2	Pms1
+MSH2/6-BLM-p53-RAD51 complex (human)	CORUM	Rad51	Blm	Msh6	Msh2	Trp53
+MSH4-MSH5-GPS2 complex (human)	CORUM	Msh4	Gps2	Msh5
+MSL complex (human)	CORUM	Msl3	Msl2
+MT1-MMP-claudin-1 complex (human)	CORUM	Mmp14	Cldn1
+MTA1 complex (human)	CORUM	Mta1	Hdac1	Hdac2	Rbbp4	Mbd3	Rbbp7
+MTA1-HDAC core complex (human)	CORUM	Mta1	Hdac1	Hdac2	Rbbp4	Rbbp7
+MTA2 complex (human)	CORUM	Mta2	Hdac1	Hdac2	Sin3b	Sin3a	Rbbp4	Mbd3	Rbbp7	Chd4
+MURR1-NF(kappa)Bp65-IKBA complex (human)	CORUM	Rela	Nfkbia	Commd1
+MUS81-CDS1 complex (human)	CORUM	Cds1	Mus81
+MYC-MAX complex (human)	CORUM	Max	Myc
+Mad-Max-mSin3B complex (mouse)	CORUM	Mxd1	Sin3b
+Mad-Max-mSin3a complex (mouse)	CORUM	Mxd1	Sin3a
+Mdm2-P53 complex (mouse)	CORUM	Mdm2
+MeCP1 complex (human)	CORUM	Mta2	Hdac1	Hdac2	Mbd2	Rbbp4	Mbd3	Rbbp7	Chd4	Gatad2b
+MeCP2-SIN3A-HDAC complex (human)	CORUM	Mecp2	Hdac1	Hdac2	Sin3a
+Mediator complex (human)	CORUM	Med1	Cdk19	Med4	Med9	Med28	Med13l	Med6	Med7	Med29	Med8	Med24	Med23	Med26	Cdk8	Med25	Med20	Med22	Med21	Ccnc	Med17	Med16	Med19	Med18	Med13	Med12	Med15	Med14	Med31	Med30	Opa1	Med11
+Mediator complex (mouse)	CORUM	Brd4	Med1	Usp49	Ccnc	Med17	Med16	Med6	Med7	Med24	Med23	Med12	Med14	Med21
+Meiotic cohesin complex (mouse)	CORUM	Rec8	Gm28961	Smc1b
+Mekk1-Axin complex (mouse)	CORUM	Map3k1	Axin1
+Membrane protein complex (VCP, UFD1L, SEC61B) (human)	CORUM	Vcp	Sec61b
+Membrane-associated multicomponent signaling complex, anti-CD40 stimulated (Cd40, Ikbkg, Map3k1, Traf2, Ube2n) (mouse)	CORUM	Map3k1	Cd40	Traf2	Ikbkg
+Menin-associated histone methyltransferase complex (human)	CORUM	Rbbp5	Polr2b	Ash2l	Wdr5	Dpy30	Men1
+Meprin A (human)	CORUM	Mep1b
+Metallothionein-3 complex (mouse)	CORUM	Dpysl2	Actb	Hsp90ab1	Ckb	Hspa1b
+Metaxin complex (mouse)	CORUM	Mtx2	Mtx1
+Mi-2/NuRD-MTA2 complex (human)	CORUM	Mta2	Hdac1	Bcl6	Mbd3	Mta3
+Mi2/NuRD complex (human)	CORUM	Mta2	Hdac1	Hdac2	Rbbp4	Mbd3	Rbbp7	Chd4
+Mi2/NuRD-BCL6-MTA3 complex (human)	CORUM	Hdac1	Bcl6	Mbd3	Chd4	Mta3
+Microprocessor complex (human)	CORUM	Dgcr8
+Mitotic checkpoint complex (MCC) (human)	CORUM	Bub1b	Bub3	Mad2l1	Cdc20
+Mlx-Mad1 complex (mouse)	CORUM	Mxd1	Mlx
+Molybdopterin synthase (human)	CORUM	Mocs2
+MondoA-Mlx complex (mouse)	CORUM	Mlx	Mlxip
+Mss4-Itga3 complex (mouse)	CORUM	Itga3	Rabif
+Mss4-Itga7 complex (mouse)	CORUM	Itga7	Rabif
+Mt3-Hsp84-Ck complex (mouse)	CORUM	Hsp90ab1	Ckb
+Multicomponent signaling complex, anti-CD40 stimulated (Birc2, Birc3, Cd40, Ikbkg, Map2k4, Map2k7, Map3k1, Traf2, Ube2n) (mouse)	CORUM	Map2k4	Map3k1	Cd40	Traf2	Ikbkg	Birc2	Birc3
+Multicomponent signaling complex, anti-CD40 stimulated,(Birc2, Birc3, Cd40, Ikbkg, Map3k1, Traf2, Ube2n) (mouse)	CORUM	Map3k1	Cd40	Traf2	Ikbkg	Birc2	Birc3
+Multisubunit ACTR coactivator complex (human)	CORUM	Ncoa3	Crebbp	Kat2b	Ep300
+Multisynthetase complex (human)	CORUM	Aimp2	Aimp1	Eef1e1
+MutL-alpha complex (human)	CORUM	Mlh1	Pms2
+MutL-beta complex (human)	CORUM	Mlh1	Pms1
+MutS-alpha-PK-zeta complex (human)	CORUM	Prkcz	Msh6	Msh2
+MutS-alpha-histone H4 complex (mouse)	CORUM	Msh6	Msh2
+Myod1 homodimer complex (mouse)	CORUM	Myod1
+Myod1-Tcf3 complex (mouse)	CORUM	Myod1	Tcf3
+N-NOS-CHIP-HSP70-1 complex (human)	CORUM	Nos1	Stub1	Hspa1b
+NAT complex (human)	CORUM	Med23	Cdk8	Med14	Med21	Ccnc	Med6
+NCBP-NIP1 complex (human)	CORUM	Necab3	Ncbp1
+NCOA6-DNA-PK-Ku-PARP1 complex (human)	CORUM	Xrcc5	Ncoa6	Xrcc6	Parp1
+NCOR complex (human)	CORUM	Hdac3	Tbl1xr1	Ncor1	Coro2a	Gps2
+NCOR-HDAC3 complex (human)	CORUM	Hdac3	Ncor1	Tbl1xr1	Gps2
+NCOR-SIN3-HDAC-HESX1 complex (human)	CORUM	Ncor2	Hdac1	Hdac2	Sin3b	Sin3a	Hesx1
+NCOR-SIN3-HDAC1 complex (human)	CORUM	Ncor2	Hdac1	Sin3a
+NCOR-SIN3-RPD3 complex (human)	CORUM	Ncor2	Hdac2	Sin3b	Sin3a
+NCOR1 complex (human)	CORUM	Smarcc1	Smarcc2	Hdac3	Smarcb1	Sf3b3	Ncor1	Srcap	Trim28	Sf3a1	Smarca4
+NCOR2 complex (human)	CORUM	Hdac3	Ncor1	Ncor2	Hdac1	Hdac2	Sin3a	Sap30
+NDC80 kinetochore complex (human)	CORUM	Spc24	Nuf2	Spc25	Ndc80
+NDPKA-AMPKalpha1 complex (human)	CORUM	Prkaa1	Nme1
+NELF complex (Negative elongation factor complex) (human)	CORUM
+NEMO-HIF2(alpha)-ARNT complex (human)	CORUM	Epas1	Arnt	Ikbkg
+NFAT-JUN-FOS DNA-protein complex (human)	CORUM	Jun	Fos	Nfatc2
+NGF-TrkA complex (human)	CORUM	Ntrk1	Ngf
+NGF-p75 complex (human)	CORUM	Ngfr	Ngf
+NK-3-Groucho complex (human)	CORUM	Tle4	Tle3	Tle2	Tle1	Nkx3-1	Tle6	Nkx3-2
+NK-3-Groucho-HIPK2-SIN3A-RbpA48-HDAC1 complex (human)	CORUM	Tle4	Tle3	Tle2	Hdac1	Tle1	Sin3a	Rbbp4	Nkx3-1	Hipk2	Tle6	Nkx3-2
+NOS3-CAV1-NOSTRIN complex (human)	CORUM	Nos3	Cav1	Nostrin
+NR3C2-UBC9-SRC-1 complex (human)	CORUM	Ube2i	Ncoa1	Nr3c2
+NRD complex (Nucleosome remodeling and deacetylation complex) (human)	CORUM	Mta1	Kdm1a	Hdac1	Hdac2	Rbbp4	Chd4	Chd3
+NRG1-IKZF4 complex (human)	CORUM	Nrg1	Ikzf4
+NRP1-VEGF(165/121) complex (human)	CORUM	Nrp1	Vegfa
+NRP1-VEGFC complex, heparin dependent (human)	CORUM	Nrp1	Vegfc
+NRP1-VEGFD complex, heparin dependent (human)	CORUM	Nrp1
+NRP2-VEGFC complex (human)	CORUM	Nrp2	Vegfc
+NRP2-VEGFD complex, heparin dependent (human)	CORUM	Nrp2
+NRP2-VEGFR3 complex (human)	CORUM	Nrp2	Flt4
+NUMAC complex (nucleosomal methylation activator complex) (human)	CORUM	Smarcd1	Smarcc1	Actb	Smarcc2	Smarcb1	Smarce1	Carm1	Arid1a	Scyl1	Smarca4
+NUMB-TP53-MDM2 complex (human)	CORUM	Trp53	Mdm2	Numb
+Neddylin ligase (FBXO11, SKP1, CUL1, RBX1) (human)	CORUM	Cul1	Fbxo11	Rbx1	Skp1
+Neurotrophin-3-p75 complex (human)	CORUM	Ngfr	Ntf3
+Ng2-Grip1-Glur2 complex (mouse)	CORUM	Gria2	Grip1	Cspg4
+Nitric oxide synthase-dystrophin complex, skeletal muscle (mouse)	CORUM	Nos1	Dmd
+Nop56p-associated pre-rRNA complex (human)	CORUM	Tufm	Rps8	Rps9	Rps6	Rps7	Ilf2	Ilf3	Hnrnpm	Rpl28	Rpl27	Rpl11	Hnrnpu	Tubb1	Nolc1	Fbl	Tcof1	Rpl14	Rpl19	Rpl18	Eef2	Srpk1	Ncl	Rps23	Pwp1	Rpl30	Rpl35	Actg2	Rpl8	Rps16	Rps15	Rps17	Rpl36	Brix1	Rps14	Rps3a1	Nap1l1	Gnl3	Acta2	Top1	Luc7l2	Dhx9	Rps15a	Lyar	Nop58	Rsl1d1	Ebna1bp2	Mybbp1a	Nop56	Rbm28	Rplp2	Rplp1	Ybx1	Ddx21	U2af2	U2af1	Tuba1a	Igf2bp1	Scyl2
+Notch1(N-TM)-Notch1(N-EC) heterodimer complex (mouse)	CORUM	Notch1
+Notch1-p56lck-PI3K complex (human)	CORUM	Lck	Notch1	Pik3r1
+Notch2(N-TM)-Notch2(N-EC)-Delta complex (human)	CORUM	Notch2	Dll1	Dll3	Dll4
+NuA4/Tip60 HAT complex (human)	CORUM	Trrap	Meaf6	Actl6a	Ruvbl1	Morf4l2	Vps72	Ing3	Yeats4	Kat5	Ruvbl2	Epc1	Ep400	Dmap1	Brd8
+NuA4/Tip60-HAT complex A (human)	CORUM	Trrap	Meaf6	Actl6a	Ruvbl1	Ing3	Yeats4	Kat5	Ruvbl2	Epc1	Epc2	Ep400	Dmap1	Brd8
+NuA4/Tip60-HAT complex B (human)	CORUM	Ruvbl1	Trrap	Kat5	Actl6a	Ruvbl2	Epc1	Dmap1
+NuMA-LGN-G-alpha-i-1 complex (human)	CORUM	Gpsm2	Numa1	Gnai1
+NuRD.1 complex (human)	CORUM	Mta1	Hdac1	Hdac2	Rbbp4	Mbd3	Rbbp7	Chd4	Mta3
+Nucleic and chromatin Fanconi complex (human)	CORUM	Fanca	Fancc	Fancf	Fance	Fancg
+Nucleolar remodeling complex (NoRC complex) (human)	CORUM	Baz2a	Smarca5
+Nucleolar remodeling complex (NoRC complex) (mouse)	CORUM	Baz2a
+Nup 107-160 subcomplex (human)	CORUM	Seh1l	Nup107	Sec13	Nup98	Nup43	Nup85	Nup133	Nup160	Nup37
+OAP-1-OSP/claudin-11-ITGB1 complex (mouse)	CORUM	Itgb1	Cldn11	Tspan3
+OCT1-OBF1-DNA complex (human)	CORUM	Pou2f1	Pou2af1
+OCT1-OBF1-DNA-TLE1 complex (human)	CORUM	Pou2f1	Tle1	Pou2af1
+OCT1-SOX2 DNA-protein complex (human)	CORUM	Pou2f1	Sox2
+OCT2-TLE4 complex (human)	CORUM	Tle4	Pou2f2
+OCT4-SOX2 DNA-protein complex (human)	CORUM	Sox2	Pou5f1
+OGT-TRAK1-TRAK2 complex (human)	CORUM	Ogt	Trak2	Trak1
+ORC complex (origin recognition complex) (human)	CORUM
+Ocrl-Cdc42 complex (mouse)	CORUM	Ocrl
+Oligosaccharyltransferase complex (Stt3A variant) (human)	CORUM	Ddost	Magt1	Rpn1	Dad1	Rpn2	Stt3a
+Oligosaccharyltransferase complex (Stt3B variant) (human)	CORUM	Ddost	Magt1	Rpn1	Tusc3	Dad1	Rpn2	Stt3b
+P-TEFb-7SKRNA-HEXIM1 complex (human)	CORUM	Cdk9	Hexim1	Ccnt1
+P-TEFb-BRD4-TRAP220 complex (human)	CORUM	Brd4	Med1	Cdk9	Ccnt1
+P-TEFb-SKP2 complex (human)	CORUM	Cdk9	Ccnt1	Skp2
+P-TEFb.1 complex (human)	CORUM	Cdk9	Ccnt1
+P-TEFb.2 complex (human)	CORUM	Cdk9	Ccnt2
+P-TEFb.4 complex (human)	CORUM	Cdk9	Ccnk
+P2X7 receptor signalling complex (human)	CORUM	Itgb2l	Mpp3	Actb	P2rx7	Svil	Actn4	Hsp90ab1	Lama3	Ptprb	Hspa8	Pi4ka	Hspa1b
+P53-BARD1-Ku70 complex (human)	CORUM	Xrcc6	Trp53	Bard1
+PA28 complex (human)	CORUM	Psme2b	Psme1
+PA28-20S proteasome (human)	CORUM	Psma6	Psmb7	Psma7	Psma4	Psmb5	Psma5	Psmb6	Psma2	Psmb3	Psma3	Psmb4	Psmb1	Psma1	Psmb2	Psme2b	Psme1
+PA28gamma complex (human)	CORUM	Psme3
+PA28gamma-20S proteasome (human)	CORUM	Psma6	Psmb7	Psma7	Psma4	Psmb5	Psma5	Psmb6	Psma2	Psmb3	Psma3	Psmb4	Psmb1	Psma1	Psmb2	Psme3
+PA700 complex (human)	CORUM	Psmd11	Psmd10	Psmd13	Psmd12	Psmd14	Psmd9	Psmd7	Psmc6	Psmd5	Psmd6	Psmc5	Psmd3	Psmc2	Psmd4	Psmc3	Psmd1	Psmd2
+PA700-20S-PA28 complex (human)	CORUM	Psma6	Psma7	Psma4	Psmc6	Psma5	Psma2	Psmc5	Psma3	Psmc2	Psma1	Psmc3	Psme2b	Psme1	Psmd11	Psmd10	Psmd13	Psmd12	Psmd14	Psmd9	Psmb7	Psmd7	Psmb5	Psmb6	Psmd5	Psmb3	Psmd6	Psmb4	Psmb1	Psmd3	Psmd4	Psmb2	Psmd1	Psmd2
+PAC1-PAC2 complex (human)	CORUM	Psmg2	Psmg1
+PAC3-PAC4 complex (human)	CORUM	Psmg4	Psmg3
+PAR-6-PAR-3-VE-cadherin complex, endothelial (human)	CORUM	Pard6a	Cdh5	Pkhd1	Pard6g
+PAR-6-VE-cadherin complex, endothelial (human)	CORUM	Pard6a	Cdh5	Pard6g
+PAR3-PAR6-PALS1 complex (human)	CORUM	Pard6a	Pkhd1
+PAR4-BACE1 complex (human)	CORUM	Pawr	Bace1
+PAR6-CDC42 complex (human)	CORUM	Pard6b
+PARVB-ARHGEF6 complex (human)	CORUM	Parvb	Arhgef6
+PAX6-SOX2 DNA-protein complex (human)	CORUM	Sox2	Pax6
+PAX9-MSX1 complex (human)	CORUM	Pax9	Msx1
+PBAF complex (Polybromo- and BAF containing complex) (human)	CORUM	Smarcd1	Smarcc1	Actb	Smarcc2	Smarcb1	Pbrm1	Actl6a	Smarce1	Actl6b	Actg1	Smarca4	Arid2
+PC2 complex (human)	CORUM	Med24	Med14	Med20	Med31	Thrap3	Med21	Med17	Med16	Med6	Med7
+PCAF complex (human)	CORUM	Taf6l	Taf5l	Tada2a	Kat2b	Trrap	Tada3	Taf12	Taf9	Taf10	Supt3
+PCI-PSA-SCG2 complex (human)	CORUM	Klk1b24	Scg2	Serpina5
+PCNA homotrimer complex (human)	CORUM	Pcna
+PCNA-CHL12-RFC2-5 complex (human)	CORUM	Pcna	Rfc4	Rfc5	Rfc2	Rfc3	Chtf18
+PCNA-DNA ligase complex (mouse)	CORUM	Lig1	Pold2
+PCNA-DNA polymerase delta complex (human)	CORUM	Pcna	Pold4	Pold1	Pold2
+PCNA-KU antigen complex (human)	CORUM	Pcna	Xrcc5	Xrcc6
+PCNA-MLH1-PMS1 complex (human)	CORUM	Pcna	Mlh1	Pms1
+PCNA-MSH2-MSH6 complex (human)	CORUM	Pcna	Msh6	Msh2
+PCNA-MutS-alpha-MutL-alpha-DNA complex (human)	CORUM	Pcna	Mlh1	Msh6	Msh2	Pms2
+PCNA-PAF complex (human)	CORUM	Pcna
+PCNA-p21 complex (human)	CORUM	Pcna	Cdkn1a
+PDGFRA-SHP-2 complex, PDGF stimulated (human)	CORUM	Pdgfra	Ptpn11
+PDZK1-NaPiIIa-MAP17 complex (mouse)	CORUM	Slc34a1	Pdzk1	Pdzk1ip1
+PGAM5-KEAP1-NRF2 complex (human)	CORUM	Keap1	Pgam5	Nfe2l2
+PGC-1-SRp40-SRp55-SRp75 complex (human)	CORUM	Ppargc1a
+PHAX-CBC complex (cap binding complex) (human)	CORUM	Ncbp2	Ncbp1	Phax
+PIAS3-SMAD3-P300 complex (human)	CORUM	Smad3	Ep300	Pias3
+PIDDsome complex (human)	CORUM	Cradd	Casp2
+PINK1-MIRO2-Milton complex (human)	CORUM	Pink1	Rhot2	Trak1
+PIP complex (mouse)	CORUM	Lims1	Parva
+PKC-alpha-PLD1-PLC-gamma-2 signaling complex, lacritin stimulated (human)	CORUM	Prkca	Plcg2	Pld1
+PLC-gamma-1-LAT-c-CBL complex, OKT3 stimulated (human)	CORUM	Plcg1	Cbl	Lat
+PLC-gamma-1-Lab-Blnk complex, BCR stimulated (mouse)	CORUM	Lat2	Blnk	Plcg1
+PLC-gamma-1-SLP-76-SOS1-LAT complex (human)	CORUM	Plcg1	Lcp2	Lat	Sos1
+PLC-gamma-2-LAT complex (human)	CORUM	Plcg2	Lat
+PLC-gamma-2-Lab-Blnk complex, BCR stimulated (mouse)	CORUM	Lat2	Blnk	Plcg2
+PLC-gamma-2-Lyn-FcR-gamma complex (human)	CORUM	Lyn	Plcg2
+PLC-gamma-2-SLP-76 complex (human)	CORUM	Lcp2	Plcg2
+PLC-gamma-2-SLP-76-Lyn-Grb2 complex (human)	CORUM	Lyn	Lcp2	Grb2	Plcg2
+PLC-gamma-2-Syk-LAT-FcR-gamma complex (human)	CORUM	Syk	Plcg2	Lat
+PLCB1-PARD3-PARD6A complex (human)	CORUM	Pard6a	Pkhd1	Plcb1
+PLCB3-PARD3-PARD6A complex (human)	CORUM	Pard6a	Pkhd1	Plcb3
+PLEKHM2-KIF5B complex (human)	CORUM	Kif5b	Plekhm2
+PLXNA2-RANBPM complex (human)	CORUM	Plxna2	Ranbp9
+PLXNA3-RANBPM complex (human)	CORUM	Plxna3	Ranbp9
+PLXNA4-RANBPM complex (human)	CORUM	Ranbp9	Plxna4
+PML-SMAD2/3-SARA complex (human)	CORUM	Smad3	Smad2	Zfyve9	Pml
+PNUTS-PP1 complex (human)	CORUM	Ppp1r10	Ppp1ca
+POLR2A-CCNT1-CDK9-NCL-LEM6-CPSF2 complex (human)	CORUM	Cdk9	Polr2a	Cpsf2	Ccnt1	Ncl	Ppargc1a
+POSH-AKT2 complex (human)	CORUM	Akt2	Sh3rf1
+POSH-MLK3 complex (human)	CORUM	Map3k11	Sh3rf1
+PPD complex (human)	CORUM	Pink1	Park7
+PPP2R1A-PPP2R1B-PPP2CA-PPME1-EIF4A1 complex (human)	CORUM	Ppme1	Ppp2r1b	Ppp2r1a	Ppp2ca
+PPP4C-PPP4R2-Gemin3-Gemin4 complex (human)	CORUM	Ppp4c	Gemin4	Ddx20
+PRKAC-AKAP5-ADRB1 complex (human)	CORUM	Adrb1	Prkacb	Akap5	Prkaca
+PRL receptor (PRLR) dimer complex (human)	CORUM	Prlr
+PRMT1 complex (human)	CORUM	Prmt1
+PRMT2 homo-oligomer complex (human)	CORUM	Prmt2
+PRMT5 complex (human)	CORUM	Prmt5
+PRNP-ApolopoproteinE3 complex (human)	CORUM	Prnp
+PS1-E-cadherin-catenin complex, brain (mouse)	CORUM	Cdh1	Ctnnb1	Psen1
+PSD95-FYN-NR2A complex (human)	CORUM	Grin2a	Dlg4	Fyn
+PSF-p54(nrb) complex (human)	CORUM	Nono	Sfpq
+PTF1 complex (Ptf1a, Tcf12, Rbpj) (mouse)	CORUM	Tcf12	Ptf1a	Rbpj
+PTF1-bHLH complex (human)	CORUM	Tcf12	Ptf1a
+PTIP-DNA damage response complex (human)	CORUM	Paxip1	Blm	Nbn	Trp53bp1	Rad50
+PTIP-HMT complex (human)	CORUM	Paxip1	Ncoa6	Rbbp5	Ash2l	Wdr5	Dpy30	Kdm6a
+PU.1-SIN3A-HDAC complex (human)	CORUM	Spi1	Hdac1	Sin3a
+PU.1-Sin3A-Hdac-MeCP2 complex (mouse)	CORUM	Mecp2	Sin3a
+PU.1-TBP complex (human)	CORUM	Tbp	Spi1
+PU.1-associated protein complex (mouse)	CORUM	Mecp2	Ncl
+PXN-ITGB5-PTK2 complex (human)	CORUM	Pxn	Itgb5	Ptk2
+PYR complex (mouse)	CORUM	Smarcd1	Smarcc2	Smarcb1	Hdac2	Actl6a	Actl6b	Ikzf1	Chd4	Actb	Rbbp7
+Paf complex (human)	CORUM	Ctr9	Leo1	Cdc73	Paf1
+Pallidin-Mu complex (mouse)	CORUM
+Par-3-p75NTR complex (mouse)	CORUM	Ngfr	Pard3
+Parvulin-associated pre-rRNP complex (mouse)	CORUM	Rps9	Fn1	Gnl2	Gtpbp4	Bop1	Eef1g	Cebpz	Gas8	Nop2	Fbl	Rpf2	Pes1	Rpl14	Rps3	Nop58	Ddx56	Mnd1	Ftsj3	Rsl1d1	Tpx2	Ebna1bp2	Mybbp1a	Ncl	Pin4	Nop56	Rbm28	Ddx27	Ddx5	Rrp1	Ddx24	Ddx21	Tuba1b	Dhx15
+Pax7-HMT complex (mouse)	CORUM	Ash2l	Wdr5	Pax7
+Pcdha7-Pcdhga1 complex (mouse)	CORUM	Pcdhga1
+Pcdha7-Pcdhga3 complex (mouse)	CORUM	Pcdhgb4
+Pcdha7-Pcdhgb2 complex (mouse)	CORUM	Pcdhgb2
+Pcdha7-Pcdhgb4 complex (mouse)	CORUM	Pcdhgb4
+Pcdhga1-Pcdha4 complex (mouse)	CORUM	Pcdhga1
+Pcdhga1-Pcdhga3 complex (mouse)	CORUM	Pcdhgb4
+Pcdhga1-Pcdhgb2 complex (mouse)	CORUM	Pcdhgb2
+Pcdhga1-Pcdhgb4 complex (mouse)	CORUM	Pcdhgb4
+Pericentrin-GCP complex (human)	CORUM	Tubgcp2	Tubgcp3	Pcnt
+Pericentrin-GCP complex (mouse)	CORUM	Tubgcp2	Tubgcp3	Pcnt
+Pex26-Pex6-Pex1 complex (human)	CORUM	Pex6	Pex1	Pex26
+Phosphatidylinositol 3-kinase (PIK3CA, PIK3R1) (human)	CORUM	Pik3r1	Pik3ca
+Phosphatidylinositol 3-kinase complex (PIK3C3, PIK3R4) (human)	CORUM	Pik3r4	Pik3c3
+Pik3r5-Pik3cg complex (mouse)	CORUM	Pik3r5	Pik3cg
+Pkd2-Fpc-Kif3b complex (mouse)	CORUM	Pkhd1	Kif3b	Pkd2
+Pkhd1-Pkd2 complex (mouse)	CORUM	Pkhd1	Pkd2
+PlexinA1-NRP1 complex (human)	CORUM	Nrp1	Plxna1
+PlexinA1-NRP1-SEMA3A complex (human)	CORUM	Nrp1	Sema3a	Plxna1
+PlexinA1-PlexinB1 complex (mouse)	CORUM	Plxna1	Plxnb1
+Polyadenylation complex (CSTF1, CSTF2, CSTF3, SYMPK CPSF1, CPSF2, CPSF3) (human)	CORUM	Cpsf2	Cpsf1	Cstf3	Cpsf3	Cstf2	Cstf1	Sympk
+Polycomb repressive complex (human)	CORUM	Phc1	Cbx4	Ring1	Bmi1
+Polycomb repressive complex 1 (PRC1, hPRC-H) (human)	CORUM	Phc1	Cbx8	Rnf2	Phc3	Phc2	Ring1	Cbx4	Cbx2	Bmi1	Smarca5	Yy1	Scmh1	Hspa1b
+Polycomb repressive complex 2 (PRC2) (human)	CORUM	Suz12	Eed	Rbbp4	Rbbp7	Ezh2
+Polycomb repressive complex 4 (PRC4) (human)	CORUM	Eed	Sirt1	Ezh2
+Polycystin-1 multiprotein complex (ACTN1, CDH1, SRC, JUP, VCL, CTNNB1, PXN, BCAR1, PKD1, PTK2, TLN1) (human)	CORUM	Src	Pkd1	Pxn	Jup	Ctnnb1	Cdh1	Actn1	Tln1	Ptk2	Vcl	Bcar1
+Polycystin-1-E-cadherin-beta-catenin complex (human)	CORUM	Pkd1	Cdh1	Ctnnb1
+Polycystin-1-E-cadherin-beta-catenin-Flotillin-2 complex (human)	CORUM	Pkd1	Cdh1	Ctnnb1	Flot2
+Postsplicing complex (human)	CORUM	Nxf1	Upf2	Upf1	Rbm8a2	Rnps1	Upf3b	Upf3a
+Pre-initiation complex (PIC) (human)	CORUM	Tbp	Actb	Polr2a
+Prefoldin complex (human)	CORUM	Vbp1	Pfdn1	Pfdn2	Pfdn4	Pfdn5	Pfdn6
+Presenilin-TMP21 complex (mouse)	CORUM	Psenen	Aph1a	Psen1	Ncstn
+Profilin 1 complex (human)	CORUM	Vcp	Tubb2b	Hspa8	Actg1	Cltc	Pfn1
+Profilin 2 complex (mouse)	CORUM	Actb	Cyfip1	Rock2	Hspa8	Nckap1	Pfn2	Dnm1	Syn2	Syn1
+Prolactin (PRL) - PRL receptor (PRLR) complex (human)	CORUM	Prlr	Prl3d2
+Prolyl 4-hydroxylase (alpha(I)-type) (human)	CORUM	P4ha1	P4hb
+Prolyl 4-hydroxylase (alpha(III)-type) (human)	CORUM	P4ha3	P4hb
+Protein phosphatase 4 complex (human)	CORUM	Ppp4c
+Protein-sorting complex (Stam2, Hgs, Eps15) (mouse)	CORUM	Hgs	Eps15	Stam2
+Prune-GSK3beta complex (human)	CORUM	Gsk3b
+Prune-Gelsolin complex (human)	CORUM	Gsn
+Prune/Nm23-H1 complex (human)	CORUM	Nme1
+Psd3-Actn1 complex (mouse)	CORUM	Psd3	Actn1
+R/M complex (RAD50-MRE11 complex) (human)	CORUM	Rad50
+RAB9-TIP47-MPRI complex (human)	CORUM	Igf2r	Rab9	Plin3
+RAD17-RFC complex (human)	CORUM	Rfc4	Rfc5	Rfc2	Rfc3	Rad17
+RAD17-RFC-9-1-1 checkpoint supercomplex (human)	CORUM	Rfc4	Rfc5	Rfc2	Rfc3	Rad17	Hus1	Rad1	Rad9a
+RAD50-BRCA1 complex (human)	CORUM	Brca1	Rad50
+RAD50-MRE11-NBN-p200-p350 complex (human)	CORUM	Nbn	Rad50
+RAD51-DMC1 complex (mouse)	CORUM	Rad51	Dmc1
+RAD51B-RAD51C complex (human)	CORUM	Rad51c
+RAD51B-RAD51C-RAD51D-XRCC2-XRCC3 complex (human)	CORUM	Rad51c	Xrcc3	Xrcc2
+RAD51C-XRCC3 complex (human)	CORUM	Rad51c	Xrcc3
+RAD52-ERCC4-ERCC1 complex (human)	CORUM	Ercc1	Rad52	Ercc4
+RAD9-RAD1-HUS1-APE1 complex (human)	CORUM	Apex1	Hus1	Rad1	Rad9a
+RAD9-RAD1-HUS1-POLB complex (human)	CORUM	Polb	Hus1	Rad1	Rad9a
+RAF1-BRAF complex, RAS stimulated (human)	CORUM	Braf	Raf1
+RAF1-CNK1 complex, RAS stimulated (human)	CORUM	Cnksr1	Raf1
+RAF1-MAP2K1-YWHAE complex (human)	CORUM	Ywhae	Map2k1	Raf1
+RAF1-PPP2-PIN1 complex (human)	CORUM	Ppp2cb	Ppp2r1a	Ppp2r2a	Pin1	Raf1
+RAF1-RAS complex, EGF induced (human)	CORUM	Nras	Hras	Kras	Raf1
+RAG1-RAG2 tetramer complex (human)	CORUM	Rag1	Rag2
+RANBMP-CD39 complex (human)	CORUM	Entpd1
+RANBPM-Muskelin-TWA1-HSMpp8 complex (human)	CORUM	Mkln1	Mphosph8	Ranbp9
+RANBPM-SMP1 complex (human)	CORUM	Tmem50a	Ranbp9
+RB1(hypophosphorylated)-E2F4 complex (human)	CORUM	Rb1	E2f4
+RB1-HDAC1-BRG1 complex (human)	CORUM	Rb1	Hdac1	Smarca4
+RB1-TFAP2A complex (human)	CORUM	Rb1	Tfap2a
+RBP-Jkappa-Notch1 complex (human)	CORUM	Notch1	Rbpj
+RBP-Jkappa-RING1-KyoT2 complex (human)	CORUM	Ring1	Fhl4	Rbpj
+RBP-Jkappa-SHARP complex (human)	CORUM	Spen	Rbpj
+RBPJ-NotchIC-Mastermind complex (human)	CORUM	Notch1	Maml1	Rbpj
+RC complex (Replication competent complex) (human)	CORUM	Pola1	Pola2	Ccna2	Rfc4	Rfc5	Rfc2	Rfc3	Rfc1	Cdk2
+RC complex during G2/M-phase of cell cycle (human)	CORUM	Rfc2	Rfc1	Parp1	Rpa2	Rpa3	Rpa1	Pola1	Ccna2	Pole	Ccnb1	Pold1	Cdk1	Top1
+RC complex during S-phase of cell cycle (human)	CORUM	Rfc2	Lig1	Rfc1	Parp1	Rpa2	Rpa3	Rpa1	Pola1	Ccna2	Pole	Pold1	Cdk2	Top1
+RCP-Rab11 complex (human)	CORUM	Rab11fip1	Rab11a
+REL-MAP3K8-RELA-TNIP2-PAPOLA complex (human)	CORUM	Rela	Tnip2	Papola	Rel	Map3k8
+REST-CoREST-mSIN3A complex (human)	CORUM	Rest	Sin3a	Rcor1
+RET-Rai complex (human)	CORUM	Ret	Shc3
+RFC complex (human)	CORUM	Rfc4	Rfc5	Rfc2	Rfc3	Rfc1
+RFC2-RIalpha complex (human)	CORUM	Rfc4	Rfc2	Ppp2r1a
+RHOA-IP3R-TRPC1 complex (human)	CORUM	Rhoa	Trpc1	Itpr1
+RIAM-Rap1-GTP complex (human)	CORUM	Apbb1ip	Rap1a
+RIAM-VASP complex (human)	CORUM	Apbb1ip	Vasp
+RIAM-profilin complex (human)	CORUM	Apbb1ip	Pfn1
+RICH1-PAR3-aPKC polarity complex (human)	CORUM	Prkci	Pkhd1	Arhgap17
+RICH1/AMOT polarity complex, Flag-Amot precipitated (human)	CORUM	Amotl1	Amotl2	Arhgap17	Mpdz	Mpp7	Amot
+RICH1/AMOT polarity complex, Flag-Rich1 precipitated (human)	CORUM	Cd2ap	Capza2	Sh3kbp1	Capzb	Capza1b	Arhgap17	Amot
+RICTOR-mTOR complex (human)	CORUM	Mlst8	Rictor	Mtor
+RIN1-STAM2-EGFR complex, EGF stimulated (human)	CORUM	Stam2	Egfr	Rin1
+RIN1-STAM2-HRS complex (human)	CORUM	Hgs	Stam2	Rin1
+RNA endonuclease (SEN2deltaEx8, SEN54, CLP1) (human)	CORUM	Clp1	Tsen2	Tsen54
+RNA pol II containing coactivator complex Tat-SF (human)	CORUM	Cdk9	Polr2a	Ncl	Htatsf1	Supt5
+RNA polymerase II (RNAPII) (human)	CORUM	Ctdp1	Gtf2b	Gtf2f1	Rpap1	Gtf2f2	Polr2a	Polr2b	Polr2c	Polr2d	Polr2e	Polr2f	Polr2g	Polr2h	Polr2i	Polr2j	Polr2k	Polr2l
+RNA polymerase II complex, chromatin structure modifying (human)	CORUM	Tbp	Smarcc1	Crebbp	Smarcc2	Actl6a	Smarce1	Gtf2h1	Gtf2f1	Gtf2h3	Smarca2	Smarca4	Cdk8	Kat2b	Med21	Drap1	Ercc3	Smarcd1	Smarcd2	Smarcd3	Smarcb1	Gtf2b	Ccnc	Gtf2e1	Pcsk4	Polr2a
+RNA polymerase II complex, incomplete (CDK8 complex), chromatin structure modifying (human)	CORUM	Smarcc1	Smarcc2	Cdk8	Smarcb1	Ccnh	Med21	Gtf2f1	Ccnc
+RNA polymerase II core complex (human)	CORUM	Polr2a	Polr2b	Polr2c	Polr2d	Polr2e	Polr2f	Polr2g	Polr2h	Polr2i	Polr2j	Polr2k	Polr2l
+RNA polymerase II holoenzyme complex (human)	CORUM	Tbp	Gtf2b	Gtf2h1	Gtf2h3	Gtf2f1	Gtf2e1	Gtf2f2	Gtf2h4	Gtf2e2	Polr2a	Polr2b	Polr2c	Ercc2	Polr2d	Ercc3	Polr2e	Polr2f	Polr2g	Polr2h	Polr2i	Polr2j	Polr2k	Polr2l
+RNA-induced silencing complex, RISC (human)	CORUM	Hsp90ab1	Dicer1	Tarbp2
+RNF20-RNF40-UbE2E1 complex (human)	CORUM	Ube2e1	Rnf40	Rnf20
+RPA complex (human)	CORUM	Rpa2	Rpa3	Rpa1
+RPA-MSH4-BLM complex (mouse)	CORUM	Blm	Msh4	Rpa2	Rpa3	Rpa1
+RPAP1-RPB2-RPB3 complex (human)	CORUM	Polr2b	Polr2c	Rpap1
+RSmad complex (human)	CORUM	Smad3	Ncoa3	Smarcc1	Smad2	Crebbp	Smarcc2	Smad4	Arid1b	Trim33	Smarca4
+RUNX1-CBF-beta-DNA complex (human)	CORUM	Cbfb	Runx1
+Rab11Fip2-Ap2a complex (mouse)	CORUM	Rab11fip2	Ap2a1
+Rab27A-Melanophilin-MyosinVa complex (mouse)	CORUM	Mlph	Rab27a	Myo5a
+Rab3a-Rims2-Rapgef4 complex (mouse)	CORUM	Rims2	Rab3a	Rapgef4
+Rab5 GDP/GTP exchange factor complex (mouse)	CORUM	Rabep1
+Raf1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated (mouse)	CORUM	Ppp2r1a	Ppp2ca	Raf1
+Raf1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated (mouse)	CORUM	Ppp2r1a	Ppp2r2b	Ppp2ca	Raf1
+Rag1-Rag2 protein-DNA complex (mouse)	CORUM	Rag1	Rag2
+Rag1-Rag2-Ku70-Ku80 protein-DNA complex (mouse)	CORUM	Xrcc5	Xrcc6	Rag1	Rag2
+RalBP1-CCNB1-AP2A-NUMB-EPN1 complex (human)	CORUM	Ccnb1	Ap2a2	Ap2a1	Epn1	Numb
+RalBP1-CDC2-CCNB1 complex (human)	CORUM	Ccnb1	Cdk1
+Rap1 complex (human)	CORUM	Acd	Xrcc5	Xrcc6	Tinf2	Parp1	Terf2	Rad50	Terf2ip	Pot1a
+RasGAP-AURKA/AURKB-survivin complex (human)	CORUM	Rasa1	Birc5	Aurkb
+Rb-HDAC1 complex (human)	CORUM	Rb1	Hdac1
+Rb-NeuroD1-Ngfi-B complex (mouse)	CORUM	Rbl1	Nr4a1	Neurod1
+Rb-tal-1-E2A-Lmo2-Ldb1 complex (human)	CORUM	Lmo2	Rb1	Ldb1	Tal1	Tcf3
+Remodeling and spacing factor (RSF) complex (human)	CORUM	Rsf1	Smarca5
+Replication-coupled CAF-1-MBD1-ETDB1 complex (human)	CORUM	Chaf1a	Mbd1	Setdb1
+Respiratory chain complex I (early intermediate NDUFAF1 assembly), mitochondrial (human)	CORUM	Ndufa9	Ndufa6	Ndufb6	Ndufs7	Ndufs3	Ndufaf1
+Respiratory chain complex I (incomplete NDUFAF1 assembly), mitochondrial (human)	CORUM	Ndufaf1
+Respiratory chain complex I (incomplete intermediate ND1, ND2, ND3, CIA30 assembly), mitochondrial (human)	CORUM	Ndufaf1
+Respiratory chain complex I, mitochondrial (mouse)	CORUM	Ndufa9	Ndufa8	Ndufa7	Ndufa6	Ndufa5	Ndufa4	Ndufa3	Ndufa2	Ndufa1	Ndufc2	Ndufs8	Ndufs7	Ndufs5	Ndufs4	Ndufs3	Ndufs2	Ndufs1	Ndufb9	Ndufb8	Ndufa12	Ndufb7	Ndufb6	Ndufa13	Ndufa10	Ndufb5	Ndufb10	Ndufa11	Ndufb4	Ndufb2	Ndufv3	Ndufv2	Ndufv1
+Retromer complex (SNX1, SNX2, VPS35, VPS29, VPS26A) (human)	CORUM	Snx2	Snx1	Vps26a	Vps29
+Retromer complex (SNX1, SNX2, VPS35, VPS29, VPS26B) (human)	CORUM	Snx2	Snx1	Vps26b	Vps29
+Retrotranslocation complex (human)	CORUM	Gemin4	Syvn1	Derl1
+Ribosome, cytoplasmic (human)	CORUM	Rps8	Rps9	Rps6	Rps7	Rps3a1	Fau	Rpl28	Rpl27	Rpl11	Rpl14	Rps5	Rpl19	Rps15a	Rpl18	Rps20	Uba52	Rps23	Rpl30	Rplp2	Rpl35	Rpl34	Rplp1	Rpl8	Rps16	Rps15	Rps17	Ubb	Rpl36	Rpl38	Rps14
+Ripk2-Nod2 complex (mouse)	CORUM	Ripk2	Nod2
+Rnase/Mrp complex (human)	CORUM	Pop7	Rpp40	Pop5	Rpp30	Pop4	Rpp21	Pop1	Rpp25	Rpp38
+Ryk-Dvl1 complex (mouse)	CORUM	Ryk	Dvl1
+Ryk-Wnt3a complex (mouse)	CORUM	Ryk	Wnt3a
+Ryk-Wny1 complex (mouse)	CORUM	Ryk	Wnt1
+Ryk-Wny1-Fzd8 complex (mouse)	CORUM	Ryk	Fzd8	Wnt1
+S100A10-annexin 2 complex (mouse)	CORUM	Anxa2	S100a10
+SCAMP1-SCAMP2-SCAMP3 complex (human)	CORUM	Scamp2	Scamp1	Scamp3
+SCF subcomplex (WEE1, SKP2, BTRC) (human)	CORUM	Wee1	Btrc	Skp2
+SCRIB-APC complex (human)	CORUM	Apc	Scrib
+SCRIB-LGL2 complex (human)	CORUM	Scrib	Llgl2
+SCRIB-VANGL2 complex (human)	CORUM	Vangl2	Scrib
+SEMA4A-PlexinD1 complex (human)	CORUM	Sema4a	Plxnd1
+SEMA6D-PlexinA1-NRP1 complex (human)	CORUM	Nrp1	Sema6d	Plxna1
+SERPINA1-CTSG complex (human)	CORUM	Serpina1c	Ctsg
+SERPINA1-ELA2 complex (human)	CORUM	Serpina1c	Elane
+SERPINA3-CTSG complex (human)	CORUM	Serpina3b	Ctsg
+SETDB1-containing HMTase complex (human)	CORUM	Atf7ip	Setdb1
+SF3A1-SF3A2-SF3A3 complex (human)	CORUM	Sf3a2	Sf3a3	Sf3a1
+SF3b complex (human)	CORUM	Sf3b5	Phf5a	Sf3b3	Sf3b4	Ddx42	Sf3b1	Sf3b2
+SH3KBP1-CBLB-EGFR complex (human)	CORUM	Sh3kbp1	Cblb	Egfr
+SHARP-CtBP complex (human)	CORUM	Spen	Ctbp2	Ctbp1
+SHARP-CtBP1-CtIP complex (human)	CORUM	Spen	Ctbp1	Rbbp8
+SHARP-CtBP1-CtIP-RBP-Jkappa corepressor complex (human)	CORUM	Spen	Ctbp1	Rbbp8	Rbpj
+SHARP-CtIP-RBP-Jkappa complex (human)	CORUM	Spen	Rbbp8	Rbpj
+SHC-GRB2 complex (human)	CORUM	Shc1	Grb2
+SHC3-GAB1 complex (human)	CORUM	Shc3	Gab1
+SHP-NR5A2 complex (human)	CORUM	Nr5a2	Nr0b2
+SIN3 complex (human)	CORUM	Hdac1	Hdac2	Sin3a	Rbbp4	Sap18b	Rbbp7	Sap30
+SIN3-ING1b complex I (human)	CORUM	Hdac1	Hdac2	Sin3a	Rbbp4	Sap18b	Arid4b	Rbbp7	Ing1	Sap30
+SIN3-ING1b complex II (human)	CORUM	Smarcd1	Smarcc1	Smarcc2	Smarcb1	Hdac1	Hdac2	Actl6a	Arid4b	Arid1a	Ing1	Sap30	Smarca4	Sin3a	Rbbp4	Sap18b	Rbbp7
+SIN3-SAP25 complex (human)	CORUM	Sap130	Hdac1	Sap25	Hdac2	Sin3a	Rbbp4	Sap18b	Suds3	Arid4b	Rbbp7	Sap30
+SIRT1 homotrimer complex (human)	CORUM	Sirt1
+SIRT1-HNF4-alpha-PGC-1-alpha complex, in response to fasting (mouse)	CORUM	Hnf4a	Sirt1	Ppargc1a
+SKI complex (human)	CORUM
+SKI-NCOR1-SIN3A-HDAC1 complex (human)	CORUM	Ski	Ncor1	Hdac1	Sin3a
+SKI-SMAD2-SMAD4  pentameric complex (human)	CORUM	Ski	Smad2	Smad4
+SKI-SMAD3-SMAD4  pentameric complex (human)	CORUM	Smad3	Ski	Smad4
+SLP-76-Cbl-Grb2-Shc complex, Fc receptor gamma-R1 stimulated (human)	CORUM	Shc1	Lcp2	Grb2	Cbl
+SLP-76-PLC-gamma-1-ITK complex, alpha-TCR stimulated (human)	CORUM	Plcg1	Lcp2	Itk
+SLP-76-PLC-gamma-1-VAV complex, alpha-TCR stimulated (human)	CORUM	Plcg1	Lcp2	Vav1
+SMAD1-CBP complex (human)	CORUM	Crebbp	Smad1
+SMAD2-FAST1 complex (human)	CORUM	Smad2	Foxh1
+SMAD2-SKI complex (human)	CORUM	Ski	Smad2
+SMAD2-SKI-NCOR complex (human)	CORUM	Ski	Smad2	Ncor1
+SMAD2-SMAD4-FAST1 complex (human)	CORUM	Smad2	Smad4	Foxh1
+SMAD3-E2F4/5-p107-DP1 complex (human)	CORUM	Smad3	Rbl1	Tfdp1	E2f4	E2f5
+SMAD3-HEF1-APC10-CDH1 complex (human)	CORUM	Smad3	Cdh1	Nedd9	Anapc10
+SMAD3-SKI complex (human)	CORUM	Smad3	Ski
+SMAD3-SKI-NCOR complex (human)	CORUM	Smad3	Ski	Ncor1
+SMAD3-SMAD4-CTCF protein-DNA complex (human)	CORUM	Smad3	Smad4	Ctcf
+SMAD3-SMAD4-FOXO1 complex (human)	CORUM	Smad3	Smad4	Foxo1
+SMAD3-SMAD4-FOXO3 complex (human)	CORUM	Smad3	Smad4	Foxo3
+SMAD3-SMAD4-FOXO3-FOXG1 complex (human)	CORUM	Smad3	Smad4	Foxg1	Foxo3
+SMAD3-SMAD4-FOXO4 complex (human)	CORUM	Smad3	Smad4	Foxo4
+SMAD3-SMAD4-SP1 complex (human)	CORUM	Smad3	Sp1	Smad4
+SMAD3-SMAD4-cJUN complex (human)	CORUM	Smad3	Smad4	Jun
+SMAD3-SMAD4-cJun-cFos complex (human)	CORUM	Smad3	Smad4	Jun	Fos
+SMAD3-VDR complex (mouse)	CORUM	Smad3	Vdr
+SMAD3-cSKI-SIN3A-HDAC1 complex (human)	CORUM	Smad3	Ski	Hdac1	Sin3a
+SMAD3/4-E2F4/5-p107-DP1 complex (human)	CORUM	Smad3	Rbl1	Tfdp1	Smad4	E2f4	E2f5
+SMAD4-SKI complex (human)	CORUM	Ski	Smad4
+SMAD4-SKI-NCOR complex (human)	CORUM	Ski	Ncor1	Smad4
+SMAD4-SMAD2-SMAD3 complex (human)	CORUM	Smad3	Smad2	Smad4
+SMAD4-SNO-SKI complex (human)	CORUM	Ski	Smad4	Skil
+SMAD6-HOXA9 complex (human)	CORUM	Hoxa9	Smad6
+SMAD6-HOXC8 complex (human)	CORUM	Smad6	Hoxc8
+SMAD7-SMURF2 complex (human)	CORUM	Smurf2	Smad7
+SMARCA2/BRM-BAF57-MECP2 complex (human)	CORUM	Mecp2	Smarce1	Smarca2
+SMC1-SMC3 complex (human)	CORUM	Smc1a	Smc3
+SMCC complex (human)	CORUM	Med1	Ccnc	Med17	Med16	Med6	Med7	Med24	Med13	Med12	Cdk8	Med14	Med31	Med20	Thrap3	Med21
+SMG-1-Upf1-eRF1-eRF3 complex (SURF) (human)	CORUM	Upf1	Smg1	Etf1	Gspt2	Gspt1
+SMN complex (GEMIN2,5, SMN) (human)	CORUM	Gemin5	Smn1
+SMN complex (GEMIN5,2,3,4, SMN) (human)	CORUM	Gemin4	Gemin5	Smn1	Ddx20
+SMN complex (GEMIN5,4,3), SMN-independent intermediate (human)	CORUM	Gemin4	Gemin5	Ddx20
+SMN complex (GEMIN6,7, UNRIP), SMN-independent intermediate (human)	CORUM	Strap	Gemin6	Gemin7
+SMN complex (human)	CORUM	Strap	Gemin4	Ddx20	Snrpd3	Snrpd2	Gemin5	Gemin6	Gemin7	Smn1	Snrpf	Gemin8	Snrpe	Snrpb
+SMN complex, U7 snRNA specific (human)	CORUM	Lsm11	Lsm10	Snrpd3	Snrpf	Snrpe	Snrpb
+SMN containing complex (human)	CORUM	Lgals3	Snrpd3	Lgals1	Snrpd2	Gemin4	Smn1
+SMN-PolII-RHA complex (human)	CORUM	Tbp	Polr2a	Dhx9	Gemin4	Gtf2b	Ddx20	Snurf	Snrpb2	Snrpb
+SMN1-SIP1-SNRP complex (human)	CORUM	Snrpd3	Snrpd2	Smn1	Snrpe	Snrpb
+SMRT complex (human)	CORUM	Hdac3	Tbl1xr1	Ncor2	Gps2
+SMRT-SKIP-CBF1 complex (human)	CORUM	Snw1	Ncor2	Rbpj
+SMURF2-SMAD3-SnoN complex, TGF(beta)-dependent (human)	CORUM	Smad3	Smurf2	Skil
+SNAPc (small nuclear RNA-activating protein) complex (human)	CORUM	Snapc2	Snapc3	Snapc4	Snapc5	Snapc1
+SNARE complex (HGS, SNAP25, STX13) (human)	CORUM	Snap25	Hgs	Stx12
+SNARE complex (RINT1, ZW10, p31) (human)	CORUM	Zw10	Rint1
+SNARE complex (SNAP23, STX1A) (human)	CORUM	Snap23	Stx1a
+SNARE complex (SNAP25, VAMP3, VAMP2, NAPB, STX13) (human)	CORUM	Snap25	Napb	Vamp2	Stx12	Vamp3
+SNARE complex (STX11, VAMP2, SNAP23) (human)	CORUM	Snap23	Vamp2	Stx11
+SNARE complex (STX1A, SNAP29) (human)	CORUM	Snap29	Stx1a
+SNARE complex (STX2, SNAP23) (human)	CORUM	Snap23	Stx2
+SNARE complex (STX4, SNAP23) (human)	CORUM	Snap23	Stx4a
+SNARE complex (STX4, SNAP23, VAMP1) (human)	CORUM	Snap23	Vamp1	Stx4a
+SNARE complex (STX4, SNAP23, VAMP2) (human)	CORUM	Snap23	Vamp2	Stx4a
+SNARE complex (STX4, VAMP1, VAMP7) (human)	CORUM	Vamp1	Stx4a
+SNARE complex (STX4, VAMP8, VAMP3, SNAP23) (human)	CORUM	Vamp8	Snap23	Stx4a	Vamp3
+SNARE complex (STX6, SNAP23) (human)	CORUM	Snap23	Stx6
+SNARE complex (Stx4, Stx6, Stx7, Vamp3, Vamp7, Vamp8, Vti1b) (mouse)	CORUM	Vamp8	Stx7	Vti1b	Stx6	Vamp3
+SNARE complex (Stx4, Vamp8, Snap23) (mouse)	CORUM	Vamp8	Snap23
+SNARE complex (VAMP2, SNAP25, STX13) (human)	CORUM	Snap25	Vamp2	Stx12
+SNARE complex (VAMP2, SNAP25, STX1a, CPLX1) (human)	CORUM	Snap25	Cplx1	Vamp2	Stx1a
+SNARE complex (VAMP2, SNAP25, STX1a, CPLX1, CPLX3) (human)	CORUM	Snap25	Cplx1	Vamp2	Cplx3	Stx1a
+SNARE complex (VAMP2, SNAP25, STX1a, CPLX2) (human)	CORUM	Snap25	Vamp2	Cplx2	Stx1a
+SNARE complex (VAMP2, SNAP25, STX1a, CPLX3, CPLX4) (human)	CORUM	Snap25	Vamp2	Cplx3	Stx1a	Cplx4
+SNARE complex (VAMP2, SNAP25, STX1a, STX3, CPLX1, CPLX3, CPLX4) (human)	CORUM	Snap25	Cplx1	Vamp2	Stx3	Cplx3	Stx1a	Cplx4
+SNARE complex (VAMP3, STX6, VTI1A) (human)	CORUM	Vti1a	Stx6	Vamp3
+SNARE complex (VAMP3, VAMP4, STX16) (human)	CORUM	Stx16	Vamp3	Vamp4
+SNARE complex (VAMP3, VAMP4, VAMP8, STX6) (human)	CORUM	Vamp8	Stx6	Vamp3	Vamp4
+SNARE complex (VAMP4, STX6, STX16, VTI1a, VTI1b) (human)	CORUM	Stx16	Vti1b	Stx6	Vti1a	Vamp4
+SNARE complex (Vti1b, Stx6, Stx7) (mouse)	CORUM	Vti1b	Stx7	Stx6
+SNF2L-RSF1 complex (human)	CORUM	Smarca1	Rsf1
+SNF2h-cohesin-NuRD complex (human)	CORUM	Hdac1	Hdac2	Mbd2	Mbd3	Baz1a	Chd3	Smc1a	Smarca5	Smc3	Rad21	Stag1	Stag2	Mta1	Mta2	Rbbp4	Rbbp7
+SNX complex (SNX1, SNX6) (human)	CORUM	Snx1	Snx6
+SNX complex (SNX1,1a,2,4, PDGF receptor) (human)	CORUM	Snx4	Snx2	Pdgfra	Snx1
+SNX complex (SNX1a, SNX2, SNX4) (human)	CORUM	Snx4	Snx2	Snx1
+SNX complex (SNX1a, SNX2, SNX4, EGFR) (human)	CORUM	Snx4	Snx2	Snx1	Egfr
+SNX complex (SNX1a, SNX2, SNX4, INSR) (human)	CORUM	Snx4	Insr	Snx2	Snx1
+SNX complex (SNX1a, SNX2, SNX4, LEPR) (human)	CORUM	Snx4	Snx2	Snx1	Lepr
+SNX complex (SNX1a, SNX2, SNX4, TFRC) (human)	CORUM	Snx4	Snx2	Snx1	Tfrc
+SNX complex (SNX2), oligomeric (human)	CORUM	Snx2
+SP1-E2F1 complex (mouse)	CORUM	Sp1	E2f1
+SP1-MCAF2 complex (human)	CORUM	Sp1	Atf7ip2
+SRA-SRC-1 ribonucleoprotein complex (human)	CORUM	Ncoa1	Sra1
+SRC-1 complex (human)	CORUM	Ncoa2	Crebbp	Ncoa1
+SRC-3 complex (human)	CORUM	Ncoa2	Ncoa3	Ikbkb	Crebbp	Chuk	Ikbkg
+SRCAP-associated chromatin remodeling complex (human)	CORUM	Znhit1	Ruvbl1	Vps72	Srcap	Yeats4	Actl6a	Actr6	Ruvbl2	Eaf2
+SRI homodimer complex (human)	CORUM	Sri
+SRm160-SRm300 complex (human)	CORUM	Srrm1
+SRm160/300 complex (human)	CORUM	Snrnp70	Tra2b	Snrpa1	Srrm1
+STAGA complex (SPT3-TAF9-GCN5 acetyltransferase complex) (human)	CORUM	Sf3b3	Trrap	Taf12	Taf10	Supt7l	Supt3	Taf6l	Taf5l	Kat2a	Atxn7	Tada3	Taf9	Tada1
+STAGA core complex (SPT3-TAF9-GCN5 acetyltransferase complex) (human)	CORUM	Kat2a	Taf9	Supt3
+STAT6-p100-RHA complex (human)	CORUM	Snd1	Dhx9	Stat6
+SUA1-UBA2 complex (human)	CORUM	Uba2	Sae1
+SUMO1-SUA1-UBA2 complex (human)	CORUM	Sumo1	Uba2	Sae1
+SVIP-p97/VCP-DERL1 complex (human)	CORUM	Vcp	Derl1	Svip
+SWAP complex (mouse)	CORUM	Swap70	Ncl	Parp1
+SWI-SNF chromatin remodeling-related-BRCA1 complex (human)	CORUM	Smarcc1	Smarcd2	Smarcc2	Smarcb1	Actl6a	Smarce1	Brca1	Arid1a	Arid1b	Smarca2	Smarca4
+SWI/SNF chromatin-remodeling complex (Mecp2, Smarc) (mouse)	CORUM	Mecp2	Smarcb1	Hdac2	Sin3a	Smarca2
+SWI/SNF chromatin-remodeling complex (human)	CORUM	Mecp2	Hdac1	Sin3a	Smarce1	Smarca2
+SWI/SNF-related complex (mouse)	CORUM	Mecp2	Smarcb1	Hdac2	Sin3a	Smarca2
+Sam68-p120GAP complex (human)	CORUM	Khdrbs1	Rasa1
+Sam68-p85 P13K-IRS-1-IR signaling complex (human)	CORUM	Khdrbs1	Insr	Irs1	Pik3r1
+Sarcoglycan-sarcospan-complex SG-SPN (mouse)	CORUM	Sgcg	Sgcd	Sgcb	Sgca	Sspn
+Sarcoglycan-sarcospan-dystroglycan complex (mouse)	CORUM	Sgcg	Sgcd	Sgcb	Sgca	Dag1	Sspn
+Sarcoglycan-sarcospan-syntrophin-dystrobrevin complex (mouse)	CORUM	Sntb1	Sgcg	Sgcd	Dtna	Sgcb	Sgca	Sspn	Snta1
+Scrib-APC-beta-catenin complex (mouse)	CORUM	Apc	Ctnnb1	Scrib
+Scrib-beta-PIX-GIT1 complex (human)	CORUM	Scrib	Arhgef7	Git1
+Sdc2-Ephb2 complex (mouse)	CORUM	Sdc2	Ephb2
+Sec61alpha-CollagenIV-Hsp47 complex (mouse)	CORUM	Col4a1	Sec61a1	Serpinh1
+Securin-separase complex (human)	CORUM	Espl1	Pttg1
+Septin complex (human)	CORUM
+Serine-palmitoyltransferase (SPT) complex (human)	CORUM	Sptlc1	Sptlc2	Sptlc3
+Set1A complex (human)	CORUM	Rbbp5	Wdr82	Ash2l	Ccny	Wdr5
+Set1B complex (human)	CORUM	Rbbp5	Wdr82	Ash2l	Ccny	Wdr5	Setd1b
+Sh3kbp1-Cblb-Egfr complex (mouse)	CORUM	Sh3kbp1	Cblb	Egfr
+Sh3kbp1-Cblb-Pdgfrb complex (mouse)	CORUM	Pdgfrb	Sh3kbp1	Cblb
+Shc-Grb2-mSos1 complex, EGF stimulated (mouse)	CORUM	Grb2	Sos1
+Shc-Ship-Grb2 complex, IL-3 stimulated (mouse)	CORUM	Inpp5d	Grb2
+Ship-Shc complex, IL-3 stimulated (mouse)	CORUM	Inpp5d
+Shp2-Sos complex, FGF stimulated (mouse)	CORUM	Ptpn11	Sos1
+Sin3-Hdac1-Sds3 complex (mouse)	CORUM	Sin3b	Suds3
+Skeletal muscle sarcoglycan complex SGC, alpha-beta-epsilon-gamma (mouse)	CORUM	Sgcg	Sgce	Sgcb	Sgca
+Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta (mouse)	CORUM	Sgcg	Sgcd	Sgcb	Sgca
+Skeletal muscle sarcoglycan complex SGC, beta-gamma-delta-zeta (mouse)	CORUM	Sgcg	Sgcd	Sgcb	Sgcz
+Skeletal muscle sarcoglycan complex SGC, epsilon-beta-gamma-delta (mouse)	CORUM	Sgcg	Sgcd	Sgce	Sgcb
+Slam-SAP complex (mouse)	CORUM	Slamf1	Sh2d1a
+Slam-SAP-FynT complex (mouse)	CORUM	Slamf1	Sh2d1a	Fyn
+Slam-SAP-SHIP complex (mouse)	CORUM	Slamf1	Inpp5d	Sh2d1a
+Slp5-Rab27A complex (mouse)	CORUM	Rab27a	Sytl5
+Smad1-Notch1-p300-Pcaf complex (mouse)	CORUM	Notch1	Kat2b	Ep300	Smad1
+Smad2-Smad4 complex (mouse)	CORUM	Smad2	Smad4
+Smad3-Smad4 complex (mouse)	CORUM	Smad3	Smad4
+Smarcb1/Ini1-Smarca2-Mecp2 complex (mouse)	CORUM	Mecp2	Smarcb1	Smarca2
+Smcb-Smcd-PW29 complex (mouse)	CORUM	Rad21	Smc1a
+Smooth muscle sarcoglycan complex SGC, beta-delta-zeta (mouse)	CORUM	Sgcd	Sgcb	Sgcz
+Smrt-Sin3A-Hdac7 complex (mouse)	CORUM	Ncor2	Sin3a	Hdac7
+Smurf1-Par6 complex (mouse)	CORUM	Pard6a	Smurf1
+Snurportin-CRM1-RanGTP complex (human)	CORUM	Xpo1	Snupn	Ran
+Sos1-Abi1-Eps8 complex (mouse)	CORUM	Abi1	Sos1	Eps8
+Spliceosome (human)	CORUM	Cpsf6	Ppil1	Ppil2	Ppil3	Cwc15	Crnkl1	Srrm1	Snrpa	Cd2bp2	Cdk12	Snrpf	Ppih	Snrpe	Ppie	Snrpb	Snrpc	Sf3b3	Sf3b4	Srrt	Eftud2	Magoh	Snrpd3	Snrpd2	Cwc22rt7	Dhx38	Sf3b1	Txnl4a	Sf3b2	Aqr	Bud31	Lsm2	Tfip11	Lsm6	Lsm4	Lsm3	Mov10	Prpf8	Snw1	Lsm7	Smu1	Prpf4	Prpf3	Rnps1	Sf1	Tcerg1	Ddx5	Htatsf1	Snrnp70	Dhx15	Dhx16	Rbm17	Rbm15	Ncbp2	Ncbp1	Cdc5lrt9	Prpf40a	Prpf18	Prpf19	Dnajc8	Mfap1a	Syf2	Bud13	Slu7	Rbm25	Luc7l3	Rbm22	D1Pas1	Dhx8	Usp39	Dhx9	Ddx46	Rbm8a2	Ddx41	Ppwd1	Plrg1	Ctnnbl1	Bcas2	Sf3a2	Spen	Wtap	Sf3a3	Ddx17	Thoc2	Thoc1	Cirbp	Thoc3	Thoc6	Thoc5	Cdc40	Thoc7	Xab2	Nudt21	Snrnp40	Prpf31	Acin1	Snrpa1	Sf3a1	Eif4a3l2	Isy1	Ddx23	U2af2	U2af1	Ppm1g	Sart1	Puf60	Tra2b	Zfp207	Snrpb2	Igf2bp3	Smndc1
+Splicing-associated factors complex (human)	CORUM	Rbm8a2	Dek	Rnps1	Srrm1
+Src-dynamin-synapsin complex (mouse)	CORUM	Src	Dnm1	Dnm2	Syn1
+Src1-Ep300-Crebbp complex (mouse)	CORUM	Crebbp	Ep300
+Srf-myogenin-E12 complex (mouse)	CORUM	Srf	Myog	Tcf3
+Stat1-alpha-dimer-CBP DNA-protein complex (human)	CORUM	Crebbp	Stat1
+Succinate dehydrogenase complex II (EC 1.3.5.1), mitochondrial (mouse)	CORUM	Sdhd	Sdhb	Sdhc	Sdha
+Succinyl-CoA synthetase, ADP-forming (human)	CORUM	Sucla2	Suclg1
+Succinyl-CoA synthetase, GDP-forming (human)	CORUM	Suclg2	Suclg1
+Sulphiredoxin-peroxiredoxin complex (human)	CORUM	Srxn1	Prdx1
+Survivin homodimer complex (human)	CORUM	Birc5
+Sycp1-Syce1-Syce2 complex (mouse)	CORUM	Syce2	Syce1
+TAJ-NgR1-LINGO-1 signaling complex (human)	CORUM	Rtn4r	Tnfrsf19	Lingo1
+TALL1 homo-oligomer complex (human)	CORUM	Tnfsf13b
+TANK-TRAF2-TRAF3 complex (human)	CORUM	Traf3	Traf2	Tank
+TBP-TAF complex (human)	CORUM	Tbp	Taf1c	Taf1a	Taf1b
+TBPIP/HOP2-MND1 complex (human)	CORUM	Psmc3ip	Mnd1
+TCF4-CTNNB1 complex (human)	CORUM	Ctnnb1	Tcf4
+TCF4-CTNNB1-CREBBP complex (human)	CORUM	Crebbp	Ctnnb1	Tcf4
+TCF4-CTNNB1-EP300 complex (human)	CORUM	Ctnnb1	Ep300	Tcf4
+TCF4-CTNNB1-SUMO1-EP300-HADAC6 complex (human)	CORUM	Hdac6	Sumo1	Ctnnb1	Ep300	Tcf4
+TCL1(homotrimer) complex (human)	CORUM	Tcl1
+TCL1(trimer)-AKT1 complex (human)	CORUM	Tcl1	Akt1
+TCL1(trimer)-AKT2 complex (human)	CORUM	Tcl1	Akt2
+TDT-TDIF2-core-histone complex (human)	CORUM	Dnttip2	Dntt
+TEAD1-YAP DNA-protein complex (mouse)	CORUM	Yap1	Tead1
+TEAD2-YAP DNA-protein complex (mouse)	CORUM	Yap1	Tead2
+TEAD2-multiprotein complex (mouse)	CORUM	Yap1	Mpdz	Tead2
+TEAD3-YAP DNA-protein complex (mouse)	CORUM	Yap1	Tead3
+TEAD4-YAP DNA-protein complex (mouse)	CORUM	Yap1	Tead4
+TERF1 homodimer complex (human)	CORUM
+TERF2-RAP1 complex (human)	CORUM	Xrcc5	Xrcc6	Tinf2	Terf2	Rad50	Terf2ip
+TF-FVIIa-FXa-TFPI complex (human)	CORUM	F7	F10	F3	Tfpi
+TFIIA complex (human)	CORUM	Gtf2a1	Gtf2a2
+TFIIA-TRF2 complex (human)	CORUM	Gtf2a1	Gtf2a2	Terf2
+TFIID complex (human)	CORUM	Taf1	Tbp	Taf15	Taf13	Taf12	Taf9	Taf10	Taf7	Taf6	Taf5	Taf4
+TFIID complex (mouse)	CORUM	Taf1	Tbp	Taf12	Taf8	Taf7	Taf6	Taf5	Taf2
+TFIID complex, B-cell specific (human)	CORUM	Taf1	Tbp	Taf13	Taf12	Taf4b	Taf9	Taf10	Taf7	Taf6	Taf5	Taf4
+TFIID-beta complex (human)	CORUM	Tbp	Taf13	Taf12	Taf10	Taf1	Taf9	Taf7	Taf6	Taf5	Taf4	Taf2	Taf9b
+TFIIE complex (human)	CORUM	Gtf2e1	Gtf2e2
+TFIIF complex (transcription factor IIF) (human)	CORUM	Gtf2f1	Gtf2f2
+TFIIH transcription factor complex (ERCC2, ERCC3, GTF2H1, CDK7, CCNH, GTF2H2) (human)	CORUM	Cdk7	Ercc2	Ccnh	Ercc3	Gtf2h1
+TFIIH transcription factor complex (human)	CORUM	Cdk7	Ercc2	Ccnh	Ercc3	Gtf2h1	Gtf2h3	Gtf2h4	Gtf2h5	Mnat1
+TFIIH transcription factor core complex (human)	CORUM	Ercc3	Gtf2h1	Gtf2h3	Gtf2h4
+TFIIIC containing complex (human)	CORUM	Gtf3c2	Gtf3c3	Gtf3c4	Gtf3c5	Gtf3c1
+TFIIIC containing-TOP1-SUB1 complex (human)	CORUM	Gtf3c2	Gtf3c3	Gtf3c4	Gtf3c5	Sub1	Top1	Gtf3c1
+TFTC complex (TATA-binding protein-free TAF-II-containing complex) (human)	CORUM	Sf3b3	Taf13	Trrap	Taf12	Taf10	Supt3	Taf6l	Taf5l	Kat2a	Atxn7	Tada3	Taf9	Taf7	Taf6	Taf5	Taf4	Taf2
+TFTC-type histone acetyl transferase complex (human)	CORUM	Med24	Med1	Med13	Med23	Med12	Kat2a	Med14	Trrap	Esr1	Med17	Med16
+TGF-beta receptor (mouse)	CORUM	Tgfbr1	Tgfbr2
+TGF-beta receptor I-Axin-SMAD3 complex (human)	CORUM	Smad3	Axin1	Tgfbr1
+TGF-beta receptor II-TGF-beta receptor I-TGF-beta1 complex (human)	CORUM	Tgfb1	Tgfbr1	Tgfbr2
+TGF-beta receptor II-TGF-beta receptor I-TGF-beta3 complex (human)	CORUM	Tgfb3	Tgfbr1	Tgfbr2
+TGF-beta receptor II-TGF-beta3 complex (human)	CORUM	Tgfb3	Tgfbr2
+TGF-beta receptor-SMAD3 complex (human)	CORUM	Smad3	Tgfbr1	Tgfbr2
+TGF-beta-receptor type II homodimer complex (human)	CORUM	Tgfbr2
+TGF-beta-receptor-PAR6 complex (human)	CORUM	Pard6a	Tgfbr1	Tgfbr2
+THO complex (human)	CORUM	Thoc2	Thoc1	Thoc6	Thoc5	Thoc7
+THRB-RXRB complex (human)	CORUM	Rxrb	Thrb
+TIAM1-EFNB1-EPHA2 complex (human)	CORUM	Efnb1	Epha2	Tiam1
+TIAM1-GRIN1 complex (human)	CORUM	Tiam1	Grin1
+TIF-IB complex (mouse)	CORUM	Tbp	Taf1c	Taf1a	Taf1b
+TIF1gamma-SMAD2-SMAD3 complex (human)	CORUM	Smad3	Smad2	Trim33
+TIM (TIMM17ab, TIMM23, TIMM44) complex, mitochondrial (human)	CORUM	Timm17b	Timm23	Timm17a	Timm44
+TIM (TIMM23, TIMM50) complex, mitochondrial (human)	CORUM	Timm50	Timm23
+TIM (TIMM9, TIMM10) complex, mitochondrial (human)	CORUM	Timm9	Timm10
+TIM50a-SMN1 complex (human)	CORUM	Timm50	Smn1
+TIM50a-coilin complex (human)	CORUM	Timm50	Coil
+TIMM17-TIMM23 complex (human)	CORUM	Timm23	Timm17a
+TIN2 complex (human)	CORUM	Acd	Tinf2	Terf2	Pot1a
+TIP49-TIP48-BAF53 complex (human)	CORUM	Ruvbl1	Actl6a	Ruvbl2
+TIP5-DNMT-HDAC1 complex (human)	CORUM	Hdac1	Dnmt3c	Baz2a	Dnmt1
+TIP60 histone acetylase complex (human)	CORUM	Ruvbl1	Trrap	Kat5	Actl6a	Ruvbl2
+TLE-Histone H3 complex (human)	CORUM	Tle4	Tle3	Tle2	Tle1
+TLE1 homodimer complex (human)	CORUM	Tle1
+TLE1-TLE2 complex (human)	CORUM	Tle2	Tle1
+TLE2 homodimer complex (human)	CORUM	Tle2
+TMP21-P24 complex (mouse)	CORUM	Nrsn1
+TNF-alpha/NF-kappa B signaling complex (CHUK, BTRC, NFKB2, PPP6C, REL, CUL1, IKBKE, SAPS2, SAPS1, ANKRD28, RELA, SKP1) (human)	CORUM	Ppp6c	Rela	Ankrd28	Chuk	Rel	Cul1	Btrc	Skp1	Ikbke	Nfkb2
+TNF-alpha/NF-kappa B signaling complex (CHUK, KPNA3, NFKB2, NFKBIB, REL, IKBKG,  NFKB1, NFKBIE, RELB,  NFKBIA, RELA, TNIP2) (human)	CORUM	Nfkbib	Nfkbia	Rela	Tnip2	Chuk	Rel	Kpna3	Ikbkg	Nfkbie	Nfkb1	Relb	Nfkb2
+TNF-alpha/NF-kappa B signaling complex (SEC16A, CHUK, IKBKB, NFKB2, REL, IKBKG, MAP3K14, RELA, FBXW7, USP2) (human)	CORUM	Ikbkb	Rela	Fbxw7	Chuk	Sec16a	Usp2	Rel	Map3k14	Ikbkg	Nfkb2
+TNF-alpha/NF-kappa B signaling complex 10 (human)	CORUM	Nfkbib	Ccar1	Txlna	Hsp90aa1	Tbk1	Hsp90ab1	Chuk	Cdc37	Atg16l1	Ikbkg
+TNF-alpha/NF-kappa B signaling complex 5 (human)	CORUM	Fbxw11	Chuk	Nfkb1	Mcc	Nfkb2	Lrpprc	Nfkbib	Polr1a	Polr1b	Polr1d	Polr1e	Rel	Pdcd2	Rela	Cul1	Mtif2	Rasal2	Iqgap2	Ikbkb	Polr2h	Ikbkg	Skp1	Polr2l	Kpna2
+TNF-alpha/NF-kappa B signaling complex 6 (human)	CORUM	Rpl30	Hsp90aa1	Hsp90ab1	Chuk	Fbl	Rpl8	Ikbkb	Cdc37	Map3k14	Ikbkg
+TNF-alpha/NF-kappa B signaling complex 7 (human)	CORUM	Hsp90aa1	Hsp90ab1	Cdc37	Tab3	Tab2	Tab1	Map3k7	Fkbp5
+TNF-alpha/NF-kappa B signaling complex 8 (human)	CORUM	Hsp90aa1	Hsp90ab1	Cdc37	Ktn1	Fkbp5	Ikbke
+TNF-alpha/NF-kappa B signaling complex 9 (human)	CORUM	Nfkbib	Hsp90ab1	Chuk	Cdc37	Fkbp5
+TNF-alpha/Nf-kappa B signaling complex (RPL6, RPL30, RPS13, CHUK, DDX3X, NFKB2, NFKBIB, REL, IKBKG, NFKB1, MAP3K8, RELB, GLG1, NFKBIA, RELA, TNIP2,  GTF2I) (human)	CORUM	Gtf2i	Rela	D1Pas1	Rpl30	Chuk	Nfkb1	Relb	Nfkb2	Glg1	Nfkbib	Nfkbia	Tnip2	Rel	Ikbkg	Map3k8
+TRAF2-MALT1 complex (human)	CORUM	Traf2	Malt1
+TRAF2-TRADD complex (human)	CORUM	Tradd	Traf2
+TRAF2-cIAP1/BIRC2 complex (human)	CORUM	Traf2	Birc2
+TRAF6 oligomer complex (human)	CORUM	Traf6
+TRAF6-MALT1 complex (human)	CORUM	Traf6	Malt1
+TRAF6-TAK1 complex (human)	CORUM	Traf6	Map3k7
+TRAP complex (human)	CORUM	Med1	Med4	Thra	Ccnc	Med17	Med16	Med6	Med24	Med13	Med12	Med14	Med31	Thrap3	Med21
+TRAP-SMCC mediator complex (human)	CORUM	Med1	Med25	Med4	Med22	Med11	Med17	Med19	Med29	Med18	Med8
+TRBP containing complex (DICER, RPL7A, EIF6, MOV10 and subunits of the 60S ribosomal particle) (human)	CORUM	Dicer1	Mov10	Eif6	Rpl28	Rpl27	Rpl30	Rpl11	Rplp2	Rpl34	Rplp1	Rpl14	Rpl36	Rpl19
+TRBP containing complex (DICER, TRBP, AGO2, RPL7A, EIF6, MOV10) (human)	CORUM	Mov10	Eif6	Dicer1	Tarbp2
+TREX complex (human)	CORUM	Thoc2	Thoc1	Thoc3	Thoc6	Thoc5	Thoc7
+TRF-Rap1 complex I, 2MD (human)	CORUM	Tnks	Tinf2	Terf2	Pot1a	Terf2ip
+TRF1 telomere length regulation complex (human)	CORUM	Tinf2	Tnks
+TRF1-TIN2 complex (human)	CORUM	Acd	Tinf2	Pot1a
+TRF2-Ku complex (human)	CORUM	Xrcc5	Xrcc6	Terf2
+TRF2-Rap1 complex III (human)	CORUM	Terf2	Terf2ip
+TRIB3-DDIT3 complex (human)	CORUM	Ddit3	Trib3
+TRIKA2 protein kinase complex (TAK1, TAB1, TAB2) (human)	CORUM	Tab2	Tab1	Map3k7
+TRIM27-RB1 complex (human)	CORUM	Rb1	Trim27
+TRP1-G alpha-11-IP3R3-CAV1 signaling complex (human)	CORUM	Gna11	Cav1	Itpr3	Trpc1
+TRPC1-STIM1-ORAI1 complex (human)	CORUM	Ctnnd2	Trpc1	Orai1
+TRPC1-TRPC3-TRPC7 complex (human)	CORUM	Trpc7	Trpc3	Trpc1
+TRPC3-TRPC4 channel complex, redox-sensitive (human)	CORUM	Trpc4	Trpc3
+TRPV5-S100A10-annexin 2 complex (mouse)	CORUM	Anxa2	Trpv5	S100a10
+TRRAP-BAF53-HAT complex (human)	CORUM	Trrap	Actl6a
+TSC1-TSC2 complex (human)	CORUM	Tsc2	Tsc1
+Tacc1-chTOG-AuroraA  complex (human)	CORUM	Tacc1	Ckap5
+Tankyrin 1-tankyrin 2-TRF1 complex (human)	CORUM	Tnks	Tnks2
+Telosome complex (human)	CORUM	Acd	Tinf2	Terf2	Pot1a	Terf2ip
+Ternary complex (GATA4, SRF, MYOCD) (human)	CORUM	Myocd	Srf	Gata4
+Ternary complex (LRRC7, CAMK2a, ACTN4) (human)	CORUM	Actn4	Camk2a	Lrrc7
+Ternary complex (TRAF2, FADD, TRADD) (human)	CORUM	Tradd	Fadd	Traf2
+Tetrameric COG subcomplex (human)	CORUM	Pdf	Cog7	Cog6	Cog5
+Tiam1-Efnb1-Epha2 complex (mouse)	CORUM	Efnb1	Epha2	Tiam1
+Tip5-Dnmt-Hdac1 complex (mouse)	CORUM	Dnmt3c	Baz2a	Dnmt1
+Tis7-Sin3-Hdac1-Ncor1-Sap30 complex (mouse)	CORUM	Ncor1	Ifrd1	Sin3b	Sap30
+Tle3-Aes complex (mouse)	CORUM	Tle3
+Tmsb4x-Lims1-Ilk complex (mouse)	CORUM	Lims1
+Toposome (human)	CORUM	Prpf8	Dhx9	Top2a	Ddx21	Ssrp1	Hnrnpc	Srpk1
+TorsinA-TorsinB complex (human)	CORUM	Tor1a	Tor1b
+Tp53-BAK1 complex (mouse)	CORUM	Bak1
+Traf6-p62-aPKC complex, RANK-L stimulated (mouse)	CORUM	Prkci	Traf6	Sqstm1
+Trip(Br1)-Dp1-E2F1 complex (mouse)	CORUM	Sertad1	E2f1
+Trip(Br2)-Dp1-E2F1 complex (mouse)	CORUM	Sertad2	E2f1
+Tripeptidyl peptidase (mouse)	CORUM	Tpp2
+Trpc1-dystrophin-alpha1-syntrophin complex (mouse)	CORUM	Trpc1	Dmd	Snta1
+Tubulin polyglutamylase complex (mouse)	CORUM	Lrrc49	Ttll1	Nicn1
+Tumor necrosis factor receptor 1 signaling complex (human)	CORUM	Tradd	Traf2	Birc2	Tnfrsf1a
+ULBP1-KLRK1-HCST complex (human)	CORUM	Klrk1	Hcst	Raet1d
+URI complex (Unconventional prefoldin RPB5 Interactor) (human)	CORUM	Ruvbl1	Ruvbl2	Polr2e	Stap1	Pfdn2	Cul1	Skp1	Skp2
+USP1-UAF1 complex (human)	CORUM	Wdr48	Usp1
+UTM-SGCE-DAG1-CAV1-NOS3 complex (human)	CORUM	Sgce	Nos3	Cav1	Dag1	Utrn
+UTX-MLL2/3 complex (human)	CORUM	Paxip1	Ncoa6	Rbbp5	Ash2l	Wdr5	Zfp281	Kdm6a	N4bp2
+Ubiquilin-proteasome complex (human)	CORUM	Psma6	Psma2	Psma1	Ubqln2	Ube3a	Ubqln1
+Ubiquitin E3 ligase (AHR, ARNT, DDB1, TBL3, CUL4B, RBX1) (human)	CORUM	Cul4b	Ddb1	Tbl3	Arnt	Ahr	Rbx1
+Ubiquitin E3 ligase (ASB1, TCEB1, TCEB2, CUL5, RNF7) (human)	CORUM	Cul5	Rnf7	Asb1
+Ubiquitin E3 ligase (ASB12, TCEB1, TCEB2, CUL5, RNF7) (human)	CORUM	Cul5	Asb12	Rnf7
+Ubiquitin E3 ligase (ASB2, TCEB1, TCEB2, CUL5, RNF7) (human)	CORUM	Cul5	Rnf7	Asb2
+Ubiquitin E3 ligase (ASB6, TCEB1, TCEB2, CUL5, RNF7) (human)	CORUM	Cul5	Rnf7	Asb6
+Ubiquitin E3 ligase (ASB7, TCEB1, TCEB2, CUL5, RNF7) (human)	CORUM	Cul5	Asb7	Rnf7
+Ubiquitin E3 ligase (BMI1, SPOP, CUL3) (human)	CORUM	Cul3	Tdpoz7	Bmi1
+Ubiquitin E3 ligase (CDC34, CUL1, RBX1) (human)	CORUM	Cdc34	Cul1	Rbx1
+Ubiquitin E3 ligase (CDC34, NEDD8, BTRC, CUL1, SKP1A, RBX1) (human)	CORUM	Cul1	Btrc	Skp1	Rbx1
+Ubiquitin E3 ligase (CDT1, DDB1, CUL4A, RBX1) (human)	CORUM	Cul4a	Ddb1	Cdt1	Rbx1
+Ubiquitin E3 ligase (CHEK1, CUL1) (human)	CORUM	Chek1	Cul1
+Ubiquitin E3 ligase (CHEK1, CUL4A) (human)	CORUM	Cul4a	Chek1
+Ubiquitin E3 ligase (CRY1, SKP1A, CUL1, FBXL3) (human)	CORUM	Cry1	Cul1	Fbxl3	Skp1
+Ubiquitin E3 ligase (CRY2, SKP1A, CUL1, FBXL3) (human)	CORUM	Cry2	Cul1	Fbxl3	Skp1
+Ubiquitin E3 ligase (CSN1, CSN8, HRT1, SKP1, SKP2, CUL1, CUL2, CUL3) (human)	CORUM	Gps1	Cul3	Cul2	Cul1	Cops8	Skp1	Rbx1	Skp2
+Ubiquitin E3 ligase (CUL1, RBX1, SKP1A) (human)	CORUM	Cul1	Rbx1	Skp1
+Ubiquitin E3 ligase (DDB1, CUL4A, RBX1) (human)	CORUM	Cul4a	Ddb1	Rbx1
+Ubiquitin E3 ligase (DDB1, DDB2, CUL4A, CUL4B, RBX1) (human)	CORUM	Cul4b	Ddb2	Cul4a	Ddb1	Rbx1
+Ubiquitin E3 ligase (DET1, DDB1, CUL4A, RBX1, COP1) (human)	CORUM	Cul4a	Ddb1	Det1	Rbx1
+Ubiquitin E3 ligase (FBXO18, SKP1A, CUL1, RBX1) (human)	CORUM	Cul1	Rbx1	Skp1
+Ubiquitin E3 ligase (FBXO31, SKP1A, CUL1, RBX1) (human)	CORUM	Cul1	Rbx1	Skp1	Fbxo31
+Ubiquitin E3 ligase (FBXW11, SKP1A, CUL1, RBX1) (human)	CORUM	Fbxw11	Cul1	Rbx1	Skp1
+Ubiquitin E3 ligase (FBXW7, CUL1, SKP1A, RBX1) (human)	CORUM	Fbxw7	Cul1	Rbx1	Skp1
+Ubiquitin E3 ligase (Fbxl20, Skp1, Cul1) (mouse)	CORUM	Fbxl20	Cul1
+Ubiquitin E3 ligase (Fbxo15, Cul1, Skp1a) (mouse)	CORUM	Fbxo15	Cul1
+Ubiquitin E3 ligase (Fbxo2, Skp1a, Cul1, Rbx1) (mouse)	CORUM	Fbxo2	Cul1	Rbx1
+Ubiquitin E3 ligase (Fbxo32, Skp1a, Cul1, Rbx1) (mouse)	CORUM	Cul1	Rbx1	Fbxo32
+Ubiquitin E3 ligase (GLMN, FBXW8, SKP1A, RBX1) (human)	CORUM	Glmn	Fbxw8	Skp1	Rbx1
+Ubiquitin E3 ligase (H2AFY, SPOP, CUL3) (human)	CORUM	Cul3	Tdpoz7
+Ubiquitin E3 ligase (NFKBIA, FBXW11, BTRC, CUL1, SKP1A) (human)	CORUM	Nfkbia	Fbxw11	Cul1	Btrc	Skp1
+Ubiquitin E3 ligase (NIPA, SKP1A, CUL1, RBX1) (human)	CORUM	Zc3hc1	Cul1	Rbx1	Skp1
+Ubiquitin E3 ligase (Neurl2, Tceb1, Tceb2, Cul5, Rbx1) (mouse)	CORUM	Cul5	Neurl2	Rbx1
+Ubiquitin E3 ligase (SIAH1, SIP, SKP1A, TBL1X) (human)	CORUM	Siah1a	Skp1
+Ubiquitin E3 ligase (SKP1A, BTRC, CUL1) (human)	CORUM	Cul1	Btrc	Skp1
+Ubiquitin E3 ligase (SKP1A, FBXW2, CUL1) (human)	CORUM	Cul1	Skp1	Fbxw2
+Ubiquitin E3 ligase (SKP1A, FBXW8, CUL7, RBX1) (human)	CORUM	Cul7	Fbxw8	Rbx1	Skp1
+Ubiquitin E3 ligase (SKP1A, SKP2, CUL1) (human)	CORUM	Cul1	Skp1	Skp2
+Ubiquitin E3 ligase (SKP1A, SKP2, CUL1, CKS1B, RBX1) (human)	CORUM	Cks1b	Cul1	Rbx1	Skp1	Skp2
+Ubiquitin E3 ligase (SKP1A, SKP2, CUL1, RBX1) (human)	CORUM	Cul1	Rbx1	Skp1	Skp2
+Ubiquitin E3 ligase (SMAD3, BTRC, CUL1, SKP1A, RBX1) (human)	CORUM	Smad3	Cul1	Btrc	Rbx1	Skp1
+Ubiquitin E3 ligase (SPOP, DAXX, CUL3) (human)	CORUM	Daxx	Cul3	Tdpoz7
+Ubiquitin E3 ligase (TRIM25, DDX58) (human)	CORUM	Trim25
+Ubiquitin E3 ligase (UBADC1, RNF123) (human)	CORUM	Ubac1	Rnf123
+Ubiquitin E3 ligase (VHL, TCEB1, TCEB2, CUL2) (human)	CORUM	Cul2	Vhl
+Ubiquitin E3 ligase (WSB1, TCEB1, TCEB2, CUL5, RBX1) (human)	CORUM	Wsb1	Cul5	Rbx1
+Ubiquitin ligase complex (TRAF6, TAB2, MALT1, UEV1A, BCL10) (human)	CORUM	Traf6	Ube2v1	Tab2	Malt1
+Ubiquitin-protein-ligase (UBE2N, UBE2V2/MMS2) (human)	CORUM	Ube2v2	Ube2n
+Upf complex (UPF1, UPF2, UPF3a) (human)	CORUM	Upf2	Upf1	Upf3a
+Upf complex (UPF1, UPF2, UPF3b) (human)	CORUM	Upf2	Upf1	Upf3b
+VAM1-VELI1 complex (human)	CORUM	Lin7a
+VEGF transcriptional complex (human)	CORUM	Cited1	Cited2	Stat3	Cited4	Apex1	Hif1a
+VEGFA(165)-KDR-NRP1 complex (human)	CORUM	Nrp1	Kdr	Vegfa
+VHL-TBP1-HIF1A complex (human)	CORUM	Psmc3	Vhl	Hif1a
+VHL-TCEB1-TCEB2 complex (human)	CORUM	Vhl
+VHL-VDU1-TCEB1-TCEB2 complex (human)	CORUM	Usp33	Vhl
+Vdr-Med4 complex (mouse)	CORUM	Vdr
+Vezf1-p68RacGap complex (mouse)	CORUM	Arhgap22	Vezf1
+Vigilin-DNA-PK-Ku antigen complex (human)	CORUM	Xrcc5	Xrcc6	Hdlbp
+Vps29-Vps35-Vps26a complex (mouse)	CORUM	Vps35	Vps26a	Vps29
+WCRF complex (human)	CORUM	Baz1a	Smarca5
+WICH complex (human)	CORUM	Baz1b	Smarca5
+WINAC complex (human)	CORUM	Top2b	Smarcd1	Smarcc1	Smarcc2	Smarcb1	Vdr	Supt16	Actl6a	Smarce1	Arid1a	Baz1b	Smarca2	Smarca4	Chaf1a
+WIP-WASp-actin-myosin-IIa complex (human)	CORUM	Acta2	Myl6	Wipf1	Myh9	Was
+WNK1-OSR1 complex (human)	CORUM	Oxsr1
+WNK1-SPAk complex (human)	CORUM	Stk39
+WRN-Ku70-Ku80-PARP1 complex (human)	CORUM	Xrcc5	Xrcc6	Parp1
+WRN-TRF2 complex (human)	CORUM	Terf2
+Wave-2 complex (Rac-activated) (mouse)	CORUM	Cyfip1	Abi1	Nckap1	Rac1	Wasf2
+Wave-2 complex (human)	CORUM	Cyfip1	Abi1	Nckap1	Wasf2
+Wave-2 complex (mouse)	CORUM	Cyfip1	Abi1	Nckap1	Wasf2
+Wave1-Bcl-xl-Pancortin-2 complex, focal ischemic stroke induced (mouse)	CORUM	Olfm1	Bad	Wasf1
+XFIM complex (human)	CORUM	Gtf2i	Kdm1a	Zmym3	Hdac1	Hdac2
+XPA-ERCC1-ERCC4 complex (human)	CORUM	Ercc1	Ercc4	Xpa
+XRCC1-LIG3-PNK-TDP1 complex (human)	CORUM	Pnkp	Tdp1	Xrcc1	Lig3
+Xin-Cdh2-Ctnnb1-Ctnnd1 complex (mouse)	CORUM	Ctnnd1	Ctnnb1	Xirp1
+Y14-Magoh complex (human)	CORUM	Magoh	Rbm8a2
+YWHAQ-CALM1-CABIN1 complex (human)	CORUM	Cabin1	Ywhaq	Calm1
+YY1-MDM2-p53 complex (human)	CORUM	Yy1	Trp53	Mdm2
+YY1-Notch1 complex (human)	CORUM	Yy1	Notch1
+YY1-Notch1-RBP-Jkappa complex (human)	CORUM	Yy1	Notch1	Rbpj
+Yy1-Ppargc1a complex (mouse)	CORUM	Yy1	Ppargc1a
+Yy1-Ppargc1a-Frap1 complex (mouse)	CORUM	Yy1	Ppargc1a	Mtor
+ZNF198-PML complex (human)	CORUM	Zmym2	Pml
+ZNF198-SUMO1 complex (human)	CORUM	Zmym2	Sumo1
+ZO1-(beta)cadherin-(VE)cadherin-VEGFR2 complex (human)	CORUM	Tjp1	Cdh5	Ctnnb1	Kdr
+anti-BHC110 complex (human)	CORUM	Gtf2i	Zmym2	Kdm1a	Zmym3	Hdac1	Hdac2	Phf21a	Zfp217	Hmg20b	Rcor1
+beta(1)-AR receptosome (ADRB1-SAP97-AKAP79-PRKAR2A) (human)	CORUM	Dlg1	Prkar2a	Adrb1	Akap5
+c-Myc-Max-Arf complex (mouse)	CORUM	Myc
+c-Src-Muc1 complex (mouse)	CORUM	Muc1	Csk
+cMYC-ATPase-helicase complex (human)	CORUM	Ruvbl1	Trrap	Actl6a	Myc	Ruvbl2
+cRET-Shc-Grb2-Gab2-P85PI3K-Shp2 complex (mouse)	CORUM	Ret	Pik3r1	Gab2	Ptpn11	Grb2
+eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1) (human)	CORUM	Eif3a	Eif3l	Eif3m	Eif3j1	Eif3k	Eif3h	Eif3i	Eif3f	Eif3g	Eif3d	Eif3e	Eif3b	Eif3c
+eRF1-eRF3-GTP-Mg(2+) complex (human)	CORUM	Etf1	Gspt2	Gspt1
+gp78-p97/VCP-DERL1 complex (human)	CORUM	Vcp	Amfr	Derl1
+hASC-1 complex (human)	CORUM	Ascc1	Ascc2	Trip4	Ascc3
+hNURF complex (human)	CORUM	Bptf	Smarca1	Rbbp4	Rbbp7
+hRAD51C-hXRCC3 complex (human)	CORUM	Rad51	Xrcc2
+hSIR2-p53 complex (human)	CORUM	Sirt1	Trp53
+hs4 enhancer complex (faster migrating complex) (human)	CORUM	Rela	Yy1	Pou2f1	Pou2f2	Nfkb1
+hs4 enhancer complex (slow migrating complex) (human)	CORUM	Yy1	Relb
+immunoproteasome (mouse)	CORUM	Psmb9	Psmb10	Psma6	Psmb8	Psma7	Psma5	Psma2	Psmb3	Psmb4	Psmb1	Psma1	Psmb2
+mPar6c-Mlgl-aPKC complex (mouse)	CORUM	Pard6a	Prkci	Llgl1
+mPar6c-Mlgl-aPKCz complex (mouse)	CORUM	Pard6a	Prkcz	Llgl1
+mRNA decay complex (UPF1, UPF2, UPF3B, DCP2, XRN1, XRN2, EXOSC2, EXOSC4, EXOSC10, PARN) (human)	CORUM	Upf2	Exosc10	Upf1	Xrn2	Xrn1	Parn	Upf3b	Exosc4	Exosc2	Dcp2
+mTOR-RAPTOR complex (human)	CORUM	Rptor	Mlst8	Mtor
+mTOR-signaling complex (mTOR/FRAP1, RAPTOR) (human)	CORUM	Rptor	Mtor
+mTORC2 complex (mTOR/FRAP1, LST8, mAVO3/RICTOR) (human)	CORUM	Mlst8	Rictor	Mtor
+mTORC2 complex (mTOR/FRAP1, LST8, mAVO3/RICTOR, SIN1) (human)	CORUM	Mapkap1	Mlst8	Rictor	Mtor
+nKHC-KLC1-KLC2 kinesin complex (mouse)	CORUM	Kif5a	Klc2
+nNos-Capon-Dexras1 complex (mouse)	CORUM	Rasd1	Nos1ap	Nos1
+p130Cas-ER-alpha-cSrc-kinase- PI3-kinase p85-subunit complex (human)	CORUM	Src	Pik3r1	Esr1	Bcar1
+p14-Mp1-ERK2 complex (human)	CORUM	Mapk1
+p14-Mp1-Erk1/2 complex (mouse)	CORUM	Mapk3	Mapk1
+p14-Mp1-MEK1 complex (human)	CORUM	Map2k1
+p18-Cdk4 complex (mouse)	CORUM	Cdkn2c	Cdk4
+p18-Cdk6 complex (mouse)	CORUM	Cdkn2c	Cdk6
+p19-Cdk4 complex (mouse)	CORUM	Cdkn2d	Cdk4
+p19-Cdk4-cyclinD2 complex (mouse)	CORUM	Cdkn2d	Ccnd2	Cdk4
+p19-Cdk6 complex (mouse)	CORUM	Cdkn2d	Cdk6
+p21(ras)GAP-Fyn-Lyn-Yes complex, thrombin stimulated (human)	CORUM	Yes1	Lyn	Rasa1	Fyn
+p23 protein complex (human)	CORUM	Hnrnpa2b1	Ptges3	Ahrr
+p27-cyclinE-CDK2 complex (human)	CORUM	Cdkn1b	Ccne1	Cdk2
+p27-cyclinE-Cdk2 - Ubiquitin E3 ligase (SKP1A, SKP2, CUL1, CKS1B, RBX1) complex (human)	CORUM	Cdkn1b	Ccne1	Cks1b	Cdk2	Cul1	Skp1	Rbx1	Skp2
+p300-CBP-p270 complex (human)	CORUM	Crebbp	Ep300	Arid1a
+p300-CBP-p270-SWI/SNF complex (human)	CORUM	Smarcc1	Crebbp	Smarcc2	Smarcb1	Ep300	Arid1a	Smarca4
+p300-MDM2-p53 protein complex (human)	CORUM	Ep300	Trp53	Mdm2
+p32-CBF-DNA complex (human)	CORUM	Nfyb	Nfyc	C1qbp	Nfya
+p33ING1b-HDAC1 complex (human)	CORUM	Hdac1	Ing1
+p33ING1b-PCNA complex (human)	CORUM	Ing1
+p34(SEI-1)-CDK4-CyclinD2 complex (human)	CORUM	Ccnd2	Cdk4	Sertad1
+p400-associated complex (human)	CORUM	Ruvbl1	Actb	Trrap	Actl6a	Ruvbl2	Actl6b	Ep400
+p50-p65 NF(kappa)B complex (human)	CORUM	Rela	Nfkb1
+p50-p65 NF(kappa)B-SRC1 complex (human)	CORUM	Rela	Ncoa1	Nfkb1
+p53 homotetramer complex (human)	CORUM	Trp53
+p53-SP1 complex (human)	CORUM	Sp1	Trp53
+p54(nrb)-PSF-matrin3 complex (human)	CORUM	Nono	Sfpq	Matr3
+p56(LCK)-CAML complex (human)	CORUM	Lck	Caml
+p97/VCP homohexamer complex (mouse)	CORUM	Vcp
+p97/VCP-VIMP-DERL1 complex (human)	CORUM	Vcp	Derl1
+p97/VCP-VIMP-DERL1-DERL2-HRD1-SEL1L complex (human)	CORUM	Vcp	Sel1l	Derl2	Syvn1	Derl1
+p97/VCP-VIMP-DERL2 complex (human)	CORUM	Vcp	Derl2
+pRB-E2F-1 complex (human)	CORUM	Rb1	E2f1
+pRb2/p130-multimolecular complex (DNMT1, E2F4, SuV39H1, HDAC1, RBL2) (human)	CORUM	Rbl2	Hdac1	Suv39h1	E2f4	Dnmt1
+pRb2/p130-multimolecular complex (RB2, E2F4, HDAC1, SUV39H1, P300) (human)	CORUM	Rbl2	Hdac1	Ep300	Suv39h1	E2f4
+snRNP-free U1A (SF-A) complex (human)	CORUM	Snrpa	Ddx5	Nono	Sfpq
+tBID-BAK1 complex (mouse)	CORUM	Bak1	Bid
+tRNA splicing endonuclease (human)	CORUM	Tsen34	Tsen15	Clp1	Tsen2	Tsen54
+uKHC-KLC1-KLC2 kinesin complex (mouse)	CORUM	Kif5b	Klc2

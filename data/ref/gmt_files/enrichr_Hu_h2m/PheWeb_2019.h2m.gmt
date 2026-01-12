@@ -1,0 +1,1161 @@
+ASCVD	PheWeb_2019	Bcl2a1d	Cacna1a	Il10rb	Lmo4	Pecr	Tmem51	Mpp7	Cacng8	Liph	Igf2bp2	Nkx6-1	Cdh19
+Abdominal hernia	PheWeb_2019	Mtpn	Klf12	Mdga1	Nckap5	Fam98a	Lmo4	Tacstd2	Ipo8	Zwint	Acer3	Auh	Dhx35	Aldh1a3	Rims1	Scn8a	Kcnq5	Nfil3	Scarb1
+Abdominal pain	PheWeb_2019	Mef2a	Zfp341	Abca1	Grid1	Gpcpd1	Ano4	Cbfa2t2	Nell1	Tacc2	Plcb1	Rtn1	Zfp592	Ipo11	Robo1	Art5	Nudt12	Zkscan8	E2f1	Tmem38b	Dcaf12	Tbc1d22a	Ms4a10
+Abnormal Papanicolaou smear of cervix and cervical HPV	PheWeb_2019	Dcc	G0s2	Sema4d	Or52m1	Tm4sf4	Smarca2	Mcc	Ms4a4a	Ms4a6d	Tusc1	Triml1	Cdh18	Slc35f3	Slfn5	Zfand6	Slc8a1	Snx10	Foxred2	Arhgap44	Grm7	Opa3	Tnfsf11	Nrcam	Dlgap4	Csmd1	Hsd11b1
+Abnormal chest sounds	PheWeb_2019	Abcb1a	Slc25a40	Sorbs1	Adam22	Crim1	Rundc3b	Ahi1	Lrfn3	Dbf4	Gna11	Efhd1
+Abnormal coagulation profile	PheWeb_2019	Izumo3	Jag1	Fmr1	Grtp1	Kcnip4	Klhl29	Ptprm	Pdgfa	Atp10a	Klhl25	Sorcs1	Ajap1	Foxp2	Maf	Rab12	Rgs6	Or2ag2	Gpd2	Eps8l1	Dchs2	Cdk17
+Abnormal electrocardiogram [ECG] [EKG]	PheWeb_2019	Wwox	Trpc7	Ephx1	Tle1	Rfc3	Fam78a	Ano3	Dusp22	Tdp2	Cc2d1b	Vgll4	Cntnap2	Rab3b	Zfyve9	Dnah9	Gadl1	Nrxn3	Sox3	Orc1	Zfp507	Ap3s1	Atxn7l1	Gsg1l	Rreb1
+Abnormal findings examination of lungs	PheWeb_2019	Dgkh	Rtn4	Rtkn2	Foxg1	Erich1	Pou3f4	Nell1	Adamtsl3	Ywhaq	Slc17a8	Fbp1	Dis3l2	Fgf12	Scyl2
+Abnormal findings on mammogram or breast exam	PheWeb_2019	Unc13c	Cdkl4	Tcf7l2	Unc5c	Epdr1	Slc52a2	Klhl23	Zfc3h1	Trappc9	Pth2r	Grhpr	Gpr141	Fam20c	Brwd3	Sik1	Lgr5	Rapgef5	Sos1	Tenm2	Mug1	Slc35f3	Cox18	Nalcn	Fhit	Pigx	Agpat4	Lrpap1	Basp1	Zfp608	Wdr70	Champ1
+Abnormal function study of cardiovascular system	PheWeb_2019	Epha7	Trappc10	Thada	Gfra2	Or4m1	Or9q1	Traf3	Trhde	Pcsk6	Pwp2	Ano4	Gli3	Wee1	Fam167a	Myo3a	Rnf182	Rbm25	Men1	Samd5	Sh3gl2
+Abnormal glucose	PheWeb_2019	Jag1	Ppp1r12a	Fgfbp3	Mboat7	Slc35e1	Naaladl2	Dnajc5	Hecw2	Ccdc171	Peli2	Cpeb3	H2-Ab1	Parm1	Intu	Fstl1	Btaf1	Calb1	Hif1an	Ncam2	H2-Ob
+Abnormal heart sounds	PheWeb_2019	Mlip	Tmem132d	Inip	Nat1	C1ql3	Ncor2	Sec23ip	B3gnt2	Eppk1	Ptpn6	Shc3	Erich1	Fam171a1	Kcnv1	Plac8	Snn	Rsu1	Zc3h7a
+Abnormal involuntary movements	PheWeb_2019	Pald1	Pacrg	Kcnj12	Gabra6	Mtx3	Kcnip4	Lmo4	Lhfpl3	Fndc9	Slfn9	Sp4	Cdh13	Cdh18	Cyfip2	Narf	Luzp2	Prf1	Ppm1h	Snx5	Scube1	Capns1	Xirp2	Atp6v0a4	Csmd1
+Abnormal mammogram	PheWeb_2019	Ddx18	Unc13c	Gucy1a2	Stard13	Epdr1	Slc12a2	Fam227a	Slc52a2	Eps15l1	Trappc9	Pth2r	Spidr	Grhpr	Gpr141	Id4	Klrb1	Rapgef5	Calr3	Ccdc71l	Mug1	Ahr	Zfp612	Fhit	Hmgn5	Klc4	Dbt	Zfp608	Zfp429
+Abnormal movement	PheWeb_2019	Tmem132e	Cd164	Slc10a2	Cav2	Prkce	Mafb	Grhl1	Naaladl2	Myo1e	Ptprd	Prr16	Cdc42ep1	Pnpla1	Ldhal6b	Ppil6	Lef1	Tes	Rtp4	Sh2d4a	Arhgef28	Tex26	Cpxcr1	Zfp953	Kcnn2	Asic2
+Abnormal results of function study of kidney	PheWeb_2019	Ptprn2	Pla2g12a	Cited2	Rnf17	Dcaf8l	Ube2e3	Zfp957	Atp12a	Rcbtb1	Naaladl2	Fam135b	Immp2l	Tdrd12	Dchs2	Triml1	Map3k7
+Abnormal results of function study of liver	PheWeb_2019	Lef1	Vezt	Dpp10	Pdgfra	Serpina1c	Xlr5b	Hdgfl1	Paqr3	Ctps2	Sez6l	Tns1	Olfm4	Dppa4	Cmya5	Gpr151	St3gal1	Pnpla3	Trib1
+Abnormal results of function study of pulmonary system	PheWeb_2019	Vps9d1	St8sia1	Insig2	Cpne7	Eddm3b	Fanca	Spg7	Fgf1	Cplx4	Brinp3	Ankrd11	Spire2	Ccdc93	Zkscan2
+Abnormal results of other function studies (bladder, pancreas, placenta, spleen, etc)	PheWeb_2019	Usp48	Slc46a2	Mtus2	Nrxn3	Fgf1	Bach2	Rap1gap	Adra2a	Snx30	AW551984	Frg1	Fam20c	Ube2k	Csmd1	Lair1
+Abnormal serum enzyme levels	PheWeb_2019	Irx2	Slc14a2	H2-Eb2	Angpt1	Mga	Pla2g4b	Ajap1	Jmjd7	Apc	Pitpnm2	Reep5	Coro7	Fgf10	H2-Ea	Cntn4	Dcp2	Srp19	Serpina1c	Mapkbp1	Etfdh	Grik2	Slco1b2	Smarcad1	Cox10
+Abnormality in fetal heart rate or rhythm	PheWeb_2019	Cyb5b	Mctp2	Opn4	Epdr1	Rasgrf2	Spata3	Cobl	Rcsd1	Npas3	Zfp90	Dazl	Gpr141	Ntmt1	Rabep1	Cdh3	Sh3pxd2a	Slc12a7
+Abscess or ulceration of vulva	PheWeb_2019	Abca1	Synj2	Cox19	Gmpr	Map2	Uqcrfs1	Trps1	Dlgap2	Hunk	Tln2
+Absent or infrequent menstruation	PheWeb_2019	Gabrb1	Tmem74b	Crmp1	Nav2	Dspp	Pts	Pygo1	Evc	Fgd4	Vmo1	Mycs	Macrod2	Bcat2	Nmt1	Plcd3
+Acidosis	PheWeb_2019	Cd276	Exoc3l	Mctp2	Tenm4	Slc7a14	Apcdd1	Pcsk6	Ralyl	Dus2	Adamts17	Mrpl42	Cldn11	Glud1	Bbx	Cdh13	Rps6kc1
+Acne	PheWeb_2019	Kirrel3	Rbfox3	Celf2	Stx8	Slc5a12	Nrxn3	Bhlhe23	Ajap1	Pcdh18	Aig1	Dtwd2	Arhgap31	Pgbd5	Tbc1d5	Enpp3	Fam181a
+Acquired absence of breast	PheWeb_2019	Nrp1	Wwox	Nbas	Rbfox1	Egln3	Trpc7	Pomt2	Cd1d1	Fancf	Ccnd1	Bbx	Chl1	Dynlrb2	Fdft1
+Acquired deformities of finger	PheWeb_2019	Golga3	Ryr2	Sgcg	Tmx3	Banf2	Rimbp2	Efcab11	Fam169a	Or5ak25	Chfr	Nox3
+Acquired foot deformities	PheWeb_2019	Got2	Bad	Flt4	Grid2	Cab39l	Axin1	Lyzl1	Srrm1	Stip1	Ccdc88b	Igsf11	Pgrmc2	Tmem237	Snx29	Drosha	Macrod1	Tgm6	Gpr137
+Acquired hemolytic anemias	PheWeb_2019	Mcfd2	Or2d36	Or2d2	Pacrg	Amigo2	Lypd4	Ttc7	Robo1	Dpp6	Pdzd2	Gm5150	Nxph1	Amph	Slc12a8
+Acquired spondylolisthesis	PheWeb_2019	Cav3	Ndufa4	Myo10	Osr1	Ifnlr1	Vav1	Tcerg1l	Zfat	Phf14	Oxtr	Sgms2	Zc3h6	Ctbp2	Lama2	Ttl	Smc2	Npbwr1	Epb41l3	Ankrd33	D2hgdh	Itgb7	Rgs7
+Acquired toe deformities	PheWeb_2019	Ntrk2	Wwtr1	Ccbe1	Apool	Got1	Plch1	Gabrg1	Kti12	Igf1	Ell2	Dmxl1	Kcnma1	Cc2d1b	Nrp2	Rab3b	Zfyve9	Tnfrsf13b	Btf3l4b	Prdm16	Pcdh15	Txndc12	Abhd6	Lypd6	Foxo3	Tmem242	Fam204a	Lman1	Fut9	Ufl1	Orc1	Snx29	Hivep2	Kcnn2	Pcdh7	Fam81b	Nkx2-3
+Actinic keratosis	PheWeb_2019	Rbfox1	Ppara	Ythdf3	Ksr2	Foxf1	Txnrd2	Slc6a15	Adra2b	Irf4	Pafah1b1	Tek	Peli1	Chmp4b	Vstm2b	Utrn	Exoc2	Nfe2l3	Pigu	Ccdc68	Atp8a1	Slc35f3	Slc45a2	Bod1l	Sel1l	Htr2c	Fmn1	Pld5	Chst12	Uqcrfs1
+Acute and chronic tonsillitis	PheWeb_2019	Wwox	Pigo	Kcnip4	Klhl4	Nav2	Fhit	Fstl5	Fermt2	Ptprd	Zfp608	Gna11	Tcf4	Cylc2
+Acute bronchitis and bronchiolitis	PheWeb_2019	Nus1	Ksr2	Rfx3	Esrrg	Grin2d	Ajap1	Vim	Pi4ka	Pik3c3	Itm2b	Cd276	Gucy2c	Slc44a1	Nr2c2	Crkl	Rptor	Mroh9	Trdmt1	Tbc1d22a	Cntln	Unkl
+Acute bronchospasm	PheWeb_2019	Klf12	N6amt1	Tle4	Pla2g2e	Trio	Pla2g2a	Galnt18	Ston2	Klhl25	Jakmip2	Camkmt	Fstl5	Ccdc70	Six3	Snx16	Otud3
+Acute cystitis	PheWeb_2019	Slc2a12	Arhgef28	Nat1	Bach1	Cdc42bpb	Dcdc2a	Pbx1	Cd2ap	Etaa1	Meis2	Enc1	Slco3a1	Fam181b
+Acute dermatitis due to solar radiation	PheWeb_2019	Col27a1	Fat4	Gtdc1	Fars2	Gramd4
+Acute laryngitis and tracheitis	PheWeb_2019	Slc30a6	Tmprss2	Ephx4	Btbd8	Dpy30	Sorcs2	Memo1	Rpap2	Pcsk5	Tns1	Spast	Parp10	Zfat	Sspn	Plec
+Acute osteomyelitis	PheWeb_2019	Dnah5	Syt4	Zfp143	Arhgef16	Acsm3	Acsm1	Cmc1	Acsm2	Fgf1	Adra1a	Slc2a8	Wdr89	Cdh4	Lmx1a	Tmem108	Sspn	Mcph1
+Acute pain	PheWeb_2019	Car13	Spink5	Sec23a	Ythdf3	Cadm2	Pomp	Plekhb1	Lrrc7	Prickle2	Slc8a1	Aff2	Rab12	Sgcd	Bdkrb2	Smpdl3a	Anks1b	Impg2
+Acute periodontitis	PheWeb_2019	Pdia4	Msn	Tescl	Sorcs1	Pax1	Frmd5	Arhgap42	Bhlhe40	Cntn5	Ctnna3	Bcor	Cdh18	Mbip
+Acute pharyngitis	PheWeb_2019	Bckdhb	Pou2f1	Tle1	Eya4	Syt16	Tap1	Zfx	Avpr1b	Mapk8ip3	Sgcz	Psmb9	Agbl4	Atg4c	Cntn4	Alk	Slc35b3	Mctp2	Ccdc149	Slc35f3	Wwc2	Pitpnb	Dcaf8l	Nrxn3	Ttk	Cdh6	Ctnna2	Piezo2	Mapk1	Ncam2	Enpp4	Zfp326	Plxna4
+Acute posthemorrhagic anemia	PheWeb_2019	Nrp1	Actr3	Dpp10	Gabbr2	Ntm	Pappa	Ipo8	D630045J12Rik	Or10x1	Xpnpep1	Il2rb	Macrod2	Smyd3	Dsg3	Ncam2	C1qtnf1	Clvs2
+Acute pulmonary heart disease	PheWeb_2019	Trappc3l	Bche	St6gal2	Cd83	Mrpl39	Hk1	Slc9c1	Arrb1	Tnr	Zfat	Arpp21	Dsg4	Rpl38	Rps3	Nkx6-1	Dact2
+Acute reaction to stress	PheWeb_2019	Ctnnd2	Hgf	Pcdh9	Unc5a	Zfp804b	Hr	Pgm2l1	Bbc3	Ncor2	Nudt18	Itm2a
+Acute renal failure	PheWeb_2019	Slc24a3	Tenm2	Cntnap2	Tenm3	Tle3	Ifi44	Fam133b	Sox4	Dlg2	Plscr4	Grk5	Orc3	Gpd1l	Papola	Dynlrb2	Dsc1	Map3k7	Slc12a8	Zfp148	Clrn3
+Acute sinusitis	PheWeb_2019	Epha6	Pid1	Hmgcll1	Cdca7	Tmem132b	Lifr	Hs6st1	Shcbp1	Psat1	Calm2	Zfp423
+Acute upper respiratory infections of multiple or unspecified sites	PheWeb_2019	Hs3st1	Magi1	Brd2	Phlda1	Kcnb1	Qki	Fam210a	Gnpda2	Ly6e	Nodal	Tspyl5	Bnc2	Cstf3	Hs6st1	Tspan11	Cdh7	Ccdc85a	Jarid2	Timm17a
+Acute vascular insufficiency of intestine	PheWeb_2019	Syt6	Dnah5	Aoc3	Ccdc57	Tmem63c	Htt	Nckap1	Zdhhc22	Ngf	Sh3bp2	Npvf	Pde3b	Sbpl	Daam1	Ezh1
+Acute, but ill-defined cerebrovascular disease	PheWeb_2019	Tmem132d	Bik	Cdx4	Ndufa6	Ebf1	Nfam1	Naga	Lsamp	Cog1	Mcat	Msra	Cpsf4l	Dlc1	Prps2	Ppp1r17	Pde1c	Trps1	Ube3a	Zfp957	Hs6st1	Stx11	Sox4	Wbp2nl	Dlgap2
+Adjustment reaction	PheWeb_2019	Gpm6a	Mylip	Eed	Fam98a	Nrxn3	Nr4a1	Hectd1	Il6	Frg1	Sh3bp4
+Adrenal cortical steroids causing adverse effects in therapeutic use	PheWeb_2019	Tenm1	Dnah8	Rfc3	Lama4	Brinp3	Zfp608	Pmfbp1	Prkcq	Csmd1	Socs5	Stk31
+Adrenal hypofunction	PheWeb_2019	Trim61	Pcp4l1	Wscd1	Zfp260	Zfp160	Abcg1	Agtr1b	Zfp619	Csrnp1	Ccdc25	Hs6st1	Tsen2	Scube1	Dpf3	Ctla4	Xirp1	Bend7
+Adult failure to thrive	PheWeb_2019	Slc30a8	Slc24a2	Gsk3b	Tenm3	Sec23a	Ksr2	Ptk7	Atxn7l3b	Nfia	Trhde	Adamts12	Gna15	Oaf	Cdh20	Lrrtm4	Cntn5	Kif20b	Tmem38b	Decr1	Piwil1
+Alcohol-related disorders	PheWeb_2019	Atp8a2	Sema3d	Stard13	Irx4	Haao	Crim1	Zbtb40	Incenp	Pced1b	Xirp2	Spry1	Sec63	Tnpo3	Slc19a3
+Alcoholic liver damage	PheWeb_2019	App	Chrm3	Tenm3	Pde1c	Map1s	Il17rc	Samm50	Rapgef2	Ppargc1b	Tns3	Gabpa	Pnpla3
+Alcoholism	PheWeb_2019	Oca2	Sema6c	Ntrk3	Tenm3	Tyrp1	Cd82	Ptafr	Crim1	Efcab8	Ets1	Zbtb40	Rps29	Sall3	Pced1b	Ptchd1	Il1rapl1	Vdac1	Zfp787	Slc19a3
+Allergic conjunctivitis	PheWeb_2019	Manba	Edem1	Pde4dip	Cidea	Zwint	Ehbp1	Obscn	Dusp22	Tab2	Acot7	Bcat1	Rcor1	Itsn2	Pcdh15	Thbs1	Chd2	Fam3b	Slitrk6	Rhbdl3	Kcnj3	Pag1
+Allergies, other	PheWeb_2019	Barhl2	Rtn4r	Stat1	Kcnj16	Lrrc63	Olig1	Gls	Chd1	Adamtsl2	Gng2	Parp11	Emcn	Hlcs	Ripply3	Grm8	Nuf2	Cdh13	Cytip	Kcnj2
+Allergy/adverse effect of penicillin	PheWeb_2019	Cast	Camk1d	Ndufb7	Mettl4	Tmem132b	Dcaf8l	Adra1d	Aff2	Pcsk5	Diaph2	Nps	Gpr176	Ptprd	Cdh13	Slc16a7	Ssxb5	Sgk1
+Alteration of consciousness	PheWeb_2019	Chrm3	Iqca1	Tapt1	Dnah11	Ttc34	Onecut2	Crmp1	Kazn	Evc	Ttll7	Grpel1	Neto1	Etnk1	Wdr7	Gpc5	Il12rb1	Ifna4	Pde8a	Tigd2	Sox6
+Altered mental status	PheWeb_2019	Tub	Lrrc25	Grid1	Slc34a2	Homer1	Pla2g4d	Cdc5lrt9	Plekha7	Tmem171	Crlf1	Rfx8	Cdh12	Galnt13	Pid1	Stxbp5	Tmtc2	Ipo8	Abr	Tnpo1	Fcho2	Dlgap1
+Althete's foot	PheWeb_2019	Nrp1	Tmco5	Ncald	Pcsk9	Sox13	Lats2	Bcl2l11	Frmd6	Pdcl3	Sap18b	Kcnn2	Snrnp48	Cc2d2a	Srgap3	Mocs2	Rph3a
+Amblyopia	PheWeb_2019	Pid1	Ccdc178	Dgkg	Pou1f1	Wscd1	Crbn	Nab1	Kcnj16	Lmf1	Dapl1	Otud7a	Gls	Gcfc2	Ski	Ankfn1	Glt1d1	Plxna2	Slitrk6	Tln2
+Amyotrophic Lateral Sclerosis	PheWeb_2019	Kcnd2	Sgip1	Atp1a4	Kif14	Atp10b	Jrkl	Cd99l2	Grem2	Kcnu1	Pcdh7	Rhbdl3
+Anal and rectal conditions	PheWeb_2019	Grid2	Serpinb1b	Tcf15	Sorcs2	Bfsp1	Cdyl	Ell2	Smad6	Tlr2	Il22ra1	Mmp16	Wnk2	Nbl1	Dgkb	Uxs1	Zfp553	Manea	Dpp6	Sptlc3	Nuf2	Capzb	Ephb1	Samd12
+Anal and rectal polyp	PheWeb_2019	Gucy1a2	Epha7	Lhfpl5	Smad6	Nme1	Srpk1	Nme2	Lyrm2	Ssu72	Far1	Scg2	Bcorl1	Tenm3	Bnc2	Cxcl14	Fstl5	Kcnmb2	Gja10	Ankrd6	Map3k7	Mdn1	Asic2	Rimkla
+Anaphylactic shock NOS	PheWeb_2019	Cdk18	Tenm1	Gria3	Tenm3	Zfp462	Eya4	Bmp7	Rasd2	Dppa2	Sfxn4	Msx1	Gpr158
+Anatomical abnormatilies of kidney and ureters	PheWeb_2019	Map3k1	Irx1	Usp24	Plg	Higd1c	Slc30a10	Mia2	Znrf2	Gemin8	Dnmt1	Letmd1	Cntln
+Anemia in chronic kidney disease	PheWeb_2019	Mylip	Myom1	Dnah5	Irx1	Nubpl	Ptpn13	Cdc73	Mrpl23	Glud1	Gabrr1	Man2a1	Lpin2	Sec63	Creb5	Ubxn7
+Anemia in neoplastic disease	PheWeb_2019	Ccdc39	Mylip	Rbfox1	Il4ra	Ankrd28	Smg1	Defa5	Tet2	Ano4	Colq	Btd	Dach2	Nfib	Slit2	Tcf4	Plekhh2	Frem3	Exoc2
+Anemia of chronic disease	PheWeb_2019	Ddr2	Mylip	Prr5	Gramd1b	Cd109	Col6a2	Peli2	Scn5a	Magea13	Ier5	Glis3
+Aneurysm of artery of lower extremity	PheWeb_2019	Mgrn1	C2cd3	Gadl1	Nap1l3	Zfx	Adam30	Ambra1	Slc7a5	Lpin1	Mat2b	Ppme1	Pacsin3	Ripk2	Map3k7
+Aneurysm of iliac artery	PheWeb_2019	Anp32b	Arg1	Osbpl6	Klhl1	Lrp1b	Bcr	Sh3pxd2a	Il1rapl2	Esf1	Smyd3	Mpdz	Csnk1g3
+Aneurysm of other specified artery	PheWeb_2019	Kcnip1	Ncoa1	Sema4f	Celf4	Ctnnd2	Gpx6	Rnf39	Mrpl39	2410137M14Rik	Slc35g2	Tmprss15	Msra	Akap12	Tnpo1	Irak2	Mcf2l	Alk
+Angiodysplasia of intestine (without mention of hemorrhage)	PheWeb_2019	Dpp10	Abca1	Sdc3	Adk	Lsamp	Ch25h	Tbx3	Tgm1	Rabggta	Zmym2	Tyw1	Suclg2	Nkain1
+Ankylosing spondylitis	PheWeb_2019	Vezt	Nek7	2410137M14Rik	Slc35g2	Pou5f1	Chd1	Ccdc88c	Stag1	Il6st	Tcf4	Cpeb3	Mill1	Faiml	Stox1
+Ankylosis of joint	PheWeb_2019	Steap4	Dnah11	Unc45a	Dennd4c	Lrrk1	Slc35d1	Tnks	Foxg1	Tnfsf14	Foxo6	Anxa10	Hunk	Clybl	Robo2	Man2a2	Pdgfd	Sox5
+Anomalies of pupillary function	PheWeb_2019	Dpp10	Tenm3	Trpc4	Mcm10	Tmem170b	Cdh8	Ahi1	Slitrk1	Arl4c	Ctnna2	Dlgap1	Rai14
+Anomalies of respiratory system, congenital	PheWeb_2019	Cd93	Thoc2	Hs3st4	Med13l	Sstr4	Nt5c2	Cnnm2	Cwc22rt7	Ninj2	As3mt	Or56a5	Lrrc4c
+Anomalies of tooth position/malocclusion	PheWeb_2019	Dnah5	Rbfox1	Rtp4	Bcl11a	Il1rap	Dhodh	Wnk1	Smyd3	Txnl4b	Golga2	Mcph1	Plcb1
+Anorexia	PheWeb_2019	Unc5b	Col15a1	Cep85l	Cacna2d1	Uxs1	Mrpl39	Adam22	Pcdh19	Cdh8	Pja2	Epcam	Srsf4	Tyw1	Hprt1	Calm2	Pcbd1	Trabd2b
+Antepartum hemorrhage, abruptio placentae, and placenta previa	PheWeb_2019	Gabrb3	Wscd2	Zdhhc20	Elovl6	Cacna1a	Wwc2	Lama4	Prickle1	Atp2b2	Chd1	Klhl1	Brinp3	Gsta3	Palld	Kcnq3	Papola	Agxt2	Rspo2	Micu2	Zfp59
+Anterior pituitary disorders	PheWeb_2019	Stpg2	Gabbr2	Pnpt1	Bcl11a	Ntn1	Tmem71	Efemp1	Flg2	Crnn	Phf20l1	Ccdc88a	Tg	Klf6	Tmx3	Pebp4	Cylc2
+Antineoplastic and immunosuppressive drugs causing adverse effects	PheWeb_2019	Nufip1	Prkcsh	Lama2	Fzd7	Tmem132b	Stam	Cdyl2	Ajap1	Nr4a2	Sbno2	Csmd1	Prok1
+Antisocial/borderline personality disorder	PheWeb_2019	Brsk2	Ifna4	Arhgap42	Adamts2	Cux1	Rasef	Nrxn1	Inhba	Rpl38	Kdm6a	Prok2
+Anxiety disorder	PheWeb_2019	Anxa1	Eif2ak4	Kcnj16	Creg1	Nrg1	Pard3b	Baiap2	Tab2	Vip	Sim1	Ttyh1	Wdr20rt	Clcn4	Agpat4	Tmem72	Dusp10	Fam178b	Hsd17b3	Camta1	Cmklr1	Map2k6
+Anxiety, phobic and dissociative disorders	PheWeb_2019	Eif2ak4	Creg1	Nrg1	Qpct	Htr5a	Incenp	Fgf13	Vip	Sim1	Dgkd	Luzp2	Slc23a2	Ttyh1	Ptprm	Wdr20rt	Lrp5	Dcaf6	Sec14l3	Fam178b	Hsd17b3
+Aortic aneurysm	PheWeb_2019	Nrp2	Irx5	Unc5d	Erich1	Nlrc5	Tmem170b	Ext1	Arhgap20	Selp	Zfp42	Pitrm1	Zfp507	Cdh13	Srbd1	Msx2	Bcas1	Csmd1
+Aortic ectasia	PheWeb_2019	Wwox	Map3k2	Cfi	Dmrt2	Rrh	Ttyh1	Trappc9	Metrnl	Cdc42bpb	Qrsl1	Klf3	Ascl1	B3gntl1	Fstl4	Myo1d	Lrit3	Zfp507	Gar1	Edil3
+Aphasia	PheWeb_2019	Ryr1	Tenm4	Zfp637	Kalrn	Runx2	Emcn	Olfm3	Pde10a	Snrpd3	Specc1l	Btbd3	Fam181b	Sp9	Ephb4
+Aphasia/speech disturbance	PheWeb_2019	Tenm3	Crabp1	Zbtb16	Fam107b	Tnfrsf22	Nmd3	Rfx4	Or9q1	Pax7	Ppm1l	Fam110b	Rragc	Sms	Fam20a	Slc17a8	Tll1	Zpld1	Atp6v1h	Fbxl7
+Aplastic anemia	PheWeb_2019	Epha5	Ctdp1	Gorab	Ube2d1	Gimap6	Msh2	Fah	Npas2	Slc8a3	Zeb2	Tbc1d8	Drd1	Ncam2	Ltf	Aco1
+Apnea	PheWeb_2019	Gucy2c	N6amt1	Fam43a	Vwf	Actn2	Nrxn1	Nfia	Gata3	Mzt1	Sorcs3	Sdk1	Dab1	Rgs22	Ypel5
+Appendiceal conditions	PheWeb_2019	Slc24a3	Cox18	Fam107b	Adarb2	Farp1	Cpped1	Mrpl23	Dlg2	Stag2	Echdc3	Lcor	Aco1
+Appendicitis	PheWeb_2019	Gin1	Iqsec2	Dusp26	Zeb1	Myot	Echdc3	Arpp21	Pik3c3	Aco1	Cdh18	Cntnap4	Fam107b	Snx13	Jrkl	Slco6c1	Agpat5	Rgs6	Akap11	Basp1	Boc	Gpc1
+Arrhythmia (cardiac) NOS	PheWeb_2019	Usp37	Mctp1	Api5	Hus1	Myo5a	Pkd1l1	Helz	Ncor2	Or2l13b	Prkar1b	Fat1	Npy	Cacng1	Nmur2	Rps6kc1	Disc1	Cacng4
+Arterial embolism and thrombosis	PheWeb_2019	Cbln1	Fancl	Slc10a2	Cog5	Vps13d	Runx1	Sox14	Commd4	Slc4a10	Rad51b	Pstpip1	Sntg2	Dlgap2	Hbp1	St3gal1	Kcnj2	Mark4	Slc26a4	Sh3gl3	Vgll4
+Arterial embolism and thrombosis of lower extremity artery	PheWeb_2019	Ntrk3	Nckap5	Ccdc154	Gramd1a	Itsn1	Maoa	Klhl2	Atp10a	Sgcz	Parp11	Cdh4	Snx29	St3gal1	Mark4
+Arthralgia/ankylosis of temporomandibular joint	PheWeb_2019	Adam32	Nav2	Arfgap3	Nr4a2	Sars2	Tmem17	Aldh1a2	Angel1	Acin1	B3gnt2	Rbms3	Cebpa	Mcur1	Ptger4	Ptprm	Iqgap2	Lipc	Stk3	Pter	Spock3	Galr1	Eif4e	Samd3
+Arthropathy NOS	PheWeb_2019	Lingo2	Bnip3l	Lmo4	Ppp1r16b	Gulp1	Rufy1	Dnmbp	Klf7	Hnrnph1	Col5a1	Spry2	Src	Zfp692	Ndufa12	Ston2	Lama1	Atxn7l1	Slit3	Caln1	Kcnj3
+Arthropathy associated with neurological disorders	PheWeb_2019	Mreg	Satb1	Pcdh15	Slc39a11	Ptgr2	Gnai1	Klhl32	Pdgfrl	Ppm1h	Tbc1d5	Ppfia2	Tnfrsf8	Ncam2	Nxph1
+Arthropathy associated with other disorders classified elsewhere	PheWeb_2019	Rbm19	Hspa4	Mllt3	Ptgr2	Trhde	Actr3b	Tmc5	Dytn	Klhl32	Dync2li1	Stmn2	Tnfrsf8	Phactr3	Lin52	Plekhh2
+Ascites (non malignant)	PheWeb_2019	Tle3	Akr1e1	Usp43	Ly86	Pan3	Kcnq1	Scn10a	Serbp1	Smoc2	Tusc1	Bcat1	Steap1	Akap1	Dcaf8l	Clint1	Thbs2	Adamts16	Scn5a	Tyw1	Dmd	Il12rb2	Ppargc1a	Mnx1	Clasp2	Asic2
+Aseptic necrosis of bone	PheWeb_2019	Akap1	Mamld1	Oxsm	Nalcn	Larp4	Sox11	Agpat4	Klhl1	Tmem135	Frmd4a	Dpyd	Sh3bp4	Galntl6	Kcnn3	Eppk1	Slc39a8	Cdc123
+Asthma with exacerbation	PheWeb_2019	Mctp1	Bcl11b	Dysf	Crocc	Klhl4	Themis	Igsf10	Arhgap24	Col4a1	Tmem114	Iglc3	Mier3	Dppa2	Tcerg1l	Tusc1	Rnf152	Tekt5	Tmcc3
+Astigmatism	PheWeb_2019	Hs3st1	Dcc	Hdac4	Celf2	Edem1	Scoc	Tm2d1	Dtnbp1	Pcdh15	Cpox	Adamts12	Gdf6	Agap1	Tspan11	Auh	Tpo	Kcnn2	St8sia6	Plcg2	Suclg1	Tab2	Mgll
+Atherosclerosis	PheWeb_2019	Ttll10	Pcdh10	Rtkn2	Trappc11	Nol4	Ajap1	Rhobtb3	Spata9	Tpcn2	Clip4	Ptp4a2	Synpr	Lpin1	Setx	Xpnpep1	Mat2b	Chl1	Scnn1b	Pmp2	Tbc1d22a
+Atherosclerosis of aorta	PheWeb_2019	Gria3	Nyap2	Tango6	Spats2	Intu	Rbpms	Fam171a1	Sdk2	Mat2b	Bcl7a	Dnajc22	Pdgfd	Dsc3
+Atherosclerosis of native arteries of the extremities with ulceration or gangrene	PheWeb_2019	Ddx18	H2-Ab1	Fgf14	Vgll3	Acbd3	Nrep	Cep70	Csmd1	Mill1
+Atherosclerosis of renal artery	PheWeb_2019	Chrm3	Nyap2	Lsamp	Gfra2	Nedd8	Kdr	Ptchd4	Fam76b	Dync1i1	Pcdh1
+Atherosclerosis of the extremities	PheWeb_2019	Prmt8	Trappc11	Slc6a15	Tex15	Apbb1ip	Dld	Aire	Nol4	Ing2	Ppfibp1	Synpr	Zfp608	Npvf	Riok1	Ephb1	Tbc1d22a
+Atopic/contact dermatitis due to other or unspecified	PheWeb_2019	Dpp10	Epha5	N6amt1	Dcc	Ect2l	Tyrp1	Adam12	Pear1	Ipo5	Agpat5	Htr7	Tox2	Rbbp6	Slitrk6	Bpi	Kif20b	Arhgef7
+Atrial fibrillation	PheWeb_2019	Trim61	Tgfb2	Ttc12	Tmem132c	Myo5a	Prox1	Tacr3	Prrc2b	Sst	Zeb2	Uck1	Mthfd2l	Slc9a9	Aldh1a2	Ankk1	Cep44	Epha3	Ccdc146	Atf3	Tenm3	Aqp9	Pomt1	Mki67	Cxcl1	Robo2	Brs3	Sall3	Plxna1	Rps6kc1
+Atrial fibrillation and flutter	PheWeb_2019	Trim61	Tgfb2	Ttc12	Myo5a	Prox1	Tacr3	Mzt1	Sst	Uck1	Mthfd2l	Nox4	Spats2l	Ankk1	Cep44	Epha3	Tenm3	Mki67	Cxcl1	Robo2	Brs3	Rps6kc1	Rgs7
+Atrial flutter	PheWeb_2019	Kdm4b	Tenm2	Dcc	Ptprs	Tenm3	Daglb	Stk11ip	Kdelr2	Zbtb38	Tfeb	Nav2	Slc4a3	Pard3b	Snx2	Col4a3	Cry1	Dlgap1	Cyp2f2
+Atrioventricular block, complete	PheWeb_2019	Btnl9	Atp8a2	Tmem132b	Nsun7	Fhit	Aff2	Eea1	Mboat1	Parl	Panx1	Tbrg1	Tnip3	Hephl1	Id2	Yeats2	Peli2	Ephb1	Fgf12	Mcph1	Kcnh2	Siae
+Atrophic gastritis	PheWeb_2019	Insr	Chst8	Zfp804b	Kazn	Pdgfa	Ajap1	Mbl2
+Attention deficit hyperactivity disorder	PheWeb_2019	Nrp2	Unc13a	Dnah3	Ctnnd2	Ndufb4	Fstl1	Klhl4	Acsm5	Cpxcr1	Olfm4	Grm7	Ppp6r2	Wdr70	Piezo2	Drd1	Svep1	Bcat1	Rbm47
+Autoimmune disease NEC	PheWeb_2019	Adamts5	Fggy	Fgf9	Rnls	Nsun3	Macrod2	Clasp1	Traf3	Dscam	Cdc42bpb
+Back pain	PheWeb_2019	Lgi2	Myt1l	Mmp2	Scara5	Tusc3	Adarb2	Hpse2	Efna5	Foxp4	Cyp19a1	Pcsk5	Frg1	Rims1	Hecw2	Pfdn2	Ctnna3	Pamr1
+Bacteremia	PheWeb_2019	Wwox	Irx3	Psd	Chst8	Gabra4	Heg1	Gabrg1	Slc35e1	Cmbl	Rufy1	Slco1c1	Hnrnph1	Lyrm7	Asb2	Zkscan17	Dock5	Gabrb1	Fmn2	Hint1	Nps	Nipal1	Nrbf2	Tyw1	Cct5	Cnga1	Corin
+Bacterial enteritis	PheWeb_2019	Or9g20	Camk1d	Cd96	Kcnh5	Akr1e1	Lmo4	Pde4d	Huwe1	Hsd17b10	Etl4	Tjp1	Grm8	Hrh4	Pxdc1	Cntn4	Kcnj2	Lrrc4c	Snx7
+Bacterial infection NOS	PheWeb_2019	Foxa2	Actr3	Chka	Hspb3	Mafb	Sgcz	Med7	Parp11	Ptprd	Snx18	Fam174b	Id2	Gpc6	Otx2	Zfpm2	Cluap1	Itk
+Balanoposthitis	PheWeb_2019	Rasa1	Gsta3	Ist1	Ccz1	Ccnh	Mal	Tekt4
+Bariatric surgery	PheWeb_2019	Cox7c	Cog6	Fhod3	Nedd4l	Ube2e1	Cdh8	Diaph2	Snx5	Dach1	Dram1	Sh3tc1	Mmrn1	Ccser1	Dynlrb2	Fbp2	Mark4
+Barrett's esophagus	PheWeb_2019	Epha6	Sema3a	Dcc	Fancl	Jun	St6galnac3	Mgmt	St8sia2	Bcl11a	Cep164	Etv1	Stambpl1	Adamts12	Aff2	Camkk2	Dpysl2	Xpnpep1	Rras2	Fat1	Drd4	Rapgef5
+Basal cell carcinoma	PheWeb_2019	Tgfb2	Unc93a	Def8	Tyr	Dbndd1	Irf4	H2-Ab1	Chmp4b	Pom121l12	Trp53	Prdm9	Adarb2	Dcaf5	Acacb	Rai2	Tbrg1	Raly	Zfp341	Edem2	Wrnip1	Cbfa2t2	Bpifb1	Sdk2	Mc1r	Nox4	Zmynd8	Arhgap8	Pigu	a	Ung	Mmp24	Bpifa2	Spred1	Alkbh2	Cdk5rap1	Rrp15	Ptchd4	Rspo1	Agr2	Snta1	Zfp385b	Sh3gl2
+Benign mammary dysplasias	PheWeb_2019	Ntrk2	Myo16	Agtpbp1	Kcnd3	Gfra2	Cript	Nedd1	Cntn5	Pik3c3	Cdk14	Or6a2	Mphosph6	Slc35e2	Col16a1	Gypa	Thrb	Klhl13	Samhd1	Hmgn5	Scml4	Kcnmb2	Scn5a	Socs5
+Benign neoplasm of adrenal gland	PheWeb_2019	Nrsn1	Wwox	Otor	Arl15	Hps5	Htr4	Tmem243	Fam181b	Dmd	Srgap1	Lonrf1
+Benign neoplasm of bone and articular cartilage	PheWeb_2019	Tle4	Foxd3	Api5	Kcna4	Amot	Robo1	Kctd8	Zcwpw2	Atg4c	Msx2
+Benign neoplasm of brain and other parts of nervous system	PheWeb_2019	Krt72	Nrp1	Rbfox1	Tle3	Cetn3	F13a1	Tmem132b	Nrg2	Tbx3	Msra	Adamtsl1	Zpbp2	Sh3bp1	Ormdl3	Rims1	Cdhr3	Stmn2
+Benign neoplasm of brain, cranial nerves, meninges	PheWeb_2019	Egfl6	Crp	F13a1	Fhit	Rora	Msra	Adamtsl1	Hspg2	Tbl1xr1	Sh3bp1	Hand2	Lhx1	Id4	Rps10	Smpdl3b	Pacsin1	Rgs8
+Benign neoplasm of breast	PheWeb_2019	Ntrk2	Myo16	Agtpbp1	Kcnd3	Thrb	Gfra2	Klhl13	Acvr2a	Samhd1	Slco1b2	Hmgn5	Nedd1	Scml4	Tmem47	Scn5a	Tldc2	Pik3c3	Mphosph6	Scarb1
+Benign neoplasm of colon	PheWeb_2019	Dnah14	Gabra3	Gabrq	Gins3	P2ry12	Cdx2	Rassf8	Commd1	Defb18	Zdhhc11	Hs3st2	Adcyap1	Ttll7	Or2t1	Bhlhe41	Fkbp1a	Cdh13	Atg4b	Tmcc3	Crisp4	Krt80	Sema3e	Mrfap1	Med12l	Tmem144	Adamts5	Cdh6	Akap12	Lrig2	Ankrd55	Arih1	Nrcam	Slc15a5
+Benign neoplasm of eye	PheWeb_2019	Hs3st1	Megf6	Celf2	Dysf	Tmem132b	Prdm16	Pld5	Lax1	Ccnb3	Myo1f	Asb10	C1d	Zfp608	Kcnma1	Rspo3	Prr16	Mon1b	Galnt9
+Benign neoplasm of eye, uveal	PheWeb_2019	Hs3st1	Lingo2	Megf6	Dysf	Afap1	Pld5	Lax1	Tmprss15	Ccnb3	Galc	Myo1f	Asb10	C1d	Zfp608	Rbms1	Rspo3	Mon1b
+Benign neoplasm of lip, oral cavity, and pharynx	PheWeb_2019	Pcsk2	Prkcg	Spata6l	Fgfbp3	Htr1f	Ccz1	Slc10a2	Slc1a1	Mageb16	Dapl1	Grm7	Taf1d	Cnr1	Tead1	Samd5
+Benign neoplasm of lymph nodes	PheWeb_2019	Esrrb	Nrp1	Myo16	Slc13a3	Ppara	Slc10a2	Cacna1e	Btbd9	Ppp2r5a	Ror2	Edil3	Csmd1	Dis3l2
+Benign neoplasm of male genital organs	PheWeb_2019	Spata6l	Chia1	Cog6	Vps13d	Ppp2r5e	Pisd	Egfr	Abr	Dazl	Extl3	Gng4	Fam135b	Erbb4	Psd3	Prr14l	Phf14	Itgb8	Sfi1	Creb5	Ido2
+Benign neoplasm of other endocrine glands and related structures	PheWeb_2019	Abcc4	Wwox	Atf7ip	Kcnj6	Prmt6	Xrcc2	Lrp1b	Ttc39c	Rufy1	Cpeb2	Galntl6	Sugt1	Btk	Ptpru	Cul3	Glis3	Prss22	Baiap2l1	Fam124b	Mat2b	Xirp2	Gria4	Opcml
+Benign neoplasm of other female genital organs	PheWeb_2019	Egfl6	Myo16	Dmgdh	Klhl14	Slc4a4	Ticrr	Ppfibp1	Nr4a2	Ednrb	Golph3	Camk2n1	Rasgef1c	Macrod2	Serpini1	Or4a78	Csmd2
+Benign neoplasm of other parts of digestive system	PheWeb_2019	Tfap2c	Gsdmc2	Myo5a	Zfp804b	Sorcs2	Ank1	Nr5a2	Sdk1	Wee1	Lmx1a	Asb3	Megf6	Celf2	Mageb16	Mrpl39	Arhgap18	Adcy7	Ptprg	Sgcd	Rrp15	Brd7	Csmd1	Jam3
+Benign neoplasm of ovary	PheWeb_2019	Irx2	Ccbe1	Epb41	Pcyt1b	Frmpd4	Tle1	Tmem200b	Prnp	Cnpy1	Adra1d	Arhgef10l	Fstl4	Pola1	Nr4a2	Rgs3	Zfp64	Btbd3	Naf1	Dmd	Kank4
+Benign neoplasm of parathyroid gland	PheWeb_2019	Abcc4	Sdr42e1	Usp6nl	Aadat	Abhd4	Cul3	Serpine2	Dcun1d2	Tmtc4	Adprhl1	Epm2aip1	Dock10	C1d	Dad1	Lrrfip2	Dock2	Zfp212
+Benign neoplasm of respiratory and intrathoracic organs	PheWeb_2019	Prmt6	Rbfox3	Trpc7	Kcnip4	Cask	Lrrc20	Ptpre	Bmp4	Myo3b	Fto	Blm	Atl2	Dcaf8l	Tmem182	Grk5	Pitrm1	Ppp4r4	Lrig1	Zfp449	Bbs9	Hs1bp3
+Benign neoplasm of skin	PheWeb_2019	Ppp1r26	Sstr4	Ube2ql1	Slc9a3	Eml6	Cpeb2	Ttc6	Suclg2	Astn2	Foxa2	Prdm5	Il23r	Slc23a2	Usp12	Lpp	Phax	Ntn1	Arhgap15	Kcnt2	Adamts19	Gsc	Ndst4	Mfap3l	Lonrf1	Sox6
+Benign neoplasm of spinal cord, meninges	PheWeb_2019	Angpt2	Pcdh15	Cnot10	Rasgrp3	Slc8a3	Impa2	Insc	Btbd3	Cd109	Mc4r	Tekt3	Srgap3	Psmg1	Mcph1
+Benign neoplasm of thyroid glands	PheWeb_2019	Narf	Grid2	Tmem132b	Ghitm	Litaf	Msra	Bcl9	Cdh4	Fam135b	Obp2b	Spock3	Cnot4	Tmem167	Atp6v1c2	Lonrf1
+Benign neoplasm of unspecified sites	PheWeb_2019	Rbfox1	Mctp1	Prelid2	Rabl2	Slc35f5	Usp24	Klhl4	Tbca	Tmem123	Sdk2	Reln	Rnf144a	Sox2	Zfp608	Prps1l1	Tbc1d16
+Benign neoplasm of uterus	PheWeb_2019	Irx3	Agtpbp1	Sptb	Tmem114	Nfib	Antxrl	Fat3	Serinc2	Spry2	Gas7	Vstm2a	Tenm3	Ndufb4	Cacna1e	Gnai1	Sgcg	Chordc1	Tbx20	Plxna2	Phactr1	Atp9b
+Bipolar	PheWeb_2019	Zc3h13	Vtcn1	Actl7b	Akap7	Zhx2	Tspan11	Ogfrl1	Sgcd	Pik3r1	Krtap8-1	Tcp11l2	Cpne4	Frem3
+Blindness and low vision	PheWeb_2019	Klf12	Rgs3	Grb14	Lamc1	Tax1bp1	Pcsk5	Or10a49	Sox6
+Blood in stool	PheWeb_2019	Dnah14	St6gal2	Zfp462	Chodl	Cep112	Serpinb1b	Celf5	Wdr64	Mgst1	Ppp1r3a	Baiap3	Grhl2	Chd1	Klhl6	Rims1	Dmrta1	Nedd4	Samd5
+Bone cancer	PheWeb_2019	Kcnip1	Luzp2	Dio1	Slc52a3	Pcdh18	Vav3	Fgf18	Dpp6	Stk33	Dach1	Ttll6	Sin3b	Dym	Nrip3	Gm6133	Cpeb4	Pak4	Eif3e	Trim66
+Bone marrow or stem cell transplant	PheWeb_2019	Abcc4	Cul7	Stard8	Ptprm	Ptk7	Ppp2r5d	Cdkal1	Parp12	Htr7	Arhgef3	Lmcd1
+Breast cancer	PheWeb_2019	Pid1	Smox	Nrxn1	Slc6a11	Efna5	Arr3	Grhl1	Tox3	Nat1	Ccnd1	Grm7	P2ry4	Hsd17b2	Ndn	Sostdc1	Dmd	Pik3c3	Ccdc60	Pknox2	Mcph1	Fgfr2
+Breast cancer [female]	PheWeb_2019	Pid1	Gsk3b	Smox	Nrxn1	Sorbs1	Adra1b	Arr3	C3	Grhl1	Tox3	Nat1	Ccnd1	Grm7	P2ry4	Tert	Gpd2	Sostdc1	Dmd	Pknox2	Fgfr2
+Breast conditions, congenital or relating to hormones	PheWeb_2019	Ireb2	Kank1	St6gal1	Mettl4	Adcy8	Ralyl	Shisa9	Sh3rf1	Zfp64	Man1c1	N4bp3
+Bronchiectasis	PheWeb_2019	Ipmk	Or5j3	Nrxn1	Gnal	Sdk2	Tbc1d32	Cdc42ep4	Ywhaq	Or4c10b	Or4a15	Or4c12	Tyw1	Or4a78	Or4a74	Pom121l12
+Bronchitis	PheWeb_2019	Cdrt4	Rnls	Esrrg	Fndc3b	2410137M14Rik	Tanc2	Anapc4	Erg	Slc27a6	Plcb1	Spag17	Setd3	Daglb	Kdelr2	Ldlrad3	Fbxo45	Adra1a	Mylk4	Pak2	Dach2	Car8	Rac1	Gpc5	Apol7e
+Bursitis	PheWeb_2019	Irx3	Ksr2	Osbpl3	Ppp2r5c	Rassf9	Htr1a	Arid1b	Pard3b	Ajap1	Mras	Matn1	Trib2	Hfe	Rnf180	Nts	Robo1	Efnb2	Itpripl2	Mal2	Igfbp7
+Bursitis disorders	PheWeb_2019	Fbln7	Lingo2	Slc24a2	Tango6	Mgmt	Slc2a2	Cask	Actr3b	Bcr	Fggy	Zmiz1	Dsel	Slc25a26	Trib1
+Calculus of kidney	PheWeb_2019	Nqo1	Il34	Stard5	Cog4	Vwc2	Wwp2	Tnni3k	Enah	Ddx19a	Coprs	Ddx19b	Olfm3	Ptprd	Mdfic	Slc9a9	Dock2	Nfat5	Sf3b3	Usp12	Tcf21	Nob1	Arhgap15	Clec18a	Pdpr	Plxna2	Slit1	Ccr6	Mark4	St3gal2	Zfp385b
+Calculus of lower urinary tract	PheWeb_2019	Cdh6	Stx18	Ndn	Kynu	Eml2	Mapk6	Ano4
+Calculus of ureter	PheWeb_2019	Irx2	Nqo1	St8sia1	Tmem132c	Oosp1	Tmem82	Klhl1	Coprs	Rps29	Kcnma1	Fat1	G2e3	Nfat5	Tenm3	Rpl10l	Prkag2	Hs6st1	Rasgrp3	Mis18bp1	Pofut2	Mpz	Rps6ka2	Ctnna2	Tprg1	Kcnj3	Ctsc
+Cancer of bladder	PheWeb_2019	Kcnd2	Pabpc5	Tmem132b	Or52m1	Dck	Nsun7	Fermt1	Gjb1	Galc	Col4a1	Dok5	Serbp1	Pnpla6	Fmod	Fbxl7	Lyplal1	Six2	Plb1	Robo2	Epb41l4a	Fgf9	Sh3bgrl	Kcnmb2	Hmcn2
+Cancer of bone and connective tissue	PheWeb_2019	Mbnl2	Auts2	Ccz1	Gch1	Mamstr	Tmc8	Vrk2	Fbxo34	Bambi	Etnk1	Upp2	Rbms3
+Cancer of brain	PheWeb_2019	Col19a1	Gucy1a2	Nrn1	Usp6nl	Ak5	Shroom2	Mafb	Sgcz	Sgcg	Slitrk1	Ptprd	Igkv15-103	Has2	Echdc3	Pgm3	Gsg1l	Arhgef3	Ctnna3	Tcf4
+Cancer of brain and nervous system	PheWeb_2019	Rhbdf2	Tsfm	Tspan31	Ube2e2	Dtx3	Shroom2	Sgcz	Abat	Tsen2	Prex2	Dpy19l3	Igkv15-103	Cdk4	Echdc3	Ackr3	Gsg1l	Ctnna3	Zfpm2	Bcas3	Tectb
+Cancer of bronchus; lung	PheWeb_2019	Ngfr	Ntng2	Tenm2	Cntnap2	Jun	Rfc5	Wnt5a	Ccdc28a	Msi2	Nrep	Prkdc	Sox13	Smarca2	Ptprg	Spidr	Sdk1	Kcnma1	Tll1	Ube2v2	Mrrf	Cylc2
+Cancer of connective tissue	PheWeb_2019	Mbnl2	Vrk2	Lhfpl3	Fbxo34	Bambi	Stt3b	Myzap	Fam20b	Scg2	Rbms3	Gosr2	Ehmt1	Fscb	Osbpl10	Cdc27	Upp2	Polr2m
+Cancer of eye	PheWeb_2019	Spag17	Parp4	Pinx1	Fbxo16	Ola1	Lrrc7	Olig3	Pgbd5	C1qtnf9	Xkr6
+Cancer of hypopharynx	PheWeb_2019	Tmem114	Ncs1	Ctnna2	Sclt1	Gpc6	Ncam2	Prkg1
+Cancer of intrathoracic organs	PheWeb_2019	Siglec15	Myof	Mob3b	Mlph	Pstpip2	Epg5	Pigl	Naf1	Mageb4
+Cancer of kidney and renal pelvis	PheWeb_2019	Lgi2	Mreg	Slc13a5	Slc35f5	Erich1	Klhl25	Shisa9	Ptp4a3	Rp2	Chn2	Slitrk6	Cntn4	Tln2	Trib2	Cpvl	Fsip1	Csmd1	Apol7e
+Cancer of larynx	PheWeb_2019	Tapt1	Tenm3	Pcyt1b	Masp1	Arx	Col23a1	Klhl29	Rpl34	Tescl	Lgalsl	Pcsk6	Pum1	Ogfrl1	Pola1	Ptprd	Dsg1a	Pde5a
+Cancer of larynx, pharynx, nasal cavities	PheWeb_2019	Csgalnact1	Entpd1	Slc13a4	Pcyt1b	Pum1	Kif6	Pola1	Dsg1a	Cntn5	Pde5a	Trmt12	Vstm2b	Adpgk	Rpl34	Cxcr5	Tmem182	Hs6st3	Dpp6	Mecom	Gse1	Ywhaq	Ssxb5	Ncam2	St3gal1
+Cancer of major salivary glands	PheWeb_2019	Cacna1c	Ebf3	Sorcs1	Fam187b	Rnf125	Trim30a	Anxa8	Tcf4	Trim75
+Cancer of mouth	PheWeb_2019	Sema6b	Usp9x	Atp11c	Unc5d	Pde10a	Ust	Snrnp48	Plek	Slc35d2	Cdca7	Dnah7c	Dysf	Cdc14b	Trpm3	Or10w1	Hivep2	Habp4	Piezo2	Cc2d2b	Rttn	Arglu1	Csmd1	Zfp367
+Cancer of of nasal cavities	PheWeb_2019	Rhbdf2	Anxa1	Sema6b	Fnbp1	Mageb18	Arx	Dbx1	Hsd17b12	Trhde	Zbtb20	Cdh8	Aanat	Prkcz	Vapb	Zic1	Mageb5b	Astn2
+Cancer of oropharynx	PheWeb_2019	Kirrel3	Chd7	Crim1	Bmp7	Bmp5	Prex2	Rap2b	Shq1	Fgf9	Ptprb	Tnr	Zfp704	Atp13a3	Cntn4	Arpp21	St3gal1	Vgll4
+Cancer of other female genital organs	PheWeb_2019	Trap1	Ttc39b	Tgfbr3	Vav3	Nlrp12	Dnase1	Cd6	Galntl5	Fam181b	Cluap1	Dock1	Ndufa12	Atp10b	Lrrtm4	Atp6v0a4
+Cancer of other lymphoid, histiocytic tissue	PheWeb_2019	Siah1a	Epm2a	Nudc	Tenm2	Cntnap2	Luzp2	Ccni	Muc5ac	Begain	Best3	Abr	Nudt12	Pnma1	Vma21	Tox
+Cancer of other male genital organs	PheWeb_2019	Limch1	Tango6	Mga	Defa5	Pax1	Rab30	Cldn11	Atp13a3	Trmt11	Vdac2	Suclg1	Dsc3	Gria1	Luzp2	Igsf3	Ak3	Hsd17b4	Nrxn3	Hoxc6	Mgat3	Phgdh	Csmd1	Hoxc8
+Cancer of prostate	PheWeb_2019	Slc38a1	Auts2	Pde4dip	Pde4d	Zfp637	Elovl7	Hspa4	Lyrm2	Nin	Lhx3	Ppa2	Rbms3	Hip1	Tenm2	Thrb	Sema3e	Intu	Cxxc4	Fzd10	Nr3c2	Bach2	Pclo	C1qtnf9	Hivep2	Pcdh7	Ankrd6	Mdn1	Pou5f1
+Cancer of stomach	PheWeb_2019	Gsdmc2	Slc44a4	Trappc11	Ctnnd2	Mrs2	Nalcn	Osmr	Dcdc2a	Mob3b	Dpp6	Prkd1	Rreb1	Dscaml1	Zfp521	Sh3gl2
+Cancer of the gums	PheWeb_2019	Parg	Fam135b	Btbd2	Ldb2	Nckap1l	Ogdhl	Gbe1	Oprk1	Gtsf1
+Cancer of the mouth floor	PheWeb_2019	Chst8	Or13ae2	Prkdc	Atp10a	Dcbld1	Disp1	Spidr	Mycs	Sall1	Astl	Mcm4	Or5an1	Trpm8	Gopc	Ube2v2	Csmd1
+Cancer of tongue	PheWeb_2019	Cadps2	Hgsnat	Slc25a1	Car10	Luzp2	Dnah7c	Ldlrad3	Unc5d	Cdc73	Rora	Ptbp3	Spidr	Cacna1h	Robo2	Sis	Ephb1
+Cancer of urinary organs (incl. kidney and bladder)	PheWeb_2019	Lgi2	Anxa1	Slc10a2	Tmem132c	F7	Olfm2	Meis1	Sp3	Eef1g	Scnn1b	Dsc3	Arhgef7	Cntnap2	Bhlhe23	Klhl14	Fgf9	Basp1	Mcf2l	Cxcr4	Susd4	Lactbl1	Arvcf
+Cancer within the respiratory system	PheWeb_2019	Ngfr	Klf12	Rfc5	Pla2g4e	Wnt5a	Nfatc1	Sox13	Smarca2	Spidr	Sdk1	Ptprd	Kcnma1	Tll1	Ube2v2	Cylc2	Fam50b	Slc24a3	Tenm2	Cntnap2	Ccdc28a	Prkdc	Vldlr	Frzb	Neto1	Lrrc4c
+Cancer, suspected or other	PheWeb_2019	Tmem132b	Taldo1	Eepd1	Nr4a3	Diaph2	Nell2	Phospho1	Dpy19l2	Neil3	Tmem117	Asb3	Cbln4	Vwa8	Pid1	Dlx4	Rab11fip2	Rnf217	Pitrm1	Mbl2	Nck2
+Candidiasis	PheWeb_2019	Gabbr2	Anxa3	Tmem132c	Runx1	Nsg2	Msl2	Pdgfrl	Inf2	Pkn2	Atp6v0d2	Fgfr2	Kdm8	Dnah2	Tenm4	Pcdh15	Trank1	Acap1	Shd	Zfp78	Bcas3	Ppfia4
+Candidiasis of skin and nails	PheWeb_2019	Kdm4b	Mcfd2	Sema5a	Tnfrsf13b	Actn1	Ptger4	Mitf	Pcdh15	Ttc7	Nbea	Zwint	Tjp1	C7	Mat2b	Cth	Dock1
+Carbuncle and furuncle	PheWeb_2019	Cdsn	Elf4	Mecom	Kcnmb2	Fat3	Cacna1e	Dchs2	Gpc6	Gata3	Gli3
+Carcinoma in situ of skin	PheWeb_2019	Vps9d1	Osr1	Fanca	Esrrg	Def8	Pbx1	Dbndd1	Adam2	Tiam2	Mc1r	Sbk1	Tbx15	Irf4	Ido1	Exoc2	Cdc42se2	Mtpn	Zfp276	Ndufb6	Tfb1m	Fhit	Pdpn	Tbc1d19
+Cardiac and circulatory congenital anomalies	PheWeb_2019	Pdha2	Hbb-y	Pde4dip	Tcf25	Pitpnb	Pdgfa	Ttc28	Dera	Fchsd1	Cdh10	Cdh2	Eif3h	Plxna2	Clnk	Rell2	Havcr2	Timd2	Opcml	Tns3
+Cardiac arrest	PheWeb_2019	Mbnl1	Ndrg4	Wwc2	Gap43	Helb	Nova1	Zmym4	Sfpq	Dmrta1	Tyw1	Ctsh	Rgs9	Tns3
+Cardiac arrest and ventricular fibrillation	PheWeb_2019	Ttc19	Tmeff2	Ncor1	Gap43	Pigl	Tyw1	Triml1	Umodl1	Opcml	Nck2
+Cardiac complications, not elsewhere classified	PheWeb_2019	Ddx18	Gabra2	L3mbtl4	Mmgt1	Syt2	Mycbp2	Tshz2	Prkx	Dctd	Slc9a6	Zeb2	Mthfd1l	Emc8
+Cardiac conduction disorders	PheWeb_2019	Wwox	Kirrel3	Tgfb2	Trpc7	Akr1e1	Ephx1	Fam78a	Irx5	Bmp6	Dusp22	Rilpl2	Tdp2	Slco3a1	Fam20c	Zfp334	Cntnap2	Zfyve9	Ets1	Serpina5	Aurkb	Sox3	Spred1	Atxn7l1	Gsg1l
+Cardiac congenital anomalies	PheWeb_2019	Hsd3b7	Magi1	Rbfox1	Pdha2	Cntn6	Pde4dip	Fbxl19	Nap1l3	Actl9	Cdh10	Frem1	Ccdc174	Stx1b	Ctf1	Tcf25	Tshz2	Pitpnb	Ttc28	Cdh6	Cdh2	Plxna2
+Cardiac defibrillator in situ	PheWeb_2019	Mbnl1	Fam98a	Thrb	Serpinb1b	2410137M14Rik	Apc	Npvf	Ttc6	Mical2	Id2	Sp9	Ankk1	Nfe2l3
+Cardiac dysrhythmias	PheWeb_2019	Tle3	Lrrc25	Arhgef15	Negr1	Nfatc1	Nrg3	Sgcz	Hs3st2	Tbx4	Psat1	Ostn	Taf8	Cntn5	Fam13b	Trim2	Pkd2l2	Ubr3	Wnt8a	Dcaf6	Cdh9	Pde2a	Pcdh7	Cpne4	Dlgap2	Enpp7
+Cardiac pacemaker in situ	PheWeb_2019	Foxa2	Gucy1a2	Galnt5	Med4	Ifi35	Fign	Slc6a11	Ermn	Tmprss15	Mboat1	Sox1	Yeats2	Tspan5	Cntn3	Rpl27	Fgf12	Snx7
+Cardiac pacemaker/device in situ	PheWeb_2019	Galnt5	Alg13	2410137M14Rik	Ermn	Trerf1	Qki	Dpyd	Cdh13	Fat3	Tmem151b	Catsper4	Usp6nl	Sppl2a	Nr3c2	Pld1	Nhsl1	Slc22a15	Panx1	Cdh20	Mical2	Cpxm2
+Cardiac shunt/ heart septal defect	PheWeb_2019	Gmnn	Ldb2	Ndufa12	Rrm1	2410137M14Rik	Myo1e	Rab23	Klf6	Myo1d	Rsrc1	Rpp21	Dlgap2	Zfp217	Luc7l2	Prkg1	Samd5
+Cardiomyopathy	PheWeb_2019	Wtap	Osbpl5	Faf2	Klhdc2	Lrr1	Syne1	Cnot10	2410137M14Rik	Nemf	Grhl2	Cplx2	Acacb	Acat3	Sod2	Cacnb2	Qdpr	Rps29	Agmo	Slit3	Slc25a48	Shank2
+Carditis	PheWeb_2019	Krt71	Ahcyl2	Mctp2	Fbxo39	Ppp1r3b	Nrg3	Fam135a	Hs3st4	Bcr	Mettl15	Tg	Mmrn1	Zfp827	Tekt1	Prkd1	Gas7	Tox	Cntn1	Trp63
+Cataract	PheWeb_2019	Angpt1	Edem1	Sgta	Ddit4l	Rfx3	Tmc7	Htr5a	Ppm1d	Gdnf	Cntn3	Colec11	Paxip1	Slc44a5	Gmpr	Tmprss2	Frg2f1	Jph3	Cux1	Ncam2	Gpc5
+Celiac disease	PheWeb_2019	Prrt1	Tcf19	Cdsn	Ksr2	Exoc8	Hspa1l	Btnl2	Tap1	Psmb9	Ddx39b	Msh5	H2-Ab1	H2-Ea	Hspa1b	Rpp21	Adtrp	Dydc2	Dydc1	Rpl29	Vwa7	Ddr1	Slc44a4	Tnxb	Atf6b	Tnf	Atp2c2	Neu1	Ly6g6c	H2-Ob	Ly6g6f	Mill1	Clic1	Atp6v1g2	H2-Eb2	Lsm2	Vps13b	2410137M14Rik	Gtf2h4	Prrc2a	H2-T24	Ddah2	Mat1a	Csnk2b	Cyp21a1	Ppt2	Muc21	Cdca7	Ehmt2	Stk19	C2	Psmb8	Apom	H2-DMb1	Bag6	Psd3	Abhd16a	Ankmy2	Ier3	Vars2
+Cellulitis and abscess of face/neck	PheWeb_2019	Nrxn1	Inhba	Urb2	Nol4	Sorl1	Ptprg	Tjp2	Nkain2	Taf5l	Wnt11	Asxl3	Gstt2	Dip2c	Pdss1	Pik3c3
+Cellulitis and abscess of fingers/toes	PheWeb_2019	Dmrt2	Tmem132c	Mafb	Jakmip1	Cdh8	Fbxo32	Cyth4	Nup50l	Dab2	Ptprd	Zfyve28
+Cellulitis and abscess of foot, toe	PheWeb_2019	Eda	Cdca7l	Irx4	Arid4a	Grik4	Uncx	Nol4	Bbs10	Inpp5d	2700049A03Rik	Psma3	Nt5dc3	Chn1	Pla2r1	Utrn	Dact1	Dync1i1	Trabd2b
+Cellulitis and abscess of leg, except foot	PheWeb_2019	Prkch	Eif2b5	Lrrc49	Nfyc	Arrdc4	Arid5b	Fbxo15	Rhog	Arid1b	Mlph	Spry2	Triml1	Zfp777	Neurog3	Steap1	Eda	Nrp1	Itih5	Tenm3	Lpp	Adarb2	Pitpnc1	Abra	Tlk2	Zfp746	Drd1	Mbp	Smndc1	Zfp521
+Cellulitis and abscess of oral soft tissues	PheWeb_2019	Ctnnd2	Gpatch2l	Msi2	Pde11a	Cabs1	Atic	Chn2	Rrp15	Prkcq	Fgf14
+Cellulitis and abscess of trunk	PheWeb_2019	Cd70	Prkcb	Ngf	Ern2	Olfm4	Polr3b	Ttll3	Camk4	Mia2	Dock2	Tas2r126	Lmf1	Tnc	Asap2	Ica1	Cacna1h	Efr3a	Plxna2	Dlgap1	Epsti1	Smim12
+Cerebral aneurysm	PheWeb_2019	Pkd1	Sec24c	Lrp2	Tsc2	Medag	Abat	Adra1b	Disp1	Il7	Bmp2	Smoc2	Btbd3	Ubqln1	Amph	Prok2
+Cerebral cysts	PheWeb_2019	Kdm2b	Hecw1	Fmn2	Klhl32	Lrp1b	Nudt12	Arhgap42	Grm5	Ptprd	Ctnna2	Nox4	Myo18a	Csmd3	Trim24
+Cerebral degeneration, unspecified	PheWeb_2019	Frmd4a	Kcnmb2	Nrxn1	Slc6a13	Arhgap6	Map3k15	Agap1	Kdm5a	Tmprss11e
+Cerebral ischemia	PheWeb_2019	Itga1	Eya1	Arl15	Col25a1	Wscd2	Cx3cr1	Zdhhc11	Hnf1b	Npas3	Tsen2	Sdk2	Tcl1b3	Ptprd	Flrt3	Psd3	Fundc1	Macrod2	Pwwp2b	Gpc6	Fgf12	Lonrf1
+Cerebrovascular disease	PheWeb_2019	Smad3	Gpr37	Zfp462	Ythdf3	Ggh	Pla2g4a	Hunk	Sorcs1	Sgpp2	Foxp1	Spc24	Creb5	Mcph1	Ccdc71l	Celsr1	Ldlrad3	Hs6st1	Pds5b	Nkd2	Npas3	Glis3	Gna14	Tcl1b3	Ttpa	Pcdh7
+Cervical cancer	PheWeb_2019	Chst9	Prmt6	Tle4	Stil	Kcnab1	Foxk2	Fzd10	Caap1	Vav2	Zbtb20	Mycs	Bmp2	Cdh2	Map2	Tasp1	Tyw1
+Cervical cancer and dysplasia	PheWeb_2019	Ddx18	Ptpn2	Spen	Cd180	Ebf2	Comtd1	Klf4	Tanc1	Apbb1ip	Ggct	Spry2	Rimbp2	Srsf6	Shank2	Atp10b	Klhl14	Foxred2	Fam83a	Agmo	Kdr	Zfp503	Csmd1
+Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	PheWeb_2019	Ric3	Ptpn2	Slc35b3	Hdac4	Smim19	Edem1	Ebf2	Tnfrsf22	Gtf2f2	Hs3st4	Foxred2	Apbb1ip	Rptor	Col4a1	Grm7	Slc39a10	Fam83a	Spry2	Deptor	Csmd1	Cox10
+Cervical radiculitis	PheWeb_2019	Ctsb	Cyb5b	Prr5	Sfmbt2	Greb1	Sirt5	Lig4	Nfia	Farp1	Med13	Neurod4	Gnpda2	Fam181b	Utrn
+Cervicalgia	PheWeb_2019	Hs3st1	St18	Irx4	Dntt	Rrp1b	Btbd9	Pyy	Dlg1	Gpr149	Id4	Pik3c3	Sde2	Dock1	Zfp334	Mroh2a	Haao	Ncald	Hsf2bp	Fry	Nt5dc1	Sall3	Ocstamp	Agmo	Grb10	Cd300lg	Slc25a48	Sox5	Dync1i1	Rnf111
+Cervicitis and endocervicitis	PheWeb_2019	Dnah5	Epha5	Cog8	Prmt8	Vps4a	Terf2	Abat	Adamtsl1	Map2	Mettl22	Nanog	Spata31d1b	Sntb2	Zfp354c
+Chemotherapy	PheWeb_2019	Cap2	Slc10a7	Pacrg	Rbfox3	Grid2	Rbm19	Osgin1	Vegfa	Mipol1	Kat2a	Stim2	Tenm2	Cntnap2	Kank1	F13a1	Sel1l	Rpl34	Cpox	Hdac9	Npas2	Jph3	Slitrk1	Rab11fip2	Cdh2	Tnr	Aga	Sox6
+Cholangitis	PheWeb_2019	Cttnbp2	Kcnk13	Spata3	Myo7b	Med13l	Qki	Pik3r1	Zfp42	Adamts19	Pmepa1	Isoc1	Myh13	Atxn1	Hcn1	Csmd1	Dock1	Rbms3
+Cholecystitis without cholelithiasis	PheWeb_2019	Cnot6l	Stpg2	Rbfox1	Slc13a5	Usp6nl	Celf4	Fbxo15	Ctps2	Ppfibp1	Pax2	Htr7	Erbb4	Frmd4a	Fat1	Vhl	Agmo	Far2	Myh10
+Cholelithiasis	PheWeb_2019	Dnah5	Ptpn2	Ryr3	Cdx4	Rpl10l	Pdgfc	Cacna2d3	2410137M14Rik	Ube2ql1	Gcsh	Tmeff2	Cxcl13	Erbb4	Frmd4a	Ccdc8	Rspo4
+Cholelithiasis and cholecystitis	PheWeb_2019	Ptpn2	Rbfox1	Ryr3	Cdx4	Slc24a4	Aadat	Epdr1	Ube2ql1	Gcsh	Gpr141	Cxcl13	Slfn4	Frmd4a	Cdh13	Rspo4	Zfp729b	Dmd	Edil3	Srsf10
+Cholelithiasis with acute cholecystitis	PheWeb_2019	Dlg2	Krtcap2	Rit1	Tnfaip8	Ntm	Erg	Macrod2	Ankrd44	Disc1	Eng
+Cholelithiasis with other cholecystitis	PheWeb_2019	Gm1123	Btf3	Card11	Zfr	Gpr55	Arrdc4	Sorcs1	Krt75	Gcfc2	Nmur2	Pdzrn3	Myom2	Cd82	Celf2	Fmr1	Tusc3	Cab39	Ldlrad4	Krt6a	Lrrtm4	Zkscan7	Gna12	Topaz1	Zfp407	Tgm4
+Cholesteatoma	PheWeb_2019	Ces1d	Edn3	Egln3	Kazn	Prcp	Grhl2	Upk3b	Rfpl4b	Tspan9	Col4a2	Slc39a10	Cntn5	Cpm	Trib1
+Cholesterolosis of gallbladder	PheWeb_2019	Pid1	Aldh1l1	Kcnk9	Eya2	Rfc3	Sphkap	Il20rb	Klhl1	Tbx18	Scfd2	Erbb4	Zmat4	Hivep1	Lnx1
+Chondrocalcinosis	PheWeb_2019	Hace1	St8sia3	Bod1	Klhl29	Aqp7	Ipo8	Lrp1b	Dpp6	Nfib	Nfx1	Lurap1l	Slco5a1	Gpd2	Hand2	Mpdz
+Chorioretinal scars	PheWeb_2019	Bche	Cpt1a	Xxylt1	Stxbp5	Slc5a10	Ncmap	Sorcs3	Farp1	Spred2	Mob2	Mdm4	Lrrn2	Gpc5	Prkg1	Tmem45b
+Chromosomal anomalies and genetic disorders	PheWeb_2019	Zfp474	Gabrb2	Cadm2	Intu	Ppp2r5c	Zfp608	Rims1	Umodl1	Rapgef4	Trib1
+Chronic Kidney Disease, Stage III	PheWeb_2019	Abcc4	Slc35b3	Bcl11b	Kcnh8	Rfc3	Bcl11a	Zfp260	Ebf1	Ipcef1	Tnfaip2	Tmprss11e	Adcyap1	Dpp6	Mug1	Fam174b	Nox4	Matn1	Rbm43	Bcor	Bub3	Cacng3	Zfp566	Arl8b
+Chronic Kidney Disease, Stage IV	PheWeb_2019	Hlf	Sema3a	Dnajc5b	Wscd2	Cdh9	Kbtbd12	Prdm10	Zcwpw2	Dach1	Apc	Kif26b	Car8
+Chronic airway obstruction	PheWeb_2019	Rbfox1	Mrps27	Tle3	Usp4	Tpbg	Pard3b	Kif6	Tmprss15	Vegfa	Lrp1b	Mllt10	Dnajc1	Zeb2	Ercc4	Katnal1	Rapgef2	Tgfbi	Pdzrn4	Qrich1	Creb5	Dennd1a	Lyzl1	Jrkl	Abca13	Cdc73	Cdh4	Nhs	Dmd	Hes1
+Chronic bronchitis	PheWeb_2019	Kdm4c	Nckap5	Sh2d4a	Htr1f	Dlx6	Maml2	Vps13d	Atp2b2	Tmem130	Dpy19l1	Tg	Aldh1a1	Ctnna2	Tbx20	Atp6v0a4	Tmem178	E2f7	Npsr1
+Chronic cystitis	PheWeb_2019	Col19a1	Slc36a4	Fhod3	Glp1r	Hgf	Prkag2	Prdm14	Adra2c	Tmprss15	Robo2	Taf1d	Zfat	Sfxn5	Slitrk6	Trib2	Polr2k	Rab11fip5	Astn2
+Chronic dermatitis due to solar radiation	PheWeb_2019	Nbas	Pcsk2	Rbfox1	Ksr2	Negr1	Tshz3	Zbtb10	Slc7a11	Lingo1	Prss55	Abra	Gja1	Grm7	Phf14	Rell1	Fat4	Spaca7	Mphosph6	Snca
+Chronic fatigue syndrome	PheWeb_2019	Stpg2	Lingo2	Edn2	Epha7	Arrdc3	Trappc9	Fhit	Mn1	Frmd3	Strip1	Bbs9	Ccr8	Creb5
+Chronic hepatitis	PheWeb_2019	Dpp10	H2-Eb2	Celf2	Cetn3	Nedd4l	Prdm16	Arap2	Gdf6	Ipo11	Ptprd	Ccdc33	Cntn4
+Chronic interstitial cystitis	PheWeb_2019	Prmt6	Pus10	Rbfox3	Thada	Ly96	Cryba4	Sorcs1	Ptpn14	Adra2c	Brinp1	Znrf2	Cdh11	Pramel18	Copg2	B4galnt3
+Chronic kidney disease, Stage I or II	PheWeb_2019	Odam	Fem1c	Pcdh9	Mboat2	Cabs1	Dnm3	Mmp13	Tbc1d8	Igsf1	Amtn	Celsr1	Atp8a2	Arhgef28	Slc1a5	Mettl13	Grm7	Sis	Rassf6	Pxdc1	Phactr1
+Chronic liver disease and cirrhosis	PheWeb_2019	Mlip	Mreg	Col25a1	Bcl11b	2410137M14Rik	Mical3	Ddah2	Lhx3	Ttc6	Msh5	Scn8a	Snx16	Igsf9b	Zfp28	Vwa7	Pnlip	Pnpla3	Gtf2i	Gabrb3	Arhgap6	Fhit	Cdkn2aip	Pcsk5	Samm50	Ctso	Sall3	Neu1	Stmn2	Ly6g6c	Trpm8	Atxn1	Mill1	Csmd1	Trp63
+Chronic lymphocytic thyroiditis	PheWeb_2019	Cntnap2	Kif26a	Pcdh9	Emp1	Vrk1	Acyp2	Terf1	Caap1	Mcph1	Pi4k2b	Mob3b
+Chronic pain	PheWeb_2019	Oca2	Ephb6	Izumo3	Gsdmc2	Epha7	Try4	Adcy1	Slc35f5	2410137M14Rik	Sumf1	Sav1	Trbv29	Trp73	Lmbrd1	Pxdn	Rassf6	Dcdc2c	Trbv31	Trpv6	Cdh13	Tusc1	Wnt4
+Chronic pharyngitis and nasopharyngitis	PheWeb_2019	Auts2	Igfbp3	St8sia4	Dlg2	Zeb2	Kif2b	Il7r	Ptp4a1	Phf3	Tenm2	Tmem51	Slc4a2	Gk2	Lclat1	Manea	Nlrp5	Pmepa1	Piezo2	Samd12
+Chronic pulmonary heart disease	PheWeb_2019	Tnfsf15	Cadm1	Prss36	Zdhhc11	Esrrg	Tnfrsf1a	Bckdk	Qdpr	Spata13	Chdh	Rhou	Csnk1g3	Abhd5	Cep120	Prdm6	Cacna1d	Slitrk5	Dpf3	Kat8
+Chronic renal failure [CKD]	PheWeb_2019	Cdkl3	Khdrbs3	Atl2	Axin2	Cacna2d3	Cblb	Fmo4	Rora	Igsf21	Ppp2ca	Nup50l	Lrfn2	Ccdc54	Cdkn2aipnl	Nxph2	Rgs9	Sec63	N4bp1
+Chronic sinusitis	PheWeb_2019	Epha7	Cadm2	Fzd6	Tmem132b	Etv1	Trpv4	Plxdc2	Zhx2	Ar	Diaph3	Mex3c	Rarb	Tbkbp1	Dchs2	Tenm2	Celf4	Adcy9	Gata3	Eda2r	Adamtsl2	Nudt12	Erbb4	Snapc3	Has2	Ophn1	Erc2
+Chronic thyroiditis	PheWeb_2019	Gclc	Kif26a	Pcdh9	Emp1	Vrk1	Acyp2	Terf1	Caap1	Pi4k2b	Mob3b
+Chronic tonsillitis and adenoiditis	PheWeb_2019	Slc35b4	Vac14	Magi1	Kdm3b	Tyrp1	Ctnnd2	Fstl5	Fermt2	Zfp78	Olfm3	Ccnd3	Ptprd	Gna11	Tcf4	Csmd2	Cylc2	Dsc3
+Chronic ulcer of skin	PheWeb_2019	Bcl2a1d	Fam13b	Mthfs	Pkd2l2	Wnt8a	Gls	Ccdc91	Bag3	Myot	Dennd3	Ropn1l	Gpc6	Hras	Bud13	Pde6a	Fgf12	Hnrnpa0	Gabpa
+Chronic ulcer of unspecified site	PheWeb_2019	Adamts16	Capn13	Hhat	Pcdh10	Cacna1c	Txndc5	Casc3	Kcnn3	Dclk1
+Chronic vascular insufficiency of intestine	PheWeb_2019	Ryr2	Tpte	Lrp2	Spo11	Kazn	Prdm2	Usp26	Bmp7	Cdh12	Cry1	Wdfy4	Cntn5	Gpc5	Rae1	Plcb1
+Chronic venous insufficiency [CVI]	PheWeb_2019	Ralgapa2	Mid1ip1	Atp10b	Adcy2	Rora	Bmp15	Kalrn	Rhob	Arhgap24	Tmem26	Sgcg	Twsg1	Adam18	Lmx1b	Kcns3	Mgat4a	Kcnma1	Msh6	Pttg1	Il1rapl1	Smyd3	Myl9
+Circadian rhythm sleep disorder	PheWeb_2019	Rbfox1	Cyfip1	Crybb2	Abca13	Pde10a	Cyp26b1	Perp	Spry4	Rspo4	Plekhg1	Dgki	Nfe2l3	Sox6
+Circulatory disease NEC	PheWeb_2019	Ywhag	Arhgap8	Camk1d	Cacna2d1	Klhl33	Mmp20	Ttc28	Accs	Bmp6	Dusp26	Inpp5d	Kcnt2	Col5a1	Heph	Lactb2	Gm5150	Fyn	Nkx2-6	Hibch
+Circumscribed scleroderma	PheWeb_2019	Cd274	Uspl1	Irx1	Prkce	Alox5ap	Unc5d	Lhfpl3	Hs3st4	Osbpl10	Xpnpep1	Frg1	Sap30l	Stk39	Rarb	Drd1
+Cirrhosis of liver without mention of alcohol	PheWeb_2019	Mreg	Tiparp	H2-Eb2	Pcid2	Btnl2	Nr2f1	Slc8b1	Cul4a	H2-Ea	Pnpla3	Serpina1c	Sfswap	Cul2	Rasal1	Cwh43	Htr4	Pcdh17	Spag16	Adam29	Samm50	Dsel	Slitrk5	St3gal5	Rreb1	Ndufv2	Mill1
+Cleft palate	PheWeb_2019	Tenm3	Hsd17b4	Kazn	Nr3c2	Rps6ka5	Jph3	Nedd1	Rcl1	Mettl22	Dhx15	Uqcrfs1	Pmp22	Acsbg1	Vstm2a	Caln1
+Coagulation defects	PheWeb_2019	Adgb	Hgf	Foxn3	Ywhaz	Zdhhc17	Atp1b1	F5	Nme7	Slc9a7	Rnf128	Tcf3	Nckap5	Abhd5	Mageb18	Shb	Adam29	Ldhb	Eps8l1	Ccdc181	Slc19a2
+Colles' fracture	PheWeb_2019	Nckap1	Tvp23a	Sorcs2	Osbpl10	Sez6l	Dpp6	Rnf144a	Adamts19	Ctnna1	Erc1	Rab28	Bpi	Cylc2	Xkr6
+Colon cancer	PheWeb_2019	Gsdmc2	Fam98a	Arhgef17	Mettl4	Sorcs2	Lrp1b	Sntn	Dlc1	Cdh12	Ccdc3	Fgfr2	Zmynd15	Ptprs	Col17a1	Itgb5	Mast4	Rdh8	Slain2	Slk	Med15	Sox2	Afmid	Galr1	Tk1
+Colorectal cancer	PheWeb_2019	Gsdmc2	Col17a1	Nxph3	Mast4	Crybb2	Wdr5	Nav3	Minpp1	Slk	Med15	Sox2	Hand1	Sall3	Afmid	Col6a3	Cdh12	Col5a3	Galr1	Camta1	Cdk5rap2	Nutm2	Sgk1
+Complication of nervous system device, implant, and graft	PheWeb_2019	Ntrk2	St18	Smox	Wdr4	Ptprm	Cabs1	Tmem72	Zw10	Herc4	Tmem18	Rasgef1b	Ptprb	Sall4	Tmem47	Mill1	Csmd1	Atp9a
+Complications of cardiac/vascular device, implant, and graft	PheWeb_2019	Elovl2	Rbfox1	Slc35b3	Foxd2	Maoa	Crim1	Bach2	Pcdh18	Slitrk1	Dock10	Hhat	Piezo2	Ephb1	Cdh18	Ralgps2	Smim13
+Complications of gastrostomy, colostomy and enterostomy	PheWeb_2019	Crim1	Vasp	Gal	Ebna1bp2	Kif20b	Or56a3b	Gldc	Lrp5	Nedd9	Prickle1	Slc35f2	Tmtc1	Rnd3	Sipa1l3	Trim30a	Mug1	Ppp6r3	Opa3	Ctnna2	Fgf20	Dact1
+Concussion	PheWeb_2019	Crebbp	L3mbtl4	Zcchc7	Dmrt2	Pax5	Adcy9	Dll1	Uchl4	Cdh9	Dclk2	Robo1	Commd6	Rfpl4b	Kif26b	Ppie
+Conduct disorders	PheWeb_2019	Gpm6a	Klhl4	Pou3f2	Rcn3	Kansl2	Ubn2	Tpp2	Fgf14
+Conductive hearing loss	PheWeb_2019	Cdon	Dpp10	Crtc3	Khdrbs3	Adgb	Arhgef37	Atp8a1	Gsx1	Cobl	Iqgap1	Hnmt	Zbtb20	Arl4c	Olfm4	Trim30a	Cdc16	Arl6ip6	Cntn5	Adamts9	Colgalt2	Sema7a	Cpm
+Congenital anomalies of genital organs	PheWeb_2019	Gpm6a	Wscd1	Adcy1	Clpb	Ldlrad3	Mafb	Manea	Ccnd2	Sh3bp4	Matn1	Papola	Ephb1	Mphosph6
+Congenital anomalies of great vessels	PheWeb_2019	Rph3al	Lsamp	Shroom4	Bmp15	Pcdh18	Cdh6	Sis	Apba2	Tlr8	Tll1	Cpa6
+Congenital anomalies of intestine	PheWeb_2019	Egln3	Xxylt1	Prrx1	Kif12	Gmcl1	Grin3a	Rbbp6	Col8a1	Dcdc2c
+Congenital anomalies of limbs	PheWeb_2019	Galnt13	Twist2	Zfx	Nfia	Phf21b	Tspan33	Dpp6	Stk35	Erbb4	Zfp608	Zmiz2	Epc1	Slitrk6	Ankrd50	Tnpo3	Ogdh
+Congenital anomalies of muscle, tendon, fascia, and connective tissue	PheWeb_2019	Slc28a1	Slfn5	Adrb1	Arhgap19	Themis	Acsf3	Ddb1	Tmem258	Trim29	Abhd17a	Rrp15	Myrf	Fads2
+Congenital anomalies of skin	PheWeb_2019	Nbas	Sh3glb1	Dtnbp1	Uncx	Esr2	Slc2a9	Cyth4	Fbxo41	Nr4a2	Cmss1	Otx2	Filip1l	Rabl6
+Congenital anomalies of skull and face bones	PheWeb_2019	Shox2	Tgif1	Mast4	Nlgn1	Cd180	Baz1a	Tatdn1	Cdh8	Ahi1	Cdh7	Chchd3	Nfib	Cfl2	Srp54a	Kctd15	Nrtn	Cntn5
+Congenital anomalies of the eye	PheWeb_2019	Fa2h	Tenm1	Dlg2	Frzb	Anxa2	Rbms2	Ddx31	Fbxo8	Cdh19
+Congenital anomalies of the integument	PheWeb_2019	Il33	Cacna1a	Cd80	Ranbp6	Naaladl2	Efemp1	Mms22l	Sall1	Adprh	Tnr	Acot2	Heatr4	Csmd1	Csnk1g3	Kcnj3	Numb
+Congenital anomalies of urinary system	PheWeb_2019	Acss3	Sema5a	Luzp2	Pcdh10	Clec14a	Slc4a3	Vldlr	Or11l3	Zcwpw2	Cdh4	Agbl1	Csmd1	Lonrf1
+Congenital anomaly of gallbladder, bile ducts, liver, pancreas	PheWeb_2019	Ccbe1	Api5	Hspb8	Il20rb	Shroom3	Tacr3	Nrxn3	Abca9	Tecrl	Pcsk5	Kctd8	Meis1	Col5a1	Tspan18	Il1rapl1	Hmcn1	Gpc5	Tln2	Csmd2	Dcp1a	Mbl2
+Congenital coagulation defects	PheWeb_2019	Pid1	Slc35b3	Tenm3	Tinagl1	Cacna2d1	Hgf	Snx13	F5	Fbln5	Catsperb	Sgcg	Nme7	Dlc1	Pggt1b	Slc19a2
+Congenital deformities of feet	PheWeb_2019	Lrrc38	Ltk	Iqsec3	Angpt1	Entpd6	Rtf1	Tuba3b	Adra1b	Alg10b	Tbl1xr1	Wrn	Nat1	Zfp608	Epc1	Dph6	Evi5l	Nusap1	Vsx1	Map2k7
+Congenital hip dysplasia and deformity	PheWeb_2019	Syt4	Abca1	Npy5r	Slc35f4	Gzmc	Ebf2	Slc39a11	Tmprss15	Tbc1d1	Golga4	Tjp1	Frzb	Obp2b	Tiprl	Tcerg1l	Ccdc3	St3gal1	Amph	Nkx6-1
+Congestive heart failure (CHF) NOS	PheWeb_2019	Gins2	Akirin2	Atl2	Ptprm	Gfra2	Gata3	Npvf	Snx18	Gse1	Pah	Sox9	Gpc5	Zcchc4
+Conjunctivitis, infectious	PheWeb_2019	Tyrp1	Irx5	Mical3	Adarb2	Gtdc1	Agap1	Sh3bp4	Ncam2	Klrb1	Clec2d	Dscaml1	Fgf14	Srgap3	Bmpr1b
+Conjunctivitis, noninfectious	PheWeb_2019	Gpr26	Pde4dip	Itsn2	Pcdh15	Slc1a4	Phyhipl	Zwint	Bace2	Cul4b	BC034090	Dusp22	Tpo	Tmem47	Fam3b	Rhbdl3	Kctd16	Pag1	Plcb1	Rcor1
+Contracture of joint	PheWeb_2019	Mctp2	Mmp1a	Irgc	Tubb5	Cwc27	Cdc73	Agap1	Adamts6	Inf2	Mmp16	Rgs2	Aldh1a2	Flot1
+Contracture of palmar fascia [Dupuytren's disease]	PheWeb_2019	Gabrp	Rdx	Arid5a	Pcdh9	Ly86	Olig1	Wnt7b	Kng1	Hnf1a	Sntg2	Hoxa3	Spry1	Timp2	Cox10
+Convulsions	PheWeb_2019	Stac	Epdr1	Kif6	Grem2	Sfrp4	Gpr141	Nos1ap	Nme8	Snx18	Elmo1	Kynu	Lrrc8c	Mmadhc
+Cornea replaced by transplant	PheWeb_2019	Stpg2	Dok5	Foxf1	Ankef1	Ica1	Lhfpl3	Nudt4	Srpk2
+Corneal degenerations	PheWeb_2019	Tlr2	Rbfox1	Epas1	Tpo	Mecom	4933427D14Rik	Cdhr3	Wnt5b	Nav2	Sumf1	Foxp4	Kcnj3
+Corneal dystrophy	PheWeb_2019	Cadps2	Egln3	Cd300a	Cd83	Arrdc4	Gorab	Zc3h3	Zfp160	Pax5	Spata32	AW554918	Sts	Melk	Zmiz1	Dhx15	Chmp2b	Sptssa	Cntn5	Slit3	Tcf4
+Corneal opacity	PheWeb_2019	Eya1	Klhl3	Cyp7b1	Ano5	Sdhb	Raet1d	Myo3b	Tusc1	Rnf152	Nxph2	Padi2	Sox5	Fbxl7
+Corneal opacity and other disorders of cornea	PheWeb_2019	Chst9	Egln3	Krtap5-4	Pax5	Nr2f1	Efcab6	Apip	Gprin3	Melk	Zmiz1	Cdc42ep3	Sptssa	Zfp703	Sdc2	Tcf4
+Corns and callosities	PheWeb_2019	Pcdhga9	Wwox	Cd53	Pcdhga8	Pcdhga7	Pcdhga6	Zscan5b	Pcdhga5	Pcdhga4	Vwf	Pcdhga3	Pcdhga2	Pla2g4a	Pax3	Diaph1	Arhgap10	Dab2	Ccng1	Pcdhgb2	Pcdhgb1	Mctp2	Pcdhgb4	Prkag2	Rps6ka3	Pcdhga1	Sc5d	Disc1
+Coronary atherosclerosis	PheWeb_2019	Irx2	Pdgfra	Epha7	Plxnc1	Slc10a2	Ipmk	Cadm1	Kcnj16	Mtus2	Cacna2d3	Hinfp	Nmnat2	Agbl1	Fam181b	Srsf6	Cd247	Ccdc172	Nox3	Tenm4	Pcdh10	Cdc14a	Pcdh15	Cryba4	Slitrk3	Chl1	Efnb1	Nuf2	Gpr139	Pabpc4l
+Costochondritis	PheWeb_2019	Irx6	Pax7	Tmprss12	Hs3st4	Ltbp1	Sdhb	Carhsp1	Slc4a7	Nova1	Capn8	Pmepa1	Drd2	Prkg1
+Cough	PheWeb_2019	Slc35b4	St6gal2	Usp43	Bnc2	Prl3d2	Nav1	Mfhas1	Slc7a5	Nell1	Rnf144a	Mat1a	Dydc2	Dydc1	Plekhh2	Trdv2-2	Gria4
+Cramp of limb	PheWeb_2019	Cpsf6	Dnah5	Mroh2a	Rbfox1	Dock9	Rap1gap2	Gadl1	Trappc9	Dlg2	Jph3	Mtnr1b	Cdh20	Cdh11	Aldh1a2	Ror1	Cpm
+Crystal arthropathies	PheWeb_2019	Hace1	St8sia3	Bod1	Klhl29	Aqp7	Ipo8	Lrp1b	Dpp6	Nfib	Nfx1	Lurap1l	Slco5a1	Gpd2	Hand2	Mpdz
+Curvature of spine	PheWeb_2019	Zfhx4	Tmem52b	Elovl5	Hnf4g	Iqgap2	Sgcz	Mboat1	Mrpl45	Abhd13	Msra	Gprin3	Slitrk1	Erbb4	Rasgef1b	Ccng1	Gpr179	Cdh18	Slc25a48
+Cyst and pseudocyst of pancreas	PheWeb_2019	Golga2	Grid1	Agap2	6430548M08Rik	Dlg2	Fam135b	Ptprd	Dab1	Penk	Rragc	Chl1	Pabpc1	Tln2	Cgnl1	Cntn1
+Cyst of bone	PheWeb_2019	Il11	Trim40	Zbtb8b	Car10	Zbtb8a	Defa5	Smc2	Pan3	Ankfn1	Npvf	Rbbp4	Trim15	Trim26	Fgf14	Trim10	Sync
+Cyst of kidney, acquired	PheWeb_2019	Kank1	Tenm3	Nabp1	Sphk1	Grik2	Nav2	Eva1a	Lrrc55	Cenpc1	Cped1	Ing3	Arhgap40	Fam20c	Aplnr	Csmd1	Lrrc4c	Nck2
+Cystic fibrosis	PheWeb_2019	Tor3a	Epha7	Elmod3	Gzmc	Olfm1	St7	Dsg1a	Met	Dsc1	Cftr	Cyfip1	Cttnbp2	Stau2	Retsat	Basp1	Asz1	Tgoln1	Abl2	Kif21a	Ctsg	Wnt2	Abcd2	Srgap1
+Cystic kidney disease	PheWeb_2019	Hace1	Txn2	Anxa1	Acss3	Ntng1	Osbpl5	Hgf	Iba57	Nr3c2	Vldlr	Cdkn2aip	Or11l3	Robo1	Rps6ka2	Ppfia2	Trdv2-2	Terf2ip
+Cystitis	PheWeb_2019	Tmod3	Iqsec1	Wdhd1	Palld	Dmxl2	Tbc1d7	Tbc1d8	Zfat	Sik3	Vac14	Abhd5	Pde1c	Bod1l	Sel1l	Cdca7	Tmtc1	Olfml2b	Actr3b	Aadacl3	Pdlim1	Rsrc1	Taf1d	Mknk2	Pramel18
+Cystitis and urethritis	PheWeb_2019	Nsun6	Tmigd1	Dmxl2	Tbc1d7	Cpd	Blmh	Vac14	Abhd5	Gosr1	Bod1l	Sel1l	Actr3b	Aadacl3	Pdlim1	Sipa1l2	Psd3	Rsrc1	Taf1d	Mknk2	Pramel18	Psmb1	Chn1
+Cystoid macular degeneration of retina	PheWeb_2019	Dync2h1	Dcc	Fancl	Tsc22d2	Upf3a	Timm21	Hs3st5	Sdk1	Ifng	Tbpl2	Lamtor2	Ptgfr	Dpp10	Lrrc7	Fstl3	Fstl5	Golim4	Lrrc2	Gpr173	Dcdc2c	Ssr2	Champ1	Thsd7b	Plekhh1	Ubqln4
+Cysts of the jaws	PheWeb_2019	Pou2f1	Rmi1	Thrb	Dpp6	Dab1	Lrrtm4	Galr1	Triml1	Gpr107	Zfpm2
+Decreased libido	PheWeb_2019	Faf2	Rergl	Zfp804b	Bhlhe23	Adamts17	Plcb4	Zeb2	Adamts19	Ntf3	Cdc42ep4	Gpr139	Suds3	Zfp326
+Decreased white blood cell count	PheWeb_2019	Irx2	Gad2	Spaca1	Farp1	Parp8	Sez6l	Snx19	Cdh13	Igsf1	Nes	Hcn1	Klb	Cntnap2	Rpl11	Ndufa10	Cpz	Fstl5	Grip1	Efcab2	Slco1b2	Emb	Lgals8
+Decubitus ulcer	PheWeb_2019	Cntnap4	Msr1	Enpep	Cep135	Pank2	Olfm1	Ptdss2	Mavs	Kif1a	Nfib	Sv2b	Capza3	Cdh13	Hras	Klrc2	Ctnna3	Sspn	Rxrg	Gbp5
+Deep vein thrombosis [DVT]	PheWeb_2019	Egfl6	Rwdd3	Rnasel	Akr1d1	Arl15	Ncoa6	Surf6	Foxi1	Atp1b1	F5	Thsd4	Nme7	Obp2b	Zc3h12a	Bin1	Fshr	Tusc1	Mgat5	Zfy1	Slc19a2
+Deficiency of humoral immunity	PheWeb_2019	Slc30a8	Snap25	Atp8a1	Irx4	Ndufa4	Prkce	Gata2	Tmem229a	Nadk2
+Degeneration of intervertebral disc	PheWeb_2019	Abca3	Slc13a1	Cacna2d3	Dtnbp1	Foxn3	Cpped1	Gabrg2	Grin3a	Abcb11	Kcns3	Gas2	Cntn5	Fhit	Mrpl1	Pcsk6	Cdh9	Zbtb20	Clec18a	Rab11fip2	Spock3	Xylb
+Degeneration of macula and posterior pole of retina	PheWeb_2019	Cpa3	Gabra6	Kcnip4	Xcl1	Vwc2	Rfx3	Crim1	Nbea	Mcoln2	Atp1b1	Cfhr1	Camk4	Spry2	Lyplal1	Plag1	Ddx42	Htra1	Serp1	Cdh20	Galr1	Ncam2	Itgav
+Degenerative skin conditions and other dermatoses	PheWeb_2019	Rbfox1	Usp8	Sec24b	Foxf1	Ajap1	Gbgt1	Mboat1	Rad51b	Irf4	Sp3	Exoc2	Cntnap4	Il23r	Slc45a2	Clec16a	Tmtc2	Klk1b24	Ptprg	Cdh7	Ccdc91	Stk35	Ccdc85a	Usp50	Nxph2	Trpm7
+Delirium dementia and amnestic and other cognitive disorders	PheWeb_2019	Farp2	Tle4	Dnah11	Kcnip4	Pla2g4a	Gab1	Vrk1	Ddhd1	Tmeff2	Apoc1	Stk25	Cntn4	Arpp21	Tll1	Il7r	Moxd1	Cntnap1	Capsl	Actl7b	Ltbp1	Grm8	Mecom	Dner
+Delirium due to conditions classified elsewhere	PheWeb_2019	Slc24a2	Pmch	Lmo3	Rps19bp1	Saal1	Mgst1	Cacna1i	Rps6ka3	Kctd16
+Dementias	PheWeb_2019	Pla2g4a	Gab1	Vrk1	Sorcs2	Bmp7	Itpr1	Sun5	Apoc1	Apoe	Cdc42ep1	Ncam2	Tab2	Sqstm1	Actrt2
+Dental caries	PheWeb_2019	Magee2	Mgmt	Magee1	Parp1	Ube2e2	Defa5	Prkca	Isl1	Zdhhc15	Fgf16	Ptprd	Cth	Fscn1	Uprt	Ccdc60	Lrrc3b	Abcb7	Fam107b	Aebp2	Prkx	Irf2bpl	Pcsk5	Lbh	Pbdc1
+Dentofacial anomalies, including malocclusion	PheWeb_2019	Slc24a3	Dpp10	Nlgn1	D430041D05Rik	Il1rap	Ikzf2	Themis	Sorcs3	Glra1	Cyld	Gmds	Galntl6	Cylc2	Golga2	Mcph1
+Dependence on respirator [Ventilator] or supplemental oxygen	PheWeb_2019	Rdx	Rfx7	Dysf	Foxg1	Zbtb16	Zfp280d	Il12b	Csmd1	Dcdc2a
+Depression	PheWeb_2019	Egln3	Wfs1	Nsg1	Foxp1	Heatr5a	Alpk3	Rgl1	Col19a1	Slc28a1	Plek2	Slc23a2	Itsn2	Ntm	Rb1cc1	Mki67	Sec14l3	Tmem29	Dlgap2	Ncam2	Prom2	Arl5b	Dtd2
+Dermatochalasis	PheWeb_2019	Arfgef1	Ccl20	Rftn1	Slc39a14	Mafb	Naaladl2	Cops5	Pfkm	Zfp64	Ppp1r42	Sgk3	Exd1	Ryr2	Mcmdc2	Tcerg1	Gabrb1	Maob	Maoa	Rasgrf2	Fmn2	Arhgef10l	Nln	Serpina5	Gngt1	Calcr	Cdh5	Cspp1	Ndp	Cpa6	Csmd1	Slc19a3
+Dermatophytosis	PheWeb_2019	Il4ra	Stard8	Plcl2	Otop1	Arap2	Crim1	Klhl42	Pou6f2	Apc	Tal2	Id2	Il1rapl2	Fsip2	Or9g20	Adk	Frg2f1	Manea	Fmr1nb	Robo2	Or5m11b	Lrrc8d	Spock1	Dlgap2	Zkscan5	Sbf2	Zbtb7c
+Dermatophytosis / Dermatomycosis	PheWeb_2019	Il4ra	Prelid2	Ptcd1	Stard8	Or5j3	Tmem132c	Nosip	Pla2g4a	Nsmce1	Arap2	Crim1	Aig1	Apc	Tal2	Id2	Il1rapl2	Chtop	Csnk1g3	Or9g20	L3mbtl4	Cited4	Diras2	Adk	Frg2f1	Cyp3a13	Manea	Fmr1nb	Or5m11b	Snx2	Spock1	Dlgap2	Zkscan5	Sbf2	Pirt
+Dermatophytosis of nail	PheWeb_2019	Hps1	Kcnh7	Ptcd1	Cpsf4	Or5j3	Plcl2	Ebf1	Crim1	Enox1	Kctd7	Sntb1	Tmeff2	Tmem114	Apc	Appbp2	Rft1	Id2	Slc44a3	Eln	Cyp3a13	Slc8a1	Robo2	Tmem248	Rabgef1	Kpna7	Zkscan5	Caln1	Pirt
+Dermatophytosis of the body	PheWeb_2019	Wwc2	Mrps22	Pld5	Adra1d	Ptpn14	Thnsl2	Adra1b	Hs3st2	Glis3	Gna14	BC034090	Zzef1	Pgrmc2	Il1rapl2	Il1rapl1	B3gnt3	Zfp217	Dact1	Sim1
+Diabetes mellitus	PheWeb_2019	Usp25	Tcf7l2	Tle3	Map1s	Cd180	Nat1	Tsc1	Hipk2	Cdkal1	Runx3	Galc	Rab31	Xpnpep3	Lrfn2	Tcerg1l	H2-Ea	Zfp536	Otc	Fam72a	Mad1l1	H2-Eb2	Nox3	Fto	Gypa	Dcaf8l	Asah1	Pcsk5	Rnf19a	Vps53	Slit2	Susd5	Ncam2	Nlrp1a	Tbc1d22a	Zfp622	Pou5f1
+Diabetes or abnormal glucose tolerance complicating pregnancy	PheWeb_2019	Gldc	Ankfy1	Greb1l	Il1rap	Slc35f2	Dlec1	Apcdd1	Acvr2b	Acvr2a	Ctdspl	Inpp4b	Tfdp1	Nfib	Zmat4	Elmo1	Epg5	Prkd1	Nol10	Sim2	Acaa1b	Rprm	Slc27a6
+Diabetic retinopathy	PheWeb_2019	Spata6l	H2-Eb2	Btnl2	Klhl1	Tmc3	Rnf125	Mrpl32	Fam135b	Clec4n	H2-Ab1	H2-Ea	Dock2	Slc1a1	Gcnt2	Nrxn1	Cdh6	Zfp507
+Diaphragmatic hernia	PheWeb_2019	Trdn	Elovl6	Trgv7	Myo5a	Syt14	Btc	Il6	Cdh12	Plscr5	Nox4	Far2	Amph	Terf2ip	Lpgat1	Trio	Arhgef28	Cacna1c	Adcy4	Psmd7	Hhat	Laptm4a	Taf1a	Galr1	Srbd1	Xirp2	Dlgap1	Ankrd50
+Difficulty in walking	PheWeb_2019	Dnah5	Slc12a5	Tenm3	Aqp9	Sorcs1	Med13l	Mmp9	Cxxc5	Hs6st3	Mtus1	Il22ra2	Dusp22	Rest	Aldh1a2	Ndst4	Fam181b	Sox8	Zfp335
+Digestive congenital anomalies	PheWeb_2019	Epha5	Ralbp1	Cpeb2	Kcne3	Prrx1	Elmo1	Cacna2d3	Chst2	Prickle2	Rnf6
+Disease of capillaries	PheWeb_2019	Cntnap3	Ntrk3	Rbfox3	Lrp2	Nfyb	Tmem74	Cask	Plxdc2	Hcfc2	Slc4a7	Ehbp1	Cdh4	Zfp64	Nek10	Dmd
+Disease of tricuspid valve	PheWeb_2019	Hhla1	Pdha2	Gypc	Olig1	Myo7a	Ube2e1	Or52i2	Nudt7	Mtbp	Ust	Erg	Prkd1	S100a5	Mcph1
+Diseases and other conditions of the tongue	PheWeb_2019	Slc2a12	Rnf38	Usp13	Ptprm	Nalcn	Ppm1l	Sumf1	Dkk2	Nt5c2	Foxp1	Sdk1	Cnnm2	Sufu	Fyn	Ssbp3
+Diseases of esophagus	PheWeb_2019	Smim14	Gpr37	Epdr1	Nipsnap1	Thoc5	Mms22l	Gpr141	Mycs	Zfp64	Mak	Il1rapl1	Nf2	Cntn4	Pkn2	Scn2a	H2-Eb2	Cox7c	Tenm3	Xxylt1	Sycp2l	Arhgef26	Faxc	Cdc73	Prokr2	Knstrn	Sumo1	Kcnn2
+Diseases of hair and hair follicles	PheWeb_2019	Nos3	Tpk1	Emp2	Krt79	Krt78	Pard3b	Serpinb8	Bmp7	Spidr	Tpcn2	Rit2	Zeb2	Pah	Atp13a5	Fam181b	Cdh18	Galnt13	Bnc2	Fscb	Efnb2	Tyw1	Kcnj2
+Diseases of lips	PheWeb_2019	Rbfox1	Pnliprp1	Ryr1	Arl15	Nebl	Bcl11a	Dio2	Iqcd	Iffo2	Zfat	Nxph1	Triml1	Csmd1	Pnlip
+Diseases of nail, NOS	PheWeb_2019	Cap2	Magi1	Foxf1	Elovl4	Arap2	Ajap1	Rnf144b	Bdh1	Cebpa	Mtmr2	Tenm3	Pxn	Satb1	Rsf1	Thbs2	Uhmk1	Neu4	Acoxl	Podxl	Racgap1	Aamdc	Tyw1	Plcg2
+Diseases of pancreas	PheWeb_2019	Itga1	Trdn	Kcng3	Cntn6	Cttnbp2	Kcnh7	Plch1	Cacna1a	Gfra2	Tgfa	Thy1	Zhx2	Add2	Dok6	Grm7	Ppdpf	Wnt2	Aco1	Slc25a37	Cftr
+Diseases of pulp and periapical tissues	PheWeb_2019	Cntnap2	Ctnnd2	Tmem175	Ano3	Gak	Brinp3	Lhx4	Mat2b	Zmiz1
+Diseases of sebaceous glands	PheWeb_2019	Rbfox1	Nufip1	Ssu2	Sorbs1	Foxk1	Qki	Mms22l	Sgcg	Calb1	Sgcd	Ptchd1	Scnn1b	Il1rapl1	Plcd1	Slc25a41	Ptchd4	Fyn	Gpc5	Slc25a23
+Diseases of spleen	PheWeb_2019	Cntn6	Entpd6	Rab38	Pde3a	Sms	Spaca7	Kcne1	Lrp2	Fmn2	Rora	Gli3	Zkscan8	Zscan12	Uqcrfs1	Zkscan4	Ncam2	Nxph1	Cytl1	Hs1bp3	Smim11	Cytip	Or2b6	Csmd1
+Diseases of the jaws	PheWeb_2019	Itga1	Or5au1	Cd72	Ephx2	Clcn6	Sec23ip	Pik3ca	B3gnt2	Fbxl4	Ttll12	Pdzrn3	Rapgef5	Tenm2	Smarcal1	Rab3b	Prokr2	Nrip1	Kcnmb3	Ephb1	Hdx	Grb10	Samd3
+Diseases of the larynx and vocal cords	PheWeb_2019	Setd3	Usp9x	Traf3ip2	Lmtk2	Nenf	Kalrn	Pik3cg	Nr4a2	Dlg2	Nfib	Il2ra	Setbp1	Sh3pxd2a	Pcdh7	Slitrk6	Ccser2	Ostf1	Pik3c3	Pin4	Alpk2
+Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue	PheWeb_2019	Hsdl1	Mbtps1	Mgmt	Thrb	Dnaaf1	Crim1	Itpr1	Slc4a7	Glra2	Fras1	Rps6ka2	Nek10	Bud13	Chst15	Cc2d2a	Epha4
+Diseases of the salivary glands	PheWeb_2019	Ccdc178	Mbd5	P2ry14	Srrm4	Cbx5	Mgmt	Acsl1	Nipa2	Bpifc	Ptprd	Dmrta1	Utrn	Tmem45b	Tenm3	Cited2	Nr3c2	Slc5a4a	Med12l	Gja1	Dpp9	Grm8	Snx29	Sv2b	Tnfrsf17	Nphp4	Ctnna3	Zswim5
+Diseases of white blood cells	PheWeb_2019	Pcsk1	Grid1	Hbb-y	Prl3d2	Etv1	Gfra2	Hs3st4	Gabrg3	Rhobtb3	D630045J12Rik	Creb3l2	Or52a5b	Pcdh7	Atp7b	Lonp1
+Dislocation	PheWeb_2019	Prox1	Nav2	Mafb	Plxdc2	Dcstamp	Fubp3	Stam2	Zscan2	Dpys	Scoc	Efcab14	Cdh9	Phtf2	Nhsl1	Scin	Synpr	Ccdc85a	Suds3	Dnajb9	Mbl2
+Disorder of skin and subcutaneous tissue NOS	PheWeb_2019	Wwox	Smurf1	Vwc2	Zpbp	Hs3st5	Pja2	Slfn9	Nr4a2	Sfrp5	Pdcl3	Acap2	Ust	Gdnf	Rbp4	Ago2	Tnnt3	Catsperg1	Cdh12	Tcerg1l	Itga9	Phf14	Dyrk2	Slc45a2	Prdm1	Fzd10	Lpp	Aff3	Fstl4	Ppp1r2	Egflam	Ffar4	Ncam2	Slfn4	Kcnj3	Smco2
+Disorders involving the immune mechanism	PheWeb_2019	Ddx18	Unc5c	Mettl4	Lpar3	Nup210	Arid1b	Gnai1	Mtnr1b	Cpeb1	Pdlim3	Tcl1	Bambi	Ccny	Cobll1	Il1rapl1	Bcat1
+Disorders of adrenal glands	PheWeb_2019	Osbpl9	Srrm4	Gpr37	Epha7	Dlx6	Tbcel	Vwf	Acsl1	Adamts10	Gli3	Ercc3	Map3k7	Pcdh1
+Disorders of bilirubin excretion	PheWeb_2019	Cap2	Col18a1	Ugt1a10	Src	Ugt1a1	Ece1	Ncor2	Sptlc3	Sh3bgrl2	Ugt1a6a	Ugt1a2	Pik3c3	Pde7a	Eif4g3
+Disorders of calcium/phosphorus metabolism	PheWeb_2019	Hace1	Hip1	Tmem161b	Rpp40	Parp3	Sema3e	Acy1	Rnase6	Cdyl	Fbxo33	Isx	Rrp9	Iqcf1	Glud1	Ppp4r1	Capn13	Nat1	Pcbp4
+Disorders of carbohydrate transport and metabolism	PheWeb_2019	Arnt2	Cntn6	Klhl29	Gfra2	Atp2b2	Helz	Slc6a11	Zhx2	Kctd8	Tbx3	Armcx2	Fat1	Btk	Gla	Spef1	Grik3	Irs4	Klhl36	Zc3h12a	Cyp2a12	Opcml
+Disorders of coccyx	PheWeb_2019	Taf12	Rpgrip1l	Armc2	Folh1	Or4c10b	Tek	Atg4c	Or4c12	Srsf4	Ccser1	Gopc	2210408I21Rik	Rnf222	Ptpru	Kdm3b	Tenm3	Oprd1	Tamm41	Tcf23	Tnfaip2	Camkk1	Rbbp6	Rps6ka3	Has1	Ndel1	Stxbp6	Dscam	Caln1
+Disorders of conjunctiva	PheWeb_2019	Slc10a2	Tmem64	Nav3	Mafb	Ralyl	Fabp2	Dlg2	Peli2	Fat4	Pde5a	Ube3d	Irs2	Htt	Fign	Itpr3	Tspan33	Gphn	Camta1	Tm4sf20
+Disorders of diaphragm	PheWeb_2019	Mctp1	Mef2c	Slc10a2	Atf7ip2	Syt16	Gfra2	Il1rap	Dlg1	Ppfibp2	Cux1	Creb3l2	Fat3	Tll1	Cdk14	Epha3
+Disorders of esophageal motility	PheWeb_2019	Tenm3	Ucma	Qpct	Lrrc7	Ttc7	Sgcz	Arhgap25	Nrgn	Radil	Gjb6	P2rx1	Jdp2	Slitrk6	Pkhd1l1	Rhov	Fxyd6	Pdss1	Mpdz	Ebag9
+Disorders of external ear	PheWeb_2019	Wwox	Dync2h1	Fbxw7	Pla2g4a	Uncx	Etaa1	Ccser1	Frem1	Gramd1b	Nxn	Zcchc12	Psmd14	Tnks	Adcy5	Dnhd1	Gm14569	Tank	Psd3	Micall2	Dip2a	Kcnn2	Pof1b	Lonrf3	Pcnt	Csmd1	Magea14
+Disorders of fluid, electrolyte, and acid-base balance	PheWeb_2019	Il33	Tenm3	Nyap2	Sema3d	Trpv1	Pex26	Klhl1	Gcsh	Arl13a	Alcam	Sohlh1	Scn7a	Dph6	Agxt2	B3gnt2	Pex11g
+Disorders of function of stomach	PheWeb_2019	Kdm8	Wwox	Paqr8	Xylt1	Slc6a15	Oprm1	Ppp2r5e	Cd99l2	Gpr63	Ipcef1	Plg	Ipo11	Eepd1	Ntmt1	Epb41l4b	Rhoj	Cryl1	Dlgap2	Bud13	Srgap2
+Disorders of iris and ciliary body	PheWeb_2019	Lrrc15	Dthd1	Proser2	Il21	Mug1	Adam12	Arid5b	Gp5	Fgf2	Dclk1	Bbs12	Cpxcr1	Ptprd	Grk5	Nup35	Grap2	Erc2
+Disorders of iron metabolism	PheWeb_2019	Abt1	Slc17a1	Prss16	Etv6	Cep89	Pom121l2	Hfe	Gata3	Scgn	Ccdc85a	Ncam2	Slc17a2	Or2b6	Slc17a3	Pgbd1	Prkg1
+Disorders of lacrimal system	PheWeb_2019	Dclre1c	Prmt6	Tenm2	Nxn	Acss3	Mrpl39	Krt75	Nudt12	Spata17	Dnajb6	Igsf9b	Flvcr1
+Disorders of lipoid metabolism	PheWeb_2019	Mccc2	Btnl2	Apoa5	Nup210	Pbx1	Ar	Emcn	Il7	Psrc1	Apoc1	Ttc6	Cdc42ep3	H2-Ab1	H2-Ea	Bud13	H2-Eb2	Trib1	Rgs18	Tomm40	Dyrk2	Dnah7c	Pttg1ip	Celsr2	Fhit	Slc7a11	Hnmt	Agap1	Rab20	Sv2b	Gsc	Apoe	Zfp865	Dact1	Apob	Rab6a
+Disorders of menstruation and other abnormal bleeding from female genital tract	PheWeb_2019	Wwox	Kdm4c	Rwdd4a	Dmrt3	Itga4	Polq	Edem3	Stxbp5l	Frmd4b	Slc6a6	Gigyf2	Glb1	Tbl1xr1	Gnb1	Fat3	Fgf14	Nox3	Ryr2	Pcsk2	Prkag2	Tmtc2	Atp1a1	Fstl5	Fam216b	Syngr1	Pgbd5	Rims1	Tnfsf11	Piezo2	Glul	Erc2	Cntln	Rgs7
+Disorders of mineral metabolism	PheWeb_2019	Wwox	Kdm4c	Mctp1	Cep85l	Chd9	Ppp1r36	Gadl1	Cenpc1	Gprc5a	Nudt11	Fer	Mat2b	Zmiz1	Plxna2	Tnik	Gprc5d	Tac1	Tspyl5	Zfp521	Astn2
+Disorders of muscle, ligament, and fascia	PheWeb_2019	Tmc2	Dmrt2	Tpk1	Adarb2	Lamb1	Lhfpl3	Nsg2	Mafb	Cdh8	Nobox	Nphp4	Dmd	Tmem229a
+Disorders of optic nerve and visual pathways	PheWeb_2019	Cbln1	Svil	Arl10	Tnfsf18	Trpc4	Rassf9	Pdcd1lg2	Sorcs1	Pax3	Efna1	Olfm3	Vapa	Vstm2l	Spry2	Apba1	Sugp1	Col13a1	Celf5	Aoah	Hpse2	Sipa1l2	Ncam2	Trim46
+Disorders of other cranial nerves	PheWeb_2019	Itga1	Epha7	Slc6a19	Trim42	Ripk4	Sri	Cck	Fbxo47	Lyzl4	Mn1	Fbxl13	Slitrk5	Gnao1	Galntl6	Wdfy1	Kctd12	Ccdc3	Cnih3
+Disorders of parathyroid gland	PheWeb_2019	Zranb2	Epha7	Abcc8	Cdkn2b	Syt1	Etv1	Nav3	Olig3	Atp11a	Lrp1b	Dera	Pkia	Trib2	Fam13c	Nkd1	Pcdh19	Ush1c	Ggt1	Snx3	Alcam	Dhx35	Nrcam
+Disorders of phosphorus metabolism	PheWeb_2019	Myo16	Surf6	Cadm1	Pde4d	Otop1	Fbxo33	Arhgap36	Wdr11	Cdh8	Chchd4	Obp2b	Smoc2	Slc25a44	Csmd1
+Disorders of plasma protein metabolism	PheWeb_2019	Sumf1	Enox1	Supt3	Sdk1	Tanc1	Pex5l	Lrfn5	Ptprd	Rarb	Zfp953	Grid2ip	Serpina1c	Rtp4	Serpina10	Zfand2b	Six2	Cnppd1	Obp2b	Tspan9	Ppp4r4	Mvb12a	Stk32b	Enpp6	Opcml
+Disorders of protein plasma/amino-acid transport and metabolism	PheWeb_2019	Fbxw7	Nrn1	Serpina1c	Plvap	Rtp4	Serpina10	Rasgrp3	Supt3	Pelp1	Sdk1	Pex5l	Obp2b	Ppp4r4	Rarb	Mvb12a	Pcdh7	Stk32b	Enpp6
+Disorders of refraction and accommodation; blindness and low vision	PheWeb_2019	Tmem132b	Lsamp	Arap1	Lhfpl4	Klf5	Zhx2	Fchsd2	Gcfc2	Fam135b	Triml1	Golga2	Thada	Slc1a6	Agap1	Aff3	Cryz	Trpm2	Tpo	Sntg1	Mgat5b	Pde2a	Rreb1	Lonrf2
+Disorders of sacrum	PheWeb_2019	Arl14ep	Sec24b	Ech1	Fbxo2	Rnase4	Thnsl2	Fbxo32	Mpped2	Cryl1	Ror1	Fabp1	Rnaseh2b	Stau2	Fgf1	Zfp957	Cplx2	Foxo1	Dram1	Gnptab	Obp2b	Cdk20	Npy	Rac2	Sox6	Stk31
+Disorders of sweat glands	PheWeb_2019	H6pd	Mtmr10	Sel1l	Rad23b	2410137M14Rik	Nfatc1	Efna5	Tpo	Trpm1	Dpyd	Fshr	Cntn4	Csmd1	Fezf1
+Disorders of the autonomic nervous system	PheWeb_2019	Dnmbp	Dsel	Ankfy1	Fancd2	Mettl22	Rasa3	Elp4	Amot	Dpm1
+Disorders of the orbit	PheWeb_2019	Parpbp	Mettl4	Lsamp	Igf1	Ptprd	Pter	Mug1	Stx6	Ncam2	Nup37	Slc22a23
+Disorders of the pituitary gland and its hypothalamic control	PheWeb_2019	Ryr2	Dlx2	Slc12a5	Col28a1	Eya4	Elac2	Mmp9	Otop3	Rbpj	Smc3	Nr5a2	Nps	Cdh5	Gja1	Myo3b	Mkrn3	Rnf141	Dlgap1	Mdfi	Zfp335
+Disorders of tooth development	PheWeb_2019	Klf12	Pdia3	Gpr26	Epb42	Rasef	Cab39	Nrxn1	Ctdspl2	Patl2	Pcdh18	Frmd5	Fut8	Ttc8	Kcnq1	Asb9	Or4d6
+Disorders of uterus, NEC	PheWeb_2019	Tph2	Prmt8	Adcy1	Pabpc5	Trhde	Parl	Sv2b	Ttc6	Ppp1r8	Cntn5	Arl4a	Arid2
+Disorders of vitreous body	PheWeb_2019	Unc13c	Mbd5	Ralgapa2	Sgta	Galnt18	Sestd1	Nrg3	Rps29	Spred2	Rab35	Sec61g	Dlgap2	Ostf1
+Disorders resulting from impaired renal function	PheWeb_2019	Inpp1	Slc44a3	Osbpl3	Dnhd1	Ctps2	Gabrg2	Maf	Lce1g	St8sia5	Tmem200a	Nkain1
+Displacement of intervertebral disc	PheWeb_2019	Pcp4l1	Nubpl	Nr1i3	Rasgrf2	Fn1	Dgat2l6	Atic	Tnfsf11	Pcdh7	Erc2	Pik3c3	Edil3	Rab5b	Prlhr
+Disturbance of salivary secretion	PheWeb_2019	Nckap5	Myt1l	Nrxn1	Slc5a4a	Lrp1b	Nudt12	Cdh5	Dlg2	Snx29	Slc38a8	Fam181b	Gpc5	Cox10
+Disturbance of skin sensation	PheWeb_2019	Srrm3	Magi1	Fam98a	Acsl6	Pappa	Disp1	Gcfc2	Gas1	Cdh12	Nup35	Prkd1	Ccser2	Amtn	Pik3c3	Rapgef6	Pom121l12	Fam50b	Ryr2	Ywhag	Slc35f3	Gbe1	Mrpl39	Trim2	Ipo11	Hspb1	Zbtb20	Pcdh7
+Disturbances in tooth eruption	PheWeb_2019	Klf12	Pdia3	D1Pas1	Sema5a	Epb42	Rasef	Ebf2	Or4n4b	Zfx	Sox11	Pcdh18	Lrp1b	Pja2	Brinp1	Dach2	Asb9	Wls
+Disturbances of sensation of smell and taste	PheWeb_2019	Rbfox1	Zcchc24	Parp4	Hibadh	Dgkb	Hbs1l	Osr1	Bach1	Grik1	Myb	Pitrm1	Syt12	Ppif	Tax1bp1	Jazf1	As3mt
+Diverticulosis	PheWeb_2019	Klhdc3	Rbfox1	Tmem132d	Cadm1	Mok	Iqsec1	Ppp2r5d	Ptprd	Bank1	Cps1	Slc39a10	Antxrl	Pex6	Cntn5	Kcnk2	Mctp1	Aire	Nr3c2	B3galt1	Cckar	Zfp953	Sox9
+Diverticulosis and diverticulitis	PheWeb_2019	Klhdc3	Rbfox1	Mok	Ppp2r5d	Ptprd	Cps1	Dok6	Slc39a10	Pex6	Rapgef5	Mctp1	Dnah3	Dcun1d3	Nr3c2	Ogfrl1	Trpm3	B3galt1	Eri2	Zfp953	Vps53	Sox9
+Diverticulum of esophagus, acquired	PheWeb_2019	Usp36	Kdm4c	Itih3	Smc6	Fhit	Foxn2	Gprin3	Cckbr	Dppa4	Chst11	Grb14	Ppargc1a	Anks1	Mgll	Dact1	Shank2
+Dizziness and giddiness (Light-headedness and vertigo)	PheWeb_2019	Klf12	Lynx1	Auts2	Lypd2	Bhlhe22	Cdh8	Magea13	Dab1	Myo3b	Nox4	Ulk4	Sympk	Cntn5	Mios	Pex11g	Chst3	Samd12
+Drusen (degenerative) of retina	PheWeb_2019	Chodl	Tph1	Tle1	Slc52a3	Zfp78	Syn3	Agap1	Inpp4b	Mms22l	Rnf144b	Plcb4	Sergef	Adamts2	Timp3	Plxna2	Adtrp	Pom121l12	Icos
+Dry eyes	PheWeb_2019	Or51e2	Hs3st3b1	Tcf7l2	Paqr3	Lsamp	Ralyl	Tsn	Col5a1	Ndufaf6	Bcat1	Frem2	Ryr2	Gria3	Stx18	Cryba4	Cdh9	Ogfrl1	Stk10	Zfp78	Glra3	Msx1	Ncam2
+Duodenal ulcer	PheWeb_2019	Pde1a	Eddm3b	Rnase6	Bach2	Fbxo34	AW551984	Msra	Psma6	Bmp4	Dbt	Lurap1l	Pdzrn3	Pls3
+Duodenitis	PheWeb_2019	Slc15a1	Epha7	Gbf1	Nfkb2	Ext1	Cyth4	Htr7	Scin	Arhgap42	Arl4c	Atxn2	Psma5	Trim29	Med30	Fam181b	Mcph1
+Dyschromia and Vitiligo	PheWeb_2019	St6gal2	Cpt1a	Irx1	Spen	Kcnip4	Ppp2r5c	Mafb	Lsm5	Gap43	Kcns3	Cryl1	Efhb	Amtn	Timeless	Cerkl	Arhgap8	Hibadh	Gtf3c6	Mast4	Pde1c	Amd1	Xylt1	Dll1	Efna5	Hnmt	Rpf2	Neurod1
+Dyshidrosis	PheWeb_2019	Mkln1	Nckap5	Nrxn1	Fgf21	Cntn4	Kcnab2	Sox11	Itpr1
+Dysmenorrhea	PheWeb_2019	Abcc6	Rhbdd2	Pcdh20	Adra2a	Msh4	Dpyd	Cylc2	E130308A19Rik	Dock1	Tlr4	Lyplal1	Padi1	Dgkh	Nbas	Kcnk9	St6galnac3	Ntm	Pcdh15	Mki67	Glt6d1	Asb17	Cdh8	Ogfrl1	Rptor	Slitrk1	Fam3c	Otog	Ctnna3	Csmd1
+Dysmetabolic syndrome X	PheWeb_2019	Sema6a	Stat4	Vwc2	Nr2f1	Tdrd9	Zpbp	Vrk2	Htr1a	Iglc3	Cpeb2	Eif5	Lox	Cdh11	Slc39a10	Anapc4	Rbms1	Pex11g	Pkp1	Rtn4	Ppp1r13b	Ptprt	Itgb6	Phex	Sipa1l1	Unc80	Trim30a	Gmds	Has2	Spock3	Ccdc85a	Tpm1	Zpld1	Prkg1
+Dyspareunia	PheWeb_2019	Dpp10	Atp6v0e	Epha8	Sema5a	Dnah9	Dio2	Tdrp	Ube2g1	Lrrc32	Pcdh17	Rad51ap2	Dlg2	Rps6ka6	Pdzd2	Tmx3	Adad2	Hdx	Aak1	Sec63	Dlgap3
+Dyspepsia and other specified disorders of function of stomach	PheWeb_2019	Kdm8	Mylip	Khdrbs3	Irx1	Paqr8	Hspb8	Rassf8	Nrg2	Arap2	Ntn1	Sel1l2	Aig1	Nr5a2	Tiam2	Psd2	Rhoj	Cryl1	Macrod2	Dlgap2	Fam81b
+Dysphagia	PheWeb_2019	Cntnap2	Sema6a	Tslp	Hnf4g	Lyzl1	Pcdh15	Sumf1	Fam169a	Fam135b	Tmx3	Gmds	Erg	Nox4	Fat3	Gm10053	Plxna1	Cntn5	Tnik	Rbms3	Tsga10	Golga2
+Dysplasia of female genital organs	PheWeb_2019	Wwox	Arhgap8	Fer1l6	Stx8	Slc39a11	Zfand3	Samsn1	Sgcz	Btbd9	Clec3a	Zmym2	Suclg2	Thsd7b	Zfp469	Aco1	Samd12
+Dysthymic disorder	PheWeb_2019	Lingo2	Nckap5	Usp7	Itsn2	Pogk	Tmem132b	Htr2a	Cwc27	Grik3	Cdyl2	Lrrc56	Phex	Ephb1	Hras	Gpc5	Nox3	Plxna4
+Dysuria	PheWeb_2019	Cbln1	Cntn6	Edem1	Uqcc1	Cacna2d3	Cobl	Lss	Esr1	Igsf10	Scrt2	Tgfbr3	Maf	Ptprd	Rapgef2	Ndufa12	Fam43a	Maoa	Nrxn1	Hnf4g	Spatc1l	Grin2b	Ybey	Opcml
+Early onset of delivery	PheWeb_2019	Hapln1	Ccdc57	Prmt2	Tmtc1	Tspan14	Pcbp3	H2-Ab1	Wdfy2	Rgs12	S1pr5	Spata31d1b
+Early or threatened labor; hemorrhage in early pregnancy	PheWeb_2019	Wwox	Tle4	Blcap	Prrx2	Foxf2	Bcl11a	Nfkbiz	Stxbp5l	Sorcs2	Nfia	Ell2	Lrfn5	Olfm4	Stim1	Bin1	Pkia	R3hdm2	Serpina1c	Cacna1a	Nrep	Arhgef10l	Rcsd1	Fgf4	Adamts16	Foxq1	Arhgap42	Epb41l4a	Sptlc3	Rras2	Chst11	Ncam2	Rnf152	Pdzd7
+Eating disorder	PheWeb_2019	Slc10a7	Stau2	Dst	Pyroxd2	Galnt18	Gbe1	Nmnat3	Snap91	Dsel	Mmrn1	Ccser1	Strn	Tln2	Pcbd1	Wnt4
+Ectropion or entropion	PheWeb_2019	Csgalnact1	Nbas	Rbfox1	Sel1l	Ctnnd2	Mr1	Pex2	Bicc1	Rab22a	Hs6st3	Klhl1	Xpnpep1	Basp1	Pcdh7	Ier5	Kcng1
+Edema	PheWeb_2019	Acan	Rufy1	Acoxl	Acsl3	Dnajb5	Syne1	Adarb2
+Effects radiation NOS	PheWeb_2019	Mgmt	Greb1	Tpk1	Cacna2d1	Ino80	Tcf12	Tsc2	Ywhaz	Nedd4	Srsf6	Bcor	Alk	Sema3d	Il27	Retsat	Elavl2	Tmem92	Igsf21	Sult5a1	Ldhc	Chordc1	Zfp407	Chac1	Lzts1	Ncam2	Clvs1	Lrrc4c
+Electrolyte imbalance	PheWeb_2019	Epha5	Lmo1	Rbfox1	Ppp1r14c	Trappc5	Nr2f1	Commd1	Rufy2	Slc25a16	B3gnt2	Nes	Flt1	Nyap2	Intu	Akap9	Crmp1	Prelp	Unc80	Alcam	Ctnna2	Rttn
+Elevated cancer antigen 125 [CA 125]	PheWeb_2019	Rnf14	Actl7b	Zdhhc7	Ccnb3	Clcn5	Irf5	Ncam2	Erc2	Igf2bp3	Bcas1	Tnpo3
+Elevated prostate specific antigen [PSA]	PheWeb_2019	Rwdd3	Xlr5b	Gucy1a2	Trpc6	Epha7	Cadm2	Col23a1	Tmem171	Sorcs1	Tmem174	Hck	Rad52	Myo1b	Anapc1	Brwd3	Slc28a2	Mctp2	Klk1b24	Pik3c2g	Slc7a11	Ppm1h	Kif3b	Opa1	Hivep2	Uqcrfs1	Me3	Ankrd6	Zfp366
+Elevated white blood cell count	PheWeb_2019	Eif2b3	Aadat	Trpc5	Ss18l2	Uncx	Med13l	Otol1	Nedd1	Ptprd	Tcerg1l	Cdh13	Cd226	Kif20b	Sec22c	Slc45a1	Dgkb	Slc1a6	Nudt7	Alcam	Mecom	Adamts18	Thsd7a	Jarid2
+Embolism and thrombosis of abdominal aorta	PheWeb_2019	Zhx3	Cog5	Arap2	Myl12b	Bst2	Mat2b	Pdzd2	Bms1	Cntn4	Sspn	Kcnj2	Slc26a4	Dus4l
+Emphysema	PheWeb_2019	Trim61	Arl15	Txnrd2	Tex35	Otop1	Adra2c	Mn1	Nova1	Agbl1	Dmrta1	Gnb1l	Fetub	Slc24a2	Usp15	Ptprt	Usp34	Or9q1	Jakmip1	Phf7	Adamts10	Kif1a	Gpatch1	Nacc2	St3gal1	Csmd1	Ralgps2	Cox10
+Empyema and pneumothorax	PheWeb_2019	Jun	Dapk1	Defa5	Vegfa	Myo1d	Veph1	Gzf1	Arl4a	Myom1	Napb	Rb1	Npffr1	Nrn1	Fhod3	Fign	Ak5	Tmtc1	Rcbtb2	Adamts5	Adamts1	Dync2li1	Man1a2	Map6	Zfp623	Ccnl1	Nudt15	Zfp521	Asic2
+Encephalitis	PheWeb_2019	Barhl2	Sntn	Sp2	Hsf2	Pnpo	Sp6	Skap1	Cdk5rap3
+Encounter for long-term (current) use of antibiotics	PheWeb_2019	Cog6	Chd8	Shroom3	Nfia	Fhit	Caap1	Rchy1	Sdad1	Art3	Gja1	Lrfn5	Cdh11	Tspan7	Zfp407	Ptpn5	St3gal1	Cox10	Pabpc4l
+Encounter for long-term (current) use of aspirin	PheWeb_2019	Arhgef11	Tktl2	Kdm4c	Fzd3	Grid2	En1	Etv3	Ptpn14	Larp4	Lima1	Htatip2	Cep97	Asic1	Pom121l12	Lyplal1	Shank2
+Endocarditis	PheWeb_2019	Ptpru	Irx3	Map4k3	Gsk3b	Ccdc126	Ak2	B3gat2	Kazn	Erich1	Rybp	Npvf	Cfl2	Zfp407	Depdc1a	Plekhm3	Dock3	Map3k7	Gpr156
+Endometrial hyperplasia	PheWeb_2019	Spag17	Dpp10	Nbas	Pcsk2	Nyap2	Rbfox3	Spink2	Fam98a	Dgkb	Ddx24	Mtus2	Nipa1	Atp1b3	Pld1	Atxn2l	Cbln4	Gabrd	Prlhr	Rprm	Plcb1
+Endometriosis	PheWeb_2019	Nutm2	Skor1	Wnt10b	St8sia1	Mme	Plch1	Syk	Hnf1b	Klf5	Pias1	Foxn2	Kctd8	Rgmb	Glud1	Parp11	Prkcz	Zap70	Slc9a8	Far2	Vdac1	Asb1	Gria2	Tenm3	Ighv15-2	Diras2	Twist2	Mki67	Slc7a11	Dmbx1	Chl1	Fgfr1op2	Nkx2-6
+Enthesopathy	PheWeb_2019	Pcyt1a	Mef2a	Rbfox1	Tle4	Bche	Irx1	Pou3f1	Ksr2	Ambn	Tomm20l	Slc51a	Otol1	Ptprc	Nedd4	Camk1g	Hmx2	Hddc2	Kank1	Cetn1	Slc35f3	Fam107b	Papss1	Pts	6430548M08Rik	Rptor	Sgcg	Lrrtm4	Hydin	Rnf152	Ctnna3
+Eosinophilic esophagitis	PheWeb_2019	Galnt14	Lag3	Anxa4	Celf2	Grid2	Rergl	Disp1	Glis3	Ace2	Sdk1	Capn13	Fer	Nhsl2	Tpo	Capzb	Cxcr3	Pir	Pik3c3	Pin4	Kdm6a
+Epilepsy	PheWeb_2019	Wwox	Abca3	Ythdf1	Cdv3	Atp8a2	Magi3	Ptpn22	Rsbn1	Fgf1	Phtf1	Rgmb	Dtwd2	Nkain4	Ptprd	Cdh10	Spata13	Fam174a	Birc7	Mbl2	Hcn2
+Epilepsy, recurrent seizures, convulsions	PheWeb_2019	Grem2	Hs3st3a1	Ablim1	Grm8	Snx18	Ola1	Pik3cd	Cwc27	Alpk2	Kif6
+Epistaxis or throat hemorrhage	PheWeb_2019	Lingo2	Tenm2	Cdkn1b	Krtap24-1	Lrrc47	Ubr5	Ssc5d	Gpatch2l	Sorcs1	Lsm4	Antxr1	Kitl	Slc22a16	Id2	Zfat	Kctd14	Slc16a7	Cpvl	Rbms3
+Erectile dysfunction [ED]	PheWeb_2019	Fto	Cct8l1	Wscd1	Flt3	Arrdc3	Fmn2	Btbd9	Cdkal1	Meox2	Dlg2	Tpx2	C1qtnf9	Myo3a	Spata13	Cdh23	Slit2	Clca2	Sox6
+Erythematosquamous dermatosis	PheWeb_2019	Osbpl8	Epha7	Bod1l	Tmem132b	Cryba4	Foxn3	Smarca2	Tbx5	Adamts16	Clip2	Rab11fip2	Nkx2-3	Tmem45b
+Erythematous conditions	PheWeb_2019	Chrm3	Mipep	Tmem132d	Jag1	Ppp1r14c	Cachd1	Tshz3	Zbtb8os	Kndc1	Fhit	Nin	Hydin	Ninj2	Exoc4	Enpp5	Sync
+Esophageal bleeding (varices/hemorrhage)	PheWeb_2019	Irx3	Timm8a1	Rbfox3	Eif2ak4	Nr2f1	Polr1a	Gfod1	Hnrnph2	Btk	Phf14	Pkn3	Pnpla3	Fmr1	Syne1	Ncald	Srp14	Hs6st1	Oaz2	Dnajb6	St3gal5	Rab28
+Esophagitis, GERD and related diseases	PheWeb_2019	Gpr37	Fbxw8	Epdr1	Tescl	Nav2	Mafb	Thoc5	Mms22l	Gpr141	Slc9a4	Dlg2	Mycs	Mak	Il1rapl1	Nf2	Cntn4	Pkn2	Fcer2a	Terf2ip	H2-Eb2	Cox7c	Sycp2l	Faxc	Prokr2	Knstrn	Sumo1
+Essential hypertension	PheWeb_2019	Epha5	Hs3st1	Rbfox1	Fam98a	Kcnd3	Smurf2	Defa5	Usp24	Mrps6	Cpped1	Synpo2l	Trim16	Fto	Phlpp1	Prep	Cryba4	Eea1	Fut9	Ufl1	Cux2	Rspo3	Slit3	Csmd1	Sh2b3
+Essential tremor	PheWeb_2019	Emx2	Usp38	Dock4	Irx1	Cntn6	Celf4	Rhbdd1	Gata5	Unc5d	Lhfpl3	Abca13	Adra2c	Kctd7	Fam149a	Grip1	Tspan17	Vangl1	Nell1	Nfib	Serbp1	Tbxas1
+Eustachian tube disorders	PheWeb_2019	Hmgn5	Epb41l3	Usp12	Adamts20	Ankef1	Ccng1	Lama1	Oprl1	Ano6
+Excessive or frequent menstruation	PheWeb_2019	Ddx18	Parp6	Fancl	Otor	Adgb	Tgfb2	Zkscan16	Pcdh9	Ddhd1	Hnf1b	Shroom2	Trpv2	Myo9a	Pkm	Diaph2	Klf6	Fbxl4	Alg10b	Cdh18	Tmem229a	Dthd1	Pcsk2	Cpne8	Dnajc25	Kcna6	Slc30a10	Senp8	Fbrsl1	Ptchd4	Gpr158
+Excessive vomiting in pregnancy	PheWeb_2019	Ncapg2	Gnao1	Agtr2	Pld5	Trim2	Myrip	Mobp	Ces5a	Mcph1
+Exophthalmos	PheWeb_2019	Ankrd34c	Arnt2	Pou2f1	Agk	Nek6	Hgf	Klhl29	Nipa1	Abcb9	Sdk2	Cdh4	Abhd17c	Slitrk2	Adamts18	Itgbl1	Cntn1
+Extrapyramidal disease and abnormal movement disorders	PheWeb_2019	Ss18	Unc13c	Igfbp3	Myo5b	Slc39a11	Avpr1a	Uncx	Gfra1	Inhbb	Ell2	Tgfbr1	Ncl	Shank2	Pcsk1	Col15a1	Kcna4	Tnfaip3	Tnn	Tnr	E2f7	Apob	St3gal4
+Eye infection, viral	PheWeb_2019	Igf2r	Plcl1	Smad2	Skor2	Kirrel3	Rbm19	Fndc3b	Bpgm	Mlf2	Zeb1	Meis2	Kif2a	Rarb	Uts2	Tnrc6c	Gypc	Rb1cc1	Grm7	Npbwr1	Cyyr1	Plxna4
+Facial nerve disorders [CN7]	PheWeb_2019	Cdx4	Slc6a19	Dmrt2	Lrriq3	Fndc3a	Traf2	Fam124a	Fgf18	Npepl1	Tpst2	Il9	Nfib	Zfp42	Lgsn	Wdfy1	Spry1	Cnih3	Rabl6	Wdr26	Tshz3	Sri	C8g	Synpr	Cdh4	Capn8	Cd38	Ptgds
+Facial weakness	PheWeb_2019	Fbxw4	Ccbe1	Rnls	Zfp1	Acsl1	Wipf3	Ajap1	Ak9	Fig4	Slco3a1	Prkd1	Myoz2	Btrc	Ppil6
+Fasciitis	PheWeb_2019	Opn5	Sertm1	Cadm2	Ipmk	Irx5	Stx8	Adam21	Ttc7b	Isx	Sgcz	Cdh8	Synj2bp	Cnksr2	Casp9	Erbb4	Lrrtm4	Apmap	St8sia6	Erc2	Msx2	Acss1	Fbxo8	Dact1
+Fever of unknown origin	PheWeb_2019	Pcsk2	Tle4	Mreg	Tenm3	Egln3	Med4	Pdha2	Slc25a51	Etv4	Zbtb40	Tbrg4	Grm4	Fam135b	Ctnna2	Dcaf10	Prkra	Pik3c3	Exosc3	Slc38a5
+First degree AV block	PheWeb_2019	Chst9	Ddx18	Stat4	Oprm1	Atp2b2	Snx19	Tnmd	Tcf4	Tnik	Mad1l1	Cngb1	Lyplal1	Hmgcll1	Galnt16	Dennd1a	Mrpl39	Pcdh19	Atoh8	Nuf2	Tbx22	Hsf2	Ncam2	Rreb1	Dennd5a	Tas2r119	Lmcd1
+Fluid overload	PheWeb_2019	Fnbp4	Nsun3	Ephx2	Msh2	Letm1	Cldn10	Lmx1a	Ackr3	Or5ak25	Epha3	Fmr1	Phf21a	Nlrc5	Lrrc55	Kcnv1	Epcam	Htr7	Stab2	Lbp	Ubash3a	Csmd3	Cyp2j13	Pirt
+Fracture of ankle and foot	PheWeb_2019	Mbtps2	Sema4b	Homer2	Cdc5lrt9	Pard3	Prss36	Ipcef1	Fam227b	Pou6f2	Tec	Vps41	Fam98b	Stx1b	Otud4	Gypa	Clec12b	Hhip	Anapc10	Jakmip1	Aff2	Tmem242	Rasgrp1	Trpm1	Kif13a	Nphp1	Ctnna1	Spp1
+Fracture of clavicle or scapula	PheWeb_2019	Gpm6b	Maged1	Ccdc148	Cited4	Nrxn1	Spns3	Baz2b	Prdm2	Rpl3l	Chordc1	Gipc2	Ctnna2	Igf2bp2	Kctd12	Ypel5	Csmd1	Pacsin2
+Fracture of foot	PheWeb_2019	Dusp5	Dpp10	Mbtps2	Rbfox1	Sbspon	Hhip	Smpx	Etfdh	Ppp1r3b	Sgcz	Anapc10	Pcdh18	Msra	Arhgap44	Rassf3	Eri1	Cnr1	Klrb1	Otud4	Rp1l1
+Fracture of hand or wrist	PheWeb_2019	St6gal2	Tmem132c	Adcyap1	Ano1	Cd6	Fdx1	Rmnd1	Fam181b	Spry2	Ngef	Megf11	Uxs1	Thada	Ces5a	Aadacl4fm5	Antxr1	Ncam2	Dlgap1	Man1a	Mdh1b	Muc4
+Fracture of humerus	PheWeb_2019	Ss18l1	Galnt15	Kdm4c	Wipf1	Pcdh9	Prdm1	Nrg1	Loxl1	Ralyl	Itpr1	Bfsp2	Ptprd	Rgn	Tbc1d23	Rbms3
+Fracture of lower limb	PheWeb_2019	Trhr	Zfy1	Dnah17	St3gal2	Evc2
+Fracture of patella	PheWeb_2019	Lrriq3	Myt1l	Sclt1	Cdyl	Ssmem1	Nr4a2	Chn2	Tnfsf11	Slc25a21	Cytip	Rttn	Klhdc10	Kank4	Ogdh	Socs6
+Fracture of pelvis	PheWeb_2019	Dusp6	Mbnl2	Gfpt2	Wdr31	Nsg2	Bspry	Pask	Tiam1	Mkln1	Oas2	Oas3	Rfx6	Fam20c	Or2b11	Rnf183	Vamp1	Rnf182	Rgs12	Pde7b	Astn2	Pde9a	Arhgap8	Ehmt1	Tapbpl	Actc1	Rnd1	Art5	Zmat4	Lrrc4c
+Fracture of radius and ulna	PheWeb_2019	Gstm7	Gstm6	Tvp23a	Nfatc2	Sorcs2	Dkk2	Plin3	Bcar1	Peg10	Ifna4	Pcdh11x	Onecut2	Fhit	Kri1	Igf1r	Thsd4	Unk	Slc22a16	Aga	Eps8l3	Ncam2
+Fracture of ribs	PheWeb_2019	Amer2	Kcnt1	Tenm4	Chordc1	Unc5c	Chm	Stmn1	Cpeb4
+Fracture of tibia and fibula	PheWeb_2019	Wwtr1	Kdm4c	Homer2	Anks3	Bod1	Ndufa4	Npas1	Cdh9	Tbx3	Diaph2	Vcan	Ppfia1	Slitrk6	Me3	Cd36	Frk
+Fracture of unspecified bones	PheWeb_2019	Hs3st3b1	Trappc11	Stx8	Pla2g4a	Mitf	Tex14	Inhbb	Tbx3	Gdpd1	Clrn1	Trim37	Pde9a	Slc35b3	Supt4a	Mpo	Slc4a3	Tmtc1	Ppm1e	Dusp10	Fut9	Rap1b	Basp1	Zfp407	Hsf5	Prodh
+Fracture of unspecified part of femur	PheWeb_2019	Smad2	Epha7	Lin9	Luzp2	Atf7ip2	Il5ra	Spint4	Plxdc2	Sod2	Trpm2	Hmbox1	Dmrta1	Macrod2	Hao1	Ints9
+Fracture of upper limb	PheWeb_2019	Lrrc49	Gstm7	Gstm6	Irx5	Nfkbiz	Larp4b	Qki	Rpl3l	Fat3	Fam50b	Nrros	Lrrc38	Gbe1	Onecut2	Rdh8	Tnc	Adarb2	Fhit	Fbxo45	Shb	Clcn1	Trpm3	C6	Slc22a16	Slit2	Pgm2
+Fracture of vertebral column without mention of spinal cord injury	PheWeb_2019	Clic6	Epha7	Sema3e	Dgkb	Thada	Trh	Kazn	Irf2bpl	Runx3	Adamts17	Gnal	Etl4	Myo1c	Myl3	Slc9a9	Irf8	Cpne4	Cers3
+Frequency of urination and polyuria	PheWeb_2019	Bcl11b	Saal1	2410137M14Rik	Rpa2	Pou5f1	Themis2	Kcns3	Ube2u	Wac	Fat4	Fgf12	Itm2c	Kcne1	Megf11	Rdh8	Msi2	Fars2	Osbpl10	Jakmip3	Adamtsl1	Arhgap22	Sall3	Lhpp	Enpp2	Bend2
+Fuchs' dystrophy	PheWeb_2019	Cds1	Tapt1	L3mbtl4	Nutm1	F13a1	Rab27b	Lpp	Tdrd5	Axdnd1	Glra3	Elf5	Myo1b	Dhx15	Soat1	Emc4	Tcf4
+Functional digestive disorders	PheWeb_2019	Rbfox1	Auts2	B3galt5	Mtus2	Rassf9	Tiam1	Kcnq1	Creld2	2210408I21Rik	Fgf13	Cd83	Fscb	Ppm1l	Eea1	Unc80	Gmds	Pebp4	Scp2	Ankrd1	Nos2	Trp53i11	Enpp6
+Functional disorders of bladder	PheWeb_2019	Cap2	Akr1d1	Cacna1a	Prkce	Phf21a	Zmat4	Gng7	Tom1l1	Tacc2	Zfp217	Mdfi	Rhcg
+GERD	PheWeb_2019	Dthd1	Gpr37	Akr1e1	Arhgef26	Faxc	Epdr1	Mrpl39	Dntt	Nav2	Ppp1r2	Gpr141	Prokr2	Ntf3	Blnk	Pkn2	Fcer2a	Terf2ip	H2-Eb2
+Ganglion and cyst of synovium, tendon, and bursa	PheWeb_2019	Ddx18	Tsc22d2	Tnfrsf19	Sumf1	Dcdc2a	Pias2	Rnf144b	Cnksr2	Ptprd	Katnal2	Il1rapl2	Myo3b	Id4	Zfp217	Zfp78	Sfi1	Smtnl2	Pcsk2	Tenm2	Lrrk1	Tshz2	Gpr85	Itpripl2	Sh3bp2	Prr14l	Rps6ka2	Ywhah
+Gastric ulcer	PheWeb_2019	Crhr1	Syt4	Trpc4	Actn1	Htr2a	Olig3	Dcaf5	Med18	Pik3cg	Mc2r	Col5a1	Herc1	Prkar1b	Dpyd	Phactr4	Frrs1l	Dscam	Cmklr1	Cpeb4	Mbl2	Ptpn4
+Gastritis and duodenitis	PheWeb_2019	Itgb6	Slc1a1	Tmem132b	Cacna1c	Zdhhc11	Slc8a1	Cdh9	Sox3	Stk10	Nell1	Med30	Cdh22	Xirp2	Tas1r2
+Gastritis and duodenitis, NOS	PheWeb_2019	Khdrbs3	Tinagl1	Aqp9	Rab3ip	Usp24	Parvb	Tnfaip2	Nr3c2	Tomm20	Eepd1	Podnl1	Arhgap21	Gabrr1	Dhx35	Aldh1a2	Dhx37	Rarb	Zfp217	Ctnna3
+Gastrointestinal complications	PheWeb_2019	Ino80d	Pdlim4	P4ha2	Rassf8	Psmg2	Nav3	Zbtb7c	Psmg1	Tox	Smarca4	Smco2
+Gastrointestinal hemorrhage	PheWeb_2019	C1ql1	Dnah14	Mpp2	Gins3	St6gal2	Hs3st5	Lbx1	Plxdc2	Pou5f1	Armc1	Lrfn5	Snx16	Clasrp	Rln1	Csf3r	Prdm1	Tgfa	Sap130	Sost	Ralgps2	Samd5
+Generalized anxiety disorder	PheWeb_2019	Ss18l1	Rwdd4a	Fastkd2	Megf11	Trim71	Sgcz	Col1a1	Psma7	Cpeb2	Mtg2	Camta1	Dph6	Ctnna3	Hes1	Pik3c3	Lsm14b	Ccr4	Raf1
+Generalized convulsive epilepsy	PheWeb_2019	Mbtps2	Epha7	Ptprt	Zbtb8a	Ldb2	Stard13	Magi3	Ube3b	Lmo7	Phtf1	Sod2	Pitrm1	Snx16	Chmp4c	Pnpla3
+Genital prolapse	PheWeb_2019	Ccnjl	Ptprn2	Mbnl2	Arfgef1	Pappa	Dap	Myo3b	Gpd1l	Gopc	Ppp1r42	Zfpm2	Foxa2	Oca2	Tenm2	Ctnnd2	Dennd1a	Rergl	Sema3f	Ak8	Fsd1l	Nkain2	Iyd	Rbm15b	Olfml1	Dcdc2c	Hacl1	Tmem38b	Ros1	Oxgr1	Pabpc4l
+Genitourinary congenital anomalies	PheWeb_2019	Or5ar1	Slc2a2	Itpr3	Thbs1	Cldn11	Igsf11	Kat2b	Stim1	Agbl1	Baalc	Dmd	Sash1	Terf2ip	Lonrf1
+Gingival and periodontal diseases	PheWeb_2019	Krbox5	Ccbe1	Ctnnd2	Fgf1	Rundc3b	Arhgap42	Csrp3	Rrp7a	Mgat5b	Rarb	Bcor	E2f8
+Glaucoma	PheWeb_2019	Slc24a3	Foxd1	Cdkn2b	Tnks	Alms1	Nrg1	Pou2af1	Atp1b1	Gcfc2	Lyrm1	Ppp1r2	Ptpre	Sgcg	Spata16	Gap43	Klhl7	Col5a3	Pappa2	Apod	Rbms3
+Gout	PheWeb_2019	Cdk19	Tle1	Pax5	Commd1	Mtss1	Pkd2	Slc8a1	Igsf10	Sgcg	Tcl1b3	Podxl	Pkn2	Abcg3
+Gout and other crystal arthropathies	PheWeb_2019	Gabrb3	Tle1	Mogat1	Pax5	Bicc1	Egfr	Pkd2	Slc8a1	Igsf10	Tcl1b3	Podxl	Phactr3	Pkn2	Utrn	Abcg3
+Gram negative septicemia	PheWeb_2019	Kcnj6	Mamld1	L3mbtl3	Pbx3	Smarca2	Frmd3	Qki	Fbxo40	Lrrtm4	Rad54l2	Sidt1	Pik3c3	Dock3	Csmd1	Prkg1
+Gram positive septicemia	PheWeb_2019	Nxn	Parp4	Siglec15	Cd83	Ncam1	Btf3l4b	Ahr	Ppm1h	Adamtsl1	Diaph2	Marcks	Sbk2	Zmiz1	Map1b	Sdc2	Edil3
+Graves' disease	PheWeb_2019	Rerg	Tle4	Satb1	Tle1	Cdkn1a	Cpne5	Kcnh8	Idh2	Prim2	Ptpro	Nalcn	Parvb	Rab44	Mtap	Sgcg	Samm50	Rps6ka1	Gjb6	Cryl1	Yipf7	Mbp
+Gross hematuria	PheWeb_2019	Eif5b	Pet117	Tle4	St6galnac3	Ctnnbip1	Serpina10	Pon2	Slc12a2	Uros	Ovol2	Syn3	Cdcp1	Frmd7	Ralgps2	Fbn2
+H. pylori	PheWeb_2019	Plxnc1	Mrps26	Mtx3	Slc20a2	Acot11	Stx8	Tmem132b	Otogl	Rnf168	Wnt11	Cmya5	Rapgef2	Csmd1	Mill1
+Hallux rigidus	PheWeb_2019	Usp25	Wwtr1	Eomes	Cdkn2c	Fam98a	Ankrd46	Kti12	Cdyl	Cacnb2	Cdh11	Pdzrn3	Cc2d1b	Arl6	Zfyve9	Faf1	Btf3l4b	Pcdh15	Txndc12	Lama1	Lypd6	Thsd4	Orc1	Dner	Epc1	Rrp15
+Hammer toe (acquired)	PheWeb_2019	Ntrk2	Magi1	Specc1	Ccbe1	Mctp2	Foxf2	Plch1	Adrb2	Slc1a6	Ell2	Lman1	Mipol1	Cdh20	Kcnma1	Mc4r	Kcnn2	Nck2
+Hearing loss	PheWeb_2019	Arsb	Epha5	Tmem132d	Zfp462	Shroom2	Coprs	Zfp72	Zfp953	Fat3	Ppp1r12c	Trib2	Vstm2a	Stk19	Or2k2	Coro1a	Slc1a7	C2	Spag16	Ngrn	Chaf1b	Grm8	Kif1a	Pmepa1	Tmem108	Nelfe	Spock1	Pcdh7	Hivep3
+Heart failure with preserved EF [Diastolic heart failure]	PheWeb_2019	Aoc3	Lrrfip1	Rgsl1	Lsamp	Fhit	Ppp1r9a	Shisa9	Tubb2b	Slc9a9	Dsg1a	Slit2	Muc16	Csmd1	Gpr158
+Heart failure with reduced EF [Systolic or combined heart failure]	PheWeb_2019	Card10	Foxd3	Syt3	Pde4d	Shisa6	Muc5ac	Tmprss15	Tanc1	Prpf18	Kcnq1	N6amt1	Kcne2	Irs2	Htr2c	Dapl1	Fmn2	Psen1	Adh7	Dach1	Rgs3	Grin2a	Ftmt	Tekt4	Bend7	Nck2
+Heart transplant/surgery	PheWeb_2019	Gen1	Anxa1	Jag2	Tnfsf15	Tvp23a	Cdkal1	Spata17	Vsnl1	Ncapd3	Cdk17	Gabrb3	Rpl3	Nubp1	Zfp422	Smc6	Loxl1	Elk3	Syngr1	Gse1	Nrap	Tekt5	Csmd1	Opcml
+Heart valve disorders	PheWeb_2019	Fzd2	Rbfox1	Tenm2	Syt3	Dgkb	Mettl2	Trappc9	Tmem163	Tuba3b	Brs3	Foxp1	Pkhd1	Map7d3	Echdc3	Fat4	Shoc2	Colgalt1	Tmem8b	Shank2
+Heart valve replaced	PheWeb_2019	Gabrb2	Adcy1	Srek1ip1	Unc5d	Cacna1g	Rbx1	Elk4	Tbl1xr1	Bank1	Nrip3	Fam53a	Klkb1	Mapk6	Rprm
+Heartburn	PheWeb_2019	Ngfr	Ptprn2	Gpld1	Hs3st3b1	Slc14a2	Mctp2	Wdr4	Mrpl39	Prr5l	Snx10	Npas3	Tbc1d1	Foxq1	Hdx	Anks1b	Ndufv3	Tead1
+Hemangioma and lymphangioma, any site	PheWeb_2019	Gabra2	Hcn4	Blcap	Draxin	Stard13	Homer1	Cox7b2	Gk2	Cdh9	Apold1	Dcn	Sobp	Brip1	Prex2	Rgs3	Cdh13	Scn5a	Phactr1
+Hemangioma of skin and subcutaneous tissue	PheWeb_2019	Maml2	Ndufa4	Ttyh1	Leng8	Lrrc7	Gpr85	Htr1a	Slc4a5	Gjd2	Chchd3	Tox3	Zfp704	Galntl6	Impg2
+Hematemesis	PheWeb_2019	Kank3	Colec12	Mreg	Tcf7l1	Aoah	Nap1l1	Pex2	Alkbh8	Zfp78	Phospho1	Snx5	Mycs	Klf6	Ncs1	Snx16	Uqcrfs1	Slc25a26
+Hematuria	PheWeb_2019	Mcur1	Mef2c	Abcb5	Galnt18	Ptger4	Nedd4l	Nap1l1	Dytn	Pthlh	Kif2b	Capn8	Dsel	Ppp1r3c	Lipi	Zfp953	Tnfsf4	Dlgap2	Itgb8	Tlk1	Rpl38	Dsc3	Zfp334
+Hemorrhage NOS	PheWeb_2019	Zbtb18	Irs2	Dennd1b	Traf2	Prrc2c	C8g	Maf	Etl4	Prex2	Psrc1	Trim30a	Cdh2	Plscr5	Pmp22
+Hemorrhage during pregnancy; childbirth and postpartum	PheWeb_2019	Wscd2	Mthfd1l	Pkia	Hs6st1	Micu2	Slc8a1	Ppp2r5a	Slc9a1	Klhl1
+Hemorrhage from gastrointestinal ulcer	PheWeb_2019	Dpp10	Klf12	Nxn	Fhod1	Cartpt	Nr3c2	Zwint	Lsm10	Slc9a5	Gpam	Clmn	Frem2	Oscp1
+Hemorrhage in early pregnancy	PheWeb_2019	Sema6a	Edem1	Sphkap	Ttc7	Crim1	Parp11	Myh3	Cxcl13	Fam135b	Olfm4	Slc39a10	Plekhm2	Vdac1	Sec23a	Bnc1	Wdr20rt	Nmd3	Arhgap44	Mal2	Ptgfrn	Sptssb
+Hemorrhage of gastrointestinal tract	PheWeb_2019	Calr3	Hs3st3a1	Lingo2	Chst8	Colec10	Zfhx3	Slc38a11	Oasl1	Otol1	P2rx7	Pthlh	Ttll7	Tox3	Hnf1a	Snx16	Pmfbp1	Il12rb1
+Hemorrhage of rectum and anus	PheWeb_2019	Gins3	N6amt1	Skor2	Mast4	Ptprr	Slc34a2	Tmem132c	Magi3	Ptpn22	Trpv1	Pcsk6	Pcsk5	Slc7a7	D630045J12Rik	Sntg1	Sp3	Chst11	Gsc	Anapc4	Fat4	Itgav
+Hemorrhage or hematoma complicating a procedure	PheWeb_2019	Hip1	Agtpbp1	Slc36a4	Uqcc2	Itpr3	Nav1	Lemd2	Ipo9	Mug1	Tprg1	Ip6k3
+Hemorrhoids	PheWeb_2019	Slc24a2	Mctp2	Dcaf4	Stc1	Helz	Cartpt	Serpinb9c	Ptbp3	Dnm3	Cnksr3	Mettl13	Tmem68	Daam1	Ffar2	Nxph2	Caln1
+Hereditary and idiopathic peripheral neuropathy	PheWeb_2019	Itih5	Mctp2	Ythdf3	Hmgcs2	Mgmt	Foxf2	Lpcat1	Bhlhe22	Sstr1	Mrpl36	Mycl	Slc22a18	Nup35	Nxph1	Mcph1	Epha3
+Hereditary disturbances in tooth structure	PheWeb_2019	Fut8	Mcm9	Cep85l	Prim2	Nrxn1	Asf1a	Cox10
+Hereditary retinal dystrophies	PheWeb_2019	Slc26a3	Ntng1	Mgmt	Tpk1	Mid1ip1	Cacna1c	Kcna5	Plxdc2	Col5a1	Cyb5r1
+Herpes simplex	PheWeb_2019	Osbp2	Ccdc178	Col19a1	Anxa1	Cubn	Mctp1	Snrpn	Adsl	Akap6	Lmbrd1	Rims2	Stag2	Cdh2	Ptprz1	Sgsm3	Csmd1	Opcml	Tnrc6b	Wnt4	Clrn2
+Herpes zoster	PheWeb_2019	Nipsnap3b	Car10	Ccdc13	Pabpc5	Cyp8b1	Dkk1	Gltpd2	Tcerg1l	Tusc1	Ackr2	Plekhm1	Kcng1	Luzp2	Brat1	Ctnnd2	Npas3	Higd1a	Zfp608	Kcnmb2	Tspan7	Ank	Fam120b	Smco4
+Herpes zoster with nervous system complications	PheWeb_2019	Slc15a3	Fmr1	Dcaf8l	Dnajc13	Enox2	Dock11	Prdx4	Dab2	Col4a2	Hook1	Fgf15	Il1rapl1	Acad11	Actrt1
+Hidradenitis	PheWeb_2019	Dmrt2	En1	Runx1	Mzt1	Kbtbd12	Pou3f4	Marco	Gclc	Nfib	Fshr	Fam20c	Hhipl2	Trib2	Brwd3	Mtmr10	Dyrk2	Trim2	Barx1	Lypd8	Ap1s3	Lrig2	Mfsd1	Rbbp8	Edil3	Mpdz	Csmd1
+Hirsutism	PheWeb_2019	Plcl1	Tle1	Ralgapa2	Usp34	Ell2	Arhgap25	Acvr2a	Klhl1	Strip2	Tbc1d32	Nfic	Csmd1	Sox6
+Histoplasmosis	PheWeb_2019	Arl4d	Rnf10	Arsj
+Hodgkin's disease	PheWeb_2019	Prmt6	Gabrb2	Opn5	Mrpl19	Trap1	Btnl2	Arid3a	Etv1	Arhgap18	Efna5	Klhl1	Gcfc2	Dnase1	Hmx1
+Hx of malignant neoplasm of oral cavity and pharynx	PheWeb_2019	Oca2	Vipr1	Pcdh11x	Pde4dip	Dll1	Ass1	Sall1	Frg1	Fam174a	Peli1	Pkp2	Man1a2	Hacl1	Rspo2	Eif3e	Dnm1l
+Hydrocephalus	PheWeb_2019	Magi2	Kcnj9	Rfx3	Tmem64	Lifr	Per3	Tmem18	Xpnpep1	Spata13	Slco3a1	Kctd12	Frem2	Igsf8	Ddr1	Tenm3	Or9q1	Park7	Rora	Ctif	Grm8	Sv2c	Hey1	Orc4	Cytl1	Igfbp7	Stk32b	Plxna4
+Hydronephrosis	PheWeb_2019	Akap1	Kdm4c	Ptprt	St6galnac3	Acsm4	Cacna1a	Cradd	Slc1a4	Msi2	Tmco4	Dusp10	Cdk6	Agbl1	Grm7	Insc	Slc9a9	Asb7	Ndufs4	Hhipl2	Appl1	Dock2	Zfp521
+Hypercalcemia	PheWeb_2019	Epha5	Lrriq3	Ptgdr2	Dpt	Fbxo48	Pdgfb	Cask	Art5	Cpeb2	Etaa1	Arhgap42	Stk32a	Gmds	Ccdc86	Slit2	Zp1	Cpvl	Astn2
+Hypercholesterolemia	PheWeb_2019	Zcchc24	Ndufa8	Kcnh6	Usp43	Slc10a2	Cadm1	Zfp804a	Tgfbr3	Sdk2	Stim2	Cdc42ep3	Ppie	Kank4	Serinc5	Il22b	Mycbp2	Adcy5	Lclat1	Adra1b	Asah1	Stk3	Lbh	Sertad2	Snx29	Gng7	Myc	Nlrp4c	Pde8b	Prok2	Myoz1
+Hypercoagulable state	PheWeb_2019	Prmt6	Cenpw	Gabbr2	Helt	Tsc2	Sele	Atp1b1	F5	Lrfn5	Selp	Nme7	Dok7	Blzf1	Slbp	Dpt	Mei4	Spag16	Rptor	Bbx	Fam174a	Slc38a8	Ccdc181	Slc19a2	Apol7e	Prkg1
+Hyperglyceridemia	PheWeb_2019	Mrgprb1	Apoa5	Gfra2	Msra	Diaph3	Myo3b	Bud13	St6galnac5	H2-Eb2	Cdca7l	Dpp10	Cox7c	Rergl	Adipor1	Cblb	Igf1r	Igsf21	Ptprg	Fut8	Igha	Cyb5r1
+Hyperhidrosis	PheWeb_2019	Pmm2	Rprd1a	Cradd	Mapk1ip1	Tmem132b	Ly86	Ipcef1	Nup210	Dkk3	Gnal	Tmem215	Pkia	Zfp953	Fgf13	Pdzrn4	Rnf34	Hdac11	Luzp1	Abat	Pcsk5	Kng1	Brinp3	Fam174b	Pced1b	Rps6ka2	Slc39a6
+Hyperlipidemia	PheWeb_2019	Mccc2	Btnl2	Apoa5	Nup210	Pbx1	Ar	Emcn	Il7	Psrc1	Apoc1	Ttc6	Cdc42ep3	H2-Ab1	H2-Ea	Bud13	H2-Eb2	Trib1	Rgs18	Tomm40	Dyrk2	Dnah7c	Pttg1ip	Celsr2	Fhit	Slc7a11	Hnmt	Agap1	Rab20	Tpr	Sv2b	Gsc	Apoe	Ncam2	Zfp865	Dact1	Apob
+Hypermetropia	PheWeb_2019	Prelid2	Kcnip1	Kcnb1	Mgmt	Ndufa4	Arid1b	Hs3st4	Tgfbr2	Qki	Acap3	Hand1	Prkd1	Suclg2	Ccser1	Cntn5	Aasdh	Sema3d	Ttll10	Mei4	Nalcn	Rasal2	Pcdh19	Mettl13	Ppat	Nphp4	Disc1	Rdh14	Sh3gl2
+Hyperparathyroidism	PheWeb_2019	Zranb2	Epha7	Cdkn2b	Negr1	Olig3	Atp11a	Lrp1b	Dera	Rap2b	Arhgap31	Pkia	Ctxn3	Fam13c	Antxr2	Foxo3	Nkd1	Ggt1	Prdx6	Snx3	Alcam	Dhx35	Adamts18	Camta1	Gm5150	Apbb2	Nrcam
+Hyperplasia of prostate	PheWeb_2019	Rbfox1	Rph3al	Slc6a17	Sorbs2	Dusp21	Asah2	Olfm4	Lnx2	Tln2	Trib2	Ahr	Adarb2	Igsf21	Gng11	C1qtnf9	Mecom	Tbc1d31	Txndc5	Ctnna1	Zbtb7c
+Hyperpotassemia	PheWeb_2019	Pou3f2	Smarca2	C3	Naaladl2	Pcdh17	Sdk2	Wrn	Alcam	Psd3	Rsrc1	Creb3l2	Gpr108	Git1
+Hypersomnia	PheWeb_2019	Colec11	Mctp2	Irs1	Kcne4	Rab3ip	Lrrc18	Mki67	Dkk2	Pbx1	Med24	Aimp1	Zmiz1	Rasgef1c	Kdr	Wdfy4	Ccser1	Lhx9
+Hypertension	PheWeb_2019	Epha5	Hs3st1	Fam98a	Smurf2	Defa5	Usp24	Mrps6	Cpped1	Synpo2l	Trim16	Fto	Phlpp1	Prep	Cryba4	Cep128	Eea1	Fut9	Ufl1	Slit3	S1pr5	Csmd1	Sh2b3
+Hypertension complicating pregnancy, childbirth, and the puerperium	PheWeb_2019	Cobl	Stam	Pard3b	Pax1	Scrt1	Slc9a9	Cdh13	Tusc1	Arpp21	Bud13	Gtf2ird1	Hip1	Nrp1	Tenm1	Crb2	Tmprss2	Ube3c	Gata3	Mrm1	Caap1	Ptprg	Mroh1	Auh	Alcam	Erc2	Csmd1
+Hypertensive chronic kidney disease	PheWeb_2019	Cers4	Rbm39	Ahnak	Pcdh10	Nap1l3	Zdhhc14	Adra1d	Fam133b	Nova1	Psd3	Ubl3	Pdgfd	Kdr	Matn1	Nphp4	Fam180a	Bcat1	Dync1i1
+Hypertensive heart and/or renal disease	PheWeb_2019	Cers4	Vit	Cdca2	Vdr	Arrdc3	Zfp260	Mid1ip1	Zdhhc14	Zdhhc7	Grhl1	Nova1	Pdgfd	Elmo2	Pmfbp1	Matn1	Nphp4	Fam180a	Zfp566	Dync1i1
+Hypertensive heart disease	PheWeb_2019	Ahi1	Erbb4	Setbp1	Dcakd	Ebf1	Rundc3b	Arhgap36	Nmt1
+Hypertrophy of breast (Gynecomastia)	PheWeb_2019	Wwox	Nmbr	Adcy8	Ralyl	Shisa9	Cenpe	Cdk8	Mtnr1a	Nfib	Zfp64	Gnao1	N4bp3
+Hypertrophy of female genital organs	PheWeb_2019	Fam98a	Tcf21	Nsg2	Art5	Bcr	Sptlc3	Tspan18	Gpr149	Vat1l	Trp53i11	Snx7	Trim24
+Hyperventilation	PheWeb_2019	Tenm3	Hgf	Cul1	Csnk1e	Tmc7	Adra1b	Cdh9	Coq7	Mia2	Slitrk1	Camk1g
+Hypocalcemia	PheWeb_2019	Ap3m2	Rngtt	Kcnc2	Zic3	Nabp1	Tusc1	Fbxo11	Fbn2
+Hypoparathyroidism	PheWeb_2019	Cntnap2	Api5	Tsc22d2	Peli2	Rapgef2	Itpr3	Ahr	Tmem260	Rspry1	Cryaa	Naaladl2
+Hyposmolality and/or hyponatremia	PheWeb_2019	Cnot6l	Irx6	Mgmt	Ncam1	Hecw1	Adcy3	Smarca2	Ipo11	Ajap1	Hmgn5	Alpl	Kdr	Phactr1	Pabpc4l
+Hypotension	PheWeb_2019	Rbfox1	Tsnax	Dmrt2	Pcdh9	Asrgl1	Klhl1	Bcr	Mip	Incenp	Dpp10	Ahnak	Nrxn2	Ppp1r9a	Kalrn	Sh3rf2	Sox3	Sall3	Disc1	Kcnj3	Slc22a12
+Hypotension NOS	PheWeb_2019	Epha8	Foxb1	Rbfox3	Dmrt2	Prdm5	Steap1	Prim2	Asrgl1	Tbcd	Tmem165	Sox3	Tcl1b3	Cdh11	Matn2	Ppfia2	Atxn1	Pappa2	Bcat1	Mad2l1
+Hypothermia/Chills	PheWeb_2019	Ccdc154	Fgf9	Kif2b	Ntm	Tcerg1l	Ccdc93
+Hypothyroidism	PheWeb_2019	Ptpn1	Gbp6	Sf3a3	Mtx2	Ipmk	Commd10	Rsbn1	Igsf11	Pik3cb	H2-Ab1	Ube2v2	Trib2	H2-Eb2	Hip1	Foxe1	Lama4	Ptpn22	Xpa	Hs6st1	Slc8a3	Podxl	Ctla4	Gbp5
+Hypothyroidism NOS	PheWeb_2019	Card10	Ptpn1	Sf3a3	Ipmk	Commd10	Rsbn1	Igsf11	Pik3cb	Agbl1	H2-Ab1	Ube2v2	Trib2	H2-Eb2	Hip1	Faxc	Foxe1	Lama4	Slc2a2	Ptpn22	Xpa	Rnpc3	Malt1	Pitpnc1	Slc8a3	Inpp5b	Erbb4	Podxl	Pter	Ctla4	Gbp5
+Hypovolemia	PheWeb_2019	Prelid2	Col17a1	Fbxo39	Trappc9	Prkx	Ttc7b	Tgfbr2	Klhl1	Rnf144b	Arl13a	Alcam	Tekt1	Fat3	Fmod	N4bp2	Samd12	Siglecf
+Iatrogenic hypotension	PheWeb_2019	Batf3	Eomes	Rabgap1l	Flt1	Pomp	Ube3d	Tmem40	Tmem182	Ddhd1	Nsl1	Cdh9	Hipk3	Mfsd9	Mat2b	Cxcr4	Slitrk5	Ssr1	Cage1	Lcorl
+Idiopathic fibrosing alveolitis	PheWeb_2019	Stpg1	Pdgfra	Spata6l	Zfp462	Muc5b	Klhl29	Prdm13	Atp2c2	Fbxo33	Sdk1	Ermp1	Mybbp1a	Rnf144a	Chl1	Ankrd50	Zfp697
+Ileostomy status	PheWeb_2019	Agtpbp1	Tcf7l1	Foxg1	Gorab	Slc2a1	Nedd4l	Med13l	Lhfpl1	Camkk2	Dhx40	Tgm1	Col4a1	Pde10a	Pgrmc2
+Ill-defined descriptions and complications of heart disease	PheWeb_2019	Chrm3	Ints12	Blk	Cd96	Csnk1a1	Zfp770	Epha7	Maml2	Gstcd	Cog2	Ebf3	Nr1h4	Fam167a	Cdh10	Dph6	Rbm25	Dsc3
+Immunity deficiency	PheWeb_2019	Usp25	Cadm1	Btbd9	Syn3	Cdh13	Slc25a31	Eda	Foxe3	Ptprt	Lmf1	Clmp	Llph	Lrrtm4	Sgcb	Cobll1	Csmd1	Prkg1
+Impacted cerumen	PheWeb_2019	Foxa2	Tes	Tmod1	Cav2	Tfec	Rlf	Prkca	Lipg	Ncln	Cdh4	Frg1	Tfg	Abi3bp	Rab18
+Impaired fasting glucose	PheWeb_2019	Celsr1	Frmpd4	Anxa4	Kcnh8	Slc20a2	Ptch1	Mki67	Caap1	Pcdh19	Pld1	Ralyl	Ext1	Zfp37	Luc7l	Aloxe3
+Impetigo	PheWeb_2019	Rbfox1	Satb1	Kcnh8	Onecut1	Glt8d2	Rgs22	Six2	Cryba4	Cbfa2t3	Nr2c2
+Incisional hernia	PheWeb_2019	Lingo2	Eya2	Osbpl3	Bcl10	Ide	Aebp2	Cyba	Hdac9	Slc5a4a	Itpr1	Reep1	Hrh1	Polr1a	Epb41l3	Ddah1	Ccdc86	Padi4	Padi3	Pde3a	Mvd
+Infection of the eye	PheWeb_2019	Rbfox1	Spink2	Rfx2	Tmem179	Dbf4	Cdh11	Tcerg1l	Klrb1	Clec2d	Bmpr1b	Zcchc9	Fign	Cacna1e	Agap1	Ftcd	Socs3	Ckmt2	Sgcg	Odf2l	Sh3bp4	Zfp648
+Infection/inflammation of internal prosthetic device; implant; and graft	PheWeb_2019	Postn	Mgmt	St14	Cd70	Col23a1	Slc6a15	Cacna2d4	Nup153	Cacnb2	Diaph2	Asph	Tln2	Kank1	Nxn	Megf6	Pcdh11x	Rpl10l	Tial1	Dusp10	Mtpap	Dcdc2c	Rpl38
+Infections of genitourinary tract during pregnancy	PheWeb_2019	Gria3	Cox7c	Fmr1	Slc39a11	Ets1	Otol1	Olfm4	B3galt1	Hrh4	Gpnmb	Cdh13	Il1rapl1	Atg4c	Mta3	Nck2
+Infectious and parasitic complications affecting pregnancy	PheWeb_2019	Hs3st1	Zfp330	Slfn5	Hsd17b4	Tcf12	Arap2	Grik3	Antxr2	Tiam2	Zeb2	Zfp280d	Il1rapl1	Itm2a	Mon1b
+Infertility, female	PheWeb_2019	Abcc4	Macc1	Runx1	Mthfs	Tgfbr2	Lrp1b	Rnf144b	Rad51b	Spata17	Ankfn1	Itga11	Ddah1	Hhipl2	Fam76b	Tmem161b	Sdc3	Tmem108	Isoc1	Zfp746	Ms4a14	Adora1	Igfbp7	Cd200r3
+Infertility, female, associated with anovulation	PheWeb_2019	Ccdc113	Usp6nl	Diras2	Slc52a3	Gadd45g	Pcdh15	Zdhhc11	Fgf1	Prss54	Ttc9	Spib	Kcnma1	Uqcrfs1	Impg1
+Infertility, male	PheWeb_2019	Rrm2	Vipr2	Arfgef1	Cntn6	Cog6	Usp44	Akr1b1	Nrep	Tgfbr2	Tmem72	Tsn	Parp11	Rgs5	Efnb2	Rgs4	Pdzd2	Npvf	Leprotl1	Mgat4c	Akr1b7
+Infestation (lice, mites)	PheWeb_2019	Gabrb3	Calcoco1	Pcdh15	Ccer1	Pds5b	Adra1b	Dapp1	Tmem26	Ppp1r1b	Ppp2r2c	Slc39a10	Vim	Trdmt1	Spaca7	Samd5
+Inflammation of the eye	PheWeb_2019	Nckap5	Il21	Ndufa12	Smurf2	Cacna2d1	Htr1a	Arhgap25	Hopx	Kcnu1	Antxr1	Diaph3	Arhgap42	Ndufaf6	Hoxc6	Grb10	Slit3	Tnfsf10	Ptpn5
+Inflammatory and toxic neuropathy	PheWeb_2019	Zbtb7a	Megf6	Cadm2	Celf2	Prl3d2	Tnfaip3	Olig3	Mtus1	Pdgfrl	Slc7a5	Znrf2	Mis18a	Cux1	Tcerg1l
+Inflammatory bowel disease and other gastroenteritis and colitis	PheWeb_2019	Il10	Pou3f1	Mme	Cav2	Spryd7	Tfec	Cirbp	Pias1	Foxp1	Smoc1	Galntl6	Polr1e	Pik3c3	Rbms3	Tes	Nod2	Adarb2	Nkd1	Pgrmc2	Fam3b	Man1a	Tmem38b	Kpna3	Pls3	Tbc1d16	Cyth1
+Inflammatory conditions of jaw	PheWeb_2019	Ggnbp2	Magi1	Cpq	Mamdc2	Got1	Tmem132c	Gfi1	Lpp	Mrm1	Kcnv1	Rasa1	Cldn5	Itgae	Slco3a1	Cntn4	Evi5	Nkain1
+Inflammatory disease of breast	PheWeb_2019	Bckdhb	Slc14a2	Mctp1	Fcrl5	Ehmt1	Lmf1	Mro	Syt16	Arid1b	Ing1	Ilf3	Glra1	Ifne	Dusp22	Adamts18	Tspan18	Ect2	Pnpla7	Tbc1d16
+Inflammatory disease of cervix, vagina, and vulva	PheWeb_2019	Kcnh5	Zfhx4	Ptprr	Shroom3	Etv1	Fndc3b	Jakmip1	Rap1gap	Synpr	Nhsl2	Tbc1d4	Bdh1	Kcnq5	Il12b	Fgf14	Rpp25	Lekr1
+Inflammatory diseases of female pelvic organs	PheWeb_2019	Kcnh5	Fndc3b	Klf5	Rnase2b	Tbc1d4	Pdcd5	Cntn5	Spry1	Pdxk	Ptprr	Slc6a2	Agap1	Khsrp	Brinp2	Tbc1d32	Nphp4	Hif1an	Il12b	Rab11fip3	Lekr1
+Inflammatory diseases of prostate	PheWeb_2019	Gabrg1	Nsmce2	Atp11b	Mkln1	Chit1	Ptp4a3	Rcan2	Bank1	Gnpat	Kcnq3	Cdh13	Il1rapl1	Ptpru	N6amt1	Tyrp1	Eddm3b	Nalcn	Serpina9	Elk3	Spag16	Adamts5	Sh3tc2	Kif13b
+Inflammatory diseases of uterus, except cervix	PheWeb_2019	Vtcn1	Peg3	Vopp1	Klhl29	Erich1	Jph1
+Influenza	PheWeb_2019	Epha5	Lrrc58	Luzp2	Fam13b	Pcdh9	Slc35f5	Fam107b	Atg10	Lsm5	Rad51b	Brinp3	Mettl15	Pcf11	Mgat5b	Mical2	Fam20c	Nxph2	Gpr156
+Ingrowing nail	PheWeb_2019	Gabrb2	Gabra6	Numa1	Zbtb10	Clec14a	Loxl2	Cacnb4	Myo3b	Pcdh7	Rab28	Trim67	Trp63
+Inguinal hernia	PheWeb_2019	Gria3	Mdga1	Xrcc5	Fstl1	Htr2a	Gpr63	Plb1	Inpp4b	Pclo	Prex2	Rab12	Stk33	Grm7	Lzts1	Qsox2	Tcf4	Trim66
+Insect bite	PheWeb_2019	Slc35b3	Mrpl39	Crx	Nav3	Diaph2	Ednra	H2-DMb1	Spred2	Aldh3b3	Tnfsf10	Ccr6	Lrrc4c
+Insomnia	PheWeb_2019	Aqr	Magi1	Galnt15	Zfp462	Zfp770	Atp8a1	Ythdc2	Celf4	Ntm	Rnf180	Trpv3	4930523C07Rik	Zfp608	Tnr	Kcnn2	Tmem200a	Eif4e	Rbms3
+Insulin pump user	PheWeb_2019	Stpg2	Kcnj6	Lingo2	Pdgfra	Rbfox2	Entpd6	Dyrk1a	Cct6b	Bst2	Pola2	Tgif2lx2	H2-Ab1	Pde7b	Vsx1	Notch2	Plvap	Slc27a1	Ahnak	Ubr3	Limd1	Cpxcr1	Rps6ka3	Mvb12a	Ncam2	Gbp5
+Intervertebral disc disorder with myelopathy	PheWeb_2019	Hs3st3b1	Npy1r	Pcdh15	Iqck	Tmem165	Agpat5	Nlrp12	Txlnb	Atg2b	Naf1	Nphp4	Hmcn2	Opcml
+Intervertebral disc disorders	PheWeb_2019	Slc10a2	Kcnip4	Slc13a1	Tnk2	Cacna2d3	Lsamp	Foxl1	Dazl	Nfic	Pcca	Hecw2	Pde7b	Rab5b	Fto	Cox5a	Foxc2	Prdm5	Tnks	Galnt18	Nr1i3	Pcsk6	Prdm10	Clec18a	Slc2a9	Spag16	Rab11fip2	Scaf8	Sipa1l2	Slitrk4	Erc2
+Intestinal disaccharidase deficiencies and disaccharide malabsorption	PheWeb_2019	Grxcr1	Tenm3	Osbpl5	Fn1	Ap3b1	Ttf2	Zhx2	Kctd8	Tbx3	Bace2	Reln	Sp3
+Intestinal infection	PheWeb_2019	Mrps28	Pou3f1	Grid1	Pde4d	Frmd4b	Trappc9	Fabp2	Kif26b	Cdh13	Cntn4	Rin2	Cdh18	Rapgef4	Slc27a1	Tfcp2l1	Prdm13	Pcsk5	Adamts5	Pter	Myc	Usp53
+Intestinal infection due to C. difficile	PheWeb_2019	Cd96	Kcnh5	Iqsec3	Slc10a2	Lmo4	Frmd4b	Nmbr	Gfod1	Cntn4	Or9g20	Gabrb3	Rfpl4b	Grm8	Hrh4	Pxdc1	Kcnj2	Lrrc4c
+Intestinal malabsorption (non-celiac)	PheWeb_2019	Pdha1	Col13a1	Nedd4l	Laptm5	Fscb	Slc4a3	Qrsl1	Iqch	Cmip	Zbtb9	Erbb4	Nxph1	Triml1	Plcg2	Reck	Rbms3	Lat
+Intestinal obstruction without mention of hernia	PheWeb_2019	Pcyt1a	Mgmt	Cog6	Kazn	P2ry10	Parva	Btc	Arhgap32	Asb9	Mthfd2l	Itm2a	Mtpn	Ryr3	Ramp3	Celf2	Celf4	Alox15	Tuba3b	Agap1	Cenpc1	Gpr174	Cand1	Arhgap42	Agmo	Sox6
+Intracerebral hemorrhage	PheWeb_2019	Wwox	Ccdc112	Car10	Slc48a1	Pcdh10	Slc1a1	Ddit4l	Fam110b	Kit	Nrip1	Xdh	Slc25a37
+Intracranial hemorrhage	PheWeb_2019	Map4k3	Sstr1	Atp10a	Dyrk1a	C1d	Atg16l2	Brms1l	Prr16	Arpp21	Pkn2	Fbxo9	Map3k7
+Intracranial hemorrhage (injury)	PheWeb_2019	Snap47	Crb2	Nedd1	Tceal5	Ephx1	Grid1	Klhl6	Galr1	Nedd4l	Pcdh15	Bbs5	Ptpn3
+Iron deficiency anemia secondary to blood loss (chronic)	PheWeb_2019	Kcnh5	Glipr1l3	Cntn6	Kcnh7	Zfp804b	Ltbp2	Gli3	Gngt1	Syndig1l	Glipr1	Npc2	Prima1	St6galnac5	Caps2	Dsc3	Lrrc4c
+Iron deficiency anemias	PheWeb_2019	Ntrk3	Zfhx4	Wscd2	Apool	Dcakd	Hspa4	Diaph2	Myl1	Cdk17	Slc35f3	Celf4	Htr2c	Nhsl1	Comp	Ctnna2	Hdx	Magea13	Slit3	Stk32b	Ier3
+Iron deficiency anemias, unspecified or not due to blood loss	PheWeb_2019	Ntrk3	Zfhx4	Atp8a2	Wscd2	Kcnh8	Htr2c	Hspa4	Prkca	Sox21	Nhsl1	Comp	Diaph2	Lmx1b	Cxcr4	Bms1	Cdh13	Magea13	Slit3	Cdk17
+Irregular menstrual bleeding	PheWeb_2019	Klf13	Ythdf3	Zc3h13	Zfr	Sorcs2	Cp	Tiam2	Mrps9	Cald1	Psd3	Ccdc160	Met	Pappa2	Kctd16	Rbms3	Cntn1
+Irregular menstrual cycle	PheWeb_2019	Ptprn2	Foxb2	Kcnj6	Triqk	Epha7	Il1r2	Acsl1	Nrg3	Tecrl	Rhoc	Ankfn1	Cdh13	Fgf14	Nox3	Nxn	Tamm41	Tspan11	Rfpl4b	Ntmt1	Grin2b	Perp	Tnrc18	Abl1	Tbc1d22a	Csmd1	Lair1
+Irregular menstrual cycle/bleeding	PheWeb_2019	Ddx18	Wwox	Otor	Itga4	Dcbld1	Gng12	Grin3a	P2rx7	Gopc	Fgf14	Atf7	Mgll	Asb1	Nox3	Plcb1	Spag17	Pcsk2	Khdrbs3	Atp8a1	Prkag2	Twist2	Prss23	Smc2	Fam216b	Tnfsf11	Glul	Ripk2
+Irritable Bowel Syndrome	PheWeb_2019	Rbfox1	Pcgf5	Krt4	Ambn	2410137M14Rik	Tiam1	Acvr2a	Ptprd	2700049A03Rik	Zfp879	2210408I21Rik	Fgf13	Zfp354c	Prep	Cblb	Ppm1l	Slc4a4	Eea1	Nkain2	Grm6	Unc80	Adamts2	Ndn	Six3	Camta1	Ankrd1	Pcdh7	Hs1bp3	Trp53i11	Dact1
+Ischemic Heart Disease	PheWeb_2019	Irx2	Stpg1	Pdgfra	Plxnc1	Rfc3	Cadm1	Crim1	Hinfp	Ttll7	Frg1	Agbl1	Gpr162	Fam181b	Zfp536	Pik3c3	Srsf6	C2cd2l	Ccdc172	Foxa2	Dpagt1	Tenm4	Pcdh10	Celf4	Pcdh15	Cryba4	Sox3	Dpp6	Synpr	Kcnt2	Slitrk3	Chl1	Gpr139	Ankrd11	Pabpc4l
+Jaundice (not of newborn)	PheWeb_2019	Ryr2	Kank1	Ell	Bcl11a	Loxl4	Prox1	Lpp	Cdyl	Shisa9	Creb1	Diaph3	Slco3a1	Bnip2	Blnk	Kcng1
+Joint effusions	PheWeb_2019	Chrm3	Gria3	Izumo3	Adrb1	Adarb2	Foxk1	Pou3f2	Tspan13	Zdhhc4	Lbh	Tmem179	Psmd7	Meis1	Plxna2	Tacc2	Grid2ip
+Joint/ligament sprain	PheWeb_2019	Tenm1	Ccl11	Rftn1	Gabra4	Snx13	Samsn1	Vav3	Sox4	Uevld	Adora2b	Ccl12	Rcn1	Taf4b	Kcnn2	Spry1	Mocs1	Tmem106b	Il13ra2
+Keloid scar	PheWeb_2019	Mctp2	Zscan5b	Ccnh	Zfp637	Sema3f	Cxcl12	Dlc1	Rrp15	Rapgef1	Zfp366
+Keratitis	PheWeb_2019	Rngtt	Pdha2	Spns3	Unc93a	Vash1	Cdyl2	Dclk2	Bmp6	Apbb1ip	Gpr141	Tbck	Snrnp48	Rbms3	Cyfip1	Mctp2	Fhl2	Ptprm	Ets1	Nudt12	Camk2n1	Slitrk3	Zfp608	Mgat5	Ankrd50
+Keratoconjunctivitis	PheWeb_2019	Rngtt	Klhl29	Spns3	Ush2a	Pm20d2	Myo1d	Snrnp48	Frem3	Irs1	Bod1l	Rasef	Galnt18	Rergl	2900026A02Rik	Zbtb20	Slitrk3	Cdh2	Sis	Cnr1	Mgat5	Phactr1	Tigit	Srsf12	Pabpc4l
+Kidney replaced by transpant	PheWeb_2019	Cers4	Farp2	Api5	Vwc2	Xrcc2	Hdlbp	Tnfaip2	Plcxd3	Tex2	Pclo	Tbc1d32	Ppp2r2c	H2-Ab1	Dennd5b	Ncam2	Man1a	Lcorl
+Known or suspected fetal abnormality affecting management of mother	PheWeb_2019	Slc14a2	Tmem132d	Upf2	Tle1	Stat4	Kctd2	Syt8	Grhl1	Sdk2	Cfhr1	Lrfn5	Nova1	Golga2	Echdc3	Bcat1	Dhtkd1	Hs3st3a1	Cplx1	Hmmr	Cenpc1	Dpp6	Grin2b	Piezo2	Xdh
+Kyphoscoliosis and scoliosis	PheWeb_2019	Zfhx4	Szt2	Tmem52b	Hnf4g	Foxo6	Mobp	Sgcz	Naaladl2	Msra	Bloc1s1	Rasgef1b	Sarnp	Caprin2	Clnk	Cdh18	Pom121l12
+Labyrinthitis	PheWeb_2019	Irx2	Pcdh10	Shisa3	Etv5	Ttc23l	Dnajc21	Slitrk6	Agxt2	Nxph1	Trmt44	Fgf13	Pabpc4l
+Lack of coordination	PheWeb_2019	Utp18	Kcnip1	Irs2	Pard3b	Pcdh19	Ptbp2	Sgcg	Tbc1d4	Clmp	Enc1	Nt5c1b	Myo3b	Ackr3	Dynlrb2	Gas2l3	Gpr156
+Lagophthalmos	PheWeb_2019	Sema3a	Rngtt	Sema3d	Osr1	Arid1a	Gdf6	Pnrc1	Fam216b	Gabrr1	Rps6ka1	Cnr1	Gse1	Apba2	Cntn5	Srsf12
+Late effects of cerebrovascular disease	PheWeb_2019	Nbas	Calcoco2	Sema3d	Tex36	Ralyl	Tdrd3	Rsl1d1	Sdk2	Nxph1	Dlgap1	Banp	Csmd1	Shank2
+Left bundle branch block	PheWeb_2019	Zfr2	Zfp362	Hexa	Ptn	Kazn	Oprm1	Pax7	Iqcj	Vangl1	Arhgap31	Rdh13	Tab3	Nlrp2	Cdh18	Sae1	Samd5
+Lesions of stomach and duodenum	PheWeb_2019	Cdk18	Gpm6a	Pacrg	Cog2	Saysd1	Slc30a10	Lemd1	Lrp1b	Mdfic	Clnk	Cbln4	Nktr
+Leukemia	PheWeb_2019	Mylip	Foxb1	Dtnbp1	Apln	Psmb9	Gdf10	Fermt1	Cd5	Bmp2	Vapa	Thrap3	Zfp953	Trim38	Or8g17	Tox	Fbln7	Hfe	Hp	Icam5	Foxo3	Hrh2	Sgpl1	Sipa1l2	Dym	Or8b4	Adamts9	Slc17a2	Txnl4b	Slc17a3
+Leukoplakia of oral mucosa	PheWeb_2019	Ppp3ca	Glb1	Bank1	Dpt	Htr2c	B9d1	Dkk2	Tbx5	Manea
+Lipoma	PheWeb_2019	Klf12	Rbfox3	Macc1	Rfc1	Trpc3	Or10ad1b	Tdrd5	Tdrd3	Emcn	Bmp2	Tmem18	St6galnac5	Chodl	Hdgfl1	Cep85l	Slc1a3	Trh	Lpar4	Lilra5	Lman1	Fam184a	Anks1b	Atxn1
+Lipoma of skin and subcutaneous tissue	PheWeb_2019	Ryr3	Oxtr	Cav3	Mrs2	Slc2a13	Trh	Or10ad1b	Rab22a	Grk4	Plcg2	St6galnac5
+Lipoprotein disorders	PheWeb_2019	Eif2b5	Tmem132d	Il21	Smox	Nab1	Irx4	Bicc1	Scube1	Thpo	Tep1	Cdh13	Agmo	Ptchd4
+Liver abscess and sequelae of chronic liver disease	PheWeb_2019	Xlr5b	H2-Eb2	Tmco5	Bcl11b	Bsx	Ddx39b	Fam135b	Cdhr3	Pnpla3	Gtf2i	Serpina1c	Fmr1	Dgkb	Adarb2	Prkx	Add2	Samm50	Bmf	Dlgap1	Nrcam	Zfp644	Sh3gl2
+Liver replaced by transplant	PheWeb_2019	Magi2	Slc13a2	Serpina1c	Serpina10	Pik3r4	Hebp2	Diaph3	Ubl3	Ppp4r4	Fam181a	Fgf14	Csmd2
+Localized adiposity	PheWeb_2019	Smim14	Tenm3	Kcnh7	Stoml1	Dysf	Iqsec1	Acyp2	Hs6st1	Glis3	Unc80	Cnbd1	Srbd1	Or2y1c	Piezo2	Ccser1	Or9g4b	Sash1
+Loose body in joint	PheWeb_2019	Acot11	Ldlrad4	Ppp2r2a	Psen2	Cmip	Sh3pxd2b	Chl1	Ttc4	Ctnna2	Mroh7	Cd14	B4galt5
+Lump or mass in breast	PheWeb_2019	Zbtb14	Rfx3	Pth2r	Ppm1b	Cldn10	Fam20c	Fat4	Or10a2	Or6a2	Brwd3	Rapgef5	Tenm2	Adcy1	Mgst3	Pigx	Spred2	Cdh2	Scn5a	Rreb1	Pag1
+Lung transplant	PheWeb_2019	Cacna2d3	Etv1	Crim1	Aff2	Cdh8	Fmr1nb	Agbl1	Irf2	Or4c35	Npsr1
+Lupus (localized and systemic)	PheWeb_2019	Arnt2	Unc13c	Ptprt	Nedd9	Msh2	Med13l	Nppc	Epcam	Jdp2	Nptx2	Pfdn4	Eif3e
+Lymphoid leukemia	PheWeb_2019	Gtf2i	Wwox	Rpl10l	Ildr2	Mtss1	Pepd	Cenpc1	Parp11	Cnot6	Dusp10	Crispld2	Smoc2	Peli2	Tada1	Rgs12
+Lymphoid leukemia, chronic	PheWeb_2019	Gtf2i	Blk	Eomes	Ascl4	Rpl10l	Wipf3	Cdc73	Pepd	Parp11	Ccnd2	Dab1	Tada1	Gtf2ird1	Rgs12
+Macular degeneration (senile) of retina NOS	PheWeb_2019	Arfgef2	Bptf	Hsdl1	Kcnb1	Galnt2	Krt36	Krt35	Plekha5	Myt1	Ptprd	Cfhr1	Hand2	Ptpn9	Dhx29	Tcf4	Rin1	Nrp1	Faxc	Tshz2	Chrna9	Zfand3	Htra1	Grm7	Sin3a	Flnb	Zkscan2	Kpna2
+Macular degeneration, dry	PheWeb_2019	Camk1d	Kdm4c	Cadm2	Grid1	Hdac11	Myocd	Rfx3	Htra1	Efna5	Klk11	Sec14l1	Sec23ip	Frmd4a	Nxph1	Slc25a21
+Macular degeneration, wet	PheWeb_2019	Msr1	Ntrk2	Dcc	Mgmt	Nmbr	Prkcb	Nbea	Myh9	Kctd12	Kif20b	Ankrd60	Itgb2l	Gfm2	Lama2	Xylt1	Htra1	Fam169a	Tmem108	Csmd3	Srgap3	Rgs20	Pou5f1
+Macular puckering of retina	PheWeb_2019	Unc13c	Limch1	Vwc2	Cnpy1	Larp6	Adcyap1	Cct6b	Etl4	Depdc1b	Spata18	Dlc1	Kcnq3	Irf8	Cuedc1	Kcnk9	Irs1	Uchl1	B3galt1	Nlrp2	Mettl9	Slc15a5	Mb21d2
+Malaise and fatigue	PheWeb_2019	St6gal2	St6galnac2	Sun1	Igf1	Nfia	Fli1	Npas2	Galnt11	Klhl1	Gak	Cpxcr1	Dmrta1	Taok3	Rbm20	Fat4	Get4	Zscan18	Camk1g	Mcph1	Smndc1
+Malignant neoplasm of bladder	PheWeb_2019	Kcnd2	Pabpc5	Runx1	Nsun7	Vwa3b	Hnrnpab	Fermt1	Gjb1	Galc	Col4a1	Dok5	Serbp1	Fmod	Kif20b	Fbxl7	Lyplal1	Slc24a3	Mobp	Robo2	Epb41l4a	Fgf9	Sh3bgrl	Sox2	Kcnmb2	Hmcn2
+Malignant neoplasm of female breast	PheWeb_2019	Smox	Sorbs1	Grhl1	Rad51b	Tox3	Dlg3	Nat1	Gpd2	Kif4	Pik3c3	Ccdc60	Fgfr2	Gsk3b	Nrxn1	Gdpd2	Adra1b	Arr3	C3	Ccnd1	Grm7	P2ry4	Tert	Hsd17b2	Sostdc1	Dmd	Pknox2
+Malignant neoplasm of gallbladder and extrahepatic bile ducts	PheWeb_2019	Nom1	Mapkbp1	Mga	Tmem132b	Prkcb	Sorcs1	Sgcz	Kat2b	Lpin1	Agbl1	Ccnd1	Cdh13	Mmadhc	Mnx1	Mphosph6	Bcar1
+Malignant neoplasm of kidney, except pelvis	PheWeb_2019	Adipoq	Lgi2	Slc13a5	Slc35f5	Erich1	Klhl25	Shisa9	Rp2	Sh3bp4	Chn2	Slitrk6	Phactr1	Tln2	Trib2	Cpvl	Fsip1	Csmd1	Apol7e	Tmem45b
+Malignant neoplasm of liver, primary	PheWeb_2019	Eya1	Ces4a	Tdrd3	Pdp2	Tppp3	Fam193a	Itga6	Calm2	Kctd19	Gtf2a1	Lrrc36	Nol3	Cbfb	Tradd	Rnf4	Arhgap23	Adamtsl1	Trpm3	Ugcg	Snx29	Xirp2	Hsf4	Svep1
+Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum	PheWeb_2019	Abca1	Kcnh7	Bod1	Gadd45g	Nfatc3	Tiam1	Ptprc	Tmx3	Clns1a	Rfx8	Dpep3	Cpm	Zcchc14	Ndufb11b	Ythdc2	Sel1l	Adcy2	Gk2	Pigx	Tank	Nudt12	Jph3	Chek1	Gng7	Slit2	Lmcd1
+Malignant neoplasm of other urinary organs	PheWeb_2019	Sbspon	Wdpcp	Tmem132b	Or52m1	Ak5	Fmo3	Lamc3	Rnd3	Enox1	Osbpl10	Galc	Spata16	Olfm3	Ugp2	Vps54	Erg	Pdcd5	Naf1	Rreb1	Cylc2
+Malignant neoplasm of ovary	PheWeb_2019	Dclre1c	Gabrq	Fbxw7	Sp4	Eef2kmt	Tvp23a	Aebp2	Lrp1b
+Malignant neoplasm of rectum, rectosigmoid junction, and anus	PheWeb_2019	Rbfox1	Dcc	Kcnk18	Tarbp1	Ptpdc1	Agap1	Dclk2	Gli3	Actb	Glra2	Hlcs	Pdzd2	Podxl	Eogt	Gemin8	Mcph1	Sgk1
+Malignant neoplasm of renal pelvis	PheWeb_2019	Dusp6	Tmem132d	Unc5b	Slc10a2	Nup214	Acot13	Fhit	Bmx	Klhl30	Zhx2	Bzw1	Fut9	Chsy1	Tmem108	Fkbp5	Tbc1d22a	Cdk17	Pdk2
+Malignant neoplasm of retroperitoneum and peritoneum	PheWeb_2019	Epha6	Gabbr2	Jag1	Megf11	Tmem178b	Xylt1	Zfp804b	Nudt12	Rfpl4b	Mthfd1l	Oser1	Prkg1
+Malignant neoplasm of small intestine, including duodenum	PheWeb_2019	Eid2b	Mgmt	Inhba	Cacna2d3	Cwh43	Grik2	Pias1	Eid2	Fam110a	Kcnt2	Stim2	Nhlrc1
+Malignant neoplasm of unspecified male genital organ	PheWeb_2019	Ddr1	Mospd2	Sulf2	Aard	Basp1	Or2l13b	Csmd1
+Malignant neoplasm of uterus	PheWeb_2019	Lmo4	Etv1	Trappc9	Sptb	Sumf1	Gulp1	Kctd8	Trp73	Eml6	Nphs1	Lmx1b	Clns1a	Tpp2	Bud13	Ldb2	Dgkb	Elfn2	Rsf1	Stxbp6	Lmcd1	Adamts8
+Malignant neoplasm, other	PheWeb_2019	Kcne1	Ndrg4	Smad4	Cdkn1a	Syk	En1	Prkrip1	Ankef1	Taldo1	Pth2r	Trpm3	Dpy19l2	Mex3c	Nell1	Neil3	2210408I21Rik
+Malunion and nonunion of fracture	PheWeb_2019	Lrrc38	Arl15	Dnajc5b	Wfikkn2	Adarb2	Atp2b2	Sorcs1	Mpp7	Pdzd2	Ank	Tcerg1l	Wac	Spry2	Bcat2	Pde7a
+Mammographic microcalcification	PheWeb_2019	Wwox	Il34	Magi1	Khdrbs3	Cd83	Gbf1	Tmem63c	Brf1	Eya4	Cflar	Ndufb3	Defb15	Orc2	Slitrk5	Mapkapk3	Papolg	Vps53	Nxph2	Dock3	Arf6
+Manlignant and unknown neoplasms of brain and nervous system	PheWeb_2019	Rhbdf2	Rgs18	Clta	Dtx3	Abat	Sgcg	Brinp3	Grm7	Gne	Zfpm2	Lrrc4c
+Mechanical complication of unspecified genitourinary device, implant, and graft	PheWeb_2019	Zfp365	Ccl11	Inhba	Cyp4f39	Ttc7b	Lrp1b	Fbxl20	Ccl7	Psd4	Rps6ka2	Zfat	Cnga2	Ocm	Slc25a46	Nadk	Rbms3
+Megaloblastic anemia	PheWeb_2019	Wwox	Slfn14	Nxn	Zic4	Tamm41	Ddah1	Sh3bgrl2	Nmbr	Ap3b1
+Melanomas of skin	PheWeb_2019	Zfp365	Ncoa6	Homer3	Uqcc1	Etv1	Lsamp	Zfp105	Sumf1	Def8	Tyr	Trpc4ap	Tpbgl	Dbndd1	Mtap	Irf4	Cdk10	Chmp4b	Clptm1l	Dpep1	Exoc2	Gas8	Zfp276	St6galnac2	Prdm9	Cpne7	Fhit	Cpz	Capn8	Raly	Samd5	Myh7b	Vps9d1	Xrcc5	Edem2	Fanca	Slc39a14	Acsf3	Spata2l	Mc1r	Spire2	Cdh15	Dpp10	Mocs3	Pigu	a	Pecr	Ehmt1	Ighv7-3	Or4m1	Mmp24	Dtwd2	Grm5	Spred1	Chmp1a	Ankrd11
+Melanomas of skin, dx or hx	PheWeb_2019	Zfp365	Ncoa6	Uqcc1	Cybrd1	Lsamp	Plekha7	Zfp105	Sumf1	Def8	Tyr	Trpc4ap	Dbndd1	Mtap	Irf4	Cdk10	Chmp4b	Clptm1l	Dpep1	Exoc2	Gas8	Zfp276	St6galnac2	Prdm9	Cpne7	Fhit	Stk3	Mcf2l	Nlrp5	Raly	Samd5	Myh7b	Vps9d1	Xrcc5	Edem2	Paqr3	Fanca	Spata2l	Mc1r	Nox4	Spire2	Cdh15	Dpp10	Pigu	a	Pecr	Uxs1	Ehmt1	Ighv7-3	Or4m1	Mmp24	Dtwd2	Grm5	Spred1	Grm7	Zfp407	Chmp1a	Ankrd11
+Menopausal and postmenopausal disorders	PheWeb_2019	Epha5	Prrx1	Shroom3	Mapk13	Mapk14	Tmem61	Rragc	Kcnma1	Nox4	Spry2	Lpin2	Psmg1	Sptbn4	Zfp474	Adarb2	6430548M08Rik	Ranbp3l	Fggy	Zic1	Nt5m
+Methicillin resistant Staphylococcus aureus	PheWeb_2019	Egln3	Pacrg	Irx4	Tpcn2	Ccdc81	Tmem259	Slc9a9	Cdh13	Pgr	Wdfy3	Rab3gap2	Diras2	Megf10	Lmnb1	Mrgprf	Nr3c1	Cpxm2	Nxph1	Bpnt1	Me3	Dlgap3	Opcml
+Methicillin sensitive Staphylococcus aureus	PheWeb_2019	Dnah8	Ksr2	Nebl	Il10rb	Or11h4	Emp2	Scfd2	Pfkl	Egflam	Tert	Mier3	Icosl
+Migraine	PheWeb_2019	Cnpy1	Cog2	Nrg1	Vrk1	Sox11	Naaladl2	Ssh2	Coq4	Coro6	Epha4	Rapgef4	Nsrp1	Trub2	Tenm3	Ncam1	Cacna1a	Urm1	Efcab5	Pcsk5	Trpm3	Dock10	Pgbd5	Map6	St3gal1	Ankrd13b	Csmd1
+Migraine with aura	PheWeb_2019	Lingo2	Adcy1	Akr1e1	Bnc2	Ccdc69	Dnah17	Mid1ip1	B3gat1	Atp10a	Gabrg3	Lemd1	Gm2a	Fat1	Prkd1	Coro6	Apbb2	Frem2
+Miscarriage; stillbirth	PheWeb_2019	Emx1	Blcap	Pou2af1	Optc	Ngf	Cpped1	Qki	Sik2	Cd209g	Terf2ip	Gcm2	Sycp2l	Cstf3	Trim2	Adarb2	Prelp	Foxo1	Calcr	Tcl1	Cwc22rt7	Nphp4	Ncam2	Spdl1	Gria4	Wnt4
+Missed abortion/Hydatidiform mole	PheWeb_2019	Hace1	Wdr59	Hdgfl1	Foxi1	Lpar3	Ptch1	Fhit	Pum1	Slc8a1	Fgf4	Qki	Tmem123	Ccdc80	Fut8	Tmem108	Ppargc1a	Sos2
+Mitral valve stenosis and aortic valve stenosis	PheWeb_2019	Atp6v1g3	Fam98a	Cav2	Nek7	Cav1	Tfec	Nccrp1	Fbxl12	Tjp1	Marcks	Snx18	Cdh19	Mcph1	Lef1	Tes	Ddc	Slc24a4	Atp10a	Elk4	Sgcg	Lurap1l	Rgs22	Myh10
+Mixed hyperlipidemia	PheWeb_2019	Kcnf1	Satb2	St8sia2	Cacna2d2	Dnah7c	Elavl2	Rab31	Tcerg1l	Cdhr5	Irf7	Zc3h7a	Edil3
+Mood disorders	PheWeb_2019	Col19a1	Slc35c1	Wfs1	Plek2	Slc23a2	Mki67	Best3	Prdm11	Tmem29	Zfp64	Heatr5a	Hsd17b3	Dlgap2	Ncam2	Otx2	Prom2	Trp53i11	Arl5b	Ivns1abp	Rgl1
+Morbid obesity	PheWeb_2019	Magi1	Usp44	Lmo4	Pabpc5	Irf2bp2	Wnt7a	Vwa3b	Snap91	Tmem131	Myo1b	Tspan18	Ulk4	Cdkn2aipnl	Fto	Ptprs	Itsn1	Wipf3	Clec18a	Pctp	Slc1a7	Cdh9	Osbpl10	Arhgap5	Pcdh17	Ndst3	Exosc6	Fhad1	Dlgap2	Qser1	Opcml	Snx7
+Mucous polyp of cervix	PheWeb_2019	Il33	Morc4	Tbc1d8b	Acsl3	Grid1	Nek6	Taar1	Taar2	Ripply1	Vnn1	Cth	Gemin8	Pdzrn4	Tlr3	Fut10	Slc23a3	Gldc	Kcne4	Uhrf2	Tmprss4	Adk	Msi2	Atp1a1	Bach1	Cldn2	Gnptab	Aldh1b1	Kcnn2	Nhej1
+Multiple myeloma	PheWeb_2019	Ugt1a10	Mbnl1	Ugt1a1	Zbtb16	Hrh2	Slitrk5	Thrap3	Crispld1	Ap3s1	Ugt1a6a	Tead1
+Multiple sclerosis	PheWeb_2019	Emx2	Spag9	Dnah9	Adam12	Btnl2	Ube2e3	Sorcs1	Ets1	Tmem130	Med6	Cwc22rt7	Zfp953	Aurkaip1	Lyplal1	Sh3gl2
+Muscle weakness	PheWeb_2019	Kcnh7	Tbc1d2b	Pecr	Setd7	Dcaf8l	Lsamp	Cib2	Dnm3	Gli3	Pts	Adamts16	Nedd1	Insc	Pde4b	Tns3
+Muscle/tendon sprain	PheWeb_2019	Negr1	Col12a1	Clu	Or1i2	Aebp2	Sorcs1	Ajap1	Robo2	Wt1	Sntg2	Prkcq	Fbn2
+Muscular dystrophies and other myopathies	PheWeb_2019	Klf12	Magi1	Pld5	Adamts16	Gprc6a	Prtg	Slc22a16	Pdpn	Fam162b	Brms1l	Htatip2	Mroh9	Ghsr
+Musculoskeletal symptoms referable to limbs	PheWeb_2019	Ficd	Sh2d4a	Plch1	Spryd7	Pcdh20	Pard3	Ltbp1	Frmd3	Msx2	Zfp385b	Alk
+Myalgia and myositis unspecified	PheWeb_2019	Kcnd3	Slc10a2	Tysnd1	Tbcd	Hunk	Nat1	Ank1	Lrp1b	Kcnma1	Mthfd1	Fgf14	Frk	Reg1	Rgs18	Trio	Actl7b	Lpcat1	Asah1	Pcdh17	Cdh7	Pcm1	Sc5d	Gpc5	Zpld1	Evc2
+Mycoses	PheWeb_2019	Ttc27	Cpne5	Clstn2	Clec16a	Pja1	Sumf1	Arl4d	Sdk1	Immp2l	Cnot2	Rcn1	Kcnmb4	Dscam
+Myeloid leukemia, acute	PheWeb_2019	Syt4	Ttc23	Haao	Ehmt1	Pou3f3	Msra	Lrrtm4	Enc1	Slitrk5	Or8b4	Gpc5	E2f7	Mettl16	Dsc3
+Myeloproliferative disease	PheWeb_2019	Ptpru	Hdgfl1	Ccdc57	Paqr5	Rplp1	Dio3	Tfec	Clec16a	Kif23	Akap11	Col4a1	Gpr155	Ago2	Sp9	Stxbp6	Sash1
+Myocardial infarction	PheWeb_2019	Gpr26	Crebrf	Dcaf12l1	Hmga2	Ehhadh	Nr2f1	Lpp	Efcab11	Spag16	Col4a1	Kcnt2	Olfm4	Kit	Ndst4	Tbc1d14	Erc1	Plxna1	Tspyl5
+Myoneural disorders	PheWeb_2019	Mtap	Grin2b	Syncrip	Sgms1	Etnk1	Pes1	Man2a1	Robo1
+Myopia	PheWeb_2019	Dsp	Zfhx4	Car10	Tmco5	Col25a1	Cav3	Epdr1	Arap1	H2-T24	Gcfc2	Stim2	Nme8	Sass6	Rad18	Triml1	Asb1	Pigt	Tenm2	Chd7	Trh	Ppm1e	Clybl	Arhgap22	Ghr	Tpo	Rasgef1b	Sntg1	Pde2a	Ncam2
+Nasal polyps	PheWeb_2019	Krtap15	Abhd12b	Ampd3	Taar1	Cldn8	Cpeb4	Pfn2	Nrde2	Cdkn3	Pom121l2	Cct8l1	Pxk	Dpys	Pyroxd2	Pygl	Plg	Adcy9	Zdhhc2	Pcdh19	Akap13	Plac9	Rims2	Rnf115	Dner	Hephl1	Gpc6	Ripk2	Map3k5
+Nausea and vomiting	PheWeb_2019	Eed	Spata6l	Unc13a	Sun1	Cav3	Ssu2	Tmem132c	Pla2g4a	Iqsec1	Marcks	Prkar1b	Naa38	Ptpn6	Rnf13	Tas2r131	Ldb2	Sema3d	Fmr1	Usp12	Zfp608	Grm7	Zic1	Mc4r	Ctnna2	Ankub1	Get4	Ppargc1a	Sox5	Samd12
+Need for Hormone replacement therapy (postmenopausal)	PheWeb_2019	Prox1	Arid3a	Zfp804a	Myt1	Pomgnt2	Shisa9	Syt9	Lrp1b	Cpeb2	Cdcp2	Lpin1	Golga2	Cdh12	Fgf12	Lad1	Phex	Xirp2	B4galnt2	Gria4
+Neoplasm of uncertain behavior	PheWeb_2019	Gabrb3	Mctp1	Kcnh7	Zfp180	Fgf1	Ptprj	Tiam1	Tmprss15	Uaca	Letm2	Peli1	Hibch
+Neoplasm of uncertain behavior of breast	PheWeb_2019	Rbfox1	Dach2	Tmem74b	Puf60	Cox19	B3gat1	Hsd17b4	Cacna1b	Prr16	Msantd4	Ncam2	Naaladl2
+Neoplasm of uncertain behavior of skin	PheWeb_2019	Gpr37	Mx2	Commd10	Chfr	Foxp2	Lemd1	Tm4sf1	P2rx5	Etnk1	Steap1	Hlf	Chodl	Dock4	Pld5	Ak5	Frg2f1	Ptgs1	Basp1	Zbbx	Ptchd1	Tbc1d31	Ncam2
+Neoplasm of unspecified nature of digestive system	PheWeb_2019	Rbfox1	Irx5	Pcdh9	Olig2	Crim1	Neb	Cdyl2	Ngf	Sgpp2	Zfp953	Cd109	Cntn4	Hmx1	Trim33	Astn2	Trim35	Cox7c	Hdac4	Gxylt1	Nr3c2	Slc22a15	Dsel	Krbox5	Stxbp6	Yaf2
+Nephritis and nephropathy in diseases classified elsewhere	PheWeb_2019	Kmt2e	Tcf7l1	Bcl11a	Tmem182	Ubr4	Mobp	Isx	Mafb	Gabpb1	Thbs2	Htr4	Srpk2	Hyal1	Psat1	Wif1	Rbm47
+Nephritis and nephropathy with pathological lesion	PheWeb_2019	Igbp1	Rbfox1	Mettl4	Otud6a	Slc2a5	Dhrs2	Tgfbr3	Adamtsl1	Cdh5	Pde10a	Rybp	Fam76b	Anapc1	Arl5b
+Nephritis and nephropathy without mention of glomerulonephritis	PheWeb_2019	Slc15a2	Eaf2	Lmo3	Trpv3	Cacna2d3	Isx	Tdrd5	Wdr11	Nell2	Tmeff2	Frmd4a	Golgb1	Ildr1	Anapc1	Ivns1abp	Hdac4	Akap7	Mgst1	Mki67	Fhit	Gabpb1	Npas3	Adamtsl1	Pamr1
+Nerve plexus lesions	PheWeb_2019	Srebf1	Slc38a1	Ank3	Rad23b	Ppp2r2a	Egfr	Sec14l5	Prkd1	Kcnq5	Me3	Lmcd1	Pde8b	Csmd1
+Nerve root and plexus disorders	PheWeb_2019	Cntnap2	Kcnh5	Cadm2	Cntn6	Foxf2	Gbe1	Lpcat1	Braf	Dab1	Msh6	Stxbp6	Ctnna3	Trib1
+Nervous system congenital anomalies	PheWeb_2019	App	Irx3	Gsdmc2	Prdm5	Trap1	Mogat1	Pde4d	Cpped1	Tmem177	Dtwd2	Klf6	Pparg	Ptpn4
+Neural tube defects	PheWeb_2019	Epha5	Irx3	Map2k5	Fn1	Adcy9	Fhit	Sgcz	Iqch	Ssh2	Dtwd2	Slc25a33	Plcb1
+Neuralgia, neuritis, and radiculitis NOS	PheWeb_2019	Syk	Slc1a1	Pld5	Kazn	Cyp7b1	Tnr	Erg	Il1rapl1	Gpc5	Snai1	Cdk15	Plcb1	Socs6
+Neuroendocrine tumors	PheWeb_2019	Afap1l1	Ranbp2	Rnls	Irs2	Msl3	Gfra2	Slc30a10	Grin2b	Cdh4	Immp2l	Tmem117	Plxna2	Slitrk6	Ptchd4	Eef1e1	Mnat1
+Neutropenia	PheWeb_2019	Klb	Hbb-y	Gad2	Spaca1	Tamm41	Tpbg	Klhl4	Hs6st1	Grip1	Snx19	Frmd4a	Fam174b	P2ry2	Cdh13	Plxna2	Nes	Dlgap1	Stox2
+Nodular lymphoma	PheWeb_2019	Ddx18	Sema4b	Smarca2	Ank2	Ptprd	Dnal1	Acot6	Acot4	Xpr1	Blk	Tenm2	Trio	Lgalsl	Gata4	Rap1gap	Nudt12	Pnma1	Chl1	Chrna10
+Non-Hodgkins lymphoma	PheWeb_2019	Siah1a	Epm2a	Nudc	Sema4b	Egln3	Sfrp2	Vma21	Tox	Tenm2	Cntnap2	Luzp2	Ccni	Best3	Igsf21	Abr	Acan	Nudt12	Clmp	Pnma1	Pdgfd
+Non-proliferative glomerulonephritis	PheWeb_2019	Fzd2	Mtfmt	Rap2b	Luzp2	Maob	Maoa	Rnf150	Lrp1b	Numb
+Nonallopathic lesions NEC	PheWeb_2019	Mipep	Lpp	Rilpl1	Stambpl1	Jakmip2	Adra2c	Slc8a1	Acta2	Chsy1	Clasp1	Ttll12	Galp	Lpin2	Cylc2	Trabd2b
+Noninfectious gastroenteritis	PheWeb_2019	Btnl9	Ncoa7	Syt1	Gpr55	Fam118b	Tirap	Zwint	Gjb2	Dok5	Zfp639	Rpusd4	Tcerg1l	Ryr3	Xxylt1	Arhgap6	Adra1a	Npas3	Foxred1	Zmiz1	Cwc22rt7	Kcnmb3	Cep192	Dcps
+Noninflammatory disorders of cervix	PheWeb_2019	Myo16	Tenm2	Stau2	C2cd2	Cx3cr1	Zc4h2	Clta	Bmp4	Ttll7	Fggy	Chordc1	Zfp42	Creb3l2	Gne
+Noninflammatory disorders of ovary, fallopian tube, and broad ligament	PheWeb_2019	Chst9	Msr1	Igfl3	Myh3	Radil	Slc9a9	Rbms1	Ulk4	Ptpn7	Slc25a33	Fam181a	Tcf4	Gas7	Ypel5	Nrn1	Ptprt	Robo2	Nkain2	Rusc2	Myo18b	Dlgap2	Nxph1	Snx7
+Noninflammatory disorders of vagina	PheWeb_2019	Rbfox2	Trpc6	Ythdf3	Ntm	St8sia4	Anxa13	Lrrc52	Med15	Slco4c1	Cntn5	Hivep3	Snrpb2	Atp6v0d2
+Noninflammatory disorders of vulva and perineum	PheWeb_2019	Tenm4	Maml3	Galnt2	Slc41a3	Hecw1	Mrpl39	Ube3a	Prdm2	Slc7a2	Relb	Fchsd2	Gabrr2	Trim29	Pcca	Acot2	Impg1	Samd5
+Noninflammatory female genital disorders	PheWeb_2019	Cdc42se2	Btg3	Klhl29	Shisa6	Kif14	Muc5ac	Syt16	Ank1	Lingo1	Bmp4	Chordc1	Sp3	Plagl1	Nox4	Cdh18	Ciita	Tmem106b
+Nonrheumatic mitral valve disorders	PheWeb_2019	Coa4	Rbfox1	Sema6d	Stard5	Pdha2	Slc32a1	Mrpl48	Hopx	Klf2	Neil3	Dpy19l4	Myo3a	Esrp1	Lypd6b	Spry2	Abhd5	Plekhb1	Kcna4	Egfr	Tspan9	Igfbp7	Ap1m1	Tbc1d22a	Rab6a
+Nonrheumatic tricuspid valve disorders	PheWeb_2019	Magi2	Rassf8	Kazn	Ptpn14	Sumf1	Gcfc2	Cenpf	Rnf144a	Pcgf2	Epha4	Osbpl1a	Trp63
+Nonspecific abnormal findings in stool contents	PheWeb_2019	Hddc2	Ptprt	Slc38a1	Wdr1	Mcm9	Cep85l	Zfp518b	Frmd4b	Cdc73	Slc2a9	Sox1	Stk32a	Fam184a	Irf8	Asf1a	Clnk	Plxna1	Spry2	Mcph1	Pom121l12	Mapk4
+Nonspecific abnormal findings on radiological and other examination of skull and head	PheWeb_2019	Entpd1	Rph3al	Nav3	Il7	Rims1	Ulk4	Hmcn1	Lbr	Nmur2	Metap2
+Nonspecific chest pain	PheWeb_2019	Mrps27	Sfmbt1	Tmem132c	Cab39	Grik2	Ap3b1	Sorcs1	Sumf1	Ajap1	Catsperb	Wrn	Tmem38b	Kcnj2
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	PheWeb_2019	Crb2	Kdm4c	Prlr	Fam98a	Cd5l	Wdr86	Cblb	Nr3c2	Aff2	Tspan17	Frg1	Chmp2b	Fat3	Csmd1
+Nonspecific findings on examination of blood	PheWeb_2019	Serpinb3d	Tsc22d1	Bcl11a	Pcdh9	Adarb2	Lhfpl3	Gata3	Npas3	Serpinb7	Serp2	Slc22a16	Cdh12	Dus3l	Csmd1
+Nontoxic multinodular goiter	PheWeb_2019	Spink2	Abcc9	Grid2	Nsg2	Tmprss15	Fam227b	Slc4a8	Cyp2s1	Cops2	Tusc1	Rgs7bp	Tfam	Galk2	Tmem63c	Ubxn2b	Nrxn1	Cpox	Elavl2	Fgf7	Rgs3	Kcnmb2	Cdh23	Col11a1	Cpa6	Mapk4
+Nontoxic nodular goiter	PheWeb_2019	Ajap1	Gulp1	Ccdc88b	Sgsm1	Frg1	Dmrta1	Cldnd1	Tox	Nsmaf	Tenm3	Ubxn2b	Pcdh15	Cpox	Ghitm	Litaf	Cyp7a1	Fam110b	Sgcg	Nckipsd	Dlgap1
+Nontoxic uninodular goiter	PheWeb_2019	Ubxn2b	Eya4	Xylt1	Pcdh15	Litaf	Prkca	Slc4a3	Smad7	Gulp1	Cdh5	Tbc1d4	Tbc1d21	Lrfn2	Sh3bp4	Icosl
+Obesity	PheWeb_2019	Dapk1	Elovl6	Rfc3	Wnt7a	Prss12	Btbd9	Otol1	Myo1b	Agtr1b	Mcu	Nrsn1	Fto	Ptprs	Fastkd2	Irs2	Ntm	Rab22a	Hs6st3	Osbpl10	Ndst3	Tcl1b3	Psd3	Dlgap2	Msx1	Myh10	Map3k8	Zfp169
+Obstruction of bile duct	PheWeb_2019	Ryr3	Smim14	Stat4	Sdk1	Gak	Ms4a6d	Frmd4a	Slco3a1	Fat2	Clnk	St3gal1	Samd12
+Obstructive chronic bronchitis	PheWeb_2019	Htr1f	Edem1	Maml2	Ttc34	Atp2b2	Barx2	Mchr1	Gpcpd1	Grin3a	Glud1	Nell1	Gclc	Ptpra	Poc5	Emilin2	Far2	Fgf12
+Obstructive genitourinary defect	PheWeb_2019	Npnt	Slc12a6	Ccnh	Txnl1	Ube3c	Fbxo33	Fmo5	Sgcz	Batf	Rasa1	Zfp64	Gmnc	Ppargc1a	Camk1g
+Obstructive sleep apnea	PheWeb_2019	Agtpbp1	Prmt8	Rnf13	St6galnac3	Ythdf3	Bcl11a	Ddhd1	Hunk	Adamts12	Zmiz1	Grm7	Id2	Pah	Nox4	Ankub1	Cdh19
+Occlusion and stenosis of precerebral arteries	PheWeb_2019	Msr1	Dnah5	Lyn	Gpr26	Ncoa1	Hps1	Itsn2	Pla2g4a	Atp2b4	Zfp518b	Hunk	Sntb1	Slitrk1	Slc22a16	Grm7	Galr1	Kcnn3	Cacul1	Zfp532
+Occlusion of cerebral arteries	PheWeb_2019	Zfp462	Celf4	Mfhas1	Glis3	Nr4a3	Slc9a3	Ptprd	Eri1	Klhdc7a	Lypd6b	Cep72	Uqcrfs1	Dact1
+Oliguria and anuria	PheWeb_2019	Celf2	Slc35f2	Adar	Ndrg2	Osbpl10	Ext1	Dlg2	Ccdc92	Zmym4	Scn10a	Macrod2	Smyd3	Plcg2	B4galnt4	Vwa7	Zfp664	Map3k13
+Open wound of ear	PheWeb_2019	Chic1	Usp25	Zcchc13	Slc16a2	Abcb7	Tpk1	Dhx35	Lgals9	Slc39a10	Cnbd1	Dmrta1	Kdr	Rlim	Zfp777	Anks1b
+Open wound of finger(s)	PheWeb_2019	Epha6	Myt1l	Mapkbp1	Nrg2	Adcyap1	Spata16	Rap2b	Cnot1	Sptlc3	Psd2	Nbr1	Ctrb1	Irf8	Trim36	Cntn3	Pxdc1	Arpp21	Plgrkt	Cylc2	Rbm11	Bcar1
+Open wound of foot except toe(s) alone	PheWeb_2019	Emx2	Edem2	Tmem132b	Klhl4	Cdc42bpa	Fdx1	Id2	Dchs2	Rp9	Serpina11	Twist2	Serpina9	Atp10a	Mki67	Slc7a11	Cdh9	Mmp24	Ctif	Fam174b	Alx4	Acss2	Tmem14a
+Open wound of lip and mouth	PheWeb_2019	Gpm6b	Ccdc68	Mast4	Arhgef28	Nat14	Arid1b	Atrn	Rsrc1	Aldh1a3	Tekt1	Vti1a	Ptchd4	Tlk1	Bud13	Tcf4	Pdlim5	Dact1
+Open wound of nose and sinus	PheWeb_2019	Chodl	Hsdl2	Spef2	Maged2	St6gal1	Sgcz	Zwint	Agpat4	Gnl3l	Tro	Mmp17	Srbd1	Ncam2	Csmd1	Pfkfb1
+Open wound or laceration of eye or eyelid	PheWeb_2019	Snx13	Gabrg2	Ptprd	Stim2	Adamts18	Ankrd55	B3gnt2	Cntn5	Sh3gl3	Tsga10
+Open wounds of extremities	PheWeb_2019	Ate1	Cpsf2	Map1s	Ebf2	Ano3	Pou6f1	Nsmce4a	Tfcp2	Sltm	Zfp438	Letmd1	Colec12	Csrnp2	Luzp2	Hecw1	Tmem74	Lpp	Higd1c	Rora	Zfp608	Asic2	Rnf111
+Open wounds of head; neck; and trunk	PheWeb_2019	Srrm4	Mreg	Tcf7l2	Crim1	Dkk2	Sfrp4	Tg	Veph1	Cntn4	Sgk1	N6amt1	Ramp3	Frmpd4	Cep85l	Slc2a1	Bach1	Pcdh17	Glra3	Fam3c	Smyd3	Rspo2	Nck2
+Open-angle glaucoma	PheWeb_2019	Tenm4	Cd82	Cog6	Krt23	Tlr2	Kcnu1	Pde3a	Mpzl3
+Opiates and related narcotics causing adverse effects in therapeutic use	PheWeb_2019	Sema6a	Tle3	Il6	Il20ra	Cyyr1	Ahr	Mrrf	Dlk1	Fbxl7
+Optic atrophy	PheWeb_2019	Shox2	Card11	Ttc27	Khdrbs3	Shc3	Ist1	Ywhab	Sorcs2	Adh6b	Efna1	Olfm3	Spock3	Pabpc1l	Lcorl	Trim46
+Optic neuritis/neuropathy	PheWeb_2019	Reg1	Svil	Tenm4	Tnfsf18	Onecut1	Reg3a	Gfra2	Suco	Pax3	Gli3	Itpr1	Ift43	Ppm1b	Nell1	Myoc	Sugp1	Epha4
+Orchitis and epididymitis	PheWeb_2019	Mef2a	Rbfox1	Igfbp4	Nsmce2	Frg2f1	Tfb2m	Sumf1	Tfpi	Sqle	Chit1	Xkr8	Cdh4	Epb41l3	Kcnma1	Lipi	Cops2	Serinc5
+Orthostatic hypotension	PheWeb_2019	Ccdc112	Ccl6	Cacna2d3	Phf8	Fstl5	Or1n2	Or1n1	Larp1	Nr5a2	Uap1l1	Chsy1	Atoh1
+Osteoarthritis; localized	PheWeb_2019	Usp47	Epha7	Apobec3	Mmp2	Rps9	Macc1	1110059G10Rik	Atp2b2	Hmga1	Lilra5	Tnfrsf21	Cdcp1	Plcb4	Sst	Trim59	Dzip1	Kcnc2	Kif15	Tmem260	Fhit	Hs6st3	Cdh8	Cpn2	Sbsn	Clec3b	Stk35	Mat2b	Pde8b	Uggt2	Clvs1	Rgs8
+Osteoarthrosis	PheWeb_2019	Acot11	Fzd7	Gabrg1	Rnase4	Emcn	Tox3	Frg1	Radil	Ssbp3	Cdk15	Myh6	Myh7	Piwil4	Rab3b	Luzp2	Atf7ip2	Cul1	Gtdc1	Pts	Slc4a7	Mat2b	Cdh2	Pcdh7	Slit3	Map4k4
+Osteoarthrosis NOS	PheWeb_2019	Camk1d	Acot11	Fzd7	Gabrg1	Gigyf2	Frg1	Rfx8	Gipc2	Ssbp3	Cdk15	Myh6	Ezh2	Myh7	Sned1	Rab3b	Luzp2	Cpne5	Fmr1	Cul1	Gtdc1	Pts	Mat2b	Ncs1	Pcdh7	Ptchd4	Kcnj3	Map4k4	Tns3
+Osteoarthrosis, generalized	PheWeb_2019	Dnah14	Myom1	Epha5	Mef2c	Crbn	Itga4	Kcnk13	Ush2a	Sfrp1	Plb1	Wt1	Sipa1l2	Dab1	Nmrk1	Psmc1	Hmcn2	Nrde2	Opcml
+Osteoarthrosis, localized, primary	PheWeb_2019	Irx2	Dync2h1	Mtx2	Apoc4	Syt16	Pax3	Frmd3	Cnksr2	Prkar1b	Cldn18	Spry2	Nodal	Vwa8	Dpp10	Trappc3l	Hdgfl1	Pdgfa	Cplx2	Bub3	Ppargc1a	Pabpc4l
+Osteochondritis dissecans	PheWeb_2019	Atxn1l	Ist1	Kcnh7	Rfx8	Mical2	Dmd	Zfp821	Vax2	Mmadhc	Clrn3
+Osteochondropathies	PheWeb_2019	Tas2r126	Fgfbp3	Abhd5	Dcaf4	Vwf	Bod1l	Cobl	Med16	Acan	Sart1	Gngt1	Sp1	Or5v1b	Cat	Grm7	Dmd	Atxn1	Map3k7
+Osteomyelitis	PheWeb_2019	Chst9	Ddx18	Eomes	Myocd	Abhd14b	Abhd14a	Inpp4b	Ppp5c	Snw1	Lhx3	Adck1	Slirp	Tcea3	Daam1	Calm1	Gria3	Xylt1	Acy1	Fign	Gpr62	Lbh	Sh3bgrl	Alkbh1	Uqcrfs1	Zfp703	Acss2
+Osteomyelitis, periostitis, and other infections involving bone	PheWeb_2019	Chst9	Ddx18	Myocd	Abhd14b	Abhd14a	Zhx2	Snw1	Ptprd	Kcnq1	Lhx3	Adck1	Slirp	Tcea3	Dnah5	Tenm4	C2cd3	Xylt1	Acy1	Fign	Gpr62	Fgf1	Robo1	Sh3bgrl	Spz1	Alkbh1	Uqcrfs1	Zfp703	Acss2
+Osteopenia or other disorder of bone and cartilage	PheWeb_2019	Myom1	Prmt6	Gda	Hsdl2	Stc1	Lsamp	Snx25	Klf5	Ranbp6	Ercc4	Oas3	Sfpq	Cldn14	Tiprl	Cdh12	E130308A19Rik	Kcnj3	Rph3a
+Osteoporosis	PheWeb_2019	Wwox	Eif3a	Smad1	Fcrl5	Ttll8	Inpp4a	Ror2	Gas7	Aco1	Dgkh	Ccl11	Cited2	Celf4	Gorab	Arhgap18	Slc7a11	Zbtb20	Dach1	Has2	Galr1
+Osteoporosis NOS	PheWeb_2019	Wwox	Eif3a	Fcrl5	Ttll8	Inpp4a	Gas7	Aco1	Ccdc40	Dgkh	Atp8a2	Cited2	Gorab	Arhgap18	Slc7a11	Zbtb20	Itpr1	Galr1	Uqcrfs1	Sp100
+Osteoporosis, osteopenia and pathological fracture	PheWeb_2019	Myom1	Gda	Ppp1r14c	Foxc1	Hsdl2	Ythdc2	Snx25	Htr2a	Klf5	Efcab11	Ranbp6	Bsph1	Zmym1	Glra3	Ercc4	Sfpq	Lnx2	Agmo	Cdh18	E130308A19Rik
+Otalgia	PheWeb_2019	Rbfox1	Arrdc3	Ipmk	Lhfpl3	Foxn3	Pja1	Tsn	Rufy2	Pah	Eif3e	Nox3	Tenm3	Sema3d	Thrb	Prkx	Elavl2	Ism1	Akap12	Amdhd1	Slitrk5	Slitrk6	Disc1	Slc25a48	Atoh1
+Other CNS infection and poliomyelitis	PheWeb_2019	Smad3	Dcc	Mdga1	Hdgfl1	Dennd4c	Itga4	Satb2	Nbea	Nrg3	Sorbs2	Urb2	Hs3st4	Lrrc37a	Il17a	Arf2	Pkhd1	Cyp24a1	Anks1b	Bcas1
+Other abnormal blood chemistry	PheWeb_2019	Ankrd34c	Hace1	Abca3	Lingo2	Atp6v1g3	Stat1	Zfp282	Avpr1a	Oprm1	Stag1	Ptprc	Zfp42	Per1	Fat1	Tcf4	Cylc2	Pkdcc	Ccnf	Nrxn3	Ccdc102a	Gls	Sptlc3	Cdh2	Mthfd1l	Taf1b	Ptchd4	Banp	Ccl17
+Other abnormal glucose	PheWeb_2019	Cnot6l	Ggt5	Jag1	Cpsf7	Zfp2	Mboat7	Cog5	Nrg3	Slc6a6	Cxcl13	Pik3r1	Rcn1	Zfp454	Bod1l	Ccer1	Nkd2	Calb1	Wdr93	Chl1	Ntsr1	Ctnna3	Tbc1d22a	Clvs1	Csmd1	Asic2
+Other abnormality of urination	PheWeb_2019	Ppef1	Angpt2	Fam98a	Dapk3	Pcdh20	Avpr1a	Igsf21	Ptprd	Rbmxl2	Tpo	Ufm1	Rragc	Or2b11	Plxna2	Dscam	Mcph1	Skap2	Trp53	Sh3gl2
+Other acquired deformities of limbs	PheWeb_2019	Ntrk2	Api5	Ksr2	Rfx2	Actl9	Cdkal1	Ttc17	Tek	Acsbg2	Pde7b	Asb1	Ryr2	Sel1l	Slc1a3	Hsd17b12	Hs2st1	Dpp6	Hlx	Sntg2	Sh3bp4	Gpc5	Lrrc4c	Prkg1
+Other acquired musculoskeletal deformity	PheWeb_2019	Sema5a	Slc26a2	Ndufa4	Rpl10l	Ifnlr1	Atp11b	Cacng7	Slitrk3	Dmrta2	Myo18b	Nphp4	Ankrd50	Pde6a	Trim67
+Other acute and subacute forms of ischemic heart disease	PheWeb_2019	Kif20b	Ets1	Agap1	Cacng6	Cpped1
+Other allied disorders of spine	PheWeb_2019	Gabrb3	Smad4	Elac1	Ston2	Pcdh15	Gcc2	Dhfr	Fcgr3	Smoc1	Me2
+Other and nonspecific abnormal cytological, histological and immunological findings	PheWeb_2019	Abca3	Atf7ip	Spesp1	Tpte	Crabp1	Zfand1	Pbx3	Ebf4	Fabp12	Fgf18	Rnf144b	Impa1	Bmper	Csmd3
+Other and unspecified coagulation defects	PheWeb_2019	Prkce	Sema3c	Rassf8	Jakmip1	Guca2b	Smc2	Dgat2l6	Guca2a	Bace2	Trim9	Fut8	Gap43	Kcnt2	Scn8a	Hivep3	Tln2	Cylc2	Cntln	Zfp521
+Other and unspecified congenital anomalies	PheWeb_2019	Gbp6	Cbx7	Ryk	Pomp	Il16	Timd4	Otol1	Sh3rf2	Fstl4	Sgcd	Msantd2	Gpam	Agr3	Kcnq4
+Other and unspecified disc disorder	PheWeb_2019	Lrrc38	Tsks	Zc3h13	Cntn6	Pcdh11x	Loxl4	Arhgap18	Foxk1	Cdc73	Cnbd1	Magea13	Stra8	Mb21d2
+Other and unspecified disorders of back	PheWeb_2019	Chrnb3	Msr1	Agtpbp1	Pcp4l1	Kcnh7	Rnase4	Nuak1	Ajap1	Ctdspl	Mtus1	Sdk1	Tbc1d5	Kif26b	Pmfbp1	Itga8	Rnf141	Mgll	Ror1	Dock1	Pom121l12	Fabp1	Sema5b	Clic6	Txn1	Pld5	Adcy9	Phex	Tsku	Spred2	Chsy3	Sall4	Sox6
+Other and unspecified disorders of the nervous system	PheWeb_2019	Nrsn1	Epm2a	Kcnj6	Mef2c	Shprh	Tpk1	Ptger4	Usp24	Shroom3	Tmtc2	Dpp6	Fbxo30	Chchd3	Frmd4a	Kif5c	Epc2	Igfbp7	Arl5b	Mnx1	Lrrc4c
+Other anemias	PheWeb_2019	Gucy1a2	Spen	Yipf4	Vps37c	Rnase2b	Dcdc2a	Trp73	Mia2	Cd5	Nedd1	Dab1	Gm10053	Ror2	Aco1	Rgs18	Or5k14	Mrpl39	Hjurp	Ap2a2	Adarb2	Pex26	Ankar	Ctnna2	Zfp521	Habp2
+Other aneurysm	PheWeb_2019	Arhgef28	Unc5d	Akap6	Erich1	Nlrc5	Esr1	Tmem170b	Tmem143	Tbl1xr1	Zfp42	Zfat	Bcas1	Zfp366
+Other arthropathies	PheWeb_2019	Lingo2	Src	Zfp692	Ndufa12	Maml2	Irf2bp2	Ston2	Iqsec1	Lama1	Rhd	Rufy1	Klf7	Col5a1	Zic1	Zfp516	Atxn7l1	Spry2	Kcnj3
+Other benign neoplasm of uterus	PheWeb_2019	Irx3	Agtpbp1	Cacna2d3	Gnai1	Slc7a2	Sgcg	Chordc1	Erbb4	Nfib	Mep1b	Sis	Fat3	Glul	Spry2	Fgf14	Gas6	Atp9b	Ier3
+Other biliary tract disease	PheWeb_2019	Usp47	Myo16	Ccl6	Itga5	Arx	Evpl	Fstl5	Sstr5	Sdk1	Sall1	Tbl1xr1	Pcf11	Ppp4r4	Gja5	Gja8	Dlgap2	Ccl3	Rbms3	Dgki	Otub2	Samd12
+Other cerebral degenerations	PheWeb_2019	Rbm19	Or9q2	Osm	Or9q1	Adamts6	Sox4	Ctif	Or1s2	Zfp507	Il31ra	Macrod2	Plxna1	Bend3	Cytl1
+Other chronic ischemic heart disease, unspecified	PheWeb_2019	Eya1	Mef2c	Mgmt	Crbn	St8sia2	Gad2	Tgds	Mrps6	Tmprss11e	Myo3a	Gemin7	Brsk2	Ppp1r37	Epas1	Kcne2	Ldb2	Dcaf12l1	Hepacam2	Tmem182	Trps1	Zfp612	Samd9l	Srl	Synpr	Cdh23	Rps6ka2	Macrod2	Hormad1	Mark4	Rph3a
+Other chronic nonalcoholic liver disease	PheWeb_2019	Col25a1	Dmrt2	Ncoa5	Samd4	Cdc42	Scn8a	H2-Ab1	Igsf9b	Zfp28	Rhou	Vwa7	Lcorl	Pnpla3	Gabrb3	Arhgap6	Fhit	Cdkn2aip	Slco2b1	Samm50	Sall3	Grm7	Neu1	Stmn2	Gpc5	Tns3	Wnt4
+Other complications of pregnancy NEC	PheWeb_2019	Iqca1	Ajap1	Sox4	Lrfn5	Zeb2	Hrh4	Lmx1a	Reep5	Cdh12	Echdc1	Hnrnpa1	Lgr5	Dcp2
+Other conditions of brain	PheWeb_2019	Ntrk2	Nrp2	Macf1	Catsper3	Ythdf3	Negr1	Chd6	Tcf21	Rad51ap2	Rnf144a	Cnep1r1	Poc5	Pcbd2
+Other conditions of brain, NOS	PheWeb_2019	Lingo2	Usp12	Ddx46	Prdm16	Tet2	Adprhl1	Rfx2	Sorcs1	Nudt12	Sgcg	Tmeff2	Sntg1	Tbxas1	Rdh10	Ccng1
+Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium	PheWeb_2019	Wwox	Slc47a1	Gria1	Defa5	Gm45337	Intu	Stxbp5l	Tmprss2	Tdrp	Itpr1	Cnksr2	Mcf2l	Slc9a8	Dmrta2	Eps15	Ncapd3	Nxph1	Cpeb4	Csmd1	Nfe2l3
+Other congenital anomalies of lower limb, including pelvic girdle	PheWeb_2019	Dpp6	Celf2	Defa5	Ebf2	Ccdc3	St3gal1
+Other congenital musculoskeletal anomalies	PheWeb_2019	Hhatl	Map2k4	Ccdc13	Celf2	Txndc11	Arap2	Klhl40	Mn1	Or10k2	Tmem26	Hectd2	Or10x1	Snn	Abhd17a	Fam181b	Cacul1
+Other deficiency anemia	PheWeb_2019	Slc14a2	Rassf2	Rwdd4a	Mctp2	Gbe1	Cog3	Cxxc4	Ephb1	Card6
+Other derangement of joint	PheWeb_2019	Ryr3	Usp10	Hnf4g	Ldlrad3	Wdr41	Adamts13	Slc2a6	Eepd1	Gpr142	Mapt	Slco4c1	Crispld1	Fat4	Rab28	Zfp831
+Other diseases of blood and blood-forming organs	PheWeb_2019	Tmem132e	Irx3	Colec11	Or2d36	Or2d2	Tnfrsf19	Tnip1	Rassf2	Tspan9	Rragc	Cdhr3	Zfat	Fgf14	2210408I21Rik	Sox5
+Other diseases of lung	PheWeb_2019	Eomes	Rwdd3	Tmem132d	Nkx2-9	Mef2c	Csnk2a1	Irs2	Sel1l	Ctnnd2	Zc3h3	Pappa	Ttc28	Tom1l2	Zmym1	Hrh1	Incenp	Sfpq	Fat3	Dynlrb2
+Other diseases of respiratory system, NEC	PheWeb_2019	Nsun5	Fam78b	Syn3	Olfm3	Tmem114	Lrfn2	Gapt	Fkbp6	Rab3c	Pom121	Sema3a	Tenm2	Sema3d	Sema3e	Sgms1	Smc2	Cdh7	Chl1	S1pr1	Fyn	Srgap3	Caln1	Tns3
+Other diseases of respiratory system, not elsewhere classified	PheWeb_2019	Sema6c	Fancl	Mgmt	Arrdc3	Pcdh9	Tbx4	Klhl1	Adcyap1	Nagk	Mcph1	Mtpn	Thrb	Ctnnd2	Snx13	Adarb2	Cryba4	Slc4a4	Antxr2	Fgf9	Spock1	Gpc6	Gpc5	Mbp	Plxna4
+Other diseases of the teeth and supporting structures	PheWeb_2019	Hace1	Mbnl3	Kmt2c	Hunk	Pex26	Tuba8	Spata17	Extl2	Cdh20	Lrrtm4	Dok6	Gja5	Stk39	Gpc3	Ppif	Csmd1	Csnk1g3	Mcph1
+Other disorders of arteries and arterioles	PheWeb_2019	Cr1l	Ryr2	Nrp2	Cox7c	Tenm3	Cr2	Fam98a	Ints2	Pcdh10	Ctnnd2	Tfeb	Med13	Ogfrl1	Slc7a7	Cdh12	Nmur2	Cd55b
+Other disorders of biliary tract	PheWeb_2019	Dnah5	Fgfbp1	Ccl6	Cntn6	Bod1	Ddx24	Nrg3	Dab1	Clec4n	Ppp4r4	Id2	Dlgap2	Ccl3	Prom1	Otub2
+Other disorders of bladder	PheWeb_2019	Naa40	Ncan	Odc1	Siah3	Ebf1	Cox7b2	Hspa13	Edar	Sh3rf3	Dcdc2c	Macrod1	Tacc2	Cntn5	Klrb1	Muc20	Otub1	Astn2	Mark2
+Other disorders of bone and cartilage	PheWeb_2019	Rbfox1	Slc35f3	Ddit4l	Gxylt1	Klf4	Agtr2	Cryl1	Zpld1	Tnik	Wls	Nkx2-5	Trp63
+Other disorders of cervical region	PheWeb_2019	Wwox	Fto	Sema3a	Synpr	Hdac4	Agbl1	Cntn5
+Other disorders of circulatory system	PheWeb_2019	Pou2f1	Slc24a4	Kcnip4	Spaca1	Pak1ip1	Fign	Tfeb	Kctd8	Prss22	Lrrtm4	Them4	Otx1	Flywch2	Mdfi
+Other disorders of ear	PheWeb_2019	Rbm19	Sec16b	Anxa11	Nat8f2	Dab1	Mmrn2	Cryl1	Hoxb4	Hoxb3	Gas7	Hcn1	Aco1	Cylc2	Barhl2	Fam114a2	Dgkb	Tshz2	Sppl2a	Ap4e1	Slc41a2	Ptprk	Mylk	Kcnv1	Sncg
+Other disorders of eye	PheWeb_2019	Mctp2	Ralgapa2	Galnt18	Lpp	Pdgfa	Adamtsl1	Nell1	Grm7	Ccdc42	Cntn4	Dlgap2	Ostf1	Slit3	Tppp	Sik1	Zc3h15
+Other disorders of eyelids	PheWeb_2019	Arfgef1	Klf14	Ntng1	Lsamp	Tacr1	Mthfd2l	Tnmd	Cdh13	Tusc1	Far2	Fam76b	Mtmr2	Tenm3	Dpt	Pcsk6	Lman2	Nsd1	Cpa6	Otof	Cep57
+Other disorders of gallbladder	PheWeb_2019	Vdr	Dusp4	Sfmbt2	Usp12	Synrg	Lrp6	Sema3g	Ush2a	Dusp14	Bcl2l14	Cnot2	Kcnmb4	Pmp22	Ankrd50	Map3k7
+Other disorders of intestine	PheWeb_2019	Galnt13	Slc28a1	Zcchc7	Fst	Adcyap1r1	Zhx2	Agpat5	Gng2	Mkln1	Ppp2r2c	Exoc4	Ephb1	Mettl16	Csmd1	Atp9a
+Other disorders of lipoid metabolism	PheWeb_2019	Eif2b5	Tmem132d	Kcnh7	Smox	Nab1	Irx4	Shisa6	Tm4sf4	Bicc1	Lrrc37a	Ptprd	Thpo	Cdh13	Enpp6
+Other disorders of liver	PheWeb_2019	Hip1	Cntnap2	Cpt1a	Gabra6	Pld5	Nr3c2	Apbb1ip	Spsb1	Bivm	Nfic	Zc3h18	Apol7e	Pnpla3
+Other disorders of male genital organs	PheWeb_2019	Myom1	Epm2a	Camk1d	St6galnac3	Kcnip4	Igfbp3	Wipi2	Lingo1	Lrp1b	Stk10	Tjp1	Bcl9	Tuba1c	Sv2c	Poc5	Bud13	Nxph2	Prok2
+Other disorders of metabolism	PheWeb_2019	Eif2b5	Tmem132d	Adgb	Smox	Irx4	Shisa6	Hps4	Foxl1	Hspbap1	Il2	Eid2	Tmem135	Cdh13	Asb3	Il21	Twist2	Adarb1	Hnmt	Scube1	Thpo	Adad1	Msx2
+Other disorders of middle ear and mastoid	PheWeb_2019	Dgkg	Edn3	Serpine3	Diras2	Intu	Med9	Upk3b	Nrgn	Osbpl11	Snx4	Chl1	Fshr	Ints6	Cntn5	Eef1e1	Zfp521	Spa17
+Other disorders of peritoneum	PheWeb_2019	C1galt1	Dmrt1	Ddhd1	Dkk1	Sox11	Mboat1	Tmem135	Col4a1	Mms19	Slc35b4	Slc28a1	Bod1l	Lamc3	Cryba4	Cdh9	Asz1	Hivep2	Tbx20	Odf1	Mbl2	Rbm11	Ubtd1	Exosc1
+Other disorders of prostate	PheWeb_2019	Cyfip1	Lrriq3	Col23a1	Dgkb	Mrpl39	Ldoc1	Fhit	Hnrnpab	Nr3c2	Sulf1	Ano3	Ccdc88a	Acoxl	Ptprd	Akt1	Plxna2
+Other disorders of soft tissues	PheWeb_2019	Slc36a4	Kcnab2	Pctp	Kalrn	Bmp4	Fmnl2	Sntg2	Fshr	Rhpn2	Fgf20	Nphp4	Daam1	Adamts9	Mmadhc	Otud4
+Other disorders of stomach and duodenum	PheWeb_2019	Arhgap8	Grid2	Mast4	Npr3	Htr1b	Atp2b2	Nav3	Ubr2	Igf1r	Lingo1	Spic	Ust	Zfat	Hivep2	Ncam2	Slc39a8	Ccdc3	Clasp2
+Other disorders of synovium, tendon, and bursa	PheWeb_2019	Trhr	Zfhx4	Epha7	Stac	Epdr1	Hsbp1	Smad6	Otol1	Ano4	Gpr141	Tada2a	Nme8	Slco4c1	Tbc1d7	Elmo1	Myom2	Cpne5	Tnks	Tshz2	Itpr2	C2cd4c	Fmn2	Gphn	Brinp1	Aldh1b1	Ripk2	Disc1	Zfp787	Zfp786	Banp
+Other disorders of testis	PheWeb_2019	Mtpn	Cox7c	Abca1	Rtp4	Tpk1	Ank1	Pou4f1	Lrpprc	Rps6ka4	Nfib	Macrod2	Ankrd66	Zfp521	Cbr4	Epha3
+Other disorders of the kidney and ureters	PheWeb_2019	Slc45a4	Or5h26	Or5k15	Actl7b	B3gat1	Adarb2	Elavl2	Rora	Tspan17	Tmem235	Efr3a	Sh3pxd2b	Chn1	Fat2	Hbq1b	Dph6	Phactr3	Flvcr1
+Other disorders of thyroid	PheWeb_2019	Msr1	Cog6	Ipmk	Kcnip4	Tnfrsf19	Arid5a	Wnt9a	Zwint	Tsn	Zeb2	Kcnq4	Pot1a	Mctp2	Slc44a1	Nrxn3	Jrkl	Gphn	Chordc1	Kcnmb2	Fbxo5	Lrig2	Ubash3b
+Other disorders of tympanic membrane	PheWeb_2019	Abca1	Nanos1	C2cd3	Syk	Ndufa4	Ly75	Ica1	Sorcs1	Pum2	Aqp4	Klhl1	Sucla2	Camta1	Cdh13	Dcx	Zfp800	Kif20b	Rpl38	Anks1b	Pms2	Pabpc4l
+Other disorders of urethra and urinary tract	PheWeb_2019	Plekha2	Sema4d	Col6a1	Dok5	Il2rb	Umodl1	Anapc1	Pdzrn4	Kank1	Spef2	Dysf	Prep	Bach2	Rxfp2	Foxo1	Pitpnc1	Robo2	Wnt11	Rasgef1b	Npvf	Npy	Qsox1	Rreb1	Jam3
+Other dyschromia	PheWeb_2019	Hs3st3a1	Cpt1a	Hibadh	Spen	Gtf3c6	Auts2	Usp33	Nexn	Ppp2r5c	Ier5l	Dll1	Rpf2	Fubp1	Gprc5c	Zzz3	Gipc2	Dnajb4	Cacna1s	Rai14
+Other dyspnea	PheWeb_2019	Wwox	Oxr1	Il1r1	Actn1	Gaa	Hmga2	Myo7b	Ptpn13	Arhgap12	Bace2	Rnf144a	Syt13	Ccny	Card14	Camk1g	Ccdc40	H2-Eb2	Eif4a3l2	Iqca1	Arhgef28	Alox15	Iws1	Dtwd1	Ctnna2	Plxna2
+Other endocrine disorders	PheWeb_2019	Enc1	Sh3kbp1	Spock3	Agmo	Ssc5d	Rpl38	Cacng3
+Other forms of chronic heart disease	PheWeb_2019	Magi2	Elac2	Sorbs1	Nrg3	Tex29	Cnksr2	Col4a1	Ankfn1	Col4a2	Pcdh7	Fgf13
+Other headache syndromes	PheWeb_2019	Mak16	Nr5a2	Hlcs	Kcnmb2	Triml1	Cactin	Polg	Tti2
+Other heart block	PheWeb_2019	Rps19bp1	Tmem132b	Srbd1	Pcdh15	Exoc6	Nrg3	Prr12	Slc8a1	Cacna1i	Fgf12	Prkaca
+Other hemoglobinopathies	PheWeb_2019	Hcar1	Mast4	Arrdc3	Dpt	Or6c8	Nrg1	Abca8b	Or10p1	Muc4
+Other hypertensive complications	PheWeb_2019	Dthd1	Unc5cl	Mmp3	Pcdh20	Ebf3	Lsamp	Pcdh15	Wdr41	Wnt9b	Ank2	Adra2a	Frmd5	Pthlh	Rptor	Diaph3	Wt1	Tbc1d4	Aipl1	Kif20b	Mbl2
+Other hypertrophic and atrophic conditions of skin	PheWeb_2019	Slc15a1	Bnc2	Myocd	Zdhhc14	Metrnl	Ttc7b	Arhgap15	Sfrp1	Ptk2	Cnksr3	Gigyf1	Spsb4	Tmem114	Tgif2lx2	Cntn4	Wnt3	Ephb4
+Other hypertrophic cardiomyopathy	PheWeb_2019	Psmd11	Hs3st1	Rbfox1	Nyap2	Cbfa2t3	Foxo3	Prrg4	Wt1	Zfp14	Eif3m	Zfp207	Aga	Fgf14	Qser1	Rhbdl3	Ccdc73	Ctsc
+Other infectious and parasitic diseases	PheWeb_2019	Wdr59	Dmrt2	Thrb	Etv1	Mrps18a	Atp1b3	Cdc73	Foxp4	Gabrg3	Armc1	Cald1	Ptar1	Sntg2	Asic2	Nck2	Rhcg
+Other inflammatory disorders of male genital organs	PheWeb_2019	Car10	Lmx1b	Plod1	Rnls	Wdr72	Cadm1	Mfn2	Nkx2-1	Fam181b	Prcp	Mzt1
+Other inflammatory spondylopathies	PheWeb_2019	Magi2	Mgam	Adgb	Fam98a	Irx4	2410137M14Rik	Samd4	Hs3st5	Etnppl	Ccdc88c	Epha4	Ptpru	Sycp2l	Nrxn3	Atoh8	Znrf3	Hif1an	Kcnn3	Igfbp7	Mill1
+Other intestinal obstruction	PheWeb_2019	Pcyt1a	Tle4	Irx6	Mgmt	Shisa6	Vps13c	Kazn	Mcc	Mybpc1	Lrp1b	Gnb1	Exoc5	Kcnk2	Tenm3	Klhl13	Glra2	Arhgap42	Slitrk2	Slitrk5	Evi5l	Cacng3	Mettl17
+Other local infections of skin and subcutaneous tissue	PheWeb_2019	Ddx18	Gpm6a	Zbtb18	Foxe1	Rora	Grin2b	Ncs1	Pik3c3	Ankrd50	Trib2	Gabrd	Slc26a7	Bard1	Lonrf1
+Other mental disorder	PheWeb_2019	Ghrhr	Atf7ip	Tmem132d	Arhgap10	Pstpip2	Zbbx	Pcdh7	Nap1l2	Med13l
+Other non-epithelial cancer of skin	PheWeb_2019	Ncoa6	Kcnip4	Uqcc1	Def8	Trpc4ap	Dbndd1	Irf4	Rragc	Slc9a8	Cdk10	Rbm20	Chmp4b	Dpep1	Cntn5	Gas8	Zfp276	Prdm9	Cpne7	Arid4a	Spg7	Kcnt2	E2f1	Rreb1	Raly	Prok2	Myh7b	Ntrk2	Vps9d1	Zfp341	Edem2	Fanca	Pard3	Itch	Spata2l	Cbfa2t2	Bpifb1	Bpifb3	Mc1r	Bpifb2	Bpifb4	Bpifb6	Tom1l1	Dynlrb1	Spire2	Cdh18	B4galt5	Myom2	Pigu	Slc45a2	a	Tex26	Smc2	Mmp24	Ggt1	Bpifa2	Chmp1a	Ankrd11	Cdk5rap1	Snta1	Zfp385b
+Other nondiabetic retinopathy	PheWeb_2019	Dusp5	Ndrg4	Ndufa10	Osr1	Slc1a7	Add2	Rnf4	Ano1	Vamp8	Mat2a	Dlgap2	Xdh	Atg7	Trim24
+Other nonmalignant breast conditions	PheWeb_2019	Rwdd4a	Itga4	Wnt5a	Sumf1	Grhpr	Inpp4b	Eif3h	Padi4	Fat4	Tenm3	Usp38	Zcchc7	Celf2	Celf4	Ldlrad3	Nrxn3	Kcna6	Ngrn	Stk33	Basp1	Kif21a	Gpc5	Trim66	Dis3l2
+Other open wound of head and face	PheWeb_2019	Tenm2	Tmem132d	Tpd52	Cntnap2	Mrps28	Frmpd4	Irx6	Auts2	Fbxo2	Gfra1	Lhfpl3	Tmtc1	B3gntl1	Efr3b	Dhx35	Rnase9	Col6a5	Smyd3	Slc15a4
+Other paralytic syndromes	PheWeb_2019	Mef2c	Fmr1	Lmo4	Celf4	Slc6a1	Mtdh	Herc6	Ppp1r3c	Matn2	Cntn4	Pla2r1	Snrnp48	Prok2
+Other persistent mental disorders due to conditions classified elsewhere	PheWeb_2019	Msr1	Tenm4	Irx6	Syt1	Cacna1a	Slfn5	Tmtc1	Adcy7	Scrt2	Naaladl2	Cecr2	Matn1	S1pr1	Spry2	Ccser1
+Other pulmonary inflamation or edema	PheWeb_2019	Zfp78	Crbn	Rergl	2410137M14Rik	Lpp	Pts	Adamts5	Pex5l	Tbc1d32	Slitrk5	Cmpk2	Enpp2	Filip1	Eif4g3
+Other retinal disorders	PheWeb_2019	Lingo2	Angpt1	Col23a1	Vwc2	Rmdn3	Lsr	Naaladl2	Fam187b	Aim2	Rad51	Cdh10	Rpusd2	Ssbp3	Asah2	B3galt1	Zfp608	Sec61g	Tmed3	Chst14	Ppargc1a
+Other specified benign mammary dysplasias	PheWeb_2019	Trdn	Rbfox1	Krr1	Xylt1	St8sia4	Rpgrip1l	Tbl1xr1	Frg1	Dppa4	Phf14	Rgs7bp	Gria4	Rnf111
+Other specified cardiac dysrhythmias	PheWeb_2019	Tbx4	Dlg2	Rcl1	Cdh19	Creb5	Fank1	Rtn4r	Aqp7	Bccip	Wdr41	Gata3	Thbs2	Amot	Cdh9	Serpina5	Gli3	Dhx32	Sgcd	Pde2a	Lzts1	Phactr1	Slit3	Prok2
+Other specified congenital anomalies of kidney	PheWeb_2019	Lmo1	Abcc2	Myt1l	Zfr	Atp8a1	Mtmr12	Bcl11a	Gabrg1	Slc39a12	Sgcz	Spata16	Zmym1	Dnmbp	Exo1	Zmiz1	Crtac1	Smyd3	Map7	Gabre	Kcng1
+Other specified congenital anomalies of nervous system	PheWeb_2019	Edn1	Tfap2c	Nufip1	Slc34a2	Cblb	Ets1	Fry	Mtdh	Maf	Mrpl42	Col8a2	Drd2	Foxa3	Ube2n
+Other specified diseases of hair and hair follicles	PheWeb_2019	Hs3st1	Rbfox1	Tfap2c	Dcc	Arl15	Pla2g4a	Fbxo33	Npepl1	Tmem135	Dab1	Ackr3	Cntn4	Cdh18	Slc44a5	Lama1	Prr5l	Hk1	Htr7	Ablim3	Mat2b	Sertad2	Bnip3	Kcnj2	Clasp2
+Other specified diseases of sebaceous glands	PheWeb_2019	Hace1	Nfe2	Lingo2	Ryr3	Gabrb2	Maml3	Runx1	Ltn1	Prep	Copz1	Map1a	Nt5e	Adal	Ppip5k1	Ppp4r4	Slco5a1	Nphp4	Trp53bp1	Tubgcp4	Lhx5	Tgm7	Tgm5	Plcb1
+Other specified disorders of breast	PheWeb_2019	Ddx18	Myo16	Wscd1	Ist1	Msl3	Pbx1	Cacnb4	Rybp	Slc9a9	Gper1	Dchs2	Calm2
+Other specified erythematous conditions	PheWeb_2019	Lingo2	Zbp1	Bex2	Gorab	Tceal1	Dkk1	Tomm20	Vav3	Nxf3	Tceal7	Tg	Tmem114	Clmn	Lrfn2	Tceal5	Edil3	Csmd2	Sh3gl2
+Other specified gastritis	PheWeb_2019	Gabra3	H6pd	Slc35f3	Atf7ip2	Arrdc4	Gpr12	Zfp804b	Muc5ac	Kazn	Sod1	Scaf4	Tmem108	Rarb	Lrrn2
+Other specified nonpsychotic and/or transient mental disorders	PheWeb_2019	Iqca1	Tapt1	Gypc	Ttc34	Ank2	Ttll7	Zic1	Etnk1	Gpc5	Cops8	Ifna4	Sox6
+Other sprains and strains	PheWeb_2019	Wwox	Pacrg	Fam98a	Plcl2	Arhgap26	Tshr	Nceh1	Cdh11	Echdc1	Megf8	Epha4	Gtf2a1	Cpq	Diras2	Rxfp2	Slc7a2	Adra1a	Hmgcl	Zbbx	Ptchd3	Dcdc2c	Car8	Camta1	Map6	Nxph1	Ripk2	Pgm5
+Other symptoms involving abdomen and pelvis	PheWeb_2019	Krt71	Slc38a1	Nup210	Sorcs1	Smarca2	Rundc3b	Ptprc	Dbf4	Cdh12	Ddah1	Tusc1	Abcb1a	Pcdh10	Slc25a40	2900026A02Rik	Gata3	Caap1	Robo1	Tsen2	Kcnmb2	Galr1	Flnb	Tbc1d16	Asic2
+Other symptoms involving urinary system	PheWeb_2019	Tfap2c	Kirrel3	Pacrg	Slc10a2	Pabpc5	Mrps2	Sumf1	Pafah2	Fermt1	Ift43	Melk	Klf6	Dab1	Klhl6	Gpam	Cngb3	Lcn4	Filip1	Grik2	Ptprk	Glis3	Robo2	Cdh7	Aadacl4fm5	Immp2l	Senp6	Anpep	Slitrk5	Zfp953	Ffar2
+Other symptoms of respiratory system	PheWeb_2019	Pou1f1	Tfap2c	Trav23	Ankrd49	Snrpn	Htr1f	Tmem178b	Sccpdh	Tnik	Camk1g	H2-Eb2	Klb	Acvr1c	Dusp16	Egfr	Mtmr7	Gm5150	Adamts17	Bcl2l14	Fut9	Snx29	Ptchd4	Trdv2-2	Gria4	Mapk4
+Other symptoms referable to back	PheWeb_2019	Ndufa4	B3gat2	Txn1	Wipi1	Lingo1	Ghr	Cpeb2	Casp12	Grm7	Mmp16	Nudcd1	Exoc5
+Other symptoms/disorders or the urinary system	PheWeb_2019	Magi2	Magi1	Dtnbp1	Mtss1	Klf6	Ptprd	St7l	Dab1	Gpam	Reep3	Gsap	Cylc2	Fgfr2	Foxa2	Myom2	Ndufb9	Hdgfl1	Acan	Lhpp	Samd12
+Other unspecified back disorders	PheWeb_2019	Ss18	D1Pas1	Slc10a7	Tcf7l1	Ctbp2	Prep	Nyx	Ereg	Acvr2a	Cdh5	Uck2	Crispld2	Tbc1d5	Dhx35	Bcl7c	Stab2	Jam2	Csmd1	Xkr7
+Other venous embolism and thrombosis	PheWeb_2019	Gabra3	Hs3st3b1	Rwdd3	F11	Myof	Phykpl	Surf6	Mepe	Iqsec1	Gip	Hnrnpab	Atp1b1	F5	Nup50l	Nme7	Fshr	Id4	Lrp11	Ltf	Dock1	Hcn2	Barhl2	Myom1	Galnt15	Mctp1	Hdac4	Cul1	Hs6st2	Sec14l1	Cand2	Fgf9	Obp2b	Ccdc181	Slc19a2
+Otitis externa	PheWeb_2019	Ntrk2	Tgds	Arap2	Cdc42bpa	Acsf3	Dclk2	Lrrc20	Klhl1	Vapa	Synj2	Id4	Fat4	Zcchc2	Dthd1	Abcb5	Cul1	Nr3c2	Ipo8	Mff	Pds5a	Ogfrl1	N4bp2	Trp63
+Otitis media	PheWeb_2019	Tpte	Rngtt	Ccnt2	Tsc22d1	Dbx1	Lpp	Efna5	Trak1	Gnpda1	Erbb4	Fam3c	Pcdh7
+Otitis media and Eustachian tube disorders	PheWeb_2019	Slc24a2	Tsc22d1	Slc35g1	Dbx1	Six2	Slc4a3	Efna5	Esm1	Fam135b	Fam3c	Upp2	Cytip	Csmd1
+Otorrhea	PheWeb_2019	Wwox	Gria3	Tenm2	Cntnap2	Rrm1	En1	Insig2	Dmrt1	Slc35d3	Lipa	Dpp6	Ccl12	Efhc2	Slit2	Tyw1	Samd12
+Ovarian cyst	PheWeb_2019	Wwox	Pcsk2	Thada	Kif14	Zfx	Nbea	Bfsp1	Fhit	Rpe65	Zhx2	Nkd2	Snrpa	Col4a1	Htr7	Ugt8a	Ncor2	Cnr1	Cngb3	Or4c12	Bcat1	Tmem229a	Terf2ip	Plxna4
+Ovarian dysfunction	PheWeb_2019	Zfhx3	Slc52a3	Zfp180	Ncor2	Nlrp12	Ypel2	Chrm3	Lrrfip1	Insig2	Lsmem1	Fmn2	Ly96	Pdgfa	Gramd4	Jph1	Tspan11	Plagl1	Stmn2	Luc7l	P2ry1	Hmg20a	Ghsr
+Overweight, obesity and other hyperalimentation	PheWeb_2019	Gm1123	Dapk1	Elovl6	Negr1	Rfc3	Prss12	Otol1	Agtr1b	Lnx1	Cdkn2aipnl	Alk	Fto	Ptprs	Ntm	Ppp1r3a	Bach1	Rab22a	Hs6st3	Osbpl10	Ndst3	Tcl1b3	Sipa1l2	Spock3	Dlgap2	Dscam	Myh10	Map3k8	Zfp169
+Pain	PheWeb_2019	Cela3b	Stpg2	Cd83	Trpc4	Ntm	2410137M14Rik	Htr1b	Ube2e2	Caap1	Dclk2	Cdc42	Csrp3	Oas3	Cdh12	Slc38a4	Wnt4
+Pain in joint	PheWeb_2019	Wwox	L3mbtl1	Oprd1	Pacrg	Gbe1	Tshz3	Adra2c	Ajap1	Pts	Rptor	Bmp1	Kif26b	Mc4r	Camta1	Jarid2	Cytip	Kcnj3
+Pain, swelling or discharge of eye	PheWeb_2019	Dpp6	L3mbtl4	Srpx2	Ctdp1	Sall3	Wwc1	Kynu	Cdc7	Otx2	Edil3	Camkk1
+Painful respiration	PheWeb_2019	Dgkg	Fzd1	Insr	Bambi	Agbl1	Ccdc170	Fhl5	Cryba4	Arhgap6	Mrpl23
+Pallor and flushing	PheWeb_2019	Aadat	Iqsec1	Nmnat3	Hipk3	Ush1c	Spata17	Col4a2	Ndn	Tnmd	Rspo3	Aipl1	Edil3	Smndc1
+Palpitations	PheWeb_2019	Car10	Rnls	Aoc1l1	Arhgef17	Fbxl18	Lyplal1	Mctp1	Focad	Cacna1a	Foxg1	Snx13	Cblb	Arhgef10l	Slc30a10	Vsig10l	Tspan9	Suds3	Igfbp7	Tinag	Zbtb7c	Cntln	Csmd1	Ppfia4	Dlgap5	Kcnh2
+Pancreatic cancer	PheWeb_2019	Lmo2	Egln3	Mepe	Emp2	Ces5a	Dlg2	Glipr2	Zic1	Rab25	Zfp407	Dmd	Atp6v1c1	Cdh18	Poc1a
+Papanicolaou smear of cervix or vagina with atypical squamous cells	PheWeb_2019	Cbln1	Ccbe1	Pacrg	Slc35f3	Sestd1	Fbxl17	Smarca2	Snx10	Fgd2	Foxred2	Etl4	Zfp37	Hrh4	Grm7	Cntn5	Dscam
+Paralysis/spasm of vocal cords or larynx	PheWeb_2019	Magi1	Nlgn1	Atg9b	Hspa12a	Ajap1	Igsf21	Mylk	Pcdh18	Fgf9	Erc1	Jarid2	Prkacb	Rbms3
+Paralytic ileus	PheWeb_2019	Psmd12	Auts2	Slc39a11	Armc8	Nav2	Zfp957	Ttn	Adra2c	Thoc5	Robo2	Dpp6	Cand1	Ncor2	Etnk1	Mthfd1	Reep3	Coro7	Arhgef10
+Paraproteinemia	PheWeb_2019	Arhgef12	Ryr2	Anxa1	Cacna1a	Tmem132b	Ebf4	Gdf6	Mtmr6	Supt3	Ogfrl1	Sdk1	Pex5l	Obp2b	Pcdh7	Zfp953	Tnik	Cbln4	Cdh18	Grid2ip
+Parasomnia	PheWeb_2019	Abca3	Magi1	Tfcp2l1	Zdhhc21	Mapkap1	Panx3	Prex2	Sall3	Zfp78	Pmp22	Slitrk6	Mcph1	Rapgef5
+Parkinson's disease	PheWeb_2019	Vdr	Klhl29	Foxp2	Igsf11	Pde10a	Agps	Kcnq4	Nfe2l2	Tenm2	Idua	Clstn1	Usp12	Or1i2	Plcxd2	Pde11a	Npas3	Nhsl1	Mettl15	Sptlc3	Dph5	Ect2	Scn3b
+Paroxysmal tachycardia, unspecified	PheWeb_2019	Mef2a	Afap1l2	Epha7	Srd5a3	Gch1	Mapk1ip1	Samd4	Farp1	H2-Ea	Pnpla6	Cntn5	Frem1	Nfe2l3	Ryr3	Mctp2	Nrxn1	Gadl1	Klhl13	Sgcg	Lgals3	Enc1	Stmn2	Fgf20	Amz1	Gas2l2	Zfp385b
+Paroxysmal ventricular tachycardia	PheWeb_2019	Ptpru	Or6k6	Pcsk1	Pkdcc	Myo10	Lsamp	Zfp612	Nat1	Ern1	Fgf20	Rimbp2	Fam83b
+Partial epilepsy	PheWeb_2019	Ptprn2	Cab39	Fgf1	Plg	Sgcz	Pgrmc1	Rgmb	Dpp6	Sox2	Myo15b	Fam174a	Map3k10	Prkd1	Tyw1	Cntn5	Slc25a43	Gm6619
+Pathologic fracture	PheWeb_2019	Epha6	Sema3e	Actl7b	Cacna2d1	Magi3	Rabl2	Defb42	Agpat4	Lipa	Plxdc1	Arl5c	Rap2b	Klf6	Dmxl2	4933427D14Rik	Gpc5	Scg3
+Pathologic fracture of vertebrae	PheWeb_2019	Med1	Hbb-y	Pcdh10	Rfx3	Acsl4	Ikzf3	Fbxl20	Sis	Dpyd	Sardh	Cdk12	Ccdc12	Pfdn4	Grb7
+Pathological, developmental or recurrent dislocation	PheWeb_2019	Tenm2	Celsr1	Baz1a	Ube2g1	Ptprg	Extl1	Slitrk1	Tmem235	Grm8	Fam110d	Cfl2	Macrod2	Pabpc1	Sdc2	Aunip	Pdzrn4
+Pelvic inflammatory disease (PID)	PheWeb_2019	Prmt6	Ksr2	Tusc3	Pcdh9	Slc2a13	Lsamp	Hspa12a	Vps37c	Cdyl	Tmem174	Lrp1b	Cd5	Capn13	Ust	Prkar1b	Slco1b2	Col6a5	Rnf150	Jdp2
+Pelvic inflammatory disease, NOS	PheWeb_2019	Rtn1	Wdr76	Nat1	Vps37c	Tmem174	Alox5	Ncam2	Spry2	Or13a1	Dock1
+Pelvic peritoneal adhesions, female (postoperative) (postinfection)	PheWeb_2019	Gabbr2	Rsph3b	Slc44a3	Arl14	Clstn2	Ift80	Cygb	Lrrc4c	Robo2
+Peptic ulcer (excl. esophageal)	PheWeb_2019	Cntnap2	Slc16a2	Trpc7	Adamts20	Htr2a	Olig3	Fars2	Glud1	Ccdc80	Col4a1	Lmx1b	Sp3	Synj2	Cpeb4	Pgpep1l	Ada	Snx9
+Peptic ulcer, site unspecified	PheWeb_2019	C1ql1	Gria3	Fgfbp3	Cd5l	Rorb	Isl1	Elfn2	Nr2c2	Adamts17	Fgd5	Glud1	Atxn2	Gja1	Slc9a9	Cryl1	Tnfsf10	Pag1
+Perforation of tympanic membrane	PheWeb_2019	Mef2c	Acsm4	C2cd3	Syk	Prim2	Ly75	Sorcs1	Aqp4	Kctd8	Sox4	Sucla2	Sfxn1	Capn6	Cdh13	Dcx	Zfp800	Kif20b
+Periapical abscess	PheWeb_2019	Cntnap2	Fancl	Celf2	Cdh6	Ptprd	Lhx4	Mat2b	Spns2	Qsox2	Suclg2	Dscam	Pde6b
+Pericarditis	PheWeb_2019	Unc13c	Dync2h1	Nebl	Rdx	Galnt2	Nrg3	Hs3st4	Dkk2	Tmprss15	Gpam	Chmp3	Nup35	Obsl1	Ada	Rsph1	Tox	Inha	Sertm1	Ttyh1	Fmn1	Jrkl	Tspan13	Rmnd5a	Sh3pxd2a
+Periodontitis (acute or chronic)	PheWeb_2019	Pdia4	Thrb	Msn	Pcdh10	Tescl	Parn	Pax1	Dpp6	Frmd5	Arhgap42	Mgat5b	Tnip3	Bhlhe40	Cntn5	Ctnna3	Bcor	Cbln4	Cdh18	Pigg
+Peripheral angiopathy in diseases classified elsewhere	PheWeb_2019	Top2b	Abcd3	Foxd2	Mef2c	Slc35f4	Sorcs1	Tbca	Tbx5	Nkain3	Olfm1	Ermp1	Dusp22	Lepr	Pcdh7
+Peripheral enthesopathies and allied syndromes	PheWeb_2019	Wwox	Mef2a	Rbfox1	Bche	Camk1d	Tmem50a	Ambn	Adprhl1	Hs3st4	Nr5a2	Tox3	Fam181b	Gbe1	Aebp2	Vsig10	Smc2	Gli3	Pts	Rptor	Sgcg	Npvf	Spock3	Zfp407	Suds3	Tbc1d14	Ppfia1	Fadd	Vps39
+Peripheral or central vertigo	PheWeb_2019	Gabbr1	Ebf1	Arap2	Mid1	Trgv7	Lrrc23	Nedd1	Olfm3	Rps29	Spsb2	Fndc1	Zc3h11a	Tusc1	Fmod	Exoc2	Pfkp	Sema3d	Cetn3	Nalcn	Arhgap6	Mat2b	Galr1	Ubd	S1pr1	Edil3	Csmd1
+Peripheral retinal degenerations	PheWeb_2019	Usp25	Rtn4	Gabbr2	Mtrr	Slc46a2	Tle1	Haus7	Bzw2	Lpar1	Pdpr	Tbc1d2	Olfm3	Nudcd3	Rasa2	Mbp	Ror1	Mcph1	Pirt
+Peritoneal adhesions (postoperative) (postinfection)	PheWeb_2019	Bod1l	Sel1l	Rassf8	Cryba4	Nbea	Sox11	Stag2	Zeb2	Spock3	Tbx20	Xkr4	Cdkl1	Epha4	Mbl2
+Peritoneal or intestinal adhesions	PheWeb_2019	Slc47a1	Irs1	Slc1a3	Prkcb	Thbs2	Tmem123	Fkbp1a	Fut9	B3galt1	Slitrk3	Col6a3	Unc79	Thsd7a	Me3
+Peritonitis and retroperitoneal infections	PheWeb_2019	Wwox	Emx2	Tapt1	Cntn6	Scaf11	Plxdc2	Mn1	Armc1	Rapgef2	Lnx1	Pmp22	Spry1	Pde9a	Epas1	Tyrp1	Akap6	Kcnv1	Egflam	Dsel	Pcdh7	Stx2	Sox6
+Personal history of allergy to medicinal agents	PheWeb_2019	Trmt10a	Tfap2c	Gucy1a2	Or2j3	Pard3b	Tgfbr3	Emcn	Spata17	Spsb1	Ccser2	Smim20	Utrn	Ttc27	Cpne5	Actl7b	Adh7	Agr3	Aox1	Plxna2	Zbed5	Ubash3b	Srgap1
+Personal history of diseases of blood and blood-forming organs	PheWeb_2019	Spag17	Cited2	Dennd4c	Rasl11b	Akap7	Nfib	Taf1c	Agbl1	Aldh1b1	Myc	Nes	Plin2	Hmx1	Clvs1
+Peyronie's disease	PheWeb_2019	Tenm3	Osbpl7	Tyw3	Usp24	Iqsec1	Crim1	Jakmip2	Pdxp	Akap13	Podxl	Aifm3	Sh3bp1	Cdc27	Myl4	Trpm8
+Phlebitis and thrombophlebitis	PheWeb_2019	Khdrbs3	Kcnk9	Cadm2	Podxl2	Tmprss15	Acaca	Mras	Pdzd2	Scn10a	Sult1e1	Stmn2	Tprg1	Phgdh	Farsb	Mcph1	Sox5
+Phlebitis and thrombophlebitis of lower extremities	PheWeb_2019	Notch2	Tnfsf18	Cadm2	Dnah8	Celf2	Cpne5	Flt4	Slc35f3	Sfswap	Galnt18	St8sia4	Ocrl	Grik2	Klhl4	Clec14a	Mrpl3	Olfm4	Pcm1	Nova1	Clnk	Fat4
+Pilonidal cyst	PheWeb_2019	Smad3	Insr	Zbtb49	Baz1b	Igfn1	Actr3b	Dok5	Bhlhe40	Mlxipl	Gpd2	Anks1b	Arl8b	Frk
+Pituitary hyperfunction	PheWeb_2019	Tpk1	Prickle1	Ap1ar	Acer3	Tbc1d1	Isg20	Sall1	Bmp2	Erbb4	Gm10053	Csmd1
+Pituitary hypofunction	PheWeb_2019	Rtp4	Ctnnb1	Insig2	Phf2	Crem	Frmd3	Slc16a14	B3galt1	Rasgef1c	Tmem108	Nol10	Mlycd	Efhd1
+Pleurisy; pleural effusion	PheWeb_2019	Prdm8	Serpinb5	St18	Camk1d	Maml2	Vps4b	Prkag2	Slc4a3	Slc5a11	Sorbs2	Eml4	Tspan32	Cacnb2	Lamp2	Wnk1	Pmp22	Man1a2
+Pneumonitis due to inhalation of food or vomitus	PheWeb_2019	Dgkh	Dpp10	Dusp6	Egln3	Wnt5b	Kcnab1	Nrep	Tet1	Foxl1	Adra1b	Pcsk6	Selenbp1	Ahi1	Htr7	Rfx5	Pi4kb	Plxna2	Lzts1	Kcnk1	Vwa8
+Poisoning by agents primarily affecting blood constituents	PheWeb_2019	Itih3	Ndufa10	Glt8d1	Itih1	Tmem125	Ebna1bp2	Spcs1	Dhx35	Cd109	Nek4
+Poisoning by analgesics, antipyretics, and antirheumatics	PheWeb_2019	Elovl5	Cacna2d1	Zbtb16	Pla2g4a	Fign	Mtmr7	Rfx7	Tex9	Dnajc11	Mns1	Abl1	Prkcq	Tspyl5	Zcchc2
+Poisoning by antibiotics	PheWeb_2019	Mgmt	Lmo3	Tmem132b	Ctps2	Diaph2	Mlph	Hand2	Il1rapl1	Ankrd66	Cntn3	Adtrp	Myzap	Tab3	Efr3a	Bbx	Perp	Magea13	Ssxb5	Polr2m
+Poisoning by hormones and synthetic substitutes	PheWeb_2019	Adipoq	Tenm1	Lama4	Prdm2	Brinp3	Yeats2	Erg	Pmfbp1	Prkcq	Snx7
+Poisoning by other anti-infectives	PheWeb_2019	Msr1	Ccz1	Klhl4	Isl1	Pou3f3	Ddb1	Uck1	Kif2a	Scgb3a2	Rapgef1	Rimbp2	Dyrk2	Nedd4l	Hk2	Gc	Ldlrap1	Me3	Mapk6
+Poisoning by primarily systemic agents	PheWeb_2019	Nufip1	Prkcsh	Lama2	Fzd7	Nrxn1	Stam	Cdyl2	Ajap1	Sbno2	Casp14	Ppp3cc	Pwwp2b	Zfpm2	Csmd1	Map2k6	Tmem106b	Prok1
+Polyarteritis nodosa and allied conditions	PheWeb_2019	Sema5a	Trpv3	Thsd4	Ehd4	Pgrmc2	Arxes1	Tspan18	Pabpc1	Agmo	Asb5	Tnfrsf25	Rgs7
+Polycystic ovaries	PheWeb_2019	Arnt2	Chrm3	Gpm6b	Myom2	Prelid2	Stard6	Lrrfip1	Tle1	Shroom3	Trps1	Fmn2	Ly96	Fam219a	Oxt	Jph1	Robo2	Msra	Adamts3	Nos1ap	Peak1	Mc4r	Stmn2	Rbm20
+Polycythemia vera	PheWeb_2019	Atp6ap2	Ndufb6	Mitf	Pdgfa	Sorcs1	Tpte	Igsf21	Sv2b	Cd9	Spata13	Fam20c
+Polymyalgia Rheumatica	PheWeb_2019	Tor1a	Kcnk10	Tor1b	Opa1	Zfp72	Tamm41	Cmc1	Usp20	Stox2
+Polyneuropathy due to drugs	PheWeb_2019	Akr1e1	Hps1	Htt	Tnfrsf22	Tet1	Hpse2	Acan	Maf	Cdh4	Zfp72	Epb41l3	Eri3	Or6a2	Ccdc141	Xkr6
+Polyneuropathy in diabetes	PheWeb_2019	Magi1	Tcf7l1	Unc5c	Il10rb	Cd180	Crim1	Dyrk1a	Lsm5	Mcc	Nell2	H2-Ab1	H2-Eb2	Rapgef5	Sec23b	Dock9	Tnc	Hrh4	Cdh2	Ptprz1
+Polyp of corpus uteri	PheWeb_2019	Slc10a2	Nrg2	Sorcs2	Slc7a11	Loxhd1	Cenpc1	Gli3	Ano2	Hrh2	Kat2b	Grm7	Ntf3	Irf8	Macrod2	Gas7	Amph	Srfbp1	Cdkn3
+Polyp of female genital organs	PheWeb_2019	Chrm3	Ankrd27	Slc10a2	Slc1a1	Trpc3	Ddhd1	Sorcs2	Papss1	Slc7a11	Vcam1	Anapc10	Pkd2	Hrh2	Kat2b	Mrpl3	Grm5	Cxcr2	Grm7	Ntf3	Macrod2	Amph	Srfbp1
+Portal hypertension	PheWeb_2019	Chrm3	Serpina1c	Cdca7	Tmem176b	Tshz3	Ncald	Zdhhc7	Bhlhe22	Cyp7b1	Prkx	Pard3b	Cep128	Tgfbr3	H2-Eb2	Pnpla3
+Postinflammatory pulmonary fibrosis	PheWeb_2019	Ctsb	Popdc3	Ldb2	Luzp2	Homer1	Ncoa5	Ankef1	Pard3	Sorcs2	Isx	Ptpre	Diaph2	Fggy	Tbc1d5	Efcab3	Hsd17b3	Ctnna2
+Postlaminectomy syndrome	PheWeb_2019	Kl	Cpt1a	Bcl11b	Ccdc136	Atp2b3	Fhit	Pds5b	Psd3	Dsel	Gpd1l	Ankrd50	Atf6
+Postmenopausal atrophic vaginitis	PheWeb_2019	Camk1d	Chodl	Klf14	Syt1	Ttc28	Cdh6	Spred2	Tsga13	Spock3	Gsc	Lrig1	Copg2	Mest	Csmd1
+Postnasal drip	PheWeb_2019	Tle4	Tenm3	Esrrg	Nrg3	Otogl	Lrpprc	Rap1a	Nova1	Ctnna2	Ascc3	Fam20a	Itga6	Csmd1	Sprn
+Postoperative infection	PheWeb_2019	Klf11	Irx1	Or10j3	Cntn6	Negr1	Ddit4l	Dnajb14	Cryba4	Pcdh19	Tox2	Hnrnpdl	Arpp21	Hnrnpd	Edil3
+Posttraumatic wound infection not elsewhere classified	PheWeb_2019	Itga1	Cpq	Nxn	Lrp1	Nxph4	Sema4f	Pcdh10	Irf2bp2	Alg14	Hdac9	Adcy8	Cdc73	Tjp1	Bcl2l11	Cdc20b	Lrfn5	Ust	Mcidas	Mvb12b	Clca1	Ppp1r21	Trib1
+Precordial pain	PheWeb_2019	Cers4	Mef2a	Trub1	Flt4	Pabpc5	Pam16l	Pogk	Fbln1	Efcab8	Coch	Golga3	Maf	Coro7	Rnf145
+Preeclampsia and eclampsia	PheWeb_2019	Hip1	Tenm1	Trav10	Mical3	Pax1	Med27	Guca1a	Tgfbr2	Mettl13	Npepl1	Rragb	Ephb1	Pmaip1	Ror1	Zfp423	Trav6d-6
+Premature beats	PheWeb_2019	N6amt1	Rbfox1	Frmpd4	Myt1l	Foxg1	Lpp	Prkca	Ank2	Cdh9	Grm2	Galns	Fras1	Nphs1	Lgsn	Spata13	Tlx1	Grap2	Dlgap2	Myoz2	Ptp4a1
+Premenstrual tension syndromes	PheWeb_2019	Cr1l	Tenm2	Anxa5	Grik4	Ptn	Slc7a11	Robo2	Diaph3	Zmiz1	Mc4r	Bend4	Mpzl1	Unc79	Kcnn3	Magea13	Plxna1	Cd209g	Slc39a8	Csmd3	Abcc1
+Primary angle-closure glaucoma	PheWeb_2019	Cntnap4	Proser2	Upf2	Atp8a2	Cyp4a30b	Ddhd1	Cwc27	Rnf144b	Spsb4	Cacnb4	Cxcl13	Cdh13	Drosha	Mgat5	Msx1	Zfp354b	Sik1
+Primary biliary cirrhosis	PheWeb_2019	H2-Eb2	Magee2	Trio	Btnl2	Cdh7	Nt5dc2	Rgs3	Scnn1g	Nt5dc3	H2-Ea	Zfy1
+Primary hypercoagulable state	PheWeb_2019	Prmt6	Cenpw	Tbc1d8b	Helt	Cd180	Sele	Atp1b1	F5	Selp	Nme7	Dok7	Actrt1	Blzf1	Maml3	Dpt	Mei4	Frmpd3	Gorab	Spag16	Clec3a	Rptor	Bbx	Fam174a	Slc38a8	Ccdc181	Slc19a2	Apol7e	Prkg1	Slc17a5
+Primary thrombocytopenia	PheWeb_2019	Thrb	Usp10	Ttc23	Cav2	Lrrc28	Tshz2	Cav1	Fbln2	Cgrrf1	Zfyve26	Dab2	Cdh12	Slc16a7	Bcl2	Ncam2	Cdkn3
+Primary/intrinsic cardiomyopathies	PheWeb_2019	Wtap	Osbpl5	Klhdc2	Rhbdd1	Cnot10	2410137M14Rik	Nemf	Sod2	Cacnb2	Qdpr	Rps29	Trib1	Faf2	Lrr1	Syne1	Cplx2	Acacb	Acat3	Ppm1h	Scin	Cdh4	Cyyr1	Agmo	Slit3	N4bp3	Caln1	Slc25a48
+Problems associated with amniotic cavity and membranes	PheWeb_2019	Sema4a	Fto	Gtf2a1l	Lhcgr	Cers6	Klf13	Ncoa7	Atf7ip2	Paqr3	Nrxn1	Rbpms	Meis2	Dmrta1	Tbc1d14	Ptgfrn	Bmp2k	Dmd	Timp2	Ror1
+Prolapse of vaginal vault after hysterectomy	PheWeb_2019	Tmem132d	Adgb	Tex10	St8sia4	Prl3d2	Fmn1	Ptprk	Foxp4	Bcl9	Cldn14	Gpd1l	Evi5l	Samd13	Tead1	Eif3b	Mcph1	Mfap3l	Trib1	Vgll4
+Prolapse of vaginal walls	PheWeb_2019	Ccnjl	Arfgef1	Cacna2d2	Dio2	Zwint	Cttnbp2nl	Dap	Lrfn5	Mapkapk3	Ppp1r42	Dock3	Cops8	Exoc3	Oca2	Ctnnd2	Dennd1a	Adarb2	Cyb561d2	Rbm15b	Hemk1	Fibcd1	Pappa	Qpct	Tmem115	Ahrr	Rad54l2	Ccser2	Foxa2	Vac14	Myom2	Lpp	Ak8	Gnai2	Grm2	Nkain2	Dcdc2c	Hacl1	Tmem38b	Mbl2	Pabpc4l
+Proliferative glomerulonephritis	PheWeb_2019	Syt3	Fam98a	Sh3pxd2b	Arhgef18	Tshz2	Rplp1	Il1rapl1	Kcnj3	Pom121l12
+Prostatitis	PheWeb_2019	Ccdc71l	Colec12	Igbp1	Irx1	Gabrg1	Frmd4b	Ccsap	Ctdspl	Akap13	Nedd1	Cpxcr1	Stim2	Col6a5	Nup35
+Protein-calorie malnutrition	PheWeb_2019	Esrrb	Fto	Eed	Mctp1	Ank	Slc6a15	Srgap1
+Prurigo and Lichen	PheWeb_2019	Magi2	Ntrk2	Lingo2	Ttc14	Crybb1	Prkce	Tarbp1	Nuak1	Azin1	Cnksr3	Arhgap10	Cd109	Cd82	Ncapg2	Mki67	Tuba3b	Brinp1	Erbb4	Plcg1	Gpc5	Moap1	Aasdhppt	Gabpa
+Psoriasis	PheWeb_2019	Ccnjl	Insr	Gabbr1	Cdsn	Hbb-y	Atp8b1	2410137M14Rik	Hs3st4	Sox11	Myo1d	Nin	Rcl1	Rbms2	Tenm3	Prune2	Jrkl	Fars2	Rxfp2	Psors1c2	Grm4	Nt5e	Slc38a8	D2hgdh	Or51b4	Mill1	Nadk	Tns3
+Psoriasis and related disorders	PheWeb_2019	Ccnjl	Insr	Rbfox3	Cdsn	Hbb-y	Cbx4	Atp8b1	2410137M14Rik	D430041D05Rik	Hs3st4	Sox11	Myo1d	Nin	Peli2	Rbms2	Tenm3	Prune2	Cacna1e	Jrkl	Fars2	Egfr	Psors1c2	Grm4	Nt5e	Epb41l3	Slc38a8	D2hgdh	Or51b4	Mill1	Nadk	Tns3
+Psoriasis vulgaris	PheWeb_2019	Ccnjl	Gabbr1	Tmco5	Cdsn	Hbb-y	2410137M14Rik	Pla2g4a	Slc39a11	Hs3st4	Sox11	Nin	Rbms2	Tenm3	Fars2	Egfr	Dtwd2	Nt5e	Sntg1	Ppfia2	Slc38a8	Tyw1	D2hgdh	Or51b4	Camk2g	Mill1	Wnt4
+Psoriatic arthropathy	PheWeb_2019	Ryr3	Pou3f1	Fam78b	Pogk	Dmp1	Tmem182	Pcdh18	Rgmb	Akap12	Kcns3	Mthfd1l	Tada1	Ocm	Usp42
+Psychogenic and somatoform disorders	PheWeb_2019	Chrna4	Chrm2	Pou3f1	Tle1	Dgkb	Txnrd2	Vrk2	Bicd1	Rora	Cdh6	Ifne	Nars2	Kcnq2	Hao2	Lzts1	Rbms3
+Psychogenic disorder	PheWeb_2019	Gria3	Prkrip1	Usp3	Igf2	Pbx1	Ifne	Mex3b	Rcl1	Herc1	Cd209d	Zc3hc1	Map3k7	Lcn11
+Ptosis of eyelid	PheWeb_2019	Irx1	Gdf15	Muc17	Desi1	Nav1	Pgd	Syn3	Qki	Rangap1	Ptprd	Cnot4	Gpd2	Frem1	Oca2	Serpina12	Aldh1l1	Tyrp1	Celf2	Lmod1	Gli3	Ikbkb	Ipo9	Zdhhc19	Psd3	Lurap1l	Nipal2
+Pulmonary collapse; interstitial and compensatory emphysema	PheWeb_2019	Nrp1	Slc25a3	Prrx1	Pdx1	Unc5d	Cryba4	Nbea	Stk3	Ptprd	Btbd3	Dmtf1	Zfp704	Dph6	Fat3	Prkd3	Klhdc10	Fgfr2
+Pulmonary embolism and infarction, acute	PheWeb_2019	Trappc3l	Bche	St6gal2	Cd83	Mrpl39	Hk1	Slc9c1	Arrb1	Tnr	Zfat	Arpp21	Dsg4	Rpl38	Rps3	Nkx6-1	Dact2
+Pulmonary heart disease	PheWeb_2019	St6gal2	Ctps2	Tspear	Tmprss15	Foxp2	Evc	Arpp21	Tmem183a	Pdxk	Tmprss7	Defb22	Crmp1	Kcna4	Lpcat1	Lpp	Adcy2	Adipor1	Spred2	Tcl1	Arrb1	Slitrk5	Tnr	Tpm1	Lrat	Zfp385b	Slc17a5
+Pulmonary insufficiency or respiratory failure following trauma and surgery	PheWeb_2019	Zfp365	Epha5	Tyrp1	Gosr2	Prdm1	Prune2	Clec14a	Smc2	Lman2	Brinp3	Fgd6	Rit2	Cdc27	Pip	Rgs22	Cntn3	Fgf13
+Pyelonephritis	PheWeb_2019	Gtf2a1l	Lhcgr	Blcap	Abca1	Rnase2b	Sirt3	Ptprf	Frg1	Col8a1	Igsf1	Bud13	Psmd13	Mug1	Rnf17	Chd1	Pts	Ric8a	Aldh1b1	Csmd3	Zfp521	Reps2
+Pyogenic arthritis	PheWeb_2019	Itgb2l	Dnah2	Gabbr2	Osbpl6	Fam43a	Bod1l	Osbpl3	Nr2f1	Ghitm	Prdm2	Rab20	Slitrk3	Nhlh2	Hsf2	Tbc1d12	Sp8	Ccdc3
+Pyogenic granuloma	PheWeb_2019	Nrp2	Dpy19l3	Itga2	Ptprm	Fmn2	Rnd3	Cdh18
+Radiotherapy	PheWeb_2019	Dgcr2	Prmt6	Nrxn1	Pcdh20	Hpcal1	Trank1	Slc7a10	Cyb5a	Dclk2	Dspp	Kcnv1	Phospho1	Cxcl12	Pde10a	Olfm4	Has2	Rnf150	Csmd3	Cdh18	Zfp521
+Rash and other nonspecific skin eruption	PheWeb_2019	Tub	Entpd3	Itga4	Plch1	Slc10a2	Lrrc28	Dclk3	Arap2	Otos	Ptpre	Palld	Rab36	Gnaz	Astn2	Ptn	Tnfaip3	Adamts5	Cmya5	Rps6ka2	Myoz2	Caln1
+Redundant prepuce and phimosis/BXO	PheWeb_2019	Kcnj6	Rbfox1	Tenm2	Cntnap2	Nubpl	Dgkb	Shisa3	Mafb	Sephs1	Dppa4	Nlrp4c	Slitrk6	Ephb1	Ripk2	Top1	Cdh18	Mcph1	Bend7
+Reflux esophagitis	PheWeb_2019	Tenm2	Dnah9	Ndufa4	Osr1	Pla2g4a	Ikzf2	Ift43	Inpp4b	Stk32a	Mat2b	Kcnmb2	Dppa2	Jarid2	Tmem45a2
+Regional enteritis	PheWeb_2019	Mef2b	Usp25	Pla2g2a	Snx20	Sumf1	Otol1	Cbfa2t2	Cyld	Xrn2	Rpusd4	Erg	Pik3c3	Cbln2	Cmpk1	N6amt1	Cntnap2	Il23r	Clstn2	Pdgfb	Nod2	Nkd1	Sall1	E2f1	Kcnj2	Opcml
+Renal dialysis	PheWeb_2019	Cbln1	Sorbs1	Cacna2d3	Esr1	Cacnb4	Diaph3	Epcam	Nagk	Slco5a1	Zfp638	Rsu1	Lpin2	Mpdz	Anapc1	Sh3gl3	Frk
+Renal failure	PheWeb_2019	Sema6c	Trim61	Zfr	Syt1	Fmo4	Pias2	Fam133b	Twsg1	Plscr4	Gpd1l	Jdp2	Bcat1	Clrn3	Rbms3	Gria2	Tenm3	Baz2a	Igsf21	Tmem71	Golim4	Mat2b	Zfp78	Orc3	Phactr3	Nxph2
+Renal failure NOS	PheWeb_2019	Pdia3	Tle4	Ntm	Lrrc7	Nmbr	Tmtc1	Pou4f1	Sulf2	Cdkal1	Efna5	Map1a	Tmie	Nmnat2	Uqcrfs1	Trp53bp1	Hivep3
+Renal sclerosis, NOS	PheWeb_2019	Hs3st3a1	Fst	Prune2	Atp10b	Ttc7b	Lipi	Mgat4b	Triml1	Hes1	Atp7a	H2-Eb2
+Respiratory abnormalities	PheWeb_2019	Acot11	Ipmk	Sorcs2	Cdyl	Rap2a	Scgb2a2	Tusc1	Atg4c	Dock4	Dgkb	Sel1l	Htr2c	Mllt3	Nkain2	Zkscan8	Agr3	Atxn7l1	Nxph1	Phactr2	Ralgds	Arl5b	Or2b6	Cacng6
+Respiratory failure	PheWeb_2019	Akap1	Susd1	Negr1	Osr1	Pcdh9	Chd7	Pappa	Lrrc7	Nav3	Ptbp3	Ttc29	Nt5c1b	Tnr	Xpo7	Asph	Rapgef2	Otx2	Slit3	Rbm47	Csmd1	Astn2
+Respiratory failure, insufficiency, arrest	PheWeb_2019	Unc5b	Negr1	Tiam1	Dmrta1	Cngb3	Rapgef2	Cntn3	Ptprs	Slc24a4	Dysf	Vldlr	Rxfp2	Fam178b	Immp2l	Lactb	Galr1	Pttg1	Tpm1	Ctnna3	Pdilt	Anks1b	Ccdc93
+Respiratory insufficiency	PheWeb_2019	Eif5b	Ino80d	Adgb	Hdgfl1	Ebf1	Zbtb16	Grip1	Bin1	Ncr1	Arl8b	Rprm	Tmem106b
+Restless legs syndrome	PheWeb_2019	Afap1	Dnttip2	Maneal	Cpped1	Gigyf1	Qdpr	Meis1	Zfp618	Gnb2	Katnal1	Pop7	Ryr3	L3mbtl4	Cacna1a	Galnt18	Ehmt1	Uroc1	Elavl2	Mis18bp1	Chst13	Mgat5
+Retention of urine	PheWeb_2019	Wwox	Rbfox1	Srrm4	Trrap	Myo9a	Rpap2	AW551984	Cnot6	Ccdc88a	Reep3	Lhpp	Tyw1	Eps15	Rps6kc1	Atoh1	Pabpc4l
+Retinal detachment with retinal defect	PheWeb_2019	Magi2	Ccdc112	Tfap2c	Kcnk13	Runx1	Hs3st4	Gdf6	Nagk	Cdc42ep3	Bud13	Prkaa2	Prokr2	Zcwpw2	Brinp2	Hsd17b3	Qsox1	Ncam2	Dleu7	Mb21d2
+Retinal detachments and defects	PheWeb_2019	Parp1	Lsamp	Ghrhr	Pex5l	Dlg2	Sox2	Sec61b	Scn1a	St3gal1	Rbms3	Dleu7
+Retinal edema	PheWeb_2019	Grxcr1	Tle4	Slc30a5	Traf1	Slc1a4	Akap6	Dcaf5	Cdh9	Mkln1	P2rx7	Ttll7	Aftph	P2rx4	Sertad2	Nt5c1b	Ccdc170	Cntn4	Phf19	Slc25a46	Rp1l1
+Retinal hemorrhage/ischemia	PheWeb_2019	Celsr1	Tnks	Kcnk15	Rfx3	Frg2f1	Enox1	Lrpap1	Gdf10	Eepd1	Kcnt2	Ptprd	Rims4	Lrrc3b	Prkg1
+Retinal vascular changes and abnomalities	PheWeb_2019	Chrm3	Pcgf5	Ehmt1	Elfn2	Crnn	Adam29	Lrfn5	Grm7	Opa1	Cnr1	Agmo	Pnpla7	Eif3e	Rapgef5
+Rhesus isoimmunization in pregnancy	PheWeb_2019	Mtrr	Gfm1	Tmem50a	Kcnj15	B3gat1	Clint1	Rhd	Ermn	Bcl2l11	Dusp10	Aldh1b1	Gpam	Syf2	Scn5a	Tusc1	Ldlrap1	Fgf12
+Rheumatic disease of the heart valves	PheWeb_2019	Rrm1	Myo7a	Nccrp1	Lrfn5	Stim1	Tmem18	Lgals9	Fat4	Slc26a7	Lef1	Myom1	Maged1	Epb42	Atp10a	Nucks1	Cacna1g	Ubr1	Cdc73	Gspt2	Spred2	Shh	Nxph1	Or52b4	Nudt13
+Rheumatoid arthritis	PheWeb_2019	Ptpru	Syt4	H2-Eb2	Tenm4	Pabpc5	Btnl2	Fmn1	Atp2b2	Foxo1	Supt3	Nlrp12	Tcl1	H2-Ab1	H2-Ea	Banf2	Alg10b	Dcp1b	Ints9
+Rheumatoid arthritis and other inflammatory polyarthropathies	PheWeb_2019	Camk1d	H2-Eb2	Negr1	Btnl2	Mitf	Naaladl2	Supt3	Tm4sf1	Arl4c	H2-Ea	Dcp1b	Ptpru	Mipep	Slc24a2	Tenm4	Abhd5	Cxxc4	Apcdd1	Kalrn	Rims3	Prtg	Lrrtm4	Ntf3	Sesn3	Spin1	Banf2
+Right bundle branch block	PheWeb_2019	Dgkg	Dcc	Mctp2	Foxf2	Foxg1	Shroom4	Prkx	Clcn7	Rybp	Smoc2	Cd109	Pmfbp1	Srgap3	Vgll2	Csmd1	Ankrd60	Trabd2b
+Rosacea	PheWeb_2019	Myo16	N6amt1	Rtp4	Susd1	Edem1	Bod1l	Trim60	Gramd4	Hs6st1	Sgcz	Cdh9	Tnfsf13b	Hcrtr2	Gcfc2	Ppp3ca	Tmem135	Ptprd	Podxl	Ago2	Mier2	Zfat	Zfp469	Ezh2	Serinc5
+Rotator cuff (capsule) sprain	PheWeb_2019	Rbfox1	Plxnc1	Rfc1	Mboat2	Ovol2	Dclk2	Eml5	Rnf144a	Setbp1	Tbc1d23	Ptprt	Dlx6	Aebp2	Ccdc85a	Frrs1l	Pknox2	Sh3d19
+Rupture of synovium	PheWeb_2019	Gm50092	Anxa13	Msi2	Dnajc15	Plaur	Best1	Fstl5	Pbx1	Qki	Rsph3b	Tfdp2	Rasgef1b	Mecom	Zmat4	Cdh11	Fth1	Zfp428	Cntn5
+Rupture of tendon, nontraumatic	PheWeb_2019	Rbfox1	Kdm4c	Trappc11	Vps13c	Unc5d	Fndc3b	Hs3st4	Mpp7	Ajap1	Ppp2r5a	Thnsl1	Dsc2	Rbm47	Dsc3	Ptpru	Tcerg1	Sel1l	Ctnnd2	Cdh9	Fstl5	Pcsk4	Zfp78	Arhgap42	Pmepa1	Ndst4	Kif21a	H2-Ob
+Sacroiliitis NEC	PheWeb_2019	Rgs18	Sema5a	Grid2	Samd4	Brinp3	Nell1	Ppp3cc	Vapa	Zfp608	Frmd4a	Zmat4	Rps6ka2
+Sarcoidosis	PheWeb_2019	Cdca7l	Vit	Aldh1l1	Frmpd2	Igsf3	Prdm16	Mybpc1	Arhgap36	Enox2	Pitpnc1	Rnf213	Tmx4	Mgat5b	Zfp280c	Cdh26	Ror2	Rps6kc1	Nfil3
+Scar conditions and fibrosis of skin	PheWeb_2019	Tle4	Mug1	Ube3a	Cdh8	Synpr	Dach2	Chst11	Adm2	Trappc12	Sbf1
+Schizophrenia and other psychotic disorders	PheWeb_2019	Epm2a	Rgs18	Acbd5	Shprh	Cadm1	Dclk3	Ncald	Grm1	Lats2	Fbxo30	Pik3r1	Bhlhe40	Sap18b	Amph	Morc1
+Schmorl's nodes	PheWeb_2019	Glt1d1	Zfp608	Gpam	Sfmbt2	Creb3l3	Rarb	Ank1	Slc25a15
+Sciatica	PheWeb_2019	Csrnp3	Zbtb17	Grik2	Acvr1c	Dcbld2	Smc2	Fermt1	Pkhd1	Zfp42	Zfat	Ulk4	Plxna2	Smyd2	Ccdc34
+Sebaceous cyst	PheWeb_2019	Sema6a	Lrrk1	Ripk4	Tfcp2l1	Negr1	Lmtk2	Erich1	Ctdspl	Fmr1nb	Klhl1	Cdh10	Grm7	Ctnna2	Il1rapl1	Plcd1	Gpc5	Qrfpr	Calm1	Hcn2
+Seborrheic dermatitis	PheWeb_2019	Osbpl8	Epha7	Bod1l	Tmem132b	Foxn3	Smarca2	Tbx5	Adamts16	Crnn	Clip2	Rab11fip2	Nkx2-3	Tmem45b
+Seborrheic keratosis	PheWeb_2019	Rbfox1	Usp8	Slc10a2	Ttc7b	Mboat1	Pgm2l1	Kif26b	P4ha3	Phf14	Rai14	Lcorl	Diras2	Mrpl39	Lyst	Ptprg	Cdh7	Nhsl1	Rims2	Mettl15	Impa2	Ndst4	Usp50	Thsd7a	Nxph2	Ctnnal1
+Secondary diabetes mellitus	PheWeb_2019	Gm11555	Setd7	Kazn	Faim2	Bicc1	Sis	Rras	Topbp1	Pik3c3	Wdfy3	Tnik	Prr12
+Secondary hyperparathyroidism (of renal origin)	PheWeb_2019	Epas1	Inpp1	Got2	Lmo3	Osbpl3	Cd180	Mrpl39	Slc39a11	Inhbb	Dcbld2	Smc2	Lrch1	Maf	Myo1b	Kcnma1	Nt5c1b	H2-Ab1	Tusc1	Pkn2	Fgfr2	Nox3
+Secondary hypothyroidism	PheWeb_2019	Tgfb1	Oxr1	Zfp462	C1galt1	Ldlrad3	Accsl	U2af1	Npas3	Med18	Qki	Actbl2	Galntl6	Cpxm2	Triml1	Dlgap1	Strn
+Secondary malignancy of bone	PheWeb_2019	Barhl2	Nckap5	Sh2d4b	Tamm41	Ptger4	Aig1	Cdh8	Qki	Rbpj	Npbwr1	Ptprz1	Mettl22	Ctnna2	Igf2bp1
+Secondary malignancy of brain/spine	PheWeb_2019	Ptpn1	Rbfox1	Smad2	Ythdf3	Zfhx3	Stx8	Atp2b1	Etv5	Pou6f2	Tnip3	Id2	Naf1	Bud13	Csnk1g3	Ddr2	Ccnj	Slc35d2	Ndnf	Jrkl	Fhit	Cdc14b	Robo1	Cdh8	Ywhaq	Cc2d2b
+Secondary malignancy of lymph nodes	PheWeb_2019	Ndrg4	Cntn6	Ddx10	Zbtb8os	Nhsl1	Ugcg	Herc2	Rassf5
+Secondary malignancy of respiratory organs	PheWeb_2019	Cap2	Acvr1	Wscd1	Adpgk	Ring1	Col11a2	Pcdh9	Etv1	Sorcs2	Otos	Pitpnc1	Ncor2	Rxrb	Mgat5	Or6b1
+Secondary malignant neoplasm of digestive systems	PheWeb_2019	Car13	Tle4	Irx5	Arap2	Tiam1	Pan3	Nr4a2	Kcnma1	Slco3a1	Rgs7bp	Cpeb4	Ryr1	Flt4	Mpv17l	Sel1l	Ntm	Aoah	Jrkl	Jakmip1	Igf1r	Npas3	Cdh8	Htatip2	Macrod2	Dmd	Slc25a24	Opcml
+Secondary malignant neoplasm of liver	PheWeb_2019	Barhl2	Xrcc4	Pld5	Ferd3l	Tmem174	Lrrc32	Gprin3	Klhl6	Anapc5	Cmklr1	Smim12
+Secondary malignant neoplasm of skin	PheWeb_2019	Amer2	Tenm3	Tenm4	Pnpla8	Irs2	Nlgn1	Necab1	Lamb1	Nfia	Prkca	Cdh6	Sgcg	Brms1l	Pmaip1
+Secondary thrombocytopenia	PheWeb_2019	Kdm4c	Slc27a1	Rpl10l	Tmem132b	Ptprm	Lpcat1	Dcaf6	Cdc73	Cdk6	Tbc1d32	Zmiz1	Has2	Tiprl	Slamf9
+Secondary/extrinsic cardiomyopathies	PheWeb_2019	Csrnp2	Shc3	Arrdc3	Loxl4	Nr2f1	Ralyl	Nos1	S1pr3	Tgm6
+Senile cataract	PheWeb_2019	Cast	Rexo1	Angpt1	Slc11a1	Tmem132c	Prkce	Tmem132b	Tnni3k	Arid1b	Htr5a	Ptprc	Capn13	Pnkd	Ppm1d	Ptprd	Tox	Mon1b	Pcsk1	Htr2c	Sestd1	Cdh5	Nars2	Macrod2	Igf2bp1	Gpc5	Bcas3
+Senile osteoporosis	PheWeb_2019	Wsb1	Maob	Zfy1	Sorcs1	Sulf1	Manea	Anln	Efnb2	Asic5	Dab2	Slco5a1	Mc4r	Slit2	Plxna2
+Sensorineural hearing loss	PheWeb_2019	Kcnf1	Kdm8	Khdrbs3	Mettl4	Sox14	Htr1a	Tmtc1	Ttc7b	Grpr	Slc30a10	Stk24	Tmem18	Grm8	Agbl1	Tbc1d8	Tcerg1l	Il1rapl1	Pmp22	Triml1
+Separation of retinal layers	PheWeb_2019	Anapc16	Celsr1	Ascc1	Stac	Intu	Ighv15-2	Fermt1	Sh3pxd2a	Spock2	Wac	Fat4	Pappa2	Chst3	Sox6
+Sepsis	PheWeb_2019	Smox	Sulf2	BC034090	Rcan1	Vps41	Cdh10	Col5a1	Prkar1b	Lgmn	Ints7	Stxbp1	Zcchc8	Zfp369	Coil	Shh	Igf2bp1	Pim1	Txndc2	Slc25a23	Prkg2	Pou5f1
+Sepsis and SIRS	PheWeb_2019	Cadm2	Smox	Cacna2d3	Sulf2	BC034090	Ercc4	Cdh10	Col5a1	Prkar1b	Rgs7bp	Triml1	Ints7	Zfpm2	Stxbp1	Tenm2	Zcchc8	Ascl4	Coil	Rsrc2	Pim1	Kntc1	Adamts9	Slc25a23	Asic2	Pou5f1
+Septic shock	PheWeb_2019	Eif2b5	Ccz1	Cyp4f18	Chd8	Siah2	Arhgap17	Nid2	Eml4	Golim4	Thsd4	Arhgap23	Lmbrd1	Gas1	Perp	Rnf19a	Ccdc171	Hif1an	Bdp1	Ptgdr	Habp2
+Septicemia	PheWeb_2019	Crebbp	Irx3	Poln	Ebf2	Nfatc1	Diaph2	Nr4a2	Rufy1	Hnrnph1	Rell1	Cntn5	Mcph1	Cacnb1	Kcnk5	Gabrb1	Prcc	Ubxn2b	Nrxn3	Slc8a2	Fam110b	Scaper	Slc25a23
+Sexual and gender identity disorders	PheWeb_2019	Auts2	Grid2	Ndufa4	Or5as1	Armc9	Terf1	Ank2	Arhgap26	Pgm2l1	Ptprd	Fancd2	Ccdc171	Or4c121	H2-Eb2	Hs3st3a1	Tenm2	Eci3	Or5i1	Or10ag55-ps1	Ccnc	Slc40a1	Or8w1	Kcnmb2	Stk39	Psmd1	Nt5m	Syndig1	Zpld1	Or5d16	Trp63
+Sexually transmitted infections (not HIV or hepatitis)	PheWeb_2019	Kdm4c	Gata3	Inpp4b	Hlx	Ppfibp2	Neto1	Galntl6	Hnrnpa1	Rimbp2	Brd7	Uggt2	Fgfr2	Kcng1
+Shortness of breath	PheWeb_2019	Napb	Snd1	Mctp1	Eya1	Ptprt	Rfc5	Ksr2	Stxbp5	Tmem178b	Il21r	Lrrc4	Efcab8	Cdh8	Sgcg	Suclg2	Rhou	Csmd1
+Sialoadenitis	PheWeb_2019	Dmrt2	Mettl4	Osr1	Htr1b	Vrk1	Zfp804a	Pdcl3	Cpe	Camk4	Mtpn	Ptgfr	Myt1l	Ccdc169	Mrpl39	Lypd5	Erbb4	Llph	Sohlh2	Sv2b	Btbd3	Slc16a7
+Sicca syndrome	PheWeb_2019	Tenm2	Agtpbp1	Map3k1	Tcerg1	Osbpl5	Adam12	Chat	Vps13b	Gadl1	Kazn	Ppcdc	Otol1	Safb	Gpr151	Cdh12	Plxnb2
+Sinoatrial node dysfunction (Bradycardia)	PheWeb_2019	Cited2	Slc12a1	Txnl1	Mast2	Twist2	Pik3r3	Tmem64	Vrk2	F3	Ajap1	Primpol	Tbx4	Zbtb20	Fam131c	Mybphl	Casp3	Kcnn2	Phactr3	Lzts1	Bcat1	Tbc1d10b
+Skin cancer	PheWeb_2019	Rbfox1	Ncoa6	Kcnip4	Uqcc1	Ddt	Nrg3	Def8	Tyr	Trpc4ap	Dbndd1	Bmp2	Irf4	Ust	Itga11	Cdk10	Tax1bp1	Chmp4b	Dpep1	Exoc1	Arl4a	Exoc2	Gas8	Dgkg	Zfp276	Prdm9	Rpl13	Cpne7	Dhrs7b	Fscb	Spg7	Atoh8	Nfs1	Cdh4	Hsd17b2	Nup85	Kif5b	Mpz	St3gal5	Lzts1	Ncam2	Jazf1	Cytip	Raly	Myh7b	Vps9d1	Zfp341	Edem2	Paqr3	Fanca	Pard3	Gdf5	Cbfa2t3	Itch	Spata2l	Cbfa2t2	Bpifb1	Bpifb3	Mc1r	Plcb4	Bpifb2	Bpifb6	Dynlrb1	Nox4	Spire2	Mageb4	Camk1g	Fgfr2	Myom2	Pigu	Slc45a2	a	Clstn1	Tcf25	Mmp24	Bpifa2	Chmp1a	Ankrd11	Cdk5rap1	Snta1
+Skull and face fracture and other intercranial injury	PheWeb_2019	Emx2	Akr1e1	Edem1	Irx4	Cradd	Iqcj	Ahsa1	Cnksr3	Maf	Etl4	Myo1f	Tiam2	Dok6	Adck1	Col6a2	Camk4	Ror2	Daam1	Tmem63c	Kcna1	Psca	Nr2e1	Lpp	Ism2	Foxo3	Scaf8	Snx3	Sptlc2	Basp1	Lrrtm4	Alkbh1	Uqcrfs1
+Sleep apnea	PheWeb_2019	Car10	Ythdf3	Elovl6	Lmo4	Macc1	Dicer1	Ddhd1	Sdk1	Pah	Vsnl1	Nox4	Cdh19	Epha4	Ankrd13c	St6galnac3	Smc6	Adamts12	Elk4	Nkain3	Cux1	Clmn	Lrig2	Clvs1
+Sleep disorders	PheWeb_2019	Shc3	Syt4	Zfp462	Car10	Pou3f1	Rnf13	Col25a1	Cby3	Shroom3	Six1	Adamts12	Foxp1	Lman1	Ppm1a	Six6	Adamts18	Tmem200a	Ankub1	Ccdc3	Tnik	Cdh19
+Sleep related movement disorders	PheWeb_2019	L3mbtl4	Galnt18	Afap1	B3galt5	Ehmt1	Maneal	Mgst1	Nr3c2	Elavl2	Cpped1	Ehbp1	Meis1	Chst13	Kcnmb2	Katnal1	Mgat5	Dgki
+Solitary pulmonary nodule	PheWeb_2019	Map3k2	Slc37a2	Arl15	Dmrt2	Slc10a2	Ccdc15	Gkn2	Zfp804a	Fance	Ercc3	Snx16	Rgs18	Wdr1	Hepacam	Bmp10	Tnks	Cacna1e	Ccnc	Actg2	Brinp3	Satl1	Dmd	Tram1l1	Rab6b
+Somatoform disorder	PheWeb_2019	Scara3	Kcnd3	Nubpl	Smox	Vrk2	Adra1d	Cttnbp2nl	Ttc39b	Cdh6	Cyyr1	Slit2	Adamts9	Csmd1
+Spasm of muscle	PheWeb_2019	St8sia1	Kcna1	Rbm19	Ninj2	Atp2b4	Atp6v1f	Csmd3	Ccdc50
+Spinal cord injury without evidence of spinal bone injury	PheWeb_2019	Fbxw7	Vps13c	Nav3	Serpinb9c	Dguok	Cdh4	Apba2	Suclg1	Csmd1	Rgs7	Lrrc4c	Plcb1
+Spinal stenosis	PheWeb_2019	Epha5	Kcnj6	Cpt1a	Gfpt1	Ttc7b	Foxn3	Bicc1	Mtap	Triml1	Aak1	Bmp2k	Lef1	Nfat5	Dnah8	Celf4	Tcp10c	Celf5	Txn1	Grik2	Ncmap	Clec18a	Dock10	Akt3	Cdk20	Nfu1	Mlec	Klrg2	Tshb
+Spinal stenosis of lumbar region	PheWeb_2019	Il33	Klf12	Cpt1a	Wnt5b	Hunk	Bicc1	Sod1	Aak1	Bmp2k	Luc7l2	Tenm4	Slc1a3	Txn1	Adra1b	Clec18a	Glra1	Hsph1	Nkain2	Prex2	Zcwpw2	Stk32a	Podxl	Grm7	Piezo2	Il12b	Klrg2
+Splenomegaly	PheWeb_2019	Gen1	Lrba	Mov10	St7l	Kcns3	Col4a5	Clrn1	Capza1b	Col4a6	Rimbp2	Hhipl1	Barhl2	Mctp2	Pcdh10	Sel1l	Smc6	Cdh9	Zmpste24	Ccdc85c	Sh3bp4	Rspo3	Lrig1	Tac1
+Spondylolisthesis, congenital	PheWeb_2019	Spsb1	Dmrta1	Gpc1	Prep	Slc25a33	Anks1b	Hs3st5	Otos	Slc12a8	Cep128
+Spondylosis and allied disorders	PheWeb_2019	Hace1	Hip1	Robo3	Trpc6	Txn1	Dtnbp1	Fndc3b	Metrnl	Tmc7	Elavl2	Coq7	Farp1	Ska3	Atrn	Slitrk4	Tlx1	Ptk2b	Frem2	Asic2
+Spondylosis with myelopathy	PheWeb_2019	Chrm3	Xlr5b	Pde1c	Irx5	Prkce	Erbb4	Bcl6	Insc	Ackr3	Ctnna3	Erc2	Tll1	Tram1l1
+Spondylosis without myelopathy	PheWeb_2019	Robo3	Ddc	Bbox1	Txn1	Dtnbp1	Kazn	Tmc7	Coq7	Ska3	Atrn	Fer	Tlx1	Zfp280d	Nmur2	Grb10	Asic2
+Spontaneous ecchymoses	PheWeb_2019	Tenm2	Acoxl	Ankrd28	Lrriq3	Pde1c	Zbtb14	Trps1	Thsd7b	Zbtb7c
+Sprains and strains	PheWeb_2019	Wwox	Igsf9	Dcc	Mpp4	Nckap5	Sema6a	Adcy1	Maoa	Ndufb4	Zbtb16	Ube3a	Commd1	Fstl1	Kazn	Sorbs2	Arhgap10	Grin2b	Arxes1	Spock3	Bms1
+Sprains and strains of back and neck	PheWeb_2019	Gbp6	Spata6l	Intu	Hnf4g	Nenf	Fhit	Tank	Adamtsl1	Dusp10	Dpysl3	Crispld1	Cep41	Itgb8	Lrrc8b	Spry2	Tead4
+Squamous cell carcinoma	PheWeb_2019	Hs3st1	Nop58	Zfp263	Kcnd3	Fanca	Arhgap28	Gp1ba	Themis	Myt1	Def8	Dbndd1	Eepd1	Olfm1	Mc1r	Xpnpep1	Irf4	Nova1	Clec4n	Arl4a	Dgkb	Pcdh11x	Cpne7	Ube3a	Grik2	Spg7	Adarb2	Fntb	Sumo1
+Staphylococcus infections	PheWeb_2019	H2-Eb2	Cttnbp2	Tpk1	Ntm	Hnrnpu	Cdkal1	Oasl1	Ssh1	Ano4	Dao	Pfkl	Ube2u	Topaz1	Fam3c	Rbm10	Rgn	Mcph1	Scarb1
+Stomatitis and mucositis	PheWeb_2019	Hs3st3a1	Syna	Gria1	Pigr	Nap1l2	Pbld1	Sh3rf2	Acvr2a	Sez6l	Atoh7	Syncrip	Zdhhc19	Elmo1	Pcbp3	Agmo	Iglon5	Prkcq	Smim13	Rev3l
+Strabismus (not specified as paralytic)	PheWeb_2019	Hs3st1	Hdac4	Adcy1	Idua	Ksr2	Axdnd1	Mn1	Diaph3	Igdcc3	Sfxn5	Tbc1d13	Csmd3	Pcdh1	Rbpms2
+Strabismus and other disorders of binocular eye movements	PheWeb_2019	Zfp78	Adcy1	Camkk1	Axdnd1	Fstl5	Mrpl33	Rbks	Mat2b	Adamts2	Csmd3	Zswim6	Rbpms2
+Stress fracture	PheWeb_2019	Zfp78	Frmpd1	Fto	Gabrb3	Or1b1	Rdx	Ptger3	Sel1l	Atp10a	Foxn3	Otol1	Golim4	Inpp4b	Ptprd	Cux2	Atg4c	Dcaf10	Habp2
+Stricture and stenosis of esophagus	PheWeb_2019	Ripk4	Ift140	Vegfc	Gem	Dab1	Iglc3	Slco4a1	Hecw2	Slco3a1	Ankrd44	Spry2	Tnik	Telo2	Clrn3	Actl7b	Ntm	Oma1	Araf	Snx10	Loxl2	Fam171a1	Tmem204	Pcdh7	Nxph2
+Stricture of artery	PheWeb_2019	Atad1	Foxd3	Khdrbs3	Ldlrad3	Unc5d	Clint1	Mpp7	Cdh9	Prss55	Slitrk1	Nucb1	Bud13
+Stricture/obstruction of ureter	PheWeb_2019	Unc13c	Kcnd2	Api5	Il5ra	Esrrg	Lysmd4	Efcab8	Ttc39b	Dclk1	Sun5	Ddost	Efr3a	Sohlh2	Pofut2	Pmaip1	B4galnt4
+Subarachnoid hemorrhage	PheWeb_2019	Grm5	Lhx2	Nosip	Prl3d2	Slc17a7	Fstl1	Ghitm	Itgb8	Bcat1	Aldh16a1
+Subdural hemorrhage	PheWeb_2019	Cubn	Dzank1	Nat1	Dscam
+Subjective visual disturbances	PheWeb_2019	Rbfox1	Cdc7	Smug1	Prpf8	Asb7	Asb3	Astn2	Ascl5	Nrep	Atp12a	Rxfp2	Elfn1	Stk3	Mtrf1	Npvf	Erlec1	Stxbp6	Dmd	Hmgn3	St3gal4
+Substance addiction and disorders	PheWeb_2019	Eif2b5	Epha5	Itga5	Dnah17	Tmem132c	Klhl29	Mid1ip1	Gab1	Fndc3b	Htr3a	Maf	Minpp1	Tjp1	Pde10a	Slc9a6	Xpnpep1	Nat1	Kctd12	Rtn4	Dennd1b	Frmpd3	Slc1a3	Ube3a	Twist1	Slc7a2	Phtf2	Rsbn1l
+Suicidal ideation	PheWeb_2019	Zfp365	Xbp1	Ccdc117	Trrap	Crbn	Smurf1	Lgals3bp	Pitpnb	Pik3cd	Trappc9	Loxl2	Ttc28	Znrf3	Ubl3	Chek2	Pdgfd	Ephb1	Nxph2	Sh3gl3
+Suicidal ideation or attempt	PheWeb_2019	Zfp365	Xbp1	Ccdc117	Smurf1	Tmem132c	Slc39a11	Trappc9	Pex2	Fas	Lypd6b	Cebpb	Trrap	Pik3cd	Loxl2	Ptprg	Iyd	Znrf3	Rasgef1b	Ubl3	Chek2	Slit1	Nxph2
+Superficial cellulitis and abscess	PheWeb_2019	N6amt1	Sema5a	Osr1	Tshz3	Pctp	Rhog	Sorcs1	Esr1	Ush2a	Nkd2	Il17a	Rgs6	Hyal5	Mzt2	Hand2	Bcl2	Spry2
+Suppurative and unspecified otitis media	PheWeb_2019	Tpte	St8sia1	Tsc22d1	Oprm1	Ipcef1	Hs3st4	Sumf1	Rgmb	Tpcn2	Mia2	Gprin3	Gnpda1	Pgr	Ahcyl1	Ryr3	Mtmr12	Maoa	Efna5	Ctso	Erbb4	Pcdh7	Pknox2	Zfp521	Rbpms2
+Supraventricular premature beats	PheWeb_2019	Mak16	Fut10	Phlda1	Phkb	Serpina5	Itfg1	Tti2	Clec3a	Dnaja2	Rfpl4b	Foxr1	Dok5	Neto2	Kcns3	Dlgap2	Nxph1	Jarid2	Tac1
+Swelling of limb	PheWeb_2019	Fto	Arhgap8	Foxd3	Epha7	Or2f2	Pabpc5	Nrg1	Kalrn	Mipol1	Mc2r	Prpf8	Fubp3	Scaper	Slc12a8
+Swelling, mass, or lump in head and neck [Space-occupying lesion, intracranial NOS]	PheWeb_2019	Cers4	Dpp10	Tenm4	Frmpd4	Muc17	Stxbp5l	Rps27l	Begain	Sec14l1	Dok5	Frg1	Lactb	Fam110c	Vma21	Ceacam15	Lhx5
+Symbolic dysfunction	PheWeb_2019	Msr1	Fancl	Lrriq3	Stxbp5	Usp13	Tbc1d9	Trpv2	Nr4a2	Stim2	Tusc1	Camk1g
+Symptomatic menopause	PheWeb_2019	Lgi1	Kirrel3	Rbm19	Slc6a15	Cdkal1	Lsm5	Eepd1	Psma6	Nfkbia	P2rx6	Nfasc	Nlrp12	Aldh1a3	Vstm2l	Asb7	Spry2	Arhgef3	Lhx5	Rbms3	Avl9	Zfp474	Or5ar1	Prkag2	Or5m10b	Erbb4	Pdzd2	Cdh22	Or5ap2	Atp9b
+Symptoms affecting skin	PheWeb_2019	Tpra1	Hs3st1	Kcnk9	Ube2e3	Ngf	Lpin1	Zmiz1	Aldh1a2	Mrc2	Il1rapl1	Thsd7b	Trib2	Tbc1d19	Utrn	Sox6
+Symptoms and disorders of the joints	PheWeb_2019	Rbfox2	Wdr1	Mug1	Mcf2	Mcm10	Zfp518b	Atp11c	Sord	Tle6	Irak1bp1	Kcnma1	Smyd3	Ffar4	Capn2	Ulk1	Adamts9	Hmx1	Cdh18	Grid2ip	Matn4	Cox10
+Symptoms involving cardiovascular system	PheWeb_2019	Cd96	Zfp330	Zfp770	Tmem132b	Ptn	Pou2af1	Gramd4	Tiam1	Aff3	Prss55	Rnf144b	Dmrta1	Cdh13	Dph6	Gpc5	Cd47
+Symptoms involving digestive system	PheWeb_2019	Mkks	Tle4	Atp8b4	Manba	Sun1	Grid2	Nfam1	Eif2ak4	Htr1a	Smarca2	Il7	Abhd17b	Bdh1	Rbm41	Cdh18	Cpm	Rnf122	Fut10	Fut9	Hhat	Stmn2	Camta1	Gm5150	Smyd3	Phactr3	Get4	Rbm33	Zfp385b
+Symptoms involving female genital tract	PheWeb_2019	Hs3st3b1	Insr	Nav2	Spata32	Arhgap27	Smad6	Mia2	Cacnb4	Cd48	Myrf	Seh1l	Wdr1	Fhod3	Prep	Ets1	Tmem163	Caap1	Elavl2	Klhl32	Antxr1	Vps53	Hivep3	Cep192	Lonrf1
+Symptoms involving head and neck	PheWeb_2019	Asb7	Erc2	Muc4	Tinag	Caln1
+Symptoms of the muscles	PheWeb_2019	Anxa2	Dnah11	Nfkbil1	Atg10	Ttc39b	Nr5a2	Diaph3	Ddx39b	Sypl1	Ube2u	Ltb	Lta	Ssbp2	Mad2l1	Pom121l12	Nrp1	Ahctf1	Ccnk	Tdrp	Tnf	Aif1	Rgs3	Stk32a	Zkscan8	Ccdc85c	Cacna1s	Mark1	Phactr3	Or2b6
+Syncope and collapse	PheWeb_2019	Afap1l2	Plcl2	Actn1	Olig3	Rpa1	Arid1b	Foxn2	Clec4e	Slco3a1	Ccdc171	Tchhl1	Pex11g	Vstm2a	Pfkp	Pfkfb3	Tomm40	Gbe1	Tchh	Ndrg2	Ptprg	Robo1	Rptn	Zfp608	Erc1	Dact2
+Synoviopathy	PheWeb_2019	Lef1	Rbfox1	Slc24a2	Tenm2	Focad	Smox	Gsx1	Slc22a2	Fmn2	Scaf8	Grm7	Antxrl	Epha3
+Synovitis and tenosynovitis	PheWeb_2019	Trim61	Zer1	Emx2	Eomes	Trim62	Stx8	Atp2b2	Sorcs1	Otol1	Nell2	Ttc6	Cnot4	Map1b	Lnx1	Ptpn3	Ptpru	Nup205	Ikzf2	Mki67	Cep128	Arhgap5	Efnb1
+Systemic lupus erythematosus	PheWeb_2019	Arnt2	Unc13c	Dyrk1b	Msh2	Nbea	Med13l	Pbx1	Rybp	Cryl1	Jdp2	Fto	Ptprt	Nedd9	Nppc	Dpp6	Mug1	Taf1b	Nxph1	Smim13
+Systemic sclerosis	PheWeb_2019	Gpr39	Ptprd	Cited2	Slc10a2	Gpr45	Hydin	Trps1	Pik3c3	Osbpl10	Klhl32
+Tachycardia NOS	PheWeb_2019	Svil	Helz	Qdpr	Tmem212	Rap2b	Simc1	Spry2	Klkb1	Xkr4	Epha3	Kcnk5	Btg3	Rasef	Nudt7	Mylk4	Sox4	Brinp3	Rap1a	Pdzd2	Scn9a	Sh3pxd2a	Xdh	Mbp	Phactr1	Csmd1	Zfp521
+Temporomandibular joint disorders	PheWeb_2019	Lingo2	Zfp462	Cd72	Gzmc	Chrna7	Mitf	Ldlrad4	Slc4a2	Iqgap2	Arfgap3	Tmem17	Dach2	Dnajc1	Meis1	Spock3	Ostc	B3gnt2	Lims1	Abcc1	Fibin
+Tension headache	PheWeb_2019	Ntng2	Atp6v1a	Galnt12	Car10	Dst	Sulf2	Mob3b	Nudt12	Helz2	Sntb1	Nfib	Atg2a	Fetub	Tmem38b
+Testicular dysfunction	PheWeb_2019	Myt1l	Maml2	Ncam1	Clstn2	Nr1h4	Aoah	Clta	Lrrc7	Esrrg	Golim4	Rgmb	Sall1	Fabp6	Grm7	Zfp706	Nxph1	Thsd7a	Bend7
+Testicular hypofunction	PheWeb_2019	Wwox	Myt1l	Maml2	Ncam1	Clta	Lrrc7	Lsm6	Golim4	Rgmb	Sall1	Apc	Fabp6	Grm7	Zfp706	Nxph1	Thsd7a	Lrig3	Bend7
+Thoracic or lumbosacral neuritis or radiculitis, unspecified	PheWeb_2019	Ndfip1	Cpt1a	Abcc8	Tslp	Bmp4	Cnot6	Mgat4c	Gcm1	Trib1	Arhgap8	Khdrbs3	Ddc	Ptprt	Ctnnd2	Ikzf1	Myrfl	Dock10	Dstyk	Akt3	Adamts18	Fignl1	Hydin	Pcdh7	Cpne4
+Throat pain	PheWeb_2019	Sema6a	Foxg1	Egfr	Grik1	Prdm10	Smarca5	Lrrtm4	Gse1	Rims1	Camta1	Scn5a	Ostf1	Lcp2
+Thrombocytopenia	PheWeb_2019	Ccdc71l	Tenm2	Klf13	Hdgfl1	Kcna1	Rfc3	Cdca7	Nrxn3	Dyrk1a	Sgcz	Dclk1	Efnb2	Glra3	Ptprc	Dock10	Dph6	Bcas1
+Thyroid cancer	PheWeb_2019	Tgfb1	Rbfox1	Cpa2	Kcnip4	Sh2d1a	Tmem132c	Nrg1	Lhfpl3	Prkca	Med27	Tbx3	Stag2	Mybbp1a	Ptprd	Scnn1b	Spns2	Triml1	Fmr1	Foxe1	Zbtb44	Xpa	Pcsk5	Cdh8	Rpain	Pkhd1	Tspan9	Cdh2	Tert	C1qbp	Zfp648	Mbl2	Adamts8
+Thyrotoxicosis with or without goiter	PheWeb_2019	Egfl6	Magi2	Wwox	Gadd45a	Cav1	Cyp4a30b	Ajap1	Olfm3	Capza2	Slc25a30	Nhlrc3	Frem2	Dnah5	Hdgfl1	Abhd5	Col11a2	Ldlrad3	Nalcn	Trim9	Adamts16	Fut9	Tmem47	Trdv2-2	Csmd1
+Tinnitus	PheWeb_2019	Hs3st3a1	Moxd1	Trpc6	Sec23a	Itpr2	Clec16a	Arhgef10l	Cdh9	Mtmr7	Tmc3	Adcyap1	Cacnb2	Agbl1	Emilin2	Map3k7	Ciita
+Tobacco use disorder	PheWeb_2019	Klf12	Tpte	Kcnj10	Slc36a3	Bcl11a	Ly86	Mafb	Lrp1b	Frmd5	Kif26b	Cdh13	Ccser2	Cngb1	Ttbk1	Celf2	Rplp1	Atxn7l3b	Slc4a3	Slc7a11	Trhde	Cdh6	Sv2c	Cd38
+Torsion dystonia	PheWeb_2019	Kcnj5	Usp28	Slc10a2	Tmprss5	Htr3b	Crim1	Cdkal1	Klhl30	Mtmr7	Slc9a3	Arhgap32	Akt3	Aldh1a2	Tmem229a	Sdccag8	Trib1
+Torticollis	PheWeb_2019	Mid1ip1	Kcna4	Sppl2a	Ap4e1	Aebp2	Tspan11	Msra	Or5v1b	Dsel	Usp50	Pkn2	Tnfaip8l3	Trpm7	Mphosph6
+Toxic multinodular goiter	PheWeb_2019	Cdrt4	Dnah5	Ntrk3	Dusp4	Hpgd	Tvp23b	Lipc	Grin2b	Cdh2	Or10v1	Dnajc6	Patz1
+Transient alteration of awareness	PheWeb_2019	Gucy2f	Tenm3	Heph	Bbx	Spock1	Hao2	Vsig4	Eda2r
+Transient cerebral ischemia	PheWeb_2019	Itga1	Wscd2	Itga2	Tmem40	Zdhhc11	Hnf1b	Kif6	Lrfn3	Sdk2	Myo1b	Dennd4a	Fgf12	Ptpn3	Npffr2	Tmem161b	Tmem63c	Cox18	Cdh9	Tsen2	Laptm4b	Tcl1b3	Dpp8	Psd3	Macrod2	Lonrf1
+Traumatic amputation	PheWeb_2019	Bmp3	Celf2	Mgat5b	Psd4	Vegfc	Nmbr	Ppp2r2a
+Traumatic arthropathy	PheWeb_2019	Egln3	Heg1	Unc5a	Pnma3	Dhrs2	Mipol1	Il7	Cdh10	Hand2	Amph	Tenm1	Gpm6b	N6amt1	Cox7c	Mrpl39	Kcna5	Phex	Rims2	Nlrp3	Magea13
+Tuberculosis	PheWeb_2019	Proser2	Pcdh9	Htr1a	Eml1	Bicc1	Ppp1r9a	Fstl5	Slitrk5	Etnk1	Rell1	Gpc5	Mbp	Mcph1	Tspyl5	Prkg1
+Type 1 diabetes	PheWeb_2019	Cdrt4	Prrt1	Car10	Fkbpl	Hspa1l	Btnl2	Smarca2	Ass1	Ddx39b	Gpank1	Msh5	Abi2	H2-Ab1	H2-Ea	Hspa1b	Sync	Vwa7	Gpsm3	Slc44a4	Tnxb	Atf6b	Atf7ip2	Tusc3	Tnf	Agpat1	Rnf5	Slc22a16	Neu1	Rnf19a	Jam2	Ly6g6c	Ly6g6f	Mill1	Clic1	Atp6v1g2	H2-Eb2	Zfr	2410137M14Rik	Lsm2	Tvp23b	Prrc2a	Pou5f1	Pbx2	Ddah2	Csnk2b	Cyp21a1	Kcnma1	Ppt2	Ly6g5b	Ly6g5c	Muc21	Zfp697	Itgb2l	Mtmr12	Stk19	Raph1	Ager	Aif1	Trhde	C2	Apom	Bag6	Abhd16a	Rps6ka3	Ralgps2
+Type 1 diabetes with neurological manifestations	PheWeb_2019	Sgip1	Btnl2	2410137M14Rik	Cdh12	H2-Ab1	H2-Ea	Ppt2	Met	Tff2	Gmnc	Rsph1	H2-Eb2	Tnxb	Atf6b	Pld5	Stk19	Phex	Nudt12	Capzb	Rnf19a	Gcnt3	Jam2	Mill1	Fam81a
+Type 1 diabetes with ophthalmic manifestations	PheWeb_2019	Insr	Lingo2	Foxd3	H2-Eb2	Smarca1	Defa5	Btnl2	2410137M14Rik	Sorcs3	Tjp2	Armc1	H2-Ab1	H2-Ea	Or4c121	Nfe2l3	Galnt14	Tnxb	Gcnt2	Phex	Cdh6	Neurod6	Ermardl1	Gcnt3	Slc38a4	Mill1
+Type 1 diabetes with renal manifestations	PheWeb_2019	Prrt1	Rbfox1	Kcnip1	Cav3	Hspa1l	Kcnip4	Btnl2	Msh5	H2-Ab1	H2-Ea	Hspa1b	Vwa7	Slc44a4	Tnxb	Atf6b	Clec14a	Neu1	Ccr8	Ly6g6c	H2-Ob	Ly6g6f	Mill1	Clic1	C1ql1	Lsm2	Nsmce1	2410137M14Rik	Prrc2a	Ddah2	Csnk2b	Ppt2	Rad18	Met	Dynlrb2	H2-Eb2	Palm3	Cx3cr1	Stk19	C2	Phex	Nudt12	Apom	Bag6	Abhd16a	Gcnt3	Fam81a	Corin
+Type 2 diabetes	PheWeb_2019	Hace1	Tcf7l2	St13	Gca	Cd180	Frmd4b	Hipk2	Ank2	Cdkal1	Mertk	Rab31	Jmy	Xpnpep3	Ninj2	H2-Ea	Zfp536	Otc	Dnah5	Fto	Gypa	Fastkd2	Adam23	Aebp2	Slc4a3	Glis1	Hs6st3	Vps53	Slitrk6	Ncam2	Ccdc73
+Type 2 diabetes with ketoacidosis	PheWeb_2019	Dnmbp	Phf20	Myt1l	Spry1	Slc8a1	Stx11
+Type 2 diabetes with neurological manifestations	PheWeb_2019	Kcnd1	Slc13a5	Lrrc28	Tpk1	Ano9	Cd180	Acyp2	Hipk2	Syn3	Pola2	Ptprd	Tbxas1	Bud13	St6galnac5	Skap2	Rapgef5	Rnh1	Phrf1	Ptdss2	Gcnt3	Pcdh7	Hoxa1
+Type 2 diabetes with ophthalmic manifestations	PheWeb_2019	Pou1f1	Cgn	Suco	Dyrk1a	Wdr11	Klhl1	Eepd1	Ptprd	Dab1	Stim2	H2-Ab1	Enthd1	Gas7	H2-Eb2	Nrxn1	Tomm20	Adamts17	Psap	Cmya5	Cwc22rt7	Zfp507	Lrrc8d	Tbc1d13	St3gal1	Cyb5r1
+Ulcer of esophagus	PheWeb_2019	Dnah11	Mybpc3	Fam78b	Hdac2	Lancl2	Egfr	Epx	Nup160	Rtel1	Npas3	Trpm3	Sipa1l1	Klf6	Agbl2	Ndn	Spata13	Vopp1	Slc26a7	Zfp354c
+Ulceration of intestine	PheWeb_2019	Ccdc178	Dpp10	Mmp7	Cd84	Rrm1	Lmtk3	Lsamp	Ctps2	Sgcg	Kbtbd6	Cxcl13	Nat1	Pnpla7	Cd47	Apba3	Qser1	Dleu7
+Ulcerative colitis (chronic)	PheWeb_2019	Ccdc39	Rbfox1	Nfkbil1	Lsamp	Slc16a12	Ank1	Ddx39b	B3gnt5	Glcci1	Eef1e1	Creb5	Kdm5c	St6galnac3	Diras2	Cacna1e	Ica1	Spag16	Nps
+Umbilical hernia	PheWeb_2019	Kcnd2	Ttc14	Arl15	Tpbg	Nr4a3	Nfib	Gdnf	Cdh11	Fshr	Spry2	Fra10ac1	Atp6v1d	Tenm3	Tenm4	Qprt	Ucma	Il5ra	Mcm10	Tgfa	Cdh9	Spn	Wdr70	Bcas1	Slc25a24
+Unequal leg length (acquired)	PheWeb_2019	Tle4	Dcc	Or2d2	Rpap3	Tgfbr3	Or2ag13	Col4a2	Zfp72	Pced1b	Tmem218	Cmpk2	Gm6133	Igfbp7	Or10a2	Or6a2	Or10a4	Prkg1
+Unspecified diffuse connective tissue disease	PheWeb_2019	Sema3e	Bod1	Fhl2	Pappa	Pard3	Kbtbd12	Cacna1h	Rnf144b	Cdh4	Ppa2	Ep400	Rgs12
+Unspecified disorder of lipoid metabolism	PheWeb_2019	Brdt	Parp11	Zfyve28	Nfib	Nppb	Arid1b	Apod	Otud4
+Unspecified erythematous condition	PheWeb_2019	Hace1	Galnt14	Homer2	Nedd4l	Mthfs	Rora	Mfhas1	Capn13	Hrh1	Kif13a	Ndst4	Npy	Ncam2	Mon1b
+Unspecified osteomyelitis	PheWeb_2019	Ddx18	Myocd	Abhd14b	Abhd14a	Crim1	Snw1	Kcnq1	Lhx3	Adck1	Slirp	Tcea3	Daam1	Zfp653	Tenm4	Xylt1	Acy1	Camk2b	Gpr62	Elavl3	Lbh	Sh3bgrl	Aifm2	Lrrtm4	Alkbh1	Zfp703	Acss2
+Unspecified polyarthropathy or polyarthritis	PheWeb_2019	Skor2	Ttc8	Katnal2	Insig2	Grhl2	Atp6v1h	Hdhd2
+Urethral hypermobility/ISD	PheWeb_2019	Apcs	Ripk4	Celf2	Pcdh10	Cpne2	Larp4b	Fam53a	Smim11
+Urinary calculus	PheWeb_2019	Nqo1	Il34	Cog4	Vwc2	Wwp2	Tnni3k	Etv3	Pja1	Foxp2	Ddx19a	Ddx19b	Ptprd	Pnoc	Mdfic	Snx18	Dchs2	Zfp239	Dscaml1	Ankrd16	Dagla	Nfat5	Sf3b3	Cd83	Luzp2	Usp12	Tcf21	Nob1	Clec18a	Pdpr	Piezo2	Plxna2	Slit1	Slitrk6	Edil3	St3gal2
+Urinary incontinence	PheWeb_2019	Dmrt2	Hnf4g	Lpar3	Pex10	Bach2	Galnt10	Gigyf2	Kcnt2	Ccdc85a	Kcnq3	Enthd1	Ncam2	Tprg1	Scg5	Ngef	Efhd1	Ilkap	Pms2	Ptpn3
+Urinary obstruction	PheWeb_2019	Epha5	Col27a1	Api5	Cyp4a30b	Sema4d	Lmf1	Lsamp	Or5p80	Clint1	Ano4	Aadacl3	Adamts17	Diaph2	Ptprc	Galr1	Csmd1	Rab7
+Urinary tract infection	PheWeb_2019	Slc6a19	Elovl4	Zbtb16	Wdr75	Iqsec1	Ano4	Inpp4b	Cdk8	Id2	Actl7b	Hsd17b4	Snx13	Slc40a1	Gramd4	Adamts5	Sox1	Cdk5rap1	Frrs1l
+Uterine/Uterovaginal prolapse	PheWeb_2019	Sptbn4	Wwox	B3galnt2	Gabrb2	Mtmr3	Api5	Adh1	Lancl2	Fbxo15	Clcn4	Ttc17	Adh7	Fsd1l	Adamtsl1	Erbb4	Vopp1	Sox17	Ccdc54	Cntn4	Tmem38b	Slc15a4	Vgll4
+Uveitis, noninfectious or NOS	PheWeb_2019	Hapln1	Lhcgr	Gabrb1	En1	Kcnj15	Tmem182	Ldlrad4	Myrfl	Aig1	Arl4c	Rap2c	Mier2	Zfp536	Aco1	Mill1	Rbms3
+Vaginitis and vulvovaginitis	PheWeb_2019	Kcnh5	Zfhx4	Pdxk	Shroom3	Ubr5	Mtr	Cnksr3	Fyco1	Synpr	Brinp2	Ptprd	Tbc1d4	Bdh1	Kcnq5	Opcml	Lekr1
+Valvular heart disease/ heart chambers	PheWeb_2019	Rabgap1l	Rbfox1	Gabrb2	Zfhx4	Ddc	Pdha2	Pitpnb	Gabrg1	Atp10b	Nav2	Ttc28	Gnai3	Lyrm2	Rnf144a	Sptlc3	Grpel1	Id2	Zfat	Man1b1	Svep1	Ankrd6	Frem1	Mdn1	Txndc8
+Varicose veins	PheWeb_2019	Gsn	Adam18	Col27a1	Nfix	Mag	Faxc	Msh6	Spry4	Rorb	Triml1	Fgfr3	Lyplal1
+Varicose veins of lower extremity	PheWeb_2019	Akap1	Irs1	Luzp2	Abhd4	C1galt1	Uqcc2	Shisa6	Rorb	Ptpn14	Slc6a2	Slc7a11	Adam18	Tbc1d4	Vps52	Dhx35	Kcns3	Msh6	Spry4	Triml1	Tspan4	Cops8
+Varicose veins of lower extremity, symptomtic	PheWeb_2019	Ccnjl	Lingo2	Prps2	Bche	Rbm38	Irs1	Abhd4	Actn1	Shisa6	Slc7a5	Adam18	Dhx35	Spock3	Msh6	Rab6b	Slu7	Cops8
+Vascular disorders of kidney/hypertrophy	PheWeb_2019	Amer2	Pdha1	Fhod3	Nr0b1	Tpgs2	Lrrc42	AW554918	Tmeff2	S100z	Sp3	Mageb4	Piwil1
+Vascular hamartomas and non-neoplastic nevi	PheWeb_2019	Kdm8	Tenm2	Tsen15	Hdac11	Rap1gap2	Gpr50	Mtdh	Nrip1	Slitrk2	Katnal1	B4galnt4	Qser1	Kcnh1
+Vascular insufficiency of intestine	PheWeb_2019	Trmt10a	Ccdc71l	Dnah5	Cdca2	Zfp143	Lrp2	Pnpla8	Phf12	Btbd9	Hs6st3	Impdh1	Npvf	Rsu1	Sbpl	Dnmt1
+Ventral hernia	PheWeb_2019	Ndufa4	Lrrk2	Osbpl3	Prdm16	Rfx4	Trappc9	Acsl4	Fbxl17	Slc6a2	Chd2	Cyb5a	Ric8b	Kcnt2	Dok5	Cngb3	Smyd3	Phactr3
+Ventricular fibrillation and flutter	PheWeb_2019	Ccdc178	Cntnap2	Prlr	Gad2	Smad1	Nol4	Ufl1	Col5a1	Rcn1	Asxl3	Hmx1
+Vesicoureteral reflux	PheWeb_2019	Unc13c	Nrp2	Nrn1	Kcnd2	Furin	Lrriq1	Usp24	Sorcs2	Slc4a3	Higd1c	Nhsl1	Tmem245	Cxcl13	Frrs1l	Letmd1
+Viral Enteritis	PheWeb_2019	Magi2	St8sia1	Nrxn1	Slc2a9	Kif26b	Capzb	Ncl	Cdh13	Atp13a3	Ccser1
+Viral hepatitis	PheWeb_2019	Ntrk2	Map4k3	Tenm2	Actl7b	Atp10d	Htr1b	Gmps	Igf1	Tsn	Cdh7	Rit2	Tfdp2	Nfib	Cdh11	Tekt5	Arpp21
+Viral infection	PheWeb_2019	Fto	Dlx3	Egln3	Itga3	Usp45	Defa5	Pcdh15	Or2k2	Dhrs2	Elavl2	Igsf21	Aig1	Pcdh17	Pold1	Rnf216	Dppa2	Map6	Arpp21
+Viral warts & HPV	PheWeb_2019	Peg10	Gmeb2	Pdgfra	Mtus2	Pex2	Efna5	Tmprss15	Rnf144a	Stk35	Aldh1a3	Slit2	Pde7b	H2-Eb2	Lcorl	Shank2
+Visual field defects	PheWeb_2019	Kdm8	Hs6st1	Ppcdc	Scamp5	Tbc1d4	Mecom	Ninj2	Plxnb3	Csk	Epsti1
+Vitamin B-complex deficiencies	PheWeb_2019	Ccdc39	Nanos2	Rbfox1	Agk	Rprd1a	Rnaseh1	Pbx1	Grin3a	Cldn10	Bank1	Nova2	Apba1	Snrpc	Gbe1	Fscb	Cdh9	Scube3	Extl3	Nlrp3	Lrrc4c	Prkg1
+Vitamin D deficiency	PheWeb_2019	Actr8	Cadm2	Rbpms	Vegfc	Cables2	Sorcs2	Il17rb	Kif26b	Sfxn1	Slc39a10	Dtl	Rps21	Ints7	Trib1	Lama5	Hs6st1	Slc8a3	Grm7	Wdr72	Rras2	Gsc	Zfp648	Ncam2
+Vitamin deficiency	PheWeb_2019	Mgam	Actr8	Slc10a2	Vegfc	Cables2	Sorcs2	Il17rb	Wee2	Sfxn1	Irf8	Rbms1	Rps21	Spry2	Trib1	Slc28a1	Tenm3	Itgb6	Lama5	Meox2	Rbbp8nl	Wdr72	Rras2	Zfp648	Ncam2	Exph5
+Voice disturbance	PheWeb_2019	Negr1	Adam12	Lmtk2	Ica1	Rora	Kalrn	Vav2	Gabrg2	Pik3cg	Aph1c	Mkln1	Nfib	Podxl	Tspan9	Acox2	Ccdc85c	Pcca	Pcdh7	Ccser2	Pik3c3	Alpk2	Impg1
+Wheezing	PheWeb_2019	Phlda1	Snrpn	Rph3al	Cdkal1	Igsf11	Tom1l1	Prr16	Lgr5	Ppid	Pid1	Dock6	Ddx5	Tshz3	Fmn2	Fasl	Efcab8	Vldlr	Or6s1	Fgf9	Rasgef1b	Grm7	Zfp507	Fnip2	Trp63
+severe protein-calorie malnutrition	PheWeb_2019	Tenm1	Dgkb	Ipmk	Itsn1	Chrna7	Slc6a15	Tmem53	Gpr6	Ralyl	Pcdh18	Spag16	Kcnv1	Stag2	Nova1	Dlc1	Lars2	Tmem47	Tox	Lrrc4c
+stress incontinence, female	PheWeb_2019	Cntn6	Gbf1	Cep112	Elovl3	Kcnj16	Tfec	Ctps2	Hps6	Tecrl	Igsf11	Cntn4	Cuedc2	Rbm47	Akr1d1	Lama2	Ldb1	Fhl2	Nolc1	Trank1	Ly9	Fbln1	Ets1	Adamts5	Pprc1	Zpld1

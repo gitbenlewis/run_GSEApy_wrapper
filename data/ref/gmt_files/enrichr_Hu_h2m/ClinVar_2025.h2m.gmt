@@ -1,0 +1,609 @@
+3-METHYLGLUTACONIC ACIDURIA	ClinVar_2025	Timm50	Auh	Clpb	Htra2	Serac1	Dnajc19
+ABNORMAL BLEEDING	ClinVar_2025	Fgg	Vwf	Actn1	Tubb5	Zfp160	Hps5	Runx1	Ap3d1	Nbeal2	Ptpn11	Ap3b1	Gp1ba	F5	F7	F8	Col5a2	Ggcx	Myh9	Acvrl1	Mcfd2	Slc45a2	Stxbp2	Arpc1b	Itgb3	Pros1	Was	Gba1	Rasgrp2	Lyst	Thbd	Mecom	Flna
+ABNORMAL BRAIN MORPHOLOGY	ClinVar_2025	Cdon	Cplx1	Stil	Rbm8a2	Syne1	Vps13b	Prune1	Pla2g6	Larp7	Sox3	Asxl1	Galc	Aldh7a1	Mtrfr	Nipbl	Ptchd1	Sacs	Dhcr7	Sptan1	Mcph1	Spg11	Vars1
+ABNORMAL CARDIOVASCULAR SYSTEM MORPHOLOGY	ClinVar_2025	Bbs12	Dnah9	Pik3ca	Cul3	Tek	Gata6	Ptpn11	Nkx2-5
+ABNORMAL CENTRAL MOTOR FUNCTION	ClinVar_2025	Spast	Setx	Gch1	Als2	Ano10	Syne1	Atm	Sacs	Spg11	Bscl2
+ABNORMAL CEREBRAL MORPHOLOGY	ClinVar_2025	Crebbp	Cdkl5	Grin2a	Pik3ca	Pcdh10	Tubb3	Foxg1	Dcx	Tsc2
+ABNORMAL FACIAL SHAPE	ClinVar_2025	Wwox	Slc12a6	Mogat2	Tamm41	Ehmt1	Ptpn11	Recql	Cdc42	Cul4b	Scube3	Hspg2	Tmem147	Hnrnph2	Kcnq2	Ankrd11	Mapk1	Cep290	Kcnh1	Kcnk4
+ABNORMALITY OF METABOLISM/HOMEOSTASIS	ClinVar_2025	Bckdhb	Dpagt1	Zfp260	Gaa	Tango2	Mthfr	Etfdh	Npc1	Asah1	Sgsh	Gnptab	Pccb	Pex5	Smpd1	Mmut	Aspa	Atp7b	Mmachc	Mocs2	Gcdh	Agxt	Cftr
+ABNORMALITY OF NEURONAL MIGRATION	ClinVar_2025	Col3a1	Tubgcp2	Dmd	Tuba1a	Cacna1f
+ABNORMALITY OF PRENATAL DEVELOPMENT OR BIRTH	ClinVar_2025	Ctsa	Ace	Chrng	Rpgrip1l	Cc2d2a	Cep290	Gli3
+ABNORMALITY OF THE EYE	ClinVar_2025	Rd3	Crb1	Abca4	Abcc6	Vps13b	Tulp1	Cacna1f	Rpe65	Tyr	Rlbp1	Rpgrip1	Fyco1	Rdh12	Cngb3	Cnga3	Bbs9
+ABNORMALITY OF THE MUSCULATURE	ClinVar_2025	Fkrp	Gfpt1	Sh2d3c	Vrk1	Neb	Ano5	Dnm2	Colq	Des	Col6a1	Dok7	Col6a2	Rapsn	Tcap	Scn4a	Myh7	Acadvl	Ryr1	Lama2	Pomt1	Dysf	Clcn1	Lmna	Chrne	Sgcg	Bag3	Sgcb	Cpt2	Dnajb6	Gmppb	Sgca	Capn3	Flnc	Dmd	Corin
+ABNORMALITY OF THE NERVOUS SYSTEM	ClinVar_2025	Trmt10a	Acd	Fuca1	Gamt	Srd5a3	Dnmt3a	Zeb2	Ethe1	Gnao1	Rmnd1	Serpini1	Tbc1d24	Rnaseh2c	Rnaseh2b	Pomt1	Foxg1	Pnkp	Nalcn	Gjc2	Mecp2	Cpt2	Tmem67	Pura	Cep290	Exosc3	Wwox	Crebbp	Cdkl5	Atrx	Vps13b	Ap4b1	Cask	Trappc9	Vps13a	Pomgnt1	Tubb4a	Aspm	Galc	Aldh7a1	Bbs12	Tbck	Setbp1	Hecw2	Fgfr3	Mcph1	Cacna1a	Camk2b	Pla2g6	Cln6	Kcnv2	Ophn1	Ankrd11	Eif2b2
+ABNORMALITY OF THE SKELETAL SYSTEM	ClinVar_2025	Col1a2	Col2a1	Scube3	Clcn7	Col1a1	Fkbp10	Bmp1	Ctsk	Tcirg1	Flnb
+ABNORMALITY OF THE SKIN	ClinVar_2025	Tgm1	Col17a1	Krt17	Itgb4	Krt14	Nf1	Lamc2	Tyr	Cers3
+ACHROMATOPSIA	ClinVar_2025	Cngb3	Cabp4	Cnga3	Pde6c	Gnat2	Atf6
+ACUTE LYMPHOID LEUKEMIA	ClinVar_2025	Bcr	Artn	Gnb1	Ikzf1
+ACUTE MYELOID LEUKEMIA	ClinVar_2025	Cebpa	Idh1	Dnmt3a	Runx1	Ddx41	Lpp	Tsc2	Gata2	Rtel1	Etv6	Nras	Mllt10	Kit	Nsd1	Tert	Fancd2	Calr	Sh3gl1	Trp53	Jak2
+ADAMS-OLIVER SYNDROME	ClinVar_2025	Dock6	Notch1	Arhgap31	Eogt	Dll4	Rbpj
+AGAMMAGLOBULINEMIA	ClinVar_2025	Pola1	Cd79b	Cd79a	Iglc3	Pik3r1	Lrrc8a	Slc39a7	Blnk	Tcf3
+AGE RELATED MACULAR DEGENERATION	ClinVar_2025	Cfi	Abca4	Cx3cr1	Htra1	C3	Fbln5	Cst10	Cfhr1	Ercc6	Hmcn1	Hnrnpc	Cfb
+AICARDI-GOUTIERES SYNDROME	ClinVar_2025	Dclre1c	Ifih1	Rnaseh2c	Rnaseh2b	Tldc2	Trex1	Rnaseh2a	Adar	Samhd1
+ALZHEIMER DISEASE	ClinVar_2025	App	Nanos3	Grn	Abca7	Hfe	Adam10	Apoe	Clu	Mpo	Psen1	Psen2	Pld3
+AMELOGENESIS IMPERFECTA	ClinVar_2025	Fam83h	Col17a1	Enam	Itgb6	Lamb3	Ambn	Fam20a	Klk4	Acp4	Amelx
+AMENORRHEA	ClinVar_2025	Kl	Axl	Dmxl2	Chd7	Gnrhr	Pnpla6	Rab3gap2	Rab3gap1
+AMYLOIDOSIS	ClinVar_2025	Gsn	Ttr	Gpnmb	Il31ra	Akap9	Tnni3	B2m	Lyz3	Osmr	Dspp
+AMYOTROPHIC LATERAL SCLEROSIS	ClinVar_2025	Sigmar1	Fus	Unc13a	Trpv4	Anxa11	Sod1	Fig4	Scaf4	Setx	Vapb	Als2	Ang	Pnpla6	Prph2	Masp2	Matr3	Sqstm1	Pfn1	Tardbp	Optn	Chrna4	Kank1	Grn	Ccnf	Dctn1	Kif5a	Sptlc1	Atxn2	Scfd1	Erbb4	Tbk1	Nek1	Nefh	Spg11
+ANEMIA	ClinVar_2025	Spta1	Cdan1	Ubl4a	Hscb	Cask	Gata2	Kdm6a
+ANOPHTHALMIA-MICROPHTHALMIA SYNDROME	ClinVar_2025	Ndst2	Fzr1	Plxnc1	Six6	Chrd	Ptch1	Otx2	Pax6	Tamalin	Vsx2
+ANTERIOR SEGMENT DYSGENESIS	ClinVar_2025	Foxc1	Foxe3	Ryr1	Pxdn	Mug1	Cyp1b1	Duxf3	Itpr1
+AORTIC ANEURYSM	ClinVar_2025	Foxe3	Tgfb2	Nde1	Slc2a10	Tgfbr1	Mylk	Thsd4	Acta2	Mfap5	Lox	Myh11	Fbn1	Prkg1
+AORTIC VALVE DISEASE	ClinVar_2025	Robo4	Notch1	Tbx20	Gata5	Smad6	Tbx5
+APLASTIC ANEMIA	ClinVar_2025	Zfp395	Artn	Tert	Ifng	Sbds
+ARRHYTHMOGENIC RIGHT VENTRICULAR CARDIOMYOPATHY	ClinVar_2025	Tgfb3	Mybpc3	Jup	Tmem43	Ank2	Dspp	Des	Ift43	Myl2	Rbm20	Dsg2	Pkp2	Myh6	Dsc3	Myh7	Sos1	Myom1	Ryr2	Hcn4	Kcne1	Lama4	Cacna1c	Xpc	Lmna	Tmpo	Ttr	Cdh2	Scn5a	Flnc	Dmd	Trpm4
+ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA	ClinVar_2025	Ryr2	Tgfb3	Mybpc3	Jup	Tmem43	Dspp	Pln	Ttr	Cdh2	Dsg2	Pkp2	Ctnna3	Plec	Myh6	Dsc3
+ARTHROGRYPOSIS	ClinVar_2025	Nek9	Cntnap1	Col25a1	Vps33b	Tpm2	Mybpc1	Ppp3ca	Stk11	Myh3	Tnnt3	Sltm	Piezo2	Vipas39	Myh8
+ARTHROGRYPOSIS MULTIPLEX CONGENITA	ClinVar_2025	Slc35a3	Tor1a	Ascc1	Lgi4	Vps13d	Tpm2	Neb	Aspm	Acta1	Myh3	Setbp1	Tnnt3	Scn8a	Adss1	Ryr3	Aven	Ryr1	Syne1	Fbln1	Gldn	Adgrg6	Chrng	Tnni2	Piezo2	Scyl2
+ASPHYXIATING THORACIC DYSTROPHY	ClinVar_2025	Bbs10	Dync2h1	Ift140	Wdr19	Dync2li1	Ttc21b	Ift80	Dync1h1
+ATAXIA	ClinVar_2025	Setx	Pnkp	Ttpa	Pik3r5	Sacs	Aptx	Pou4f1
+ATRIAL FIBRILLATION	ClinVar_2025	Hcn4	Kcne2	Abcc9	Akap9	Kcna5	Nup155	Ank2	Ttr	Bag3	Kcnq1	Nppa	Gja5	Myl4	Scn5a	Scn2b	Kcnj2	Scn3b	Myh7	Kcnh2	Scn1b
+ATRIAL SEPTAL DEFECT	ClinVar_2025	Cited2	Tbx20	Gata6	Gata4	Tab2	Tll1	Actc1	Myh6	Nkx2-5	Myh7	Mylk
+ATYPICAL BEHAVIOR	ClinVar_2025	Mecp2	Arfgef1	Gnb1	Mapk1	Tbr1	Zfyve26
+ATYPICAL ENDOMETRIAL HYPERPLASIA	ClinVar_2025	Nras	Ctnnb1	Trp53
+ATYPICAL HEMOLYTIC-UREMIC SYNDROME	ClinVar_2025	Trpc6	Dgke	Cfi	Plg	Adamts13	C3	Thbd	Wt1	Nphs1	Col4a3	Cfhr1	Col4a5	Col4a4	Myh9	Nlrp3	Hnrnpc	Mmachc	Cd46	Cfb
+AUDITORY NEUROPATHY SPECTRUM DISORDER	ClinVar_2025	Slc17a8	Tbc1d24	H1f4	Otof	Tubb4a
+AUTISM	ClinVar_2025	Cdkl5	Snrpn	Tcf7l2	Srd5a3	Actl6b	Ampd1	Ank3	Tbr1	Ttc19	Rpe65	Msl2	Eef1a2	Slc9a9	Adnp	Aspa	Cc2d1a	Prr12	Scn2a	Shank3	Shank2	Brme1	Chrna1	Sptbn5	Cntnap2	Kmt2d	Chd8	Zfp957	Mecp2	Aifm1	Ptchd1	Rpl15	Scn5a	Aga	Camk2g	Scn1a	Setd2
+AUTISM SPECTRUM DISORDER	ClinVar_2025	Rbm15	Snrpn	Srd5a2	Dnmt3a	Tcf12	Tsc2	Acsl4	Tsc1	Cdc42bpb	Gatad2b	Gprin1	Cdk13	Snurf	Arhgef9	Lztr1	Shank3	Shank2	Stxbp1	Rnaseh2b	Srsf1	Chd8	Nrxn1	Slc3a1	Pqbp1	Tac4	Krtap1-5	Mbd5	Cubn	Tcf7l2	Mef2c	Csnk2a2	Map2k1	Mocos	Prnp	Mccc2	Dyrk1a	Arid1b	Taf1	Gjb2	Gnb1	Asxl3	Map1b	Scn2a	Dync1h1	Kmt2a	Cacna1a	Camk2a	Cul3	Kmt2c	Slc6a1	Zfp957	Pogz	Scn9a
+AUTISTIC BEHAVIOR	ClinVar_2025	Sptbn5	Kcnq2	Kcnn2	Dscam	Kmt5b	Tbr1	Shank3
+AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME	ClinVar_2025	Acta2	Nras	Casp8	Prkcd	Fasn	Fasl
+AUTOINFLAMMATION	ClinVar_2025	Tbk1	Otulin	Nlrp1a	Ripk1	Jak1
+AUTOINFLAMMATORY SYNDROME	ClinVar_2025	Unc13d	Mmab	Sh2d1a	Rab27a	Ap3b1	Sting1	Tnfrsf1a	Slc7a7	Nlrp12	Xiap	Cd27	Card14	Lpin2	Itk	Mvk	Il1rn	Mefv	Zfp395	Stxbp2	Tnfaip3	Nlrc4	Nod2	Lyst	Stx11	Bloc1s6	Psmb8	Socs1	Pstpip1	Nlrp3	Il36rn	Elane
+AUTOSOMAL DOMINANT CENTRONUCLEAR MYOPATHY	ClinVar_2025	Mtmr14	Speg	Dnm2	Mtm1	Myf6
+AUTOSOMAL DOMINANT CEREBELLAR ATAXIA	ClinVar_2025	Afg3l2	Ep300	Fat1	Fgf14	Tgm6	Dnmt1	Dync1h1	Sptbn2	Ttbk2	Itpr1
+AUTOSOMAL DOMINANT NOCTURNAL FRONTAL LOBE EPILEPSY	ClinVar_2025	Chrna2	Chrnb2	Chrna4	Kcnt1	Crh	Spag1	Depdc5	Gabrg2
+AUTOSOMAL DOMINANT NON-SYNDROMIC INTELLECTUAL DISABILITY	ClinVar_2025	Trpm3	Grin2b	Gnb1	Kif1a
+AUTOSOMAL DOMINANT NONSYNDROMIC HEARING LOSS	ClinVar_2025	Gsdme	Tmc1	Ceacam16	Homer2	Wfs1	Tnnc1	Eya4	Osbpl2	Myo7a	Grhl2	Loxhd1	Pou4f3	Diaph1	Gjb3	Gjb2	Kitl	Myo1a	Lmx1a	Rest	P2rx2	Gjb6	Kcnq4	Myh9	Mcm7	Tbc1d24	Ripor2	Diablo	Col11a2	Actg1	Six1	Coch	Myo6	Myh14	Slc17a8	Ccdc50	Crym	Tecta
+AUTOSOMAL DOMINANT POLYCYSTIC KIDNEY DISEASE	ClinVar_2025	Pkd1	Pkhd1	Ift140	Lrp6	Prkd2
+AUTOSOMAL DOMINANT POLYCYSTIC LIVER DISEASE	ClinVar_2025	Alg9	Ganab	Pkhd1	Hnf1a	Prkcsh	Alg8	Lrp6	Lrp5	Sec63
+AUTOSOMAL DOMINANT ROBINOW SYNDROME	ClinVar_2025	Fzd2	Dvl1	Wnt5a	Dvl3	Rora
+AUTOSOMAL RECESSIVE CEREBELLAR ATAXIA	ClinVar_2025	Prdx3	Ercc4	Ano10	Coq8a	Syne1	Twnk	Sptbn2
+AUTOSOMAL RECESSIVE CONGENITAL ICHTHYOSIS	ClinVar_2025	Flg	St14	Alox12b	Cyp4f39	Bach2	Tgm1	Abca12	Kcnq2	Nipal4	Lipn	Slc27a4	Pnpla1	Aloxe3	Cers3
+AUTOSOMAL RECESSIVE LIMB-GIRDLE MUSCULAR DYSTROPHY	ClinVar_2025	Fkrp	Trappc11	Crppa	Ano5	Pomgnt1	Tcap	Plec	Trim32	Lims2	Poglut1	Pomt1	Dysf	Pomt2	Tuba1a	Tor1aip1	Lmna	Ttr	Sgcg	Sgcd	Sgcb	Gmppb	Sgca	Capn3	Dag1	Sacs	Fktn
+AUTOSOMAL RECESSIVE NONSYNDROMIC HEARING LOSS	ClinVar_2025	Grxcr1	Grxcr2	Tmc1	Kcnj10	Pnpt1	Rdx	Rnase12	Lhfpl5	Myo7a	Tspear	Dcdc2a	Otogl	Cldn14	Myo3a	Gipc3	Sltm	Prkra	Tbc1d24	Slc26a5	Slc26a4	Sos1	Clic5	Ripor2	Adcy1	Ptprq	Kars1	Tomt	Tmprss3	Cib2	Otoa	Marveld2	Myo6	S1pr2	Otog	Otof	Tecta	Esrrb	Whrn	Elmod3	Atp2b4	Loxhd1	Serpinb6e	Gjb3	Gjb2	Tmie	Myo15a	Strc	Gjb6	Ildr1	Msrb3	Sftpa1	Anapc15-ps	Trio	Col11a2	Cdc14a	Foxi1	Pcdh15	Cabp2	Espn	Pjvk	Ush1g	Syne4	Triobp	Vsir	Eps8	Ush1c	Tprn	Cdh23
+AUTOSOMAL RECESSIVE OSTEOPETROSIS	ClinVar_2025	Clcn7	Ostm1	Tnfrsf11a	Tcirg1	Tnfsf11	Plekhm1	Snx10
+AUTOSOMAL RECESSIVE RETINITIS PIGMENTOSA	ClinVar_2025	Cerkl	Bbs2	Crb1	Arl6	Cfap418	Abca4	Arhgef18	Pcare	Nr2e3	Rhod	Tulp1	Ush2a	Mertk	Rpe65	Spata7	Rlbp1	Rbp3	Fam161a	Pde6b	Mapre2	Prom1	Cngb1	Impg2
+AUTOSOMAL RECESSIVE SPINOCEREBELLAR ATAXIA	ClinVar_2025	Wwox	Acd	Rubcn	Grid2	Snx14	Syt14	Jmjd8	Wdr24	Grm1	Cwf19l1	Ano10	Pmpca	Stub1	Sptbn2	Rhbdl1
+B LYMPHOBLASTIC LEUKEMIA LYMPHOMA	ClinVar_2025	Rb1	Recql4	Ptpn11	Cbl	Mutyh
+BARDET-BIEDL SYNDROME	ClinVar_2025	Bbs2	Mkks	Bbs1	Osbpl8	Wdpcp	Wdr19	Bbip1	Ttc21b	Ush2a	Lztfl1	Bbs10	Bbs12	Ttc8	Nf1	Trim32	Ift27	Sdccag8	Mks1	Arl6	Ift172	Alms1	Ccdc28b	Tmem67	Ift74	Nphp1	Nphp4	Bbs9	Bbs7	Cep290	Ift57	Bbs5	Impg2	Bbs4
+BARTTER DISEASE	ClinVar_2025	Maged2	Slc12a1	Bsnd	Clcnkb	Kcnj1
+BARTTER SYNDROME	ClinVar_2025	Slc12a3	Casr	Slc12a1	Bsnd	Clcnkb	Kcnj1
+BASAL CELL CARCINOMA	ClinVar_2025	Syngap1	Smox	Ptch2	Ptch1	Palb2
+BASAL GANGLIA CALCIFICATION	ClinVar_2025	Ifih1	Myorg	Pdgfrb	Jam2	Pdgfb	Xpr1
+BECKWITH-WIEDEMANN SYNDROME	ClinVar_2025	Cdkn1c	Kcnq1	Nsd1	Igf2	Dnmt1
+BETHLEM MYOPATHY	ClinVar_2025	Lmna	Clcn5	Col6a1	Col12a1	Col6a3	Col6a2	Ftcd
+BILATERAL SENSORINEURAL HEARING IMPAIRMENT	ClinVar_2025	Gjb2	Cdh23	Kcnq4	Myo7a	Atf6	Otof	Tecta	Coch
+BILE DUCT CANCER	ClinVar_2025	Stk11	Pkd1	Mlh1	Pold1	Atm
+BONE MARROW FAILURE SYNDROME	ClinVar_2025	Dnajc21	Mdm4	Mysm1	Smc4	Trp53
+BRACHYDACTYLY	ClinVar_2025	Pthlh	Bmp2	Nog	Ihh	Trps1	Gdf5	Hoxd13	Tulp1	Rora	Bmpr1b
+BRAIN ATROPHY	ClinVar_2025	Wwox	Ap4m1	Npc2	Ptpn23
+BREAST AND/OR OVARIAN CANCER	ClinVar_2025	Mlh1	Dctn5	Brca1	Brca2	Msh2	Fbxo11	Palb2	Hoxb13	Rad50	Rad51c	Brip1	Stk11	Fzr1	Rad51d	Artn	Chek2	Msh6	Atm	Pms2	Trp53	Bard1
+BREAST CANCER	ClinVar_2025	Tgfb1	Brca1	Brca2	Palb2	Rad50	Cyp17a1	Brip1	Rad51	Artn	Chek2	Atm	Bard1
+BREAST CARCINOMA	ClinVar_2025	Mlh1	Ptch2	Msh2	Palb2	Rad50	Rad51c	Rad51d	Artn	Hnf1a	Pik3ca	Msh6	Atm	Mre11a	Pot1a	Trp53	Ret	Brca1	Brca2	Brip1	Fzr1	Chek2	Mutyh	Pms2	Bard1
+BREAST NEOPLASM	ClinVar_2025	Brip1	Gen1	Fzr1	Dicer1	Atm	Brca1	Brca2	Palb2	Pms2	Trp53	Bard1
+BREAST-OVARIAN CANCER	ClinVar_2025	Gpsm2	Mlh1	Dctn5	Brca1	Brca2	Msh2	Palb2	Rad50	Rad51c	Brip1	Rad51d	Artn	Chek2	Msh6	Atm	Atp7b	Pms2	Trp53	Bard1
+BRONCHIECTASIS	ClinVar_2025	Scnn1g	Ltbr	Scnn1b	Scnn1a	Tnfrsf1a	Cftr
+BRUGADA SYNDROME	ClinVar_2025	Tgfb3	Kcnj8	Mybpc3	Kcnd3	Cacna2d1	Ank2	Dspp	Cacnb2	Kcnq1	Scn10a	Slmap	Gpd1l	Fbn1	Hcn4	Kcne3	Kcne5	Lama4	Cacna1c	Ttr	Mybphl	Scn5a	Dmd	Scn3b	Trpm4	Kcnh2	Scn1b
+CARCINOMA OF COLON	ClinVar_2025	Pdgfra	Mlh1	Smad4	Axin2	Braf	Fancc	Msh2	Palb2	Mlh3	Rad51c	Rad51d	Pik3ca	Bub1b	Msh6	Atm	Bmpr1a	Trp53	Flt1	Flt4	Brca2	Ptprj	Flcn	Brip1	Nras	Stk11	Pole	Pold1	Chek2	Akt1	Mutyh	Pms2	Bard1
+CARCINOMA OF PANCREAS	ClinVar_2025	Smad4	Brca1	Brca2	Palb2	Hoxb13	Brip1	Nras	Stk11	Artn	Palld	Chek2	Atm	Trp53
+CARDIAC ARREST	ClinVar_2025	Kcnj8	Nebl	Cacna2d1	Akap9	Ank2	Dspp	Cacnb2	Pln	Scn5a	Dsg2	Myh6	Dsc3	Trpm4
+CARDIAC ARRHYTHMIA	ClinVar_2025	Ryr2	Acadvl	Kcnj8	Jup	Tango2	Cacna1c	Ank2	Dspp	Nos1ap	Kcnq1	Nppa	Capn3	Scn5a	Dsg2	Pkp2	Casq2	Slc25a35	Kcnj2	Scn3b	Myh7	Rangrf	Slc25a15	Kcnh2	Scn1b
+CARDIO-FACIO-CUTANEOUS SYNDROME	ClinVar_2025	Nras	Map2k2	Bcl11b	Map2k1	Braf
+CARDIOENCEPHALOMYOPATHY	ClinVar_2025	Surf1	Sco2	Ncaph2	Cox15	Coa6
+CARDIOMYOPATHY	ClinVar_2025	Mybpc3	Abcc9	Cav3	Dnaaf3	Jup	Actn2	Ptpn11	Klhl24	Braf	Tmem43	Des	Myl2	Myl3	Gpd1l	Rbm20	Dsg2	Pkp2	Alpk3	Myh6	Dsc3	Myh7	Sos1	Calr3	Hcn4	Ilk	Tmprss4	Akap9	Nexn	Prdm16	Ppcs	Lmna	Csrp3	Pdlim3	Lamp2	Taf1a	Tpm1	Ankrd1	Emd	Flnc	Dtna	Fkrp	Cyp51	Nebl	Gaa	Ank2	Qrsl1	Dspp	Rpl3l	Cacnb2	Vangl1	Nat8f2	Fmnl3	Tnnt2	Tcap	Casq2	Cryab	Vcl	Mylk2	Myom1	Ryr2	Kcne1	Ctf1	Tafazzin	Fhl2	Lama4	Alms1	Prkag2	Ldb3	Actc1	Jph2	Pln	Tmpo	Ttr	Sgcd	Bag3	Sgca	Scn5a	Tnni3	Dmd	Myoz2	Trpm4
+CARDIOVASCULAR PHENOTYPE	ClinVar_2025	Abcg8	Tgfb2	Actn2	Cacna2d1	Tecrl	Ppp1cb	Col1a2	Des	Col1a1	Ski	Sgo1	Col5a2	Col5a1	Myl2	Ppa2	Scn10a	Myl3	Gpd1l	Pkp2	Alpk3	Calm2	Abcg5	Calm3	Lztr1	Dsc3	Calm1	Hcn4	Prdm5	Tnxb	Akap9	Lmf1	Nexn	Lcat	Nol6	Lmna	Nras	Lamp2	Cdh2	Tbx20	Tpm1	Chst14	Flnc	Shoc2	Myh11	Nkx2-5	Fktn	Ldlr	Kcnh2	Smad3	Jag1	Map2k2	Abca1	Kcnd3	Nebl	Bcl11b	Map2k1	Dolk	Gdf2	Ank2	Cacnb2	Cyp27a1	Vangl1	Nat8f2	Lox	Tnnt2	Mkrn2	Casq2	Cryab	Scn2b	Fbn1	Fbn2	Vcl	Myom1	Kcne1	Kcne2	Notch1	Foxe3	Kcne3	Lpl	Cacna1c	Gata4	Mylk	Gatad1	Efemp2	Bag3	Apoe	Gpihbp1	Trpm4	Apob	Scn1b	Kcnj5	Trdn	Trim63	Kcnj8	Mybpc3	Abcc9	Cav3	Jup	Txnrd2	Ptpn11	Apoa5	Braf	Tmem43	Tgfbr1	Tgfbr2	Acta2	Mfap5	Col3a1	Apoa1	Rbm20	Dsg2	Nf1	Scn4b	Sos2	Myh6	Ccdc40	Myh7	Sos1	Calr3	Acvrl1	Aars2	Ilk	Pcsk9	Slco1b2	Med12	Csrp3	Pdlim3	Dync2li1	Ankrd1	Emd	Zfp469	Scn3b	Tbx1	Fkrp	Cyp51	Nde1	Eya4	Gaa	Bgn	Slc2a10	Rnase2b	Tbx5	Dspp	Evi2a	Thap7	Fmnl3	Hnrnph2	Kcnq1	Apoc3	Apoc2	Tcap	Eng	Ryr2	Tafazzin	Fkbp14	Lama4	Alms1	Prkag2	Ldb3	Slc4a3	Actc1	Cbl	Jph2	Pln	Ttr	Sgcd	Syngap1	Spred1	Ppp1r13l	Mat2a	Scn5a	Tnni3	Hras	Dmd	Ldlrap1	Myoz2	Kcnj2	Snta1	Ephb4
+CATARACT	ClinVar_2025	Unc45b	Mipep	Lim2	Agk	Wfs1	Crybb1	Taldo1	Cryba4	Tdrd7	Bfsp1	Sipa1l3	Lmbr1	Trpm3	Dnmbp	Fyco1	Crygc	Vim	Nhs	Duxf3
+CATECHOLAMINERGIC POLYMORPHIC VENTRICULAR TACHYCARDIA	ClinVar_2025	Ryr2	Trdn	Vangl1	Mybpc3	Casq2	Tecrl	Ank2	Trpm4	Calm1
+CENTRAL CORE MYOPATHY	ClinVar_2025	Cyb5r3	Ryr1	Actn2	Crx	Ppt1	Atp13a4	Antxr2	Cln8
+CENTRONUCLEAR MYOPATHY	ClinVar_2025	Ttr	Chrna1	Med12	Acta1	Ryr1	Ascc1	Cacna1s	Dnm2	Mtm1
+CEREBELLAR ATAXIA	ClinVar_2025	Unc13a	Surf1	Pmm2	Setx	Wdr81	Fat2	Atm	Ptrh2	Pnpla6	Fgf14	Stxbp1	Atp8a2	Cacna1a	Pomt1	Mlc1	Syne1	Pla2g6	Cacna1g	Vldlr	Grm1	Exosc5	Car8	Mfn2	Kcnn2	Slc19a1	Csmd1	Sptbn2
+CEREBELLAR ATROPHY	ClinVar_2025	Emc1	Cacna2d2	Kcnma1	Pnpla6	Tbc1d24
+CEREBELLAR VERMIS HYPOPLASIA	ClinVar_2025	Stxbp1	Wdr37	Dph1	Tmem67	Setd2
+CEREBRAL CAVERNOUS MALFORMATION	ClinVar_2025	Ankib1	Pdcd10	Krit1	Serpini1	Ccm2
+CEREBRAL PALSY	ClinVar_2025	Kank1	Rnaseh2b	Brca2	Ttf2	Tuba1a	Smarca4	Tubb4a	Add3	Clcn1	Aldh3a2	F8	Spast	Setx	Gnb1	Nkx2-6
+CEREBROOCULOFACIOSKELETAL SYNDROME	ClinVar_2025	Ercc1	Klc3	Bivm	Ercc2	Ercc6	Polr1g
+CHARCOT-MARIE-TOOTH DISEASE	ClinVar_2025	Hars1	Slc12a6	Ptges2	Cadm3	Trpv4	Gdap1	Sdhc	Dnm2	Mmp12	Gars1	Inf2	Polr3b	Plod1	Pxmp2	Pmp2	Rab7	Retreg1	Mtmr2	Cntnap1	Yars1	Kdelr2	Kars1	Pnkp	Ighmbp2	Itpr3	Trim2	Litaf	Bicd2	Lrsam1	Hspb1	Ndrg1	Drp2	Fbln5	Pld3	Fgd4	Lmna	Dnajb2	Hint1	Prx	Sh3tc2	Tfg	Mpz	Mfn2	Emd	Tac4	Kif1b	Morc2b	Aars1	Mars1	Egr2	Jag1	Ntrk1	Surf1	Dst	Fbxo38	Fig4	Septin9	Gjb1	Med25	Dnmt1	Arhgef10	Dync1h1	Bscl2	Dhtkd1	Vcp	Ctdp1	Dctn1	Ttr	Sptlc1	Sptlc2	Scn11a	Scn9a	Naglu	Aifm1	Nefl	Mpv17	Sacs	Sbf2	Pdk3	Sbf1
+CHARCOT-MARIE-TOOTH DISEASE AXONAL	ClinVar_2025	Dhtkd1	Mars1	Hspb8	Ighmbp2	Trpv4	Gdap1	Jph1	Lrsam1	Hspb1	Mmp12	Naglu	Morc2b	Nefh	Aars1	Dync1h1	Spg11
+CHARCOT-MARIE-TOOTH DISEASE DOMINANT INTERMEDIATE	ClinVar_2025	Inf2	Yars1	Mpz	Gnb4	Sdhc	Dnm2
+CHILDHOOD NEOPLASM	ClinVar_2025	Stk11	Rad51d	Chek2	Atm	Sdha
+CHILDHOOD ONSET HEARING LOSS	ClinVar_2025	Sptlc1	Wfs1	Myo15a	Cdh23	Ildr1	Pcdh15	Tmprss3
+CHOLESTASIS	ClinVar_2025	Tjp2	Abcb4	Zfyve19	Abcb11	Atp8b1	Vps33b	Ehhadh	Myo5b	Nr1h4	Slc51a	Kif12	Usp53
+CHOREA	ClinVar_2025	Cstb	Gpr88	Gnao1	Rtn4ip1	Nkx2-1	Frrs1l	Rhobtb2
+CHRONIC GRANULOMATOUS DISEASE	ClinVar_2025	Ncf2	Ncf4	Cybb	Cyba	Ncf1
+CHRONIC KIDNEY DISEASE	ClinVar_2025	Cubn	Actn4	Cfi	Fn1	Axdnd1	Tbx18	Arhgdia	Cfhr1	Inf2	Dstyk	Col4a3	Nphs2	Apoa1	Col4a4	Stk39	Frem1	Zfp423	Mks1
+CILIARY DYSKINESIA	ClinVar_2025	Cfap74	Dnah9	Ttc12	Dnah7c	Dnaaf6	Foxj1	Cfap300	Lrrc56	Trp73	Stk36	Mcidas	Srp54a	Nek10	Gas2l2	Dnah1
+CILIOPATHY	ClinVar_2025	Katnip	Tbc1d32	Tmem67	Tctn3	Ofd1	B9d2	Ift81	Rpgrip1l	Cc2d2a	Zfp423	Tmem231
+CLASSIC CONGENITAL ADRENAL HYPERPLASIA DUE TO 21-HYDROXYLASE DEFICIENCY	ClinVar_2025	Cyp17a1	Tnxb	Cyp11a1	Cyp21a1	Vdac2
+CLEFT LIP/PALATE	ClinVar_2025	Selenon	Tbl1xr1	Fzr1	Zeb2	Syne1	Ptpn11
+CLEFT PALATE	ClinVar_2025	Mbd5	Rere	Cplane1	Satb2	Tsc1	Irf2bpl	Smarca4	Amer1	Meis2	Gja1	Fancd2	Tbx22	Flna	Piezo2	Irf6	Sh3d19
+COBALAMIN C DISEASE	ClinVar_2025	Lmbrd1	Abcd4	Prdx1	Mmachc	Mmadhc
+COCKAYNE SYNDROME	ClinVar_2025	Ercc4	Ercc8	Ercc6	Ndufaf2
+COENZYME Q10 DEFICIENCY	ClinVar_2025	Coq2	Coq8a	Pdss2	Pdss1	Aptx
+COFFIN-SIRIS SYNDROME	ClinVar_2025	Smarcd1	Sox4	Smarcb1	Smarcc2	Dpf2	Smarce1	Arid1a	Arid1b	Smarca2	Bicra	Smarca4	Arid2
+COLON CANCER	ClinVar_2025	Pole	Fzr1	Mlh1	Pkhd1	Pold1	Aurka	Msh2	Mutyh	Pms2
+COLONIC NEOPLASM	ClinVar_2025	Mlh1	Atm	Mre11a	Palb2	Mutyh	Trp53
+COLORECTAL CANCER	ClinVar_2025	Sema4a	Fanci	Arel1	Dcc	Mlh1	Axin2	Braf	Msh2	Palb2	Smad7	Mlh3	Tgfbr2	Tlr2	Rad51d	Pik3r1	Dlc1	Pik3ca	Bub1b	Msh6	Atm	Trp53	Galnt12	Blm	Flt4	Ctnnb1	Dctn5	Akap9	Brca2	Ptprj	Amer1	Flcn	Brip1	Nras	Pole	Pkhd1	Ccnd1	Pold1	Ep300	Erbb2	Chek2	Akt1	Ctnna1	Eif2b2	Pms2
+COMBINED IMMUNODEFICIENCY	ClinVar_2025	Carmil2	Clstn1	Arpc1b	Il2rg	Rag1	Rag2
+COMBINED OXIDATIVE PHOSPHORYLATION DEFECT	ClinVar_2025	Tufm	Mtfmt	Aars2	Mrps16	Pnpt1	Elac2	Mars2	Trmt5	Fars2	Gtpbp3	Rtel1	Mrpl3	Mtrfr	Lyrm4	Nars2	Rmnd1	Cars2	Tars2	Vars2
+COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY	ClinVar_2025	Tufm	Trit1	Tsfm	Ptcd3	Gatb	Mrps22	Mrps2	Polrmt	Timm22	Mrps7	Qrsl1	Lyrm4	Txn2	Aars2	Gfm2	Gfm1	Fastkd2	Mrps14	Mrps34	Tamm41	Prorp	Atp5f1a	Nfs1	Aifm1	C1qbp	Slc25a26
+COMBINED PITUITARY HORMONE DEFICIENCY	ClinVar_2025	Pou1f1	Lhx4	Lhx3	Chmp2b	Hesx1	Otx2
+COMMON VARIABLE IMMUNODEFICIENCY	ClinVar_2025	Tnfrsf13b	Btk	Tnfsf12	Ikbkg	Fbxl15	Nfkb1	Nfkb2	Rag2
+COMPLEX CORTICAL DYSPLASIA	ClinVar_2025	Tubb2b	Kif2a	Kif5c	Tubb3	Tubb5	Tubb2a	Tubg1	Bphl
+COMPLEX NEURODEVELOPMENTAL DISORDER	ClinVar_2025	Mbd5	Lsm1	Dyrk1a	Ank2	Cdk8	Cnot3	Kcnq2	Scn8a	Scn2a	Shank2	Nlgn3	Trrap	Kcna2	Nckap1	Chd8	Nrxn1	Nudt2	Cacna1b	Chd1	Add3	Dpp6	Grin2b	Syngap1	Grin2a	Aldh1b1	Champ1	Dscam	Ap2m1
+CONDUCTION DISORDER OF THE HEART	ClinVar_2025	Ryr2	Ttr	Kcnq1	Flnc	Casq2	Dmd	Ank2	Myh7
+CONE DYSTROPHY	ClinVar_2025	Cerkl	Gucy2e	Crb1	Srd5a3	Abca4	Wdr19	Cacna2d4	Cabp4	Guca1b	Cfap410	Rpgr	Kcnv2	Cdhr1	Cimip3	Pde6c	Prph2	Bbs5
+CONE-ROD DYSTROPHY	ClinVar_2025	Sema4a	Cfap418	Pcare	Rhod	Ush2a	Mertk	Crlf1	Rpgrip1	Fam161a	Adam9	Aipl1	Prph2	Gucy2e	Ttll10	Best1	Mecp2	Dram2	Mfsd8	Rdh12	Rab28	Cep290	Impg2	Cnga1	Acbd5	Abca4	Rpe65	Cdhr1	Nmnat1	Pitpnm3	Cngb3	Unc119	Mapre2	Snrnp200	Cerkl	Crb1	Arl6	Alms1	Cabp4	Crx	Guca1b	Nr2e3	Cacna1f	Rpgr	Sgsh	Cln3	Trpm1	Rims1	Cdh23	Poc1b	Prom1	Cep78
+CONGENITAL ADRENAL HYPERPLASIA	ClinVar_2025	Cyp17a1	Tnxb	Cyp21a1	Hsd3b1	Vdac2
+CONGENITAL ANEURYSM OF ASCENDING AORTA	ClinVar_2025	Acta2	Pkd1	Foxe3	Lox	Myh11	Fbn1	Mylk
+CONGENITAL ANOMALIES OF KIDNEY AND URINARY TRACT	ClinVar_2025	Dstyk	Nrip1	Upk3a	Pax2	Tbx18
+CONGENITAL ANOMALY OF KIDNEY AND URINARY TRACT	ClinVar_2025	Ace	Jag1	Trap1	Chd1l	Hnf1b	Lifr	Bmp7	Pax2	Tbc1d1	Col4a1	Ctu2	Fras1	Fat4	Frem1	Frem2	Arhgef7	Ret	Pkd1	Foxc1	Notch2	Actg1	Six2	Trps1	Cacna1d	Hpse2	Robo1	Robo2	Med12	Kcnt1	Zmym2	Emc1	Nphp3
+CONGENITAL BILE ACID SYNTHESIS DEFECT	ClinVar_2025	Hsd3b7	Abcd3	Akr1d1	Amacr	Acox2	Slc45a2	Cyp7b1
+CONGENITAL CEREBELLAR HYPOPLASIA	ClinVar_2025	Stxbp1	D1Pas1	Oxr1	Wdr37	Rars2	Pmm2	Srd5a3	Atp13a2	Ofd1	Cask	Pla2g6	Vldlr	L1cam	Tsen54	Slc6a8	2700049A03Rik	Sptan1	Setd2
+CONGENITAL DISORDER OF GLYCOSYLATION	ClinVar_2025	Nus1	Alg9	Rars2	Atp6ap2	Cog7	Pmm2	Srd5a3	Alg8	Cog6	Cog5	Dnaaf2	Galnt2	Slc35a1	Cog2	Dolk	Alg1	Alg13	Cog1	Alg11	Dhdds	Dpm1	Ddost	Pink1	Fcsk	Hmbs	Rft1	Stt3a	Dpagt1	B4galt1	Mogat2	Tusc3	Rpn2	Tmem165	Fut8	Magt1	Atp7b	Slc37a4	Mpdu1	Pgm1
+CONGENITAL DYSERYTHROPOIETIC ANEMIA	ClinVar_2025	Cdan1	Sec23b	Klf1	Cdin1	Kif23	Gcdh
+CONGENITAL FIBROSIS OF EXTRAOCULAR MUSCLES	ClinVar_2025	Tubb3	Kif21a	Hras	Nes	Myh10	Tuba1a	Lrrc56
+CONGENITAL HEART DEFECTS	ClinVar_2025	Smad2	Upf1	Zic3	Flt4	Plxnd1	Chek2	Nr2f2	Gata5	Cdk13	Tab2
+CONGENITAL HEART DISEASE	ClinVar_2025	Acvr1	Dtna	Lrp2	Bcl11b	Dnah9	Mesp1	Myo5a	Slc39a14	Gata4	Hoxa13	Eef1a2	Foxp1	Pola1	Recql4	Sh3bp2	Myl2	Scn5a	Abl1	Ctnna3	Dchs1	Myh6
+CONGENITAL HYPOTHYROIDISM	ClinVar_2025	Duox2	Iyd	Tg	Tpo	Tubb5	Slc5a5	Tshb	Tshr
+CONGENITAL ICHTHYOSIFORM ERYTHRODERMA	ClinVar_2025	Tgm1	Alox12b	Cyp4f39	Pnpla1	Aloxe3
+CONGENITAL LONG QT SYNDROME	ClinVar_2025	Kcnj5	Kcne1	Kcne2	Cyp51	Cav3	Akap9	Cacna1c	Slc2a2	Ptpn11	Ttr	Kcnq1	Scn5a	Scn4b	Kcnj2	Snta1	Kcnh2
+CONGENITAL MUSCULAR DYSTROPHY	ClinVar_2025	Dpm2	Lmna	Ryr1	Fkbp14	Pomt1	Capn3	Inpp5k	Myh7
+CONGENITAL MYASTHENIC SYNDROME	ClinVar_2025	Gfpt1	Syt2	Sh2d3c	Mink1	Alg14	Alg2	Colq	Slc5a7	Hmbs	Dok7	Rapsn	Scn4a	Chrnb1	Agrn	Slc22a5	Snap25	Chrna1	Dpagt1	Ryr1	Col13a1	Chrnd	Chrne	Musk	Slc18a3	Corin
+CONGENITAL MYOPATHY	ClinVar_2025	Tcf7l2	Tpm3-rs7	Tpm2	Alg14	Ocrl	Pax7	Neb	Zfyve26	Acta1	Selenon	Myl1	Scn4a	Myh7	Chrna1	Ryr3	Ryr1	Ube3a	Kansl1	Mtm1	Ttr	Cacna1s	Inpp5k	Speg	Ccdc78	Adgrg1	Exosc3
+CONGENITAL SENSORINEURAL HEARING IMPAIRMENT	ClinVar_2025	Kars1	Myo15a	Ildr1	Mitf	Ush2a	Pou4f3	Tecta
+CONGENITAL STATIONARY NIGHT BLINDNESS	ClinVar_2025	Grm6	Trpm1	Gnb3	Slc24a1	Rdh5	Gnat1	Gpr179	Ush2a	Cacna1f	Nyx	Rlbp1
+CONGESTIVE HEART FAILURE	ClinVar_2025	Ryr2	Ttr	Myl2	Prkag2	Ank2	Vcl
+CONNECTIVE TISSUE DISORDER	ClinVar_2025	Tgfb2	Eif2ak3	Trpv4	Ift122	Ift80	Lifr	Wdr35	Tgfbr2	Tgfbr3	Col1a2	Ift43	Acta2	Clcn7	Col1a1	Col3a1	Col5a2	Col5a1	Pex7	Alpl	Col9a2	Col9a1	Ddr2	Pth1r	Comp	Flna	Flnb	Lbr	Myh11	Prkg1	Smad3	Wdr19	Ttc21b	Slc39a13	Col2a1	Hspg2	Trip11	Fbn1	Fgfr3	Fbn2	Matn3	Notch1	Slc26a2	Slc35d1	Col11a2	Ntm	Mylk	Nsdhl	Dym	Nek1	Col11a1	Sox9	Sh3d19	Nkx3-2
+CORNEAL DYSTROPHY	ClinVar_2025	Zeb1	Prdx3	Tcf7l2	Col17a1	Agbl1	Cyp4v3	Slc4a11	Tgfbi	Col8a2	Krt12	Grhl2
+CORNELIA DE LANGE SYNDROME	ClinVar_2025	Brd4	Rad21	Nipbl	Kmt2a	Hdac8	Smc3
+CORPUS CALLOSUM	ClinVar_2025	Crebbp	Col4a1	Dcc	Slc12a6	Cdh2	Pik3ca	Arx	Arid1b	Tuba1a	Setd2
+CORTICAL DYSPLASIA	ClinVar_2025	Kif26a	Kif5c	Ctnna2	Tsc1	Camsap1	Slc25a23
+COWDEN SYNDROME	ClinVar_2025	Sec23b	Pik3ca	Akt1	Sdhd	Sdhb	Sdhc
+CRANIOECTODERMAL DYSPLASIA	ClinVar_2025	Ift43	Tgfb3	Wdr19	Ift122	Wdr35	Matn3
+CRANIOSYNOSTOSIS	ClinVar_2025	Adamtsl4	Zic1	Alx4	Etf1	Msx2	Smad6	Fgfr3	Fgfr2
+CRANIOSYNOSTOSIS SYNDROME	ClinVar_2025	Adgrv1	Cdkl5	Cplane1	Cog5	Wdr19	Axin2	Tgfbr1	Kif1a	Kat6a	Fgfr1	Etf1	Fbn1	Fgfr3	Fgfr2
+CUTIS LAXA	ClinVar_2025	Atp6v1e1	Abcc6	Pycr1	Ltbp4	Ltbp1	Fbln5	Efemp1	Efemp2	Aldh18a1	Pgk1	Atp7a	Atp6v0a2
+CYSTIC FIBROSIS	ClinVar_2025	Tgfb1	Fcgr3	Serpina1c	Ephx1	Cftr	Cln6	Pik3cg
+DANDY-WALKER SYNDROME	ClinVar_2025	Pus3	Mpg	Dph1	Hyls1	Pibf1	Armc9	Braf	Ppp1cb
+DEAFNESS	ClinVar_2025	Jag1	Trmu	Kars1	Espn	Pjvk	Sox10	Ush2a	Fgf3	Loxhd1	Triobp	Dspp	Diaph1	Gjb2	Aifm1	Myh9	Tbl1x	Slc26a4	Tecta
+DECREASED TOTAL LYMPHOCYTE COUNT	ClinVar_2025	Kif11	Polr3c	Atp6ap1	Slc34a1	Zc3h3	Ccnq
+DECREASED TOTAL NEUTROPHIL COUNT	ClinVar_2025	Kif11	Polr3c	Atp6ap1	Clpb	Slc34a1	Zc3h3	Ccnq	Elane
+DEEP VENOUS THROMBOSIS	ClinVar_2025	F9	Serpinc1	Plg	F5
+DEJERINE-SOTTAS DISEASE	ClinVar_2025	Gjb1	Egr2	Prx	Pxmp2	Mpz
+DELAYED GROSS MOTOR DEVELOPMENT	ClinVar_2025	Mecp2	Ryr1	Cacna1a	Cog4	Musk	Scn4a	Dync1h1
+DELAYED SPEECH AND LANGUAGE DEVELOPMENT	ClinVar_2025	Sptbn5	Unc13a	Arfgef1	Atp1a3	Pqbp1	Asxl1	Mecp2	Grin2b	Pura	Gnb5	Ankrd11	Prr12	Dync1h1	H3f3b	Ahdc1
+DEMENTIA	ClinVar_2025	Mapt	Gbe1	Psen1	Gba1	Mre11a	Dnmt1	Gphn
+DEVELOPMENTAL AND EPILEPTIC ENCEPHALOPATHY	ClinVar_2025	Cdk19	Slc12a5	Szt2	Cacna2d2	Cacna2d1	Acod1	Alg13	Grin2d	Eef1a2	Necap1	Gprin1	Scn8a	Guf1	Pars2	Tbc1d24	Ddi2	Cyfip2	Stxbp1	Chrna4	Pnkp	Slc1a2	Hnrnpu	Atp1a3	Atp1a2	Ugp2	Frrs1l	Dennd5a	Dscam	St3gal3	Nsf	Got2	Arhgef15	Actl6b	Aldh7a1	Synj1	Dmxl2	Itpa	Scn2a	Fgf12	Dock7	Atp6v1a	Cplx1	Ncf2	Arx	Cacna1a	Fbxo28	Pcdh10	Cacna1e	Rhobtb2	Grin2b	Glul	Scn1a	Scn1b	Gabra2	Gabbr2	Gabra1	Kcnb1	Gabra5	Ap3b2	Dnm1	Smc1a	Ugdh	Pigb	Gnao1	Arhgef9	Depdc5	Snap25	Gabrb3	Ywhag	Gabrb2	Gabrb1	Mast3	Uba5	Neurod2	Ppp3ca	Kcnt1	Kcnt2	Arv1	Scn3a	Phactr1	Aars1	Ntrk2	Wwox	Cdkl5	Kcnh5	Slc13a5	Mdh2	Gad1	Cnpy3	Gabrg2	Pacs2	Kcnq2	Angptl3	Hcn1	Slc25a12	Plcb1	Rnf13	Pigp	Kcna2	Pigq	Adam22	Trak1	Cux2	Slc25a22	Atp7b	Sptan1
+DEVELOPMENTAL CATARACT	ClinVar_2025	Mipep	Crybb2	Ndufb3	Cryba4	Fyco1	Pxdn	Gja3	Gja8	Bcor	Fbn1	Rab3gap2
+DEVELOPMENTAL DELAY	ClinVar_2025	Fbxw7	Arfgef1	Asxl1	Lmbrd2	Gnao1	Kat6a	Scn8a	Adgrl1	Taok1	Tbc1d24	Satb1	Trio	Trrap	Srcap	Pcdh10	U2af2	Zfp957	Foxred1	Grin2b	Dph1	Herc2	Scn3a	Jarid2	Morc2b	Sptan1	Sptbn1
+DEVELOPMENTAL DISORDER	ClinVar_2025	Ntrk2	Tgfb3	Csnk2a2	Rnase12	Usp9x	Cask	Arid1b	Asxl2	Foxp1	Setbp1	Mapre2	Arhgef9	Scn2a	Setd5	Kdm5c	Stxbp1	Kdm3b	Ctnnb1	Slc2a1	Chd7	Magel2	Mecp2	Grin2b	Syngap1	Sox2	Nars1	Kif5c	Nefl	Ankrd11
+DEVELOPMENTAL REGRESSION	ClinVar_2025	Lmna	Mecp2	Unc13a	Eif2ak2	Ndufaf6	Ndufb3	Pla2g6
+DIABETES MELLITUS	ClinVar_2025	Klf11	Map4k2	Kcnj11	Abcc8	Pmm2	Wfs1	Pdhx	Gcgr	Cel	Pax4	Hnf1b	Spink1	Ahi1	Th	Hnf1a	Il2ra	Pparg	Tab2	Irs1	Slc2a2	Itpr3	Ppp1r3a	Ins1	Lipc	Glis3	Rbpj	Zfp57	Enpp1	Sumo2	Akt2	Ccr5	Neurod1
+DIAMOND-BLACKFAN ANEMIA	ClinVar_2025	Rpl11	Rps7	Gata1	Rps26	Polr3a	Rps29	Rps17	Rps28	Rps19	Rpl15	Rpl26	Tsr2	Rps10	Rpl27	Rps20	Rpl19	Trp53
+DIFFUSE MIDLINE GLIOMA	ClinVar_2025	Braf	Brca2	Palb2	Egfr	Smarca4	Sdha	Pole	Rad51d	Artn	Msh3	Chek2	Vhl	Atm	Lztr1	Men1	Mutyh
+DIFFUSE PEDIATRIC--GRADE GLIOMA	ClinVar_2025	Fanca	Brca2	Palb2	Fgfr3	Trp53	Alk
+DILATED CARDIOMYOPATHY	ClinVar_2025	Mybpc3	Dnaaf3	Actn2	Sdha	Des	Plekhm2	Rbm20	Dsg2	Pkp2	Myh6	Dsc3	Myh7	Chrm2	Nexn	Lmna	Csrp3	Tpm1	Ankrd1	Flnc	Fktn	Pms2	Dtna	Eya4	Rnase2b	Dspp	Tnnt2	Cryab	Vcl	Mylk2	Ryr2	Ctf1	Tafazzin	Cep85l	Lama4	Psen1	Ldb3	Psen2	Actc1	Lrrc10	Gatad1	Pln	Tmpo	Ttr	Sgcd	Bag3	Scn5a	Tnni3	Dmd
+DISORDERS OF INTRACELLULAR COBALAMIN METABOLISM	ClinVar_2025	Lmbrd1	Mtrr	Mtr	Mmachc	Mmadhc	Hcfc1
+DISPROPORTIONATE TALL STATURE	ClinVar_2025	Ski	Slc2a10	Tgfbr1	Fbn1	Mylk
+DISTAL ARTHROGRYPOSIS	ClinVar_2025	Ecel1	Myh3	Tnnt3	Tnni2	Piezo2
+DISTAL MYOPATHY	ClinVar_2025	Ryr1	Cav3	Lama2	Ssu2	Dysf	Syne1	Bicd2	Ttr	Mmp12	Myot	Inpp5k	Flnc	Matr3
+DISTAL SPINAL MUSCULAR ATROPHY	ClinVar_2025	Mars1	Plekhg5	Hspb3	Ighmbp2	Trpv4	Vrk1	Dctn1	Spg7	Gars1	Setx	Sh3tc2	Pxmp2	Morc2b	Sptan1	Dync1h1
+DUANE RETRACTION SYNDROME	ClinVar_2025	Actr1b	Cux1	Chn1	Gnas	Ptpn11	Mafb
+DYSKERATOSIS CONGENITA	ClinVar_2025	Acd	Ctc1	Tinf2	Parn	Rtel1	Wrap53	Dkc1	Tert	Nop10	Pot1a	Trp53	Nhp2
+DYSTONIA	ClinVar_2025	Mbtps2	Mecr	Brf1	Gch1	Eif2ak2	Ano3	Sdha	Gnal	Th	Aopep	Col6a3	Kcnq2	Prkra	Scn2a	Kmt2b	Kmt2d	Camk2b	Slc2a1	Chd7	Cacna1b	Atp1a3	Kansl1	Pjvk	Gli3	Vps11	Vps16
+DYSTONIC DISORDER	ClinVar_2025	Tor1a	Ciz1	Gch1	Satb2	Slc2a1	Atp1a3	Cask	Dctn1	Tacr1	Pjvk	Ano3	Rhobtb2	Gnal	Setx	Gnb1	Prkra	Drd2	Mre11a
+EAR MALFORMATION	ClinVar_2025	Tmc1	Adgrv1	Ptprq	Cdc14a	Mitf	Tmprss3	Myo7a	Pjvk	Ush2a	Tprn	Gjb2	Kcnq1	Marveld2	Myo15a	Aifm1	Cdh23	Slc26a4	Slc19a2
+EARLY INFANTILE EPILEPTIC ENCEPHALOPATHY	ClinVar_2025	Wwox	Cacna1a	Scn8a	Sptan1	Scn2a	Plcb1
+EBV-POSITIVE NODAL T- AND NK-CELL LYMPHOMA	ClinVar_2025	Shank1	D1Pas1	Hspg2	Brat1	Pde1c	Dnmt3a	Stat3	Myo5b	Ap3b2
+ECTODERMAL DYSPLASIA	ClinVar_2025	Eda	Kdf1	Edaradd	Ranbp2	Rhoa	Wnt10a	Kremen1	Tspear	Hoxc13	Gm49425	Edar
+EHLERS-DANLOS SYNDROME	ClinVar_2025	Smad3	Tspyl1	Tgfb2	B3galt6	Slc39a13	Smarca2	Tgfbr1	Tgfbr2	Col1a2	Col1a1	Col3a1	Col5a2	Plod1	Col5a1	Cyp21a1	B4galt7	Fbn2	Dclre1c	C1rb	Prdm5	Tnxb	C1s1	Col12a1	Fkbp14	Aebp1	Thbs2	Recql4	Dse	Adamts2	Dnajb6	C1rl	Flna	Mfn2	Chst14	Zfp469	Abcd1	Atp7a	Myh11
+ELEVATED CIRCULATING CREATINE KINASE CONCENTRATION	ClinVar_2025	Ryr1	Bag3	Cav3	Lama2	Ssu2	Gaa	Tcap	Dmd	Pygm	Ano5	Gdap1
+EMERY-DREIFUSS MUSCULAR DYSTROPHY	ClinVar_2025	Lmna	Sun2	Sun1	Syne1	Emd	Tmem43	Lztr1	Syne2
+EMG: MYOPATHIC ABNORMALITIES	ClinVar_2025	Selenon	Ryr1	Capn3	Dmd	Kif1b	Clcn1
+ENCEPHALOPATHY	ClinVar_2025	Trappc2l	Atp6v1a	Lipt2	Cstb	Rbm15	Nup214	Tbce	Alg1	Yars2	Mecp2	Unc80	Hmbs	Tbk1	Cpt2	Irf3	Ankrd11	Naxe	Tab2	Dnm1l
+ENDOMETRIAL CARCINOMA	ClinVar_2025	Arel1	Mlh1	Braf	Msh2	Palb2	Mlh3	Dhfr	Rad51c	Msh3	Msh6	Atm	Trp53	Fgfr2	Brca1	Brca2	Egfr	Nras	Stk11	Pole	Fzr1	Pold1	Chek2	Mutyh	Pms2	Bard1
+EPIDERMAL NEVUS	ClinVar_2025	Nras	Pik3ca	Hras	Fgfr3
+EPIDERMOLYSIS BULLOSA	ClinVar_2025	Galk1	Col17a1	Gm5478	Itga3	Itgb4	Lama4	Itga6	Lamc2
+EPIDERMOLYSIS BULLOSA SIMPLEX	ClinVar_2025	Galk1	Cd151	Gm5478	Dst	Itgb4	Krt14	Klhl24	Exph5	Hrnr	Plec
+EPILEPSY	ClinVar_2025	Gabra3	Gabra1	Slc12a5	Kcnb1	Stard7	Otud6b	Acod1	Aptx	Syn1	Kat6b	Scn8a	Yeats2	Cntn2	Rapgef2	Efhc1	Tbc1d24	Arhgef9	Depdc5	Tnrc6a	Snap25	Chrna1	Gabrb3	Hcn4	Abcb7	Nprl2	Nprl3	Clcnkb	Atp1a3	Atp1a2	Mtr	Kcnt1	Reln	Pgk1	Scn3a	Dscam	Lgi1	Casr	Sema6b	Plpbp	Arid1b	Adra2b	Kctd7	Aldh7a1	Cacnb4	Kcnma1	Kcnq2	Kifbp	Cilk1	Scn2a	Hcn2	Ryr1	Pcdh10	Pigq	Slc2a1	Prickle1	Rorb	Slc6a1	Clcn2	Cacna1h	Grin2b	Grin2a	Mical1	Hivep2	Ankrd11	Scn1a	Cpa6	Gabrd
+EPILEPTIC ENCEPHALOPATHY	ClinVar_2025	Wwox	Trit1	Cdkl5	Gabbr2	Kcnb1	Pdha1	Atp2b4	Smc1a	Mtrfr	Ugdh	Mapk10	Fasn	Kcnq2	Scn8a	Hcn1	Scn2a	Ddi2	Gabrb3	Ryr3	Stxbp1	Aven	Arx	Cacna1a	Pnkp	Hnrnpu	Ube3a	Ppp3ca	Trpm3	Phgdh	Atp7b	Scn1a	Sptan1	Gabrd
+EPISODIC ATAXIA	ClinVar_2025	Cacnb4	Kcna1	Cacna1a	Slc1a3	Scn2a
+ERYTHROCYTOSIS	ClinVar_2025	Egln1	Epas1	Hba-a1
+ERYTHROKERATODERMIA VARIABILIS ET PROGRESSIVA	ClinVar_2025	Gjb3	Gja1	Kdsr	Gjb4	Trpm4
+ESSENTIAL HYPERTENSION	ClinVar_2025	Nanos3	Ptgis	Gnb3	Agtr1b	Agxt
+EXUDATIVE VITREORETINOPATHY	ClinVar_2025	Fzd4	Zfpm1	Ctnnb1	Ndp	Lrp5	Tspan12
+FAMILIAL ADENOMATOUS POLYPOSIS	ClinVar_2025	Msh3	Nthl1	Tsc2	Mutyh	Dhfr
+FAMILIAL AORTOPATHY	ClinVar_2025	Slc12a3	Smad3	Smad4	Tgfb2	Nde1	Bgn	Slc2a10	Tgfbr1	Acta2	F8	Col3a1	Efemp2	Myh11	Fbn1
+FAMILIAL ATRIAL FIBRILLATION	ClinVar_2025	Kcne2	Abcc9	Kcnq1	Gja5	Kcna5	Kcnj2
+FAMILIAL CANCER OF BREAST	ClinVar_2025	Mlh1	Fancm	Recql	Msh2	Esr1	Palb2	Rad50	Rad51c	Rad51b	Ppm1d	Artn	Msh6	Atm	Trp53	Dctn5	Hmmr	Brca1	Brca2	Cdc73	Brip1	Casp8	Epcam	Slx4	Fzr1	Rad54l	Chek2	Akt1	Mutyh	Bard1
+FAMILIAL COLORECTAL CANCER	ClinVar_2025	Mlh1	Brca2	Msh2	Tgfbr2	Pole	Grem1	Pold1	Chek2	Atm	Rps20	Bmpr1a	Mutyh
+FAMILIAL HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS	ClinVar_2025	Unc13d	Zfp395	Stxbp2	Stx11
+FAMILIAL HYPERCHOLESTEROLEMIA	ClinVar_2025	Apoe	Pcsk9	Ldlrap1	Ldlr	Apob
+FAMILIAL ISOLATED ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA	ClinVar_2025	Cradd	Scn5a	Pkp2	Tmem43	Dsc3	Dspp
+FAMILIAL MELANOMA	ClinVar_2025	Magi1	Mc1r	Cdk4	Mitf	Dnah1	Pot1a	Trp53
+FAMILIAL MENINGIOMA	ClinVar_2025	Smarce1	Sufu	Nf2	Mn1
+FAMILIAL OVARIAN CANCER	ClinVar_2025	Recql	Fancc	Palb2	Rad51c	Brip1	Stk11	Pole	Rad51d	Pold1	Rint1	Chek2	Atm	Trp53	Bard1
+FAMILIAL PANCREATIC CARCINOMA	ClinVar_2025	Nras	Stk11	Smad4	Atm	Brca1	Brca2	Palb2	Trp53	Bard1
+FAMILIAL PROSTATE CANCER	ClinVar_2025	Artn	Chek2	Msh6	Atm	Brca1	Brca2	Hoxb13
+FAMILIAL RESTRICTIVE CARDIOMYOPATHY	ClinVar_2025	Acta1	Tnnt1	Dnaaf3	Tnnt2	Prdm16	Tnni3
+FAMILIAL THORACIC AORTIC ANEURYSM AND AORTIC DISSECTION	ClinVar_2025	Smad3	Smad2	Tgfb3	Smad4	Tgfb2	Nde1	Ptpn11	Slc2a10	Tgfbr1	Tgfbr2	Tgfbr3	Acta2	Ski	Col3a1	Col5a2	Plod1	Col5a1	Fasn	Lox	Ccdc22	Fbn1	Fbn2	Robo4	Notch1	Foxe3	Kmt2d	Gata5	Mylk	Thsd4	Med12	Efemp2	Mat2a	Flna	Arih1	Myh11	Prkg1
+FANCONI ANEMIA	ClinVar_2025	Fanci	Zfp276	Fancl	Vcp	Fancm	Fancb	Fanca	Brca1	Brca2	Fancc	Fancf	Palb2	Fance	Fancg	Rad51c	Brip1	Slx4	Rfwd3	Fancd2	Vhl
+FANCONI ANEMIA COMPLEMENTATION GROUP	ClinVar_2025	Fanci	Fancl	Fancm	Fancb	Fanca	Xrcc2	Vrk2	Fancc	Fancf	Palb2	Fance	Fancg	Rad51c	Rad51	Ercc4	Ube2t	Fancd2	Zfp276	Vcp	Dctn5	Brca1	Brca2	Brip1	Slx4
+FANCONI RENOTUBULAR SYNDROME	ClinVar_2025	Gatm	Hnf1a	F12	Ndufaf6	Slc34a1	Ehhadh
+FEBRILE SEIZURES	ClinVar_2025	Adgrv1	Scn9a	Scn1a	Cpa6	Gabrg2	Hcn2
+FETAL AKINESIA DEFORMATION SEQUENCE	ClinVar_2025	Ryr1	Ascc1	Vps13d	Fbln1	Gldn	Aspm	Acta1	Setbp1	Dok7	Chrng	Scn8a	Adss1	Piezo2	Rapsn	Musk	Nup88
+FINNISH CONGENITAL NEPHROTIC SYNDROME	ClinVar_2025	Nphs1	Nphs2	Abcc6	Ttc21b	Alg1
+FLEXION CONTRACTURE	ClinVar_2025	Myh7b	Ryr3	Spast	Fat1	Myo9a	Gldn
+FOCAL EPILEPSY	ClinVar_2025	Snap25	Mecp2	Cacna1a	Gabra5	Nprl3	Scn1a	Sptan1	Depdc5
+FOCAL SEGMENTAL GLOMERULOSCLEROSIS	ClinVar_2025	Cubn	Trpc6	Eya1	Actn4	Pmm2	Rpgrip1l	Myo9a	Pax2	Anln	Myo1e	Inf2	Wt1	Coq2	Nphs1	Col4a3	Lmx1b	Nphs2	Col4a5	Col4a4	Fat1	Myh9	Hnrnpc	Coq8b	Cfb	Crb2	Scarb2	Smarcal1	Cfi	Itgb4	Axdnd1	C3	Lmnb2	Cd2ap	Trim8	Nphp1	Nlrp3	Nphp3	Plce1	Nphp4	Apol7e	Slc17a5
+FOCAL-ONSET SEIZURE	ClinVar_2025	Pik3ca	Pcdh10	Brca2	Scn4a	Scn1a
+FRONTOTEMPORAL DEMENTIA	ClinVar_2025	Arsa	Pou1f1	Grn	Mef2c	Mapt	Chmp2b	Ang	Psen1	Masp2	Tardbp	Trem2
+FRONTOTEMPORAL DEMENTIA AND/OR AMYOTROPHIC LATERAL SCLEROSIS	ClinVar_2025	Pou1f1	Cyld	Grn	Vcp	Tbk1	Ccnf	Chchd10	Chmp2b	Sqstm1
+GAIT ATAXIA	ClinVar_2025	Cacna1a	Atm	Grik5	Pnpla6	Spg7	Bud13	Tbr1	Dars2
+GALLOWAY-MOWAT SYNDROME	ClinVar_2025	Lage3	Nup107	Zfp592	Trp53rka	Wdr4	Wdr73	Nup133	Eng	Osgep
+GASTRIC CANCER	ClinVar_2025	Fanci	Mlh1	Msh2	Palb2	Rad51c	Rad51d	Artn	Pik3ca	Msh6	Atm	Nf1	Trp53	Fgfr2	Il1rn	Brca1	Brca2	Hoxb13	Brip1	Nras	Stk11	Epcam	Fzr1	Erbb2	Chek2	Mutyh	Pms2	Bard1
+GASTROINTESTINAL STROMAL TUMOR	ClinVar_2025	Mtrr	Pdgfra	Kit	Msh3	Mpz	Mthfr	Mtr	Sdhb	Sdhc	Slc19a1	Sdha
+GENERALIZED EPILEPSY	ClinVar_2025	Gldc	Reln	Scn9a	Ddhd2	Hcn1	Scn1a	Gabrd	Stx1b	Gabrg2	Scn1b
+GENERALIZED HYPOTONIA	ClinVar_2025	Hace1	Smarcc2	Srd5a3	Tmem67	Cacna1a	Pura	Asxl3	Camk2g	Magel2
+GENETIC DEVELOPMENTAL AND EPILEPTIC ENCEPHALOPATHY	ClinVar_2025	Zc4h2	Cacna1e	Phka2	Ppp2r5d	Med13l	Magel2	Hcfc1	Gabrg2	Taf1	Col5a2	Gnao1	Ophn1	Cep290	Scn2a	Setd2	Arhgef6
+GENETIC NON-ACQUIRED PREMATURE OVARIAN FAILURE	ClinVar_2025	Nr5a1	Bmpr2	Figla	Ercc6	Brca2
+GLAUCOMA	ClinVar_2025	Crebbp	Ltbp3	Wdr36	Efemp1	Zeb1	Med12	Asb10	Tbk1	Ntf5	Tek	Cyp1b1	Myoc	Optn
+GLIOMA SUSCEPTIBILITY	ClinVar_2025	Idh1	Erbb2	Pparg	Brca2	Trp53
+GLOBAL DEVELOPMENTAL DELAY	ClinVar_2025	Srd5a3	Cradd	Ebf3	Med13l	Smarca5	Eef1a2	Cyp2u1	Fancd2	Kat6a	Scn8a	Cdk13	Tbc1d24	Satb2	Col12a1	Foxg1	Atp1a3	Eftud2	Tsen54	Herc2	Emc1	Akt3	Nsd2	Pura	Cdk20	Flna	Morc2b	Zfp148	Zfp260	Dyrk1a	Rpe65	Acsf3	Tbck	Gnb1	Gnb5	Adnp	Fbxl4	Mks1	Kmt2e	Gldc	Kmt2b	Cacna1a	Slc2a1	Pla2g6	Slc6a1	Fars2	Wdr45	Trpm3	Pogz	Scn9a	Ankrd11	Kcnn2	Scn1a	Hace1	Arfgef1	Cplane1	Eif2ak2	Ptpn11	Ddhd2	Ppp2r5d	Ahi1	Cul4b	Son	Npc2	Pik3ca	Coq8a	Zmynd11	Arhgef9	Shank3	Tnrc6b	Ahdc1	Snap25	D1Pas1	Arf3	Tmprss9	Mogat2	Rbm8a2	Chd6	Ptpn23	Chd3	Mecp2	Unc80	Dph1	Cep290	H3f3b	Wwox	Tcf7l2	Bcap31	Brd1	Atrx	Pacs1	Arid1b	Dspp	Rnase1	Tubb4a	Asxl1	Kcnq2	Asxl3	Lars1	Naa15	Rtn4ip1	Kcnq5	Ptrh2	Taok1	Dync1h1	Pigt	Nup107	Mea1	Hexa	Ccdc47	Camk2a	Ctnnb1	Ehmt1	Kansl1	Clcn4	Mto1	Tuba1a	Gli3	Nkap	Ap4m1	Scamp5	Ndst1	Cux1	Epg5	Tctn1	Pcgf2	Camk2g
+GLUCOCORTICOID DEFICIENCY	ClinVar_2025	Mc2r	Nnt	Txnrd2	Mrap	Aaas
+GLYCOGEN PHOSPHORYLASE KINASE DEFICIENCY	ClinVar_2025	Phkg2	Phka2	Cfap119	Phka1	Phkb
+GLYCOGEN STORAGE DISEASE	ClinVar_2025	Agl	Pgam2	Gaa	Gbe1	Pygl	Pygm	G6pc1	Gys2	Pfkm	Phkg2	Gyg1	Slc37a4	Ccdc40
+GLYCOGEN STORAGE DISEASE DUE TO GLUCOSE-6-PHOSPHATASE DEFICIENCY	ClinVar_2025	Ass1	Mmab	Gaa	G6pc1	Slc37a4
+GLYCOSYLPHOSPHATIDYLINOSITOL BIOSYNTHESIS DEFECT	ClinVar_2025	Pigc	Pigs	Pigu	Gpaa1	Pigh
+GRANULOMATOUS DISEASE	ClinVar_2025	Ncf2	Ncf4	Cybb	Cyba	Ncf1
+HEARING IMPAIRMENT	ClinVar_2025	Tmc1	Rdx	Lhfpl5	Mitf	Atad3a	Myo7a	Tsc1	Ush2a	Tyr	Otogl	Pax3	Shank1	Cldn14	Myo3a	Aldh18a1	Myh9	Col9a1	Slc26a5	Slc26a4	Gpsm2	Diablo	Ptprq	Pomt1	Chd7	Tmprss3	Cib2	Brca2	Otoa	Marveld2	Myo6	Myh14	Otog	Otof	Tecta	Esrrb	Adgrv1	Ceacam16	Manba	Wfs1	Whrn	Tnnc1	Eya4	Loxhd1	Col2a1	Diaph1	Tjp2	Gjb2	Tmie	Kcnq1	Col4a5	Myo15a	Ildr1	Polr1d	Clrn1	Ptrh2	Atp6v1b1	Hexa	Col11a2	Actg1	Alms1	Foxi1	Pcdh15	Cacna1d	Pjvk	Triobp	Coch	Ush1c	Ednrb	Sall1	Abhd12	Cdh23	Bsnd	Col11a1	Slitrk6	Pdzd7
+HEARING LOSS	ClinVar_2025	Tmc1	Rdx	Afg2b	Slc12a2	Lhfpl5	Myo7a	Ush2a	Myo3a	Esrp1	Spns2	Prkra	Slc26a4	Gpsm2	Slc44a4	Ptprq	Trrap	Wbp2	Kars1	Tmprss3	Otoa	Myo6	Nlrp3	Otog	Prps1l1	Mpzl2	Otof	Tecta	Tmem132e	Adgrv1	Ceacam16	Whrn	Elmod3	Atp2b4	Loxhd1	Gjb2	Tmie	Dmxl2	Myo15a	Ildr1	Map1b	Col4a6	Sftpa1	Bdp1	Clrn2	Pde1c	Greb1l	Cabp2	Pjvk	Rora	Triobp	Coch	Eps8	Ush1c	Nars2	Cdh23	Bsnd	Col11a1	Eps8l2	Atp7b	Pls1	Pdzd7
+HEART	ClinVar_2025	Col2a1	Taf1	Pus3	Jag1	Mapk1	Cdk13	Cep170b	Myh6	Tbx5
+HEART FAILURE	ClinVar_2025	Ttr	Mybpc3	Myot	Akap9	Nexn	Myh6	Myh7
+HEMOCHROMATOSIS	ClinVar_2025	Hjv	Tfr2	Fth1	Hfe	Hamp	Slc40a1	Best1
+HEMOLYTIC ANEMIA	ClinVar_2025	Spta1	Gnpda1	Pklr	Ubl4a	Slc4a1	Ank1
+HEMOLYTIC UREMIC SYNDROME	ClinVar_2025	Cfhr1	C1galt1c1	Dgke
+HEPATOBLASTOMA	ClinVar_2025	Fancm	Ctnnb1	Gba1	Flcn	Slx4	Kctd11	Vhl	Kdr	Dhcr7	Fgfr3	Ldlr	Trp53
+HEPATOCELLULAR CARCINOMA	ClinVar_2025	Ret	Casp8	Vdr	Artn	Pik3ca	Ctnnb1	Sltm	Axin1	Rad50	Trp53
+HEREDITARY ANGIOEDEMA	ClinVar_2025	Ace	Angpt1	F12	Slc34a1	Serping1
+HEREDITARY ATAXIA	ClinVar_2025	Prkcg	Pnpt1	Eya1	Kcnj11	Gfpt1	Kcnd3	Wfs1	Aptx	Ano3	Polr3a	Asxl3	Scn8a	Aldh18a1	Kcnq5	Sec23b	Hexa	Trio	Kcna1	Kcnc3	Atp1a3	Spg7	Slc6a20b	Clcn2	Mfsd8	Gpc3	Nkx2-1	Sacs	Setd2	Dnm1l
+HEREDITARY BREAST OVARIAN CANCER SYNDROME	ClinVar_2025	Recql	Myo7a	Lifr	Msh2	Palb2	Rad51c	Mmp12	Rad51b	Tg	Krt19	Rad51d	Artn	Fancd2	Rint1	Msh6	Ccng1	Atm	Nf1	Cdk12	Mre11a	Trp53	Pm20d1	Abraxas1	Rpn1	Brca1	Brca2	Egfr	Fzr1	Tert	Rad54l	Chek2	Pms2	Pms1	Wwox	Eif2b5	Mlh1	Eya2	Fancm	Tnnc1	Xrcc2	Fancc	Fance	Rad50	Nfkb2	Kit	Tyro3	Slc25a15	Blm	Dctn5	Ppp2r2a	Brip1	Stk11	Ufl1	Ep300	Bard1
+HEREDITARY CANCER	ClinVar_2025	Pdgfra	Mlh1	Fancm	Dicer1	Msh2	Palb2	Smarca4	Rad51c	Asxl1	Rad51d	Msh6	Sltm	Atm	Nf1	Lztr1	Pot1a	Rb1	Ret	Blm	Brca1	Brca2	Egfr	Ascl1	Brip1	Pole	Fzr1	Chek2	Rras	Ldlr	Pms2	Bard1
+HEREDITARY CANCER-PREDISPOSING SYNDROME	ClinVar_2025	Rnf43	Gen1	Map3k1	Pdgfra	Dicer1	Runx1	Mitf	Recql	Sdhd	Tsc2	Msh2	Tsc1	Fbxo11	Sdhb	Sdhc	Smarca4	Sdha	Wt1	Msh3	Fancd2	Msh6	Mre11a	Lztr1	Trp53	Galnt12	Rb1	Smarcb1	Abraxas1	Egfr	Samd9l	Slx4	Fzr1	Nthl1	Tmem127	Chek2	Mpz	Gpc3	Ldlr	Pms2	Casr	Smad4	Fancm	Fanca	Xrcc2	Fancc	Fancf	Fance	Dhfr	Ext2	Mc1r	Prkar1a	Nop10	Max	Blm	Gata2	Hoxb13	Ciao1	Brip1	Stk11	Men1	Bard1	Acd	Smarce1	Axin2	Ptch1	Ptpn11	Palb2	Etv6	Phox2b	Rad51c	Wrap53	Rad51b	Rad51d	Artn	Pik3ca	Cdk4	Rasa2	Sltm	Nf2	Atm	Nf1	Fam20a	Bmpr1a	Pot1a	Alk	Ret	Brca1	Brca2	Cdc73	Rad21	Epcam	Tert	Kif1b	Mutyh	Map4k2	Magi1	Mlh1	Mlh3	Rad50	Evi2a	Thap7	Grem1	Ercc4	Kit	Palld	Bivm	Ercc3	Sdhaf2	Dnah1	Aurkaip1	Cebpa	Cdkn1b	Pkd1	Dctn5	Cbl	Flcn	Recql4	Pole	Pold1	Sufu	Vhl	Ctnna1	Hras
+HEREDITARY NONPOLYPOSIS COLON CANCER	ClinVar_2025	Cdkn1b	Mlh1	Chek2	Msh6	Ctnna1	Msh2	Rps20	Fbxo11	Gne	Pms2	Smarca4	Cftr
+HEREDITARY NONPOLYPOSIS COLORECTAL CARCINOMA	ClinVar_2025	Fancm	Msh6	Brca2	Msh2	Pms2	Pms1
+HEREDITARY NONPOLYPOSIS COLORECTAL NEOPLASMS	ClinVar_2025	Epcam	Mlh1	Msh6	Msh2	Fbxo11	Pms2
+HEREDITARY PANCREATITIS	ClinVar_2025	Cpa1	Prss58	Spg7	Spink1	Cftr
+HEREDITARY PHEOCHROMOCYTOMA-PARAGANGLIOMA	ClinVar_2025	Max	Mdh2	Dlst	Sdhd	Sdhb	Sdhc	Ciao1	Sdha	Tmem127	Mpz	Sdhaf2	Vhl	Nf1
+HEREDITARY SENSORY AND AUTONOMIC NEUROPATHY	ClinVar_2025	Sptlc1	Kif1a	Scn11a	Wnk1	Dst	Kdelr2	Prdm12	Retreg1	Cct5
+HEREDITARY SPASTIC PARAPLEGIA	ClinVar_2025	Entpd1	Usp8	Slc16a2	Slc33a1	Ampd2	Nipa1	Ddhd1	Cyp7b1	Ddhd2	Ap5b1	Zfyve26	L1cam	Son	Cyp2u1	Lyrm4	Aldh18a1	Ubap1	Tecpr2	Dclre1b	Pgap1	Rnaseh2b	Rtn2	Ap5z1	Iba57	Spg7	Nt5c2	Gjc2	Kif5a	Spast	Kif1a	Tfg	Twnk	Kif1c	Ap4s1	B4galnt1	Sptbn2	Mars1	Fanci	Trappc2b	Fgg	Bcl11b	Erlin2	Erlin1	Ap4b1	Cpt1c	Vps37a	Mcoln1	Fa2h	Reep2	Reep1	Mtrfr	Mag	Setx	Spart	Als2	Gnas	Plp1	Pnpla6	Polg2	Bscl2	Spg21	Washc5	Phf6	Wdr48	Arl6ip1	Ap4e1	Gba2	Fars2	Hspd1	Ap4m1	Zfyve27	Dstyk	Arsi	Sacs	Spg11	Cct5
+HEREDITARY SPHEROCYTOSIS	ClinVar_2025	Spta1	Epb42	Slc4a1	Ank1	Sptb
+HERMANSKY-PUDLAK SYNDROME	ClinVar_2025	Bloc1s6	Hps1	Bloc1s3	Hps3	Hps5	Ap3d1	Dtnbp1	Hps4	Ap3b1	Hps6	Cp
+HETEROTAXY	ClinVar_2025	Ccdc39	Dnah5	Zic3	Pkd1l1	Mns1	Nodal	Acvr2b	Cfc1	Dnaaf11	Mmp21
+HIGH MYOPIA	ClinVar_2025	Col17a1	Ap5z1	Kdr	Pcsk9	Pygm	Wdr36
+HIRSCHSPRUNG DISEASE	ClinVar_2025	Crebbp	Ret	Edn3	Notch2	Tgfb2	Ahnak	Ece1	Ptch1	Plau	Ednrb	Gdnf	Dpyd	Serpinf1
+HISTIOCYTIC MEDULLARY RETICULOSIS	ClinVar_2025	Dclre1c	Suv39h2	Rag1	Il7r	Rag2
+HISTORY OF NEURODEVELOPMENTAL DISORDER	ClinVar_2025	Cdkl5	Gk	Atp6ap2	Rnase12	Ofd1	Fancb	Shroom4	Trappc9	Tbr1	Syn1	Slc9a7	Il1rapl1	Hprt1	Pign	Zfp711	Bcor	Brwd3	Scn2a	Shank3	Arhgef7	Ddi2	Nrxn1	Hccs	Zdhhc9	Pqbp1	Rai1	Sox3	Mecp2	Porcn	Srpx2	Grin2a	Nipbl	Kif1a	Lamp2	Gpc3	Nhs	Abcd1	Atp7a	Prps1l1
+HOLOPROSENCEPHALY	ClinVar_2025	Cdon	Tgif1	Stag2	Shh	Cnot1	Sh2d1a	Six3	Zic2	Ptch1	Gli2	Lmbr1
+HOLOPROSENCEPHALY SEQUENCE	ClinVar_2025	Cdon	Tgif1	Fgf8	Cnot1	Fgfr1	Foxh1	Ptch1	Dll1	Gli2	Nodal	Disp1
+HOYERAAL-HREIDARSSON SYNDROME	ClinVar_2025	Dclre1b	Dkc1	Tert	Tinf2	Ap4b1
+HYDROCEPHALUS	ClinVar_2025	Ccdc88c	Smarcc1	Ift56	Acadm	Dph1	Dnah9	Trim71	Wdr81	Lnx1	Pomgnt1
+HYDROPS FETALIS	ClinVar_2025	Chrna1	Slc26a3	Rapsn	Foxp3	L1cam
+HYPER-IGE RECURRENT INFECTION SYNDROME	ClinVar_2025	Zfp341	Stat3	Dock8	Itgb3	Il6st	Il6ra
+HYPERCHOLESTEROLEMIA	ClinVar_2025	Ghr	Ppp1r17	Apoe	Pcsk9	Ldlrap1	Abcg5	Ldlr	Apob
+HYPEREKPLEXIA	ClinVar_2025	Glra1	Atad1	Glrb	Gphn	Slc6a5
+HYPERINSULINISM	ClinVar_2025	Map4k2	Slc16a1	Kcnj11	Abcc8	Hnf1a	Hadh
+HYPERPHOSPHATASIA	ClinVar_2025	Pigv	Pgap2	Pgap3	Pigo	Pigw	Pigyl
+HYPERTELORISM	ClinVar_2025	Tfap2b	Slc12a6	Bcl11b	Col5a1	Pik3ca	Pax6
+HYPERTENSIVE DISORDER	ClinVar_2025	Cela2a	Inf2	Pkd1	Col4a5	Agxt
+HYPERTRIGLYCERIDEMIA	ClinVar_2025	Cela2a	Lipi	Creb3l3	Apoa5	Mapre2
+HYPERTROPHIC CARDIOMYOPATHY	ClinVar_2025	Kcnj5	Trim63	Kcnj8	Mybpc3	Abcc9	Cav3	Dnaaf3	Jup	Actn2	Ssu2	Ptpn11	Braf	Tmem43	Des	Myl2	Myl3	Rbm20	Dsg2	Pkp2	Alpk3	Lztr1	Myh6	Dsc3	Myh7	Sos1	Calr3	Hcn4	Slc25a4	Masp1	Akap9	Nexn	Lmna	Csrp3	Pdlim3	Lamp2	Kif5b	Tpm1	Ankrd1	Flnc	Pms2	Kcnh2	Fkrp	Map2k2	Abca1	Casr	Nebl	Eya4	Gaa	Rnase2b	Ank2	Dspp	Cacnb2	Nat8f2	Fmnl3	Tnnt1	Kcnq1	Tnnt2	Tcap	Cryab	Vcl	Mylk2	Myom1	Ryr2	Kcne1	Ctf1	Lama4	Cacna1c	Prkag2	Ldb3	Actc1	Jph2	Gatad1	Pln	Ttr	Sgcb	Mybphl	Scn5a	Tnni3	Dmd	Myoz2	Trpm4
+HYPOGONADOTROPIC HYPOGONADISM	ClinVar_2025	Dusp6	Fshb	Tacr3	Il17rd	Sox11	Wdr11	Pou6f2	Kiss1	Polr3b	Axl	Fgfr1	Spry4	Nsmf	Pnpla6	Gnrh1	Sema3a	Sema3e	Chd7	Ndnf	Sema3f	Hs6st1	Prokr2	Fgf8	Flrt3	Gnrhr	Kiss1r	Tac2	Ccdc141	Fezf1	Prok2
+HYPOMYELINATING LEUKODYSTROPHY	ClinVar_2025	Rars1	Pycr2	Hikeshi	Hspd1	Tubb4a	Gjc2	Polr3a	Aimp1	Polr3b	Polr1d	Vps11	Snap29	Gcdh
+HYPOPARATHYROIDISM	ClinVar_2025	Flcn	Gcm2	Fam111a	Ptrh2	Gata3
+HYPOPHOSPHATEMIC RICKETS	ClinVar_2025	Clcn5	Enpp1	Dmtf1	Fgf23	Phex
+HYPOPLASTIC LEFT HEART SYNDROME	ClinVar_2025	Foxp1	Tbx1	Notch1	Gja1	Hand1	Nkx2-5
+HYPOTONIA	ClinVar_2025	Ankle2	Arf3	Usp7	Ctbp1	Fkbp14	Cacna1c	Ebf3	Mrps22	Alg13	Nalcn	Smarca5	Tbck	Unc80	Gnb1	Cep290	Exosc3	Ahdc1
+HYPOTRICHOSIS	ClinVar_2025	Krt71	Rb1	Cdsn	Lpar6	Liph	Cdh15	Eps8l3	Dsg4	Apcdd1	Lmbr1
+ICHTHYOSIS	ClinVar_2025	Krt1	Sult2b1	Gjb2	Alox12b	Pnpla1	Sdr9c7
+IDIOPATHIC GENERALIZED EPILEPSY	ClinVar_2025	Rbfox1	Adgrv1	Cacnb4	Gabra1	Casr	Rbfox3	Gabrd	Cacna1h
+IMMUNODEFICIENCY	ClinVar_2025	Irf2bp2	Pfpl	Tet2	Irak4	Mrtfa	Tyk2	Ptprc	Cd4	Stim1	Otulin	Ccdc8	Ifng	Irf8	Atm	Irf9	Rel	Il6st	Irf7	Tlr7	Cd247	Ms4a1	Nfe2l2	Ivns1abp	Tlr3	Nfat5	Arhgef1	Cd81	Mcm10	Skic2	Bach2	Cd3e	Rtel1	Cd3d	Relb	Rnf31	Fcho1	Tbx21	Ripk1	Il12rb1	Icos	Il17ra	Fanci	Cr2	Ifngr1	Stat1	Atp6ap1	Bcl11b	Efl1	Ifngr2	Nckap1l	Fbxl15	Nfkb1	Nfkb2	Pik3r1	Il2rb	Tpp2	Ifnar1	Ifnar2	Il7r	Tnfrsf13c	Tnfrsf13b	Clstn1	Sh3kbp1	Bcl10	Ikzf1	Fasl	Pik3cg	Ifih1	Rasgrp1	Pold1	Sec61a1	Cd19	Lrig1	Pgm3	Tnfrsf9	Ikbkg	Rag1
+INCIDENTAL DISCOVERY	ClinVar_2025	Ifih1	Spred1	Chek2	Hfe	Scnn1a	Sdha
+INCREASED BONE MINERAL DENSITY	ClinVar_2025	Clcn7	Tnfrsf11a	Tcirg1	Tnfsf11	Lrp5	Plekhm1
+INFERTILITY DISORDER	ClinVar_2025	Ccdc39	Dnah5	Gnrhr	Nphp4	Dnai1	Dnaaf11
+INFLAMMATORY BOWEL DISEASE	ClinVar_2025	Tgfb1	Abcb1a	Il10	Il23r	Il10rb	Il10ra	Krt8	Myo5b	Nod2	Irgm1	Atg16l1	Ercc2	Prkcq	Slc39a8
+INHERITED BREAST CANCER AND OVARIAN CANCER	ClinVar_2025	Rad51d	Chek2	Atm	Brca1	Brca2	Palb2
+INHERITED IMMUNODEFICIENCY DISEASES	ClinVar_2025	Csf3r	Smarcal1	Aire	Ifngr1	Stat1	Clstn1	Stat3	Tinf2	Ikzf1	Fbxl15	Nfkb1	Nfkb2	Stk4	G6pc3	Pik3r1	Skic3	Fasn	Cxcr4	Btk	Ctla4	Il12rb1	Rag1	Icos
+INHERITED OBESITY	ClinVar_2025	Pomc	Dnah8	Enpp1	Ucp3	Pparg	Nr0b2	Agrp
+INHERITED OVARIAN CANCER	ClinVar_2025	Rad51c	Brip1	Rad51d	Msh6	Brca1	Brca2	Msh2	Palb2
+INTELLECTUAL DEFICIENCY	ClinVar_2025	Grin2b	Klf7	Pogz	Kmt2a	Slc2a1	Adnp
+INTELLECTUAL DEVELOPMENTAL DISORDER	ClinVar_2025	Kdm4b	Setd1b	Zbtb11	Alg14	Otud6b	Nemf	Tbr1	Fbxo11	Pus7	Sox11	Mtss2	Srrm2	Tanc2	Cdk8	Rfx7	Slc9a7	Cnot2	Cnot3	Msh6	Ccnk	Chd8	Med13	Tfe3	Tnpo2	Pidd1	Abca2	Brd1	Bcl11b	Actl6b	Iqsec1	Zfx	Atp2b1	Wdr11	Nr4a2	Ppm1d	Pkn1	Llgl1	Eif3f	Cep104	Ddx6	Trmu	Acadvl	Gria1	Kmt2b	Slc45a1	Trio	Zfp292	Nudt2	Phf21a	Alkbh8	Rora	Nkap	Tmem94	Glra2	Slitrk2	Mettl5	Pde2a	Camk2g	Large2	Setd2	Slc25a23	Pdzd8	Ap2m1
+INTELLECTUAL DISABILITY	ClinVar_2025	Gamt	Upf3b	Grin2d	Zfyve26	Larp7	Gatad2b	Polr3a	Polr3b	Lgals12	Wdr81	Agtr2	Cdk13	Cyfip2	Pgap1	Ankle2	Frmpd4	Rala	Nprl3	Ift172	Nexmif	Pnkp	Wdr62	Tsen54	Tmem67	Cdk20	Rpl15	St3gal5	Hoxa1	Zfp148	St3gal3	Crebbp	Zfp142	Pmm2	Actl6b	Mthfr	Vps13b	Hcfc1	Col2a1	Slc6a8	Gjb2	Kcnma1	Hecw2	Fat4	Mcph1	Gldc	Trio	Ngly1	Nedd4l	Gata4	Slc6a1	Smc3	Grin2b	Grin2a	Epb41l1	Cdk5rap2	Hace1	Fuca1	Nsun2	Gabra1	Wdr37	Mybpc3	Kcnb1	Usp9x	Ofd1	Ptch1	Ash1l	Prss12	Pax3	Zeb2	Pax8	Pah	Pafah1b1	Pigl	Rarb	Ago1	Mocs1	Pigg	Brme1	Gabrb3	Gabrb2	Arf3	Tinagl1	Cltc	Ctcf	Pqbp1	Mecp2	Med12	Atic	Tert	Ap4s1	Cic	Wwox	Mbd5	Cdkl5	Mef2c	Csnk2a2	Wdr19	Elp2	Rnase1	Gm49322	Col4a1	Gatm	Nfib	Col4a2	Plp1	Ncapd3	Rlim	Lins1	Setd5	Crb1	Phf6	Hexa	Myt1l	Alms1	Fmn2	Zfp957	Phf8	Gli3	Ndst1	Tmem147	Impa1	Nsdhl	Smpd1	Pcgf2	Aga	Dmd	Setd2	Zswim6	Zbtb18	Crbn	Gpt2	Tbr1	Fbxo11	Foxp2	Foxp1	Ski	Slc9a7	Cnot3	Kat6b	Kat6a	Tubgcp6	Phip	Tnik	Lztr1	Nfix	Srsf1	Tusc3	Katnb1	Hr	Fgd1	Zbtb20	Yy1	Sh3bp2	Nsd1	Tubb3	Ntf5	Flna	Kmt5b	Kcnh1	Ftsj1	Trappc9	Dyrk1a	Fbxo31	Med23	Mettl23	Il1rapl1	Adnp	Ccdc22	Gria3	Gria1	Kmt2b	Fmr1	Kmt2a	Kmt2d	Kmt2c	Phf21a	Magel2	Rora	Edc3	Mmp25	Pmepa1	Ankrd11	Cert1	Rnase12	Dnmt3a	Msl3	Ptpn11	Npc1	Smc1a	Lingo1	Cul4b	Son	Cdk8	Nf1	Ogt	Sp8	Kcnk4	Ahdc1	Sos1	Snap25	Cntnap2	Nlgn3	Pomt2	Ubr1	Itpr1	Unc80	Dvl1	Pgk1	Wasf1	Cep290	Ntrk2	Ntrk1	Slc13a5	Mboat7	Atrx	Naga	Ndufa1	Bcs1l	Mtor	Gabrg2	Aspm	Asxl1	2700049A03Rik	Kctd11	Asxl3	Eif3f	Usp27x	Hdac4	Syne1	Ftcd	Hdac8	Ttr	Ap4m1	Syngap1	Naglu	Puf60	Sin3a	Nhs	Tlk2	Cacng2	Slc25a21	Atp7b	Atp7a	Dync2h1	Actn4	Cradd	Ebf3	Acod1	Ppp2r1a	Acsl4	Med13l	Smarca2	Smarca4	Afg3l2	Ulk4	Zfp711	Bcor	Tecpr2	Stxbp1	Smarcb1	Lrp2	Satb2	Slc46a1	Foxg1	Amer1	Dhx37	Svbp	Pof1b	Arsa	Nus1	Cog6	Iqsec2	Tango2	Alg3	Rab39b	Ank3	Cog1	Ank2	Ccdc88c	Cnksr2	Cyp27a1	Stag2	Fbxl3	Scn2a	Arx	Pcdh10	Lman2l	Sox3	Trpm3	Sox2	Rusc2	Tspan7	Hivep2	Kcnn2	Sox9	Scn1a	Ampd2	Otud6b	Ap3b2	Ap3b1	Qars1	Kif7	Syn1	Th	Sltm	Tecr	Atm	Cc2d1a	Depdc5	Arhgef6	Arhgef7	Sptbn5	Grik5	Brca2	Ppp3ca	Zmym3	Kif1a	Otog	H3f3b	Mpp3	Syp	Pacs1	Ano5	Thoc6	Ttc8	Hnrnph2	Pacs2	Kcnq2	Kcnq3	Kcnq5	Llgl1	Trip12	Wac	Dync1h1	Steep1	Gdi1	Ctnnb1	Nudt2	Prickle1	Zdhhc9	Cux2	Enpp1	Ep300	Epg5	Mettl5	Hras	Sptan1	Gabrd	Corin	Ocrl	Alg13	Tsc2	Ube2a	Huwe1	Tsc1	Mid2	Eef1a2	Tanc2	Tbl1xr1	Fancd2	Gprin1	Kif4	Scn8a	Sbds	Tbc1d24	Brwd3	Kdm1a	Atp1a4	Ube3a	Atp1a3	Nalcn	Ube3b	Tmem240	Lmna	Reln	Slx4	Nphp1	Pura	Mpz	Clasp1	Gpc3	Dscam	Pcnt	Bptf	Trappc2l	Manba	Smad4	Auts2	Stil	Ap4b1	Cask	Pou3f3	Diaph1	Gnb1	Cdh15	Fgfr3	Dock6	Vcp	Cacna1a	Dock8	Slc2a1	Actg1	Cacna1d	Cacna1g	Igf1r	Deaf1	Pogz	Camta1	Champ1	Zc3h14	Washc4	Arfgef2	Bckdha	Arfgef1	Ppp2r5d	Ahi1	Shank1	Pex7	Gnao1	Aldh18a1	Man2b1	Zmynd11	Qrich1	Shank3	Shank2	Kdm5b	Kdm5c	D1Pas1	Abcb7	Nrxn2	Chd8	Nrxn1	Uba5	Chd7	Chd6	Lamc3	Mtr	Pik3r2	Chd3	Aff2	Rai1	Dpp6	Rbm10	Kdm6a	Kdm6b	Mbtps2	Tcf7l2	Taf13	Naa10	Arid1a	Arid1b	Kctd7	Taf1	Galc	Glb1	Setbp1	Myo15a	Naa15	Hcn1	Dnah1	Tsen34	Mea1	Brat1	Lama2	Camk2a	Ddx23	Camk2b	Zfp292	Ehmt1	Emc10	Lama1	Kansl1	Clcn4	Cln8	Clcn2	Sgsh	Sobp	Cln3	Rps6ka3	Six3	Kynu	Dip2b	Mapk1	Abcd1	Camk2g
+INTERSTITIAL LUNG DISEASE	ClinVar_2025	Abca3	Sftpc	Muc5b	Bmp1	Tert	Nkx2-1	Sftpa1	Rtel1
+IRIDO-CORNEO-TRABECULAR DYSGENESIS	ClinVar_2025	Col4a1	Cyp1b1	Elp4	Pax6
+ISCHEMIC STROKE	ClinVar_2025	Notch3	Nanos3	Grn	Ttf2	F5
+ISOLATED FOCAL CORTICAL DYSPLASIA	ClinVar_2025	Pkd1	Nthl1	Tsc2	Tsc1	Mtor
+ISOLATED MACULAR DYSTROPHY	ClinVar_2025	Abca4	Col4a5	Prph2	Alpk3	Impg1	Best1
+ISOLATED MICROPHTHALMIA	ClinVar_2025	C1qtnf5	Aldh1a3	Gdf3	Rax	Vrk1	Prss56	Gdf6	Vsx2
+ISOLATED THORACIC AORTIC ANEURYSM	ClinVar_2025	Acta2	Ski	Myh11	Tgfbr1	Fbn1	Tgfbr2
+JEUNE THORACIC DYSTROPHY	ClinVar_2025	Dync2h1	Dync2i2	Ift140	4933427D14Rik	Wdr19	Ttc21b	Ift81	Lbr	Ift80	Wdr35	Evc2
+JOUBERT SYNDROME	ClinVar_2025	Tgfb1	Cplane1	Wdpcp	Ofd1	Rpgrip1l	Armc9	Kif7	Ahi1	Tmem138	Tmem216	Coq8a	B9d2	Cep41	Scn4a	B9d1	Sos1	Katnip	Fam149b	Cep120	Ift172	Chd7	Lmod3	Tmem67	Ift74	4933427D14Rik	Nphp1	Cspp1	Nphp3	Cc2d2a	Cep290	Ift140	Ttc21b	Rpe65	Tmem231	2700049A03Rik	Tmem237	Rlim	Mks1	Cep104	Fto	Arl3	Arl13b	Inpp5e	Tctn3	Togaram1	Sufu	Tctn2	Tctn1	Pde6d	Pibf1	Atp6v0a2
+JOUBERT SYNDROME AND RELATED DISORDERS	ClinVar_2025	Cep104	Cplane1	Kif14	Rpgrip1l	Tmem231	Ahi1	2700049A03Rik	Tmem138	Tmem237	Arl13b	Tmem67	Inpp5e	Nphp1	Tctn3	Tctn2	Nphp3	Tctn1	B9d2	Cc2d2a	B9d1
+JUNCTIONAL EPIDERMOLYSIS BULLOSA	ClinVar_2025	Galk1	Col17a1	Lamb3	Itgb4	Myo6	Lama4	Itga6	Lamc2
+JUVENILE AMYOTROPHIC LATERAL SCLEROSIS	ClinVar_2025	Fus	Als2	Syne1	Vrk1	Spg11
+JUVENILE MYELOMONOCYTIC LEUKEMIA	ClinVar_2025	Asxl1	Nras	Evi2a	Nf1	Ptpn11	Cbl
+KABUKI SYNDROME	ClinVar_2025	Ptcd1	Kmt2d	Alg1	Brca2	Kdm6a
+KARTAGENER SYNDROME	ClinVar_2025	Odad2	Dnah5	Rsph4a	Zmynd10	Spag1	Dnai1	Rsph1	Ccdc40	Dnaaf11
+KIDNEY DISORDER	ClinVar_2025	Trpc6	Actn4	Nek8	Rpgrip1l	Myo1e	Cfhr1	Inf2	Wt1	Nphs1	Col4a3	Lmx1b	Nphs2	Kctd11	Xpnpep3	Col4a5	Col4a4	Myh9	Hnrnpc	Coq8b	Pla2r1	Cd46	Sdccag8	Cfb	Smarcal1	Dgke	Invs	Cfi	Slc3a1	Umod	Glis2	C3	Lmnb2	Cd2ap	Thbd	Tmem67	Nphp1	Nlrp3	Nphp3	Plce1	Nphp4	Pdss2	Cep290
+KIDNEY FAILURE	ClinVar_2025	Pkd1	Invs	Tmem67	Ofd1	Myh9	Umod	Fan1
+LAMELLAR ICHTHYOSIS	ClinVar_2025	Tgm1	Abca12	Nipal4	Alox12b	Cyp4f39	Slc27a4	Pnpla1	Sdr9c7	Aloxe3
+LEBER CONGENITAL AMAUROSIS	ClinVar_2025	Iqcb1	Kcnj13	Abca4	Usp45	Wdr19	Zfp260	Lca5	Ush2a	Gdf6	Rpe65	Tubb4b	Ahi1	Gigyf2	Rpgrip1	Ttc8	Impdh1	Cdhr1	Nmnat1	Cngb3	Aipl1	Prph2	Gucy2e	Rd3	Crb1	Pank2	Alms1	Crx	Nr2e3	Tulp1	Spata7	Grm6	Rdh12	Inpp5e	Adamts18	Nphp4	Nudt19	Lrat	Pde6b	Cep290	Prom1	Tead3
+LEFT VENTRICULAR NONCOMPACTION	ClinVar_2025	Ryr2	Hcn4	Dtna	Mybpc3	Jup	Prdm16	Ldb3	Actc1	Dspp	Mib1	Lmna	Ttr	Tbx20	Tpm1	Ankrd1	Pkp2	Myh6	Myh7
+LEFT VENTRICULAR NONCOMPACTION CARDIOMYOPATHY	ClinVar_2025	Dtna	Mybpc3	Actn2	Eya4	Tmem43	Dspp	Tnnt2	Rbm20	Tcap	Alpk3	Myh6	Myh7	Hcn4	Tafazzin	Fhl2	Prdm16	Ldb3	Actc1	Cbl	Jph2	Ttr	Scn5a	Tpm1	Ctnna3
+LEIGH SYNDROME	ClinVar_2025	Gamt	Ndufa9	Surf1	Tpk1	Lamb1	Coq9	Bcs1l	Lrpprc	Sdha	Ndufs8	Ndufs7	Ndufaf5	Ndufaf6	Sco1	Ercc8	Ndufs4	Atp5po	Ndufs3	Fbxl4	Ndufaf2	Ndufs1	Mtfmt	Fastkd2	Ndufa12	Ndufa10	Tcirg1	Echs1	Fars2	Foxred1	Ldhd	Cox15	Serac1	Iars2	Ndufv1	Cox10
+LEPROSY	ClinVar_2025	Tlr2	Prkn	Ccdc122	Lacc1	Lrrk2	Nod2
+LETHAL CONGENITAL CONTRACTURE SYNDROME	ClinVar_2025	Gle1	Cntnap1	Adgrg6	Erbb3	Pip5k1c	Mybpc1	Zbtb42	Adcy6	Gldn
+LEUKODYSTROPHY	ClinVar_2025	Arsa	Eif2b5	Rars1	Tmem63a	Hexa	Slc35b2	Alms1	Pycr2	Tubb4a	Aimp2	Polr3a	Ufm1	Polr1a	Eprs1	Ercc2	Rnf220	Degs1	Tmem106b
+LEUKOENCEPHALOPATHY	ClinVar_2025	Csf1r	Eif2b5	Slc13a3	Aars2	Eif2b4	Eif2b3	Eif2ak2	Kars1	Eif2ak1	Prorp	Clcn2	Dars2	Aldh7a1	Polr3a	Polr3b	Hmbs	Tmem107	Vps11	Eif2b2	Aars1	Eif2b1
+LIMB-GIRDLE MUSCULAR DYSTROPHY	ClinVar_2025	Fkrp	Cav3	Trappc11	Neb	Ano5	Dnm2	Pomgnt1	Col6a3	Scn4a	Trim32	Myh7	Ryr1	Lama2	Pomt1	Dysf	Pomt2	Syne1	Lmna	Ttr	Sgcg	Sgcd	Sgcb	Gmppb	Sgca	Capn3	Myo18b	Flnc	Sacs
+LIP AND ORAL CAVITY CARCINOMA	ClinVar_2025	Kit	Pik3ca	Hras	Lrrc56	Trp53
+LISSENCEPHALY	ClinVar_2025	Macf1	Nde1	Cep85l	Actg1	Katnb1	Tmtc3	Tuba1a	Aspm	Pln	Reln	Tubb2b	Artn	Pafah1b1	Dcx	Myh11	Dync1h1
+LOEYS-DIETZ SYNDROME	ClinVar_2025	Smad3	Tmpo	Abca3	Smad2	Tgfb3	Tgfb2	Tgfbr1	Fbn1	Tgfbr2	Fbn2
+LONG QT SYNDROME	ClinVar_2025	Kcnj5	Tgfb3	Mybpc3	Cav3	Jup	Ssu2	Cacna2d1	Tmem43	Rad51c	Gpd1l	Rbm20	Dsg2	Scn4b	Scn4a	Calm2	Calm3	Myh6	Myh7	Calm1	Hcn4	Ilk	Akap9	Nexn	Lmna	Ankrd1	Scn3b	Kcnh2	Cyp51	Ank2	Dspp	Kcnq1	Slmap	Tcap	Casq2	Vcl	Ryr2	Kcne1	Kcne2	Kcne3	Ryr1	Lama4	Cacna1c	Ldb3	Jph2	Tmpo	Ttr	Cacna1s	Scn5a	Tnni3	Dmd	Kcnj2	Snta1	Trpm4	Scn1b
+LUNG CANCER	ClinVar_2025	Prkn	Smad4	Kmt2d	Brca1	Fasl	Palb2	Egfr	Nras	Casp8	Erbb2	Slc19a1	Alk	Bard1
+LYMPHATIC MALFORMATION	ClinVar_2025	Gjc2	Calcrl	Celsr1	Mdfic	Piezo1	Vegfc	Thsd1	Slc12a9	Ephb4
+LYMPHEDEMA	ClinVar_2025	Sltm	Vegfc	Col4a6	Nhs	Fat4	Dchs1	Sptan1	Ephb4
+LYMPHOMA	ClinVar_2025	Zfp395	Artn	Bcl10	Ptpn11	Pms2	Trp53
+LYNCH SYNDROME	ClinVar_2025	Rb1	Mlh1	Msh2	Fbxo11	Palb2	Mlh3	Epcam	Msh6	Nphp4	Rps20	Eif2b2	Mutyh	Pms2	Pms1
+MACROCEPHALY	ClinVar_2025	Zbtb7a	Nfib	Herc1	Pik3ca	Akt3	Map1b	Mlc1	Rtn4ip1	Mapk1	Mtor	Gli3
+MACROTHROMBOCYTOPENIA	ClinVar_2025	Tuba8	Itga2b	Actn1	Itgb3	Tubb5	Flna	Myh9	Gp1bb	Gp1ba	Gata1	Gp9
+MACULAR DEGENERATION	ClinVar_2025	Abca4	Htra1	Rpgr	C3	Fbln5	Cnga3	Ercc6	Hmcn1	Hnrnpc	Prph2	Cfb	Fbn2
+MACULAR DYSTROPHY	ClinVar_2025	Col18a1	Gucy2e	Crb1	Ap5z1	Abca4	Rom1	Ush2a	Best1	Rpgr	Mfsd8	Cdhr1	Rdh12	Cngb3	Cnga3	Cdh15	Prph2	Tac4	Pde6b	Prom1	Impg2	Cnga1
+MALARIA	ClinVar_2025	Cr1l	Fcgr3	Ubl4a	Slc4a1	Tirap	Tnf	Cd36
+MALE INFERTILITY	ClinVar_2025	Catsper1	Dnah5	Fancm	Dnhd1	Ptpn11	Klk4	Areg	Aurkc	Axdnd1	Nr5a1	Spred1	Henmt1	Smchd1	Tdrd12	Dnai1	Lztr1	Prok2	Cftr
+MALIGNANT LYMPHOMA	ClinVar_2025	Tbl1xr1	Artn	Chek2	Brca2	Trp53
+MALIGNANT TUMOR OF BREAST	ClinVar_2025	Fanci	Casr	Mlh1	Smad4	Dicer1	Fanca	Fancc	Msh2	Tsc1	Fancf	Fbxo11	Palb2	Rad50	Smarca4	Rad51c	Mc1r	Rad51d	Artn	Msh6	Pah	Atm	Bmpr1a	Trp53	Ret	Abraxas1	Brca1	Prkdc	Brca2	Brip1	Recql4	Stk11	Pole	Slx4	Fzr1	Wrn	Pold1	Tert	Chek2	Kif1b	Mutyh	Pms2	Bard1	Polh
+MALIGNANT TUMOR OF ESOPHAGUS	ClinVar_2025	Wwox	Dcc	Brca2	Tgfbr2	Trp53
+MALIGNANT TUMOR OF PANCREAS	ClinVar_2025	Atm	Brca1	Brca2	Palb2
+MALIGNANT TUMOR OF URINARY BLADDER	ClinVar_2025	Rb1	Brca1	Brca2	Tsc1	Egfr	Nras	Tert	Ercc2	Atm	Nf1	Hras	Mre11a	Fgfr3	Kdm6a	Trp53
+MAPLE SYRUP URINE DISEASE	ClinVar_2025	Bckdhb	Ldhd	Bckdha	Dbt	Ppm1k	Lamb1
+MARFAN SYNDROME	ClinVar_2025	Col3a1	Col5a2	Col5a1	Tgfbr1	Fbn1	Tgfbr2
+MARFANOID HABITUS AND INTELLECTUAL DISABILITY	ClinVar_2025	Crebbp	Gabra1	Nfix	Ehmt1	Amfr	Arid1b	Begain	Chd3	Tpcn2	Nppc	Taf1	Fam83h	Nfib	Nsd1	Pah	Llgl1	Sidt1	Pnpla6	Cdk13
+MARTSOLF SYNDROME	ClinVar_2025	Klb	Igsf10	Rab3gap2	Rab3gap1
+MATURITY ONSET DIABETES MELLITUS IN YOUNG	ClinVar_2025	Klf11	Map4k2	Blk	Kcnj11	Abcc8	Pdhx	Pax4	Hnf1b	Ins1	Lmna	Th	Hnf1a	Neurod1
+MATURITY-ONSET DIABETES OF THE YOUNG	ClinVar_2025	Klf11	Map4k2	Blk	Kcnj11	Abcc8	Pdhx	Cel	Pax4	Ins1	Th	Hnf1a	Appl1	Cars2	Neurod1
+MECKEL SYNDROME	ClinVar_2025	Tgfb1	Rpgrip1l	Tmem231	Duox2	Tmem216	Tmem67	Tmem107	Tctn2	B9d2	Cc2d2a	Cep290	B9d1	Atp6v0a2	Mks1
+MECKEL-GRUBER SYNDROME	ClinVar_2025	Tgfb1	Fto	Rpgrip1l	Tmem231	Tmem237	Tmem216	Tmem67	Tmem107	Cspp1	Tctn2	Nphp3	Tctn1	B9d2	Cc2d2a	Cep290	B9d1	Atp6v0a2	Mks1
+MEDULLOBLASTOMA	ClinVar_2025	Ret	Wrn	Kdelr2	Prkar1a	Ptch2	Gpr161	Sufu	Ptch1	Brca2	Smarca4
+MEIER-GORLIN SYNDROME	ClinVar_2025	Orc6	Cdc45	Cdt1	Orc4	Donson	Mcm5	Mcm7	Vps35	Cdc6	Slc25a15	Fgfr2
+MELANOMA	ClinVar_2025	Mbd4	Magi1	Stk11	Mc1r	Tert	Cdk4	Chek2	Mitf	Braf
+MENIERE DISEASE	ClinVar_2025	Manba	Wfs1	Agl	Tnnc1	Myo7a	Ank2	Otogl	Myo1e	Myh3	Fscn2	Lnx1	Fto	Arhgef28	Pcdh15	Triobp	Lyst	Acan	Myo6	Myh14	Eps8l2	Otog	Kif1b	Tecta	Corin
+METACHROMATIC LEUKODYSTROPHY	ClinVar_2025	Arsa	Cdh23	Ankrd44	Sftpa1	Clcn1
+METAPHYSEAL CHONDRODYSPLASIA	ClinVar_2025	Mmp13	Pth1r	Ccdc107	Fbn1
+METHYLMALONIC ACIDEMIA	ClinVar_2025	Mvk	Mcee	Abcd4	Mmab	Mmut	Mmaa	Mmachc	Acsf3	Hcfc1
+METHYLMALONIC ACIDURIA	ClinVar_2025	Mvk	Mmab	Mmut	Mmaa	Mmachc
+MICROCEPHALY	ClinVar_2025	Knl1	Donson	Alg13	Rpgrip1l	Dhdds	Smarca4	Smarca5	Lgals12	Psat1	Tubgcp6	Sbds	Wdfy3	Dhcr7	Ppp1r15b	Ankle2	Pnkp	Ncaph	Wdr62	Tsen54	Slx4	Ift74	Svbp	Trappc14	Phc1	Fanci	Stil	Top3a	Taldo1	Tbce	Dyrk1a	Diaph1	Hspg2	Gnb1	Sass6	Fat4	Hprt1	Mcph1	Blm	Copb2	Kmt2d	Piezo1	Kmt2c	Slc2a1	Pla2g6	Cdk5rap2	Abl1	Cert1	Scn1a	Arid2	Sbf1	Arfgef2	Trmt10a	Ace	Pycr1	Ptpn11	Ift122	Qars1	Rhod	Smc1a	Tti2	Cenpe	Artn	Npc2	Gnao1	Mcm4	Atm	Arhgef9	Slc26a4	Mipep	Arf3	Kif11	Lmnb1	Prdm16	Kif14	Pqbp1	Rtel1	Lmnb2	Mecp2	Cpt2	Tert	Vps53	Rreb1	Map4k2	Cep135	Tcf7l2	Slc13a5	Arid1b	Bcs1l	Tubb4a	Wdr11	Aspm	Atat1	Col4a1	Ctu2	Als2	Lars1	Ncapd2	Taf8	Ncapd3	Dync1h1	Rab3gap2	Cars1	Setd5	Cstb	Wdr4	Zfp292	Kcna4	Clcn4	Gli2	Ap4m1	Tctn2	Cep152	Sptan1	Mfsd2a
+MICROPHTHALMIA	ClinVar_2025	Tenm3	Naa10	Abcb6	Gdf3	Dyrk1a	Vax1	Gdf6	Bmp4	Shh	Rbp4	Aldh1a3	Smoc1	Rarb	Cilk1	Bcor	Rab3gap2	Vsx2
+MIGRAINE	ClinVar_2025	Notch3	Ednra	Cacna1a	Scn5a	Atp1a2	Kcnk18	Tab2	Esr1	Scn1a
+MITOCHONDRIAL COMPLEX I DEFICIENCY	ClinVar_2025	Acad9	Gamt	Ndufa9	Ndufa8	Timmdc1	Ndufa6	Nubpl	Ndufa2	Ndufa1	Ndufs8	Ndufaf8	Ndufs7	Ndufaf5	Ndufs6	Ndufaf6	Ercc8	Ndufaf3	Ndufs4	Tmem126b	Ndufaf4	Ndufs3	Ndufaf1	Ndufs2	Ndufaf2	Ndufs1	Slc25a10	Mtfmt	Ndufb9	Ndufb8	Ndufa12	Ndufb11b	Ndufa13	Ndufa10	Ndufa11	Ndufb3	Tcirg1	Foxred1	Ndufv2	Ndufv1
+MITOCHONDRIAL COMPLEX III DEFICIENCY NUCLEAR	ClinVar_2025	Ccni	Uqcc3	Uqcrb	Lyrm7	Uqcc2	Uqcrq	Uqcrc2	Zswim7	Ttc19	Bcs1l
+MITOCHONDRIAL COMPLEX IV DEFICIENCY	ClinVar_2025	Cox8a	Coa3	Surf1	Fastkd2	Ncaph2	Pet100	Taco1	Cox6b1	Sco2	Sco1	Cox4i1	Cox15	Cox14	Cox20	Coa8	Cox10
+MITOCHONDRIAL COMPLEX V	ClinVar_2025	Atp5f1a	Atp5po	Tmem70	Ndufv1	Atpaf2
+MITOCHONDRIAL DISEASE	ClinVar_2025	Fanci	Trit1	Mecr	Mybpc3	Rars2	Surf1	Pdhx	Pus1	Mrps22	Slc52a2	Gfer	Coq2	Ndufaf8	Rrm2b	Ndufaf6	Coq8a	Ndufs4	Rmnd1	Tmem126b	Aco2	Cox20	Aars2	Slc25a4	Abcb7	Spg7	Foxred1	Med12	Dguok	C1qbp	Twnk	Mpv17	Dmd	Tk2	Scn1a	Dnm1l
+MITOCHONDRIAL DNA DEPLETION SYNDROME	ClinVar_2025	Mgme1	Ncaph2	Dguok	Sco2	Sucla2	Rrm2b	Twnk	Fbxl4	Mpv17	Slc25a10	Slc25a21	Suclg1	Tk2
+MONOGENIC DIABETES	ClinVar_2025	Klf11	Map4k2	Insr	Cavin1	Kcnj11	Abcc8	Grid1	Plin1	Wfs1	Pdhx	Cel	Eif2ak3	Pax4	Hnf1b	Foxp3	Hnf1a	Lep	Rfx6	Leprot	Bscl2	Ptf1a	Sim1	Blk	Alms1	Slc2a2	Gata6	Ppp1r3a	Agpat2	Ins1	Glis3	Lmna	Zfp57	Mc4r	Appl1	Hadh	Slc19a2	Neurod1
+MOTOR DELAY	ClinVar_2025	Ttr	Grin2b	Tmem147	Dmd	Prr12
+MOVEMENT DISORDER	ClinVar_2025	Polr3a	Slc12a5	Gnao1	Gba1	Tbc1d24	Tuba1a	Bcs1l
+MUCOPOLYSACCHARIDOSIS	ClinVar_2025	Hgsnat	Slc26a1	Idua	Gns	Aprt	Sgsh	Galns	Glb1	Gnptab	Naglu	Ids	Ankrd44	Slc26a11	Card14	Gusb
+MULTIPLE ENDOCRINE NEOPLASIA	ClinVar_2025	Map4k2	Ret	Stk11	Cdkn1b	Men1	Alk	Sdha
+MULTIPLE EPIPHYSEAL DYSPLASIA	ClinVar_2025	Col2a1	Comp	Slc26a2	Trpv4	Kif7	Matn3
+MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME	ClinVar_2025	Gcsh	Isca2	Tmem127	Bola3	Nfu1	Iba57	Pmpcb	Ciao1
+MULTIPLE MYELOMA	ClinVar_2025	Nras	Kmt2d	Lig4	Brca2	Fgfr3	Trp53	Il7r
+MULTIPLE SCLEROSIS	ClinVar_2025	Cyp27b1	Dst	Itgb4	Lama5	Plec	Tnfrsf1a	Il7r	Itpr1
+MUSCLE WEAKNESS	ClinVar_2025	Slc12a3	Surf1	Dnajb6	Col6a2	Capn3	Dync1h1
+MUSCULAR DYSTROPHY	ClinVar_2025	Fkrp	Jag2	Pmm2	Lama2	Trappc11	Dysf	Ggps1	Gosr2	Pomt2	Ano5	Lmna	Ttr	Selenon	Dnajb6	Col6a2	Gmppb	Sgca	Capn3	Dmd	Tnpo3
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY	ClinVar_2025	B3galnt2	Fkrp	Pomt1	Crppa	Pomt2	Pomgnt2	Pomgnt1	B4gat1	Gmppb	Dag1	Pomk	Rxylt1	Fktn	Large1
+MYASTHENIC SYNDROME	ClinVar_2025	Chrna1	Slc25a1	Prepl	Syt2	Vamp1	Myo9a
+MYCOBACTERIUM TUBERCULOSIS	ClinVar_2025	Tlr2	Adam17	Ifngr1	Cd209d	Pmp22	Tirap
+MYELODYSPLASTIC SYNDROME	ClinVar_2025	Asxl1	Gnb1	Erbb2	Tet2	Sf3b1	Gata2
+MYELOPROLIFERATIVE NEOPLASM	ClinVar_2025	Notch1	Pdgfra	Itpkb	Tcf3
+MYOCARDIAL INFARCTION	ClinVar_2025	F7	Ace	Gclc	Apoc3	F13a1	Itgb3	Esr1
+MYOCARDITIS	ClinVar_2025	Ttr	Bag3	Abcd1	Dspp	Myh7
+MYOFIBRILLAR MYOPATHY	ClinVar_2025	Unc45b	Svil	Bag3	Myot	Pyroxd1	Flnc	Ldb3	Cryab	Cd46	Ky	Gm6619	Dnm2
+MYOPATHY	ClinVar_2025	Unc45b	Cav3	Actn2	Pus1	Alg14	Pax7	Mybpc1	Dnm2	Stim1	Myl2	Nf1	Rapsn	Orai1	Scn4a	Plec	Sqstm1	Myh7	Mtmr3	Hspb8	Yars2	Fxr1	Cpt2	Capn3	Flna	Dag1	Map3k20	Fkrp	Gaa	Ano5	Col6a1	Bin1	Col6a3	Adss1	Casq1	Gne	Trim32	Arhgef10	Dync1h1	Fbn1	Acadvl	Ryr1	Clcn1	Ttr	Speg	Flad1	Hras	Dnm1l
+MYOPIA	ClinVar_2025	Col2a1	Slc25a4	P4ha2	Sco2	Cpsf1	Ncaph2	P3h2	Ptch1	Zfp644	Tyr	Primpol	Slc39a5
+NEMALINE MYOPATHY	ClinVar_2025	Mvk	Kbtbd13	Acta1	Tpm3-rs7	Cfl2	Neb	Klhl40	Klhl41	Lmod3
+NEONATAL DIABETES MELLITUS	ClinVar_2025	Kcnj11	Th	Abcc8	Pdhx	Ins1	Glis3
+NEONATAL HYPOTONIA	ClinVar_2025	Atrx	Dnmt3a	Pura	Tamm41	Arid1b	Ahdc1	Sos1
+NEONATAL INSULIN-DEPENDENT DIABETES MELLITUS	ClinVar_2025	Kcnj11	Th	Gata6	Gata4	Ins1
+NEOPLASM	ClinVar_2025	Usp7	Dnmt3a	Setd1b	Dicer1	Runx1	Ptpn11	Tsc2	Msh2	Etv6	Smarca4	Tgfbr2	Rad51d	Msh3	Pik3ca	Msh6	Nf2	Atm	Nf1	Lztr1	Bmpr1a	Trp53	Alk	Rb1	Brca1	Brca2	Egfr	Amer1	Nras	Tert	Akt3	Chek2	Akt1	Mutyh	Pms2	Crebbp	Egr2	Idh1	Magi1	Smad4	Map2k1	Idh2	Stat3	Rad50	Asxl1	Hnf1a	Ercc2	Fgfr1	Gnas	Fgfr3	Fgfr2	Max	Notch1	Flt3	Ctnnb1	Kmt2d	Gata3	Brip1	Stk11	Pole	Gna11	Pold1	Jak3	Jak2
+NEOPLASM OF STOMACH	ClinVar_2025	Fzr1	Mutyh	Trp53
+NEPHROCALCINOSIS	ClinVar_2025	Grhpr	Slc12a1	Slc34a1	Slc3a1	Atp6v1b1	Agxt
+NEPHROLITHIASIS	ClinVar_2025	Grhpr	Nherf1	Slc12a1	Slc34a1	Slc3a1	Atp6v1b1	Agxt
+NEPHROLITHIASIS/NEPHROCALCINOSIS	ClinVar_2025	Grhpr	Slc34a3	Casr	Ocrl	Hprt1	Prps1l1
+NEPHRONOPHTHISIS	ClinVar_2025	Mkks	Iqcb1	Cplane1	Ift140	Wdr19	Nek8	Ttc21b	Rpgrip1l	Dcdc2a	Ahi1	Evc	Kat6b	Anks6	Cep83	Rmnd1	Fto	Invs	Cep164	Mapkbp1	Glis2	Tmem67	Nphp1	Nphp3	Nphp4	Bbs9	Cep290	Zfp423
+NEPHROTIC SYNDROME	ClinVar_2025	Magi2	Trpc6	Tbc1d8b	Kirrel1	Emp2	Ttc21b	Wdr73	Nup133	Anln	Nup93	Wt1	Clcn5	Nphs1	Col4a3	Daam2	Lmx1b	Nos1ap	Nphs2	Col4a5	Col4a4	Fat1	Coq8b	Agxt	Kank4	Ptpru	Kank2	Nup205	Nup107	Smarcal1	Dgke	Itgb4	Lama5	Alms1	Avil	Nup160	Osgep	Axdnd1	Lmnb2	Arhgdia	Sgpl1	Podxl	Nup85	Cdk20	Plce1	Tns2
+NEURAL TUBE DEFECT	ClinVar_2025	Vangl2	Vangl1	Mthfr	Casq2	Fuz	Kmt5b
+NEURAL TUBE DEFECTS	ClinVar_2025	Mtrr	Mthfd1	Mthfr	Mtr	T
+NEUROBLASTOMA	ClinVar_2025	Fanca	Kif1b	Sdhc	Alk	Phox2b
+NEURODEGENERATION	ClinVar_2025	Ireb2	Agtpbp1	Atp13a2	Pank2	Pla2g6	Cp	Sgsh	Coasy	Sdha	Slc5a6	Wdr45	Fa2h	Dcaf17	Letm1	Clcn6	Cyp2u1	Adprs	Matr3	Card14	Sqstm1	Pfn1	Crat	Reps1
+NEURODEVELOPMENTAL ABNORMALITY	ClinVar_2025	Prmt7	Prmt9	Rbm15	Asns	Ptpn11	Ppp2r5d	Arid1b	Tbx6	Cdc42	Aimp2	Son	Gnb1	Piga	Wac	Cdk13	Dync1h1	Shank3	Ahdc1	Setd5	D1Pas1	Satb2	Pomt1	Foxg1	Zfp957	Cacna1g	Sepsecs	Zmiz1	Vps53	Camta1	Tfe3	Tac4	Cert1	Sptan1
+NEURODEVELOPMENTAL DELAY	ClinVar_2025	Prrt2	Kcnb1	Pdha1	Afg2b	Setd1b	Asns	Ocrl	Alg13	Braf	Huwe1	Ppp2r5d	Ppp1cb	Cenpf	Acta1	Klhl7	Dpyd	Pafah1b1	Ndufs3	Nf1	Pign	Wdfy3	Shank3	Tnrc6b	Gabrb3	Stxbp1	D1Pas1	Kif11	Srcap	Srsf1	Adcy5	Atp1a3	Brca2	Mecp2	Car2	Trim8	Kif1a	Nsd1	Nsd2	Dhx37	Rbm10	Tac4	Kdm6b	Ppfia3	Wwox	Rsph4a	Smarcc2	Smad4	Csnk2a2	Ints1	Bcl11a	Amt	Arid1a	Arid1b	Rnase1	Spart	Gnb1	Hnrnph2	Llgl1	Wac	Fbxl4	Fgfr3	Atp6v1b2	Pigt	Kdm3b	Mea1	Cacna1a	Ngly1	Pcdh10	Actg1	Cacna1c	Twist1	Slc6a1	Zfp957	Clcn3	Magel2	Robo1	Nadsyn1	Ttr	Syngap1	Nipbl	Spred1	Deaf1	Ep300	Ankrd11
+NEURODEVELOPMENTAL DISORDER	ClinVar_2025	Unc13a	Smarca1	Dicer1	Ebf3	Upf3b	Mapk8ip3	Med13l	Smarca2	Scamp4	Smarca4	Enthd1	Alpk3	Tars2	Stxbp1	Pgap1	Satb2	Wbp4	Foxg1	Ift172	Adcy5	Adarb1	Dll1	Tmem70	Dhx30	Zmiz1	Dhx37	Svbp	Nkx2-1	Ubap2l	Arsa	Ntng2	Crebbp	Zfp142	Ints1	Nr2f2	Pla2g4b	Ank2	Rpe65	H1f4	Csnk2b	Hecw2	Ppt1	Vamp2	Ints8	Sfxn3	Pcdh12	Pcdh10	Jmjd1c	Thumpd1	Slc6a1	Gata3	Aaas	Trpm3	Grin2b	Grin2a	Kat5	Asl	Kcnn2	Scn1a	Sec31a	Ncoa3	Gabbr2	Pnpt1	Usp9x	Chka	Exoc8	Pax5	Sirt4	Spout1	Ago2	Piga	Ago1	Pigk	Arhgef2	Exoc7	Gripap1	Sptbn4	Ints11	Grik5	Ighmbp2	Cd99l2	Mecp2	Med12	Kcnt1	Zmym2	Dph5	Tfe3	Ap4s1	Flvcr1	Cc2d2a	H3f3b	Eif5a	Mef2c	Gad1	Dohh	Pacs1	Gm49322	Scaf4	Hnrnph1	Hnrnph2	Kcnq2	Ttc5	Kcnq3	Map1b	Taok1	Dync1h1	Setd5	Wdr45b	Myt1l	Ctnnb1	Kcna2	Kcna3	Snx14	Tuba1a	Gnai1	Smpd4	Tmem147	Cux1	Col11a1	Aga	Zswim6	Supt16	Afg2a	Afg2b	Tbc1d2b	Cpsf3	Trappc10	Tbr1	Fbxo11	Foxp3	Madd	Shq1	Slc9a7	Col5a1	Tmx2	Kat6b	Gprin1	Kat6a	Scn8a	Wdfy3	Brwd3	Plaa	Fra10ac1	Ptpn4	Nbas	Srsf1	Gemin4	Prune1	Ube3a	Ube3c	Eftud2	Nacc1	Nsd1	Pura	Tnr	Ncdn	Dscam	Tdpoz7	Morc2b	Kcnh1	Lnpk	Bptf	Trappc4	Kcnd2	Ccdc15	Dyrk1a	Nbea	Frmd5	Nr4a2	Tbck	Gnb1	Gnb2	Gemin5	Adnp	Micu1	Gria2	Kmt2e	Kmt2a	Cul3	Kmt2c	Cacna1c	Cacna1b	Magel2	Tmem222	Rab43	Tpo	Pogz	Gria4	Vars1	Zfhx3	Dhps	Dnmt3a	Setd1b	Ptpn11	Slc4a10	Hpdl	Sars1	Eef1d	Gnao1	Etf1	Zmynd11	Dock3	Shank3	Nsrp1	Shank2	Snap25	D1Pas1	Srcap	Shmt2	Celf4	Chd8	Chd7	Irf2bpl	Mtm1	Itpr1	Nt5c2	Tac4	Wasf1	Kdm6a	Kdm6b	Magi1	Kdm2a	Smarcc2	Tcf7l2	Ralgapa1	Naa10	Atp2b1	Wars1	Tiam1	Wars2	Cdc42	Cldn5	Klf7	Lmbrd2	Trappc6b	Nfasc	Fcsk	2700049A03Rik	Nova2	Asxl3	Naa15	Taf8	Eif3f	Usp27x	Hdac4	Rere	Brat1	Camk2b	Zfp292	Emc10	Cbl	Clcn3	Polr2a	Grm7	Nars1	Tlk2	Tlk1	Dip2c	Nrcam
+NEUROFIBROMATOSIS	ClinVar_2025	Evi2a	Wdr26	Spred1	Hecw2	Nf2	Ndufa1	Nf1	Spg11
+NEUROMUSCULAR DISEASE	ClinVar_2025	Ryr1	Actn2	Trpv4	Ldb3	Msto1	Sord	Des	Lmna	Ttr	Acta1	Sgcd	Vwa1	Emd	Scn4a	Sftpa1	Myh7	Myh8
+NEURONAL CEROID LIPOFUSCINOSIS	ClinVar_2025	Acd	Grn	Mefv	Cln8	Kctd7	Cln6	Cln5	Fam171a2	Cln3	Mfsd8	Dnajc5	Ppt1	Ctsf	Ctsd
+NEURONOPATHY	ClinVar_2025	Plekhg5	Fkrp	Hspb8	Hspb3	Fbxo38	Ighmbp2	Trpv4	Vrk1	Dctn1	Sord	Bicd2	Wars1	Hspb1	Lmna	Slc5a7	Dnajb2	Reep1	Gars1	Vwa1	Pnpo	Morc2b	Sptan1	Dync1h1	Bscl2
+NEUROPATHY	ClinVar_2025	Cntnap1	Pdxk	Bcl11b	Atl3	Gdap1	Sptlc1	Sptlc2	Kif1a	Scn9a	Wnk1	Mpz	Mfn2	Slc25a46	Retreg1
+NEUTROPENIA	ClinVar_2025	Clpb	Pikfyve	Sec61a1	Gfi1	Srp54a	Tcirg1	Vps13b	Elane
+NIEMANN-PICK DISEASE	ClinVar_2025	Npc2	Smpd1	Apbb1	Npc1
+NON-IMMUNE HYDROPS FETALIS	ClinVar_2025	Foxc2	Bcl11b	Dnah9	Flt4	Piezo1	Ptpn11	Dhcr24	Hba-a1	Neb	Lrrc56	Hras	Myrf	Shoc2	Gusb	Lztr1
+NON-OBSTRUCTIVE AZOOSPERMIA	ClinVar_2025	Nr5a1	Mcm9	Msh4	Syce1l	Trim71	Tex15	Zswim7	Foxp3
+NON-SMALL CELL LUNG CARCINOMA	ClinVar_2025	Nras	Map2k1	Pik3ca	Hras	Braf	Egfr
+NON-SYNDROMIC X-LINKED INTELLECTUAL DISABILITY	ClinVar_2025	Huwe1	Pof1b	Rlim	Zfp711	Clcn4	Brwd3	Aff2	Zfp78
+NONSYNDROMIC GENETIC HEARING LOSS	ClinVar_2025	Tmc1	Wfs1	Mitf	Myo7a	Ush2a	Loxhd1	Pou3f4	Gjb2	Col4a5	Dmxl2	Lars2	Myo15a	Myo3a	Kcnq4	Slc26a4	Diablo	Col11a2	Actg1	Tmprss3	Syne4	Coch	Otoa	Myo6	Cdh23	Ccdc50	Otof	Tecta	Pdzd7
+NONSYNDROMIC HEARING LOSS	ClinVar_2025	Gsdme	Tmc1	Kcnj10	Wfs1	Col11a2	Eya4	Six1	Myo7a	Diaph1	Tjp2	Gjb2	Myo6	Myh14	Myh9	Slc17a8	Tecta	Sos1
+NOONAN SYNDROME	ClinVar_2025	Map2k2	Bcl11b	Map2k1	Ptpn11	Braf	Rnase2b	Cbl	Ppp1cb	Nras	Mras	Thap7	Spred1	Rras2	Mkrn2	Rras	Hras	Mapk1	Shoc2	Sos2	Lztr1	Sos1
+NOONAN SYNDROME AND NOONAN-RELATED SYNDROME	ClinVar_2025	Map2k2	Bcl11b	Map2k1	Ptpn11	Braf	Rnase2b	Cbl	Lrrc56	Nras	Spred1	Mkrn2	Hras	Shoc2	Sos2	Lztr1	Sos1
+NYSTAGMUS	ClinVar_2025	Gucy2e	Kcnv2	Frmd7	Gpr143	Tmem67	Cngb3	Cask	Pax6	Cep290	Rpe65	Tyr	Robo1
+OBESITY	ClinVar_2025	Ntrk2	Gldc	Nr0b2	Adrb3	Arid1a	Ddhd2	Amer1	Tbx3	Pomc	Shh	Slc9a7	Enpp1	Kat6b	Mc4r	Ucp3	Pparg	Ghrl	Scn1a	Agrp	Leprot	Kcnh2	Sos1
+OCULOCUTANEOUS ALBINISM	ClinVar_2025	Oca2	Slc24a5	Amacr	Tyrp1	Slc45a2	Lrmda	Mitf	Tyr	Wdr45
+OOCYTE MATURATION DEFECT	ClinVar_2025	Panx1	Trip13	Zp3	Patl2
+OPTIC ATROPHY	ClinVar_2025	Dync2h1	Mecr	Wdpcp	Abcc6	Pcare	Rom1	Cacna2d4	Rpgrip1l	Mertk	Afg3l2	Ahi1	Dnajc30	Lrit3	Poc5	Tubgcp6	Yme1l1	Col9a1	Aco2	Tubgcp4	Gucy2e	Nbas	Rb1	Ift172	Pros1	Lrp5	Spg7	Yars2	Spata7	Pex26	Fbln5	Med12	Adgra3	Rdh12	Cep250	Nphp3	Cnga3	Nphp4	Bbs9	Rab28	Bbs7	Cep290	Slc25a46	Zfp423	Samd11	Sema6b	Wfs1	Whrn	Abca4	Ift140	Zfp260	Sclt1	Trnt1	Col2a1	Clrn1	Cngb3	Rtn4ip1	Ssbp1	Mapre2	Cngb1	Mks1	Rp1l1	Arl6	Alms1	Pcdh15	Lama1	Nr2e3	Cacna1f	Efemp1	Kcnv2	Grm6	D630045J12Rik	Trpm1	Cdh23	Opa3	Gpr179	Cep78	Dnm1l	Idh3b
+OROFACIAL CLEFT	ClinVar_2025	Bmp4	Dlx4	Fzr1	Ppp1r13l	Sumo1	Irf6	Msx1	Trp63
+OROFACIODIGITAL SYNDROME	ClinVar_2025	Tbc1d32	C2cd3	Cplane1	Ddx59	4933427D14Rik	Tmem107	Intu	Ofd1	Ift57
+OROMANDIBULAR-LIMB HYPOGENESIS SPECTRUM	ClinVar_2025	Plxnd1	Bcdin3d	Amh	Kdm6b	Sim1
+OSTEOGENESIS IMPERFECTA	ClinVar_2025	Ccdc134	Mbtps2	Crtap	Pgghg	Tent5a	P3h1	Col1a2	Col1a1	Bmp1	Alpl	P4hb	Sp7	Ppib	Ifitm5	Fkbp10	Sparc	Lrp5	Xylt2	Plod2	Creb3l1	Serpinf1	Serpinh1	Tmem38b	Wnt1	Eif2b2	Pls3
+OSTEOPETROSIS	ClinVar_2025	Clcn7	Car2	Ostm1	Ndufs8	Tnfrsf11a	Tcirg1	Slc4a2	Plekhm1
+OVARIAN CANCER	ClinVar_2025	Pdgfra	Elac2	Dicer1	Fanca	Ptch1	Tsc2	Tsc1	Fancf	Palb2	Fance	Ext1	Tshr	Ext2	Ercc4	Hnf1a	Ercc2	Fancd2	Atm	Alk	Prkn	Rb1	Ret	Blm	Brca1	Brca2	Areg	Egfr	Flcn	Brip1	Recql4	Fzr1	Erbb2	Akt1	Vhl	Gpc3	Mutyh	Pms2	Bard1
+OVARIAN CARCINOMA	ClinVar_2025	Rad51d	Artn	Msh6	Atm	Brca1	Palb2	Mutyh
+OVARIAN DYSGENESIS	ClinVar_2025	Psmc3ip	Nup107	Sohlh1	Fshr	Mrps22	Zswim7	Esr2	Bmp15
+OVARIAN NEOPLASM	ClinVar_2025	Prkn	Brca1	Brca2	Msh2	Palb2	Smarca4	Rad51c	Brip1	Nras	Fzr1	Rad51d	Pik3ca	Rras2	Msh6	Akt1	Mre11a	Pms2	Trp53
+PALMOPLANTAR KERATODERMA	ClinVar_2025	Krt1	Wnt10a	Aagab	Krt16	Krt9	Krt6a	Serpinb7
+PANCREATIC CANCER	ClinVar_2025	Palld	Dctn5	Brca1	Brca2	Palb2
+PARKINSON DISEASE	ClinVar_2025	Tbp	Dnajc13	Vps13c	Ddost	Gigyf2	Nr4a2	Pink1	Mapt	Eif4g1	Sftpa1	Prkn	Lrrk2	Htra2	Aup1	Park7	Gba1	Pla2g6	Loxl3	Orc6	Sncaip	Uchl1	Podxl	Dnajb6	Tnr	Fgf20	Fbxo7	Plxna1	Vps35	Tgm6	Chchd2	Ndufv2	Snca
+PARKINSONIAN DISORDER	ClinVar_2025	Lrrk2	Chmp2b	Plxna1	Gba1	Pla2g6	Mre11a	Tgm6
+PERIPHERAL NEUROPATHY	ClinVar_2025	Mybpc3	Slc12a6	Abca4	Phka1	Gdap1	Gjb1	Mmp12	Mcm3ap	Pnpla6	Pmp2	Pnpla7	Bscl2	Mks1	Ngly1	Dysf	Ighmbp2	Hint1	Bag3	Prx	Flrt1	Chrng	Mpz	Mfn2	Nefl	Sbf2	Sbf1
+PERIVENTRICULAR NODULAR HETEROTOPIA	ClinVar_2025	Arf1	Ermardl1	Map1b	Flna	Nedd4l	Brca1
+PERMANENT NEONATAL DIABETES MELLITUS	ClinVar_2025	Map4k2	Kcnj11	Abcc8	Ins1	Ptf1a
+PEROXISOME BIOGENESIS DISORDER	ClinVar_2025	Pex19	Pex11b	Zfp260	Pex10	Pex3	Pex12	Pex2	Pex13	Pex14	Pex26	Pex16	Pex5	Pex7	Pex6	Abcd1
+PEROXISOME BIOGENESIS DISORDER 1A	ClinVar_2025	Pex19	Rbm48	Pex5	Zfp260	Pex6	Pex3	Pex12	Pex2	Pex26	Pex16
+PERRAULT SYNDROME	ClinVar_2025	Lars2	Clpp	Prorp	Hsd17b4	Twnk	Eral1	Dtd1
+PHEOCHROMOCYTOMA	ClinVar_2025	Ret	Max	Tmem127	Mpz	Vhl	Nf1	Sdhd	Kif1b	Sdhb	Sdhc	Ciao1	Sdha
+PHEOCHROMOCYTOMA/PARAGANGLIOMA SYNDROME	ClinVar_2025	Mpz	Sdhaf2	Dlst	Sdhd	Sdhb	Sdhc	Sdha
+PITUITARY ADENOMA	ClinVar_2025	Cdh23	Gnas	Gpr101	Vsir	Men1
+PITUITARY HORMONE DEFICIENCY	ClinVar_2025	Prop1	Pou1f1	Lhx4	Pah	Chmp2b	Hesx1	Otx2
+PLATELET- DISORDER	ClinVar_2025	Slfn14	Gfi1b	P2ry12	Itga2b	Actn1	Itga2	Itgb3	Cd36	Gp6	Mocs2	Rasgrp2
+POLYCYSTIC KIDNEY DISEASE	ClinVar_2025	Mkks	Pkd1	Ift140	Nek8	Lrp5	Tsc2	Ano5	Ganab	Pkhd1	Dnajb11	Dzip1l	Nphp3	Prkd2	Shoc2	Cc2d2a	Cep290
+POLYCYSTIC LIVER DISEASE	ClinVar_2025	Pkd1	Prkcsh	Alg8	Lca5	Lrp5	Sec63
+POLYDACTYLY	ClinVar_2025	Bbs12	Brca2	Cibar1	Cc2d2a	2210408I21Rik	Tulp1	Gli1	Atp6v1b1	Gli3	Mks1
+POLYMICROGYRIA	ClinVar_2025	Tuba8	Col3a1	Lama2	Akt3	Zfp260	Pah	Ehmt1	Pi4ka	Scn3a	Atp1a2	Tuba1a	Adgrg1
+POLYNEUROPATHY	ClinVar_2025	Reep1	Med25	Gbe1	Spg7	Gdap1	Tgm6
+PONTOCEREBELLAR HYPOPLASIA	ClinVar_2025	Colec12	Toe1	Tsen34	Rars2	Slc35a1	Ampd2	Vrk1	Atad3a	Sepsecs	Coasy	Tsen2	Tsen54	Exosc8	Minpp1	Pclo	Pcca	Vps51	Exosc9	Vps53	Chmp1a	Tbc1d23	Slc25a46	Exosc3	Mutyh
+PONTONEOCEREBELLAR HYPOPLASIA	ClinVar_2025	Colec12	Tsen34	Rars2	Slc35a1	Exosc9	Vps53	Ampd2	Vrk1	Exosc3	Sepsecs	Tsen2	Tsen54
+POROKERATOSIS	ClinVar_2025	Mvk	Mmab	Pmvk	Mvd	Slc17a9
+PREMATURE OVARIAN FAILURE	ClinVar_2025	Figla	Pmm2	Fancm	Xrcc2	Fancc	Foxl2	Igsf10	Diaph2	Nr5a1	Stag3	Msh4	Nobox	Ercc6	Zfp711	Cc2d1a	Inha	Brme1	Fmr1	Mcm9	Chd7	Hsf2bp	Hid1	C3	Chek2	Pof1b
+PREMATURE OVARIAN INSUFFICIENCY	ClinVar_2025	Stag3	Artn	Clpb	Mcm9	Msh4	Nek8	Foxk2	Usp53	Eif2b2	Dnah1	Rad50
+PRIMARY CILIARY DYSKINESIA	ClinVar_2025	Ccdc39	Dnaaf4	Dnaaf3	Dnaaf2	Dnaaf1	Ofd1	Dnajb13	Dnaaf5	Nme8	Zmynd10	Ccdc40	Dnah5	Dnah8	Dnah9	Mogat2	Bach2	Cfap298	Dnai1	Gas2l2	Dnai2	Rsph4a	Dnah11	Gaa	Vps13b	Gfap	Rsph3b	2700049A03Rik	Rsph9	Dnal1	Drc1	Spag1	Dnah1	Rsph1	Gcdh	Ccno	Odad2	Cdca7l	Cplx1	Odad4	Odad3	Prkcsh	Cfap300	Rpgr	Dnaaf11	Mcidas	Hydin	Tnni3	Rag1
+PRIMARY DILATED CARDIOMYOPATHY	ClinVar_2025	Kcnj5	Tsfm	Mybpc3	Abcc9	Jup	Actn2	Txnrd2	Zbtb17	Ptpn11	Tmem43	Sdha	Des	Sco2	Myl2	Gpd1l	Rbm20	Dsg2	Pkp2	Plec	Lztr1	Myh6	Dsc3	Myh7	Sos1	Calr3	Hcn4	Gsk3b	Ilk	Akap9	Nexn	Prdm16	Aff4	Lmna	Csrp3	Pdlim3	Lamp2	Taf1a	Kif5b	Tbx20	Tpm1	Ankrd1	Emd	Flnc	Nkx2-5	Dtna	Fkrp	Kcnd3	Nebl	Gaa	Ank2	Tbx5	Dspp	Cacnb2	Tjp1	Tnnt2	Col6a3	Tcap	Tab2	Cryab	Scn2b	Vcl	Myom1	Ryr2	Lama2	Tafazzin	Fhl2	Lama4	Prkag2	Ldb3	Actc1	Jph2	Pln	Tmpo	Ttr	Sgcd	Bag3	Ppp1r13l	Sgcb	Scn5a	Tnni3	Ctnna3	Dmd	Snta1	Trpm4
+PRIMARY FAMILIAL DILATED CARDIOMYOPATHY	ClinVar_2025	Ryr2	Mybpc3	Abcc9	Jup	Actn2	Ldb3	Des	Lmna	Ttr	Sgcd	Bag3	Rbm20	Scn5a	Dsg2	Flnc	Dmd	Myh7	Vcl
+PRIMARY FAMILIAL HYPERTROPHIC CARDIOMYOPATHY	ClinVar_2025	Trim63	Mybpc3	Abcc9	Jup	Actn2	Txnrd2	Des	Myl2	Myl3	Rbm20	Dsg2	Pkp2	Myh6	Dsc3	Myh7	Sos1	Ilk	Nexn	Lmna	Csrp3	Lamp2	Tpm1	Ankrd1	Emd	Flnc	Shoc2	Kcnh2	Dtna	Rnase2b	Dspp	Mib1	Nat8f2	Tnnt2	Tcap	Vcl	Mylk2	Myom1	Ryr2	Lama4	Prkag2	Ldb3	Actc1	Jph2	Tmpo	Ttr	Bag3	Scn5a	Tnni3	Ctnna3	Dmd	Myoz2
+PRIMARY MICROCEPHALY	ClinVar_2025	Knl1	Cdk5rap2	Cep152	Mcph1
+PROGRESSIVE CONE DYSTROPHY	ClinVar_2025	Gucy2e	Abca4	Cacna2d4	Prph2	Pde6b	Ush2a
+PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA	ClinVar_2025	Fanci	Dguok	Slc25a4	Rrm1	Rrm2b	Top3a	Twnk	Polg2	Tk2	Rnaseh1
+PROGRESSIVE FAMILIAL INTRAHEPATIC CHOLESTASIS	ClinVar_2025	Abcb4	Glb1	Abcb11	Atp8b1	Nr1h4
+PROGRESSIVE MYOCLONIC EPILEPSY	ClinVar_2025	Scarb2	Cstb	Kcnc1	Gosr2	Nhlrc1	Prickle2	Kctd7	Lmnb2
+PROLONGED QT INTERVAL	ClinVar_2025	Csrp3	Kcne3	Mybpc3	Kcnq1	Myh7	Kcnh2
+PROSTATE CANCER	ClinVar_2025	Msr1	Slc13a3	Elac2	Fanca	Ap3b1	Braf	Rad50	Col1a1	Ehbp1	Myh3	Artn	Msh6	Atm	Mad1l1	Trp53	Gabrb2	Brca1	Brca2	Slc5a2	Areg	Hoxb13	Nras	Fzr1	Pkhd1	Deaf1	Aifm1	Chek2	Sufu	Nhs	Impg2
+PROTEASOME-ASSOCIATED AUTOINFLAMMATORY SYNDROME	ClinVar_2025	Psmb8	Pomp	Psmb4	Psmg2	Psmb9	Psmb10
+PROTEINURIA	ClinVar_2025	Cubn	Inf2	Clcn5	Col4a3	Nphs2	Clcnkb	Tbx18
+PROXIMAL MUSCLE WEAKNESS	ClinVar_2025	Sptlc1	Ryr1	Dnajb6	Tamm41	Dysf	Sgca
+PSEUDOHYPOALDOSTERONISM	ClinVar_2025	Scnn1g	Ltbr	Wnk1	Cul3	Scnn1b	Wnk4	Scnn1a	Klhl3	Tnfrsf1a
+PSORIASIS	ClinVar_2025	Il23r	Traf3ip2	Ap1s3	Card14	Lpin2
+PULMONARY ARTERIAL HYPERTENSION	ClinVar_2025	Notch3	Acvrl1	Bmpr2	Notch1	Abcc8	Eif2ak4	Gdf2	Kcna5	Tbx4	Atp13a3	Eng	Bmpr1a	Bmpr1b
+PULMONARY ARTERIAL HYPERTENSION ASSOCIATED	ClinVar_2025	Bmpr2	Cav1	Eng	Bmpr1a	Tbx4
+PULMONARY FIBROSIS	ClinVar_2025	Sftpc	Muc5b	Tert	Parn	Sftpa1	Rtel1
+PULMONARY FIBROSIS AND/OR BONE MARROW FAILURE	ClinVar_2025	Zcchc8	Polr1a	Tert	Parn	Rtel1
+PULMONARY HYPERTENSION	ClinVar_2025	Acvrl1	Bmpr2	Smad4	Cav1	Pah	Atp13a3	Eng	Kcnk3	Tbx4	Bmpr1b	Pm20d1
+PYRUVATE DEHYDROGENASE COMPLEX DEFICIENCY	ClinVar_2025	Ldhd	Pdha1	Pdhx	Pdhb	Lamb1
+RARE GENETIC DEAFNESS	ClinVar_2025	Grxcr1	Gsdme	Tmc1	Rdx	Mitf	Myo7a	Sox10	Ush2a	Otogl	Pax3	Myo3a	Gipc3	Myh9	Tbc1d24	Slc26a4	Catsper2	Gpsm2	Hsd17b4	Tmprss3	Cib2	Otoa	Marveld2	Myo6	Otog	Otof	Tecta	Adgrv1	Eya1	Wfs1	Eya4	Gaa	Loxhd1	Pou3f4	Diaph1	Gjb2	Kcnq1	Lars2	Myo15a	Strc	Ildr1	Clrn1	Kcnq4	Atp6v1b1	Col11a2	Actg1	Pcdh15	Pjvk	Ush1g	Syne4	Triobp	Coch	Ush1c	Tprn	Cdh23
+RARE GENETIC INTELLECTUAL DISABILITY	ClinVar_2025	Crebbp	Kdm5c	D1Pas1	Kank1	Kcnb1	Kmt2a	Kmt2c	Mthfr	Syne1	Alg13	Tuba1a	Mtor	Ttr	Gnao1	Ankrd11	Wac
+RASOPATHY	ClinVar_2025	Map2k2	Ddc	Bcl11b	Map2k1	Ptpn11	Braf	Rnase2b	Cbl	Lrrc56	Clcn1	Ppp1cb	Nras	Mras	Rras2	Mkrn2	Pah	Nf1	Hras	Shoc2	Sos2	Lztr1	Slc26a4	Sos1
+RENAL CYST	ClinVar_2025	Pkd1	Ganab	Pkhd1	Tmem67	Dnajb11	Ift140	Tsc2	Prkd2	Cc2d2a	Pcnt
+RENAL DYSPLASIA AND RETINAL APLASIA	ClinVar_2025	Iqcb1	Cep164	Wdr19	Nphp3	Nphp4	Ttc21b	Cep290
+RENAL HYPODYSPLASIA/APLASIA	ClinVar_2025	Ret	Fgf20	Greb1l	Itga8	Upk3a
+RESPIRATORY CILIOPATHIES INCLUDING NON-CF BRONCHIECTASIS	ClinVar_2025	Ccdc39	Dnah5	Rsph4a	Dnah11	Dnaaf1	Ofd1	Dnai2	Ccdc40	Cftr
+RESTRICTIVE CARDIOMYOPATHY	ClinVar_2025	Slc25a4	Akap9	Dspp	Ttr	Tnnt2	Myl3	Dsg2	Tnni3	Flnc	Dmd	Myh6	Myh7	Trpm4
+RETINAL DEGENERATION	ClinVar_2025	C1qtnf5	Nrl	Tulp1	Ush2a	Rpe65
+RETINAL DYSTROPHY	ClinVar_2025	Dync2h1	Tub	Cacna2d4	Asrgl1	Ift81	Myo7a	Nyx	Zfyve26	Rbp3	Rbp4	Yme1l1	Col9a1	Alpk3	Alpk1	Ddi2	Rb1	Lrp2	Ttll10	Ap5z1	Pank2	Ift172	Prcd	Lrp5	Rnf7	Spg7	Adgra3	Ift74	Cspp1	Dhx38	Gnat1	Gnat2	Exosc2	Samd11	Fzd4	Jag1	Abca4	Zfp260	Rpe65	Topors	Bbs10	Col2a1	Bbs12	Zfpm1	Itm2b	Mks1	Cerkl	Rd3	Pcdh15	Nr2e3	Rcbtb1	C3	Trpm1	Cyp4v3	Inpp5e	Fth1	Trex1	Lrat	Gpr179	Prom1	Cep78	Bbs2	Bbs1	Hars1	Rom1	Ofd1	Rhod	Pax2	Klhl7	Poc5	Gnptg	Rdh5	Prph2	Hmx1	Atp5me	Col18a1	Gucy2e	Kif11	Slc7a14	Adipor1	Prdm13	Med12	Ttpa	Timp3	Bbs9	Flvcr1	Bbs7	Cc2d2a	Bbs5	Tead3	Bbs4	Neurod1	Cct2	Cdkl5	Whrn	Ift140	Wdr19	Elovl4	Trnt1	Agbl5	Ttc8	Nmnat1	Prpf31	Kiz	Pnpla6	Mapre2	Rp1l1	Oat	Dync2i2	Crb1	Invs	Alms1	Guca1b	Col11a1	Ctnna1	Nudt19	Scaper	Sema4a	Phyh	Cfap418	Pcare	Pde6g	Rpgrip1l	Cfap410	Dhdds	Dnajc30	Rgs9bp	Fam161a	Tubgcp6	Aipl1	Nbas	Nrl	Pros1	Ahr	Cib2	Cwc27	Best1	Clcc1	Emc1	Capn5	Nphp1	Mpz	Cep250	Nphp3	Nphp4	Zfp423	Pcyt1a	Adgrv1	Osbpl8	Acbd5	Sema6b	Wfs1	Arhgef18	Usp45	Ttc21b	Prpf6	Prpf8	Tmem237	Cdhr1	Gnb3	Prpf4	Pitpnm3	Prpf3	Clrn1	Cngb3	Fscn2	Cdh15	Snrnp200	Cngb1	Arl6	Arl3	Cabp4	Espn	Cacna1f	C1qtnf5	Efemp1	Kcnv2	Abhd12	Rims1	Cdh23	Ndp	Nek2	Dnm1l	Pdzd7	Hgsnat	Mkks	Iqcb1	Kcnj13	Abcc6	Ush2a	Mertk	Ahi1	Rpgrip1	Vcan	Arl2bp	Tmem216	Pex7	Pex6	Aco2	Zfp513	Mmachc	Dthd1	Cep164	Ubr2	Spata7	Grk1	Dram2	Mfsd8	Car4	Rdh12	Adamts18	Cnga3	Tac4	Otx2	Cep290	Impg1	Prps1l1	Impg2	Cnga1	Lca5	Sclt1	Pomgnt1	Sgpp2	Impdh1	2700049A03Rik	Rp9	Trim32	Mvk	Slc24a1	Crx	Lama1	Ush1g	Tulp1	Tspan12	Rpgr	Rlbp1	Ush1c	Cln3	Grm6	D630045J12Rik	Poc1b	Pde6c	Pde6b	Pde6a	Cnnm4	Idh3a	Idh3b
+RETINITIS PIGMENTOSA	ClinVar_2025	Sema4a	Phyh	Cfap418	Pcare	Pde6g	P3h2	Myo7a	Cfap410	Dhdds	Rbp3	Fam161a	Aipl1	Alpk3	Ttll10	Pank2	Nrl	Ift172	Prcd	Ahr	Rnf7	Cwc27	Best1	Tfpt	Clcc1	Adgra3	Mpz	Dhx38	Samd11	Adgrv1	Abca4	Arhgef18	Vps13b	Rpe65	Topors	Bbs10	Prpf6	Bbs12	Prpf8	Zfpm1	Cdhr1	Prpf4	Pitpnm3	Prpf3	Clrn1	Cngb3	Fscn2	Ppt1	Snrnp200	Cngb1	Cerkl	Gldc	Arl6	Arl3	Pcdh15	Nr2e3	Cyp4v3	Cdh23	Nek2	Lrat	Prom1	Hgsnat	Bbs2	Bbs1	Iqcb1	Rom1	Ofd1	Rhod	Ush2a	Mertk	Ahi1	Ift43	Rpgrip1	Arl2bp	Klhl7	Tmem216	Prph2	Coq8b	Atp5me	Col18a1	Gucy2e	Slc7a14	Spata7	Med12	Mfsd8	Car4	Rdh12	Tac4	Flvcr1	Bbs7	Cc2d2a	Cep290	Impg1	Impg2	Tead3	Bbs4	Cnga1	Ift140	Wdr19	Lca5	Pomgnt1	Agbl5	Ttc8	Impdh1	Prpf31	Kiz	Rp9	Mapre2	Rp1l1	Crb1	Slc24a1	Alms1	Crx	Guca1b	Tulp1	Rpgr	Rlbp1	Ush1c	Cln3	D630045J12Rik	Nudt19	Pde6b	Pde6a	Cnnm4	Idh3a	Idh3b
+RETINITIS PIGMENTOSA-DEAFNESS SYNDROME	ClinVar_2025	Crb1	Whrn	Cdh23	Clrn1	Myo7a	Sftpa1	Ush1g	Ush2a
+RETINOBLASTOMA	ClinVar_2025	Rb1	Lpar6	Ptch1	Mutyh
+RETT SYNDROME	ClinVar_2025	Mecp2	Cdkl5	Gabbr2	Dok7	Foxg1	Rhobtb2
+RHABDOMYOLYSIS	ClinVar_2025	Ahcyl	Obscn	Pfkm	Acadvl	Cpt2	Cacna1s	Scn4a
+RHABDOMYOSARCOMA	ClinVar_2025	Msh6	Dicer1	Nf1	Brca1	Hras	Brca2	Msh2	Sdhc	Pms2	Trp53	Sdha
+ROD-CONE DYSTROPHY	ClinVar_2025	Ift122	Ush2a	Rpe65	Ahi1	Ift88	2700049A03Rik	Rrm2b	Gnptg	Inpp5e	Pde6b	Cep290	Snrnp200
+SANFILIPPO SYNDROME	ClinVar_2025	Hgsnat	Naglu	Gns	Slc26a11	Card14	Sgsh
+SCHIZOPHRENIA	ClinVar_2025	Slc1a1	Mthfr	Nrg1	Comt	Mecp2	Th	Mc4r	Akt1	Ankk1	Drd2	Drd3	Prodh	Shank3
+SCOLIOSIS	ClinVar_2025	Ryr1	Poc5	Chrng	Flna	Ptpn11	Tbx6	Kif7
+SECKEL SYNDROME	ClinVar_2025	Nin	Nsmce2	Cep152	Cep63	Dna2	Rbbp8	Traip	Atrip
+SEIZURE	ClinVar_2025	Szt2	Cradd	Alg13	Tbr1	Tsc1	Smarca4	Eef1a2	Aldh4a1	Sco2	Gprin1	Scn8a	Nhlrc1	Tbc1d24	Chrna1	Cyfip2	Stxbp1	Nprl3	Nexmif	Pnkp	Pdhb	Atp1a3	Spg7	Pdcd10	Ccnd2	Akt3	Pura	Dhx37	Frrs1l	Dscam	Kcnh1	Zfp142	Zfp260	Tango2	Cask	Aldh7a1	Gnb1	Kcnma1	Scn2a	Fgf12	Gria3	Arx	Cacna1a	Kmt2d	Pcdh10	Slc2a1	Htra1	Slc6a1	Rhobtb2	Wdr45	Trpm3	Grin2b	Grin2a	Scn9a	Ankrd11	Kcnn2	Scn1a	Hace1	Prrt2	Acd	Gabra1	Arfgef1	Kcnb1	Pdha1	Gabra5	Ppp2r5d	Dnm1	Syn1	Cul4b	Npc2	Pik3ca	Atm	Depdc5	Pigg	Kcnk4	Shank3	Gabrb3	Gabrb2	Kcnc1	Pomt1	Ndufb3	Chd6	Pik3r2	Ppp3ca	Mecp2	Kcnt1	Spast	Kcnt2	Trim8	Cpt2	Otog	Pnpo	Phgdh	Lgi1	Cdkl5	Bcap31	Mtor	Gabrg2	Asxl1	Pacs2	Kcnq2	Kcnq3	Tacc1	Dync1h1	Pigt	Hexa	Kcna2	Prickle1	Tuba1a	Clcn2	Foxred1	Syngap1	Slc25a22	Zswim6
+SEIZURES	ClinVar_2025	Nrros	Prrt2	Kcnj10	Kcnq2	Kcnq3	Scn8a	Scn2a
+SELF-LIMITED EPILEPSY	ClinVar_2025	Wwox	Rbfox1	Scarb2	Cntnap2	Cstb	Szt2	Pcdh10	Prickle1	Asah1	Gabrg2	Reln	Grin2a	Scn9a	Kcnq3	Snip1	Sptan1	Depdc5	Scn1b
+SENIOR-LOKEN SYNDROME	ClinVar_2025	Iqcb1	Nphp1	Traf3ip1	Wdr19	Nphp4	Cep290	Sdccag8
+SENSORINEURAL HEARING LOSS DISORDER	ClinVar_2025	Gsdme	Tenm1	Kcne1	Gabra1	Wfs1	Sycp2	Slc12a2	Slc52a2	Espn	Gjb2	Tmie	Myo3a	Aifm1	Cdh23	Lars1	Nefl	Atp6v0a4	Dtd1	Slc26a4	Slc19a2
+SEVERE COMBINED IMMUNODEFICIENCY	ClinVar_2025	Dclre1c	Jak3	Ada	Pkig	Rag1	Rag2
+SEVERE COMBINED IMMUNODEFICIENCY DISEASE	ClinVar_2025	Dclre1c	Ak2	Dock8	Lig4	Ttc7	Cd3e	Cd3d	Foxn1	Zap70	Mthfd1	Pgm3	Ppy	Cd247	Jak3	Ada	Nhej1	Pkig	Rag1	Il7r	Rag2
+SEVERE EARLY-CHILDHOOD-ONSET RETINAL DYSTROPHY	ClinVar_2025	Bbs1	Crb1	Mfsd8	Abca4	Capn5	Cngb3	Rhod	Best1
+SEVERE GLOBAL DEVELOPMENTAL DELAY	ClinVar_2025	Mecp2	Polr2a	Sco2	Adsl	Pomt1	Taldo1	Grik5	Taf8	Tbr1
+SHORT QT SYNDROME	ClinVar_2025	Kcnq1	Cacna2d1	Cacna1c	Slc4a3	Kcnj2	Trpm4	Kcnh2
+SHORT STATURE	ClinVar_2025	Myh7b	Stat5b	Slc10a7	Bcl11b	Xrcc4	Ptpn11	Recql	G6pc1	Arcn1	Smarca5	Cul4b	Bmp2	Rtn4ip1	Sbds	Lztr1	Fbn1	Fgfr3	Sos1	Cant1	Cul7	Ryr1	Nprl2	Lama5	Zfp292	Nrxn3	Ubr4	Rora	Rnf31	Scube3	Zfp407	Flna	Col11a1	Fgf23	Ghsr	H3f3b
+SHORT-RIB THORACIC DYSPLASIA	ClinVar_2025	Dync2h1	Dync2i2	Cep120	Dynlt2b	Traf3ip1	Ift172	Intu	Ttc21b	Ift81	Wdr35	Evc	Ift43	2700049A03Rik	Ift52	4933427D14Rik	Dync2li1	Ucp3	Nek1	Abcg5	Dync2i1	Evc2	Matn3
+SKELETAL DYSPLASIA	ClinVar_2025	Acan	Csgalnact1	Galns	Lrp5	Trpv4	Pth1r	Arid1a	Cacna1d	Chst3	Fgfr3
+SKIN/HAIR/EYE PIGMENTATION	ClinVar_2025	Oca2	Kitl	Herc2	Slc45a2	Tyr
+SPASTIC ATAXIA	ClinVar_2025	Arsa	Hars1	Wfs1	Mars2	Pex10	Hpdl	Afg3l2	Coq4	Galc	Glb1	Polr3a	Ercc4	Vamp1	Ppt1	Ahdc1	Stxbp1	Pik3r5	Slc1a3	Syne1	Spg7	Lyst	Cln6	Mtpap	Kif1c	Atp7b	Cep290	Nkx6-2	Spg11	Apob
+SPASTIC PARAPARESIS	ClinVar_2025	Spast	Erlin2	Psen1	Spg7	B4galnt1	Cert1	Spg11	Aaas
+SPASTIC PARAPLEGIA	ClinVar_2025	Mars1	Slc16a2	Pcyt2	Slc33a1	Bcl11b	Rnf170	Lrba	Erlin2	Nipa1	Ap4b1	Kidins220	Cyp7b1	Gfap	Zfyve26	Hpdl	L1cam	Fa2h	Reep1	Mtrfr	Cyp2u1	Ubap1	Vamp1	Pi4ka	Washc5	Kdm5c	Rtn2	Ap4e1	Gba2	Spg7	Hspd1	Mtm1	Selenoi	Gjc2	Kif5a	Ap4m1	Spast	Zfyve27	Klc3	Uchl1	Kif1a	Arsi	Ap4s1	B4galnt1	Sacs	Abcd1	Sptan1	Spg11	Slc19a3
+SPERMATOGENIC FAILURE	ClinVar_2025	Nanos1	Cep112	Dnah17	Fancm	Tex11	Wdr19	Tdrd9	Xrcc2	Ppp2r3c	Tex15	Sun5	Nr5a1	Stag3	Msh4	Strc	Pmfbp1	Qrich2	Drc1	Dnah10	Fsip2	Dnah1	Catsper1	Dnah2	Psmd12	Dnah8	Spef2	Gm28961	Dnhd1	Septin12	Klhl10	Ift74	Cfap69	Zswim7	Cfap44
+SPINAL MUSCULAR ATROPHY	ClinVar_2025	Reep1	Gars1	Ascc1	Sco2	Trip4	Ighmbp2	Smn1	Bicd2	Arhgef10	Dync1h1
+SPINOCEREBELLAR ATAXIA	ClinVar_2025	Tbp	Prkcg	Pnpt1	Elovl5	Dnaaf3	Vps13d	Elovl4	Trpc3	Asns	Xrcc1	Vwa3b	Eef2	Aptx	Jmjd8	Pdyn	Pum1	Afg3l2	Ccdc88c	Mmp12	Setx	Atxn10	Vps41	Tdp1	Fat2	Stub1	Fgf14	Kcnc3	Cacna1a	Uba5	Cacna1g	Thg1l	Tmem240	Samd9l	Ttbk2	Grm1	Itpr1	Pld3	Prdx3	Atxn2	Prx	Pitrm1	Nptx1	Atxn1	Tgm6	Coa7	Ldlr	Sptbn2
+SPLENOMEGALY	ClinVar_2025	Card11	Fasn	Sbds	Gata2	Jak2
+SPONDYLOCOSTAL DYSOSTOSIS	ClinVar_2025	Ripply2	Hes7	Lfng	Mesp2	Plekhg2	Tbx6	Dll3
+SPONDYLOEPIMETAPHYSEAL DYSPLASIA	ClinVar_2025	Ddr2	Kif22	Fn1	Trpv4	B3galt6	Mrpl13	Ufsp2	Papss2	Acan	Col2a1	Mmp13	Nans	Ddrgk1	Aifm1	Sik3	Matn3
+SPONDYLOEPIPHYSEAL DYSPLASIA	ClinVar_2025	Acan	Col2a1	Mbtps1	Glb1	Nmnat1	Chst3
+SQUAMOUS CELL LUNG CARCINOMA	ClinVar_2025	Ddr2	Nras	Stk11	Pdgfra	Kit	Map2k1	Pik3ca	Hras	Egfr	Fgfr3	Alk
+STARGARDT DISEASE	ClinVar_2025	Cerkl	Crb1	Abca4	Elovl4	Crx	Tulp1	Best1	Col2a1	Med12	Cngb3	Prph2	Prom1
+STEROID-RESISTANT NEPHROTIC SYNDROME	ClinVar_2025	Crb2	Wt1	Nphs1	Nphs2	Col4a4	Axdnd1	Pax2
+STICKLER SYNDROME	ClinVar_2025	Col2a1	Col1a1	Vcan	Col4a3	Cdh23	Alms1	Col9a2	Col11a1	Col9a1
+STUVE-WIEDEMANN SYNDROME	ClinVar_2025	Hspg2	Rusc2	Il6st	Lifr	Cep290	Cimip2b
+SUDDEN CARDIAC ARREST	ClinVar_2025	Ryr2	Ttr	Scn5a	Tnni3	Tmem43
+SUDDEN CARDIAC DEATH	ClinVar_2025	Pln	Nebl	Kcnq1	Cacna1c	Scn5a	Ank2	Dspp	Myh7	Trpm4
+SUDDEN INFANT DEATH SYNDR	ClinVar_2025	Kcnj8	Mybpc3	Pdha1	Cav3	Pln	Ttr	Kcnq1	Scn8a	Scn5a	Tnni3	Flnc	Scn4a	Depdc5	Kcnh2
+SUDDEN UNEXPLAINED DEATH	ClinVar_2025	Mylk2	Ryr2	Kcnj8	Nebl	Cacna1c	Dspp	Cacnb2	Lmna	Tnnt2	Pkp2	Dsc3	Myh7	Kcnh2	Vcl
+SURFACTANT METABOLISM DYSFUNCTION	ClinVar_2025	Sftpb	Sftpc	Bmp1	Csf2ra	Csf2rb2
+SUSCEPTIBILITY TO HIV INFECTION	ClinVar_2025	Ccr2	Il4ra	Il10	Cd209d	Cx3cr1	Ccr5	Tlr3
+SUSCEPTIBILITY TO SEVERE CORONAVIRUS DISEASE	ClinVar_2025	Serpina1c	Chrna5	Serpine1	Tnf	F5	Tnfrsf1a
+SUSCEPTIBILITY TO SEVERE COVID-	ClinVar_2025	Ifih1	Tbk1	Stat2	Ticam1	Lyst	Ifnar2
+SYNDACTYLY	ClinVar_2025	Plekhg2	Gja1	Hoxd13	Tulp1	Lmbr1	Dll3
+SYNDROMIC INTELLECTUAL DISABILITY	ClinVar_2025	Bptf	Adarb1	Kansl1	H1f4	Mtss2	Asxl2	Kif1a	Mapt	Puf60	Nsd2	Asxl3	Pigl	Cdk13	Phip
+SYSTEMIC LUPUS ERYTHEMATOSUS	ClinVar_2025	Blk	Fcgr3	Copa	Cr2	Bank1	Trex1	Ctla4	Tnf	Tlr7
+TETRALOGY OF FALLOT	ClinVar_2025	Tbx1	Jag1	Gata6	Creld1	Gata4	Nkx2-5	Zfpm2	Robo1
+THALIDOMIDE RESPONSE	ClinVar_2025	Snrpn	Hhat	Taf1c	Dnaaf1	Chd4	Snurf	Birc2
+THORACIC AORTIC ANEURYSM	ClinVar_2025	Smad3	Acta2	Gata4	Tgfbr1	Tgfbr2
+THORACIC AORTIC ANEURYSM OR DISSECTION	ClinVar_2025	Acta2	Col3a1	Col5a1	Slc2a10	Myh11	Fbn1	Tgfbr2
+THROMBOCYTHEMIA	ClinVar_2025	Mpig6b	Thpo	Mpl	Calr	Sh2b3	Jak2
+THROMBOCYTOPENIA	ClinVar_2025	Mpig6b	Acbd5	Vwf	Actn1	Tubb5	Zfp160	Hps5	Runx1	Ap3d1	Nbeal2	Ptpn11	Gp1bb	Ap3b1	Gp1ba	Mastl	Etv6	Gp9	Gale	Gfi1b	Col5a2	Ggcx	Myh9	Gm10053	Gne	Abcg5	Acvrl1	Mcfd2	Slc45a2	Itga2b	Stxbp2	Arpc1b	Itgb3	Mpl	Was	Gba1	Gata1	Lyst	Thbd	Mecom	Thpo	Flna
+THROMBOPHILIA DUE TO THROMBIN DEFECT	ClinVar_2025	F13a1	Mthfr	Ttf2	F5	Habp2
+THYROID CANCER	ClinVar_2025	Nras	Foxe1	Rint1	Nkx2-1	Hras	Srgap1	Habp2
+TIP-TOE GAIT	ClinVar_2025	Dhtkd1	Crebbp	Iqsec2	Kcnc3	Kmt2c	Pygm	Gdap1	Zfyve26	Clcn1	Ttr	Chrne	Med12	Spast	Prx	Sco2	Naglu	Sh3tc2	Col6a3	Als2	Mfn2	Atm	Morc2b	Sbf2
+TOOTH AGENESIS	ClinVar_2025	Eda	Grem2	Bmpr2	Wnt10b	Wnt10a	Pax9	Lrp6	Msx1	Tspear
+TRANSIENT NEONATAL DIABETES	ClinVar_2025	Map4k2	Zfp57	Kcnj11	Th	Abcc8	Ins1
+TRANSITORY NEONATAL DIABETES MELLITUS	ClinVar_2025	Zfp57	Kcnj11	Abcc8	Cel	Glis3
+TREMOR	ClinVar_2025	Stxbp1	Fus	Unc13a	Tenm4	Drd3
+TRICHOTHIODYSTROPHY	ClinVar_2025	Mars1	Klc3	Ercc2	Ercc3	Mplkip	Ndufa1	Tars1	Aars1	Gtf2e2	Gtf2h5	Rnf113a2
+ULLRICH CONGENITAL MUSCULAR DYSTROPHY	ClinVar_2025	Col6a1	Col12a1	Col6a3	Col6a2	Ftcd
+UNDETERMINED EARLY-ONSET EPILEPTIC ENCEPHALOPATHY	ClinVar_2025	Spout1	Slc13a5	Cacna1a	Scn8a	Sptan1
+USHER SYNDROME	ClinVar_2025	Adgrv1	Bbs1	Hars1	Whrn	Pcdh15	Cib2	Myo7a	Espn	Ush1g	Ush2a	Vsir	Wdr36	Ush1c	Cnksr1	Fras1	Crygc	Otoa	Cdh23	Cep250	Clrn1	Arsg	Sftpa1	Dtd1	Pdzd7
+UTERINE CORPUS CANCER	ClinVar_2025	Rad51c	Brip1	Chek2	Msh6	Atm	Brca1	Brca2	Msh2	Palb2
+VANISHING WHITE MATTER DISEASE	ClinVar_2025	Eif2b5	Eif2b4	Ankle2	Eif2b3	Eif2b2	Eif2b1	Mlh3
+VARIANT OF UNKNOWN SIGNIFICANCE	ClinVar_2025	Thbd	Wnk1	Scn2b	Celsr3	Loxhd1
+VASCULAR DEMENTIA	ClinVar_2025	App	Diaph1	Col4a1	Smad4	Nppa	Trex1	Htra1	Psen2
+VASCULAR MALFORMATION	ClinVar_2025	Nras	Syngap1	Map2k1	Tek	Hras	Braf
+VASCULAR PARKINSONISM	ClinVar_2025	Notch3	Lrrk2	Plxna1	Pla2g6	Tgm6
+VENTRICULAR FIBRILLATION	ClinVar_2025	Ryr2	Gaa	Akap9	Cacna1c	Ank2	Dspp	Cacnb2	Ttr	Dpp6	Kcnq1	Scn5a	Myh6	Nkx2-5	Myh7	Trpm4	Kcnh2
+VENTRICULAR SEPTAL DEFECT	ClinVar_2025	Mycs	Bmp2	Cited2	Tek	Gata4	Nkx2-5
+VENTRICULAR TACHYCARDIA	ClinVar_2025	Cacnb2	Mylk2	Ttr	Hcn4	Lama4	Scn5a	Pkp2	Tcap	Ank2	Kcnj2	Dspp
+VENTRICULOMEGALY	ClinVar_2025	Aldh7a1	Wdr37	Pomt1	Atp1a3	Magel2
+VISCERAL HETEROTAXY	ClinVar_2025	Foxp1	Nodal	Acvr2b	Mmp21
+VISUAL IMPAIRMENT	ClinVar_2025	Gucy2e	Bbs12	Abca4	Alms1	Nr2e3	Pax6	Mapre2
+VITAMIN D-DEPENDENT RICKETS	ClinVar_2025	Cyp27b1	Vdr	Cyp2r1	Prss58	Phex
+VITELLIFORM MACULAR DYSTROPHY	ClinVar_2025	Fth1	Myh9	Prph2	Impg1	Best1	Impg2
+WAARDENBURG SYNDROME	ClinVar_2025	Ednrb	Edn3	Mitf	Sox10	Pax3
+WALKER-WARBURG CONGENITAL MUSCULAR DYSTROPHY	ClinVar_2025	Fkrp	Celsr1	Pomt1	Rxylt1	Fktn
+WEST SYNDROME	ClinVar_2025	Ddi2	Wwox	Stxbp1	Cdkl5	Ugdh	Arx	Kcnq2	Scn8a	Scn2a
+WILMS TUMOR	ClinVar_2025	Wt1	Rest	Gpc4	Gpc3	Brca2	Igf2	Trim28
+WOLFF-PARKINSON-WHITE PATTERN	ClinVar_2025	Ryr2	Mybpc3	Jup	Akap9	Prdm16	Prkag2	Ank2	Tbx5	Lmna	Ttr	Kcnq1	Tnnt2	Gpd1l	Scn5a	Flnc	Tcap	Casq2	Slc26a4	Myh7	Trpm4	Kcnh2	Vcl
+X-LINKED INTELLECTUAL DISABILITY	ClinVar_2025	Pola1	Med12	Nexmif	Shroom4	Huwe1
+XERODERMA PIGMENTOSUM	ClinVar_2025	Ddb2	Klc3	Ercc4	Bivm	Ercc2	Ercc3	Xpa	Tmem43	Xpc	Polh
+YOUNG-ONSET PARKINSON DISEASE	ClinVar_2025	Prkn	Synj1	Lrrk2	Vps13c	Gba1	Thap1	Bscl2
+ZELLWEGER SPECTRUM DISORDERS	ClinVar_2025	Pex19	Rbm48	Pex5	Zfp260	Pex6	Pex10	Pex2
