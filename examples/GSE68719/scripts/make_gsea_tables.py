@@ -212,8 +212,8 @@ for run in gseapy_runs:
     run_name=run['gseapy_run_name']
     da_run_name=run['DA_run_name']
     da_table_path=run['DA_table']
-    if run['DA_table_sepstr'] is None:
-        run['DA_table_sepstr'] = ','
+    data_csv_path_sepstr=getattr(run,'DA_table_sepstr',',')
+
     #
     file_base_name = os.path.basename(da_table_path).replace('.deseq2.results.csv','')
     full_output_dir = os.path.join(GSEA_RESULTS_DIR,da_run_name, run_name)
@@ -222,7 +222,7 @@ for run in gseapy_runs:
     LOGGER.info(f"Processing file: {da_table_path} with base name: {file_base_name}, and output dir: {full_output_dir}")
     run_gseapy_prerank_multiple_term_collections(
         data_csv_path=da_table_path,
-        data_csv_path_sepstr=run['DA_table_sepstr'],
+        data_csv_path_sepstr=data_csv_path_sepstr,
         feature_name_column_name=GSEA_FEATURE_NAME_COLUMN_NAME,
         list_of_term_collections=SET_OF_GMT_FILE_PATHS,
         list_of_term_collection_names=LIST_OF_TERM_COLLECTION_NAMES,
