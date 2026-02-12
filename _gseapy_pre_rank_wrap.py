@@ -218,6 +218,7 @@ def run_gseapy_prerank_multiple_term_collections(
         results_dir: str ='./',
         file_base_name: str ='datasetID',
         GSEA_run_filename_tag: str ='GSEA_prerank_run',
+        return_single_pre_res: bool = False,
         )-> None:
         '''Run GSEApy prerank analysis on the given data.
         Either data_df or data_csv_path must be provided.
@@ -233,6 +234,8 @@ def run_gseapy_prerank_multiple_term_collections(
             list_of_term_collections = [list_of_term_collections]
         # log all parameters for process input table
         LOGGER.info(f"Running GSEApy prerank with parameters:\n"
+                    f"list_of_term_collections: {list_of_term_collections}\n"
+                    f"list_of_term_collection_names: {list_of_term_collection_names}\n"
                     f"feature_name_column_name: {feature_name_column_name}\n"
                     f"make_feature_names_unique: {make_feature_names_unique}\n"
                     f"keep_first_occurrence_for_rows_with_multiple_feature_names: {keep_first_occurrence_for_rows_with_multiple_feature_names}\n"
@@ -247,6 +250,15 @@ def run_gseapy_prerank_multiple_term_collections(
                     f"results_dir: {results_dir}\n"
                     f"file_base_name: {file_base_name}\n"
                     f"GSEA_run_filename_tag: {GSEA_run_filename_tag}\n"
+                    f"min_size: {min_size}\n"
+                    f"max_size: {max_size}\n"
+                    f"permutation_num: {permutation_num}\n"
+                    f"results_table_min_genes_matched: {results_table_min_genes_matched}\n"
+                    f"threads: {threads}\n"
+                    f"seed: {seed}\n"
+                    f"verbose: {verbose}\n"
+                    f"return_single_pre_res: {return_single_pre_res}\n"
+
                     )
         
         rnk_df = process_input_table(
@@ -321,7 +333,10 @@ def run_gseapy_prerank_multiple_term_collections(
             LOGGER.info(f"Processed term collection: {single_term_collection} with {results_df.shape[0]} significant terms with at least {results_table_min_genes_matched} matched genes.")
         # end of main loop through term collections
         LOGGER.info("GSEApy prerank analysis completed for all term collections.")
-        return 
+
+        if return_single_pre_res:
+            return single_pre_res
+        return
 
 
 import ast

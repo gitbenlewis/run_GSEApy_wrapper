@@ -1,8 +1,15 @@
 """  Bens wrapper to run GSEApy with reproducible FDR and save tables etc ... """
 
-from . import gseapy_pre_rank_wrap as gpw
+from . import _gseapy_pre_rank_wrap as gpw
 
-from .gseapy_pre_rank_wrap import (
+from ._gseapy_dot_plots import (
+    load_gseapy_table,
+    load_gseapy_tables,
+    dotplot_from_table,
+    dotplot_from_tables,
+)
+
+from ._gseapy_pre_rank_wrap import (
     run_gseapy_prerank_multiple_term_collections,
     process_input_table,
     run_single_gsea_prerank,

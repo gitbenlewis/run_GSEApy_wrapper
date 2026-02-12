@@ -3,10 +3,10 @@
 # /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/scripts/make_gsea_tables.py
 
 
-# Adds the project root (two levels up) to the search path
+# Adds the package parent directory to the search path
 import sys
 import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../")))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../../")))
 
 
 ####################################
@@ -25,11 +25,8 @@ import gseapy.base as gbase
 import gseapy.biomart as gbiomart
 import gseapy.enrichr as genrich
 
-import gseapy_pre_rank_wrap
-from gseapy_pre_rank_wrap import (
+from run_GSEApy_wrapper import (
     run_gseapy_prerank_multiple_term_collections,
-)
-from gseapy_pre_rank_wrap import (
     make_gmts_from_enrichr_libraries,
     make_gmts_from_Msigdb,
     basic_set_of_enrichr_term_collections,
@@ -212,7 +209,9 @@ for run in gseapy_runs:
     run_name=run['gseapy_run_name']
     da_run_name=run['DA_run_name']
     da_table_path=run['DA_table']
-    data_csv_path_sepstr=getattr(run,'DA_table_sepstr',',')
+    data_csv_path_sepstr = run.get('DA_table_sepstr', ',')
+    if data_csv_path_sepstr == r"\t":
+        data_csv_path_sepstr = "\t"
 
     #
     file_base_name = os.path.basename(da_table_path).replace('.deseq2.results.csv','')
