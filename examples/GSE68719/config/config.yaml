@@ -3,7 +3,143 @@ local_conda_env:
   env_RNAseq: env_RNAseq
 parent_outdir: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/
 dataset_name: GSE68719
-GSEApy_parameters_defaults:
+
+GSEApy_params:
+  repo_results_dir: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/results/GSEApy/
+  default_params:
+    feature_name_column_name: symbol
+    gsea_permutation_num: 1000
+    min_size: 10
+    max_size: 3000
+    results_table_min_genes_matched: 3
+    threads: 30
+    seed: 6
+    rank_metric_calc_flavor: signed_neg_log10_pvalue
+    l2fc_column_name: log2FoldChange
+    pvalue_column_name: pvalue
+    GSEA_run_filename_tag: GSEA
+    data_csv_path_sepstr: "\t" #","
+    gene_term_collections_gmt_file_directory_list:
+      enrichr_Hu_h2m: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/data/ref/gmt_files/enrichr_Hu
+      msigdb_Mm: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/data/ref/gmt_files/msigdb_Hu
+    gene_term_collections_2_use:
+      - GO_Biological_Process_2025
+      - GO_Cellular_Component_2025
+      - GO_Molecular_Function_2025
+      - KEGG_2021_Human
+      - Reactome_2022
+      - Reactome_Pathways_2024
+      - WikiPathways_2024_Human
+      - WikiPathways_2024_Mouse
+      - MSigDB_Computational
+      - MSigDB_Hallmark_2020
+      - CellMarker_2024
+      - ARCHS4_TFs_Coexp
+      - ARCHS4_Tissues
+      - Disease_Perturbations_from_GEO_down
+      - Disease_Perturbations_from_GEO_up
+      - ARCHS4_Cell-lines
+      - ARCHS4_IDG_Coexp
+      - ARCHS4_Kinases_Coexp
+      - ARCHS4_TFs_Coexp
+      - ARCHS4_Tissues
+      - Tabula_Sapiens
+      - Tabula_Muris
+      - MGI_Mammalian_Phenotype_Level_4_2021
+      - Human_Phenotype_Ontology
+      - GWAS_Catalog_2025
+      - UK_Biobank_GWAS_v1
+      - OMIM_Disease
+      - MSigDB_Computational
+      - MSigDB_Hallmark_2020
+      - MSigDB_Oncogenic_Signatures
+      - Kinase_Perturbations_from_GEO_down
+      - Kinase_Perturbations_from_GEO_up
+      - Disease_Perturbations_from_GEO_down
+      - Disease_Perturbations_from_GEO_up
+      - Aging_Perturbations_from_GEO_down
+      - Aging_Perturbations_from_GEO_up
+      - Gene_Perturbations_from_GEO_down
+      - Gene_Perturbations_from_GEO_up
+      - TF-LOF_Expression_from_GEO
+      - Drug_Perturbations_from_GEO_down
+      - Drug_Perturbations_from_GEO_up
+      - RNA-Seq_Disease_Gene_and_Drug_Signatures_from_GEO
+      - c1.all
+      - c2.all
+      - c2.cgp
+      - c2.cp.biocarta
+      - c2.cp.kegg_legacy
+      - c2.cp.kegg_medicus
+      - c2.cp.pid
+      - c2.cp.reactome
+      - c2.cp
+      - c2.cp.wikipathways
+      - c3.all
+      - c3.mir.mir_legacy
+      - c3.mir.mirdb
+      - c3.mir
+      - c3.tft.gtrd
+      - c3.tft.tft_legacy
+      - c3.tft
+      - c4.3ca
+      - c4.all
+      - c4.cgn
+      - c4.cm
+      - c5.all
+      - c5.go.bp
+      - c5.go.cc
+      - c5.go.mf
+      - c5.go
+      - c5.hpo
+      - c6.all
+      - c7.all
+      - c7.immunesigdb
+      - c7.vax
+      - c8.all
+      - h.all
+      - msigdb
+  make_gseapy_tables_run_control:
+    run_4_all_nf_differentialabundance_runs: false
+    run_4_selected_nf_differentialabundance_runs: false
+    selected_nf_differentialabundance_runs_2_run: null
+    run_defined_gseapy_runs: true
+  defined_gseapy_runs:
+    GSEApy_signed_neg_log10_pvalue:
+      gseapy_run_name: signed_neg_log10_pvalue
+      DA_run_name: DESeq2_diffexp_pmi_age_rin
+      data_csv_path: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
+      data_csv_path_sepstr: "\t"
+      #rank_metric_calc_flavor: use_column_key
+      #existing_rank_metric_column_name: log2FoldChange
+      rank_metric_calc_flavor: signed_neg_log10_pvalue
+      l2fc_column_name: log2FoldChange
+      pvalue_column_name: pvalue
+    GSEApy_log2FoldChange:
+      gseapy_run_name: log2FoldChange
+      DA_run_name: DESeq2_diffexp_pmi_age_rin
+      data_csv_path: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
+      data_csv_path_sepstr: "\t"
+      rank_metric_calc_flavor: use_column_key
+      existing_rank_metric_column_name: log2FoldChange
+      #rank_metric_calc_flavor: signed_neg_log10_pvalue
+      #l2fc_column_name: log2FoldChange
+      #pvalue_column_name: pvalue
+  gseapy_dotplot_params:
+    top_terms_2_plot: 20
+    figsize:
+      - 6
+      - 8
+    gseapy_run_dir_list:
+############### l2fc ranking gsea runs ######################################################################
+      - /home/ubuntu/projects/ActioBio/actio_TRPV4_biomarkers/AB01-hSomascan2025-001/results/GSEApy/diff_test_NHSv1xa_Case_over_Control/l2fc_rank
+######################## singed p-value ranking gsea runs ######################################################################
+      - /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/results/GSEApy/DESeq2_diffexp_pmi_age_rin/GSEApy
+
+
+
+
+GSEApy_parameters_defaults_old:
   feature_name_column_name: symbol
   gsea_permutation_num: 1000
   min_size: 10
@@ -74,3 +210,4 @@ gseapy_runs:
     DA_run_name: DESeq2_diffexp_pmi_age_rin
     DA_table: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
     DA_table_sepstr: "\t"
+
