@@ -177,7 +177,11 @@ def make_results_dataframe(
         # Ensure numeric columns are floats.
         for col in ['es', 'nes', 'pval', 'fdr', 'fwerp']:
             df[col] = df[col].astype(float)
-        df = df.sort_values(by=['TermCollection', 'fdr'], ascending=[True, True])
+        # Fully order tied FDR rows so reruns do not produce order-only CSV diffs.
+        df = df.sort_values(
+            by=['TermCollection', 'fdr', 'nes', 'Term'],
+            ascending=[True, True, False, True],
+        )
         if save_table_output:
             out_file = os.path.join(results_dir, f"{file_base_name}.{GSEA_run_filename_tag}.{collection_name}.csv")
             df.drop(columns=['RES'], inplace=True, errors='ignore')
