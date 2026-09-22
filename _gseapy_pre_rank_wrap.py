@@ -35,6 +35,8 @@ run_gseapy_prerank_multiple_term_collections(
 
 # module imports
 import os
+import re
+import warnings
 import numpy as np
 import pandas as pd
 import gseapy as gp
@@ -108,6 +110,35 @@ def process_input_table(
     return rnk_df
 
 
+def _resolve_collection_name(gene_sets, collection_name: Optional[str]) -> str:
+    """Resolve a collection label without embedding a mapping or GMT directory."""
+    if collection_name is not None:
+        if not isinstance(collection_name, str) or not collection_name.strip():
+            raise ValueError("collection_name must be a nonempty string.")
+        return collection_name
+    if isinstance(gene_sets, Mapping):
+        return 'InMemory_TermCollection'
+    if isinstance(gene_sets, (str, os.PathLike)):
+        name = os.path.basename(os.fsdecode(gene_sets))
+        if name.lower().endswith('.gmt'):
+            name = name[:-4]
+        if name:
+            return name
+    return 'Unknown_TermCollection'
+
+
+def _collection_filename_component(collection_name: str) -> str:
+    """Use identical filename sanitization for batch validation and writing."""
+    return re.sub(r'[<>:"/\\|?*\x00-\x1f]', '_', collection_name)
+
+
+def _save_results_dataframe(df, out_file: str, collection_name: str) -> None:
+    """Share CSV serialization between direct calls and renamed batch outputs."""
+    df.drop(columns=['RES'], inplace=True, errors='ignore')
+    df.to_csv(out_file, index=False)
+    LOGGER.info(f"Results saved for {collection_name} at {out_file}")
+
+
 def run_single_gsea_prerank(
         rnk_df,
         single_gene_set_term_collection,
@@ -120,6 +151,7 @@ def run_single_gsea_prerank(
         verbose=True,
         **kwargs,
         ):
+    collection_name = _resolve_collection_name(single_gene_set_term_collection, collection_name)
     single_pre_res = gp.prerank(
         rnk=rnk_df,
         gene_sets=single_gene_set_term_collection,
@@ -134,7 +166,7 @@ def run_single_gsea_prerank(
     # Attach term collection information to each result in the dictionary.
     for key, value in single_pre_res.results.items():
         if isinstance(value, dict):
-            single_pre_res.results[key]['TermCollection'] = collection_name if collection_name is not None else single_gene_set_term_collection
+            single_pre_res.results[key]['TermCollection'] = collection_name
     # **Update the res2d DataFrame to include 'TermCollection'.**
     #single_pre_res.res2d['TermCollection'] = collection_name if collection_name is not None else single_gene_set_term_collection
     return single_pre_res
@@ -151,44 +183,42 @@ def make_results_dataframe(
         GSEA_run_filename_tag: str ='GSEA_prerank_run',
         ):
     """Convert the pre_res.results into a tidy DataFrame and save if needed.
-    The 'collection_name' parameter is used to annotate the results.
+    The 'collection_name' parameter is used to annotate the results. Omitted
+    names use the GMT basename, library name, or InMemory_TermCollection.
+    Direct calls use the resolved name; the batch wrapper disambiguates collisions.
+    Schema and output errors propagate to the caller.
     returns: pd.DataFrame with columns 'TermCollection', 'Term', 'name', 'es', 'nes', 'pval', 'fdr', 'fwerp'
 
     """
-    if collection_name is None:
-        collection_name = getattr(single_pre_res, 'gene_sets', 'Unknown_TermCollection')
-    df = pd.DataFrame()
-    try:
-        df = pd.DataFrame(single_pre_res.results).T
-        # Filter for gene sets with enough matched genes.
-        df = df[df['matched_genes'].str.split(';').str.len() >= results_table_min_genes_matched].copy()
-        # Add custom columns based on Term and collection.
-        df['Term'] = df.index
-        df['TermCollection'] = collection_name
-        df['TermCollection_Term'] = collection_name + '__' + df['Term']
-        if 'tag %' in df.columns:
-            df['leadhits_total'] = df['tag %'].apply(lambda x: x.split('/')[0] + '_' + x.split('/')[1] if isinstance(x, str) else x)
-        # Rearrange columns.
-        front_cols = ['TermCollection', 'Term', 'name', 'es', 'nes', 'pval', 'fdr', 'fwerp']
-        if 'leadhits_total' in df.columns:
-            front_cols.append('leadhits_total')
-        remaining = [col for col in df.columns if col not in front_cols]
-        df = df[front_cols + remaining]
-        # Ensure numeric columns are floats.
-        for col in ['es', 'nes', 'pval', 'fdr', 'fwerp']:
-            df[col] = df[col].astype(float)
-        # Fully order tied FDR rows so reruns do not produce order-only CSV diffs.
-        df = df.sort_values(
-            by=['TermCollection', 'fdr', 'nes', 'Term'],
-            ascending=[True, True, False, True],
-        )
-        if save_table_output:
-            out_file = os.path.join(results_dir, f"{file_base_name}.{GSEA_run_filename_tag}.{collection_name}.csv")
-            df.drop(columns=['RES'], inplace=True, errors='ignore')
-            df.to_csv(out_file, index=False, )# quoting=csv.QUOTE_MINIMAL
-            LOGGER.info(f"Results saved for {collection_name} at {out_file}")
-    except Exception as e:
-        LOGGER.exception("Error making results DataFrame for %s", collection_name)
+    collection_name = _resolve_collection_name(getattr(single_pre_res, 'gene_sets', None), collection_name)
+    df = pd.DataFrame(single_pre_res.results).T
+    # Filter for gene sets with enough matched genes.
+    df = df[df['matched_genes'].str.split(';').str.len() >= results_table_min_genes_matched].copy()
+    # Add custom columns based on Term and collection.
+    df['Term'] = df.index
+    df['TermCollection'] = collection_name
+    df['TermCollection_Term'] = collection_name + '__' + df['Term']
+    if 'tag %' in df.columns:
+        df['leadhits_total'] = df['tag %'].apply(lambda x: x.split('/')[0] + '_' + x.split('/')[1] if isinstance(x, str) else x)
+    # Rearrange columns.
+    front_cols = ['TermCollection', 'Term', 'name', 'es', 'nes', 'pval', 'fdr', 'fwerp']
+    if 'leadhits_total' in df.columns:
+        front_cols.append('leadhits_total')
+    remaining = [col for col in df.columns if col not in front_cols]
+    df = df[front_cols + remaining]
+    # Ensure numeric columns are floats.
+    for col in ['es', 'nes', 'pval', 'fdr', 'fwerp']:
+        df[col] = df[col].astype(float)
+    # Fully order tied FDR rows so reruns do not produce order-only CSV diffs.
+    df = df.sort_values(
+        by=['TermCollection', 'fdr', 'nes', 'Term'],
+        ascending=[True, True, False, True],
+    )
+    if save_table_output:
+        # Keep the supplied label in metadata; remove filename separators/control characters.
+        filename_collection = _collection_filename_component(collection_name)
+        out_file = os.path.join(results_dir, f"{file_base_name}.{GSEA_run_filename_tag}.{filename_collection}.csv")
+        _save_results_dataframe(df, out_file, collection_name)
     return df
 
 
@@ -226,6 +256,9 @@ def run_gseapy_prerank_multiple_term_collections(
         )-> None:
         '''Run GSEApy prerank analysis on the given data.
         Either data_df or data_csv_path must be provided.
+        When saving, colliding filenames (ignoring case) receive deterministic
+        __2, __3, ... suffixes and emit RuntimeWarning. The rank CSV and all
+        requested filenames are reserved. Collection metadata is unchanged.
         '''   
         ## input verification and loading  
         if data_df is None and data_csv_path is None:
@@ -236,6 +269,49 @@ def run_gseapy_prerank_multiple_term_collections(
             raise ValueError("list_of_term_collections must be provided.")
         if isinstance(list_of_term_collections, str):
             list_of_term_collections = [list_of_term_collections]
+        # Resolve all names before rank generation can write an output file.
+        if list_of_term_collection_names is not None:
+            if isinstance(list_of_term_collection_names, str):
+                list_of_term_collection_names = [list_of_term_collection_names]
+            if len(list_of_term_collection_names) != len(list_of_term_collections):
+                raise ValueError("Length of list_of_term_collection_names must match length of list_of_term_collections.")
+            term_collections_with_names = zip(list_of_term_collections, list_of_term_collection_names)
+        else:
+            term_collections_with_names = [(tc, None) for tc in list_of_term_collections]
+        term_collections_with_names = [
+            (tc, _resolve_collection_name(tc, name)) for tc, name in term_collections_with_names
+        ]
+        if save_table_output:
+            rank_filename = f"{file_base_name}.{GSEA_run_filename_tag}.rnk_df.csv"
+            requested_filenames = [
+                f"{file_base_name}.{GSEA_run_filename_tag}.{_collection_filename_component(name)}.csv"
+                for _, name in term_collections_with_names
+            ]
+            # Reserve later collections' original names before allocating suffixes.
+            reserved = {filename.casefold() for filename in requested_filenames}
+            reserved.add(rank_filename.casefold())
+            used = {rank_filename.casefold()}
+            next_suffix = {}
+            output_filenames = []
+            for position, filename in enumerate(requested_filenames, start=1):
+                original_filename = filename
+                key = filename.casefold()
+                if key in used:
+                    suffix = next_suffix.get(key, 2)
+                    while True:
+                        filename = f"{original_filename[:-4]}__{suffix}.csv"
+                        suffix += 1
+                        if filename.casefold() not in reserved and filename.casefold() not in used:
+                            break
+                    next_suffix[key] = suffix
+                    warnings.warn(
+                        f"Output filename collision for collection {position}: "
+                        f"{original_filename!r}; saving as {filename!r}. "
+                        "Collection metadata is unchanged.",
+                        RuntimeWarning, stacklevel=2,
+                    )
+                used.add(filename.casefold())
+                output_filenames.append(filename)
         # log all parameters for process input table
         LOGGER.info(f"Running GSEApy prerank with parameters:\n"
                     f"list_of_term_collections: {list_of_term_collections}\n"
@@ -283,17 +359,8 @@ def run_gseapy_prerank_multiple_term_collections(
             GSEA_run_filename_tag=GSEA_run_filename_tag,
         )
 
-        # zip term collection names if provided
-        if list_of_term_collection_names is not None:
-            if isinstance(list_of_term_collection_names, str):
-                list_of_term_collection_names = [list_of_term_collection_names]
-            if len(list_of_term_collection_names) != len(list_of_term_collections):
-                raise ValueError("Length of list_of_term_collection_names must match length of list_of_term_collections.")
-            term_collections_with_names = zip(list_of_term_collections, list_of_term_collection_names)
-        else:
-            term_collections_with_names = [(tc, None) for tc in list_of_term_collections]
         # main loop through term collections
-        for single_term_collection, collection_name in term_collections_with_names:
+        for collection_index, (single_term_collection, collection_name) in enumerate(term_collections_with_names):
             LOGGER.info(f"\nRunning GSEApy prerank for term collection: {single_term_collection}")
             # log all parameters for run_single_gsea_prerank
             LOGGER.info(f"Parameters for run_single_gsea_prerank:\n"
@@ -330,10 +397,13 @@ def run_gseapy_prerank_multiple_term_collections(
             results_df = make_results_dataframe(
                 single_pre_res, collection_name,
                 results_table_min_genes_matched=results_table_min_genes_matched,
-                save_table_output=save_table_output,
+                save_table_output=False,
                 results_dir=results_dir,
                 file_base_name=file_base_name,
                 GSEA_run_filename_tag=GSEA_run_filename_tag,)
+            if save_table_output:
+                out_file = os.path.join(results_dir, output_filenames[collection_index])
+                _save_results_dataframe(results_df, out_file, collection_name)
             LOGGER.info(f"Processed term collection: {single_term_collection} with {results_df.shape[0]} significant terms with at least {results_table_min_genes_matched} matched genes.")
         # end of main loop through term collections
         LOGGER.info("GSEApy prerank analysis completed for all term collections.")
