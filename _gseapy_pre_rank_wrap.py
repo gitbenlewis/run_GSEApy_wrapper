@@ -73,8 +73,10 @@ def process_input_table(
         )->pd.DataFrame:
     '''Prepare ranks, rejecting invalid identifiers and metrics before writing.
 
-    Zero probabilities, duplicate collapse and rank ordering retain their existing
-    policies. If both multi-name flags are enabled, keep-first precedes explode.
+    Order ranks descending, then feature IDs alphabetically. Duplicate collapse
+    retains maximum absolute rank but rejects equal opposite-sign maxima.
+    Zero probabilities retain the nextafter floor. If both multi-name flags are
+    enabled, keep-first precedes explode. Policy/QC details are in DataFrame attrs.
     '''
     _df = input_df.copy()
     if rank_metric_calc_flavor == 'signed_neg_log10_pvalue':
@@ -104,6 +106,13 @@ def process_input_table(
         invalid = ~_df[pvalue_column_name].between(0, 1)
         if invalid.any():
             raise ValueError(f"{pvalue_column_name} must be in [0, 1]; invalid rows {list(_df.index[invalid][:5])}.")
+    zero_pvalue_count = int((_df[pvalue_column_name] == 0).sum()) if rank_metric_calc_flavor == 'signed_neg_log10_pvalue' else 0
+    if zero_pvalue_count:
+        warnings.warn(
+            f"{zero_pvalue_count} input zero p-values use np.nextafter(0, 1) for rank calculation "
+            "(absolute nonzero-effect rank approximately 323.306); this is a numerical replacement, not a measured probability.",
+            RuntimeWarning, stacklevel=2,
+        )
     # ensure feature_name_column_name column is string
     _df[feature_name_column_name] = _df[feature_name_column_name].astype(str)
     # handle rows with multiple feature names
@@ -130,12 +139,48 @@ def process_input_table(
         raise ValueError(f"Unknown rank_metric_calc_flavor: {rank_metric_calc_flavor}")
     # make the rnk_df from the ranking series
     rnk_df = ranking_series.reset_index().rename(columns={ranking_series.index.name:'feature_name', ranking_series.name:new_rank_metric_column_name})
-    # make feature names unique by keeping the highest absolute values rank value
+    # Numerically equal signed zeros must also serialize identically after shuffles.
+    rnk_df.loc[rnk_df[new_rank_metric_column_name] == 0, new_rank_metric_column_name] = 0.0
+    duplicate_rows = rnk_df['feature_name'].duplicated(keep=False)
+    duplicate_stats = rnk_df.loc[duplicate_rows].groupby('feature_name')[new_rank_metric_column_name].agg(['min', 'max', 'size'])
+    opposing = (duplicate_stats['min'] < 0) & (duplicate_stats['max'] > 0)
+    ambiguous = opposing & (duplicate_stats['max'] == -duplicate_stats['min'])
+    duplicate_count = len(duplicate_stats)
+    opposing_count = int(opposing.sum())
+    if duplicate_count:
+        LOGGER.info("Duplicate rank identifiers: %d IDs across %d rows; %d IDs have opposing-sign ranks.",
+                    duplicate_count, int(duplicate_rows.sum()), opposing_count)
+    if opposing_count:
+        warnings.warn(
+            f"{opposing_count} duplicate feature IDs have opposing-sign ranks "
+            f"among {duplicate_count} duplicated IDs ({int(duplicate_rows.sum())} rows). "
+            + ("Maximum absolute rank is retained unless opposite-sign maxima tie." if make_feature_names_unique else "Duplicates are retained because make_feature_names_unique=False."),
+            RuntimeWarning, stacklevel=2,
+        )
+    if make_feature_names_unique and ambiguous.any():
+        raise ValueError(
+            f"{int(ambiguous.sum())} duplicate feature IDs have equal-magnitude opposing-sign maximum ranks; "
+            "resolve these conflicting upstream estimates before collapsing duplicates."
+        )
+    # Keep the largest absolute rank; identical signed maxima are interchangeable.
     if make_feature_names_unique:
         rnk_df['absolute_value_rnk'] = rnk_df[new_rank_metric_column_name].abs()
         rnk_df = rnk_df.sort_values(by=['absolute_value_rnk'], ascending=False).drop_duplicates(subset=['feature_name'], keep='first').drop(columns=['absolute_value_rnk'])
-        # re-sort by rank metric
-        rnk_df = rnk_df.sort_values(by=[new_rank_metric_column_name], ascending=False)
+    # Preserve exact rank values: lexical feature identity resolves tied ranks.
+    rnk_df = rnk_df.sort_values(by=[new_rank_metric_column_name, 'feature_name'], ascending=[False, True]).reset_index(drop=True)
+    rnk_df.attrs['ranking_metadata'] = {
+        'rank_order': 'rank_descending_then_feature_id_ascending',
+        'feature_id_order': 'case_sensitive_lexical_string',
+        'zero_rank_representation': 'positive_zero',
+        'duplicate_policy': 'max_absolute_rank_reject_opposite_sign_maximum_ties' if make_feature_names_unique else 'retain_duplicates',
+        'duplicate_id_count': duplicate_count,
+        'duplicate_row_count': int(duplicate_rows.sum()),
+        'opposing_sign_duplicate_id_count': opposing_count,
+        'ambiguous_opposite_sign_maximum_id_count': int(ambiguous.sum()),
+        'zero_pvalue_policy': 'np.nextafter(0, 1)' if rank_metric_calc_flavor == 'signed_neg_log10_pvalue' else 'not_applicable',
+        'zero_pvalue_replacement': float(np.nextafter(0, 1)) if rank_metric_calc_flavor == 'signed_neg_log10_pvalue' else None,
+        'input_zero_pvalue_count': zero_pvalue_count,
+    }
     # save the rnk_df if needed
     if save_table_output:
         out_file = os.path.join(results_dir, f"{file_base_name}.{GSEA_run_filename_tag}.rnk_df.csv")
@@ -203,12 +248,18 @@ def run_single_gsea_prerank(
         verbose=True,
         **kwargs,
         ):
+    """Run prepared ranks without re-sorting; explicit ascending opts out.
+
+    Use process_input_table for canonical tie ordering. Direct callers supplying
+    their own rank table/series/path retain responsibility for its input order.
+    """
     _validate_permutation_num(permutation_num)
     supported = {'outdir', 'pheno_pos', 'pheno_neg', 'weight', 'ascending', 'figsize', 'format', 'graph_num', 'no_plot'}
     unknown = set(kwargs) - supported
     if unknown:
         raise TypeError(f"Unsupported GSEApy prerank options: {sorted(unknown)}")
     collection_name = _resolve_collection_name(single_gene_set_term_collection, collection_name)
+    kwargs.setdefault('ascending', None)
     single_pre_res = gp.prerank(
         rnk=rnk_df,
         gene_sets=single_gene_set_term_collection,
@@ -486,6 +537,7 @@ def run_gseapy_prerank_multiple_term_collections(
         if save_table_output:
             metadata = {
                 'schema_version': 1, 'fdr_scope': 'per_collection',
+                'ranking': rnk_df.attrs.get('ranking_metadata', {}),
                 'collections': collection_metadata,
                 'parameters': {
                     'min_size': min_size, 'max_size': max_size,

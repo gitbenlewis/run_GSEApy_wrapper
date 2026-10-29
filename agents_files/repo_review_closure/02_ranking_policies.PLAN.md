@@ -1,12 +1,12 @@
 # Deterministic scientific ranking policies
 
-1. **Status:** Planned, not implemented. Created 2026-10-28. Findings #6, #8, #21 in [original review](../sep2026_repo_review.md). Repository: run_GSEApy_wrapper. Oversight: current primary agent; implementation owner unassigned until dispatch.
+1. **Status:** Complete and independently accepted locally on 2026-10-28; publication authorized on 2026-10-29. Findings #6, #8, #21 in [original review](../sep2026_repo_review.md). Repository: run_GSEApy_wrapper. Implementation: `/root/plan01_implementation`; independent acceptance: `/root`; file ownership returned to oversight.
 
 2. **Objective and scope:** Resolve the linked findings through evidence-backed corrections. Preserve public signatures, valid numerical behavior and unrelated working-tree changes. No new dependencies or scientific assumptions without explicit approval.
 
 3. **Proposed diff:** _gseapy_pre_rank_wrap.py; tests/test_ranking_policies.py; docs/ranking_policies.md. Add only focused regressions and documentation needed for these findings. Reinspect current files before implementation because review line numbers are historical.
 
-4. **Dependencies and decision gates:** Requires explicit tie, duplicate and zero-input policy approval. Defaults remain unchanged until approved.
+4. **Approved policies:** User approved descending ranks with alphabetical feature-ID ties and preserving prepared order in GSEApy; retain largest-absolute duplicate selection while reporting opposing signs and rejecting equal-magnitude opposing-sign ambiguity; retain the existing subnormal replacement for zero input probabilities and document/report its use. Plan01 is pushed as 52d1cf5. No other scientific changes authorized.
 
 5. **Execution step 1:** Reproduce shuffle-dependent tied-rank results and characterize duplicate symbols including opposite signs and equal absolute ranks.
 
@@ -28,3 +28,8 @@
 
 13. **2026-10-28 — Created:** Mapped original findings to ordered work, files, policy gates and verification. Existing lollipop work remains uncommitted and must be preserved. No implementation or fresh reproduction performed for this phase. Next: revalidate findings and resolve the stated decisions before dispatch.
 
+14. **2026-10-28 — Approved and dispatched:** User annotations approved tied-rank and duplicate policies and approve_4 retained zero handling. Assigned implementation to the existing plan01 agent with wrapper/tests/ranking docs ownership; primary retains independent review and roadmap. Requested real shuffle-invariance experiments and explicit treatment of caller ascending overrides. No commit/push authorization inferred for this new phase from the annotation targeting plan01.
+
+15. **2026-10-28 — Delivered and independently accepted:** Reviewed source, eight new tests and final documentation. Full unittest suite: 47 passed; compilation and tracked diff whitespace checks passed. Real three-shuffle signed-rank tests match all five enrichment metrics and every saved CSV/JSON byte. Independent all-equal-rank experiment confirmed old shuffle sensitivity and new exact invariance. Canonical lexical ordering can materially change enrichment direction when membership correlates with IDs; documented as a reproducibility convention, not biological evidence. Opposing-sign maximum ties fail only when collapsing duplicates; lower opposite-sign ties with a unique larger maximum remain valid. Zero probability replacement is unchanged and reported before name expansion. Direct calls preserve supplied order by default; explicit ascending overrides remain supported. Runtime: Python 3.10.20, GSEApy 1.1.13, pandas 2.3.3, NumPy 2.2.6, Matplotlib 3.10.8. Pinned GSEApy 1.1.11 and private/full analyses were not run. No new dependencies, commits or pushes; unrelated lollipop changes preserved. Next: Plan03 display-policy approval.
+
+16. **2026-10-29 — Publication authorized:** User approved separate commits and push for Plans02–04. Final suite passed 62 tests; diff and blob-size checks passed. This phase is included in its own implementation commit; see Git history for commit identity. No further scientific policy changes or live analyses.

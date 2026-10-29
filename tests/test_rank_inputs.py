@@ -102,7 +102,7 @@ class RunContractTests(unittest.TestCase):
                 wrapper.run_single_gsea_prerank(self.data, {}, permutation_num=count)
                 self.assertEqual(run.call_args.kwargs['permutation_num'], count)
                 self.assertNotIn('weight', run.call_args.kwargs)
-                self.assertNotIn('ascending', run.call_args.kwargs)
+                self.assertIsNone(run.call_args.kwargs['ascending'])
 
     def test_invalid_permutations_fail_before_processing(self):
         for count in (0, -1, .5, 1.5, np.inf, None, True, 'bad'):
