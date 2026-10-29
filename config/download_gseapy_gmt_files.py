@@ -7,14 +7,14 @@ import sys
 import os
 
 # Adds the project root (two levels up) to the search path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../")))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../")))
 
 from pathlib import Path
 from datetime import datetime
 import logging
 
 
-from gseapy_pre_rank_wrap import (
+from _gseapy_pre_rank_wrap import (
     make_gmts_from_enrichr_libraries,
     make_gmts_from_Msigdb,
     convert_gmt_homologs_directory,

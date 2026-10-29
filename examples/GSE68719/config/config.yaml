@@ -1,14 +1,14 @@
 local_conda_env:
   env_nextflow: env_nextflow
   env_RNAseq: env_RNAseq
-parent_outdir: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/
+parent_outdir: ../
 dataset_name: GSE68719
 
 GSEApy_params:
-  repo_results_dir: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/results/GSEApy/
+  repo_results_dir: ../results/GSEApy/
   default_params:
     feature_name_column_name: symbol
-    gsea_permutation_num: 1000
+    permutation_num: 1000
     min_size: 10
     max_size: 3000
     results_table_min_genes_matched: 3
@@ -20,8 +20,8 @@ GSEApy_params:
     GSEA_run_filename_tag: GSEA
     data_csv_path_sepstr: "\t" #","
     gene_term_collections_gmt_file_directory_list:
-      enrichr_Hu_h2m: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/data/ref/gmt_files/enrichr_Hu
-      msigdb_Mm: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/data/ref/gmt_files/msigdb_Hu
+      enrichr_Hu_h2m: ../../../data/ref/gmt_files/enrichr_Hu
+      msigdb_Mm: ../../../data/ref/gmt_files/msigdb_Hu
     gene_term_collections_2_use:
       - GO_Biological_Process_2025
       - GO_Cellular_Component_2025
@@ -45,7 +45,7 @@ GSEApy_params:
       - ARCHS4_Tissues
       - Tabula_Sapiens
       - Tabula_Muris
-      - MGI_Mammalian_Phenotype_Level_4_2021
+      - MGI_Mammalian_Phenotype_Level_4_2024
       - Human_Phenotype_Ontology
       - GWAS_Catalog_2025
       - UK_Biobank_GWAS_v1
@@ -106,9 +106,10 @@ GSEApy_params:
     run_defined_gseapy_runs: true
   defined_gseapy_runs:
     GSEApy_signed_neg_log10_pvalue:
+      run: true
       gseapy_run_name: signed_neg_log10_pvalue
       DA_run_name: DESeq2_diffexp_pmi_age_rin
-      data_csv_path: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
+      data_csv_path: ../data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
       data_csv_path_sepstr: "\t"
       #rank_metric_calc_flavor: use_column_key
       #existing_rank_metric_column_name: log2FoldChange
@@ -116,9 +117,10 @@ GSEApy_params:
       l2fc_column_name: log2FoldChange
       pvalue_column_name: pvalue
     GSEApy_log2FoldChange:
+      run: true
       gseapy_run_name: log2FoldChange
       DA_run_name: DESeq2_diffexp_pmi_age_rin
-      data_csv_path: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
+      data_csv_path: ../data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
       data_csv_path_sepstr: "\t"
       rank_metric_calc_flavor: use_column_key
       existing_rank_metric_column_name: log2FoldChange
@@ -126,15 +128,16 @@ GSEApy_params:
       #l2fc_column_name: log2FoldChange
       #pvalue_column_name: pvalue
   gseapy_dotplot_params:
+    run: true
     top_terms_2_plot: 20
     figsize:
       - 6
       - 8
     gseapy_run_dir_list:
 ############### l2fc ranking gsea runs ######################################################################
-      - /home/ubuntu/projects/ActioBio/actio_TRPV4_biomarkers/AB01-hSomascan2025-001/results/GSEApy/diff_test_NHSv1xa_Case_over_Control/l2fc_rank
+      - ../results/GSEApy/DESeq2_diffexp_pmi_age_rin/log2FoldChange
 ######################## singed p-value ranking gsea runs ######################################################################
-      - /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/results/GSEApy/DESeq2_diffexp_pmi_age_rin/GSEApy
+      - ../results/GSEApy/DESeq2_diffexp_pmi_age_rin/signed_neg_log10_pvalue
 
 
 
@@ -202,12 +205,12 @@ GSEApy_parameters_defaults_old:
     - h.all
     - msigdb
 gene_term_collections_gmt_file_directory_list:
-  enrichr_Hu_h2m: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/data/ref/gmt_files/enrichr_Hu
-  msigdb_Mm: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/data/ref/gmt_files/msigdb_Hu
+  enrichr_Hu_h2m: ../../../data/ref/gmt_files/enrichr_Hu
+  msigdb_Mm: ../../../data/ref/gmt_files/msigdb_Hu
 run_4_all_differentialabundance_runs: false
 gseapy_runs:
   - gseapy_run_name: GSEApy
     DA_run_name: DESeq2_diffexp_pmi_age_rin
-    DA_table: /home/ubuntu/projects/gitbenlewis/run_GSEApy_wrapper/examples/GSE68719/data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
+    DA_table: ../data/GSE68719_mlpd_DESeq2_diffexp_pmi_age_rin_default.txt
     DA_table_sepstr: "\t"
 

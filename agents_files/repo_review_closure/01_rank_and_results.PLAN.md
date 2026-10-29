@@ -1,6 +1,6 @@
 # Rank input and result correctness
 
-1. **Status:** Complete and independently accepted locally, 2026-10-28; uncommitted. Findings #5, #7, #20, #22, #23, #24 in [original review](../sep2026_repo_review.md). Repository: run_GSEApy_wrapper. Oversight: `/root`; implementation delivered by `/root/plan01_implementation`. User-approved decisions 2–4 governed invalid inputs, permutation validation and opt-in all-results returns.
+1. **Status:** Complete and independently accepted, 2026-10-28; committed and pushed as 52d1cf5 to origin/main at the user's request. Findings #5, #7, #20, #22, #23, #24 in [original review](../sep2026_repo_review.md). Repository: run_GSEApy_wrapper. Oversight: `/root`; implementation delivered by `/root/plan01_implementation`. User-approved decisions 2–4 governed invalid inputs, permutation validation and opt-in all-results returns.
 
 2. **Objective and scope:** Resolve the linked findings through evidence-backed corrections. Preserve public signatures, valid numerical behavior and unrelated working-tree changes. No new dependencies or scientific assumptions without explicit approval.
 
@@ -41,4 +41,6 @@
 19. **2026-10-28 — Acceptance evidence:** Oversight read actual diff, new tests and docs/rank_inputs.md. All 39 tests passed, changed Python files compiled, and git diff --check passed. Compared valid ranks with committed HEAD in both modes including exact zero, p=1 and duplicate IDs: exact DataFrame parity. A real two-collection GSEApy run returned ordered results, produced the mapped CSVs/metadata and matched direct GSEApy ES, NES, nominal P, FDR and FWER exactly. Installed environment is Python 3.10/GSEApy 1.1.13; pinned 1.1.11 and full dataset runs were not executed. No dependencies or publication changes. New tests live in tests/test_rank_inputs.py; existing output-file assertions now include the intentional JSON sidecar. No-save outputs remain absent.
 
 20. **Closure and limits:** Findings #5/#7/#20/#22/#23/#24 accepted locally. Preserved legacy last-result return unless the new opt-in list mode is selected. CSV schema unchanged; sidecar is an intentional additional output and is not a complete provenance manifest. Prior batch files can remain after a failure; transactional output is not claimed. Plan02's tie/duplicate/zero scientific policies remain unresolved and unchanged. No commit or push performed.
+
+21. **2026-10-28 — Publication authorized:** User requested pushing plan01. Staged only plan01 source/tests/docs and closure roadmap/plans; left lollipop files uncommitted. Commit 52d1cf5 pushed successfully to origin/main after remote fetch and oversized-blob checks. Staged diff check reported trailing blank lines in newly added roadmap Markdown, with no source whitespace errors; these cosmetic warnings do not alter verification evidence. Plan02 decisions were then approved separately and execution began; item20's pending-policy/no-push statements are historical.
 
