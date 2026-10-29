@@ -37,6 +37,7 @@ run_gseapy_prerank_multiple_term_collections(
 import os
 import re
 import warnings
+import json
 import numpy as np
 import pandas as pd
 import gseapy as gp
@@ -70,9 +71,39 @@ def process_input_table(
         file_base_name: str ='datasetID',
         GSEA_run_filename_tag: str ='GSEA_prerank_run',
         )->pd.DataFrame:
-    '''
+    '''Prepare ranks, rejecting invalid identifiers and metrics before writing.
+
+    Zero probabilities, duplicate collapse and rank ordering retain their existing
+    policies. If both multi-name flags are enabled, keep-first precedes explode.
     '''
     _df = input_df.copy()
+    if rank_metric_calc_flavor == 'signed_neg_log10_pvalue':
+        metric_columns = [l2fc_column_name, pvalue_column_name]
+    elif rank_metric_calc_flavor == 'use_column_key':
+        if existing_rank_metric_column_name is None:
+            raise ValueError("existing_rank_metric_column_name must be provided when using 'use_column_key' flavor.")
+        metric_columns = [existing_rank_metric_column_name]
+    else:
+        raise ValueError(f"Unknown rank_metric_calc_flavor: {rank_metric_calc_flavor}")
+    missing = [column for column in [feature_name_column_name, *metric_columns] if column not in _df.columns]
+    if missing:
+        raise ValueError(f"Missing required rank columns: {missing}")
+    identifiers = _df[feature_name_column_name]
+    invalid = identifiers.isna() | identifiers.astype(str).str.strip().eq('')
+    if invalid.any():
+        raise ValueError(f"{feature_name_column_name} contains {int(invalid.sum())} missing/blank identifiers at rows {list(_df.index[invalid][:5])}.")
+    for column in dict.fromkeys(metric_columns):
+        numeric = pd.to_numeric(_df[column], errors='coerce')
+        if np.iscomplexobj(numeric):
+            raise ValueError(f"{column} must contain real, finite numeric values.")
+        invalid = ~np.isfinite(numeric.to_numpy(dtype=float, na_value=np.nan))
+        if invalid.any():
+            raise ValueError(f"{column} contains {int(invalid.sum())} missing/nonnumeric/nonfinite values at rows {list(_df.index[invalid][:5])}.")
+        _df[column] = numeric
+    if rank_metric_calc_flavor == 'signed_neg_log10_pvalue':
+        invalid = ~_df[pvalue_column_name].between(0, 1)
+        if invalid.any():
+            raise ValueError(f"{pvalue_column_name} must be in [0, 1]; invalid rows {list(_df.index[invalid][:5])}.")
     # ensure feature_name_column_name column is string
     _df[feature_name_column_name] = _df[feature_name_column_name].astype(str)
     # handle rows with multiple feature names
@@ -82,6 +113,9 @@ def process_input_table(
     if explode_rows_with_multiple_feature_names and rows_with_multiple_feature_names_delimiter is not None:
         _df[feature_name_column_name] = _df[feature_name_column_name].str.split(rows_with_multiple_feature_names_delimiter)
         _df = _df.explode(feature_name_column_name, ignore_index=True)
+    invalid = _df[feature_name_column_name].isna() | _df[feature_name_column_name].str.strip().eq('')
+    if invalid.any():
+        raise ValueError(f"{feature_name_column_name} contains empty identifiers after splitting at rows {list(_df.index[invalid][:5])}.")
     # calculate the ranking metric
     if rank_metric_calc_flavor=='signed_neg_log10_pvalue': 
         _df = _df.dropna(subset=[feature_name_column_name, l2fc_column_name, pvalue_column_name])
@@ -139,6 +173,24 @@ def _save_results_dataframe(df, out_file: str, collection_name: str) -> None:
     LOGGER.info(f"Results saved for {collection_name} at {out_file}")
 
 
+def _validate_permutation_num(permutation_num) -> None:
+    """Do not let GSEApy truncate a fractional count into an ES-only run."""
+    try:
+        count = int(permutation_num)
+        valid = not isinstance(permutation_num, (bool, np.bool_)) and count > 0 and float(permutation_num) == count
+    except (TypeError, ValueError, OverflowError):
+        valid = False
+    if not valid:
+        raise ValueError("permutation_num must be a positive integer for inferential runs.")
+
+
+def _metadata_json_default(value):
+    """Serialize NumPy scalar parameters without coercing their numeric value."""
+    if isinstance(value, np.generic):
+        return value.item()
+    raise TypeError(f"Cannot serialize metadata value of type {type(value).__name__}")
+
+
 def run_single_gsea_prerank(
         rnk_df,
         single_gene_set_term_collection,
@@ -151,6 +203,11 @@ def run_single_gsea_prerank(
         verbose=True,
         **kwargs,
         ):
+    _validate_permutation_num(permutation_num)
+    supported = {'outdir', 'pheno_pos', 'pheno_neg', 'weight', 'ascending', 'figsize', 'format', 'graph_num', 'no_plot'}
+    unknown = set(kwargs) - supported
+    if unknown:
+        raise TypeError(f"Unsupported GSEApy prerank options: {sorted(unknown)}")
     collection_name = _resolve_collection_name(single_gene_set_term_collection, collection_name)
     single_pre_res = gp.prerank(
         rnk=rnk_df,
@@ -162,6 +219,7 @@ def run_single_gsea_prerank(
         #outdir='./',
         seed=seed,
         verbose=verbose,
+        **kwargs,
     )
     # Attach term collection information to each result in the dictionary.
     for key, value in single_pre_res.results.items():
@@ -253,14 +311,21 @@ def run_gseapy_prerank_multiple_term_collections(
         file_base_name: str ='datasetID',
         GSEA_run_filename_tag: str ='GSEA_prerank_run',
         return_single_pre_res: bool = False,
-        )-> None:
+        return_all_pre_res: bool = False,
+        ):
         '''Run GSEApy prerank analysis on the given data.
         Either data_df or data_csv_path must be provided.
         When saving, colliding filenames (ignoring case) receive deterministic
         __2, __3, ... suffixes and emit RuntimeWarning. The rank CSV and all
         requested filenames are reserved. Collection metadata is unchanged.
+        return_all_pre_res returns a list in collection order, preserving duplicate
+        names; it is mutually exclusive with return_single_pre_res. The latter
+        retains its legacy last-result behavior. FDR is per collection, not global.
         '''   
         ## input verification and loading  
+        _validate_permutation_num(permutation_num)
+        if return_all_pre_res and return_single_pre_res:
+            raise ValueError("return_all_pre_res and return_single_pre_res are mutually exclusive.")
         if data_df is None and data_csv_path is None:
             raise ValueError("Either data_df or data_csv_path must be provided.")
         if data_df is None:
@@ -269,6 +334,8 @@ def run_gseapy_prerank_multiple_term_collections(
             raise ValueError("list_of_term_collections must be provided.")
         if isinstance(list_of_term_collections, str):
             list_of_term_collections = [list_of_term_collections]
+        if len(list_of_term_collections) == 0:
+            raise ValueError("list_of_term_collections must not be empty.")
         # Resolve all names before rank generation can write an output file.
         if list_of_term_collection_names is not None:
             if isinstance(list_of_term_collection_names, str):
@@ -359,6 +426,8 @@ def run_gseapy_prerank_multiple_term_collections(
             GSEA_run_filename_tag=GSEA_run_filename_tag,
         )
 
+        all_pre_res = [] if return_all_pre_res else None
+        collection_metadata = []
         # main loop through term collections
         for collection_index, (single_term_collection, collection_name) in enumerate(term_collections_with_names):
             LOGGER.info(f"\nRunning GSEApy prerank for term collection: {single_term_collection}")
@@ -385,6 +454,8 @@ def run_gseapy_prerank_multiple_term_collections(
                 seed=seed,
                 verbose=verbose,
             )
+            if return_all_pre_res:
+                all_pre_res.append(single_pre_res)
             # log all parameters for make_results_dataframe
             LOGGER.info(f"Parameters for make_results_dataframe:\n"
                         f"collection_name: {collection_name}\n"
@@ -404,10 +475,42 @@ def run_gseapy_prerank_multiple_term_collections(
             if save_table_output:
                 out_file = os.path.join(results_dir, output_filenames[collection_index])
                 _save_results_dataframe(results_df, out_file, collection_name)
-            LOGGER.info(f"Processed term collection: {single_term_collection} with {results_df.shape[0]} significant terms with at least {results_table_min_genes_matched} matched genes.")
+                collection_metadata.append({
+                    'collection_index': collection_index, 'collection_name': collection_name,
+                    'adjustment_family': f'collection_{collection_index + 1}',
+                    'result_file': output_filenames[collection_index],
+                    'weight': getattr(single_pre_res, 'weight', None),
+                    'ascending': getattr(single_pre_res, 'ascending', None),
+                })
+            LOGGER.info(f"Processed term collection: {single_term_collection} with {results_df.shape[0]} reported terms with at least {results_table_min_genes_matched} matched genes.")
+        if save_table_output:
+            metadata = {
+                'schema_version': 1, 'fdr_scope': 'per_collection',
+                'collections': collection_metadata,
+                'parameters': {
+                    'min_size': min_size, 'max_size': max_size,
+                    'permutation_num': int(permutation_num), 'threads': threads, 'seed': seed,
+                    'rank_metric_calc_flavor': rank_metric_calc_flavor,
+                    'feature_name_column_name': feature_name_column_name,
+                    'existing_rank_metric_column_name': existing_rank_metric_column_name,
+                    'new_rank_metric_column_name': new_rank_metric_column_name,
+                    'l2fc_column_name': l2fc_column_name, 'pvalue_column_name': pvalue_column_name,
+                    'make_feature_names_unique': make_feature_names_unique,
+                    'keep_first_occurrence_for_rows_with_multiple_feature_names': keep_first_occurrence_for_rows_with_multiple_feature_names,
+                    'explode_rows_with_multiple_feature_names': explode_rows_with_multiple_feature_names,
+                    'rows_with_multiple_feature_names_delimiter': rows_with_multiple_feature_names_delimiter,
+                    'results_table_min_genes_matched': results_table_min_genes_matched,
+                },
+            }
+            metadata_file = os.path.join(results_dir, f"{file_base_name}.{GSEA_run_filename_tag}.run_metadata.json")
+            with open(metadata_file, 'w') as handle:
+                json.dump(metadata, handle, indent=2, sort_keys=True, default=_metadata_json_default)
+                handle.write('\n')
         # end of main loop through term collections
         LOGGER.info("GSEApy prerank analysis completed for all term collections.")
 
+        if return_all_pre_res:
+            return all_pre_res
         if return_single_pre_res:
             return single_pre_res
         return
@@ -490,10 +593,9 @@ def metabolon_chemical_annotation_to_pathway_table(
     if missing:
         raise ValueError(f"Missing expected columns in Chemical Annotation: {missing}")
 
-    chem_ann_df[columns_to_include] = chem_ann_df[columns_to_include].astype(str)
     res_df = (
         chem_ann_df.groupby(groupby_col)[columns_to_include]
-        .agg(list)
+        .agg(lambda values: [str(value) for value in values if pd.notna(value) and str(value).strip()])
         .reset_index()
         .rename(columns={groupby_col: "pathway"})
     )

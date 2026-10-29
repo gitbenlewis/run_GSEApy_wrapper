@@ -113,7 +113,7 @@ class ResultsSerializationTests(unittest.TestCase):
                     else:
                         self.assertEqual(current, first_outputs)
                 prefix = 'datasetID.GSEA_prerank_run.'
-                self.assertEqual(set(current), {prefix + name + '.csv' for name in components + ['rnk_df']})
+                self.assertEqual(set(current), {prefix + name + '.csv' for name in components + ['rnk_df']} | {prefix + 'run_metadata.json'})
                 self.assertEqual(prerank.call_count, len(collections) * 2)
                 expected_labels = names or [
                     'InMemory_TermCollection' if isinstance(source, dict) else 'library'
@@ -164,7 +164,7 @@ class ResultsSerializationTests(unittest.TestCase):
                 prefix = 'datasetID.GSEA_prerank_run.'
                 self.assertEqual(
                     {path.name for path in Path(directory).iterdir()},
-                    {prefix + name + '.csv' for name in expected_names + ['rnk_df']},
+                    {prefix + name + '.csv' for name in expected_names + ['rnk_df']} | {prefix + 'run_metadata.json'},
                 )
                 saved_ranks = pd.read_csv(Path(directory) / (prefix + 'rnk_df.csv'))
                 self.assertEqual(saved_ranks.to_dict('list'), {'feature_name': ['A', 'B'], 'rank': [2.0, -1.0]})
