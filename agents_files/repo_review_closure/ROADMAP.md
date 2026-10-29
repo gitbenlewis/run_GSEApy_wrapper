@@ -16,7 +16,7 @@
 
 8. **Portable config-driven workflows:** [Execution plan](04_portable_workflows.PLAN.md). Findings #15, #16, #17, #27 accepted locally; publication authorized 2026-10-29, 2026-10-29. Implementation: `/root/plan01_implementation`; independent acceptance: `/root`. Evidence: 62 passing tests, renamed-checkout real import/help checks, offline subprocess parameter/preflight checks and complete requested inventory. Approved MGI2024 update applied. Next: Plan05 scientific policy decisions.
 
-9. **Species-aware reference acquisition and provenance:** [Execution plan](05_references_and_provenance.PLAN.md). Findings #9, #10, #18, #30. Implementation: planned; independent review: pending; owner: unassigned. Next: inspect current source and satisfy the plan's gates.
+9. **Species-aware reference acquisition and provenance:** [Execution plan](05_references_and_provenance.PLAN.md). Findings #9, #10, #18, #30. Offline implementation independently accepted 2026-10-29; publication authorized. Delivered by `/root/plan01_implementation`, reviewed by `/root`; 72 tests, unchanged public signatures, deterministic/QC/atomicity evidence. Species evidence and mapping repairs remain prerequisites for live use; redistribution uncertainties recorded in DATA_LICENSES.md. No existing references changed.
 
 10. **Efficient postprocessing and defensible networks:** [Execution plan](06_postprocessing_and_networks.PLAN.md). Findings #13, #14, #25, #26. Implementation: planned; independent review: pending; owner: unassigned. Next: inspect current source and satisfy the plan's gates.
 

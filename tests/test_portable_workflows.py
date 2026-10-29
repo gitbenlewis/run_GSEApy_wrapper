@@ -157,13 +157,18 @@ runpy.run_path(script,run_name='__main__')
         code = '''import sys,types,runpy
 module=types.ModuleType('_gseapy_pre_rank_wrap')
 calls=[]
-for name in ('make_gmts_from_enrichr_libraries','make_gmts_from_Msigdb','convert_gmt_homologs_directory'):
+for name in ('make_gmts_from_enrichr_libraries','make_gmts_from_Msigdb','convert_gmt_homologs','_homolog_policy','_read_gmt_records','_sha256_file'):
  setattr(module,name,lambda **kwargs:calls.append(kwargs))
 for name in ('basic_set_of_enrichr_term_collections','expansion_set_of_enrichr_term_collections','all_enrichr_libraries_2025_sin_archive'):
  setattr(module,name,[])
 sys.modules[module.__name__]=module
-runpy.run_path(sys.argv[1],run_name='__main__')
-assert len(calls)==6,calls
+script=sys.argv[1]
+sys.argv=[script,'--help']
+try:
+ runpy.run_path(script,run_name='__main__')
+except SystemExit as exc:
+ assert exc.code==0
+assert not calls,calls
 '''
         result = subprocess.run([sys.executable, '-c', code, str(script)], cwd=self.base, capture_output=True, text=True)
         self.assertEqual(result.returncode, 0, result.stderr)

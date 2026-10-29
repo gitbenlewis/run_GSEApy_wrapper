@@ -38,6 +38,7 @@ import os
 import re
 import warnings
 import json
+import hashlib
 import numpy as np
 import pandas as pd
 import gseapy as gp
@@ -678,13 +679,81 @@ def _load_homolog_mapping(
     source_col: str,
     target_col: str,
 ) -> dict[str, str]:
-    mapping_df = pd.read_csv(mapping_file, dtype=str)
-    required_cols = {source_col, target_col}
-    if not required_cols.issubset(mapping_df.columns):
-        raise ValueError(f"Mapping file must contain columns {required_cols}")
-    mapping_df = mapping_df[[source_col, target_col]].dropna()
-    mapping_df = mapping_df[(mapping_df[source_col] != "") & (mapping_df[target_col] != "")]
-    return dict(zip(mapping_df[source_col], mapping_df[target_col]))
+    return _homolog_policy(mapping_file, source_col, target_col)[0]
+
+
+def _sha256_file(path):
+    digest = hashlib.sha256()
+    with open(path, 'rb') as handle:
+        for block in iter(lambda: handle.read(1024 * 1024), b''):
+            digest.update(block)
+    return digest.hexdigest()
+
+
+def _homolog_policy(mapping_file, source_col, target_col):
+    """Unique pairs in complete relationship columns, not evolutionary proof."""
+    complete_col = target_col + 's_all'
+    table = pd.read_csv(mapping_file, dtype=str, keep_default_na=False)
+    required = {source_col, target_col, complete_col}
+    if not required.issubset(table.columns):
+        raise ValueError(f'Mapping requires complete relationship columns {sorted(required)}; scalar fallback is unsafe.')
+    relations = {}
+    scalar_targets = {}
+    conflicts = set()
+    blank_source_rows = []
+    duplicate_records = 0
+    for row_number, (source, scalar, complete) in enumerate(table[[source_col, target_col, complete_col]].itertuples(index=False, name=None), 2):
+        source = source.strip()
+        if not source:
+            blank_source_rows.append(row_number)
+            continue
+        targets = frozenset(value.strip() for value in complete.split(',') if value.strip())
+        if scalar.strip():
+            scalar_targets.setdefault(source, set()).add(scalar.strip())
+            if len(scalar_targets[source]) > 1:
+                conflicts.add(source)
+        if scalar.strip() and scalar.strip() not in targets:
+            raise ValueError(f'Mapping scalar target for {source} is absent from {complete_col}.')
+        if source in relations:
+            duplicate_records += 1
+            if relations[source] != targets:
+                conflicts.add(source)
+        else:
+            relations[source] = targets
+    if conflicts or blank_source_rows:
+        raise ValueError(f'Contradictory mapping records for {len(conflicts)} source IDs: {sorted(conflicts)[:20]}; '
+                         f'blank source rows (CSV line numbers): {blank_source_rows[:20]}. Resolve upstream; no conversion was written.')
+    reverse = {}
+    for source, targets in relations.items():
+        for target in targets:
+            reverse.setdefault(target, set()).add(source)
+    one_many = {source for source, targets in relations.items() if len(targets) > 1}
+    many_one = {source for source, targets in relations.items() if any(len(reverse[target]) > 1 for target in targets)}
+    excluded = one_many | many_one
+    mapping = {source: next(iter(targets)) for source, targets in relations.items() if len(targets) == 1 and source not in excluded}
+    qc = dict(policy='unique_source_target_pairs_in_complete_relationships', complete_target_column=complete_col,
+              source_id_count=len(relations), retained_pair_count=len(mapping),
+              one_to_many_source_count=len(one_many), many_to_one_source_count=len(many_one),
+              excluded_source_count=len(excluded), duplicate_relationship_record_count=duplicate_records,
+              source_url=None, release=None)
+    return mapping, excluded, qc
+
+
+def _read_gmt_records(path):
+    records = []
+    seen = set()
+    with open(path) as handle:
+        for number, line in enumerate(handle, 1):
+            if not line.strip():
+                continue
+            fields = line.rstrip('\r\n').split('\t')
+            if len(fields) < 3 or not fields[0].strip() or any(not gene.strip() for gene in fields[2:]):
+                raise ValueError(f'Invalid GMT record at line {number} in {path}.')
+            if fields[0] in seen:
+                raise ValueError(f'Duplicate GMT term {fields[0]!r} in {path}.')
+            seen.add(fields[0])
+            records.append((fields[0], fields[1], fields[2:]))
+    return records
 
 
 def _dedupe_preserve_order(items: Sequence[str]) -> list[str]:
@@ -722,6 +791,8 @@ def make_gmts_from_enrichr_libraries(
     output_files = []
     for collection in list_of_term_collections:
         geneset_dict = gp.get_library(collection, organism=organism,max_size = max_size, min_size = min_size)
+        if not geneset_dict:
+            raise ValueError(f'No GMT returned for requested Enrichr library {collection}.')
         output_gmt_path = os.path.join(outdir, f"{collection}.gmt")
         _write_gmt_dict(geneset_dict, output_gmt_path, description=collection)
         LOGGER.info("Saved Enrichr GMT for %s at %s", collection, output_gmt_path)
@@ -746,9 +817,8 @@ def make_gmts_from_Msigdb(
     output_files = []
     for category in list_of_Msigdb_categories:
         geneset_dict = gmsigdb.Msigdb.get_gmt(category=category, dbver=dbver, entrez=False)
-        if geneset_dict is None:
-            LOGGER.info("No GMT returned for category %s (dbver=%s)", category, dbver)
-            continue
+        if not geneset_dict:
+            raise ValueError(f'No GMT returned for requested category {category} (dbver={dbver}).')
         output_gmt_path = os.path.join(outdir, f"{category}.gmt")
         _write_gmt_dict(geneset_dict, output_gmt_path, description=f"{category}.v{dbver}")
         LOGGER.info("Saved MSigDB GMT for %s at %s", category, output_gmt_path)
@@ -767,35 +837,53 @@ def convert_gmt_homologs(
     human_gene_name_col: str = "human_gene_name",
 ) -> str:
     """
-    Convert a GMT file between human and mouse using one-to-one symbol mappings.
-    For Mouse conversion: map source_index_col -> mouse_gene_name_col using homolog_mapping_h2m_file.
-    For Human conversion: map mouse_gene_name_col -> human_gene_name_col using homolog_mapping_m2h_file.
+    Convert using unique source/target pairs from complete *_gene_names_all lists.
+    Reject contradictory source relationships; exclude one-to-many and many-to-one.
+    Drop unmapped genes, deduplicate targets, omit empty terms, and write .qc.json.
+    Source identifiers use source_index_col in both directions. The caller must
+    establish source identifier species before calling this low-level converter.
     """
     target = covert2organism.strip().lower()
     if target == "mouse":
         if homolog_mapping_h2m_file is None:
             raise ValueError("homolog_mapping_h2m_file must be provided for Mouse conversion.")
-        mapping = _load_homolog_mapping(homolog_mapping_h2m_file, source_index_col, mouse_gene_name_col)
+        mapping_file = homolog_mapping_h2m_file
+        mapping, excluded, mapping_qc = _homolog_policy(mapping_file, source_index_col, mouse_gene_name_col)
     elif target == "human":
         if homolog_mapping_m2h_file is None:
             raise ValueError("homolog_mapping_m2h_file must be provided for Human conversion.")
-        mapping = _load_homolog_mapping(homolog_mapping_m2h_file, source_index_col, human_gene_name_col)
+        mapping_file = homolog_mapping_m2h_file
+        mapping, excluded, mapping_qc = _homolog_policy(mapping_file, source_index_col, human_gene_name_col)
     else:
         raise ValueError("covert2organism must be 'Mouse' or 'Human'.")
 
+    records = _read_gmt_records(gmt_input_file)
+    source_hash = _sha256_file(gmt_input_file)
+    mapping_hash = _sha256_file(mapping_file)
+    term_qc, lines = [], []
+    for term, description, genes in records:
+        mapped = [mapping[gene] for gene in genes if gene in mapping]
+        deduped = _dedupe_preserve_order(mapped)
+        ambiguous_count = sum(gene in excluded for gene in genes)
+        term_qc.append(dict(term=term, source_count=len(genes), source_unique_count=len(set(genes)),
+                            mapped_count=len(mapped), excluded_count=ambiguous_count,
+                            unmapped_count=len(genes) - len(mapped) - ambiguous_count,
+                            deduplicated_count=len(mapped) - len(deduped), output_count=len(deduped),
+                            empty=not deduped))
+        if deduped:
+            lines.append('\t'.join([term, description, *deduped]) + '\n')
     _ensure_parent_dir(gmt_out_put_file)
-    with open(gmt_input_file, "r") as in_handle, open(gmt_out_put_file, "w") as out_handle:
-        for line in in_handle:
-            line = line.rstrip("\n")
-            if not line:
-                continue
-            parts = line.split("\t")
-            term = parts[0] if len(parts) > 0 else ""
-            description = parts[1] if len(parts) > 1 else ""
-            genes = parts[2:] if len(parts) > 2 else []
-            mapped_genes = [mapping[g] for g in genes if g in mapping]
-            mapped_genes = _dedupe_preserve_order(mapped_genes)
-            out_handle.write("\t".join([term, description, *mapped_genes]) + "\n")
+    with open(gmt_out_put_file, 'w') as handle:
+        handle.writelines(lines)
+    totals = {key: sum(term[key] for term in term_qc) for key in
+              ('source_count', 'mapped_count', 'excluded_count', 'unmapped_count', 'deduplicated_count', 'output_count')}
+    totals.update(source_term_count=len(records), output_term_count=len(lines), empty_term_count=sum(term['empty'] for term in term_qc))
+    qc = dict(schema_version=1, target_species=target, mapping_policy=mapping_qc, terms=term_qc, totals=totals,
+              source_sha256=source_hash, mapping_sha256=mapping_hash,
+              output_sha256=_sha256_file(gmt_out_put_file))
+    with open(str(gmt_out_put_file) + '.qc.json', 'w') as handle:
+        json.dump(qc, handle, indent=2, sort_keys=True)
+        handle.write('\n')
     LOGGER.info("Converted GMT %s -> %s (target=%s)", gmt_input_file, gmt_out_put_file, covert2organism)
     return gmt_out_put_file
 
