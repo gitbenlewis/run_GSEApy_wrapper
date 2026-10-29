@@ -4,12 +4,11 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Iterable, Optional, Sequence
-
 import textwrap
 import warnings
 
-import numpy as np
 import gseapy as gp
+import numpy as np
 import pandas as pd
 
 
@@ -39,14 +38,17 @@ def _apply_pvalue_zero_floor(
 ) -> pd.DataFrame:
     if pvalue_col not in df.columns:
         raise ValueError(f"pvalue_col '{pvalue_col}' not found in table columns.")
-    series = pd.to_numeric(df[pvalue_col], errors="coerce")
+    series = pd.to_numeric(df[pvalue_col], errors="raise")
     zero_mask = series == 0
     if not zero_mask.any():
         return df
+    nonzero = series[series > 0]
     if n_perm_4_zero_pavlues is not None:
-        if n_perm_4_zero_pavlues <= 0:
+        if not np.isfinite(n_perm_4_zero_pavlues) or n_perm_4_zero_pavlues <= 0:
             raise ValueError("n_perm_4_zero_pavlues must be > 0.")
         floor = 1.0 / float(n_perm_4_zero_pavlues)
+        if not nonzero.empty:
+            floor = min(floor, nonzero.min() / 2.0)
     else:
         nonzero = series[series > 0]
         if nonzero.empty:
@@ -55,8 +57,75 @@ def _apply_pvalue_zero_floor(
             )
         floor = nonzero.min() / 2.0
     df = df.copy()
+    if floor <= 0 or not np.isfinite(floor):
+        raise ValueError("The display zero floor is not representable as a positive finite float.")
     df[pvalue_col] = series.mask(zero_mask, floor)
     return df
+
+
+def _dotplot_prepared(df, term_label_char_limit, term_label_col, ordered_terms_list,
+                      pvalue_col, n_perm_4_zero_pavlues, options):
+    """Select raw probabilities, then render scores and shorten ticks only."""
+    nominal = ('pval', 'P-value', 'NOM p-val')
+    adjusted = ('fdr', 'FDR q-val', 'Adjusted P-value')
+    requested = options.get('column', pvalue_col)
+    family = nominal if requested in nominal else adjusted if requested in adjusted else ()
+    if family:
+        available = [name for name in (requested, *family) if name in df.columns]
+        if not available:
+            raise ValueError(f"Requested probability column '{requested}' is unavailable.")
+        values = pd.to_numeric(df[available[0]], errors='raise')
+        for name in available[1:]:
+            values = values.fillna(pd.to_numeric(df[name], errors='raise'))
+        df[requested] = values
+    elif requested not in df.columns:
+        raise ValueError(f"Requested column '{requested}' is unavailable.")
+    df = _add_gseapy_aliases(df)
+    y_col = term_label_col or options.get('y', 'Term')
+    options['y'] = y_col
+    if ordered_terms_list is not None:
+        ordered = [str(term) for term in ordered_terms_list if str(term) in set(df[y_col].astype(str))]
+        if not ordered:
+            raise ValueError('ordered_terms_list had no matches in the table.')
+        df = df[df[y_col].astype(str).isin(ordered)].copy()
+        options.setdefault('y_order', ordered)
+        options.setdefault('top_term', len(ordered))
+    options.setdefault('top_term', 15)
+    options.setdefault('cutoff', 1.0)
+    if family or 'column' not in options:
+        values = pd.to_numeric(df[requested], errors='raise')
+        invalid = values.notna() & (~np.isfinite(values) | (values < 0) | (values > 1))
+        if invalid.any():
+            raise ValueError(f"{requested} must contain probabilities in [0, 1] or missing values.")
+        df[requested] = values
+        df = df.loc[values <= options['cutoff']].copy()
+        if df.empty:
+            raise ValueError(f"No enrichment terms meet cutoff={options['cutoff']} for {requested}.")
+        n_terms = int(options['top_term'])
+        x = options.get('x')
+        if x is not None and x in df and not pd.to_numeric(df[x], errors='coerce').notna().all():
+            df = pd.concat([group.sort_values(requested, kind='stable').head(n_terms)
+                            for _, group in df.groupby(x)], ignore_index=True)
+        else:
+            df = df.sort_values(requested, kind='stable').head(n_terms)
+        display = _apply_pvalue_zero_floor(df, requested, n_perm_4_zero_pavlues)
+        # Pretransform to avoid GSEApy clipping subnormal probabilities or
+        # reapplying the statistical cutoff to a display-only replacement.
+        display_column = f'-log10({requested})'
+        df[display_column] = -np.log10(display[requested])
+        options['column'] = display_column
+        options['cutoff'] = np.inf
+        options['top_term'] = len(df)
+    else:
+        options['column'] = requested
+    output = options.pop('ofname', None)
+    ax = gp.dotplot(df, **options)
+    if ax is not None and term_label_char_limit is not None:
+        ax.set_yticks(ax.get_yticks(), [tick.get_text()[:int(term_label_char_limit)] for tick in ax.get_yticklabels()])
+    if output is not None and ax is not None:
+        ax.figure.savefig(output, bbox_inches='tight', dpi=300)
+        return None
+    return ax
 
 
 def load_gseapy_table(
@@ -111,48 +180,8 @@ def dotplot_from_table(
         df = table_path.copy()
     else:
         df = load_gseapy_table(table_path, sep=sep)
-    df = _add_gseapy_aliases(df)
-    df = _apply_pvalue_zero_floor(df, pvalue_col, n_perm_4_zero_pavlues)
-    if pvalue_col == "fdr":
-        if "FDR q-val" in df.columns:
-            df["FDR q-val"] = df["fdr"]
-        if "Adjusted P-value" in df.columns:
-            df["Adjusted P-value"] = df["fdr"]
-    elif pvalue_col == "FDR q-val" and "Adjusted P-value" in df.columns:
-        df["Adjusted P-value"] = df["FDR q-val"]
-    y_col = term_label_col or dotplot_kwargs.get("y", "Term")
-    ordered_terms = None
-    if ordered_terms_list is not None:
-        if y_col not in df.columns:
-            raise ValueError(f"ordered_terms_list requires '{y_col}' column.")
-        ordered_terms = [str(term) for term in ordered_terms_list]
-        present_terms = set(df[y_col].astype(str))
-        ordered_terms = [term for term in ordered_terms if term in present_terms]
-        if not ordered_terms:
-            raise ValueError("ordered_terms_list had no matches in the table.")
-        df = df[df[y_col].astype(str).isin(ordered_terms)]
-    if term_label_char_limit is not None and y_col in df.columns:
-        df[y_col] = df[y_col].astype(str).str.slice(0, int(term_label_char_limit))
-        if ordered_terms is not None:
-            truncated = []
-            seen = set()
-            limit = int(term_label_char_limit)
-            for term in ordered_terms:
-                tval = str(term)[:limit]
-                if tval not in seen:
-                    truncated.append(tval)
-                    seen.add(tval)
-            ordered_terms = truncated
-    if ordered_terms is not None:
-        if "y_order" not in dotplot_kwargs:
-            dotplot_kwargs["y_order"] = ordered_terms
-        if "top_term" not in dotplot_kwargs:
-            dotplot_kwargs["top_term"] = len(ordered_terms)
-    if "column" not in dotplot_kwargs:
-        dotplot_kwargs["column"] = "FDR q-val" if "FDR q-val" in df.columns else pvalue_col
-    dotplot_kwargs.setdefault("top_term", 15)
-    dotplot_kwargs.setdefault("cutoff", 1.0)
-    return gp.dotplot(df, **dotplot_kwargs)
+    return _dotplot_prepared(df, term_label_char_limit, term_label_col, ordered_terms_list,
+                             pvalue_col, n_perm_4_zero_pavlues, dotplot_kwargs)
 
 
 def dotplot_from_tables(
@@ -174,57 +203,9 @@ def dotplot_from_tables(
         x_label=x_label,
         sep=sep,
     )
-    df = _add_gseapy_aliases(df)
-    df = _apply_pvalue_zero_floor(df, pvalue_col, n_perm_4_zero_pavlues)
-    if pvalue_col == "fdr":
-        if "FDR q-val" in df.columns:
-            df["FDR q-val"] = df["fdr"]
-        if "Adjusted P-value" in df.columns:
-            df["Adjusted P-value"] = df["fdr"]
-    elif pvalue_col == "FDR q-val" and "Adjusted P-value" in df.columns:
-        df["Adjusted P-value"] = df["FDR q-val"]
-    y_col = term_label_col or dotplot_kwargs.get("y", "Term")
-    ordered_terms = None
-    if ordered_terms_list is not None:
-        if y_col not in df.columns:
-            raise ValueError(f"ordered_terms_list requires '{y_col}' column.")
-        ordered_terms = [str(term) for term in ordered_terms_list]
-        present_terms = set(df[y_col].astype(str))
-        ordered_terms = [term for term in ordered_terms if term in present_terms]
-        if not ordered_terms:
-            raise ValueError("ordered_terms_list had no matches in the tables.")
-        df = df[df[y_col].astype(str).isin(ordered_terms)]
-    if term_label_char_limit is not None and y_col in df.columns:
-        df[y_col] = df[y_col].astype(str).str.slice(0, int(term_label_char_limit))
-        if ordered_terms is not None:
-            truncated = []
-            seen = set()
-            limit = int(term_label_char_limit)
-            for term in ordered_terms:
-                tval = str(term)[:limit]
-                if tval not in seen:
-                    truncated.append(tval)
-                    seen.add(tval)
-            ordered_terms = truncated
-    if ordered_terms is not None:
-        if "y_order" not in dotplot_kwargs:
-            dotplot_kwargs["y_order"] = ordered_terms
-        if "top_term" not in dotplot_kwargs:
-            dotplot_kwargs["top_term"] = len(ordered_terms)
-    if "column" not in dotplot_kwargs:
-        dotplot_kwargs["column"] = "FDR q-val" if "FDR q-val" in df.columns else pvalue_col
-    dotplot_kwargs.setdefault("top_term", 15)
-    dotplot_kwargs.setdefault("cutoff", 1.0)
     dotplot_kwargs = {"x": x_label, **dotplot_kwargs}
-    return gp.dotplot(df, **dotplot_kwargs)
-
-
-__all__ = [
-    "load_gseapy_table",
-    "load_gseapy_tables",
-    "dotplot_from_table",
-    "dotplot_from_tables",
-]
+    return _dotplot_prepared(df, term_label_char_limit, term_label_col, ordered_terms_list,
+                             pvalue_col, n_perm_4_zero_pavlues, dotplot_kwargs)
 
 
 def _lollipop_legend(ax, entries, settings, defaults):

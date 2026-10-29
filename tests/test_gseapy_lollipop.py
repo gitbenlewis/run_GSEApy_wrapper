@@ -175,7 +175,7 @@ class LollipopTests(unittest.TestCase):
             result = plots.dotplot_from_table(table, ordered_terms_list=["B", "A"], figsize=(3, 4))
         self.assertEqual(result, "sentinel")
         self.assertEqual(draw.call_args.kwargs["y_order"], ["B", "A"])
-        self.assertEqual(draw.call_args.kwargs["column"], "FDR q-val")
+        self.assertEqual(draw.call_args.kwargs["column"], "-log10(fdr)")
         self.assertEqual(draw.call_args.kwargs["top_term"], 2)
         self.assertEqual(draw.call_args.kwargs["figsize"], (3, 4))
 

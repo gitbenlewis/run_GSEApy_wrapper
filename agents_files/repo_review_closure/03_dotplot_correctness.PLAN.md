@@ -1,12 +1,12 @@
 # Existing dotplot correctness
 
-1. **Status:** Planned, not implemented. Created 2026-10-28. Findings #11, #12, #19 in [original review](../sep2026_repo_review.md). Repository: run_GSEApy_wrapper. Oversight: current primary agent; implementation owner unassigned until dispatch.
+1. **Status:** Complete and independently accepted locally 2026-10-28; publication authorized on 2026-10-29. Findings #11, #12, #19 in [original review](../sep2026_repo_review.md). Repository: run_GSEApy_wrapper. Implementation: `/root/plan01_implementation`; independent acceptance: `/root`; ownership returned to oversight.
 
 2. **Objective and scope:** Resolve the linked findings through evidence-backed corrections. Preserve public signatures, valid numerical behavior and unrelated working-tree changes. No new dependencies or scientific assumptions without explicit approval.
 
 3. **Proposed diff:** _gseapy_dot_plots.py; tests/test_gseapy_dotplots.py; docs/dotplots.md. Add only focused regressions and documentation needed for these findings. Reinspect current files before implementation because review line numbers are historical.
 
-4. **Dependencies and decision gates:** Existing zero-floor compatibility and conflicting explicit column precedence must be documented before changes. New lollipop behavior does not close these findings.
+4. **Approved policy and precedence:** User approved original probabilities for selection/order and display-only zero replacement by min(1/N, smallest positive probability / 2), retaining 1/N for all-zero data. With N=None, retain the existing all-zero error. Explicit column takes precedence over pvalue_col; preserve the chosen nominal or adjusted measure. Shorten tick labels only, retaining full term identities. New lollipop behavior does not close these findings.
 
 5. **Execution step 1:** Freeze current signatures and ordinary valid calls; add regressions for zero FDR ordering, opposing nominal-P/FDR rankings, raw aliases, numeric strings and colliding truncated labels.
 
@@ -30,3 +30,8 @@
 
 14. **2026-10-28 — Created:** Mapped original findings to ordered work, files, policy gates and verification. Existing lollipop work remains uncommitted and must be preserved. No implementation or fresh reproduction performed for this phase. Next: revalidate findings and resolve the stated decisions before dispatch.
 
+15. **2026-10-28 — Approved and dispatched:** User approve_3 resolves the zero-display policy gate. Read current source and confirmed early zero replacement, FDR substitution and truncated categorical identifiers. Reused implementation agent with ownership of plotting module, focused tests and dotplot documentation; preserve lollipop and all unrelated edits. Oversight owns plan/roadmap and independent numerical/visual acceptance. No new dependencies or publication authorized.
+
+16. **2026-10-28 — Independent acceptance:** Reviewed full source diff, seven focused tests and docs/dotplots.md. Independently ran `MPLCONFIGDIR=/tmp/gseapy-review-mpl MPLBACKEND=Agg /Users/ben/miniconda3/envs/not_base/bin/python -m unittest discover -s tests`: all 54 tests passed. Compilation passed at implementation handoff; independent git diff --check passed. Compared ordinary positive-FDR scatter coordinates, colors and sizes to HEAD: equal; raw GSEApy default aliases work. Visually reviewed /tmp/plan03-dotplots/before.png, after.png and allzero-multiple.png: corrected nominal selection, separated colliding shortened labels, correct zero display. One obsolete mock expectation in the lollipop test now expects the prepared display column; lollipop implementation unchanged. Selected raw probabilities drive cutoff and top terms; direct -log10 display transformation avoids GSEApy subnormal clipping. Floor scope is the complete selected rendering table. Unrepresentable positive floors raise explicitly. Function signatures, caller inputs and save/return contracts preserved. Runtime remains GSEApy 1.1.13; pinned 1.1.11, private datasets and full biological reruns not tested. No commit/push or dependencies. Next: Plan04 reference-release decision.
+
+17. **2026-10-29 — Publication authorized:** User approved separate commits and push for Plans02–04. Final suite passed 62 tests; diff and blob-size checks passed. This phase is included in its own implementation commit; see Git history for commit identity. No further scientific policy changes or live analyses.
