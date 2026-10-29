@@ -2,6 +2,12 @@
 
 Wrapper to run GSEApy with reproducible FDR.
 
+## Plot saved enrichment results
+
+The public `lollipop_from_table(...)` API draws signed NES lollipops with an
+optional aligned significance-bar panel, labels, and fraction-based circle areas.
+See [the complete examples and scientific display rules](docs/lollipop.md).
+
 ## Set up
 ### Make the conda environment
 ```bash

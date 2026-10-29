@@ -7,6 +7,7 @@ from ._gseapy_dot_plots import (
     load_gseapy_tables,
     dotplot_from_table,
     dotplot_from_tables,
+    lollipop_from_table,
 )
 
 from ._gseapy_pre_rank_wrap import (

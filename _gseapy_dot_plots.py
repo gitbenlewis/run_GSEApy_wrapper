@@ -5,6 +5,10 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Iterable, Optional, Sequence
 
+import textwrap
+import warnings
+
+import numpy as np
 import gseapy as gp
 import pandas as pd
 
@@ -220,4 +224,293 @@ __all__ = [
     "load_gseapy_tables",
     "dotplot_from_table",
     "dotplot_from_tables",
+]
+
+
+def _lollipop_legend(ax, entries, settings, defaults):
+    """Keep independent legends alive and preserve explicit entry ordering."""
+    from matplotlib.lines import Line2D
+
+    options = {**defaults, **settings}
+    if not options.pop("visible", True) or not entries:
+        return
+    order = options.pop("order", [key for key, _, _ in entries])
+    available = {key: (handle, label) for key, handle, label in entries}
+    if len(order) != len(set(order)) or any(key not in available for key in order):
+        raise ValueError("Legend order must contain distinct available entry keys.")
+    marker_size = options.pop("marker_size", None)
+    handles, labels = [], []
+    for key in order:
+        handle, label = available[key]
+        if marker_size is not None and isinstance(handle, Line2D):
+            handle.set_markersize(marker_size)
+        handles.append(handle)
+        labels.append(label)
+    if handles:
+        previous = ax.get_legend()
+        if previous is not None:
+            ax.add_artist(previous)
+        ax.legend(handles, labels, **options)
+
+
+def lollipop_from_table(
+    table_path: str | Path | pd.DataFrame,
+    sep: str = ",",
+    term_id_col: str = "Term",
+    term_label_col: Optional[str] = None,
+    ordered_terms_list: Optional[Sequence[str]] = None,
+    term_label_char_limit: Optional[int] = None,
+    nes_col: str = "NES",
+    pvalue_col: str = "Adjusted P-value",
+    term_colors: Optional[dict] = None,
+    fraction_col: Optional[str] = None,
+    significance_panel: bool = False,
+    significance_thresholds: Optional[dict[float, str]] = None,
+    zero_pvalue_floor: Optional[float] = None,
+    ax=None,
+    figsize=None,
+    ofname: Optional[str | Path] = None,
+    marker_kwargs: Optional[dict] = None,
+    stem_kwargs: Optional[dict] = None,
+    text_kwargs: Optional[dict] = None,
+    panel_kwargs: Optional[dict] = None,
+    legend_kwargs: Optional[dict] = None,
+):
+    """Plot signed NES values without recalculating enrichment statistics.
+
+    Returns one Axes, or (NES Axes, probability Axes) when significance_panel
+    is true. Input order is preserved unless ordered_terms_list supplies IDs.
+    Missing requested IDs warn; duplicate IDs are ambiguous and raise.
+
+    text_kwargs['significance'] is 'none', 'numeric', or 'symbols'. Symbols
+    require significance_thresholds={upper_probability: symbol}; the smallest
+    matching inclusive threshold wins. Missing probabilities are 'NA'. Bars
+    for reported zeros require zero_pvalue_floor, a display convention only.
+
+    marker_kwargs['size'] is constant area in points squared (default 64).
+    With fraction_col, supply 'fraction_scale': area = fraction * scale.
+    'reference_fraction' optionally draws an outline behind each marker.
+    legend_kwargs has independent 'size', 'significance', and 'color' dictionaries.
+    Full styling keys and examples are documented in docs/lollipop.md.
+    """
+    import matplotlib.pyplot as plt
+    from matplotlib.axes import Axes
+    from matplotlib.lines import Line2D
+
+    df = table_path.copy() if isinstance(table_path, pd.DataFrame) else load_gseapy_table(table_path, sep=sep)
+    df = _add_gseapy_aliases(df)
+    marker = dict(marker_kwargs or {})
+    stem = {"linewidths": 1.8, **(stem_kwargs or {})}
+    text = dict(text_kwargs or {})
+    panel = dict(panel_kwargs or {})
+    legends = dict(legend_kwargs or {})
+    if set(legends) - {"size", "significance", "color"}:
+        raise ValueError("legend_kwargs keys must be size, significance, or color.")
+    show_nes = text.pop("nes_labels", False)
+    annotation = text.pop("significance", "none")
+    if annotation not in {"none", "numeric", "symbols"}:
+        raise ValueError("text_kwargs['significance'] must be none, numeric, or symbols.")
+    nes_format = text.pop("nes_format", ".2f")
+    pvalue_format = text.pop("pvalue_format", ".3g")
+    offset = text.pop("offset", 7)
+    wrap_width = text.pop("wrap_width", 38)
+    text = {"fontsize": 9, **text}
+    needed = [term_id_col, term_label_col or term_id_col, nes_col]
+    use_probability = significance_panel or annotation != "none"
+    if use_probability:
+        needed.append(pvalue_col)
+    if fraction_col is not None:
+        needed.append(fraction_col)
+    missing_columns = [name for name in dict.fromkeys(needed) if name not in df.columns]
+    if missing_columns:
+        raise ValueError(f"Required columns not found: {missing_columns}. No nominal-P fallback is used.")
+    if df[term_id_col].isna().any():
+        raise ValueError(f"{term_id_col} contains missing term IDs.")
+    ids = df[term_id_col].astype(str)
+    if ids.str.strip().eq("").any() or ids.duplicated().any():
+        raise ValueError(f"{term_id_col} must contain unique, nonblank IDs; use TermCollection_Term for multiple collections.")
+    df.index = ids
+    if ordered_terms_list is not None:
+        requested = [str(value) for value in ordered_terms_list]
+        if len(requested) != len(set(requested)):
+            raise ValueError("ordered_terms_list contains duplicate IDs.")
+        absent = [value for value in requested if value not in df.index]
+        if absent:
+            warnings.warn(f"Requested term IDs not found: {absent}", UserWarning, stacklevel=2)
+        df = df.loc[[value for value in requested if value in df.index]]
+    if df.empty:
+        raise ValueError("No terms remain to plot.")
+    ids = df.index.tolist()
+    nes = pd.to_numeric(df[nes_col], errors="raise").to_numpy(dtype=float, na_value=np.nan)
+    if not np.isfinite(nes).all():
+        raise ValueError(f"{nes_col} must contain finite NES values.")
+    labels = df[term_label_col or term_id_col].fillna("").astype(str).tolist()
+    if term_label_char_limit is not None:
+        if term_label_char_limit < 1:
+            raise ValueError("term_label_char_limit must be positive.")
+        labels = [label[:term_label_char_limit] for label in labels]
+    if wrap_width is not None:
+        labels = [textwrap.fill(label, width=wrap_width) for label in labels]
+    color_default = marker.pop("color", "#4477aa")
+    colors = [(term_colors or {}).get(term, color_default) for term in ids]
+    if "s" in marker or "c" in marker:
+        raise ValueError("Use marker_kwargs['size'] and term_colors instead of s or c.")
+    size = marker.pop("size", 64)
+    scale = marker.pop("fraction_scale", None)
+    reference = marker.pop("reference_fraction", None)
+    size_values = marker.pop("legend_fractions", [0.25, 0.5, 1.0])
+    if fraction_col is not None:
+        if scale is None or not np.isfinite(scale) or scale <= 0:
+            raise ValueError("fraction_col requires a positive finite marker_kwargs['fraction_scale'].")
+        fractions = pd.to_numeric(df[fraction_col], errors="raise").to_numpy(dtype=float, na_value=np.nan)
+        if not np.isfinite(fractions).all() or ((fractions < 0) | (fractions > 1)).any():
+            raise ValueError(f"{fraction_col} must contain finite fractions in [0, 1].")
+        if any(not np.isfinite(value) or value < 0 or value > 1 for value in size_values):
+            raise ValueError("legend_fractions must be finite fractions in [0, 1].")
+        sizes = fractions * scale
+    else:
+        if not np.isscalar(size) or not np.isfinite(size) or size <= 0:
+            raise ValueError("marker_kwargs['size'] must be a positive finite scalar area.")
+        if reference is not None:
+            raise ValueError("reference_fraction requires fraction_col.")
+        sizes = np.full(len(df), size)
+    if reference is not None and (not np.isfinite(reference) or reference < 0 or reference > 1):
+        raise ValueError("reference_fraction must be in [0, 1].")
+    probabilities = np.full(len(df), np.nan)
+    if use_probability:
+        probabilities = pd.to_numeric(df[pvalue_col], errors="raise").to_numpy(dtype=float, na_value=np.nan)
+        available = ~np.isnan(probabilities)
+        if not np.isfinite(probabilities[available]).all() or ((probabilities[available] < 0) | (probabilities[available] > 1)).any():
+            raise ValueError(f"{pvalue_col} must contain probabilities in [0, 1] or missing values.")
+    thresholds = []
+    if annotation == "symbols":
+        if not significance_thresholds:
+            raise ValueError("Symbol annotations require significance_thresholds={upper_probability: symbol}.")
+        thresholds = sorted(significance_thresholds.items())
+        if any(not np.isfinite(value) or value < 0 or value > 1 for value, _ in thresholds):
+            raise ValueError("Significance thresholds must be finite probabilities in [0, 1].")
+    display_probability = probabilities.copy()
+    zero_mask = probabilities == 0
+    if significance_panel and zero_mask.any():
+        if zero_pvalue_floor is None or not np.isfinite(zero_pvalue_floor) or not 0 < zero_pvalue_floor < 1:
+            raise ValueError("Zero probabilities require an explicit zero_pvalue_floor in (0, 1) for finite bars.")
+        positive = probabilities[probabilities > 0]
+        if positive.size and zero_pvalue_floor > positive.min():
+            raise ValueError("zero_pvalue_floor must not exceed the smallest positive selected probability.")
+        display_probability[zero_mask] = zero_pvalue_floor
+
+    title = panel.pop("title", None)
+    nes_xlabel = panel.pop("nes_xlabel", "Normalized enrichment score (NES)")
+    probability_xlabel = panel.pop("significance_xlabel", f"−log10({pvalue_col})")
+    bar_height = panel.pop("bar_height", 0.55)
+    width_ratios = panel.pop("width_ratios", (1.2, 1))
+    wspace = panel.pop("wspace", 0.12)
+    xmargin = panel.pop("xmargin", 0.25 if show_nes or annotation != "none" else 0.08)
+    zero_line = {"color": "0.5", "linewidth": 0.8, "zorder": 0, **panel.pop("zero_line_kwargs", {})}
+    if panel:
+        raise ValueError(f"Unknown panel_kwargs: {sorted(panel)}")
+    if ax is None:
+        height = max(2.4, 0.48 * sum(max(1, label.count('\n') + 1) for label in labels) + 1.4)
+        fig, axes = plt.subplots(
+            1, 2 if significance_panel else 1,
+            figsize=figsize or ((10 if significance_panel else 7), height),
+            layout="constrained",
+            gridspec_kw={"width_ratios": width_ratios, "wspace": wspace} if significance_panel else None,
+        )
+        nes_ax, probability_ax = axes if significance_panel else (axes, None)
+    elif significance_panel:
+        if isinstance(ax, Axes) or len(ax) != 2 or not all(isinstance(item, Axes) for item in ax):
+            raise ValueError("significance_panel=True requires two Axes from the same figure.")
+        nes_ax, probability_ax = ax
+        if nes_ax is probability_ax or nes_ax.figure is not probability_ax.figure:
+            raise ValueError("Provide two distinct Axes from the same figure.")
+        fig = nes_ax.figure
+    else:
+        if not isinstance(ax, Axes):
+            raise ValueError("Single-panel plotting requires one Axes.")
+        nes_ax, probability_ax, fig = ax, None, ax.figure
+    y = np.arange(len(df))
+    nes_ax.hlines(y, 0, nes, colors=colors, **stem)
+    nes_ax.axvline(0, **zero_line)
+    if reference is not None:
+        nes_ax.scatter(nes, y, s=reference * scale, facecolors="none", edgecolors=colors, linewidths=0.8, zorder=2)
+    nes_ax.scatter(nes, y, s=sizes, c=colors, **{"zorder": 3, **marker})
+    nes_ax.set_yticks(y, labels)
+    nes_ax.set_xlabel(nes_xlabel + (f"\nAnnotations: {pvalue_col}" if use_probability and not significance_panel else ""))
+    if title is not None:
+        nes_ax.set_title(title)
+    nes_ax.margins(x=xmargin)
+    if significance_panel:
+        available = np.isfinite(display_probability)
+        bar_values = -np.log10(display_probability[available])
+        probability_ax.barh(y[available], bar_values, height=bar_height,
+                            color=[color for color, keep in zip(colors, available) if keep])
+        probability_ax.set_yticks(y)
+        probability_ax.tick_params(axis="y", left=False, labelleft=False)
+        probability_ax.set_xlim(left=0)
+        probability_ax.margins(x=max(xmargin, 0.15))
+        if zero_mask.any():
+            probability_xlabel += f"\nReported zeros drawn at {zero_pvalue_floor:g} (display only)"
+        probability_ax.set_xlabel(probability_xlabel)
+    for target in (nes_ax, probability_ax):
+        if target is not None:
+            target.set_ylim(len(df) - 0.5, -0.5)
+            target.spines[["top", "right"]].set_visible(False)
+    for row, (value, probability) in enumerate(zip(nes, probabilities)):
+        sign = 1 if value >= 0 else -1
+        if show_nes:
+            # Offset from the circle edge, including an optional reference outline.
+            radius = np.sqrt(max(sizes[row], reference * scale if reference is not None else 0)) / 2
+            nes_ax.annotate(format(value, nes_format), (value, row), xytext=(sign * (offset + radius), 0),
+                            textcoords="offset points", ha="left" if sign > 0 else "right", va="center", **text)
+        if annotation != "none" or (significance_panel and np.isnan(probability)):
+            if np.isnan(probability):
+                label = "NA"
+            elif annotation == "numeric":
+                label = format(probability, pvalue_format)
+            elif annotation == "symbols":
+                label = next((str(symbol) for threshold, symbol in thresholds if probability <= threshold), "ns")
+            else:
+                continue
+            if significance_panel:
+                x = 0 if np.isnan(probability) else -np.log10(display_probability[row])
+                probability_ax.annotate(label, (x, row), xytext=(offset, 0), textcoords="offset points",
+                                        ha="left", va="center", **text)
+            else:
+                # Put probability annotations in a separate column to avoid NES-label overlap.
+                nes_ax.text(1.02, row, label, transform=nes_ax.get_yaxis_transform(), va="center", **text)
+
+    legend_ax = probability_ax or nes_ax
+    if fraction_col is not None:
+        from matplotlib.font_manager import FontProperties
+
+        entries = [(value, Line2D([], [], linestyle="none", marker="o", color=color_default,
+                                 markersize=np.sqrt(value * scale)), f"{value:g}") for value in size_values]
+        size_options = legends.get("size", {})
+        legend_fontsize = FontProperties(size=size_options.get("fontsize", plt.rcParams["legend.fontsize"])).get_size_in_points()
+        diameter = size_options.get("marker_size", np.sqrt(max(size_values, default=0) * scale))
+        diameter *= size_options.get("markerscale", plt.rcParams["legend.markerscale"])
+        _lollipop_legend(legend_ax, entries, legends.get("size", {}),
+                         {"title": fraction_col, "loc": "upper left", "bbox_to_anchor": (1.12, 0.5),
+                          "labelspacing": max(0.5, diameter / legend_fontsize), "frameon": False})
+    if annotation == "symbols":
+        entries = [(threshold, Line2D([], [], linestyle="none", marker="", color="none"),
+                    f"{symbol}: {pvalue_col} ≤ {threshold:g}") for threshold, symbol in thresholds]
+        _lollipop_legend(legend_ax, entries, legends.get("significance", {}),
+                         {"title": "Significance", "loc": "upper left", "bbox_to_anchor": (1.12, 1), "frameon": False})
+    color_entries = [(term, Line2D([], [], linestyle="none", marker="o", color=color), label)
+                     for term, color, label in zip(ids, colors, labels)]
+    _lollipop_legend(legend_ax, color_entries, legends.get("color", {}),
+                     {"visible": False, "title": "Terms", "loc": "upper left", "bbox_to_anchor": (1.02, 0), "frameon": False})
+    if ofname is not None:
+        fig.savefig(ofname, bbox_inches="tight")
+    return (nes_ax, probability_ax) if significance_panel else nes_ax
+
+
+__all__ = [
+    "load_gseapy_table",
+    "load_gseapy_tables",
+    "dotplot_from_table",
+    "dotplot_from_tables",
+    "lollipop_from_table",
 ]
